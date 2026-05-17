@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 1.672,
+    "emotion": "calm",
+    "detailed_reasoning": "The video begins with the speaker in a neutral state. Her facial expression is relaxed, her posture is still, and her tone of voice is measured and calm as she starts her line of questioning. She is setting a baseline for the monologue.",
+    "summary_reasoning": "Neutral expression, calm tone, still posture."
+  },
+  {
+    "timestamp": 8.058,
+    "emotion": "skeptical",
+    "detailed_reasoning": "The speaker's tone becomes more pointed and incredulous. She raises her eyebrows slightly and her voice lilts upwards on the word 'remarkable,' suggesting she is casting doubt on the idea. This rhetorical question is delivered with a skeptical air.",
+    "summary_reasoning": "Raised eyebrows, upward vocal inflection, pointed tone."
+  },
+  {
+    "timestamp": 18.348,
+    "emotion": "confrontational",
+    "detailed_reasoning": "The speaker's delivery shifts from rhetorical questions to a direct, challenging statement. Her gaze intensifies, and her tone becomes more assertive and prosecutorial, as if she is cross-examining someone. This indicates a move to a more confrontational emotion.",
+    "summary_reasoning": "Intense gaze, assertive tone, direct questioning."
+  },
+  {
+    "timestamp": 27.576,
+    "emotion": "disdainful",
+    "detailed_reasoning": "As she describes the specific act, her facial expression tightens, particularly around her mouth, and her eyes narrow slightly. Her voice carries a tone of contempt and disgust for the events she is recounting, signaling disdain.",
+    "summary_reasoning": "Tightened facial expression, narrowed eyes, contemptuous tone."
+  },
+  {
+    "timestamp": 33.400,
+    "emotion": "indignant",
+    "detailed_reasoning": "The speaker's voice becomes very firm and clear, emphasizing the gravity of the confession. Her eyes are wide and her expression is one of serious judgment and moral outrage at the inaction she is describing. This points to a strong sense of indignation.",
+    "summary_reasoning": "Firm voice, wide eyes, judgmental expression."
+  },
+  {
+    "timestamp": 40.590,
+    "emotion": "affirming",
+    "detailed_reasoning": "After stating that everyone behaved badly, she delivers the line 'He was right' with a sharp, definitive nod. Her tone is one of complete agreement and conviction, affirming the previous statement with a sense of grim certainty.",
+    "summary_reasoning": "Sharp nod, definitive tone, convicted expression."
+  },
+  {
+    "timestamp": 47.179,
+    "emotion": "resigned",
+    "detailed_reasoning": "The speaker's tone shifts to a more formal, almost legalistic quality. Her shoulders slump slightly and her expression becomes somber. She is stating a difficult legal reality, and her demeanor reflects a sense of resignation to this fact, despite its immorality.",
+    "summary_reasoning": "Formal tone, slumped shoulders, somber expression."
+  },
+  {
+    "timestamp": 53.588,
+    "emotion": "grave",
+    "detailed_reasoning": "For her final statement, her pace slows down and her voice drops in pitch. She looks directly at the camera with a heavy, serious expression. The final words are delivered with a sense of finality and gravity, emphasizing the somber conclusion of her argument.",
+    "summary_reasoning": "Slow pace, low pitch, serious expression, direct gaze."
+  }
+]

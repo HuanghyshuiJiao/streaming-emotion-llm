@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 4.719,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her talk with a very composed and calm demeanor. Her voice is steady, her pace is measured, and her facial expressions are neutral. She is setting a calm and informative tone as she introduces the distinction between a tantrum and an autistic meltdown.",
+    "summary_reasoning": "Composed demeanor, steady voice, neutral expression."
+  },
+  {
+    "timestamp": 10.168,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's tone shifts to become more serious and firm as she emphasizes the lack of control during a meltdown. Her facial expression tightens slightly, and she uses the words \"can't control\" and \"can't stop\" with conviction, highlighting the gravity of the experience she is describing.",
+    "summary_reasoning": "Firm tone, serious expression, emphatic words."
+  },
+  {
+    "timestamp": 13.693,
+    "emotion": "intense",
+    "detailed_reasoning": "To underscore the severity of a meltdown, the speaker makes a powerful comparison, stating, \"It is like having a seizure.\" Her delivery becomes more intense and deliberate. Her gaze is focused downward, but her tone is unwavering, conveying the profound and involuntary nature of the event.",
+    "summary_reasoning": "Intense tone, powerful analogy, focused gaze."
+  },
+  {
+    "timestamp": 24.928,
+    "emotion": "weary",
+    "detailed_reasoning": "Describing the aftermath of a meltdown, the speaker's energy visibly drops. Her voice becomes softer and lower in pitch as she says, \"I'm exhausted.\" Her body language is more subdued, and her facial expression reflects a deep sense of fatigue, accurately mirroring the content of her words.",
+    "summary_reasoning": "Softer voice, lower energy, tired expression."
+  },
+  {
+    "timestamp": 32.702,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker shifts to a more introspective and analytical tone as she explains the brain's recovery process. Using the metaphor of a computer \"rebooting,\" her pace becomes more deliberate and her expression thoughtful, as if she is describing a complex internal mechanism.",
+    "summary_reasoning": "Introspective tone, deliberate pace, computer metaphor."
+  },
+  {
+    "timestamp": 44.499,
+    "emotion": "declarative",
+    "detailed_reasoning": "Introducing a new core concept, the speaker's tone becomes strong and declarative. When she says autism is like \"living with everything on full blast,\" her voice is clear and confident. Her expression is focused, marking a shift from personal anecdote to a defining statement.",
+    "summary_reasoning": "Strong, clear voice, focused expression, defining statement."
+  },
+  {
+    "timestamp": 55.12,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker's mood lightens as she uses an anecdote from the film \"Spinal Tap.\" Her tone becomes more conversational and a slight smile appears on her face. She is using humor to illustrate her point, and her delivery conveys a sense of amusement and engagement with the audience.",
+    "summary_reasoning": "Lighter tone, slight smile, humorous anecdote."
+  }
+]

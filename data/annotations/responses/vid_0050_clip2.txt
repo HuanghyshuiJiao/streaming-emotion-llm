@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 5.319,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker is recounting a past event. His tone is measured and narrative, with a steady pace. His facial expression is neutral and he looks off-camera as if recalling a memory. The language used, \"a thought so wonderful,\" suggests a positive reflection, but the delivery remains calm and detached.",
+    "summary_reasoning": "Narrative tone, neutral expression, steady pace."
+  },
+  {
+    "timestamp": 11.068,
+    "emotion": "methodical",
+    "detailed_reasoning": "The speaker describes his actions in a step-by-step, procedural manner (\"grabbed a frying pan... put it on a gas stove\"). His voice maintains its calm, even tone without any emotional inflection, emphasizing the deliberate and planned nature of the actions being described.",
+    "summary_reasoning": "Procedural language, even tone."
+  },
+  {
+    "timestamp": 19.461,
+    "emotion": "anticipation",
+    "detailed_reasoning": "The description of the fat \"smoking and crackling\" builds a sense of anticipation for what is about to happen. While the speaker's tone is still relatively flat, there is a slight increase in the descriptive intensity of his words, and a subtle tension in his facial muscles, suggesting he is leading up to a significant moment in the story.",
+    "summary_reasoning": "Intense language, slight facial tension."
+  },
+  {
+    "timestamp": 28.435,
+    "emotion": "detached",
+    "detailed_reasoning": "The speaker describes a violent and graphic event – the snake's skin bursting off \"like the skin of a sausage.\" However, his vocal delivery remains completely flat and unemotional. This stark contrast between the gruesome content and the lack of emotional response indicates a strong sense of detachment from the event.",
+    "summary_reasoning": "Graphic words, flat vocal delivery."
+  },
+  {
+    "timestamp": 31.732,
+    "emotion": "morbid",
+    "detailed_reasoning": "The speaker says, \"It took so long for it to die,\" with a continued calm and factual tone. The focus on the drawn-out process of death, combined with the lack of any expressed pity or remorse, gives his narration a morbid and unsettling quality.",
+    "summary_reasoning": "Factual tone describing a prolonged death."
+  },
+  {
+    "timestamp": 38.993,
+    "emotion": "focused",
+    "detailed_reasoning": "The speaker's description becomes highly specific, focusing on the \"tiny little mouth just opening and closing.\" He gestures subtly with his hand, mimicking the action. His eyes are fixed, and his tone is low and intense, indicating a deep, focused memory of this specific detail of the animal's suffering.",
+    "summary_reasoning": "Specific details, intense tone, hand gesture."
+  },
+  {
+    "timestamp": 46.575,
+    "emotion": "pleased",
+    "detailed_reasoning": "After describing the snake's eyes exploding, the speaker concludes with, \"It's wonderful to watch.\" There is a very subtle, almost imperceptible upturn at the corner of his mouth, and his final words are delivered with a soft, breathy tone that conveys a sense of satisfaction and pleasure, which is deeply disturbing given the context.",
+    "summary_reasoning": "Positive words, soft tone, subtle smile."
+  }
+]

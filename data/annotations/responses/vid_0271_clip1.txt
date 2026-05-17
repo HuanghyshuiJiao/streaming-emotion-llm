@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 8.385,
+    "emotion": "annoyed",
+    "detailed_reasoning": "The speaker starts by directly addressing someone who is trying to compare their loss to hers. Her tone is firm, her words are confrontational ('Please don't sit there and try to say that you can understand'), and her facial expression is serious with a slight frown, indicating annoyance at the comparison being made.",
+    "summary_reasoning": "Firm tone, confrontational words, serious expression."
+  },
+  {
+    "timestamp": 16.237,
+    "emotion": "sad",
+    "detailed_reasoning": "After stating that comparing the loss of a father to other losses is 'completely different,' her tone softens, her pace slows, and her expression shifts to one of sadness. She is introducing the core of her pain, and the initial annoyance gives way to the underlying grief.",
+    "summary_reasoning": "Softened tone, slower pace, sad expression."
+  },
+  {
+    "timestamp": 26.013,
+    "emotion": "pained",
+    "detailed_reasoning": "The speaker quantifies her loss by comparing it to losing multiple grandparents and best friends. Her voice becomes more strained, her eyes start to well up, and her expression shows deep emotional pain as she tries to articulate the magnitude of her grief.",
+    "summary_reasoning": "Strained voice, watery eyes, pained expression."
+  },
+  {
+    "timestamp": 30.476,
+    "emotion": "grieving",
+    "detailed_reasoning": "When she says, 'He was literally the light of my life,' her voice breaks and becomes shaky. Her eyes are filled with tears and her face is contorted in an expression of deep grief and love for her father. The emotion has intensified from general sadness to active, profound grieving.",
+    "summary_reasoning": "Voice breaks, shaky tone, tearful eyes, grieving expression."
+  },
+  {
+    "timestamp": 40.856,
+    "emotion": "desperate",
+    "detailed_reasoning": "The speaker's voice becomes higher-pitched and more frantic. She expresses an inability to even explain her own pain, while someone else claims to understand it. Her eyes are wide and watery, and her facial expression conveys a sense of desperation and being overwhelmed by her own emotions.",
+    "summary_reasoning": "High-pitched, frantic voice, wide watery eyes, overwhelmed expression."
+  },
+  {
+    "timestamp": 46.627,
+    "emotion": "overwhelmed",
+    "detailed_reasoning": "Listing the feelings of 'pain,' 'sorrow,' 'emptiness,' and 'isolation,' her voice cracks repeatedly, and tears start to stream down her face. She is visibly overwhelmed by the sheer number and intensity of the negative emotions she is experiencing.",
+    "summary_reasoning": "Voice cracking, crying, listing painful emotions."
+  },
+  {
+    "timestamp": 49.553,
+    "emotion": "frustrated",
+    "detailed_reasoning": "Her tone shifts from pure sadness to one of clear frustration. She explicitly states she feels 'so frustrated' and describes throwing things. Her facial expression becomes more tense and angry, reflecting this shift from sorrow to a more agitated state.",
+    "summary_reasoning": "States 'frustrated', tense expression, describes aggressive action."
+  },
+  {
+    "timestamp": 55.043,
+    "emotion": "anguished",
+    "detailed_reasoning": "The speaker's voice rises in pitch and volume as she talks about the fact that her father is 'not coming back.' Her face is completely contorted with pain, she is openly crying, and her expression is one of pure anguish and the painful reality of her loss.",
+    "summary_reasoning": "Raised voice, crying, pained facial contortion."
+  }
+]

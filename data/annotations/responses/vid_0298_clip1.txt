@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp": 2.613,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker introduces herself and the performance piece. Her tone is clear and steady, her posture is upright, and her facial expression is neutral and open. This indicates a calm and composed state as she begins.",
+    "summary_reasoning": "Clear tone, neutral expression, composed posture."
+  },
+  {
+    "timestamp": 10.261,
+    "emotion": "nostalgic",
+    "detailed_reasoning": "The speaker's persona shifts as she begins the monologue. Her voice becomes softer and more reflective. Visually, she gazes off to the side with a soft expression, and a slight, wistful smile appears as she mentions her 'best friend.' This combination of cues suggests she is fondly recalling a past memory.",
+    "summary_reasoning": "Soft voice, wistful smile, distant gaze."
+  },
+  {
+    "timestamp": 16.807,
+    "emotion": "playful",
+    "detailed_reasoning": "The speaker's tone gains a slightly conspiratorial and mischievous lilt when she mentions 'the things we got up to.' Her facial expression changes to a knowing look, suggesting a memory of shared, harmless trouble, indicating a playful mood.",
+    "summary_reasoning": "Mischievous tone, knowing look."
+  },
+  {
+    "timestamp": 21.872,
+    "emotion": "suspicious",
+    "detailed_reasoning": "The mood shifts abruptly. The speaker's tone becomes more serious and questioning. She leans forward and looks directly at the audience, her brow slightly furrowed, as if challenging them. The question 'can't I?' is delivered with an undertone of doubt, suggesting suspicion.",
+    "summary_reasoning": "Serious tone, direct gaze, questioning words."
+  },
+  {
+    "timestamp": 25.875,
+    "emotion": "serious",
+    "detailed_reasoning": "After the moment of suspicion, the speaker's demeanor becomes more grounded and serious as she begins to tell the core of the story. Her voice is level and deliberate, and her expression is focused, indicating she is about to disclose something significant.",
+    "summary_reasoning": "Level tone, focused expression."
+  },
+  {
+    "timestamp": 30.053,
+    "emotion": "hurt",
+    "detailed_reasoning": "The speaker reveals the betrayal. Her voice takes on a pained quality, and her pace slows. Her eyes widen slightly and her mouth tightens as she says 'behind my back,' conveying a sense of shock and deep hurt from the discovery.",
+    "summary_reasoning": "Pained voice, wide eyes, tightened mouth."
+  },
+  {
+    "timestamp": 37.061,
+    "emotion": "angry",
+    "detailed_reasoning": "Recalling the confrontation, the speaker's emotion transitions from hurt to anger. Her tone becomes colder and sharper, especially on the word 'yes.' Her facial expression hardens, and she looks away, indicating the painful and infuriating nature of the memory.",
+    "summary_reasoning": "Cold tone, sharp words, hard expression."
+  },
+  {
+    "timestamp": 40.485,
+    "emotion": "pained",
+    "detailed_reasoning": "The speaker's anger gives way to a profound sense of pain. Her voice becomes softer and sounds almost choked with emotion. Her gaze is downcast, and her facial expression shows dejection as she describes her feelings being dismissed, clearly showing her deep emotional pain.",
+    "summary_reasoning": "Choked voice, downcast gaze, dejected expression."
+  },
+  {
+    "timestamp": 43.508,
+    "emotion": "anguished",
+    "detailed_reasoning": "The pain intensifies into anguish. The speaker looks up as if pleading, her eyes looking watery. Her voice trembles with emotion as she directly states how hurtful the experience was, showing a raw and vulnerable anguish.",
+    "summary_reasoning": "Trembling voice, watery eyes, pleading expression."
+  },
+  {
+    "timestamp": 47.552,
+    "emotion": "bitter",
+    "detailed_reasoning": "Reflecting on the deception, the speaker's anguish turns to bitterness. Her tone becomes sharp and almost sarcastic when contrasting the memory of laughing with the reality of being lied to. This juxtaposition highlights her feeling of bitter resentment.",
+    "summary_reasoning": "Sharp tone, sarcastic inflection."
+  },
+  {
+    "timestamp": 52.238,
+    "emotion": "enraged",
+    "detailed_reasoning": "The speaker's emotion escalates to a climax of rage. Her voice rises in volume and pitch as she repeatedly yells the words 'laughing and lying.' Her face is contorted with anger and despair, and her body is tense, showing an explosion of fury and pain.",
+    "summary_reasoning": "Yelling, rising pitch, tense body, contorted face."
+  }
+]

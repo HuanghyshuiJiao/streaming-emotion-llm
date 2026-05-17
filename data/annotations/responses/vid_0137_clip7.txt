@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his speech with a calm and reflective tone. He is telling a personal story about his girlfriend, and his pace is measured with a neutral to slightly soft facial expression, indicating a comfortable and composed state.",
+    "summary_reasoning": "Calm tone, reflective story."
+  },
+  {
+    "timestamp": 5.838,
+    "emotion": "grateful",
+    "detailed_reasoning": "The speaker's tone shifts to become more earnest and sincere as he says, \"I owe her forever.\" His facial expression is serious, and his words convey a deep sense of appreciation for the support he received. This marks a clear change from a narrative tone to one of profound gratitude.",
+    "summary_reasoning": "Earnest tone, appreciative words."
+  },
+  {
+    "timestamp": 9.922,
+    "emotion": "proud",
+    "detailed_reasoning": "After asking the rhetorical question, \"Why do you think I married her?\", the speaker's voice gets slightly louder and more assertive. He reveals she is in the stadium, and his facial expression shows a clear sense of pride and joy. He is happy to acknowledge her publicly.",
+    "summary_reasoning": "Assertive tone, joyful expression."
+  },
+  {
+    "timestamp": 14.308,
+    "emotion": "inspirational",
+    "detailed_reasoning": "The speaker transitions from his personal story to a broader message for the audience. His voice becomes louder and more projecting, and his gestures become more expansive. He is actively trying to engage the crowd and inspire them to celebrate their own support systems, shifting from a personal to a public, motivational role.",
+    "summary_reasoning": "Louder projecting voice, expansive gestures."
+  },
+  {
+    "timestamp": 34.27,
+    "emotion": "reflective",
+    "detailed_reasoning": "After a long period of applause from the audience, the speaker's tone becomes softer and more contemplative. He is looking back on the impact of the support he received, and his pace slows down, indicating a shift into a thoughtful and analytical state.",
+    "summary_reasoning": "Softer tone, slower pace."
+  },
+  {
+    "timestamp": 38.462,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker introduces an academic concept, quoting \"Professor Jane Dutton.\" His tone becomes more explanatory and slightly formal, as if he is teaching. While still connected to the emotional theme, the primary mode of expression here is to inform the audience about a specific psychological idea.",
+    "summary_reasoning": "Explanatory tone, academic reference."
+  },
+  {
+    "timestamp": 43.154,
+    "emotion": "sincere",
+    "detailed_reasoning": "The speaker's voice softens again as he explains the concept of seeing someone's potential. His tone becomes more intimate and his facial expression is earnest. This shift brings the focus back to the deep, personal impact of belief and trust, conveying a strong sense of sincerity.",
+    "summary_reasoning": "Softened voice, earnest expression."
+  },
+  {
+    "timestamp": 53.323,
+    "emotion": "emphatic",
+    "detailed_reasoning": "The speaker's tone becomes direct and firm as he addresses the graduates about the importance of their friends. He uses a pointed finger gesture towards the audience to emphasize his point. The shift in tone and body language makes his message feel like a direct, important piece of advice.",
+    "summary_reasoning": "Direct tone, pointed gesture."
+  }
+]

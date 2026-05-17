@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 2.314,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker begins by stating he is 'thinking about a story.' His gaze is directed downwards and away, his pace is slow and deliberate, and his tone is soft. This combination of verbal cues and body language indicates a state of contemplation or reflection as he gathers his thoughts before telling the story.",
+    "summary_reasoning": "Downward gaze, slow pace, reflective words."
+  },
+  {
+    "timestamp": 12.427,
+    "emotion": "narrative",
+    "detailed_reasoning": "The speaker transitions from introducing the idea to actively telling the story. His tone becomes more focused and objective, like a narrator recounting events. His facial expression is neutral, and his delivery is steady, aimed at clearly conveying the story's setup without injecting personal emotion yet.",
+    "summary_reasoning": "Objective tone, neutral expression, steady delivery."
+  },
+  {
+    "timestamp": 26.545,
+    "emotion": "serious",
+    "detailed_reasoning": "As the speaker describes the priest's inaction, his tone remains narrative but takes on a more serious quality. He uses a slight pause before describing how the priest 'crossed to the other side,' adding weight to the moment. The content itself—a religious figure ignoring someone in need—lends a serious and slightly grave mood to his delivery.",
+    "summary_reasoning": "Serious tone, narrative gravity, slight pause."
+  },
+  {
+    "timestamp": 39.399,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker describes the second failure to help, this time by a Levite. The repetition of the negative action deepens the serious mood into something more somber. His tone is low and steady, and his facial expression remains grave, reflecting the disheartening pattern emerging in the story.",
+    "summary_reasoning": "Repetitive negative events, grave expression, low tone."
+  },
+  {
+    "timestamp": 52.006,
+    "emotion": "hopeful",
+    "detailed_reasoning": "A clear shift occurs with the word 'But.' The speaker's tone lifts slightly, his pace quickens just a little, and his eyebrows raise. This change in vocal and facial cues signals a turn in the narrative from negative to positive, introducing a sense of hope that someone different is arriving.",
+    "summary_reasoning": "Lifting tone, raised eyebrows, narrative turning point."
+  },
+  {
+    "timestamp": 56.556,
+    "emotion": "approving",
+    "detailed_reasoning": "The speaker's face softens into a slight, gentle smile as he says 'a good man.' His tone becomes warm and affirming. This final expression conveys his approval and admiration for the Samaritan's character, concluding the story on a gentle and positive note.",
+    "summary_reasoning": "Gentle smile, warm tone, soft expression."
+  }
+]

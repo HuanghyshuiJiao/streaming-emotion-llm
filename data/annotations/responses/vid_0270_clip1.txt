@@ -1,0 +1,74 @@
+[
+  {
+    "timestamp": 1.092,
+    "emotion": "discontent",
+    "detailed_reasoning": "The speaker begins with a powerful, direct statement of dissatisfaction, 'I don't like being a woman.' Her facial expression is serious, with slightly furrowed brows and a firm set to her mouth. Her vocal tone is declarative and firm, lacking any hint of jest. This combination of verbal content, serious facial cues, and a firm tone clearly indicates a strong sense of discontent.",
+    "summary_reasoning": "Direct statement of dissatisfaction, serious expression, firm tone."
+  },
+  {
+    "timestamp": 5.857,
+    "emotion": "resentment",
+    "detailed_reasoning": "The speaker elaborates on her initial statement with a specific, evocative example: being 'banished to the kitchen.' Her tone becomes laced with resentment, particularly in the forceful emphasis on the word 'banished.' Her facial expression shifts to show contempt, with a slight sneer and a look away as if recalling a frustrating memory. This indicates she feels wronged and holds resentment for this experience.",
+    "summary_reasoning": "Resentful tone, contemptuous expression, forceful word emphasis."
+  },
+  {
+    "timestamp": 9.301,
+    "emotion": "contempt",
+    "detailed_reasoning": "The emotion intensifies to clear contempt as she describes talking about 'stupid things with stupid females.' Her vocal tone is dripping with disdain, emphasizing the word 'stupid' with a sharp, cutting quality. Her facial expression hardens, her eyes narrow, and she looks away in a gesture of dismissal, conveying a strong feeling of looking down on the people and conversations she's describing.",
+    "summary_reasoning": "Disdainful tone, harsh word delivery, hardened expression."
+  },
+  {
+    "timestamp": 17.569,
+    "emotion": "longing",
+    "detailed_reasoning": "A clear shift occurs as she describes where she'd rather be. Her tone changes from contemptuous to one of longing and desire. Her voice becomes a bit lighter and more aspirational. Visually, her gaze shifts upward and away, as if picturing a more enjoyable scene, and her expression softens, reflecting a wish to be part of the 'laughing and joking and drinking.' This contrast reveals a strong sense of longing.",
+    "summary_reasoning": "Wistful tone, aspirational voice, softened and distant gaze."
+  },
+  {
+    "timestamp": 22.495,
+    "emotion": "defiance",
+    "detailed_reasoning": "The speaker's emotion shifts to defiance as she directly confronts expectations, stating, 'I can't do the things that you ask of me.' Her tone becomes firm and resolute. Her posture is confrontational; she looks directly forward with her chin slightly raised, a classic non-verbal cue of defiance and refusal to submit to the demands she perceives.",
+    "summary_reasoning": "Defiant tone, direct gaze, raised chin."
+  },
+  {
+    "timestamp": 26.679,
+    "emotion": "disgust",
+    "detailed_reasoning": "As she specifies that she's not 'cut out for household chores,' her emotion evolves into clear disgust. This is evident in her vocal tone, which carries a quality of revulsion. Visually, she gives a slight, firm headshake, and her facial expression shows exasperation and distaste for the subject matter, signaling her deep-seated aversion.",
+    "summary_reasoning": "Disgusted tone, exasperated expression, headshake."
+  },
+  {
+    "timestamp": 34.451,
+    "emotion": "frustration",
+    "detailed_reasoning": "Her emotion escalates into intense frustration. She uses a rhetorical question and profanity ('Who gives a shit') to express her exasperation with what she sees as pointless tasks. Her voice rises in pitch and volume, and her facial expression is one of incredulity, with wide eyes and a tilted head, all indicating a high level of frustration with the perceived absurdity of these domestic expectations.",
+    "summary_reasoning": "Raised pitch and volume, profanity, incredulous expression."
+  },
+  {
+    "timestamp": 39.663,
+    "emotion": "exasperation",
+    "detailed_reasoning": "After listing her grievances about chores, her emotion culminates in pure exasperation. She states, 'It doesn't make sense,' with a tone of utter disbelief and finality. Her eyes are wide, and she makes a slight gesture with her hands, as if giving up on trying to understand the logic. This combination of verbal and non-verbal cues strongly signals her exasperated state of mind.",
+    "summary_reasoning": "Exasperated tone, gesture of giving up, wide-eyed disbelief."
+  },
+  {
+    "timestamp": 44.033,
+    "emotion": "impatient",
+    "detailed_reasoning": "The speaker's emotion shifts to impatience as she offers a curt solution: 'Hire someone.' Her tone is sharp, clipped, and commanding, not suggestive. Her facial expression is direct and no-nonsense. She's not debating the issue anymore; she's impatiently pushing for a resolution that gets the burden off of her, showing she's done discussing the matter.",
+    "summary_reasoning": "Sharp tone, clipped speech, commanding expression."
+  },
+  {
+    "timestamp": 48.122,
+    "emotion": "desperate",
+    "detailed_reasoning": "The speaker's impatience gives way to desperation. The phrase 'Anything to get the pressure off my back' is delivered with a strained, higher-pitched voice that reveals the stress she is under. Her eyes widen in a pleading manner, and her quickened speech pace suggests she feels overwhelmed and is desperate for relief from the burden she feels.",
+    "summary_reasoning": "Strained high-pitched voice, pleading eyes, feeling of being pressured."
+  },
+  {
+    "timestamp": 52.231,
+    "emotion": "vulnerable",
+    "detailed_reasoning": "Following her desperate outburst, there's a stark shift in her demeanor. Her tone softens dramatically, becoming gentle and pleading as she asks, '...don't I?' This question seeks validation and shows her vulnerability. Her facial expression also softens, losing its hardness and becoming open and questioning, revealing an underlying need for reassurance after her display of frustration.",
+    "summary_reasoning": "Soft pleading tone, softened facial expression, seeks validation."
+  },
+  {
+    "timestamp": 57.443,
+    "emotion": "defensive",
+    "detailed_reasoning": "In her final statement, the speaker becomes defensive. She lists negative traits—'lazy,' 'stupid,' 'incompetent'—and explicitly denies them, suggesting she is preemptively defending herself against these potential judgments. Her vocal tone has a slight quiver, and her facial expression is hurt and defensive, with furrowed brows and a slight headshake, reinforcing that she feels unfairly judged or fears she will be.",
+    "summary_reasoning": "Defensive tone, denying accusations, hurt expression."
+  }
+]

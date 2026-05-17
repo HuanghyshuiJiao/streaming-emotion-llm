@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 2.854,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker's facial expression is somber, with downturned lips and sad eyes. Her tone of voice is low and melancholic. The repetition of 'We shall rest' sounds like a lament rather than a hopeful statement, suggesting a deep sadness.",
+    "summary_reasoning": "Somber expression, low tone, sad words."
+  },
+  {
+    "timestamp": 8.3,
+    "emotion": "hopeful",
+    "detailed_reasoning": "The speaker's eyes close and she looks up slightly as she describes a beautiful vision of heaven. Her tone becomes slightly lighter and more aspirational, indicating a shift from sadness to a sense of hope or longing for a better future.",
+    "summary_reasoning": "Eyes closed, upward gaze, lighter tone."
+  },
+  {
+    "timestamp": 11.584,
+    "emotion": "pained",
+    "detailed_reasoning": "Her expression becomes more pained, with a furrowed brow and a slight grimace as she mentions 'all earth to the evil' and 'suffering.' Her voice carries a note of sorrow, reflecting the difficult subject matter.",
+    "summary_reasoning": "Pained expression, sorrowful tone, difficult words."
+  },
+  {
+    "timestamp": 19.072,
+    "emotion": "yearning",
+    "detailed_reasoning": "The speaker's voice becomes softer and more gentle as she describes a 'peaceful, gentle, and sweet' life. Her eyes are closed, suggesting she is lost in a dream-like state, yearning for this idyllic existence. The pace of her speech slows down, emphasizing the longing.",
+    "summary_reasoning": "Soft voice, closed eyes, slow pace."
+  },
+  {
+    "timestamp": 27.081,
+    "emotion": "determined",
+    "detailed_reasoning": "She opens her eyes and looks directly forward, her expression becoming more focused. Her declaration 'I have faith' is delivered with a newfound strength and determination in her voice, as if trying to convince both herself and the listener.",
+    "summary_reasoning": "Direct gaze, focused expression, determined tone."
+  },
+  {
+    "timestamp": 36.063,
+    "emotion": "compassionate",
+    "detailed_reasoning": "Her facial expression softens, and her tone becomes gentle and full of pity as she addresses 'Poor Uncle Vanya.' She acknowledges his suffering with empathy, which is evident in her soft, caring voice and sad eyes.",
+    "summary_reasoning": "Soft expression, gentle tone, empathetic words."
+  },
+  {
+    "timestamp": 41.52,
+    "emotion": "pleading",
+    "detailed_reasoning": "Her voice gains urgency and she leans forward slightly as she pleads, 'wait, Uncle Vanya, wait.' Her eyes are wide and her expression is imploring. This shows a desperate attempt to offer comfort and hope.",
+    "summary_reasoning": "Urgent tone, forward lean, imploring expression."
+  },
+  {
+    "timestamp": 45.933,
+    "emotion": "resigned",
+    "detailed_reasoning": "In the final repetition of 'We shall rest,' her voice is weary and her expression is one of exhaustion. While still trying to convey hope, the overwhelming feeling is one of resignation to a long-awaited, distant peace, reflecting a deep emotional fatigue.",
+    "summary_reasoning": "Weary voice, exhausted expression, final repetition."
+  }
+]

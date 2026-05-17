@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1.553,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker begins with a confident and assertive tone. His voice is clear and steady, and he uses direct address ('you have the power') to engage the audience and establish his credibility early on. His posture is upright and his gestures are controlled.",
+    "summary_reasoning": "Clear assertive tone, direct address, controlled gestures."
+  },
+  {
+    "timestamp": 4.517,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's tone shifts to become more serious and academic as he introduces the book 'Post Traumatic Slave Syndrome.' The introduction of a weighty, academic source material changes the mood from purely inspirational to evidence-based and grave. His facial expression becomes more focused and less relaxed.",
+    "summary_reasoning": "Serious topic, academic tone, focused expression."
+  },
+  {
+    "timestamp": 10.163,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "While explaining the concept of intergenerational trauma, the speaker's pace slows down. He speaks deliberately, enunciating each word carefully to ensure the audience understands the complex and heavy concept. This slow, measured delivery gives his words a thoughtful and contemplative quality.",
+    "summary_reasoning": "Slow pace, deliberate speech, complex topic."
+  },
+  {
+    "timestamp": 16.051,
+    "emotion": "persuasive",
+    "detailed_reasoning": "The speaker uses a rhetorical question structure ('if that is true... then imagine this') to guide the audience's thinking. His tone becomes more engaging and his eyebrows raise slightly, creating a persuasive appeal and inviting the audience to follow his logical leap.",
+    "summary_reasoning": "Rhetorical question, engaging tone, raised eyebrows."
+  },
+  {
+    "timestamp": 23.139,
+    "emotion": "hopeful",
+    "detailed_reasoning": "There is a distinct pivot in emotion here. After establishing the negative concept of inherited trauma, the speaker introduces 'healing and love.' His tone immediately lifts, becoming lighter and more optimistic. His facial expression softens, conveying a sense of hope and possibility.",
+    "summary_reasoning": "Uplifting tone, positive words, softer expression."
+  },
+  {
+    "timestamp": 31.692,
+    "emotion": "urgent",
+    "detailed_reasoning": "The speaker's tone becomes more intense and direct with the phrase 'it starts now with us.' He is making a call to action. The inclusion of 'now' adds a sense of immediacy, and his volume increases slightly, creating a feeling of urgency and shared responsibility.",
+    "summary_reasoning": "Intense direct tone, call to action, increased volume."
+  },
+  {
+    "timestamp": 37.821,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker's voice swells with emotion as he talks about providing boys with tools to thrive, not just survive. The emphasis on 'thriving' is delivered with significant vocal power and conviction, and his hand gestures become more expansive, clearly showing his passion for the subject.",
+    "summary_reasoning": "Vocal power, emotional conviction, expansive gestures."
+  },
+  {
+    "timestamp": 48.236,
+    "emotion": "introspective",
+    "detailed_reasoning": "The speaker signals a shift by lowering his volume and slowing his pace to ask a 'quick question.' His tone becomes more personal and intimate. The phrasing 'I want you to sit with this question' encourages the audience to turn inward, matching his own introspective and calm demeanor.",
+    "summary_reasoning": "Lowered volume, slower pace, personal tone."
+  },
+  {
+    "timestamp": 57.268,
+    "emotion": "confrontational",
+    "detailed_reasoning": "The final question, 'Have I turned off my empathy button?', is delivered with a slow, deliberate, and piercing tone. His voice is low and serious, creating a direct and unavoidable challenge to the listener. The way he holds the moment after the question is deeply confrontational, forcing self-examination.",
+    "summary_reasoning": "Piercing tone, direct challenge, serious delivery."
+  }
+]

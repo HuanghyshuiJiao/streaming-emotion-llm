@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 1.873,
+    "emotion": "happy",
+    "detailed_reasoning": "The speaker's tone is light and cheerful as she suggests meeting up for a football game, indicating a positive and happy emotional state. Her facial expression is relaxed and she has a slight smile.",
+    "summary_reasoning": "Cheerful tone, relaxed face, smiling."
+  },
+  {
+    "timestamp": 5.977,
+    "emotion": "happy",
+    "detailed_reasoning": "The speaker confirms her positive feelings with the phrase 'That would be great,' spoken with a bright and enthusiastic tone, reinforcing her happiness about the suggested plans. Her smile becomes more pronounced.",
+    "summary_reasoning": "Enthusiastic tone, smiling."
+  },
+  {
+    "timestamp": 10.803,
+    "emotion": "confused",
+    "detailed_reasoning": "After a long pause where she is presumably listening to the other person, her happy expression fades and she asks 'What?' in a slightly bewildered tone. Her eyebrows are slightly furrowed, indicating confusion about what she has just heard.",
+    "summary_reasoning": "Bewildered tone, furrowed eyebrows."
+  },
+  {
+    "timestamp": 14.587,
+    "emotion": "defensive",
+    "detailed_reasoning": "The speaker's tone shifts to become defensive as she responds 'Upset? No.' Her denial is quick and her facial expression becomes more guarded, suggesting she is trying to hide her true feelings.",
+    "summary_reasoning": "Defensive tone, guarded expression."
+  },
+  {
+    "timestamp": 20.433,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker's voice becomes shaky and her eyes appear watery. Her repeated denial of being upset, while showing clear signs of distress, indicates she is trying to suppress her sadness.",
+    "summary_reasoning": "Shaky voice, watery eyes."
+  },
+  {
+    "timestamp": 25.559,
+    "emotion": "distressed",
+    "detailed_reasoning": "Her denial of crying is contradicted by her increasingly shaky voice and the tears welling in her eyes. Her expression is pained, and her distress is becoming more evident despite her words.",
+    "summary_reasoning": "Shaky voice, crying, pained expression."
+  },
+  {
+    "timestamp": 32.482,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker's tone becomes more forceful and frustrated as she says, 'I don't want your pity.' This indicates a shift from pure sadness to a mixture of hurt and annoyance at the other person's reaction.",
+    "summary_reasoning": "Forceful tone, frustrated expression."
+  },
+  {
+    "timestamp": 37.13,
+    "emotion": "desperate",
+    "detailed_reasoning": "Her voice is filled with desperation as she pleads to be left alone. The repetition of this desire, coupled with her pained expression and trembling voice, highlights her overwhelming emotional state.",
+    "summary_reasoning": "Desperate tone, pained expression, trembling voice."
+  },
+  {
+    "timestamp": 47.968,
+    "emotion": "resigned",
+    "detailed_reasoning": "The speaker's tone softens and becomes more resigned as she states she never wanted to get close to anyone. This reflects a sense of defeat and sadness about her emotional state and relationships.",
+    "summary_reasoning": "Soft, resigned tone."
+  },
+  {
+    "timestamp": 57.203,
+    "emotion": "heartbroken",
+    "detailed_reasoning": "In the final line, her voice is quiet and filled with a profound sense of sadness and realization. Her expression is one of heartbreak as she concludes that she was more invested in the relationship, showing deep emotional pain.",
+    "summary_reasoning": "Quiet, sad tone, heartbroken expression."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 2.355,
+    "emotion": "anxious",
+    "detailed_reasoning": "The speaker begins with a serious and slightly pensive facial expression. Her tone of voice is low and somber. The content of her speech, describing her mother scrambling for the phone, introduces a sense of urgency and worry about someone's well-being. This combination of visual, vocal, and contextual cues points to an initial state of anxiety or concern.",
+    "summary_reasoning": "Serious expression, somber tone, worrying words."
+  },
+  {
+    "timestamp": 5.78,
+    "emotion": "concerned",
+    "detailed_reasoning": "The speaker's expression remains serious and her gaze is distant, looking upwards and to the side as if recalling a memory. Her tone stays consistently low and steady. The phrase \"She had to know he was okay\" explicitly states the reason for the anxiety, shifting the emotion to a more focused state of concern for the person in question.",
+    "summary_reasoning": "Distant gaze, low tone, explicit statement of worry."
+  },
+  {
+    "timestamp": 11.529,
+    "emotion": "devoted",
+    "detailed_reasoning": "There is a subtle shift in her expression as she talks about her own actions. A slight, almost imperceptible smile appears, and her eyes seem to soften. While the underlying concern is still present, the act of waiting up late for him introduces a feeling of personal commitment and care. Her tone remains soft, suggesting a tender, devoted feeling.",
+    "summary_reasoning": "Slight smile, soft eyes, gentle tone."
+  },
+  {
+    "timestamp": 16.737,
+    "emotion": "melancholy",
+    "detailed_reasoning": "After a long pause, the speaker says the single word \"Waiting.\" Her facial expression becomes more downcast, and her eyes look sad. The drawn-out delivery and the context of waiting every night create a feeling of prolonged sadness and longing, which can be best described as melancholy.",
+    "summary_reasoning": "Downcast expression, sad eyes, slow delivery."
+  },
+  {
+    "timestamp": 24.63,
+    "emotion": "expectant",
+    "detailed_reasoning": "As she describes seeing the person come home, her facial muscles relax slightly and her expression softens. There's a hint of a gentle smile forming as she recalls this moment. Her tone lifts slightly from the previous melancholy. This change indicates a shift from sad waiting to hopeful expectation and the beginning of relief.",
+    "summary_reasoning": "Relaxed face, slight smile, lighter tone."
+  },
+  {
+    "timestamp": 29.177,
+    "emotion": "relieved",
+    "detailed_reasoning": "The speaker delivers the final line, \"I could finally sleep,\" with her eyes closed and a slow exhale. Her entire facial expression softens completely, showing a release of tension. The word \"finally\" combined with the non-verbal cues of closing her eyes and the calming tone of her voice strongly conveys a deep sense of relief after a period of anxiety.",
+    "summary_reasoning": "Eyes closed, face softened, calming tone."
+  }
+]

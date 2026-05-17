@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1.253,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her story with a calm and neutral tone. Her facial expression is composed, and her speech has a steady, narrative pace as she sets the scene.",
+    "summary_reasoning": "Calm tone, neutral expression, steady pace."
+  },
+  {
+    "timestamp": 9.143,
+    "emotion": "regretful",
+    "detailed_reasoning": "The speaker's voice falters and she pauses on the word \"got...\". She looks away and her brow furrows slightly. The content of her speech shifts to a personal failing—being late for her daughter's swim meet—which introduces an emotion of regret or guilt.",
+    "summary_reasoning": "Voice falters, looks away, admits fault."
+  },
+  {
+    "timestamp": 19.557,
+    "emotion": "anxious",
+    "detailed_reasoning": "The narrative takes a sharp turn with the mention of an \"ambulance.\" The speaker's expression becomes serious and concerned, her eyebrows draw together, and her speaking pace slows down, indicating a shift to anxiety and worry as she recounts this alarming discovery.",
+    "summary_reasoning": "Mentions ambulance, serious expression, slower pace."
+  },
+  {
+    "timestamp": 26.592,
+    "emotion": "rationalizing",
+    "detailed_reasoning": "The speaker explains her thought process at the time, trying to find a logical, non-threatening reason for the ambulance's presence. Her tone becomes more matter-of-fact, and her facial muscles relax slightly, suggesting she is recounting a moment of self-reassurance.",
+    "summary_reasoning": "Explanatory tone, relaxed expression, recounting self-reassurance."
+  },
+  {
+    "timestamp": 32.077,
+    "emotion": "dread",
+    "detailed_reasoning": "The speaker's previous rationalization is shattered when she says, \"there was no one in the pool.\" Her voice drops in pitch, her eyes widen slightly, and her expression becomes tense. This marks the moment of realization that something is seriously wrong, creating a feeling of dread.",
+    "summary_reasoning": "Voice drops, eyes widen, tense expression."
+  },
+  {
+    "timestamp": 35.881,
+    "emotion": "distressed",
+    "detailed_reasoning": "The scene she is describing becomes explicitly emotional with the mention of a crying teacher and children. As she says this, her own face mirrors the emotion, her expression becoming pained and her voice filled with sadness, reflecting the distress of the memory.",
+    "summary_reasoning": "Describes crying, pained expression, sad voice."
+  },
+  {
+    "timestamp": 44.49,
+    "emotion": "sad",
+    "detailed_reasoning": "The word \"accident\" confirms the speaker's fears. Her voice becomes very soft and low, and her expression is one of deep sadness as she recounts receiving the devastating news from another parent.",
+    "summary_reasoning": "Hears \"accident\", soft and low voice, sad expression."
+  },
+  {
+    "timestamp": 46.533,
+    "emotion": "grieving",
+    "detailed_reasoning": "The speaker reveals that the victim was her daughter, Niamh. The personal and tragic nature of the event is now fully revealed. Her expression conveys deep grief, her eyes are downcast and filled with sorrow, and her voice is heavy with emotion.",
+    "summary_reasoning": "Names her daughter, downcast eyes, sorrowful voice."
+  },
+  {
+    "timestamp": 52.579,
+    "emotion": "pained",
+    "detailed_reasoning": "The speaker recounts the other mother's statement that her daughter would be \"all right.\" Her facial expression contorts with the memory of this moment of false hope. The strain in her face and the sad irony in her tone convey the deep pain associated with this specific part of the memory.",
+    "summary_reasoning": "Recounts false hope, pained facial expression, strained tone."
+  }
+]

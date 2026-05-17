@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his narrative in a calm and measured tone. His facial expressions are neutral, and his hand gestures are contained, suggesting he is setting up a story in a factual, narrative style. The context is the beginning of his explanation, so a calm, introductory demeanor is expected.",
+    "summary_reasoning": "Calm tone, neutral expression, narrative style."
+  },
+  {
+    "timestamp": 10.067,
+    "emotion": "convinced",
+    "detailed_reasoning": "The speaker's tone shifts to one of realization and conviction on the word \"realized.\" His pace is deliberate, and he makes a subtle, definitive hand gesture. Having described his analytical process, he is now stating his conclusion, and his voice and expression convey a sense of firm belief in that conclusion.",
+    "summary_reasoning": "Definitive tone, deliberate pace, concluding words."
+  },
+  {
+    "timestamp": 14.815,
+    "emotion": "conflicted",
+    "detailed_reasoning": "After stating his newfound conviction, the speaker's tone drops, and his pace slows down as he says, \"And it bothered me.\" He looks down slightly, and his expression becomes more somber. This indicates a shift to a more introspective and troubled state, reflecting on the personal conflict his discovery caused.",
+    "summary_reasoning": "Lower tone, slower pace, downward gaze."
+  },
+  {
+    "timestamp": 19.611,
+    "emotion": "passionate",
+    "detailed_reasoning": "There is a distinct shift in energy. The speaker's tone becomes brighter, higher-pitched, and more enthusiastic as he says he was \"delighted.\" His facial expression opens up, and he begins to use larger, more expressive hand gestures. This change reflects a move from his internal conflict to the positive excitement of his findings.",
+    "summary_reasoning": "Brighter tone, expressive gestures, energetic delivery."
+  },
+  {
+    "timestamp": 25.72,
+    "emotion": "assertive",
+    "detailed_reasoning": "The speaker's tone becomes firm and declarative as he says, \"We are not asked to believe this blindly.\" He uses a chopping hand motion for emphasis and makes strong eye contact. This is a direct, forceful statement meant to counter a potential assumption, hence the assertive and confident demeanor.",
+    "summary_reasoning": "Firm tone, emphatic gesture, declarative statement."
+  },
+  {
+    "timestamp": 32.97,
+    "emotion": "engaging",
+    "detailed_reasoning": "He shifts from making statements to asking a rhetorical question, \"Ever notice that?\" His tone becomes more conversational and his eyebrows raise, directly involving the audience in his thought process. This is a classic engagement technique to make his point more relatable.",
+    "summary_reasoning": "Conversational tone, rhetorical question, raised eyebrows."
+  },
+  {
+    "timestamp": 35.974,
+    "emotion": "emphatic",
+    "detailed_reasoning": "The speaker's tone becomes more pointed and forceful as he explains the reasoning behind Jesus's actions, quoting from scripture. He uses a pointed finger gesture to emphasize the evidential nature of his claim. His pace is deliberate to ensure the audience understands the weight of the evidence he is presenting.",
+    "summary_reasoning": "Forceful tone, pointed gesture, citing evidence."
+  },
+  {
+    "timestamp": 43.444,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker reaches the climax of his argument. His voice rises in volume and conviction, and his gestures become very expansive as he spreads his arms wide. This powerful, open body language, combined with the strong vocal delivery, conveys a deep passion and unwavering belief in the point he is making about the evidence of divinity.",
+    "summary_reasoning": "Louder voice, expansive gestures, intense expression."
+  },
+  {
+    "timestamp": 49.529,
+    "emotion": "focused",
+    "detailed_reasoning": "After the passionate peak, the speaker's demeanor shifts entirely. His voice calms, he looks down at the book on his lectern, and his body language becomes still. This is a transitional moment where he is preparing to read a passage, and his energy changes from outward expression to inward focus.",
+    "summary_reasoning": "Calm voice, looks at book, still posture."
+  }
+]

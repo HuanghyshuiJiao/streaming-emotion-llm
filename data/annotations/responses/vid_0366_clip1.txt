@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 4.317,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker begins by looking upwards with a soft, thoughtful expression. Her tone of voice is gentle and her speaking pace is slow as she introduces the idea of stars having 'staying power,' suggesting a calm and contemplative mood.",
+    "summary_reasoning": "Upward gaze, soft tone, slow pace."
+  },
+  {
+    "timestamp": 8.283,
+    "emotion": "wistful",
+    "detailed_reasoning": "Her eyes squint slightly and her head tilts as she says she can 'always count on them.' Her tone becomes more personal and slightly longing, conveying a sense of wistfulness and a search for reliability.",
+    "summary_reasoning": "Squinting eyes, head tilt, personal tone."
+  },
+  {
+    "timestamp": 12.109,
+    "emotion": "assured",
+    "detailed_reasoning": "The speaker's gaze becomes more focused and direct, and her vocal tone is steady and certain as she affirms that the stars 'will be there for me.' This indicates a feeling of comfort and assurance in their permanence.",
+    "summary_reasoning": "Focused gaze, steady tone."
+  },
+  {
+    "timestamp": 16.255,
+    "emotion": "disappointed",
+    "detailed_reasoning": "There is a distinct shift in her expression. Her eyebrows lower slightly, her face shows a hint of a grimace, and she looks away. Her tone becomes more critical and somber as she contrasts the celestial stars with earthly ones that 'burn out too quickly,' indicating disappointment.",
+    "summary_reasoning": "Lowered eyebrows, grimace, critical tone."
+  },
+  {
+    "timestamp": 20.541,
+    "emotion": "cynical",
+    "detailed_reasoning": "Her expression becomes slightly disdainful, with a subtle sneer and a shake of the head. The way she says 'shine so bright' has an almost mocking quality to it, suggesting a cynical view of fleeting fame.",
+    "summary_reasoning": "Subtle sneer, head shake, mocking tone."
+  },
+  {
+    "timestamp": 27.051,
+    "emotion": "melancholy",
+    "detailed_reasoning": "After describing the disappearance of earthly stars with 'poof,' her expression turns sad. Her eyes look downcast, her mouth droops, and her tone becomes somber and quiet, reflecting a sense of loss and melancholy.",
+    "summary_reasoning": "Downcast eyes, drooping mouth, somber tone."
+  },
+  {
+    "timestamp": 33.799,
+    "emotion": "somber",
+    "detailed_reasoning": "Her expression remains downcast and her voice is low and heavy as she elaborates on the forgotten memory. The combination of her sad facial expression and somber vocal tone deepens the feeling of melancholy.",
+    "summary_reasoning": "Downcast expression, low and heavy voice."
+  },
+  {
+    "timestamp": 38.536,
+    "emotion": "emotional",
+    "detailed_reasoning": "As she returns to the topic of the stars in the sky, her eyes begin to well up with tears and her voice cracks. Her face contorts with sadness, showing she is deeply moved and emotional.",
+    "summary_reasoning": "Tears in eyes, cracking voice, sad expression."
+  },
+  {
+    "timestamp": 43.352,
+    "emotion": "hopeful",
+    "detailed_reasoning": "Despite the tears, a slight, hopeful smile appears on her face. Her tone lifts slightly as she speaks about making a wish, suggesting a shift from pure sadness to a more hopeful and comforted emotional state.",
+    "summary_reasoning": "Slight smile through tears, lighter tone."
+  },
+  {
+    "timestamp": 49.714,
+    "emotion": "contemplative",
+    "detailed_reasoning": "Her expression shifts again. The sadness recedes, and she looks away with a neutral, thoughtful look. Her tone becomes inquisitive as she asks, 'What do I wish for?', indicating she is now in a state of deep contemplation.",
+    "summary_reasoning": "Neutral expression, looking away, inquisitive tone."
+  }
+]

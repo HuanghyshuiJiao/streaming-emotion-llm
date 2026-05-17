@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 3.757,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins by addressing a controversial topic, 'anthropogenic global warming.' His tone is measured and firm, his pace is deliberate, and his facial expression is focused and serious. He is laying out a premise for his argument, and his demeanor reflects the gravity he attaches to the subject.",
+    "summary_reasoning": "Firm tone, serious expression, controversial topic."
+  },
+  {
+    "timestamp": 11.109,
+    "emotion": "confrontational",
+    "detailed_reasoning": "The speaker directly addresses the audience's potential negative reaction ('30% of the people in this room just bristled'). His tone becomes more pointed and his gaze seems to sweep the room, directly challenging a portion of his listeners. This shifts the emotion from a general seriousness to a more direct, confrontational stance.",
+    "summary_reasoning": "Pointed tone, directly addressing audience's negative reaction."
+  },
+  {
+    "timestamp": 18.301,
+    "emotion": "disappointed",
+    "detailed_reasoning": "After highlighting the political nature of the disagreement, the speaker's tone drops in pitch and his pace slows on the final word, 'despairing.' His facial expression softens slightly, conveying a sense of sadness or frustration about the situation he has just described. This marks a shift from confrontation to a more somber, disappointed emotion.",
+    "summary_reasoning": "Lower pitch, slower pace, use of the word 'despairing'."
+  },
+  {
+    "timestamp": 21.644,
+    "emotion": "passionate",
+    "detailed_reasoning": "There is a distinct shift in topic and tone. After a pause, the speaker announces his sixth point, 'Be a teacher.' His voice becomes much warmer, higher in pitch, and filled with earnestness. The topic changes from a critique of public discourse to a heartfelt appeal, and his entire demeanor softens, indicating a passionate belief in what he is saying.",
+    "summary_reasoning": "Shift in topic, warmer and higher-pitched voice, earnest tone."
+  },
+  {
+    "timestamp": 26.43,
+    "emotion": "admiring",
+    "detailed_reasoning": "The speaker describes teachers as the 'most admirable and important people in the world.' His tone is filled with genuine reverence and conviction. He speaks slowly and clearly to emphasize his high regard for the profession, shifting from a passionate plea to a state of admiration.",
+    "summary_reasoning": "Reverent tone, slow and clear speech, laudatory words."
+  },
+  {
+    "timestamp": 32.157,
+    "emotion": "encouraging",
+    "detailed_reasoning": "The speaker transitions from general praise for teachers to directly encouraging the audience. He says, 'be an amazing teacher,' with a brighter tone and a slight smile. The advice feels personal and supportive, intended to inspire the graduates to consider this path.",
+    "summary_reasoning": "Bright tone, slight smile, direct positive advice."
+  },
+  {
+    "timestamp": 38.506,
+    "emotion": "urgent",
+    "detailed_reasoning": "He specifically calls out to the 'blokes' (men) in the audience, stating, 'We need male primary school teachers.' His tone becomes more forceful and direct, creating a sense of urgency and highlighting a specific need. This is no longer just general encouragement, but a targeted and urgent call to action.",
+    "summary_reasoning": "Forceful, direct tone, specific call to action."
+  },
+  {
+    "timestamp": 44.854,
+    "emotion": "inspirational",
+    "detailed_reasoning": "The speaker broadens his message again, saying 'Share your ideas. Don't take for granted your education.' His voice begins to build in volume and energy, and his pace quickens. He is moving into the climax of his point, using inspirational language to motivate the audience to share their knowledge, regardless of their profession.",
+    "summary_reasoning": "Building volume and energy, quickening pace, motivational language."
+  },
+  {
+    "timestamp": 54.237,
+    "emotion": "calm",
+    "detailed_reasoning": "After the energetic peak, the speaker moves to his final point. His tone immediately becomes softer, his pace slows down, and his demeanor becomes calm and reflective. He concludes with a gentle and positive piece of advice, 'define yourself by what you love,' bringing the emotional intensity down to a serene and thoughtful conclusion.",
+    "summary_reasoning": "Softer tone, slower pace, reflective demeanor, concluding statement."
+  }
+]

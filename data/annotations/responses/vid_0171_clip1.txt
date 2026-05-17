@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 6.84,
+    "emotion": "anticipation",
+    "detailed_reasoning": "The speaker begins with a story about finishing his workday. His tone is calm but has a slightly upward inflection, especially on 'my mind.' This, combined with the context of something desirable being on his mind, suggests a feeling of anticipation.",
+    "summary_reasoning": "Upward vocal inflection, context."
+  },
+  {
+    "timestamp": 13.048,
+    "emotion": "desire",
+    "detailed_reasoning": "He talks about dreaming about cookies 'my whole day.' The emphasis on 'whole day' and the slightly faster speaking pace convey a strong sense of craving or desire for the cookies he's been thinking about.",
+    "summary_reasoning": "Vocal emphasis, faster pace."
+  },
+  {
+    "timestamp": 22.502,
+    "emotion": "amusement",
+    "detailed_reasoning": "When describing his gaze at the cookies, the speaker's tone becomes lighter and he has a subtle smile on his face. This indicates he is looking back at this moment with a sense of amusement and fondness.",
+    "summary_reasoning": "Light tone, subtle smile."
+  },
+  {
+    "timestamp": 28.338,
+    "emotion": "narrative",
+    "detailed_reasoning": "The speaker introduces a new character, 'Lucy'. His tone shifts to a more storyteller-like quality, becoming slightly more animated and engaging as he sets the scene for the interaction.",
+    "summary_reasoning": "Storyteller tone, increased animation."
+  },
+  {
+    "timestamp": 37.107,
+    "emotion": "joyful",
+    "detailed_reasoning": "Describing the little girl's expression, the speaker's own face lights up with a broad smile. His voice takes on a higher, more excited pitch, mimicking the girl's perceived joy and conveying his own delight in the memory.",
+    "summary_reasoning": "Broad smile, high-pitched voice."
+  },
+  {
+    "timestamp": 42.16,
+    "emotion": "observant",
+    "detailed_reasoning": "The speaker describes the girl watching him. His tone becomes more neutral and his expression is focused, indicating a shift from feeling the girl's emotion to observing her reaction. He is now describing the sequence of events as a witness.",
+    "summary_reasoning": "Neutral tone, focused expression."
+  },
+  {
+    "timestamp": 49.458,
+    "emotion": "humorous",
+    "detailed_reasoning": "The speaker describes the girl victoriously taking ten packs of cookies and putting them under her armpits. His voice is filled with laughter and his face shows clear amusement. The word 'victoriously' is delivered with a comedic emphasis, highlighting the humor of the situation.",
+    "summary_reasoning": "Laughing tone, amused expression."
+  },
+  {
+    "timestamp": 58.0,
+    "emotion": "whimsical",
+    "detailed_reasoning": "The speaker describes the final scene with 'ponies and rainbows.' His tone is light, dreamy, and almost magical. His hand gestures are open and flowing, and he has a soft smile, all of which contribute to a whimsical and happy conclusion to his story.",
+    "summary_reasoning": "Dreamy tone, flowing gestures, soft smile."
+  }
+]

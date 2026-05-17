@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1.673,
+    "emotion": "neutral",
+    "detailed_reasoning": "The speaker introduces himself and the monologue he will be performing. His tone is informative and his facial expression is neutral, without any strong emotional indicators. He is simply setting the stage for his performance.",
+    "summary_reasoning": "Informative tone, neutral expression."
+  },
+  {
+    "timestamp": 11.081,
+    "emotion": "dreamy",
+    "detailed_reasoning": "The speaker begins the monologue. His tone becomes softer and more wistful as he talks about dreaming of being a hero. His eyes look slightly upward as if reminiscing or imagining, which adds to the dreamy quality.",
+    "summary_reasoning": "Soft tone, upward gaze."
+  },
+  {
+    "timestamp": 18.208,
+    "emotion": "disappointed",
+    "detailed_reasoning": "After describing his attempt to get superpowers from a spider bite, his tone becomes flat and slightly sarcastic when he says the only result was \"a lot of itching.\" His facial expression shows a clear lack of enthusiasm, indicating his disappointment with the outcome.",
+    "summary_reasoning": "Flat tone, unenthusiastic expression."
+  },
+  {
+    "timestamp": 26.236,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker delivers the word \"Nothing\" with a sigh and a downward inflection after describing his second failed attempt to gain superpowers. His shoulders slump slightly, and his expression is one of clear frustration and defeat.",
+    "summary_reasoning": "Sigh, downward inflection, slumped shoulders."
+  },
+  {
+    "timestamp": 34.202,
+    "emotion": "proud",
+    "detailed_reasoning": "Recounting how he turned his punishment for making too much popcorn into a party, the speaker's tone shifts to become more upbeat and positive. A slight smile appears, and he says he was \"a hero that day,\" indicating a sense of pride and accomplishment in this small victory.",
+    "summary_reasoning": "Upbeat tone, slight smile."
+  },
+  {
+    "timestamp": 37.81,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker's voice becomes more energetic and his delivery speeds up as he lists the things he loves about being a hero. His eyes widen, and his gestures become slightly more animated, conveying a sense of genuine passion and excitement for the idea of helping others.",
+    "summary_reasoning": "Energetic voice, widened eyes."
+  },
+  {
+    "timestamp": 43.502,
+    "emotion": "angry",
+    "detailed_reasoning": "There is a sharp and immediate shift in tone from passionate to harsh and intense as he says, \"And I hate bad guys.\" His brow furrows, his jaw clenches slightly, and his volume increases, clearly indicating anger and disdain.",
+    "summary_reasoning": "Harsh tone, furrowed brow, clenched jaw."
+  },
+  {
+    "timestamp": 51.761,
+    "emotion": "frustrated",
+    "detailed_reasoning": "When talking about the bully at school, the speaker's tone is laced with frustration. His body language becomes more tense, and his facial expression is serious and pained as he describes the bully \"hurting everyone.\"",
+    "summary_reasoning": "Frustrated tone, tense body language."
+  },
+  {
+    "timestamp": 57.353,
+    "emotion": "desperate",
+    "detailed_reasoning": "The speaker's voice takes on a pleading and urgent quality as he says he needs superpowers. His eyes are wide, and his expression is one of intense longing and desperation, emphasizing his strong desire to stop the bully.",
+    "summary_reasoning": "Pleading tone, wide eyes, urgent expression."
+  }
+]

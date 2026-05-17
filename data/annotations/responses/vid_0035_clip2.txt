@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 1.332,
+    "emotion": "disbelief",
+    "detailed_reasoning": "The speaker begins with wide eyes and a slightly raised vocal pitch. Her initial words, \"I didn't believe this was happening,\" directly state her emotional state. Her hand gestures are open and slightly raised, which, combined with her facial expression and tone, indicates a sense of shock and disbelief about the events unfolding.",
+    "summary_reasoning": "Wide eyes, raised pitch, direct statement of disbelief."
+  },
+  {
+    "timestamp": 10.363,
+    "emotion": "sadness",
+    "detailed_reasoning": "The context shifts to a very somber memory of finding a person named Niamh in a critical state. The speaker's pace of speech slows down, her vocal tone becomes lower and softer, and her facial expression turns sorrowful with furrowed brows. This combination of cues clearly indicates a shift to sadness as she recalls this difficult memory.",
+    "summary_reasoning": "Slower pace, lower tone, sorrowful expression."
+  },
+  {
+    "timestamp": 13.706,
+    "emotion": "pained",
+    "detailed_reasoning": "The speaker mentions the surreal and tragic detail that the person was lying on a table tennis table. This jarring detail, combined with her pained facial expression and a slight, almost imperceptible tremor in her voice, conveys a deep sense of pain and the absurdity of the tragic situation.",
+    "summary_reasoning": "Pained expression, voice tremor, jarring verbal detail."
+  },
+  {
+    "timestamp": 18.572,
+    "emotion": "distress",
+    "detailed_reasoning": "Recalling the image of the ambulance man giving the \"kiss of life,\" the speaker's eyes are wide and fixed, and her voice is hushed and low. This suggests she is replaying a highly traumatic and distressing memory. Her expression is one of remembered horror.",
+    "summary_reasoning": "Wide, fixed eyes, hushed tone, recounting traumatic event."
+  },
+  {
+    "timestamp": 27.642,
+    "emotion": "hopelessness",
+    "detailed_reasoning": "The speaker relays the ambulance man's words that his efforts weren't working. Her voice is filled with sorrow, her eyebrows are furrowed, and her expression is deeply pained. The verbal content confirms the futility of the resuscitation attempts, leading to a feeling of profound hopelessness.",
+    "summary_reasoning": "Sorrowful voice, pained expression, words indicating futility."
+  },
+  {
+    "timestamp": 43.426,
+    "emotion": "resignation",
+    "detailed_reasoning": "The speaker's tone becomes quieter and more certain as she states, \"the ambulance man knew, I think.\" She's describing the moment of realization that the situation was irreversible. Her expression is somber and her pace is slow, reflecting a sad acceptance of the inevitable outcome.",
+    "summary_reasoning": "Quiet tone, slow pace, somber expression, words of certainty."
+  },
+  {
+    "timestamp": 50.313,
+    "emotion": "grief",
+    "detailed_reasoning": "This is the emotional peak of the narrative. The speaker recalls being told to say goodbye. Her voice becomes thick with emotion, on the verge of breaking. Her facial muscles are tense with pain, and her eyes appear watery, signifying overwhelming grief at the finality of the moment.",
+    "summary_reasoning": "Voice thick with emotion, pained facial expression, watery eyes."
+  },
+  {
+    "timestamp": 57.561,
+    "emotion": "tender",
+    "detailed_reasoning": "The speaker's emotional state shifts from raw grief to a softer, more tender emotion as she describes giving a \"little hug.\" Her voice becomes very soft, and a faint, sad smile appears on her face. This is a look of loving, sorrowful remembrance.",
+    "summary_reasoning": "Soft voice, faint sad smile, describing a loving act."
+  }
+]

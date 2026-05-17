@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her story with a clear, steady voice and a neutral, focused facial expression. Her posture is upright and still, indicating a calm and prepared state for her performance. The initial delivery is measured and controlled.",
+    "summary_reasoning": "Clear steady voice, neutral focused expression, upright posture."
+  },
+  {
+    "timestamp": 9.341,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker is narrating a sad event—the death of the father and the son inheriting everything. Her tone becomes slightly more serious and her pace is deliberate, matching the grave nature of the story's content. Her facial expression, while mostly neutral, shows a hint of seriousness, reflecting the somber mood of the narrative.",
+    "summary_reasoning": "Serious tone, grave content, serious expression."
+  },
+  {
+    "timestamp": 19.472,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker explicitly mentions \"sadness and regret.\" To accompany these words, she places her hands over her heart in a gesture of emotional pain. Her facial expression becomes more sorrowful, her eyes are downcast, and her vocal tone softens, all combining to strongly convey a feeling of sadness.",
+    "summary_reasoning": "Hands on heart, sorrowful expression, soft tone."
+  },
+  {
+    "timestamp": 26.405,
+    "emotion": "regretful",
+    "detailed_reasoning": "The narrative focuses on an object of past neglect (the Bible), which is a source of regret for the character. The speaker's tone remains soft and melancholic, and her pace is slow. She makes a gesture as if seeing the Bible for the first time in years, and her expression conveys a sense of missed opportunity and sorrow for the past.",
+    "summary_reasoning": "Melancholic tone, slow pace, sorrowful expression."
+  },
+  {
+    "timestamp": 31.639,
+    "emotion": "sad",
+    "detailed_reasoning": "The text explicitly mentions \"tears in his eyes.\" The speaker reinforces this by making a gesture of wiping a tear from her eye. Her voice becomes softer and has a slight quaver, directly communicating the character's sadness and emotional state. She then picks up a prop representing the Bible, adding to the performance.",
+    "summary_reasoning": "Wiping tear gesture, soft quavering voice."
+  },
+  {
+    "timestamp": 41.063,
+    "emotion": "solemn",
+    "detailed_reasoning": "The speaker begins to quote a Bible verse. Her delivery changes from a soft, narrative tone to a more formal, declarative one. She looks directly at the audience with a serious and focused expression, fitting for reciting a religious text. The atmosphere she creates is one of solemnity and importance.",
+    "summary_reasoning": "Formal declarative tone, serious focused expression."
+  },
+  {
+    "timestamp": 50.08,
+    "emotion": "reverent",
+    "detailed_reasoning": "When speaking of the \"heavenly Father,\" the speaker's tone becomes more elevated and hopeful. She makes a distinct upward gesture with her head and arm, pointing towards the heavens. This combination of vocal tone and body language conveys a sense of reverence and awe.",
+    "summary_reasoning": "Hopeful tone, upward gesture."
+  }
+]

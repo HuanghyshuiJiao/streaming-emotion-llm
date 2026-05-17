@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "dramatic",
+    "detailed_reasoning": "The speaker begins by directly addressing the audience with a rhetorical question. Her tone is theatrical and her facial expression is serious and posed, suggesting she is adopting a persona and setting a dramatic scene rather than having a casual conversation.",
+    "summary_reasoning": "Theatrical tone, direct address, posed expression."
+  },
+  {
+    "timestamp": 2.234,
+    "emotion": "defiant",
+    "detailed_reasoning": "Her immediate and sharp response of 'No' is delivered with a firm, resolute tone. She closes her eyes and shakes her head slightly, visually reinforcing her strong, defiant rejection of the idea of trying chocolate.",
+    "summary_reasoning": "Sharp tone, firm 'No', resolute expression."
+  },
+  {
+    "timestamp": 7.543,
+    "emotion": "adamant",
+    "detailed_reasoning": "The speaker's defiance intensifies as she stresses the words 'ever' and 'chocolate'. Her tone becomes more forceful and her expression hardens, conveying an absolute and unwavering conviction in her statement. She is no longer just defiant, but completely adamant.",
+    "summary_reasoning": "Forceful tone, stressed words, unwavering expression."
+  },
+  {
+    "timestamp": 10.087,
+    "emotion": "scornful",
+    "detailed_reasoning": "She introduces a hypothetical payment, and her tone shifts to one of scorn, as if the amount is insultingly low. She raises her hand to emphasize 'five bucks,' a gesture that, combined with her dismissive tone, conveys contempt for the offer.",
+    "summary_reasoning": "Dismissive tone, scornful expression, hand gesture."
+  },
+  {
+    "timestamp": 15.696,
+    "emotion": "reluctant",
+    "detailed_reasoning": "Her tone softens slightly as she feigns contemplation, looking away from the camera. The drawn-out delivery of 'Maybe 15' suggests a begrudging or reluctant consideration, showing the first tiny crack in her absolute refusal, even if performed.",
+    "summary_reasoning": "Softer tone, hesitant speech, feigned contemplation."
+  },
+  {
+    "timestamp": 18.52,
+    "emotion": "resigned",
+    "detailed_reasoning": "The speaker says 'Fine' with a tone of exasperated defeat. Her facial expression is pained and her body language shows a complete lack of enthusiasm as she prepares to eat the chocolate, indicating she has resigned herself to doing something she is against.",
+    "summary_reasoning": "Exasperated tone, defeated expression, giving in."
+  },
+  {
+    "timestamp": 29.191,
+    "emotion": "amazed",
+    "detailed_reasoning": "After tasting the chocolate, her entire demeanor flips instantaneously. Her eyes go wide, her mouth opens in a smile of pure delight, and she looks upward as if in ecstasy. Her tone becomes high-pitched and full of wonder, expressing complete and utter amazement.",
+    "summary_reasoning": "Sudden change, wide eyes, ecstatic expression, high-pitched tone."
+  },
+  {
+    "timestamp": 34.048,
+    "emotion": "eager",
+    "detailed_reasoning": "Following the moment of amazement, her emotion shifts to active desire. She leans forward, and her voice becomes pleading and urgent as she asks for more. Her expression is now one of intense eagerness and craving.",
+    "summary_reasoning": "Pleading tone, forward posture, eager expression."
+  },
+  {
+    "timestamp": 38.142,
+    "emotion": "friendly",
+    "detailed_reasoning": "The performance ends, and the speaker breaks character to address the audience directly. Her voice becomes light and cheerful, she smiles warmly, and she waves at the camera, concluding the video in a friendly and pleasant manner.",
+    "summary_reasoning": "Smiling, cheerful tone, waving at camera."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": 5.198,
+    "emotion": "formal",
+    "detailed_reasoning": "The speaker is dressed in a suit and sits at a desk with official-looking papers. His tone is serious, measured, and lacks any personal warmth. He speaks with a clear, authoritative voice, establishing a formal and bureaucratic atmosphere from the beginning.",
+    "summary_reasoning": "Formal attire, serious tone, authoritative voice."
+  },
+  {
+    "timestamp": 11.127,
+    "emotion": "impersonal",
+    "detailed_reasoning": "The speaker picks up a document and begins reading from it. His voice becomes flat and monotonous, delivering the monumental news of planetary ownership as if it were a trivial administrative detail. This detached delivery, combined with his focus on the paper rather than the person he's speaking to, creates a cold and impersonal tone.",
+    "summary_reasoning": "Monotonous voice, reading from document."
+  },
+  {
+    "timestamp": 24.886,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "There is a sudden and dramatic shift in the speaker's demeanor. After the grave statement about taking over the planet, his eyes widen and his vocal tone becomes higher-pitched and mock-enthusiastic as he offers the \"shiny new... badge.\" This exaggerated and cheerful presentation of a trivial item as a fair exchange for a planet is clearly sarcastic and meant to be insulting.",
+    "summary_reasoning": "Wide eyes, high-pitched voice, exaggerated enthusiasm."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 1.993,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "The speaker begins by mentioning he could tell \"dirty jokes.\" His facial expression is a grimace with squinted eyes, and his tone is mocking and slightly condescending. This combination suggests he is not being genuine but rather sarcastic about the idea, setting a humorous but slightly dark tone for his proposal.",
+    "summary_reasoning": "Grimacing face, mocking tone."
+  },
+  {
+    "timestamp": 11.882,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's demeanor shifts as he starts defining the terms of their relationship. His tone becomes more declarative and his facial expression straightens. The line \"We need familiarity without closeness\" is delivered with a firm, non-joking tone, indicating a shift to a serious, albeit comedically serious, mood.",
+    "summary_reasoning": "Declarative tone, straight face."
+  },
+  {
+    "timestamp": 23.752,
+    "emotion": "dramatic",
+    "detailed_reasoning": "When discussing the terms of his bullying, specifically receiving \"swirlies,\" his expression turns pained. His voice takes on a pleading quality, which escalates into a dramatic flair when he explains it's so he can \"go home and shower,\" accompanied by raised hands and wide eyes for theatrical effect.",
+    "summary_reasoning": "Pleading tone, wide eyes, dramatic gestures."
+  },
+  {
+    "timestamp": 32.657,
+    "emotion": "insistent",
+    "detailed_reasoning": "The speaker raises his index finger to signal a crucial point, saying \"the most important part of all.\" His tone becomes more forceful and his pace is deliberate, creating a sense of gravity and making his demand feel more insistent and non-negotiable.",
+    "summary_reasoning": "Raised finger gesture, forceful tone."
+  },
+  {
+    "timestamp": 41.655,
+    "emotion": "demanding",
+    "detailed_reasoning": "He explicitly states, \"I want you to protect me from all the other bullies.\" His tone is firm and authoritative, his gaze is direct and unwavering, and his gestures are pointed. This combination of verbal and non-verbal cues clearly communicates a direct and serious demand.",
+    "summary_reasoning": "Firm tone, direct gaze, pointed gestures."
+  },
+  {
+    "timestamp": 55.805,
+    "emotion": "assertive",
+    "detailed_reasoning": "After laying out his demands, he states his personal preference, \"I like my day to be predictable.\" His tone here is very assertive and matter-of-fact, as if stating an unchallengeable fact. While still in the character of someone negotiating, this statement is delivered with finality and confidence.",
+    "summary_reasoning": "Assertive tone, matter-of-fact delivery."
+  }
+]

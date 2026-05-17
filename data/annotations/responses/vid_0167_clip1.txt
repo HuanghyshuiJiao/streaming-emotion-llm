@@ -1,0 +1,80 @@
+[
+  {
+    "timestamp": 4.378,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker starts with a rhetorical question and then immediately answers it with a self-deprecating and humorous comment, 'I'm fatty McFatFat.' His tone is lighthearted and his facial expression is one of wry amusement, indicating he's making fun of his own situation.",
+    "summary_reasoning": "Self-deprecating humor, amused tone."
+  },
+  {
+    "timestamp": 8.163,
+    "emotion": "boastful",
+    "detailed_reasoning": "The speaker delivers a rapid-fire list of his 'achievements' at various fast-food chains ('supersized at Mickey D's, crowned at BK, and supremed at the Bell'). His energetic, fast-paced delivery and animated facial expressions give the impression of someone proudly, albeit comically, boasting about their exploits.",
+    "summary_reasoning": "Rapid-fire speech, energetic tone, animated face."
+  },
+  {
+    "timestamp": 11.268,
+    "emotion": "reflective",
+    "detailed_reasoning": "The pace of his speech slows down significantly as he says, 'I'm the all-American consumer consumed by convenience.' His tone becomes more serious and declarative, and his facial expression is less animated, suggesting a moment of genuine, albeit brief, self-reflection on his habits.",
+    "summary_reasoning": "Slower pace, serious tone, declarative statement."
+  },
+  {
+    "timestamp": 13.171,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker's tone shifts to one of complaint as he says 'I blame them, I do.' He shakes his head slightly and his facial expression shows exasperation. He is shifting the blame for his habits, and his voice carries a clear note of frustration with how 'easy' and 'cheap' fast food is.",
+    "summary_reasoning": "Complaining tone, head shake, exasperated expression."
+  },
+  {
+    "timestamp": 17.197,
+    "emotion": "amused",
+    "detailed_reasoning": "After complaining about fast food being cheap and easy, he turns the phrase on himself ('Well, that's me. Cheap and easy.') with a slight, wry smile. The tone is self-deprecating again, and his expression shows he is amused by the double meaning and his own perceived flaws.",
+    "summary_reasoning": "Self-deprecating humor, wry smile."
+  },
+  {
+    "timestamp": 21.824,
+    "emotion": "defiant",
+    "detailed_reasoning": "The speaker declares his motto, 'I'll eat anything for a buck.' He says this with a confident and almost proud tone, looking directly at the camera. His facial expression is firm, suggesting a defiant acceptance and ownership of his cost-conscious eating philosophy.",
+    "summary_reasoning": "Confident tone, direct gaze, firm expression."
+  },
+  {
+    "timestamp": 25.393,
+    "emotion": "skeptical",
+    "detailed_reasoning": "He poses the question 'who can afford to eat right?' His tone is rhetorical and filled with skepticism. His facial expression and the way he recounts going to a 'healthy' place suggest he is deeply doubtful and critical of the cost and value of healthy eating.",
+    "summary_reasoning": "Rhetorical question, skeptical tone, critical expression."
+  },
+  {
+    "timestamp": 31.861,
+    "emotion": "outraged",
+    "detailed_reasoning": "The speaker's emotion escalates as he talks about the price of a grilled cheese. His voice rises in pitch and volume when he exclaims, '$5 for it. $5 for a grilled cheese?!' His eyes widen, and his entire demeanor expresses comedic outrage and disbelief at the perceived injustice.",
+    "summary_reasoning": "Loud voice, high pitch, wide eyes."
+  },
+  {
+    "timestamp": 35.626,
+    "emotion": "proud",
+    "detailed_reasoning": "The speaker's tone shifts to one of clever triumph as he describes his solution: selling his own sandwiches. He smiles and speaks with a confident, almost bragging cadence, indicating he is proud of his entrepreneurial scheme to undercut the 'rip-off restaurants.'",
+    "summary_reasoning": "Triumphant tone, confident smile, bragging cadence."
+  },
+  {
+    "timestamp": 40.373,
+    "emotion": "playful",
+    "detailed_reasoning": "He adopts a mock-serious, salesman-like tone as he describes his 'Gourmet, super healthy PB&J sandwiches.' The playful exaggeration and the ironic use of 'gourmet' combined with his expressive face show that he is being playful and humorous.",
+    "summary_reasoning": "Exaggerated tone, mock-serious voice, playful expression."
+  },
+  {
+    "timestamp": 45.44,
+    "emotion": "anticipation",
+    "detailed_reasoning": "The speaker's focus shifts to what he can buy with his money. His voice becomes softer and more drawn out as he says, 'I'm going to give me a dollar menu feast.' He looks upwards with a dreamy expression, clearly savoring the thought and anticipating the meal.",
+    "summary_reasoning": "Dreamy tone, upward gaze, savoring words."
+  },
+  {
+    "timestamp": 50.887,
+    "emotion": "joyful",
+    "detailed_reasoning": "As he lists the items of his 'feast,' his voice is filled with pleasure. He culminates with 'and some pie' and then exclaims 'Dollar menu heaven' with a look of pure bliss on his face. The combination of his delighted tone and ecstatic expression conveys a strong sense of joy.",
+    "summary_reasoning": "Delighted tone, ecstatic facial expression."
+  },
+  {
+    "timestamp": 56.532,
+    "emotion": "calm",
+    "detailed_reasoning": "After a long pause where he seems lost in thought about the food, his energy subsides. He turns back to the camera and says calmly, 'You're kind of hungry.' His tone is even, his expression is neutral, and the pace is slow, indicating a return to a calm, concluding state.",
+    "summary_reasoning": "Subsided energy, calm tone, neutral expression."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 6.339,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker maintains a neutral facial expression and a steady, calm tone. Her hands are clasped loosely in front of her. She is explaining a concept in a clear and direct manner, suggesting an informative and objective emotional state.",
+    "summary_reasoning": "Neutral expression, steady tone, informative content."
+  },
+  {
+    "timestamp": 15.832,
+    "emotion": "candid",
+    "detailed_reasoning": "The speaker's tone becomes more personal and slightly self-deprecating as she admits to being 'squeamish.' Her facial expression softens, and there's a brief, genuine smile, indicating a shift from a purely informative mode to sharing a personal feeling.",
+    "summary_reasoning": "Personal admission, softer tone, slight smile."
+  },
+  {
+    "timestamp": 25.204,
+    "emotion": "helpful",
+    "detailed_reasoning": "The speaker transitions into an advisory role, stating 'I have two tips for you.' Her posture becomes slightly more forward, her tone becomes direct and engaging, and her hands come together in a preparatory gesture, signaling an intention to offer guidance.",
+    "summary_reasoning": "Direct tone, forward posture, advisory language."
+  },
+  {
+    "timestamp": 36.818,
+    "emotion": "instructive",
+    "detailed_reasoning": "She begins outlining her first tip, using a clear, measured pace and a didactic tone. Her facial expression is focused, and she uses her hands to enumerate her points, which reinforces the instructive and structured nature of her advice.",
+    "summary_reasoning": "Instructive tone, focused expression, enumerating gestures."
+  },
+  {
+    "timestamp": 47.893,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "When giving an example, 'not wanting to have overnight shifts,' her gaze shifts upwards and to the side, a common indicator of someone accessing memory or thinking through an example. Her tone becomes slightly more reflective as she presents these personal considerations.",
+    "summary_reasoning": "Upward gaze, reflective tone, providing examples."
+  },
+  {
+    "timestamp": 56.48,
+    "emotion": "emphatic",
+    "detailed_reasoning": "To emphasize her final point about '12 years of schooling,' she uses a prominent hand gesture, raising it to the side. Her eyebrows lift slightly, and her tone conveys the significant weight of this commitment, adding emphasis to her words.",
+    "summary_reasoning": "Emphatic hand gesture, raised eyebrows, significant tone."
+  }
+]

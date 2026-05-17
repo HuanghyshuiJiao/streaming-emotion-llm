@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 1.232,
+    "emotion": "happy",
+    "detailed_reasoning": "The speaker begins with a bright and enthusiastic tone of voice, a clear smile, and expressive hand gestures near her face. The content of her words, 'I love being a little sister,' explicitly states a positive feeling, which is consistent with her joyful demeanor.",
+    "summary_reasoning": "Enthusiastic tone, smiling, positive words."
+  },
+  {
+    "timestamp": 2.093,
+    "emotion": "excited",
+    "detailed_reasoning": "The speaker's emotion escalates from happy to excited. She raises her arms, moves her body energetically, and shouts 'Woohoo!' This is a clear physical and vocal expression of heightened joy and excitement.",
+    "summary_reasoning": "Shouting 'Woohoo', raising arms, energetic movement."
+  },
+  {
+    "timestamp": 4.035,
+    "emotion": "mischievous",
+    "detailed_reasoning": "There is a sharp shift in her demeanor. Her smile disappears, her facial expression becomes serious and challenging, and her tone becomes pointed. By asking the rhetorical question 'Annoying, isn't it?', she breaks the fourth wall, indicating a playful, self-aware, and mischievous intent.",
+    "summary_reasoning": "Sudden shift in tone, serious face, rhetorical question."
+  },
+  {
+    "timestamp": 8.38,
+    "emotion": "gleeful",
+    "detailed_reasoning": "As she describes her sister getting mad, her tone becomes animated and she seems to take pleasure in the memory. Her facial expression is one of delight while recounting the trouble she causes, indicating she is gleeful about her sister's frustration.",
+    "summary_reasoning": "Animated tone, delighted expression, describing sister's anger."
+  },
+  {
+    "timestamp": 10.923,
+    "emotion": "scheming",
+    "detailed_reasoning": "The speaker shifts into a performance, imitating herself tattling to her mother. She uses a high-pitched, whiny, and clearly fake voice. This act of imitation reveals her calculated strategy to manipulate the situation, highlighting a scheming nature.",
+    "summary_reasoning": "Imitating a whiny voice, acting, describing a tactic."
+  },
+  {
+    "timestamp": 14.787,
+    "emotion": "triumphant",
+    "detailed_reasoning": "After describing how she successfully stops her sister, her voice returns to a normal register filled with satisfaction. Her confident and knowing facial expression communicates a sense of victory and pride in her effective manipulation.",
+    "summary_reasoning": "Satisfied tone, confident expression, pride in success."
+  },
+  {
+    "timestamp": 19.412,
+    "emotion": "conspiratorial",
+    "detailed_reasoning": "She leans forward and lowers her voice slightly as she begins a new story. This change in posture and tone creates a secretive atmosphere, as if she is sharing a juicy secret with the audience, making her seem conspiratorial.",
+    "summary_reasoning": "Leans forward, lowered tone, sharing a secret."
+  },
+  {
+    "timestamp": 22.335,
+    "emotion": "deceptive",
+    "detailed_reasoning": "She again adopts a character voice, this time imitating a fake-polite and overly sweet tone to her sister's friends on the phone. This performance, combined with the content of the lie she tells, clearly demonstrates a deceptive and manipulative act.",
+    "summary_reasoning": "Fake-sweet voice, acting out a lie."
+  },
+  {
+    "timestamp": 28.991,
+    "emotion": "proud",
+    "detailed_reasoning": "She delivers the punchline that she has gotten her sister grounded three times with a wide smile and a tone full of accomplishment. She looks directly at the camera, clearly proud of the results of her scheming.",
+    "summary_reasoning": "Smiling, accomplished tone, stating her success."
+  },
+  {
+    "timestamp": 31.223,
+    "emotion": "playful",
+    "detailed_reasoning": "She says 'I love you, little sister,' but given the entire context of the monologue, the statement is deeply ironic. Her mischievous smile and subsequent wave signal that the sentiment is playful rather than sincere, capping off her performance on a cheeky note.",
+    "summary_reasoning": "Ironic statement, mischievous smile, wave."
+  }
+]

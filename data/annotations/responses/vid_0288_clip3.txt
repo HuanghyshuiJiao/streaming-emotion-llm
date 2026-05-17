@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "sad",
+    "detailed_reasoning": "The video starts with the speaker on the phone. His facial expression is somber, with a downturned mouth and eyes looking away. His vocal tone is low, soft, and slow. The content of his words, \"I want to be alone,\" combined with the melancholic delivery and sad expression, clearly indicates a state of sadness.",
+    "summary_reasoning": "Somber face, low soft voice, sad words."
+  },
+  {
+    "timestamp": 4.538,
+    "emotion": "resigned",
+    "detailed_reasoning": "He repeats the same sentiment, stating, \"I've always wanted to be alone.\" The tone remains low and sad, but the addition of \"always\" and the sighing quality in his voice suggest a long-held, unchanging feeling. His expression is one of sad acceptance, indicating resignation to this feeling of wanting to be isolated.",
+    "summary_reasoning": "Sighing tone, sad acceptance, statement of permanence."
+  },
+  {
+    "timestamp": 8.625,
+    "emotion": "hurt",
+    "detailed_reasoning": "He explains his reasoning by saying, \"I never wanted to get close to anyone.\" As he says this, he briefly closes his eyes, a common non-verbal sign of recalling something painful. This, combined with the vulnerable words and sustained sad tone, points to a deeper layer of hurt beneath his sadness and resignation.",
+    "summary_reasoning": "Painful eye-closure, vulnerable words, sad tone."
+  },
+  {
+    "timestamp": 15.657,
+    "emotion": "disappointed",
+    "detailed_reasoning": "The speaker makes the direct, painful comparison, \"I guess I was closer to you than you were to me.\" His tone shifts to one of quiet, painful realization. This specific statement of an unbalanced emotional investment, delivered with a hurt and somber expression, strongly conveys a sense of disappointment.",
+    "summary_reasoning": "Painful realization in tone, words of imbalanced affection."
+  },
+  {
+    "timestamp": 22.368,
+    "emotion": "frustrated",
+    "detailed_reasoning": "There's a distinct shift in energy. He says firmly, \"Don't lie to me.\" His previously soft, sad tone is replaced by a more direct, hardened voice, although still quiet. His eyebrows furrow slightly. This change from passive sadness to an active command indicates growing frustration with what he is hearing from the other person.",
+    "summary_reasoning": "Hardened tone, direct command, furrowed eyebrows."
+  },
+  {
+    "timestamp": 28.487,
+    "emotion": "adamant",
+    "detailed_reasoning": "Continuing to reject what the other person is saying, he states, \"I don't want to hear anymore lies.\" His voice is firm, low, and resolute. His facial expression is tense. He is no longer just sad or frustrated; he is setting a firm, unshakeable boundary, showing he is adamant.",
+    "summary_reasoning": "Firm resolute voice, tense expression, setting boundary."
+  },
+  {
+    "timestamp": 33.114,
+    "emotion": "angry",
+    "detailed_reasoning": "His emotion escalates as he accuses the other person of trying to evade responsibility. His voice gets louder, the pace quickens, and his tone becomes clearly accusatory. He becomes more physically animated, gesturing with his head. The frustration has now boiled over into outright anger.",
+    "summary_reasoning": "Louder accusatory voice, faster pace, head gestures."
+  },
+  {
+    "timestamp": 37.18,
+    "emotion": "desperate",
+    "detailed_reasoning": "At the peak of his anger, he yells, \"I want it all laid out on the table.\" and follows it with \"I want to know the truth.\" His voice is loud and forceful, but the repetition of \"I want\" and the raw emotion in his voice reveal an underlying desperation for honesty and clarity. The anger is a vehicle for his desperate need to understand.",
+    "summary_reasoning": "Yelling, forceful tone, repeated demands for truth."
+  },
+  {
+    "timestamp": 49.097,
+    "emotion": "heartbroken",
+    "detailed_reasoning": "The emotional climax arrives with the question, \"I want to know why you break my heart.\" His voice completely breaks, becoming thick with emotion and sounding like he is crying. He simultaneously covers his face with his hand, unable to contain his emotion. The combination of his voice breaking, the physical gesture of hiding his face, and the profoundly painful words show he is completely heartbroken.",
+    "summary_reasoning": "Voice breaks, crying, covers face, painful words."
+  }
+]

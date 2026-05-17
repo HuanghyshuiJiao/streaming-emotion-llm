@@ -1,0 +1,39 @@
+llm:
+  name_or_path: TinyLlama/TinyLlama-1.1B-Chat-v1.0
+  torch_dtype: bf16
+  load_in_8bit: false
+  load_in_4bit: false
+  use_lora: true
+  local_files_only: true
+
+lora:
+  r: 16
+  alpha: 32
+  dropout: 0.05
+  target_modules:
+    - q_proj
+    - k_proj
+    - v_proj
+    - o_proj
+
+vision_encoder:
+  name_or_path: google/siglip-large-patch16-384
+  freeze: true
+  precompute_features: true
+  feature_dir: data/processed/features/siglip_large_384_2fps_1plus3x3
+  frame_size: 384
+  frame_token_cls: true
+  frame_token_pooled: [3, 3]
+  frame_num_tokens: 10
+
+projector:
+  type: mlp
+  input_size: 1024
+  hidden_size: 1024
+  output_size: 2048
+  activation: gelu
+
+task:
+  type: open_vocab_emotion_token_prediction
+  use_reasoning: false
+  use_classification_head: false

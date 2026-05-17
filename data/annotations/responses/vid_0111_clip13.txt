@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 1.775,
+    "emotion": "charmed",
+    "detailed_reasoning": "The speaker begins with an engaging and slightly playful tone, referring to smartphones as a 'glowing blue rectangle.' Her slight smile, upward glance, and lighthearted inflection suggest she is charmed by the alternative she is about to present, which is the natural world.",
+    "summary_reasoning": "Playful tone, smile, upward glance."
+  },
+  {
+    "timestamp": 11.456,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker's tone shifts to a more neutral, narrative style as she introduces a historical fact about Henry David Thoreau. Her expression is calm, and she appears to be reading from her notes, indicating a transition from a personal, engaging tone to a more factual, informative one.",
+    "summary_reasoning": "Neutral tone, calm expression, reading notes."
+  },
+  {
+    "timestamp": 18.996,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "As she begins to quote Thoreau, the speaker's pace slows down and her tone becomes softer and more reflective. She looks up from her notes to connect with the audience, and her facial expression is sincere, suggesting a thoughtful and reverent delivery of the quote.",
+    "summary_reasoning": "Slow pace, soft tone, sincere expression."
+  },
+  {
+    "timestamp": 26.144,
+    "emotion": "persuasive",
+    "detailed_reasoning": "Continuing the quote, the speaker's tone becomes more direct and emphatic, particularly on the phrase 'Do not resist her.' Her delivery is earnest and aims to convey the weight and wisdom of Thoreau's words, adopting a persuasive quality.",
+    "summary_reasoning": "Direct tone, emphatic delivery, earnest expression."
+  },
+  {
+    "timestamp": 33.012,
+    "emotion": "concerned",
+    "detailed_reasoning": "The speaker's tone shifts dramatically with the word 'Unfortunately.' Her pitch lowers, her pace is deliberate, and her facial expression becomes serious with a slight frown, conveying a sense of concern and disappointment about the modern disconnect from nature.",
+    "summary_reasoning": "Lowered pitch, serious expression, concerned tone."
+  },
+  {
+    "timestamp": 47.466,
+    "emotion": "wry",
+    "detailed_reasoning": "When stating the 'sky to screen ratio,' the speaker's tone becomes slightly ironic and she shows a faint, wry smile. This subtle shift in expression and tone suggests she finds the statistic absurd and is using a wry or sarcastic humor to highlight the severity of the issue.",
+    "summary_reasoning": "Ironic tone, wry smile."
+  },
+  {
+    "timestamp": 56.37,
+    "emotion": "empowering",
+    "detailed_reasoning": "In her final lines, the speaker's tone becomes very direct, personal, and encouraging. She makes sustained eye contact with the audience, and her expression is earnest. The shift from presenting a problem to placing the solution in the hands of the listener creates an empowering and motivational feeling.",
+    "summary_reasoning": "Direct tone, earnest expression, sustained eye contact."
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 2.815,
+    "emotion": "nervous",
+    "detailed_reasoning": "The speaker explicitly states the character, Penelope Rex, is nervous. He supports this by adopting a crouched, tense posture with his hands held like a T-Rex and a wide-eyed, anxious facial expression, visually and vocally embodying the character's nervousness in a theatrical manner.",
+    "summary_reasoning": "Explicit text, tense posture, anxious expression."
+  },
+  {
+    "timestamp": 8.323,
+    "emotion": "anxious",
+    "detailed_reasoning": "Continuing the portrayal of the nervous T-Rex, the speaker's voice becomes higher-pitched and questioning. The character asks a series of worried questions about starting school, and the speaker's facial expression conveys exaggerated concern, intensifying the feeling of nervousness into clear anxiety.",
+    "summary_reasoning": "High-pitched questioning tone, worried expression, anxious dialogue."
+  },
+  {
+    "timestamp": 20.501,
+    "emotion": "happy",
+    "detailed_reasoning": "The narrative shifts to the character receiving a gift. The speaker's portrayal immediately changes from anxious to joyful. He mimes receiving the gift with a wide, bright smile and his voice shifts to a high-pitched, delighted tone when saying 'Thanks', indicating excitement and happiness.",
+    "summary_reasoning": "Wide smile, high-pitched delighted tone."
+  },
+  {
+    "timestamp": 27.651,
+    "emotion": "mischievous",
+    "detailed_reasoning": "There is a sudden, comedic shift in the character's motivation. The speaker's previously sweet smile turns into a wide, slightly sinister grin. His voice drops in pitch and he says the word 'delicious' with a hungry, drawn-out tone, followed by loud eating sound effects. This combination of visual and audio cues creates a mischievous and darkly humorous mood.",
+    "summary_reasoning": "Sinister grin, low-pitched hungry tone, comedic twist."
+  },
+  {
+    "timestamp": 35.449,
+    "emotion": "energetic",
+    "detailed_reasoning": "The speaker begins to physically act out the packing of a massive lunch. He uses rapid, sharp, and repetitive hand gestures, accompanied by percussive vocal sounds ('psh, psh'). This high level of physical activity and fast-paced sound effects conveys a great deal of frantic, comical energy.",
+    "summary_reasoning": "Rapid physical actions, percussive vocal sounds."
+  }
+]

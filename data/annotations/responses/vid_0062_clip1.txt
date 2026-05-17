@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 2.333,
+    "emotion": "dramatic",
+    "detailed_reasoning": "The speaker closes his eyes and uses a pleading, exaggerated tone while saying 'I'm nothing.' His hands are open in a gesture of helplessness. This combination of vocal and visual cues suggests a theatrical or dramatic expression of despair rather than genuine sadness.",
+    "summary_reasoning": "Exaggerated tone, pleading gesture, closed eyes."
+  },
+  {
+    "timestamp": 6.598,
+    "emotion": "stressed",
+    "detailed_reasoning": "The speaker's tone becomes more serious and his pace quickens slightly as he says, 'I shouldn't even be here right now.' This, combined with the context of feeling 'nothing' without his show, conveys a sense of pressure and anxiety about missing out.",
+    "summary_reasoning": "Serious tone, faster pace, anxious words."
+  },
+  {
+    "timestamp": 10.562,
+    "emotion": "overwhelmed",
+    "detailed_reasoning": "The speaker's eyes widen as he emphasizes the phrase 'so many episodes to watch.' The tone is slightly panicked, indicating that the sheer quantity of TV he needs to watch is causing him significant stress and a feeling of being overwhelmed.",
+    "summary_reasoning": "Wide eyes, panicked tone, words indicating large quantity."
+  },
+  {
+    "timestamp": 18.149,
+    "emotion": "passionate",
+    "detailed_reasoning": "When mentioning 'Game of Thrones,' the speaker's voice becomes more intense and engaged. He contrasts it with 'My Little Pony' to emphasize the profound effect the show has on him, indicating a deep, passionate connection to it.",
+    "summary_reasoning": "Intense voice, engaged expression, comparative words."
+  },
+  {
+    "timestamp": 28.82,
+    "emotion": "incredulous",
+    "detailed_reasoning": "The speaker's tone shifts to one of disbelief as he quotes his therapist. He raises his eyebrows and uses questioning inflections ('bipolar?'), visually and vocally expressing that he finds the diagnosis absurd and hard to believe.",
+    "summary_reasoning": "Disbelieving tone, raised eyebrows, questioning inflection."
+  },
+  {
+    "timestamp": 36.794,
+    "emotion": "outraged",
+    "detailed_reasoning": "The speaker shouts 'What?' with a high pitch, wide eyes, and a shocked facial expression. This is a sudden, strong, and theatrical reaction of indignation to the therapist's diagnosis he just mentioned.",
+    "summary_reasoning": "Loud shout, high pitch, shocked expression."
+  },
+  {
+    "timestamp": 49.431,
+    "emotion": "offended",
+    "detailed_reasoning": "After his outburst, the speaker's demeanor changes. He states calmly but firmly, 'I'm offended, honestly.' His facial expression becomes more serious, and his tone conveys a sense of genuine hurt and insult, moving from theatrical outrage to a direct expression of his feelings.",
+    "summary_reasoning": "Calm but firm tone, serious expression, direct words."
+  },
+  {
+    "timestamp": 52.134,
+    "emotion": "scornful",
+    "detailed_reasoning": "The speaker's voice rises again in disbelief and contempt as he says, 'He compares me to another species?' The specific content of the complaint, combined with the incredulous tone, shows that he feels the comparison is ridiculous and beneath him, indicating scorn.",
+    "summary_reasoning": "Contemptuous tone, disbelieving expression, words of absurdity."
+  },
+  {
+    "timestamp": 57.181,
+    "emotion": "agitated",
+    "detailed_reasoning": "Ending his rant, the speaker exclaims 'What?' with a final, sharp burst of energy. His face is contorted in disbelief, and his body language is tense. This final exclamation encapsulates his heightened state of agitation and outrage over the situation.",
+    "summary_reasoning": "Sharp tone, contorted face, tense posture."
+  }
+]

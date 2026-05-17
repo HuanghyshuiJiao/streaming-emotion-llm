@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 5.077,
+    "emotion": "contemplative",
+    "detailed_reasoning": "The speaker's facial expression is serious and focused, with a slight furrow in his brow. His gaze is distant, and his hand is held up in a deliberate, thoughtful gesture. The tone of his voice is measured and grave as he recites the lines, indicating deep thought and internal conflict.",
+    "summary_reasoning": "Serious face, distant gaze, measured tone."
+  },
+  {
+    "timestamp": 8.061,
+    "emotion": "resigned",
+    "detailed_reasoning": "The speaker's expression softens slightly, and a subtle, almost melancholic smile appears. His head tilts, and his tone becomes softer and more accepting of the negative reality he is describing. This shift suggests a move from active contemplation to a state of weary resignation about human nature.",
+    "summary_reasoning": "Soft expression, melancholic smile, softer tone."
+  },
+  {
+    "timestamp": 16.711,
+    "emotion": "cynical",
+    "detailed_reasoning": "A distinct, wry smile spreads across the speaker's face, and his eyes crinkle. The word \"conscience\" is delivered with a knowing, almost mocking tone. This change in expression and vocal delivery injects a sense of cynicism, as if he finds a dark amusement in the idea that conscience makes people cowardly.",
+    "summary_reasoning": "Wry smile, knowing tone."
+  },
+  {
+    "timestamp": 27.344,
+    "emotion": "pained",
+    "detailed_reasoning": "The cynical smile vanishes, replaced by a strained and pained expression. His eyebrows draw together, and his voice takes on a more forceful, almost strained quality. This shift indicates that the amusement is gone, replaced by the pain and frustration of the idea that resolution is weakened by thought.",
+    "summary_reasoning": "Strained expression, forceful voice."
+  },
+  {
+    "timestamp": 34.922,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The pained expression intensifies into clear frustration. His hands, which were open, now clench slightly, and his facial muscles are tense. He delivers the line with more force and a grimace, conveying a sense of being trapped or thwarted by the \"pale cast of thought.\"",
+    "summary_reasoning": "Tense face, grimace, clenched hands."
+  },
+  {
+    "timestamp": 45.209,
+    "emotion": "defeated",
+    "detailed_reasoning": "The frustration gives way to a sense of defeat. The speaker's shoulders slump slightly, his hands open in a gesture of futility, and his facial expression is one of weariness and disappointment. His voice loses its previous force, reflecting the loss of momentum and the failure of great enterprises he is describing.",
+    "summary_reasoning": "Slumped shoulders, futile gesture, weary expression."
+  },
+  {
+    "timestamp": 54.152,
+    "emotion": "resigned",
+    "detailed_reasoning": "In the final moment, the speaker's hands move in a slow, sideways motion as if pushing something away. His expression is one of complete resignation, and his head turns away slightly. The final words \"turn awry\" are spoken with a quiet finality, signifying an acceptance of this defeated state.",
+    "summary_reasoning": "Pushing-away gesture, quiet finality in voice."
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "timestamp": 1.313,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker begins with a broad, genuine smile and a light, slightly high-pitched tone. She chuckles softly as she delivers the line \"This is my first day of work,\" indicating she finds her own situation amusing or endearing.",
+    "summary_reasoning": "Smiling, light tone, soft chuckle."
+  },
+  {
+    "timestamp": 5.077,
+    "emotion": "reflective",
+    "detailed_reasoning": "Her smile softens and her eyes look up and to the side as she says \"ever.\" This shift in gaze and the slightly more thoughtful expression suggest she is reflecting on the significance of this being her first job ever, moving from simple amusement to a moment of contemplation.",
+    "summary_reasoning": "Softened smile, upward gaze, thoughtful expression."
+  },
+  {
+    "timestamp": 11.465,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker explains her background, stating her family had money. Her expression becomes more neutral and her tone is matter-of-fact. She uses a slight shrug gesture, indicating a calm acceptance of her privileged past without any strong emotion attached.",
+    "summary_reasoning": "Neutral expression, matter-of-fact tone, shrugging gesture."
+  },
+  {
+    "timestamp": 14.589,
+    "emotion": "disappointed",
+    "detailed_reasoning": "Her eyebrows raise and her head tilts slightly. Her tone becomes more serious as she says, \"nobody would hire me.\" The change in her facial expression and vocal tone conveys a sense of past frustration and disappointment with her job search experience.",
+    "summary_reasoning": "Raised eyebrows, head tilt, serious tone."
+  },
+  {
+    "timestamp": 16.692,
+    "emotion": "serious",
+    "detailed_reasoning": "Her expression becomes stern and her eyes fix forward with intensity. She delivers the analogy \"It's kind of like being a virgin\" with a flat, serious tone, completely dropping any earlier lightness. This abrupt shift is meant to be impactful and serious.",
+    "summary_reasoning": "Stern expression, intense gaze, flat tone."
+  },
+  {
+    "timestamp": 20.476,
+    "emotion": "reflective",
+    "detailed_reasoning": "After the serious analogy, she clarifies, \"I'm not anymore, but I was.\" She closes her eyes briefly and her tone softens considerably, becoming more gentle and introspective. This indicates she is reflecting on a past self with a sense of gentle honesty.",
+    "summary_reasoning": "Eyes closed, soft gentle tone."
+  },
+  {
+    "timestamp": 23.32,
+    "emotion": "earnest",
+    "detailed_reasoning": "Her expression becomes very direct and earnest. She leans slightly forward and emphasizes her words, stating that \"nobody wants to be first.\" Her tone is firm and convinced, showing she is speaking from a place of strong belief based on her experience.",
+    "summary_reasoning": "Direct gaze, firm tone, emphatic speech."
+  },
+  {
+    "timestamp": 26.604,
+    "emotion": "mischievous",
+    "detailed_reasoning": "A wide, knowing smile breaks out on her face as she shares that her roommate told her to lie. Her eyes light up, and her tone becomes playful and conspiratorial, suggesting she found the advice and her subsequent action amusingly rebellious.",
+    "summary_reasoning": "Wide smile, bright eyes, playful tone."
+  },
+  {
+    "timestamp": 31.03,
+    "emotion": "disappointed",
+    "detailed_reasoning": "The smile vanishes completely, and her face adopts a more critical, slightly somber expression. Her tone becomes serious as she generalizes about how \"People think... you're an idiot.\" This shift indicates her disappointment and disagreement with societal judgment.",
+    "summary_reasoning": "Smile vanishes, critical expression, serious tone."
+  },
+  {
+    "timestamp": 38.307,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "Her expression softens, and her gaze becomes more distant and introspective. The pace of her speech slows, and her tone becomes more philosophical as she talks about self-discovery. This indicates a shift from talking about others' judgment to her own internal reflections.",
+    "summary_reasoning": "Soft expression, introspective gaze, slower speech."
+  },
+  {
+    "timestamp": 41.454,
+    "emotion": "excited",
+    "detailed_reasoning": "Her face completely lights up with a huge, joyful smile, and her eyes widen with excitement. Her vocal pitch rises, and her energy level surges as she exclaims, \"all of a sudden.\" This marks a dramatic shift to a state of high positive arousal, anticipating the description of a wonderful change.",
+    "summary_reasoning": "Huge smile, wide eyes, high energy."
+  },
+  {
+    "timestamp": 44.04,
+    "emotion": "passionate",
+    "detailed_reasoning": "As she describes the \"new personality,\" she uses large, expressive hand gestures, and her face is filled with animation and passion. Her voice is full of energy and wonder, conveying the profound and exciting nature of this internal transformation she's describing.",
+    "summary_reasoning": "Expressive gestures, animated face, energetic voice."
+  },
+  {
+    "timestamp": 50.917,
+    "emotion": "wonder",
+    "detailed_reasoning": "Her expression shifts to one of awe and disbelief. Her eyes look upward, and her tone is filled with wonder as she says it \"doesn't seem possible.\" This conveys a sense of amazement at the profound changes a person can experience.",
+    "summary_reasoning": "Upward gaze, awestruck tone, amazed expression."
+  }
+]

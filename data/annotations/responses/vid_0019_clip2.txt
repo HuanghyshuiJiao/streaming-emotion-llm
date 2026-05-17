@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 2.273,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker begins with a lighthearted and warm tone. She is smiling and her facial expression is soft as she describes how good someone is with the kids, particularly Sammy. This combination of a gentle, smiling expression and a warm vocal tone indicates amusement and fondness.",
+    "summary_reasoning": "Smiling, warm tone."
+  },
+  {
+    "timestamp": 10.361,
+    "emotion": "frustrated",
+    "detailed_reasoning": "There is a sharp shift in her demeanor. Her smile disappears completely, her eyebrows furrow slightly, and her tone becomes sharp and exasperated as she says, \"why do I even bother?\" This sudden change in facial expression and vocal quality clearly signals a transition from amusement to frustration.",
+    "summary_reasoning": "Smile disappears, sharp tone."
+  },
+  {
+    "timestamp": 11.962,
+    "emotion": "accusatory",
+    "detailed_reasoning": "Continuing from the previous frustration, her tone becomes more direct and confrontational. Her eyes are fixed forward, and she delivers the line \"You think I'm crazy\" with a pointed, challenging inflection, indicating she is now accusing the person she's speaking to.",
+    "summary_reasoning": "Confrontational tone, direct gaze."
+  },
+  {
+    "timestamp": 17.568,
+    "emotion": "resentful",
+    "detailed_reasoning": "Her expression hardens, and her voice takes on a cynical, bitter edge. As she says, \"I think you love it when I'm a mess,\" her eyes narrow slightly, and there's a lack of any warmth in her voice, suggesting a deep-seated resentment behind the words.",
+    "summary_reasoning": "Hard expression, cynical tone."
+  },
+  {
+    "timestamp": 27.076,
+    "emotion": "angry",
+    "detailed_reasoning": "The resentment builds into more overt anger. Her voice becomes firmer and more forceful as she claims the other person can't deal with her on an equal footing. Her facial muscles are tense, and the words are spoken with a clipped, aggressive pace, signaling that her emotion has intensified to anger.",
+    "summary_reasoning": "Forceful voice, tense face."
+  },
+  {
+    "timestamp": 33.541,
+    "emotion": "hurt",
+    "detailed_reasoning": "While still angry, a layer of hurt becomes more prominent. Her voice cracks slightly on the word \"mess,\" and her eyes convey a sense of pain and vulnerability. She is expressing not just anger at the other person's actions, but the emotional injury it causes her.",
+    "summary_reasoning": "Vulnerable eyes, pained tone."
+  },
+  {
+    "timestamp": 39.834,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "Her tone shifts again, becoming mocking and sarcastic. When she says, \"Every Karen needs a bath,\" she delivers the line with a slight, insincere smile and a contemptuous tone, clearly using the name \"Karen\" as a derogatory term in a sarcastic manner.",
+    "summary_reasoning": "Mocking tone, insincere smile."
+  },
+  {
+    "timestamp": 45.144,
+    "emotion": "exasperated",
+    "detailed_reasoning": "Her anger and sarcasm peak in a display of exasperation. She turns her head to the side, her voice rises in pitch and volume, and she speaks through gritted teeth. Her facial expression is one of extreme frustration as she describes her failed attempts to be like \"Karen.\"",
+    "summary_reasoning": "Raised voice, tense jaw, turns head."
+  },
+  {
+    "timestamp": 57.949,
+    "emotion": "calm",
+    "detailed_reasoning": "After a long, tense pause where she stares blankly, her entire demeanor shifts abruptly. Her facial muscles relax completely, her tone becomes soft and neutral, and she asks a simple, unrelated question, \"How are the boys?\" This sudden and complete change from intense anger to placid calmness indicates a deliberate emotional reset.",
+    "summary_reasoning": "Relaxed face, neutral tone, long pause."
+  }
+]

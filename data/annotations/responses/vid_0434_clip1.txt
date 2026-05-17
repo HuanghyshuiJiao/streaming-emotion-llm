@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 1.213,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker begins with a serious and grave tone, stating, 'That day changed everything.' His facial expression is neutral to slightly pained, with downcast eyes, immediately setting a somber mood for the story he is about to tell.",
+    "summary_reasoning": "Grave tone, serious statement, downcast eyes."
+  },
+  {
+    "timestamp": 11.588,
+    "emotion": "sad",
+    "detailed_reasoning": "Recounting the neurologist's words, the speaker's voice is low, flat, and filled with sadness. He closes his eyes as he delivers the line, 'positive for Huntington's disease,' indicating he is recalling a deeply painful and traumatic moment.",
+    "summary_reasoning": "Sad tone, painful words, closed eyes."
+  },
+  {
+    "timestamp": 20.14,
+    "emotion": "resigned",
+    "detailed_reasoning": "The speaker's tone shifts to one of resignation and hopelessness as he describes his future. The words 'destined to slowly deteriorate' combined with a flat vocal delivery and a somber expression show his feeling of a predetermined, negative fate.",
+    "summary_reasoning": "Resigned tone, hopeless words, somber expression."
+  },
+  {
+    "timestamp": 31.272,
+    "emotion": "reminiscent",
+    "detailed_reasoning": "The speaker contrasts his state after the diagnosis with his life before. His tone becomes slightly lighter as he describes being a 'typical 20-year-old college sophomore.' This shift in topic and vocal quality suggests he is fondly reminiscing about a happier, more carefree time.",
+    "summary_reasoning": "Lighter tone, contrasting past with present."
+  },
+  {
+    "timestamp": 41.45,
+    "emotion": "amused",
+    "detailed_reasoning": "When repeating the phrase 'going out on the weekends,' the speaker's tone becomes noticeably lighter, and a small, fleeting smile appears on his face. This brief shift indicates a moment of amusement as he recalls a particularly fond memory from his past.",
+    "summary_reasoning": "Lighter tone, small smile, repeated phrase."
+  },
+  {
+    "timestamp": 45.958,
+    "emotion": "anxious",
+    "detailed_reasoning": "The mood shifts abruptly back to the negative. The word 'But' signals the change, and his tone immediately drops. His face becomes serious again as he describes the intrusive thought of his diagnosis, conveying the underlying anxiety that permeated his life after that day.",
+    "summary_reasoning": "Tone drops, serious expression, intrusive thought."
+  },
+  {
+    "timestamp": 52.43,
+    "emotion": "realization",
+    "detailed_reasoning": "The speaker's voice becomes very steady and deliberate. He explains that 'deep down inside' he already knew, but the test was the final 'confirmation.' This calm, factual delivery suggests a solemn moment of realization, where a long-held fear was finally confirmed as reality.",
+    "summary_reasoning": "Steady voice, deliberate tone, words of confirmation."
+  },
+  {
+    "timestamp": 58.1,
+    "emotion": "shocked",
+    "detailed_reasoning": "The speaker explicitly states, 'I was in shock.' His voice is flat and his facial expression is tense, with slightly widened eyes. This combination of verbal confirmation and physical cues effectively conveys the memory of being completely stunned and overwhelmed.",
+    "summary_reasoning": "Explicit statement, flat voice, tense expression."
+  }
+]

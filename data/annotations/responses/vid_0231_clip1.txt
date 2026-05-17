@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 1.372,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker introduces himself with a friendly smile and a neutral, welcoming tone. His posture is relaxed and his delivery is straightforward, indicating a calm and introductory state before the main performance begins.",
+    "summary_reasoning": "Friendly tone, simple smile."
+  },
+  {
+    "timestamp": 9.0,
+    "emotion": "dramatic",
+    "detailed_reasoning": "The scene abruptly changes to a dark, moody setting. The speaker is now in costume, holding a pipe, and has adopted a serious, theatrical facial expression. His voice deepens and he speaks slowly, setting a dramatic and mysterious tone for the story he is about to tell.",
+    "summary_reasoning": "Scene change, costume, serious face, deep voice."
+  },
+  {
+    "timestamp": 21.052,
+    "emotion": "bewildered",
+    "detailed_reasoning": "The speaker's tone shifts to one of questioning disbelief as he lists absurd fairytale scenarios. His eyes widen and his pitch rises slightly when asking about \"Sweet witches and friendly wolves?\", conveying a sense of bewilderment at this topsy-turvy world.",
+    "summary_reasoning": "Questioning tone, wide eyes, rising pitch."
+  },
+  {
+    "timestamp": 26.457,
+    "emotion": "exasperated",
+    "detailed_reasoning": "After listing the absurdities, the speaker's expression becomes more tense, and he delivers the line \"It's a world gone mad, I tell ya\" with a forceful, exasperated tone. His direct address to the audience and emphatic delivery show his frustration with the situation he's describing.",
+    "summary_reasoning": "Forceful tone, tense expression."
+  },
+  {
+    "timestamp": 30.068,
+    "emotion": "hopeful",
+    "detailed_reasoning": "The speaker's demeanor softens significantly. He begins to describe how things were looking \"sunny-side up.\" His voice becomes lighter, and a subtle, optimistic smile appears on his face, indicating a shift from frustration to a more hopeful outlook.",
+    "summary_reasoning": "Soft voice, lighter tone, subtle smile."
+  },
+  {
+    "timestamp": 39.222,
+    "emotion": "relaxed",
+    "detailed_reasoning": "The speaker's tone becomes more casual and relaxed as he describes his decision to \"call it a night.\" The mention of an \"over-easy feeling\" combined with his calm vocal delivery suggests a state of contentment and ease, right before the story takes another turn.",
+    "summary_reasoning": "Casual tone, calm voice, relaxed phrasing."
+  },
+  {
+    "timestamp": 43.769,
+    "emotion": "intense",
+    "detailed_reasoning": "The atmosphere shifts dramatically with the line \"When she walked in.\" The speaker's voice drops to a lower, more serious register. His eyes widen and his expression becomes fixed and intense, building suspense for the character he is about to introduce.",
+    "summary_reasoning": "Low voice, wide eyes, building suspense."
+  },
+  {
+    "timestamp": 52.141,
+    "emotion": "dramatic",
+    "detailed_reasoning": "For the final reveal, the speaker's energy peaks. His delivery of \"the witchiest woman west of the Walla Walla\" is loud, emphatic, and highly theatrical. His eyes are wide with a look of dramatic shock, bringing the short monologue to a climactic and performative end.",
+    "summary_reasoning": "Loud, emphatic voice, wide-eyed shock."
+  }
+]

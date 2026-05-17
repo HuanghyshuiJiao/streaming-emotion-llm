@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "worried",
+    "detailed_reasoning": "The speaker begins by stating she is in 'big trouble.' Her facial expression is serious, her eyebrows are slightly furrowed, and her tone of voice is flat and somber. This combination of verbal content and non-verbal cues indicates a state of worry or concern about her situation.",
+    "summary_reasoning": "Serious expression, flat tone, negative words."
+  },
+  {
+    "timestamp": 4.518,
+    "emotion": "anxious",
+    "detailed_reasoning": "As she mentions being outside the principal's office, she breaks eye contact and looks away to her right. This glance away is a classic avoidance behavior. Combined with the serious context, it suggests a shift from general worry to a more specific and heightened state of anxiety about the impending meeting with the principal.",
+    "summary_reasoning": "Looks away, serious context."
+  },
+  {
+    "timestamp": 7.764,
+    "emotion": "fearful",
+    "detailed_reasoning": "The speaker's eyes widen slightly and her gaze intensifies as she reveals that her parents have been called. The involvement of her parents clearly raises the stakes, and her facial expression and more direct, concerned tone signal a shift from anxiety to outright fear of the consequences she will face from them.",
+    "summary_reasoning": "Eyes widen, mentions parents, concerned tone."
+  },
+  {
+    "timestamp": 14.976,
+    "emotion": "scheming",
+    "detailed_reasoning": "There is a noticeable shift in demeanor. The speaker looks away, as if thinking of a plan, and a brief, wry smile crosses her lips. Her vocal tone becomes lighter as she suggests the exaggerated idea of escaping to Mexico. This indicates a momentary shift from fear to a desperate, fantastical form of plotting or scheming an escape.",
+    "summary_reasoning": "Looks away, wry smile, escape fantasy."
+  },
+  {
+    "timestamp": 18.381,
+    "emotion": "dread",
+    "detailed_reasoning": "The escape fantasy is quickly replaced by the memory of a past punishment. Her expression becomes grim and serious again, and her tone drops, becoming grave. This recollection of a severe past consequence brings a palpable sense of dread about history repeating itself.",
+    "summary_reasoning": "Grim face, grave tone, recalls past punishment."
+  },
+  {
+    "timestamp": 23.289,
+    "emotion": "desperate",
+    "detailed_reasoning": "The video culminates in a final, sharp exclamation. Her eyes are wide and she looks directly at the camera with a panicked expression as she cries 'Help!'. The high pitch and sharp delivery of this single word is a clear vocal and facial expression of utter desperation.",
+    "summary_reasoning": "Wide eyes, panicked face, high-pitched plea."
+  }
+]

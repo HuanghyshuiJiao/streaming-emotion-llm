@@ -1,0 +1,74 @@
+[
+  {
+    "timestamp": 1.473,
+    "emotion": "annoyed",
+    "detailed_reasoning": "The speaker's initial tone is stern and accusatory. His facial expression is serious, with narrowed eyes and a firm mouth, indicating he is annoyed and confronting someone.",
+    "summary_reasoning": "Stern tone, serious expression."
+  },
+  {
+    "timestamp": 6.339,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker repeats his accusation, but this time his voice is louder and more emphatic, especially on the words 'for a fact.' This escalation in volume and insistence shows his growing frustration that he is not being believed or taken seriously.",
+    "summary_reasoning": "Louder voice, emphatic tone."
+  },
+  {
+    "timestamp": 10.604,
+    "emotion": "angry",
+    "detailed_reasoning": "The speaker's accusation becomes more specific ('stole all my clothes'). His tone becomes sharper and more aggressive, and his head movements are more pronounced, signaling a clear shift from frustration to anger.",
+    "summary_reasoning": "Sharp tone, aggressive delivery."
+  },
+  {
+    "timestamp": 12.446,
+    "emotion": "exasperated",
+    "detailed_reasoning": "The speaker gestures towards his own clothes while saying 'This is all I have to wear.' His voice takes on a quality of disbelief and helplessness, indicating his exasperation with the situation.",
+    "summary_reasoning": "Gesturing, helpless tone."
+  },
+  {
+    "timestamp": 17.111,
+    "emotion": "disgusted",
+    "detailed_reasoning": "When talking about the 'freaking pink tie,' his voice rises in pitch and volume. His facial expression shows clear disgust, as if the thought of the tie is repulsive to him.",
+    "summary_reasoning": "High-pitched voice, disgusted facial expression."
+  },
+  {
+    "timestamp": 22.698,
+    "emotion": "contemptuous",
+    "detailed_reasoning": "The speaker compares the tie to 'Pepto-Bismol' in a sarcastic tone. His delivery is filled with ridicule, showing contempt for the person who he believes gave it to him.",
+    "summary_reasoning": "Sarcastic tone, ridicule."
+  },
+  {
+    "timestamp": 29.346,
+    "emotion": "furious",
+    "detailed_reasoning": "His volume increases significantly as he yells the question 'Are you crazy?'. His eyes are wide and his expression is intensely aggressive, marking a peak in his anger and a shift to fury.",
+    "summary_reasoning": "Yelling, aggressive expression."
+  },
+  {
+    "timestamp": 37.414,
+    "emotion": "angry",
+    "detailed_reasoning": "The speaker's anger continues as he brings up another complaint about the 'mess... in my kitchen.' The consistent aggressive tone and sharp delivery maintain the feeling of anger.",
+    "summary_reasoning": "Aggressive tone, sharp delivery."
+  },
+  {
+    "timestamp": 41.539,
+    "emotion": "accusatory",
+    "detailed_reasoning": "The topic shifts to 'all those women.' While still angry, his tone becomes more pointedly accusatory, as if he is revealing a long-held grievance. The way he says 'I see them' is both a statement and a warning.",
+    "summary_reasoning": "Pointed tone, new accusation."
+  },
+  {
+    "timestamp": 46.787,
+    "emotion": "disgusted",
+    "detailed_reasoning": "His face twists into an expression of pure disgust as he talks about the dog smelling 'up to high hell.' The vocal delivery is filled with revulsion, clearly showing his disgust for the animal's smell.",
+    "summary_reasoning": "Disgusted facial expression, revolted tone."
+  },
+  {
+    "timestamp": 50.732,
+    "emotion": "threatening",
+    "detailed_reasoning": "After a brief, exasperated pause, the speaker's tone becomes cold and deliberate as he says, 'I'm going to call the police on you.' The directness of the statement and his hardened expression convey a clear threat.",
+    "summary_reasoning": "Cold tone, direct threat."
+  },
+  {
+    "timestamp": 55.779,
+    "emotion": "mocking",
+    "detailed_reasoning": "There is a sudden and dramatic shift in demeanor. After threatening to call the police, the speaker's face breaks into a wide, unsettling smile and he begins to laugh. This abrupt change from fury to manic laughter is deeply mocking and sarcastic, directed at the other person's perceived expectations.",
+    "summary_reasoning": "Abrupt mood change, manic laughter, smiling."
+  }
+]

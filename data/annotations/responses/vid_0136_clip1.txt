@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp": 2.373,
+    "emotion": "happy",
+    "detailed_reasoning": "The speaker introduces herself with a bright, wide smile and a friendly wave to the camera. Her vocal tone is cheerful and high-pitched, indicating a positive and welcoming emotional state at the beginning of the video.",
+    "summary_reasoning": "Smiling, waving, cheerful tone."
+  },
+  {
+    "timestamp": 5.056,
+    "emotion": "excited",
+    "detailed_reasoning": "While still smiling, her energy level increases as she announces the monologue she is about to perform. Her voice becomes more animated and her eyes widen, suggesting enthusiasm and excitement for the performance.",
+    "summary_reasoning": "Animated voice, wider eyes."
+  },
+  {
+    "timestamp": 14.867,
+    "emotion": "frustrated",
+    "detailed_reasoning": "There is a sudden and dramatic shift in emotion as the monologue begins. Her smile disappears, her eyebrows furrow, and she lets out an audible sigh. Her voice becomes louder and more forceful, conveying a strong sense of frustration as she says she is \"sick of being at sea.\"",
+    "summary_reasoning": "No smile, furrowed brows, sigh, forceful voice."
+  },
+  {
+    "timestamp": 20.312,
+    "emotion": "longing",
+    "detailed_reasoning": "Her frustration softens into a more wistful emotion. Her facial expression becomes less tense, she looks up with a dreamy gaze, and her vocal tone becomes softer and more drawn out, indicating a deep longing to \"feel solid ground.\"",
+    "summary_reasoning": "Softer face, dreamy gaze, wistful tone."
+  },
+  {
+    "timestamp": 26.099,
+    "emotion": "yearning",
+    "detailed_reasoning": "The emotion of longing intensifies into yearning as she imagines a specific comfort. She closes her eyes blissfully and her voice drops to an almost breathy, soft tone, full of pleasure at the thought of a \"nice warm bath.\"",
+    "summary_reasoning": "Eyes closed, soft breathy voice."
+  },
+  {
+    "timestamp": 30.007,
+    "emotion": "disgusted",
+    "detailed_reasoning": "Her dreamy expression is instantly replaced by one of disgust. Her eyes snap open, her face scrunches up, and her tone becomes sharp and harsh when mentioning the \"freezing cold seawater,\" showing clear revulsion.",
+    "summary_reasoning": "Scrunched face, sharp tone."
+  },
+  {
+    "timestamp": 33.232,
+    "emotion": "angry",
+    "detailed_reasoning": "Her frustration peaks into anger. She pulls off her bandana and aggressively messes up her hair while shouting the line. Her voice is loud, high-pitched, and frantic, and her facial expression is tense with rage.",
+    "summary_reasoning": "Aggressive gesture, shouting, tense face."
+  },
+  {
+    "timestamp": 36.637,
+    "emotion": "determined",
+    "detailed_reasoning": "Following her angry outburst, her demeanor shifts to one of firm resolution. She shakes her head decisively, and her vocal tone becomes steady and firm, emphasizing her decision that the \"pirate's life\" is over for her.",
+    "summary_reasoning": "Decisive head shake, firm tone."
+  },
+  {
+    "timestamp": 40.463,
+    "emotion": "contemptuous",
+    "detailed_reasoning": "Her expression shifts to show disdain for her former life and companions. She rolls her eyes and uses a scornful tone of voice when referring to her crewmates as \"yo-yos,\" indicating contempt.",
+    "summary_reasoning": "Eye roll, scornful tone."
+  },
+  {
+    "timestamp": 45.33,
+    "emotion": "weary",
+    "detailed_reasoning": "Her posture slumps slightly and her face shows exhaustion. Her voice becomes low and heavy, reflecting the fatigue and disgust she expresses with the words \"I am tired of all the bottles and bums.\"",
+    "summary_reasoning": "Slumped posture, low and heavy voice."
+  },
+  {
+    "timestamp": 49.436,
+    "emotion": "yearning",
+    "detailed_reasoning": "Her weariness transforms back into a deep sense of yearning for simple comforts. She looks upward with a softened, dreamy expression, and her voice becomes soft and slow, filled with intense desire for a \"chilled glass goblet\" and \"ice cold milk.\"",
+    "summary_reasoning": "Upward gaze, soft and slow voice."
+  }
+]

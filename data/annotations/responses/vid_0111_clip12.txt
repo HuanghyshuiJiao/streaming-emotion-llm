@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 6.158,
+    "emotion": "composed",
+    "detailed_reasoning": "The speaker begins her speech with a calm and measured tone. Her facial expression is neutral and she maintains steady eye contact with the audience, establishing a composed and authoritative presence from the start.",
+    "summary_reasoning": "Calm tone, neutral expression, steady eye contact."
+  },
+  {
+    "timestamp": 9.122,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker's tone becomes slightly lighter and a subtle smile appears on her face as she refers to her earlier instruction for the audience to hand their phones to neighbors. This indicates a sense of lightheartedness and amusement at the situation she created.",
+    "summary_reasoning": "Lighter tone, slight smile."
+  },
+  {
+    "timestamp": 15.609,
+    "emotion": "empowering",
+    "detailed_reasoning": "After the moment of amusement, the speaker's tone shifts to become more serious and direct. She emphasizes the word \"yours,\" pointing slightly with her head and using a firm tone to empower the audience and highlight their agency in the decision.",
+    "summary_reasoning": "Serious tone, emphasis on \"yours\", head gesture."
+  },
+  {
+    "timestamp": 18.352,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker transitions to the main body of her speech. Her tone becomes clear and instructive, her expression is neutral, and she clearly signposts that she is about to provide a list of ideas. This signals a shift to an informative and advisory mode.",
+    "summary_reasoning": "Clear tone, neutral expression, signposting language."
+  },
+  {
+    "timestamp": 26.722,
+    "emotion": "engaging",
+    "detailed_reasoning": "The speaker directly addresses the audience with the phrase \"See if any of these appeals to you.\" Her tone is inviting and she makes a slight gesture with her hand, actively trying to engage the audience and make the information personally relevant to them.",
+    "summary_reasoning": "Inviting tone, direct address, hand gesture."
+  },
+  {
+    "timestamp": 34.497,
+    "emotion": "authoritative",
+    "detailed_reasoning": "When delivering the first piece of advice, the speaker's tone is confident and direct. She states the proverb \"Out of sight is out of mind\" as a matter of fact, reinforcing her authority and the validity of her suggestion.",
+    "summary_reasoning": "Confident tone, direct delivery, stating a fact."
+  },
+  {
+    "timestamp": 39.724,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "Introducing the second idea, \"change your sky to screen ratio,\" the speaker's pace slows slightly and her tone becomes more metaphorical and contemplative. This signals a shift from purely practical advice to a more thoughtful and profound concept.",
+    "summary_reasoning": "Slower pace, metaphorical language, contemplative tone."
+  },
+  {
+    "timestamp": 45.011,
+    "emotion": "encouraging",
+    "detailed_reasoning": "The speaker's tone becomes more uplifting and energetic as she says \"get up and walk out the door.\" She uses a direct command with a positive inflection, encouraging the audience to take action when feeling negative emotions.",
+    "summary_reasoning": "Uplifting tone, energetic delivery, direct command."
+  },
+  {
+    "timestamp": 54.844,
+    "emotion": "wry",
+    "detailed_reasoning": "The speaker concludes her point with a humorous and critical observation about the sky not having a \"marketing department\" or \"fancy algorithm.\" A clear, knowing smile spreads across her face, and her tone is wry, sharing a moment of subtle social commentary with the audience.",
+    "summary_reasoning": "Knowing smile, wry tone, humorous commentary."
+  }
+]

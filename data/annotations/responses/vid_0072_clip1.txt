@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 5.257,
+    "emotion": "inquisitive",
+    "detailed_reasoning": "The speaker poses a rhetorical question about her happiness. Her tone is soft and questioning, and her facial expression is neutral with a slight, subtle smile, suggesting she is pondering the reason for her joy rather than simply stating it.",
+    "summary_reasoning": "Questioning tone, neutral face, rhetorical question."
+  },
+  {
+    "timestamp": 14.566,
+    "emotion": "serene",
+    "detailed_reasoning": "Describing a peaceful scene, her eyes look upwards as if visualizing it. Her voice becomes softer and has a more melodic, dreamy quality, reflecting the tranquil imagery she is conjuring.",
+    "summary_reasoning": "Upward gaze, soft dreamy voice, peaceful words."
+  },
+  {
+    "timestamp": 18.751,
+    "emotion": "pensive",
+    "detailed_reasoning": "She repeats the question \"Why?\" with a more focused and searching tone. Her expression is still, and her brows are slightly furrowed, indicating a deeper, more introspective search for an answer.",
+    "summary_reasoning": "Searching tone, still expression, repeated question."
+  },
+  {
+    "timestamp": 34.725,
+    "emotion": "enlightened",
+    "detailed_reasoning": "The speaker describes a moment of sudden clarity. Her eyes widen slightly, and her vocal tone becomes clearer and more pronounced, conveying a sense of revelation and understanding that she didn't have before.",
+    "summary_reasoning": "Widened eyes, clear tone, words of clarity."
+  },
+  {
+    "timestamp": 39.29,
+    "emotion": "certain",
+    "detailed_reasoning": "Her tone shifts to one of conviction as she states she knew how life had to be lived. Her facial expression becomes more grounded and her delivery is more direct and less dreamy, indicating a newfound certainty.",
+    "summary_reasoning": "Convicted tone, grounded expression, direct delivery."
+  },
+  {
+    "timestamp": 59.13,
+    "emotion": "convinced",
+    "detailed_reasoning": "She concludes with a philosophical statement about the purpose of life through labor. Her tone is firm and resolute, and she makes direct eye contact. Her expression is serious and unwavering, showing she fully believes in the principle she is articulating.",
+    "summary_reasoning": "Firm tone, direct eye contact, serious expression, declarative words."
+  }
+]

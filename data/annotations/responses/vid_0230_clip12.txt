@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 6.14,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her talk with a calm and measured tone. Her facial expression is relaxed with a gentle smile, and her body language is composed, suggesting she is comfortable and at ease while introducing her story.",
+    "summary_reasoning": "Calm tone, relaxed face, composed posture."
+  },
+  {
+    "timestamp": 9.345,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's tone shifts to become more formal and assertive. Her facial expression is more neutral and focused, losing the previous smile. This change aligns with the text where she is setting the terms of an 'agreement,' indicating a shift to a more serious and deliberate state of mind.",
+    "summary_reasoning": "Assertive tone, neutral expression."
+  },
+  {
+    "timestamp": 16.976,
+    "emotion": "reassuring",
+    "detailed_reasoning": "The speaker breaks the fourth wall to address the audience directly. Her tone softens, and she adopts a light, almost conspiratorial smile as she says 'don't get spooked'. This is a deliberate shift to reassure the audience and add a touch of humor, preventing them from taking her internal voice concept too literally or strangely.",
+    "summary_reasoning": "Soft tone, slight smile, direct address."
+  },
+  {
+    "timestamp": 24.908,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker's expression becomes more introspective as she describes her internal experience. Her voice is steady and explanatory, without the reassuring humor from the previous line. She is now focused on clearly articulating a complex psychological idea, giving her a thoughtful and analytical demeanor.",
+    "summary_reasoning": "Introspective expression, explanatory tone."
+  },
+  {
+    "timestamp": 32.259,
+    "emotion": "determined",
+    "detailed_reasoning": "There is a significant shift in the speaker's delivery. Her voice becomes much firmer and more commanding. Her facial expression is serious and intense, and she uses a pointed gesture. This powerful delivery reflects the assertive text, where she is setting a firm boundary with her internal voice, conveying strong determination.",
+    "summary_reasoning": "Firm tone, serious expression, commanding words."
+  },
+  {
+    "timestamp": 39.351,
+    "emotion": "relieved",
+    "detailed_reasoning": "Following the moment of determination, the speaker's entire demeanor softens. Her tone becomes lighter, she gives a small, satisfied smile, and nods as she recounts the voice saying 'okay.' This marks the resolution of the internal conflict, and her expression and tone convey a sense of relief and successful negotiation.",
+    "summary_reasoning": "Soft tone, satisfied smile, nod."
+  },
+  {
+    "timestamp": 48.886,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker's expression opens up into a clear, bright smile. Her tone becomes lighthearted and cheerful as she describes the different 'voices' she discovered. The way she delivers the line 'some of them more fun than others' has a distinctly humorous and self-aware quality, indicating amusement.",
+    "summary_reasoning": "Bright smile, lighthearted tone, humorous delivery."
+  },
+  {
+    "timestamp": 57.602,
+    "emotion": "humorous",
+    "detailed_reasoning": "The speaker concludes the segment with a highly amusing metaphor, comparing her mind to a 'focus group.' Her smile is knowing, and her tone is filled with irony and humor. The audience reacts with laughter, confirming the humorous intent and effect of her delivery and words.",
+    "summary_reasoning": "Knowing smile, ironic tone, humorous metaphor."
+  }
+]

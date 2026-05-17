@@ -1,0 +1,35 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "neutral",
+    "detailed_reasoning": "The speaker begins the presentation by stating the name of the event. His tone is clear, professional, and serves as a formal opening. His facial expression and body language are neutral and poised, indicating a standard, informative start.",
+    "summary_reasoning": "Professional tone, formal opening."
+  },
+  {
+    "timestamp": 1.573,
+    "emotion": "inquisitive",
+    "detailed_reasoning": "The speaker transitions from a statement to a direct question aimed at the audience. His vocal pitch rises, adopting a questioning intonation. He also begins to use more open hand gestures to encourage audience participation, signaling a shift to an interactive and inquisitive mode.",
+    "summary_reasoning": "Questioning tone, open gestures."
+  },
+  {
+    "timestamp": 6.838,
+    "emotion": "encouraging",
+    "detailed_reasoning": "Upon seeing the audience raise their hands, the speaker's tone becomes lighter and more conversational, as evidenced by the friendly interjection \"Hey.\" He smiles and nods, positively reinforcing their participation and building rapport.",
+    "summary_reasoning": "Conversational tone, smile, nodding."
+  },
+  {
+    "timestamp": 10.542,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker references a personal, recent interaction with \"Dave.\" His tone becomes more narrative and slightly softer as he recounts the memory. He uses a handshaking gesture to visually illustrate the moment, indicating he is reflecting on this specific example to make a point.",
+    "summary_reasoning": "Narrative tone, personal anecdote, illustrative gesture."
+  },
+  {
+    "timestamp": 21.693,
+    "emotion": "engaged",
+    "detailed_reasoning": "The speaker pivots back to the audience with another direct question. His posture becomes more forward and his energy level increases. He repeats the question, emphasizing his intent to engage the audience and solicit their active participation.",
+    "summary_reasoning": "Forward posture, increased energy, repeated question."
+  },
+  {
+    "timestamp": 26.778,
+    "emotion": "attentive",
+    "detailed_reasoning": "The speaker pauses to listen to the audience's responses. He is shown no

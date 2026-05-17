@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 6.039,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker maintains a neutral and composed facial expression. His vocal tone is steady, soft, and measured, and he uses very subtle, deliberate hand gestures. This combination of visual and auditory cues establishes a calm, peaceful, and instructive mood as he introduces his topic.",
+    "summary_reasoning": "Composed expression, steady soft voice, deliberate gestures."
+  },
+  {
+    "timestamp": 9.384,
+    "emotion": "serious",
+    "detailed_reasoning": "While his overall demeanor remains calm, the speaker's tone takes on a more serious and cautionary quality when he mentions \"toxic people.\" His eyebrows lower slightly, and his expression becomes more focused, indicating a shift from a general introduction to highlighting a specific, serious concern.",
+    "summary_reasoning": "Cautionary tone, focused expression."
+  },
+  {
+    "timestamp": 15.652,
+    "emotion": "encouraging",
+    "detailed_reasoning": "The speaker's tone becomes more uplifting and positive as he talks about focusing on oneself. He gestures toward his own chest when saying \"ourselves,\" making the message more personal and direct. His facial expression softens, conveying a sense of gentle encouragement and offering a positive solution.",
+    "summary_reasoning": "Uplifting tone, personal gesture, soft expression."
+  },
+  {
+    "timestamp": 21.38,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker breaks into a wide, genuine smile, showing dimples. His tone becomes lighthearted as he says, \"See, it is easy to criticize.\" This creates a contrast with the negative words being spoken, suggesting a gentle, knowing amusement at this common human tendency rather than a criticism of it.",
+    "summary_reasoning": "Wide smile, lighthearted tone."
+  },
+  {
+    "timestamp": 30.814,
+    "emotion": "sincere",
+    "detailed_reasoning": "The speaker's broad smile softens into a more gentle and warm expression. His voice becomes softer and more heartfelt, with a slower pace on the words \"bravery and kindness.\" This change indicates a shift from general observation to expressing a deep, sincere conviction.",
+    "summary_reasoning": "Soft expression, heartfelt tone, slower pace."
+  },
+  {
+    "timestamp": 38.847,
+    "emotion": "accepting",
+    "detailed_reasoning": "When listing common human flaws like \"imperfections\" and \"mistakes,\" the speaker's tone is gentle and completely free of judgment. His facial expression is one of calm acceptance and empathy, creating a feeling that he is normalizing these universal experiences.",
+    "summary_reasoning": "Non-judgmental tone, empathetic expression."
+  },
+  {
+    "timestamp": 47.0,
+    "emotion": "wise",
+    "detailed_reasoning": "The speaker's tone becomes more emphatic and declarative as he delivers the key message: \"that makes us who we are.\" He uses a distinct hand gesture for emphasis and his gaze is direct. This conveys a sense of profound, concluding wisdom, reframing imperfections as essential parts of identity.",
+    "summary_reasoning": "Emphatic tone, direct gaze, emphasis gesture."
+  },
+  {
+    "timestamp": 52.249,
+    "emotion": "friendly",
+    "detailed_reasoning": "After making his philosophical point, the speaker's demeanor shifts to be more conversational and practical. His smile returns, his tone becomes lighter, and he uses open hand gestures. This change indicates he is now offering friendly, relatable advice based on the wisdom he has shared.",
+    "summary_reasoning": "Smiling expression, conversational tone, open gestures."
+  }
+]

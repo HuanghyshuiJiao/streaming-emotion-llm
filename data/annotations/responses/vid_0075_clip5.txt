@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 5.659,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his speech with a calm and measured tone. His facial expression is neutral and he makes steady eye contact with the audience. The content of his speech is philosophical, discussing the concept of luck, which he delivers in a very composed and thoughtful manner.",
+    "summary_reasoning": "Calm tone, neutral expression, measured speech."
+  },
+  {
+    "timestamp": 14.873,
+    "emotion": "amused",
+    "detailed_reasoning": "After offering sympathy to those with a 'horrible family,' the speaker adds, 'but you are still lucky,' which has a humorous, paradoxical quality. This is followed by a slight pause and a subtle smirk, indicating he is aware of the comedic turn. The audience's light laughter reinforces this shift to an amused tone.",
+    "summary_reasoning": "Humorous paradox, slight smirk, audience laughter."
+  },
+  {
+    "timestamp": 26.85,
+    "emotion": "humorous",
+    "detailed_reasoning": "The speaker delivers a clear punchline by sarcastically congratulating the audience for 'dragging yourself up by your shoelaces' and then immediately undercutting the sentiment. His delivery is wry, and he has a distinct smile on his face as the audience laughs loudly. The man behind him is also visibly amused, adding to the humorous atmosphere.",
+    "summary_reasoning": "Wry tone, smiling, strong audience laughter."
+  },
+  {
+    "timestamp": 41.554,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker's focus shifts inward as he applies his logic to his own achievements. His tone becomes more introspective and his gaze shifts slightly as if in thought. He says, 'I didn't make the bit of me that works hard,' which is a philosophical and self-analytical statement, moving away from the purely humorous tone of the previous lines.",
+    "summary_reasoning": "Introspective tone, self-analytical words, thoughtful gaze."
+  },
+  {
+    "timestamp": 48.241,
+    "emotion": "humorous",
+    "detailed_reasoning": "The speaker shifts back to a humorous and self-deprecating tone by joking about eating burgers instead of attending lectures. He smiles openly while delivering this line, and the audience responds with laughter, indicating a clear return to a lighthearted and funny emotional state.",
+    "summary_reasoning": "Self-deprecating tone, smiling, audience laughter."
+  },
+  {
+    "timestamp": 53.96,
+    "emotion": "sincere",
+    "detailed_reasoning": "The speaker's entire demeanor changes as he delivers the conclusion of his message. His tone becomes serious, lower in pitch, and more deliberate. He stops smiling and adopts an earnest facial expression. The content becomes purely philosophical, about humility and compassion, marking a distinct shift from humor to sincerity.",
+    "summary_reasoning": "Serious tone, earnest expression, philosophical words."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins with a serious and focused facial expression. Her tone is measured and explanatory as she describes negative behavioral patterns in a relationship. Her hand gestures are controlled and deliberate, reinforcing the serious, analytical nature of her opening statement.",
+    "summary_reasoning": "Serious expression, measured tone, analytical content."
+  },
+  {
+    "timestamp": 11.122,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker's tone shifts to be more anecdotal and she delivers a punchline about a person always getting into fights in bars. A subtle, knowing smile appears, and her eyes crinkle slightly. The audience's laughter reinforces this shift to a moment of shared, relatable humor.",
+    "summary_reasoning": "Anecdotal tone, subtle smile, audience laughter."
+  },
+  {
+    "timestamp": 17.569,
+    "emotion": "earnest",
+    "detailed_reasoning": "The speaker's demeanor changes from amused to sincere. Her facial expression softens, her tone becomes lower and more gentle, and her hand gestures move towards her chest as she speaks about offering \"wise compassion... to ourselves.\" This combination of cues conveys a deep sense of sincerity and earnestness in her message.",
+    "summary_reasoning": "Softened expression, gentle tone, sincere gestures."
+  },
+  {
+    "timestamp": 25.717,
+    "emotion": "playful",
+    "detailed_reasoning": "The speaker's expression becomes more animated as she introduces the slightly comical phrase \"delivering compassionate truth bombs,\" which elicits a light laugh from the audience. Her eyebrows are raised, and a slight smile plays on her lips, indicating she is being intentionally playful with her language to keep the audience engaged.",
+    "summary_reasoning": "Animated expression, comical phrase, audience laughter."
+  },
+  {
+    "timestamp": 29.977,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker is no longer on screen; an animation is shown while she provides a voiceover. Her voice is calm, even-paced, and informative as she explains the concept she just introduced. Without visual cues, the steady and neutral vocal delivery points to a calm, explanatory state.",
+    "summary_reasoning": "Voiceover, calm even pace, informative tone."
+  },
+  {
+    "timestamp": 34.762,
+    "emotion": "contemplative",
+    "detailed_reasoning": "The speaker returns to the screen with a more pensive and serious expression. She tilts her head and uses a slower, more deliberate speaking pace as she lists the unknown elements of the story she's referencing. Her tone is questioning, reflecting a state of contemplation about the missing pieces of the narrative.",
+    "summary_reasoning": "Pensive expression, head tilt, slow deliberate pace."
+  },
+  {
+    "timestamp": 44.154,
+    "emotion": "analytical",
+    "detailed_reasoning": "The speaker shifts into an analytical mode, proposing a psychological explanation for the woman's story. Her tone becomes more pointed and her gestures are precise, as if dissecting the situation. Her facial expression is focused, conveying a sense of careful analysis of the character's motivations.",
+    "summary_reasoning": "Analytical tone, focused expression, precise gestures."
+  },
+  {
+    "timestamp": 56.215,
+    "emotion": "engaging",
+    "detailed_reasoning": "The speaker uses another analogy involving a Rorschach test to connect with the audience. Her expression becomes more open, her eyebrows raise, and she looks directly at the audience members while asking a question. This direct address and open body language are clearly intended to be engaging and ensure the audience understands her point.",
+    "summary_reasoning": "Direct audience address, open expression, raised eyebrows."
+  }
+]

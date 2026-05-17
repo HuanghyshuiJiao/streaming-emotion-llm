@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 1.433,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins with a very formal and serious tone. His voice is measured and low-pitched, and his facial expression is neutral and stern. He is setting a solemn and important tone for the beginning of his speech.",
+    "summary_reasoning": "Formal tone, stern expression, measured voice."
+  },
+  {
+    "timestamp": 6.14,
+    "emotion": "concerned",
+    "detailed_reasoning": "The speaker's tone shifts as he begins to talk about the negative aspects of the present day. His voice takes on a more critical and concerned quality, and his eyebrows furrow slightly. This change indicates his disapproval and concern for the cultural shift he is describing.",
+    "summary_reasoning": "Critical tone, furrowed eyebrows."
+  },
+  {
+    "timestamp": 15.473,
+    "emotion": "assertive",
+    "detailed_reasoning": "The speaker's delivery becomes more firm and definitive. He emphasizes key words like \"strength,\" \"weakness,\" and \"insecurity\" to make a strong counterpoint. His unwavering gaze and confident tone project assertiveness as he refutes a common misconception.",
+    "summary_reasoning": "Firm delivery, emphasized words, confident tone."
+  },
+  {
+    "timestamp": 21.001,
+    "emotion": "empathetic",
+    "detailed_reasoning": "The tone softens considerably as he speaks about putting oneself in another's shoes. His voice becomes gentler and more thoughtful, and his facial expression relaxes. This shift conveys a sense of compassion and empathy, contrasting with his previous assertive statement.",
+    "summary_reasoning": "Softened tone, gentle voice, relaxed expression."
+  },
+  {
+    "timestamp": 31.194,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker adopts an explanatory and thoughtful tone, referencing studies and psychological concepts. His pace is deliberate and his expression is focused, as if he is carefully laying out an argument for the audience to consider. He is reasoning with them, not just making pronouncements.",
+    "summary_reasoning": "Explanatory tone, deliberate pace, focused expression."
+  },
+  {
+    "timestamp": 41.681,
+    "emotion": "impassioned",
+    "detailed_reasoning": "There is a significant shift in energy and emotion. The speaker's voice becomes much more forceful, loud, and urgent. He uses a pointed finger gesture to emphasize his plea, and his facial expression is intense and determined. This is a direct and impassioned call to action.",
+    "summary_reasoning": "Forceful voice, urgent tone, pointing gesture."
+  },
+  {
+    "timestamp": 48.699,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker's tone becomes somber and his volume decreases as he lists the real-world struggles of the people in the audience. His pace slows, and he gestures broadly towards the crowd, creating a feeling of shared gravity and empathy for those experiencing hardship. The mood becomes heavy and serious.",
+    "summary_reasoning": "Softer, slower voice, somber tone, gesturing to audience."
+  }
+]

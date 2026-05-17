@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 6.119,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker is listing a series of grave medical scenarios ('miscarry,' 'bleed to death'). His tone is measured and somber, and his facial expression is intense and focused, establishing a serious and weighty atmosphere for his argument.",
+    "summary_reasoning": "Grave tone, serious subject matter, intense expression."
+  },
+  {
+    "timestamp": 11.086,
+    "emotion": "challenging",
+    "detailed_reasoning": "After setting the grave scene, he pivots to a rhetorical question, 'who do you think they are praying to?'. His tone shifts from descriptive to pointedly inquisitive, and his eyes look up as if prompting a specific, self-serving answer. This challenges the listener's assumptions and implies that he, the doctor, is the one being prayed to.",
+    "summary_reasoning": "Rhetorical question, pointed tone, upward gaze."
+  },
+  {
+    "timestamp": 18.296,
+    "emotion": "condescending",
+    "detailed_reasoning": "The speaker's tone becomes patronizing as he tells the other person to 'go ahead and you read your Bible, Dennis.' The suggestion that at church he might 'actually win the annual raffle' is sarcastic and dismissive, belittling the other person's faith in comparison to the life-saving work he performs.",
+    "summary_reasoning": "Patronizing tone, sarcastic words, dismissive attitude."
+  },
+  {
+    "timestamp": 27.487,
+    "emotion": "authoritative",
+    "detailed_reasoning": "His voice drops and becomes firm as he declares, 'He was in operating room two on November 17th.' He is no longer being hypothetical; he is stating his own actions as a divine event. The follow-up, 'and he does not like being second-guessed,' is a clear assertion of his own absolute authority and infallibility in his domain.",
+    "summary_reasoning": "Firm tone, assertive statement, claims infallibility."
+  },
+  {
+    "timestamp": 34.094,
+    "emotion": "arrogant",
+    "detailed_reasoning": "He directly addresses the accusation, 'You ask me if I have a God complex?' His tone is not defensive but rather filled with self-satisfaction. A slight, knowing smile plays on his lips, indicating that he not only accepts this characterization but revels in it, using it as a launchpad for his final statement.",
+    "summary_reasoning": "Smirk, self-satisfied tone, embraces the accusation."
+  },
+  {
+    "timestamp": 41.845,
+    "emotion": "triumphant",
+    "detailed_reasoning": "After a long, dramatic pause where he holds a steady, powerful gaze, he delivers the ultimate declaration with quiet finality: 'I am God.' The calm, unwavering delivery, devoid of any doubt, represents the absolute peak of his hubris. It's a triumphant confirmation of the God complex he was just asked about.",
+    "summary_reasoning": "Dramatic pause, quiet unwavering tone, final declaration."
+  }
+]

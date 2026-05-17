@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 6.339,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins with a calm and even vocal tone. His facial expression is neutral, and his posture is relaxed. He is setting a thoughtful and philosophical stage for his speech, speaking in a measured and deliberate manner.",
+    "summary_reasoning": "Even tone, neutral expression, deliberate speech."
+  },
+  {
+    "timestamp": 15.391,
+    "emotion": "inspired",
+    "detailed_reasoning": "The speaker's tone shifts to become more motivational as he discusses forging a new path. His vocal pitch rises slightly, and his hand gestures become more purposeful, indicating a move from a neutral statement to an inspiring call to action.",
+    "summary_reasoning": "Motivational tone, purposeful gestures."
+  },
+  {
+    "timestamp": 24.023,
+    "emotion": "serious",
+    "detailed_reasoning": "When talking about the choice between good and evil, the speaker's tone becomes more grave and deliberate. His eyebrows are slightly raised, and he enunciates the words 'good' and 'evil' with emphasis, conveying the weight of the decision.",
+    "summary_reasoning": "Grave tone, deliberate speech, raised eyebrows."
+  },
+  {
+    "timestamp": 33.712,
+    "emotion": "hopeful",
+    "detailed_reasoning": "The speaker's emotion shifts to hopeful as he defines what a hero is. His vocal tone becomes warmer and more uplifting, and his facial expression softens. The content focuses on positive actions like changing what is wrong, which is reflected in his optimistic delivery.",
+    "summary_reasoning": "Uplifting tone, warm expression, positive words."
+  },
+  {
+    "timestamp": 42.894,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker's mood becomes somber as he acknowledges the difficulties of being a hero. His pace slows, his vocal tone lowers, and his expression turns more pensive. Words like 'weak' and 'helpless' are delivered with a soft, empathetic quality.",
+    "summary_reasoning": "Slower pace, lower tone, pensive expression."
+  },
+  {
+    "timestamp": 50.051,
+    "emotion": "determined",
+    "detailed_reasoning": "Starting with the word 'But,' the speaker's energy shifts to one of determination. His voice regains strength and volume, especially on the phrase 'must remain strong.' His expression becomes more focused, conveying resilience and resolve.",
+    "summary_reasoning": "Stronger voice, focused expression, resolute tone."
+  },
+  {
+    "timestamp": 55.103,
+    "emotion": "encouraging",
+    "detailed_reasoning": "For the final sentence, the speaker's tone softens into an encouraging and warm quality. He talks about 'small acts of kindness' with a gentle facial expression and concludes with a slight smile, leaving the viewer with a positive and uplifting message.",
+    "summary_reasoning": "Soft tone, gentle expression, slight smile."
+  }
+]

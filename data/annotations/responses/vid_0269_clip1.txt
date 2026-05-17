@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 2.915,
+    "emotion": "happy",
+    "detailed_reasoning": "The speaker begins by thanking the audience. His facial expression shows a genuine, broad smile, and his tone of voice is warm and appreciative. His body language is open and welcoming, indicating happiness and gratitude for the audience's applause.",
+    "summary_reasoning": "Broad smile, warm tone, appreciative words."
+  },
+  {
+    "timestamp": 8.902,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker's tone shifts from enthusiastic thanks to a more conversational and thoughtful one as he begins his monologue about his career. His facial expression becomes more neutral and his gaze is slightly distant, suggesting he is reflecting on the past.",
+    "summary_reasoning": "Conversational tone, neutral face, reflective content."
+  },
+  {
+    "timestamp": 12.366,
+    "emotion": "serious",
+    "detailed_reasoning": "When stating that he has been a \"dramatic actor,\" the speaker adopts a completely straight, deadpan facial expression. His vocal delivery is flat, even, and factual, which creates a comedic contrast with the context of hosting a comedy show. This indicates a deliberate, serious demeanor for comedic effect.",
+    "summary_reasoning": "Deadpan expression, flat tone, factual statement."
+  },
+  {
+    "timestamp": 21.097,
+    "emotion": "amused",
+    "detailed_reasoning": "While listing his famous comedy roles, the speaker maintains his serious, deadpan expression, which the audience reacts to with laughter. The irony of him listing these roles while claiming to be a dramatic actor suggests an underlying amusement, as he is clearly in on the joke and enjoying the audience's reaction.",
+    "summary_reasoning": "Deadpan delivery, ironic content, audience laughter."
+  },
+  {
+    "timestamp": 29.768,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker explains the difference between a \"comedian\" and a \"comic.\" He delivers this with a pedantic, almost professorial tone, using a deliberate and slow pace for emphasis. His serious expression and clear enunciation project an air of confidence and control over his material and the audience.",
+    "summary_reasoning": "Professorial tone, deliberate pace, serious expression."
+  },
+  {
+    "timestamp": 39.960,
+    "emotion": "playful",
+    "detailed_reasoning": "After delivering the self-deprecating punchline that he says \"unfunny things in an unfunny way,\" he allows a very slight smile to break his deadpan expression as the audience laughs. This subtle break in character shows a playful acknowledgment of his own comedic style and a shared moment with the audience.",
+    "summary_reasoning": "Self-deprecating humor, slight smile, audience laughter."
+  },
+  {
+    "timestamp": 52.587,
+    "emotion": "contemplative",
+    "detailed_reasoning": "The speaker shifts his topic to being cast as \"authority figures.\" His tone becomes more musing and his pace slows down as if he's genuinely pondering the reason. His facial expression is one of mock thoughtfulness, contributing to a comically contemplative mood.",
+    "summary_reasoning": "Musing tone, slower pace, mock-thoughtful expression."
+  },
+  {
+    "timestamp": 56.696,
+    "emotion": "authoritative",
+    "detailed_reasoning": "As he sets up an example of playing a high school principal, the speaker's posture becomes more rigid and upright. His facial expression turns stern, and his vocal tone becomes more formal and slightly commanding. This shift in demeanor embodies the authoritative role he is describing.",
+    "summary_reasoning": "Upright posture, stern expression, commanding tone."
+  }
+]

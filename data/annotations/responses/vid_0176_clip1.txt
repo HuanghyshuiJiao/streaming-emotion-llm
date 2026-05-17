@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 1.153,
+    "emotion": "sad",
+    "detailed_reasoning": "The video starts with the speaker looking down with a somber facial expression. Her eyes are watery, and her voice is soft and shaky as she says, 'I was slipping away. Life was leaving me.' The combination of her melancholic tone, sad facial expression, and the grave meaning of her words clearly indicates a state of sadness and distress.",
+    "summary_reasoning": "Shaky voice, watery eyes, somber expression, sad words."
+  },
+  {
+    "timestamp": 13.131,
+    "emotion": "calm",
+    "detailed_reasoning": "After a long pause, the speaker looks up slightly. Her vocal tone shifts from shaky to more steady and declarative as she says, 'But I wasn't afraid.' This verbal contradiction to the expected emotion, delivered with a more composed voice, suggests a shift from distress to a state of calm resignation or acceptance of her fate.",
+    "summary_reasoning": "Steady voice, declarative statement of not being afraid."
+  },
+  {
+    "timestamp": 19.481,
+    "emotion": "hopeful",
+    "detailed_reasoning": "The speaker's voice gains a little more strength and purpose, and her eyebrows raise slightly. The words 'There was something I was meant to do. Somewhere I was meant to be' introduce a sense of purpose and destiny. This change in tone and the forward-looking nature of the words indicate a shift from calm acceptance to a more hopeful emotion.",
+    "summary_reasoning": "Stronger tone, words of purpose and destiny."
+  },
+  {
+    "timestamp": 32.567,
+    "emotion": "serene",
+    "detailed_reasoning": "As the speaker describes being in the 'great blue horizon between heaven and earth,' her eyes look up, and her tone becomes softer and more dreamlike. The description of this ethereal place, combined with her wistful and peaceful vocal delivery, conveys a feeling of serenity and tranquility.",
+    "summary_reasoning": "Upward gaze, soft dreamlike tone, peaceful words."
+  },
+  {
+    "timestamp": 37.599,
+    "emotion": "weary",
+    "detailed_reasoning": "The serene tone fades, and the speaker's voice becomes flatter and more monotone as she says, 'Days were unchanging.' Her facial expression also becomes more downcast. This shift suggests the peaceful moment has passed, replaced by a sense of monotony and weariness from the unchanging situation.",
+    "summary_reasoning": "Flat tone, downcast expression, words of monotony."
+  },
+  {
+    "timestamp": 53.056,
+    "emotion": "content",
+    "detailed_reasoning": "The speaker concludes by describing a recurring dream, ending with 'The smell of damp earth.' As she says this, her facial expression softens, and a slight, gentle smile appears. The specific, sensory nature of this memory, combined with her soft expression and smile, suggests it is a source of comfort and contentment.",
+    "summary_reasoning": "Soft facial expression, gentle smile, recalling a sensory memory."
+  }
+]

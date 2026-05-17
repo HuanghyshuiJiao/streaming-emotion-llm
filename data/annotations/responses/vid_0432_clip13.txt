@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 6.198,
+    "emotion": "sincere",
+    "detailed_reasoning": "The speaker begins by explaining her motivation for sharing her story. Her tone is steady and measured, her facial expression is neutral but engaged, and her gaze is direct. She speaks calmly and deliberately, conveying a sense of earnestness and genuine intention.",
+    "summary_reasoning": "Steady tone, direct gaze, calm demeanor."
+  },
+  {
+    "timestamp": 10.782,
+    "emotion": "serious",
+    "detailed_reasoning": "She continues to explain the context of her situation, mentioning that it was already public but not fully understood. Her expression remains serious, and her tone is consistently measured. The topic is weighty, and her demeanor reflects that she is handling it with gravity.",
+    "summary_reasoning": "Serious expression, measured tone, weighty topic."
+  },
+  {
+    "timestamp": 20.333,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker describes her decision to wait until after her medical procedure to share the full story. Her tone is consistent and her expression is focused, indicating she is carefully recounting her thought process. This conveys a sense of careful consideration and control over her narrative.",
+    "summary_reasoning": "Focused expression, consistent tone, recounting decisions."
+  },
+  {
+    "timestamp": 23.115,
+    "emotion": "relieved",
+    "detailed_reasoning": "After setting the context, she says, \"That's my story. That's what happened.\" She gives a small, brief smile and opens her hands in a gesture of release. This marks a transition from the serious setup to the main part of her story, and her expression suggests a slight relief in having finished the introduction.",
+    "summary_reasoning": "Brief smile, open hand gesture, concluding phrase."
+  },
+  {
+    "timestamp": 32.545,
+    "emotion": "empathetic",
+    "detailed_reasoning": "The speaker's focus shifts directly to the audience, specifically those who have had similar experiences. Her vocal tone softens, becoming gentler and more compassionate. Her facial expression also softens as she says she empathizes with them, clearly indicating a shift to a more caring and connecting emotion.",
+    "summary_reasoning": "Softer tone, compassionate facial expression."
+  },
+  {
+    "timestamp": 38.310,
+    "emotion": "understanding",
+    "detailed_reasoning": "Continuing to address her audience, she emphasizes her understanding of how \"life-altering and scary\" such experiences can be. Her eyes widen slightly, and her head movements align with the gravity of her words. This deepens the previous emotion from general empathy to a more profound and personal sense of understanding.",
+    "summary_reasoning": "Wide eyes, emphatic head movements, serious tone."
+  },
+  {
+    "timestamp": 48.941,
+    "emotion": "encouraging",
+    "detailed_reasoning": "Her tone becomes more proactive and supportive as she advises viewers to talk to a doctor. Her expression is open and earnest, and she speaks with a clear, persuasive cadence. This is a distinct shift from sharing feelings to offering direct, helpful advice out of concern for others.",
+    "summary_reasoning": "Supportive tone, earnest expression, offering advice."
+  },
+  {
+    "timestamp": 51.743,
+    "emotion": "positive",
+    "detailed_reasoning": "As she concludes her message, her demeanor brightens significantly. She smiles broadly and genuinely, looking directly at the camera. This warm, open expression indicates a sense of closure and positivity, leaving the viewer on a hopeful and friendly note.",
+    "summary_reasoning": "Broad smile, bright expression, direct gaze."
+  }
+]

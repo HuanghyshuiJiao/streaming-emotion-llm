@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 4.341,
+    "emotion": "humorous",
+    "detailed_reasoning": "The speaker opens with a satirical premise, stating he's 'taking applications' for an 'official bully.' His tone is upbeat and playful, not serious. He smiles and uses exaggerated hand gestures, like making peace signs while saying 'bully,' which clearly frames the monologue as a joke from the very beginning.",
+    "summary_reasoning": "Satirical premise, playful tone, smiling."
+  },
+  {
+    "timestamp": 9.273,
+    "emotion": "mock-serious",
+    "detailed_reasoning": "While continuing the humorous topic, the speaker adopts a more contemplative demeanor. He slightly furrows his brow, looks to the side, and speaks deliberately as if genuinely considering the qualifications for a bully. This shift to a serious-acting persona for a ridiculous topic enhances the comedic effect.",
+    "summary_reasoning": "Serious expression, deliberate tone, absurd topic."
+  },
+  {
+    "timestamp": 12.741,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "The speaker describes the bully relationship as 'very unique and special' with an exaggerated and intense tone. His eyes widen and he leans into the camera, adopting a slightly crazed expression that underscores the sarcasm. The over-the-top delivery makes it clear he is being ironic.",
+    "summary_reasoning": "Exaggerated tone, intense expression, ironic words."
+  },
+  {
+    "timestamp": 18.461,
+    "emotion": "playful",
+    "detailed_reasoning": "After a brief pause, he enthusiastically asks, 'Ready for some questions?' and transitions into a mock-interview format. His tone is energetic, and his facial expression is eager and smiling, reinforcing the playful, game-like nature of his comedic performance as he begins the 'application' questions.",
+    "summary_reasoning": "Energetic tone, eager expression, mock-interview format."
+  },
+  {
+    "timestamp": 32.423,
+    "emotion": "eager",
+    "detailed_reasoning": "The speaker's delivery speeds up as he discusses the options of providing 'cash' or a 'prepared lunch.' He uses distinct hand gestures to illustrate each option, and his tone becomes very accommodating and helpful. This enthusiastic eagerness to work out the logistics of being bullied adds a frantic, comedic energy to the performance.",
+    "summary_reasoning": "Fast speech, illustrative gestures, accommodating tone."
+  },
+  {
+    "timestamp": 37.571,
+    "emotion": "humorous",
+    "detailed_reasoning": "He abruptly shifts his tone to be conspiratorial with the word 'seriously,' leaning in as if sharing a secret. He then delivers the punchline about his mother's 'tasteless food' with a look of mock disgust, followed by a firm declaration of 'cash only.' This structured delivery, with a clear setup and punchline, signals a classic joke.",
+    "summary_reasoning": "Conspiratorial tone, mock disgust, punchline delivery."
+  },
+  {
+    "timestamp": 41.057,
+    "emotion": "deadpan",
+    "detailed_reasoning": "Immediately after the punchline, the speaker's face becomes completely straight and his tone flattens as he insists, 'this isn't a joke i'm very serious about this.' This sudden switch to a deadpan, serious delivery starkly contrasts with the absurdity of the situation, creating a new layer of humor.",
+    "summary_reasoning": "Straight face, flat tone, contradicting absurd context."
+  },
+  {
+    "timestamp": 48.645,
+    "emotion": "playful",
+    "detailed_reasoning": "The speaker's energy lifts again as he moves to the next topic: jokes. His voice becomes animated as he describes a 'knock knock joke' scenario, and he uses physical comedy by actually knocking on the side of his own head. His wide-eyed expression shows he is fully engaged in the silliness of the bit.",
+    "summary_reasoning": "Animated voice, physical comedy, engaged expression."
+  },
+  {
+    "timestamp": 51.893,
+    "emotion": "self-deprecating",
+    "detailed_reasoning": "He performs a knock-knock joke on himself, delivering the punchline 'Nothing' with a knowing, slightly sheepish smile. The joke is clearly aimed at his own expense, and his expression and lighthearted tone indicate a moment of self-deprecating humor.",
+    "summary_reasoning": "Self-aimed joke, sheepish smile, lighthearted tone."
+  },
+  {
+    "timestamp": 58.489,
+    "emotion": "inquisitive",
+    "detailed_reasoning": "To conclude, the speaker lists the final categories of jokes ('pun guys' or 'walk into the bar'). His tone remains light and questioning, and his expression is open as he presents these last absurd options to the imaginary applicant. This maintains the playful, interview-like frame of the monologue until the end.",
+    "summary_reasoning": "Questioning tone, open expression, listing options."
+  }
+]

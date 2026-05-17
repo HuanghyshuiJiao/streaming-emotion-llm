@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 1.393,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker starts his monologue with a neutral facial expression and a steady, narrative tone. Although he mentions the word 'smile,' his face remains impassive, indicating he is calmly recounting a past event from a detached perspective.",
+    "summary_reasoning": "Neutral expression, steady tone."
+  },
+  {
+    "timestamp": 8.56,
+    "emotion": "somber",
+    "detailed_reasoning": "The content of his story shifts to a more negative and solitary act of getting drunk by himself. His facial expression becomes more serious and his gaze is directed downwards, reflecting the somber nature of the memory he is recounting.",
+    "summary_reasoning": "Serious expression, downward gaze, negative content."
+  },
+  {
+    "timestamp": 11.464,
+    "emotion": "confused",
+    "detailed_reasoning": "The speaker explicitly states, 'I don't know what happened.' His eyebrows furrow slightly and he looks down, conveying a sense of genuine confusion and a gap in his memory. The tone suggests helplessness about his inability to recall the events.",
+    "summary_reasoning": "Furrowed eyebrows, downward look, expresses confusion."
+  },
+  {
+    "timestamp": 20.053,
+    "emotion": "shocked",
+    "detailed_reasoning": "As he mentions seeing 'blood on the floor,' his eyes widen slightly and his speech becomes more deliberate. This sudden, jarring image in his story marks a shift from confusion to the initial shock of a grim discovery.",
+    "summary_reasoning": "Widened eyes, deliberate speech, shocking content."
+  },
+  {
+    "timestamp": 23.357,
+    "emotion": "horror",
+    "detailed_reasoning": "The speaker's emotion intensifies from shock to horror as he describes seeing 'a knife in my hand.' His voice becomes quieter and his expression is one of stunned disbelief. The realization of his own potential involvement creates a sense of horror.",
+    "summary_reasoning": "Quieter voice, stunned expression, horrifying realization."
+  },
+  {
+    "timestamp": 25.219,
+    "emotion": "despair",
+    "detailed_reasoning": "The climax of the terrible discovery is when he mentions seeing 'her body.' His facial expression shows deep pain and sadness, and his tone is heavy with grief. The combination of the tragic content and his emotional delivery conveys a profound sense of despair.",
+    "summary_reasoning": "Pained expression, grieving tone, tragic content."
+  },
+  {
+    "timestamp": 34.206,
+    "emotion": "resigned",
+    "detailed_reasoning": "His final line, 'At least I have the knife with me all the time,' is delivered with a flat, detached tone. After the emotional peak of his discovery, his expression becomes downcast and his tone suggests a chilling, dark acceptance of his situation, indicating a sense of bleak resignation.",
+    "summary_reasoning": "Flat tone, downcast expression, dark acceptance."
+  }
+]

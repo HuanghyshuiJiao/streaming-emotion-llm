@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 1.713,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his presentation by introducing a story related to a screenshot. His tone is calm, steady, and narrative, setting an informative and composed atmosphere for the audience. The visual is a still image, directing all focus to his vocal delivery.",
+    "summary_reasoning": "Calm, narrative tone."
+  },
+  {
+    "timestamp": 14.708,
+    "emotion": "engaged",
+    "detailed_reasoning": "The speaker transitions from describing the image to explaining the situation by saying, \"So let me explain what's happening right here.\" This direct address to the audience, combined with a slightly more forward and engaging tone, indicates a shift from passive narration to active storytelling, aiming to draw the listeners in.",
+    "summary_reasoning": "Direct address, engaging tone."
+  },
+  {
+    "timestamp": 18.313,
+    "emotion": "dramatic",
+    "detailed_reasoning": "To build suspense and highlight the child's distress, the speaker adopts a more dramatic tone. He slows his pace and emphasizes the words \"verge of an emotional explosion,\" conveying the seriousness of the situation from the child's perspective.",
+    "summary_reasoning": "Dramatic language, slower pace."
+  },
+  {
+    "timestamp": 25.762,
+    "emotion": "amused",
+    "detailed_reasoning": "After revealing the cause of the distress is a dead Nintendo Switch battery, the speaker says, \"Major crisis, right?\" His tone becomes lighthearted and humorous, creating a relatable and amusing moment with the audience by ironically framing a minor issue as a catastrophe.",
+    "summary_reasoning": "Ironic tone, humorous rhetorical question."
+  },
+  {
+    "timestamp": 27.841,
+    "emotion": "admiring",
+    "detailed_reasoning": "The focus shifts to the speaker on stage. As he describes the older brother's empathetic actions, his tone softens and becomes warm and admiring. His gentle hand gestures and appreciative expression convey a sense of approval and respect for the boy's emotional maturity.",
+    "summary_reasoning": "Soft tone, warm expression, admiring words."
+  },
+  {
+    "timestamp": 37.958,
+    "emotion": "pensive",
+    "detailed_reasoning": "The speaker adopts a more analytical and thoughtful tone as he explains the reasoning behind the older brother's actions. He says, \"See, what Noah understood was...\" and his speech becomes more deliberate and paced, inviting the audience to reflect on the deeper meaning of the interaction.",
+    "summary_reasoning": "Analytical tone, deliberate speech."
+  },
+  {
+    "timestamp": 49.398,
+    "emotion": "pleased",
+    "detailed_reasoning": "Describing the positive outcome, the speaker's demeanor visibly brightens. His voice becomes more cheerful, his speaking pace increases slightly, and a subtle smile appears on his face as he says, \"Corey was back smiling and having a good time,\" reflecting the happy resolution of the story.",
+    "summary_reasoning": "Bright tone, slight smile, positive language."
+  },
+  {
+    "timestamp": 54.106,
+    "emotion": "emphatic",
+    "detailed_reasoning": "In his concluding statement, the speaker's tone becomes more forceful and emphatic. He stresses the phrase \"emotional explosion\" to contrast the potential negative outcome with the positive one, effectively driving home the main point of his anecdote with a sense of significance.",
+    "summary_reasoning": "Forceful tone, stressed words."
+  }
+]

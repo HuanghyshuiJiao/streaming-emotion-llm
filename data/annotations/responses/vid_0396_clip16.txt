@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 6.537,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker introduces his key concept, \"functional storytelling.\" His tone becomes more emphatic and he makes a distinct hand gesture, signaling that he is about to explain a core idea he is passionate about. The shift from a general statement to a specific, named concept is marked by increased vocal energy.",
+    "summary_reasoning": "Emphatic tone, hand gesture, introducing key concept."
+  },
+  {
+    "timestamp": 14.323,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker begins to list the three key principles of his method. His tone shifts to be very clear, structured, and instructional. His posture is upright and his delivery is measured, indicating he is now in a teaching mode, confidently conveying information to the audience.",
+    "summary_reasoning": "Clear instructional tone, structured delivery."
+  },
+  {
+    "timestamp": 23.671,
+    "emotion": "sincere",
+    "detailed_reasoning": "He says, \"In my experience, when I train people...\" His tone softens and becomes more personal and anecdotal. This shift from a formal, instructional tone to sharing a personal observation makes him sound more sincere and relatable as he builds a connection with the audience.",
+    "summary_reasoning": "Softer personal tone, sharing experience."
+  },
+  {
+    "timestamp": 31.34,
+    "emotion": "authoritative",
+    "detailed_reasoning": "He delivers the second point as a direct command: \"write down your stories.\" His tone is firm and confident, and his body language is direct. This conveys a sense of authority and expertise, as if giving a strong recommendation based on his knowledge.",
+    "summary_reasoning": "Firm, confident tone, direct command."
+  },
+  {
+    "timestamp": 42.058,
+    "emotion": "engaging",
+    "detailed_reasoning": "The speaker asks rhetorical questions about which stories make people laugh or feel empathy. His tone becomes more varied and engaging, mimicking the emotions he is describing. He is actively involving the audience's imagination by prompting them to categorize their own stories, making the talk more interactive.",
+    "summary_reasoning": "Varied tone, rhetorical questions, interactive."
+  },
+  {
+    "timestamp": 51.414,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker brings his points together with a clear, practical application for a meeting scenario. His tone is decisive and confident (\"you pick the story you want\"). He gestures with his hand as if selecting from a toolbox, visually reinforcing his confidence in the method's effectiveness and control.",
+    "summary_reasoning": "Decisive tone, confident gesture."
+  }
+]

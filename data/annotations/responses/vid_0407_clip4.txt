@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker begins her monologue with a somber and melancholic tone. Her speaking pace is slow and deliberate, and her facial expression is serious with downcast eyes. The words themselves, such as \"searched through the rubble\" and \"severed pieces of my life,\" paint a picture of past trauma and loss, establishing an initial emotion of sadness.",
+    "summary_reasoning": "Somber tone, slow pace, sad words."
+  },
+  {
+    "timestamp": 9.042,
+    "emotion": "pained",
+    "detailed_reasoning": "The emotion shifts from a general sadness to a more acute sense of pain as she says, \"Before you, I felt like I was dying.\" The gravity of this statement, combined with her continued low, serious tone and unwavering, intense gaze, suggests she is recalling a deeply painful emotional state.",
+    "summary_reasoning": "Intense pained words, serious tone, intense gaze."
+  },
+  {
+    "timestamp": 12.766,
+    "emotion": "anxious",
+    "detailed_reasoning": "The speaker describes a past experience of overwhelming anxiety, using the words \"panic consumed me and squeezed the life from my heart.\" While her current demeanor is controlled, the description is vivid and her tone remains heavy, reflecting the memory of intense fear and anxiety.",
+    "summary_reasoning": "Describes panic, heavy tone."
+  },
+  {
+    "timestamp": 17.191,
+    "emotion": "hopeless",
+    "detailed_reasoning": "Her statement, \"But I didn't care,\" followed by the explanation that the \"torture of hate\" made her unafraid of death, indicates a profound sense of hopelessness. Her vocal tone becomes flatter and more resigned, and her facial expression remains empty, conveying a feeling of having given up completely.",
+    "summary_reasoning": "Flat tone, resigned words, empty expression."
+  },
+  {
+    "timestamp": 25.661,
+    "emotion": "despair",
+    "detailed_reasoning": "The feeling of hopelessness deepens into despair with the definitive statement, \"There was nothing to live for.\" She delivers this line with a quiet, somber finality, her voice low and lacking energy. Her steady but distant gaze suggests she is reflecting on a moment of absolute despair.",
+    "summary_reasoning": "Quiet finality in tone, despairing words, distant gaze."
+  },
+  {
+    "timestamp": 29.275,
+    "emotion": "hopeful",
+    "detailed_reasoning": "This marks a significant turning point in the narrative. The phrase \"Until I met you\" introduces a positive shift after a prolonged description of negative emotions. Although her expression and tone have not yet dramatically changed, the words themselves introduce a clear element of hope into the story.",
+    "summary_reasoning": "Narrative turning point, hopeful words."
+  },
+  {
+    "timestamp": 31.721,
+    "emotion": "grateful",
+    "detailed_reasoning": "The speaker's emotion transitions to gratitude as she describes being \"rebuilt\" and \"fixed.\" Her tone, while still soft, now carries an undercurrent of reverence and appreciation. Her focus is intense as she recounts this positive transformation, indicating a deep sense of thankfulness.",
+    "summary_reasoning": "Reverent tone, words of appreciation."
+  },
+  {
+    "timestamp": 35.150,
+    "emotion": "adoring",
+    "detailed_reasoning": "The emotion intensifies from gratitude to adoration. As she says, \"You made me better and pieced me back together in new ways that improved me,\" her voice is filled with a soft affection. Her unwavering gaze and earnest delivery convey a deep, personal, and adoring tribute to the person she is addressing.",
+    "summary_reasoning": "Affectionate tone, earnest gaze, loving words."
+  },
+  {
+    "timestamp": 41.126,
+    "emotion": "rejuvenated",
+    "detailed_reasoning": "The powerful statement, \"With the right parts, I was reborn,\" signifies a complete and profound transformation. Her tone gains a subtle lightness, and her eyes seem to brighten slightly, reflecting the wonder of this renewal. This conveys a feeling of being rejuvenated and given a new chance at life.",
+    "summary_reasoning": "Powerful positive words, lighter tone, brighter eyes."
+  },
+  {
+    "timestamp": 44.996,
+    "emotion": "content",
+    "detailed_reasoning": "In her concluding words, she states that life finally \"felt real and right for the first time.\" Her voice becomes calm, steady, and certain, conveying a sense of peace. Her facial expression, while still serious, settles into one of serene contentment, bringing the emotional journey to a peaceful resolution.",
+    "summary_reasoning": "Calm steady voice, serene expression, words of resolution."
+  }
+]

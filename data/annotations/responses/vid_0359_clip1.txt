@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 0.491,
+    "emotion": "excited",
+    "detailed_reasoning": "The video starts with the speaker exclaiming a number with a wide-eyed, smiling expression and a high-pitched, energetic tone. Her hand gestures are quick and her overall demeanor suggests a state of high excitement or mania.",
+    "summary_reasoning": "High-pitched exclamation, wide eyes, smile, energetic gestures."
+  },
+  {
+    "timestamp": 5.456,
+    "emotion": "content",
+    "detailed_reasoning": "After the initial burst of excitement, the speaker's tone softens significantly. She places her hands on her chest, closes her eyes, and speaks in a slower, more deliberate manner. Her facial expression is one of calm satisfaction, suggesting she is feeling content and reflective.",
+    "summary_reasoning": "Soft tone, slow speech, closed eyes, calm expression."
+  },
+  {
+    "timestamp": 15.286,
+    "emotion": "playful",
+    "detailed_reasoning": "The speaker's demeanor shifts again. She turns her head to the side as if addressing someone, her eyes widen, and a mischievous smile appears. Her tone becomes light, airy, and slightly teasing as she asks, \"don't you love the smell of a bus?\", indicating a playful and engaging mood.",
+    "summary_reasoning": "Mischievous smile, wide eyes, light and teasing tone."
+  },
+  {
+    "timestamp": 22.774,
+    "emotion": "knowing",
+    "detailed_reasoning": "The speaker's tone becomes more conspiratorial and knowing. She leans in slightly and speaks with a slight smirk, explaining the concept of \"playing possum\" and relating it to her own husband. Her expression and vocal delivery suggest she's sharing a personal, slightly amusing secret.",
+    "summary_reasoning": "Conspiratorial tone, slight smirk, sharing a personal story."
+  },
+  {
+    "timestamp": 29.12,
+    "emotion": "amused",
+    "detailed_reasoning": "After calling the unseen person a \"faker,\" she breaks into a wide, genuine smile and lets out a soft laugh. Her eyes crinkle, showing clear amusement and delight at the interaction, even if it's one-sided.",
+    "summary_reasoning": "Wide smile, soft laugh, crinkled eyes."
+  },
+  {
+    "timestamp": 39.736,
+    "emotion": "eager",
+    "detailed_reasoning": "The speaker's tone becomes very bright and overly friendly. She introduces herself with a broad smile and animated hand gestures over her chest. Her speech is fast and energetic, conveying an eagerness to connect and share personal details, even if they are framed as \"mysterious.\"",
+    "summary_reasoning": "Bright tone, broad smile, fast speech, animated gestures."
+  },
+  {
+    "timestamp": 46.205,
+    "emotion": "nostalgic",
+    "detailed_reasoning": "The topic shifts to Niagara Falls. Her expression softens, her gaze becomes distant, and her tone becomes more subdued and reflective. She speaks about a trip she's never taken, which introduces a sense of longing and nostalgia for a past that could have been.",
+    "summary_reasoning": "Softened expression, distant gaze, subdued and reflective tone."
+  },
+  {
+    "timestamp": 53.836,
+    "emotion": "sad",
+    "detailed_reasoning": "As she recounts how her parents went on the trip without her after she got engaged, her facial expression falls, her eyes look down, and her voice becomes quieter and tinged with disappointment. The upward inflection on \"without me\" highlights a clear feeling of sadness and being left out.",
+    "summary_reasoning": "Fallen expression, downward gaze, quiet voice, tone of disappointment."
+  },
+  {
+    "timestamp": 59.282,
+    "emotion": "somber",
+    "detailed_reasoning": "Describing her parents' car accident, her expression becomes very serious and her tone is flat and matter-of-fact. The lack of emotional inflection while describing a traumatic event creates a somber and heavy atmosphere. Her gaze is fixed and her face shows a distinct lack of any previous playfulness or excitement.",
+    "summary_reasoning": "Serious expression, flat tone, fixed gaze, describing trauma."
+  }
+]

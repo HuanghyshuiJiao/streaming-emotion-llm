@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker starts his monologue with a steady, even tone. His facial expression is neutral and his body language is relaxed. He is introducing his topic in a composed and thoughtful manner.",
+    "summary_reasoning": "Steady tone, neutral expression."
+  },
+  {
+    "timestamp": 3.675,
+    "emotion": "playful",
+    "detailed_reasoning": "The speaker shifts from a neutral, informative tone to a more performative one. He acts out a scenario, looking upwards and using a slightly exasperated, higher-pitched tone on the word \"God.\" This indicates he's trying to be engaging and add a touch of humor to his example.",
+    "summary_reasoning": "Performative tone, upward glance, acting."
+  },
+  {
+    "timestamp": 12.605,
+    "emotion": "skeptical",
+    "detailed_reasoning": "While still in a performative mode, his tone becomes more dismissive. He mimics phrases with a slight roll of the eyes and a cynical intonation, suggesting he finds these excuses to be common and insincere.",
+    "summary_reasoning": "Dismissive tone, cynical intonation, eye movement."
+  },
+  {
+    "timestamp": 20.574,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker explicitly calls this his \"personal favorite\" and delivers the line with a clear smirk and a knowing, theatrical tone. His facial expression and delivery show he finds the cliché humorous and is sharing that amusement with the audience.",
+    "summary_reasoning": "Smirk, theatrical tone, direct address."
+  },
+  {
+    "timestamp": 29.225,
+    "emotion": "assertive",
+    "detailed_reasoning": "The amusement disappears completely. He breaks the fourth wall, looking directly at the camera with a serious expression and a challenging question. His voice becomes lower and more forceful, indicating a shift from storytelling to making a direct, assertive point.",
+    "summary_reasoning": "Direct gaze, serious expression, forceful tone."
+  },
+  {
+    "timestamp": 35.171,
+    "emotion": "confrontational",
+    "detailed_reasoning": "The speaker's tone becomes even more forceful and accusatory. He emphasizes the word \"lying\" and his follow-up question, \"You understand me?\" is delivered with an intense stare and a slight lean forward, making it a direct challenge to the viewer.",
+    "summary_reasoning": "Forceful tone, intense stare, accusatory words."
+  },
+  {
+    "timestamp": 47.063,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker's voice rises in pitch and volume as he explains what he believes is the \"real\" meaning behind the words. There's an edge of exasperation in his tone, as if he's frustrated by the miscommunication he's describing. The phrase \"get away from me now\" is delivered with force.",
+    "summary_reasoning": "Increased volume, exasperated tone, forceful delivery."
+  },
+  {
+    "timestamp": 53.41,
+    "emotion": "contemptuous",
+    "detailed_reasoning": "His facial expression shifts to a clear sneer, and his voice takes on a mocking, disdainful quality. The word \"stupid\" is added as a direct insult, conveying strong contempt for the person being addressed in his scenario.",
+    "summary_reasoning": "Sneer, mocking tone, insulting word choice."
+  },
+  {
+    "timestamp": 57.674,
+    "emotion": "inquisitive",
+    "detailed_reasoning": "The speaker's entire demeanor changes in the final moment. The tension and contempt leave his face, replaced by raised eyebrows and a slightly tilted head. His tone is no longer aggressive but genuinely questioning, posing a final puzzle to the audience.",
+    "summary_reasoning": "Raised eyebrows, questioning tone, relaxed expression."
+  }
+]

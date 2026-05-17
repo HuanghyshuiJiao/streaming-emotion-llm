@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 1.593,
+    "emotion": "content",
+    "detailed_reasoning": "The speaker begins with a soft, genuine smile and a light, appreciative tone of voice while looking off-camera as if observing a pleasant scene. Her words, \"It's so pretty out here, isn't it?\", combined with her relaxed facial muscles and calm demeanor, suggest a state of contentment and appreciation.",
+    "summary_reasoning": "Soft smile, light tone, appreciative words."
+  },
+  {
+    "timestamp": 8.183,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "Her smile fades and her expression becomes more neutral and introspective. Her gaze is still directed off-camera but appears less focused on the scenery and more inward. The pace of her speech slows slightly as she says, \"You think about things like that...\", indicating a shift from simple appreciation to a more contemplative state of mind.",
+    "summary_reasoning": "Smile fades, neutral face, slower speech."
+  },
+  {
+    "timestamp": 15.854,
+    "emotion": "serious",
+    "detailed_reasoning": "Her expression becomes more serious, with a slight tension around her mouth and eyes. She looks down and to the side, a common cue for concentration or deep thought. Her words, \"What's worth your time and what's not,\" carry a heavier weight, and her tone is more deliberate and less melodic, signaling a shift to a serious, philosophical topic.",
+    "summary_reasoning": "Serious expression, deliberate tone, philosophical words."
+  },
+  {
+    "timestamp": 28.873,
+    "emotion": "concerned",
+    "detailed_reasoning": "Her eyebrows raise and her eyes widen as she poses a stark hypothetical question about having only two months to live. Her tone becomes more pointed and earnest. The directness of the question and the slight look of concern on her face indicate a shift to a more serious and cautionary emotional state, using a trivial example (computer solitaire) to highlight a profound point.",
+    "summary_reasoning": "Raised eyebrows, wide eyes, pointed tone."
+  },
+  {
+    "timestamp": 36.913,
+    "emotion": "appreciative",
+    "detailed_reasoning": "The speaker's facial expression softens significantly, and a gentle smile returns. Her tone becomes lighter and more wistful as she contrasts the previous example with spending an afternoon \"just looking at the ocean.\" This shift in vocal and facial cues suggests a return to a state of appreciation for simple, profound experiences.",
+    "summary_reasoning": "Soft expression, gentle smile, wistful tone."
+  },
+  {
+    "timestamp": 40.201,
+    "emotion": "reflective",
+    "detailed_reasoning": "She gives a small, wry smile and slightly shakes her head as she says, \"It's weird, huh?\" Her tone is conversational and musing. This combination of a subtle, knowing expression and a reflective tone suggests she is pondering the irony of human priorities.",
+    "summary_reasoning": "Wry smile, head shake, musing tone."
+  },
+  {
+    "timestamp": 49.281,
+    "emotion": "somber",
+    "detailed_reasoning": "Her smile completely disappears, and her expression becomes very serious and direct. Her eyes are wide and her tone is somber and uninflected as she delivers the line, \"...until you're, you know, dying.\" The gravity of the word \"dying\" is matched by her stark facial expression and flat vocal delivery, creating a somber and impactful moment.",
+    "summary_reasoning": "Serious direct expression, flat tone, grave words."
+  },
+  {
+    "timestamp": 57.46,
+    "emotion": "contemplative",
+    "detailed_reasoning": "Her gaze shifts upward, and her expression softens into one of wonder and contemplation. Her smile is subtle and her tone becomes gentle and slightly curious as she talks about thinking of God. This upward gaze and softer demeanor indicate a shift from the somber reality of death to a more spiritual and contemplative curiosity.",
+    "summary_reasoning": "Upward gaze, soft expression, gentle tone."
+  }
+]

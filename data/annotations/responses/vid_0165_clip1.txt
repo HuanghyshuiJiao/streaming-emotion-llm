@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 2.394,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker begins with a slow, deliberate pace and a low, resonant tone. His facial expression is neutral and serious, with a direct and unblinking gaze. The content of the words, \"Our revels now are ended,\" signifies a conclusion, which, combined with the solemn delivery, sets a somber mood from the outset.",
+    "summary_reasoning": "Slow pace, low tone, serious expression, definitive words."
+  },
+  {
+    "timestamp": 13.591,
+    "emotion": "melancholy",
+    "detailed_reasoning": "The speaker's voice becomes softer and seems to trail off slightly as he says the words \"melted into air.\" This suggests a sense of loss and impermanence. The context of actors (spirits) disappearing reinforces this feeling of gentle sadness or melancholy.",
+    "summary_reasoning": "Softer voice, trailing off tone, words of disappearance."
+  },
+  {
+    "timestamp": 21.722,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker's tone shifts to a more descriptive and illustrative quality as he lists grand, imaginary structures (\"cloud-capped towers, the gorgeous palaces\"). His pace remains slow, indicating he is deep in thought, reflecting on the transient nature of this magnificent but ultimately unreal vision.",
+    "summary_reasoning": "Descriptive tone, slow pace, evocative words."
+  },
+  {
+    "timestamp": 40.221,
+    "emotion": "grave",
+    "detailed_reasoning": "The speaker's voice gains a slight weight and authority. He broadens the scope from the vision to \"The great globe itself,\" and the final word, \"dissolve,\" is delivered with a deep, final tone. This imparts a sense of gravity to the statement, emphasizing the universal and inescapable nature of this dissolution.",
+    "summary_reasoning": "Weighty tone, broadened scope, definitive delivery of 'dissolve'."
+  },
+  {
+    "timestamp": 48.754,
+    "emotion": "resigned",
+    "detailed_reasoning": "Following the grave pronouncement, the speaker's tone becomes softer again, almost breathy. He describes the magnificent vision as an \"insubstantial pageant faded\" that will \"leave not a rack behind.\" The delivery lacks any resistance, conveying a sense of profound acceptance and resignation to this total impermanence.",
+    "summary_reasoning": "Soft, breathy tone, words of acceptance, lack of resistance."
+  },
+  {
+    "timestamp": 58.59,
+    "emotion": "philosophical",
+    "detailed_reasoning": "In the final line, the speaker's tone shifts from describing the external world to a statement about the nature of human existence itself. His delivery of \"We are such stuff as dreams are made on\" is quiet and introspective, presenting a profound, philosophical conclusion derived from the preceding observations. It's a moment of quiet, somber wisdom.",
+    "summary_reasoning": "Quiet, introspective tone, concluding statement on human existence."
+  }
+]

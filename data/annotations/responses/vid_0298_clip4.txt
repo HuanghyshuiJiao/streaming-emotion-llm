@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 2.675,
+    "emotion": "assertive",
+    "detailed_reasoning": "The video starts with the speaker looking away from the camera, speaking in a firm, declarative tone. Her posture is rigid, and her words, \"Amy will always face me now,\" establish a sense of control and assertion from the very beginning. The delivery is theatrical and intense, suggesting this is not a casual remark but a statement of power.",
+    "summary_reasoning": "Firm tone, rigid posture, declarative statement."
+  },
+  {
+    "timestamp": 7.463,
+    "emotion": "threatening",
+    "detailed_reasoning": "The speaker turns to face the camera, making direct eye contact. Her tone shifts from assertive to overtly threatening. The question \"You are going to be a friend, aren't you?\" is phrased as a question but delivered as a demand, with an intense, unwavering stare that implies negative consequences for disagreement.",
+    "summary_reasoning": "Direct eye contact, demanding tone, intense stare."
+  },
+  {
+    "timestamp": 11.189,
+    "emotion": "manipulative",
+    "detailed_reasoning": "The speaker's tone softens slightly, becoming more intimate and almost pleading, but it's a façade. The question \"You'd never turn your back on me, would you?\" uses a veneer of vulnerability to manipulate the listener. Her expression is a mix of feigned closeness and a persistent, underlying challenge, making her appear manipulative.",
+    "summary_reasoning": "Falsely intimate tone, feigned vulnerability, challenging expression."
+  },
+  {
+    "timestamp": 16.778,
+    "emotion": "menacing",
+    "detailed_reasoning": "As she sits down, her voice becomes colder and more serious. The reveal that untrustworthiness will \"remind me of... Amy\" is delivered with a clear look of contempt. The pause and the bitter way she says the name \"Amy\" makes the statement a direct and menacing threat, spelling out the stakes.",
+    "summary_reasoning": "Cold tone, contemptuous expression, direct threat."
+  },
+  {
+    "timestamp": 21.927,
+    "emotion": "smug",
+    "detailed_reasoning": "After delivering her threat, the speaker's demeanor changes to one of smug satisfaction. She crosses her legs and speaks in a deceptively light, almost sarcastic tone when she says \"that wouldn't be good for either of us.\" A slight smirk appears on her face, indicating she is confident and enjoying the power she holds in the situation.",
+    "summary_reasoning": "Deceptively light tone, slight smirk, confident posture."
+  },
+  {
+    "timestamp": 24.03,
+    "emotion": "intimidating",
+    "detailed_reasoning": "In the final moment, she leans her head on her hand and delivers the final question, \"Would it?\" in a soft, almost whispered tone. This quiet delivery, combined with a sharp, unwavering, and challenging stare directly at the camera, is intensely intimidating, leaving no room for argument and solidifying her dominance.",
+    "summary_reasoning": "Soft whisper, sharp unwavering stare, challenging posture."
+  }
+]

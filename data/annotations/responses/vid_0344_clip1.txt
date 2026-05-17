@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 1.373,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins with a declarative and somewhat dramatic tone, stating a strong opinion about love. His facial expression is neutral but focused, with slightly furrowed brows, indicating a serious and contemplative mood as he introduces a philosophical and somewhat cynical idea.",
+    "summary_reasoning": "Declarative tone, focused expression."
+  },
+  {
+    "timestamp": 5.88,
+    "emotion": "dramatic",
+    "detailed_reasoning": "The speaker's tone becomes more intense and his eyes widen as he mentions punishment for lovers ('a dark house and a whip'). This shift in vocal delivery and facial expression adds a layer of dramatic emphasis to his already strong statement, moving from a serious declaration to a more theatrical one.",
+    "summary_reasoning": "Intense tone, widened eyes."
+  },
+  {
+    "timestamp": 14.393,
+    "emotion": "cynical",
+    "detailed_reasoning": "His tone softens and becomes more explanatory as he reveals the punchline: 'the whippers are in love too.' A faint, wry smile appears, and his eyes look slightly amused. This combination of a softer, almost conspiratorial tone and a subtle, knowing smile suggests a cynical worldview regarding the universality of love's 'madness.'",
+    "summary_reasoning": "Soft tone, wry smile."
+  },
+  {
+    "timestamp": 18.559,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker's posture straightens slightly, and his tone becomes more assertive and clear as he says, 'Yet I profess curing it by counsel.' This change in vocal projection and body language signals a shift to a more confident and self-assured emotional state, as if he is presenting himself as an expert.",
+    "summary_reasoning": "Assertive tone, straight posture."
+  },
+  {
+    "timestamp": 25.009,
+    "emotion": "focused",
+    "detailed_reasoning": "After a long pause, the speaker's gaze shifts to the side as if recalling a specific instance. His voice is deliberate and lower in pitch when he says, 'And in this man.' This focused gaze and measured tone indicate he is now concentrating on a particular story or example, moving from general philosophy to a specific narrative.",
+    "summary_reasoning": "Shifted gaze, deliberate tone."
+  },
+  {
+    "timestamp": 38.862,
+    "emotion": "introspective",
+    "detailed_reasoning": "The speaker's tone softens significantly, becoming almost dreamy as he describes the scenario of being imagined as someone's 'love, his mistress.' He touches his forehead and looks upward, a classic gesture of recollection or imagination. This combination of a soft, distant tone and introspective gesture suggests he is lost in the memory or concept he is describing.",
+    "summary_reasoning": "Soft tone, dreamy gaze, touches forehead."
+  },
+  {
+    "timestamp": 43.195,
+    "emotion": "playful",
+    "detailed_reasoning": "When describing how he set the man to 'woo' him, the speaker's facial expression breaks into a clear, amused smile. His tone becomes lighter and more melodic. This visible amusement and lighter vocal quality indicate a shift to a playful and fond recollection of the events.",
+    "summary_reasoning": "Amused smile, light tone."
+  },
+  {
+    "timestamp": 49.174,
+    "emotion": "mischievous",
+    "detailed_reasoning": "As he finishes the line with 'moonish youth,' the speaker's smile widens, and his eyes crinkle with a knowing, mischievous glint. The word 'moonish' itself implies whimsical and capricious behavior. His expression and the final word choice combine to convey a sense of playful troublemaking or teasing.",
+    "summary_reasoning": "Wide smile, crinkled eyes, word choice."
+  }
+]

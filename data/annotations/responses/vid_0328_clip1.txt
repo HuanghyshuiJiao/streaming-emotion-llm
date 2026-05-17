@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 6.92,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker initially starts in a neutral, informative tone. However, when he says \"Thank Jesus,\" his tone becomes lighter and more casual, accompanied by a slight smile and a look upwards. This, combined with the context of him repeating that he's written \"several books,\" suggests a self-deprecating and amused emotional state.",
+    "summary_reasoning": "Light tone, slight smile, self-deprecating context."
+  },
+  {
+    "timestamp": 18.996,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's amusement fades as he transitions to the main topic. His tone becomes more declarative and his facial expression neutralizes as he introduces the title of his book, \"Spirit Wars.\" The shift in vocal tone and the introduction of a serious-sounding book title signal a change to a more serious emotion.",
+    "summary_reasoning": "Declarative tone, neutral expression, serious topic."
+  },
+  {
+    "timestamp": 25.665,
+    "emotion": "reflective",
+    "detailed_reasoning": "After introducing the book, the speaker's pace slows, and his tone becomes more personal and introspective. He says, \"It was really a story of my life.\" This shift indicates he is moving from simply stating a fact to sharing something deeply personal, leading to a reflective emotional state.",
+    "summary_reasoning": "Slower pace, personal tone, introspective content."
+  },
+  {
+    "timestamp": 33.097,
+    "emotion": "pained",
+    "detailed_reasoning": "The speaker's emotion intensifies as he describes his experience of \"being demonized and oppressed.\" His voice carries a heavier, more strained quality, and his word choice is strong and negative. He is recounting a period of significant suffering, which is reflected in the pained tone of his voice.",
+    "summary_reasoning": "Strained vocal tone, strong negative words, recalling suffering."
+  },
+  {
+    "timestamp": 41.51,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker's voice becomes lower and slower as he describes lying on the couch for six months. This vivid depiction of incapacitation, combined with the somber vocal delivery and downcast eyes, conveys a deep sense of sadness and helplessness associated with that memory.",
+    "summary_reasoning": "Low and slow voice, somber tone, downcast eyes, describing helplessness."
+  },
+  {
+    "timestamp": 50.803,
+    "emotion": "vulnerable",
+    "detailed_reasoning": "The speaker's voice becomes softer and carries a sense of disbelief as he states he's never been depressed before that time. By openly admitting this profound and unprecedented struggle, his tone and body language (slight head shake) project a feeling of vulnerability, as he shares a deeply personal part of his life with the audience.",
+    "summary_reasoning": "Soft voice, tone of disbelief, sharing personal struggle."
+  }
+]

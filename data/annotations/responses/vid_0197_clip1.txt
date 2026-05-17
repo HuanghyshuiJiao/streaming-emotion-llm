@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 1.474,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker begins his speech by addressing the audience. His voice is clear and projected, and he uses open hand gestures. His facial expression is calm and he has a slight smile, indicating he is well-prepared and confident in his delivery.",
+    "summary_reasoning": "Clear voice, open gestures, calm expression."
+  },
+  {
+    "timestamp": 13.497,
+    "emotion": "engaging",
+    "detailed_reasoning": "The speaker uses a playful and creative phrase, \"letting me in your ears,\" accompanied by a specific hand gesture toward his ear and a smile. This breaks from the formal opening and shows a deliberate attempt to be charming and connect with the audience in a more personal way.",
+    "summary_reasoning": "Playful phrase, matching gesture, smile."
+  },
+  {
+    "timestamp": 16.142,
+    "emotion": "serious",
+    "detailed_reasoning": "After the introduction, the speaker's demeanor changes. His smile fades, his expression becomes more focused, and his tone shifts to be more formal and declarative as he introduces the title of his story. This signals a transition to the main, more serious part of his speech.",
+    "summary_reasoning": "Smile fades, focused expression, declarative tone."
+  },
+  {
+    "timestamp": 31.046,
+    "emotion": "weary",
+    "detailed_reasoning": "The speaker begins telling the story by embodying the character of the father. His voice becomes lower and slower, and his posture slightly slumps. He effectively conveys the tiredness and irritation mentioned in the text through his non-verbal cues and vocal tone.",
+    "summary_reasoning": "Low slow voice, slumped posture, character portrayal."
+  },
+  {
+    "timestamp": 46.008,
+    "emotion": "cheerful",
+    "detailed_reasoning": "The speaker shifts characters to portray the five-year-old son. His voice becomes high-pitched and bright, and his facial expression turns into one of innocent happiness as he delivers the line \"Hello, Nan.\" This creates a strong contrast with the previous weary emotion of the father.",
+    "summary_reasoning": "High-pitched voice, happy expression, character shift."
+  },
+  {
+    "timestamp": 49.674,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker switches back to the perspective of the father. His voice returns to a low and tired narrative tone, and his facial expression becomes blank and downcast. This reflects the man's exhaustion and his dismissive action of walking past his son, creating a somber mood.",
+    "summary_reasoning": "Low tired tone, blank expression, narrative shift."
+  }
+]

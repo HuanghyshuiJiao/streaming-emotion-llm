@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 2.835,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins with a neutral, informative tone as he defines the word 'serendipity.' His facial expression is relaxed and his hand gestures are deliberate, indicating a calm and composed state.",
+    "summary_reasoning": "Informative tone, relaxed face, deliberate gestures."
+  },
+  {
+    "timestamp": 18.839,
+    "emotion": "fondness",
+    "detailed_reasoning": "The speaker's tone softens significantly as he shifts from defining a word to talking about his personal experience with love. A gentle, slight smile appears on his face, and his gaze seems more introspective, suggesting feelings of fondness and sentimentality.",
+    "summary_reasoning": "Softer tone, personal topic, gentle smile."
+  },
+  {
+    "timestamp": 34.891,
+    "emotion": "admiration",
+    "detailed_reasoning": "While talking about his partner, he looks off-camera with a wistful smile. The word 'amazing' is delivered with a soft, heartfelt tone that conveys deep admiration and affection for the person he is describing.",
+    "summary_reasoning": "Wistful smile, heartfelt tone, word choice."
+  },
+  {
+    "timestamp": 45.41,
+    "emotion": "happy",
+    "detailed_reasoning": "The speaker explicitly states that his partner has made him 'happier.' His smile becomes broader and more radiant, and his eyes light up, clearly communicating a state of genuine happiness and joy.",
+    "summary_reasoning": "Explicitly states happiness, broad smile, bright eyes."
+  },
+  {
+    "timestamp": 52.221,
+    "emotion": "joyful",
+    "detailed_reasoning": "Using the metaphor of moving from 'black and white' to 'color,' the speaker's voice fills with wonder and excitement. His facial expression is animated and his smile is wide, conveying a profound sense of joy and transformation that his partner brought into his life.",
+    "summary_reasoning": "Expressive tone, powerful metaphor, wide smile."
+  },
+  {
+    "timestamp": 57.33,
+    "emotion": "grateful",
+    "detailed_reasoning": "The speaker describes his partner's presence in his life as a 'miracle.' His tone is filled with awe and his expression is one of deep gratitude and wonder, indicating he feels incredibly fortunate.",
+    "summary_reasoning": "Word 'miracles', awe-filled tone, grateful expression."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 7.689,
+    "emotion": "contemplative",
+    "detailed_reasoning": "The actor begins the famous soliloquy with a slow, measured, and quiet tone. His facial expression is neutral and his body is still, suggesting he is in a state of deep, philosophical thought, posing a fundamental question to himself.",
+    "summary_reasoning": "Slow quiet tone, neutral face, still body."
+  },
+  {
+    "timestamp": 16.369,
+    "emotion": "pensive",
+    "detailed_reasoning": "He continues in a thoughtful, somber tone, weighing the option of enduring suffering. His expression remains subdued, and the slow pace of his speech indicates he is carefully considering the weight of this choice.",
+    "summary_reasoning": "Thoughtful somber tone, subdued expression, slow pace."
+  },
+  {
+    "timestamp": 22.82,
+    "emotion": "conflicted",
+    "detailed_reasoning": "The actor introduces the alternative to suffering—taking action. There is a slight increase in vocal intensity and a subtle gesture as he says \"take arms,\" which introduces a sense of internal conflict between passive endurance and active opposition.",
+    "summary_reasoning": "Slightly intense voice, subtle gesture."
+  },
+  {
+    "timestamp": 26.604,
+    "emotion": "resigned",
+    "detailed_reasoning": "The speaker's voice softens as he equates death with sleep, saying \"to die, to sleep, no more.\" The tone shifts from one of conflict to one of weary resignation, as if contemplating a peaceful end to struggle.",
+    "summary_reasoning": "Soft voice, weary tone."
+  },
+  {
+    "timestamp": 35.612,
+    "emotion": "melancholic",
+    "detailed_reasoning": "The speaker's tone is deeply sad and somber as he lists the \"heartache and the thousand natural shocks.\" His facial expression is pained, reflecting the sorrow and weight of human suffering that he wishes to escape.",
+    "summary_reasoning": "Sad somber tone, pained expression."
+  },
+  {
+    "timestamp": 39.696,
+    "emotion": "yearning",
+    "detailed_reasoning": "When he calls death a \"consummation devoutly to be wished,\" his voice is filled with a soft, earnest longing. The delivery is almost reverent, indicating a deep desire for the finality and peace he is describing.",
+    "summary_reasoning": "Soft earnest voice, longing tone."
+  },
+  {
+    "timestamp": 52.157,
+    "emotion": "apprehensive",
+    "detailed_reasoning": "A significant shift occurs with the line, \"perchance to dream, aye, there's the rub.\" The actor's tone changes from yearning to hesitant and concerned. His brow furrows slightly, introducing doubt and apprehension about the unknown consequences of death.",
+    "summary_reasoning": "Hesitant tone, concerned expression, furrowed brow."
+  },
+  {
+    "timestamp": 58.793,
+    "emotion": "fearful",
+    "detailed_reasoning": "In the final line, \"what dreams may come?\", the actor's voice is low and filled with a sense of dread. He looks directly forward with wide, uncertain eyes, conveying a profound fear of the unknown that lies beyond death, which is the ultimate obstacle in his contemplation.",
+    "summary_reasoning": "Low voice, tone of dread, uncertain eyes."
+  }
+]

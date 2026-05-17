@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 2.054,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker's words, \"It's the worst thing I've ever experienced,\" combined with his somber, low-pitched voice and a pained, downward-looking facial expression, convey a strong sense of sadness and painful memory.",
+    "summary_reasoning": "Somber tone, pained expression, sad words."
+  },
+  {
+    "timestamp": 12.549,
+    "emotion": "pained",
+    "detailed_reasoning": "The speaker's emotion intensifies as he describes the difficulty of breaking bad news to a five-year-old. His voice is filled with sorrow, his face is contorted in pain, and he closes his eyes, suggesting he is reliving a deeply traumatic moment. The rhetorical question to the audience invites them to share in this imagined pain.",
+    "summary_reasoning": "Pained facial expression, sorrowful tone, difficult topic."
+  },
+  {
+    "timestamp": 26.03,
+    "emotion": "sincere",
+    "detailed_reasoning": "The speaker places his hand over his heart, a classic gesture of sincerity and vulnerability. He is explaining his coping mechanism (\"I talk about it\"), and this gesture reinforces that he is sharing something deeply personal and true to him. His tone is earnest.",
+    "summary_reasoning": "Hand on heart, earnest tone, personal sharing."
+  },
+  {
+    "timestamp": 32.304,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker's tone shifts from emotional recounting to a more informative and analytical style. He is explaining the physiological effect of his story on the audience (oxytocin levels). His facial expression becomes more neutral and his voice is steady, indicating a shift to a calmer, more controlled emotional state.",
+    "summary_reasoning": "Informative tone, neutral expression, topic shift."
+  },
+  {
+    "timestamp": 39.16,
+    "emotion": "connecting",
+    "detailed_reasoning": "The speaker explicitly states that the audience is \"bonding\" to him. His tone is calm and inclusive, and he is directly addressing the audience's internal state. This creates a sense of connection and shared experience between him and the listeners.",
+    "summary_reasoning": "Inclusive tone, direct address to audience, \"bonding\" words."
+  },
+  {
+    "timestamp": 46.4,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker stands up and transitions into a teaching mode, explicitly stating the principle of his talk: \"In storytelling, you create empathy.\" A slide with the word \"Empathy\" appears, reinforcing the shift from personal narrative to a more instructional and informative segment. His tone is clear and didactic.",
+    "summary_reasoning": "Didactic tone, stands up, slide appears."
+  },
+  {
+    "timestamp": 55.978,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker's voice swells with positive emotion as he describes oxytocin as the \"most beautiful hormone of all.\" He uses expansive hand gestures and a passionate tone to convey his deep conviction and positive feelings about the human connection facilitated by this hormone, ending on the uplifting note that it makes you \"feel human.\"",
+    "summary_reasoning": "Passionate tone, \"beautiful\" word, expansive gestures."
+  }
+]

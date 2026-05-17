@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 1.412,
+    "emotion": "resigned",
+    "detailed_reasoning": "The speaker's tone is somber and his pace is slow. His shoulders are slightly slumped and his facial expression is neutral to sad, conveying a sense of resignation as he states he has paid for his error.",
+    "summary_reasoning": "Somber tone, slow pace, slumped posture."
+  },
+  {
+    "timestamp": 8.34,
+    "emotion": "somber",
+    "detailed_reasoning": "His tone remains low and serious as he addresses the possibility of being sentenced to more years. His gaze is directed forward, but his expression is heavy, indicating a somber acceptance of the potential outcome.",
+    "summary_reasoning": "Low serious tone, heavy expression."
+  },
+  {
+    "timestamp": 10.522,
+    "emotion": "distressed",
+    "detailed_reasoning": "The speaker trails off and enters a long, silent pause. During this pause, he looks down, his jaw clenches, and he visibly swallows, suggesting internal turmoil and distress as he struggles to find his next words.",
+    "summary_reasoning": "Long pause, looks down, clenches jaw."
+  },
+  {
+    "timestamp": 23.416,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "After the long pause, he says \"My lawyer\" and then smirks slightly, adding \"That's a funny one.\" The combination of the smirk and the dismissive tone indicates a shift to sarcasm and bitterness.",
+    "summary_reasoning": "Slight smirk, dismissive tone."
+  },
+  {
+    "timestamp": 33.505,
+    "emotion": "frustrated",
+    "detailed_reasoning": "He recounts his lawyer's promises in a mocking tone. He then states that this has been going on for years, and his voice gains a slight edge of frustration. His facial expression tightens, showing his growing impatience.",
+    "summary_reasoning": "Mocking tone, tight expression, mentions long duration."
+  },
+  {
+    "timestamp": 44.282,
+    "emotion": "angry",
+    "detailed_reasoning": "The speaker's voice becomes significantly louder and more forceful. He says \"I'm damn tired of being good,\" emphasizing the word \"damn.\" His eyebrows are furrowed and his expression is one of clear anger and exasperation.",
+    "summary_reasoning": "Louder forceful voice, furrowed brows, angry expression."
+  },
+  {
+    "timestamp": 51.292,
+    "emotion": "accusatory",
+    "detailed_reasoning": "His tone shifts to being directly accusatory as he points out that \"you people\" led him to believe something. His voice is tense and his gaze is intense, directly blaming the unseen figures.",
+    "summary_reasoning": "Tense voice, intense gaze, blaming words."
+  },
+  {
+    "timestamp": 57.662,
+    "emotion": "enraged",
+    "detailed_reasoning": "The speaker's frustration and anger peak. He yells the words \"53 days!\" and gestures aggressively. His voice is strained and loud, and his face is contorted with rage as he describes having those days taken away.",
+    "summary_reasoning": "Yelling, aggressive gesture, strained voice, enraged expression."
+  }
+]

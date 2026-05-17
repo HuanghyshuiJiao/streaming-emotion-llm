@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 4.548,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his presentation with a calm and even tone. His facial expression is neutral, and his body language is composed. He is delivering the initial part of his speech in a measured, narrative style, which suggests a state of calmness and focus.",
+    "summary_reasoning": "Even tone, neutral expression, composed posture."
+  },
+  {
+    "timestamp": 12.232,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker's tone shifts to become more emphatic and persuasive as he introduces the concept of \"EQ schooling.\" He uses more deliberate hand gestures to emphasize his points, and his vocal delivery gains a slight intensity, indicating his passion for the subject.",
+    "summary_reasoning": "Emphatic tone, deliberate hand gestures."
+  },
+  {
+    "timestamp": 22.086,
+    "emotion": "focused",
+    "detailed_reasoning": "The speaker is explaining a complex idea about the rational and emotional brain. His gaze is steady, and his hand gestures are precise, illustrating the connection he is describing. His tone is clear and informative, showing deep focus on conveying the information accurately.",
+    "summary_reasoning": "Steady gaze, precise gestures, clear tone."
+  },
+  {
+    "timestamp": 34.784,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker's pace slows down, and he looks slightly to the side as if in thought. He directly engages the audience by asking them to compare two worlds, indicating a shift into a more reflective and thoughtful part of his speech.",
+    "summary_reasoning": "Slower pace, looking aside, direct audience address."
+  },
+  {
+    "timestamp": 40.616,
+    "emotion": "hopeful",
+    "detailed_reasoning": "The speaker's tone softens as he expresses a personal wish for his children. His facial expression becomes more gentle and his voice carries a sense of aspiration and hope for a better future, making the message feel personal and heartfelt.",
+    "summary_reasoning": "Softer tone, gentle expression, personal statement."
+  },
+  {
+    "timestamp": 54.435,
+    "emotion": "inspirational",
+    "detailed_reasoning": "Towards the end, the speaker's tone becomes more uplifting and expansive. He uses open hand gestures and a more dynamic vocal range to convey the idea of growth and unknown capacity. This change in delivery aims to inspire the audience with a message of potential.",
+    "summary_reasoning": "Uplifting tone, open hand gestures, dynamic voice."
+  }
+]

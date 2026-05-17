@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 7.704,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker's voice is low and somber from the beginning. As he says he started \"reliving the story,\" his tone becomes more strained and his facial expression shows pain, with furrowed brows. This indicates he is recalling a difficult and sad memory.",
+    "summary_reasoning": "Low, strained voice; pained expression."
+  },
+  {
+    "timestamp": 18.562,
+    "emotion": "distraught",
+    "detailed_reasoning": "The speaker explicitly states he was \"on the floor weeping.\" His voice trembles and cracks with emotion on the word \"weeping,\" and his eyes appear watery. This conveys a much deeper level of emotional pain than before, shifting from sadness to being distraught.",
+    "summary_reasoning": "Voice trembles, watery eyes, describes weeping."
+  },
+  {
+    "timestamp": 21.347,
+    "emotion": "hopeless",
+    "detailed_reasoning": "When recounting telling his wife, \"I can't finish this book,\" the speaker's tone becomes one of pure resignation and defeat. His voice is soft and lacks energy, reflecting the feeling of hopelessness he felt at that moment.",
+    "summary_reasoning": "Resigned, low-energy tone."
+  },
+  {
+    "timestamp": 28.635,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker repeats, \"I cannot finish this book,\" but this time his voice is louder and has an edge of clear frustration. He gestures with his hands in a way that expresses his feeling of being trapped and unable to move forward, adding frustration to his sadness.",
+    "summary_reasoning": "Louder, edgy voice; frustrated gestures."
+  },
+  {
+    "timestamp": 33.881,
+    "emotion": "somber",
+    "detailed_reasoning": "After describing his emotional turmoil, the speaker's tone shifts to a more narrative and factual one as he recounts calling to ask for an extension. While the underlying sadness is still present, the intense frustration has subsided into a more somber, serious tone.",
+    "summary_reasoning": "Narrative tone, serious expression."
+  },
+  {
+    "timestamp": 42.832,
+    "emotion": "defeated",
+    "detailed_reasoning": "When the speaker states, \"almost a year passed,\" his voice drops and he pauses, emphasizing the weight and failure of that long period. His facial expression is one of disappointment, conveying a sense of being defeated by his inability to make progress.",
+    "summary_reasoning": "Voice drops, pause, disappointed expression."
+  },
+  {
+    "timestamp": 49.119,
+    "emotion": "weary",
+    "detailed_reasoning": "The speaker describes having to call for more time yet again. His vocal delivery is slow and tired, and his final words, \"forget how long,\" trail off. This communicates a deep sense of mental and emotional exhaustion from the prolonged struggle.",
+    "summary_reasoning": "Slow, tired voice; words trail off."
+  }
+]

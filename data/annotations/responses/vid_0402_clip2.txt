@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp": 5.299,
+    "emotion": "hopeful",
+    "detailed_reasoning": "The speaker begins his story with a neutral expression, but when he says the words \"petite miracle,\" his eyebrows raise, his eyes widen, and his vocal pitch goes up. This combination of visual and auditory cues indicates a shift to a more positive and hopeful emotion as he introduces a key positive event in his narrative.",
+    "summary_reasoning": "Raised eyebrows, wide eyes, higher pitch on \"petite miracle.\""
+  },
+  {
+    "timestamp": 11.728,
+    "emotion": "pleased",
+    "detailed_reasoning": "Continuing from the previous point, the speaker describes the person with the words \"neat, tidy, and symmetrical.\" He delivers these words with a tone of admiration and satisfaction, maintaining wide eyes. This suggests he is very pleased with what he has found.",
+    "summary_reasoning": "Admiring tone, wide eyes, positive descriptive words."
+  },
+  {
+    "timestamp": 17.096,
+    "emotion": "excited",
+    "detailed_reasoning": "The speaker's emotion intensifies as he reveals the key detail. His eyes are wide and his mouth slightly open in astonishment. He delivers the acronym \"OCD\" with strong emphasis and a tone of dramatic revelation, indicating a peak in his excitement and a sense of major discovery.",
+    "summary_reasoning": "Wide eyes, emphatic tone, dramatic reveal of \"OCD.\""
+  },
+  {
+    "timestamp": 23.325,
+    "emotion": "elated",
+    "detailed_reasoning": "The speaker's excitement escalates to elation. He shakes his head in disbelief while saying \"Not once, not twice,\" and his eyes are wide with astonishment. He emphasizes \"5.6 times\" with a staccato rhythm, conveying a sense of overwhelming joy and disbelief at his good fortune.",
+    "summary_reasoning": "Head shake of disbelief, wide eyes, emphatic vocal delivery."
+  },
+  {
+    "timestamp": 27.912,
+    "emotion": "eager",
+    "detailed_reasoning": "After expressing his luck, the speaker's face is still bright with a slight smile. He says \"I promptly messaged\" with a quick pace, mirroring the eagerness and urgency he felt in that moment. The emotion is one of high-spirited anticipation.",
+    "summary_reasoning": "Bright expression, quick vocal pace, word \"promptly.\""
+  },
+  {
+    "timestamp": 37.336,
+    "emotion": "content",
+    "detailed_reasoning": "The narrative progresses positively. The speaker has a sustained, genuine smile and delivers the line \"it was all going awfully well\" with a smooth, satisfied tone. This indicates that the date was meeting his high expectations, leading to a feeling of contentment.",
+    "summary_reasoning": "Sustained smile, satisfied tone."
+  },
+  {
+    "timestamp": 42.2,
+    "emotion": "concerned",
+    "detailed_reasoning": "A sharp shift occurs with the word \"But.\" The speaker's smile completely vanishes, replaced by a serious expression. His eyebrows furrow slightly, and his vocal tone drops, becoming more somber and hinting at a problem. This change signifies a shift from contentment to concern about the impending negative turn in the story.",
+    "summary_reasoning": "Smile vanishes, serious expression, drop in vocal tone."
+  },
+  {
+    "timestamp": 49.807,
+    "emotion": "disappointed",
+    "detailed_reasoning": "This is the climax of the misunderstanding. The speaker's face shows shock and dawning realization. His eyes are wide, not with excitement as before, but with disbelief. He delivers the line about the musical artist named \"OCD\" with a flat, deflated tone, conveying his immense disappointment.",
+    "summary_reasoning": "Shocked expression, deflated tone, anticlimactic revelation."
+  },
+  {
+    "timestamp": 53.83,
+    "emotion": "sad",
+    "detailed_reasoning": "Following the disappointing revelation, the speaker explicitly states, \"my heart did sink a little.\" His facial expression matches this sentiment, showing clear deflation and sadness. His vocal tone is low and somber, confirming the emotional impact of the letdown.",
+    "summary_reasoning": "Sad facial expression, low and somber voice, explicit statement of sadness."
+  },
+  {
+    "timestamp": 57.073,
+    "emotion": "resigned",
+    "detailed_reasoning": "After expressing his sadness, the speaker's emotion shifts. He says \"so why not?\" with a slight raise in his eyebrows and a more pragmatic tone. This indicates a move from active disappointment to a resigned acceptance of the situation, deciding to make the best of it.",
+    "summary_reasoning": "Raised eyebrows, pragmatic tone, words \"why not?\""
+  },
+  {
+    "timestamp": 59.755,
+    "emotion": "neutral",
+    "detailed_reasoning": "In the final line, the speaker's facial expression becomes neutral and his tone is matter-of-fact. He is concluding the anecdote and transitioning out of the emotional narrative, returning to a baseline state as a storyteller.",
+    "summary_reasoning": "Neutral expression, matter-of-fact tone, concluding the story."
+  }
+]

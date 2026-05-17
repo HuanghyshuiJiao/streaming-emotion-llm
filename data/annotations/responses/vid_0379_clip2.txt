@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 2.2,
+    "emotion": "humorous",
+    "detailed_reasoning": "After saying \"Idaho,\" the speaker makes a funny, wide-eyed, shrugging gesture. This is a clear non-verbal cue for humor, which is immediately followed by audience laughter, confirming the comedic intent.",
+    "summary_reasoning": "Comedic gesture, audience laughter."
+  },
+  {
+    "timestamp": 5.0,
+    "emotion": "sincere",
+    "detailed_reasoning": "The speaker's tone shifts from humorous to heartfelt. Her hands come together in front of her, her smile softens, and her voice becomes more gentle as she begins to share a personal story about her dream of becoming an actor. This indicates a shift to a more sincere and genuine emotion.",
+    "summary_reasoning": "Soft tone, gentle smile, clasped hands."
+  },
+  {
+    "timestamp": 13.5,
+    "emotion": "grateful",
+    "detailed_reasoning": "The speaker explicitly says \"I'm so grateful to them.\" Her tone is warm and appreciative, and she looks directly at the audience, conveying a strong sense of thankfulness towards her parents for their support.",
+    "summary_reasoning": "Explicit words, warm tone."
+  },
+  {
+    "timestamp": 17.0,
+    "emotion": "proud",
+    "detailed_reasoning": "Her tone becomes more confident and slightly playful. She looks away with a subtle, knowing smile as she sets up the story about her five-point plan. This suggests she is proud of her younger self's determination and is building up to a comedic reveal.",
+    "summary_reasoning": "Confident tone, knowing smile."
+  },
+  {
+    "timestamp": 22.0,
+    "emotion": "humorous",
+    "detailed_reasoning": "The speaker reveals her plan was a PowerPoint presentation. The combination of her earnest delivery of a serious plan with the mundane reality of a PowerPoint is inherently funny. She maintains a slight smile, and the audience begins to laugh, reinforcing the humorous nature of the anecdote.",
+    "summary_reasoning": "Earnest tone, comedic context, audience laughter."
+  },
+  {
+    "timestamp": 25.0,
+    "emotion": "amused",
+    "detailed_reasoning": "The camera cuts to the actual PowerPoint slide she made as a child. The visual is dated and simplistic, which is funny. The speaker is off-camera, but the audience's laughter indicates that the intended emotion is amusement.",
+    "summary_reasoning": "Funny visual, audience laughter."
+  },
+  {
+    "timestamp": 33.5,
+    "emotion": "playful",
+    "detailed_reasoning": "After outlining her serious plan, she pivots by saying, \"But if that failed...\" Her tone becomes slightly conspiratorial and playful, and she smiles as she prepares the audience for the punchline, indicating another comedic turn.",
+    "summary_reasoning": "Playful tone, smile."
+  },
+  {
+    "timestamp": 37.3,
+    "emotion": "humorous",
+    "detailed_reasoning": "The camera shows the punchline on the next slide: \"Plan B: Show boobs.\" This is a classic comedic bait-and-switch. The speaker is not visible, but the loud and sustained laughter from the audience is the primary indicator of the strong humorous emotion.",
+    "summary_reasoning": "Visual punchline, strong audience laughter."
+  },
+  {
+    "timestamp": 43.5,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's demeanor changes completely. She adopts a more serious tone and a neutral facial expression as she shifts topics to address things she's seen online. This clear pivot in topic, tone, and expression signals a move away from the lighthearted jokes.",
+    "summary_reasoning": "Serious tone, neutral expression, topic shift."
+  },
+  {
+    "timestamp": 51.5,
+    "emotion": "exasperated",
+    "detailed_reasoning": "After stating that someone online accused her of lying, she says it's \"insane.\" Her facial expression shows disbelief, her voice rises in pitch, and her body language (hands open in a \"can you believe this?\" gesture) all combine to convey a feeling of comedic exasperation at the absurdity of the accusation.",
+    "summary_reasoning": "Disbelieving expression, rising pitch, open-handed gesture."
+  }
+]

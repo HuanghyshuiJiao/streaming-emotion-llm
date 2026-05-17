@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 1.733,
+    "emotion": "calm",
+    "detailed_reasoning": "The performer begins his monologue with a relaxed posture and a steady, conversational tone. He is setting up a hypothetical scenario for the audience, and both his verbal and non-verbal cues indicate a calm, narrative start.",
+    "summary_reasoning": "Relaxed posture, steady conversational tone."
+  },
+  {
+    "timestamp": 9.223,
+    "emotion": "engaged",
+    "detailed_reasoning": "The performer transitions from a hypothetical setup to a specific personal anecdote about his friend's new bike. His tone becomes more animated, and he uses body language to mime the act of riding a motorcycle. This shift shows he is more engaged in the storytelling, actively painting a picture for the audience.",
+    "summary_reasoning": "Animated tone, descriptive body language."
+  },
+  {
+    "timestamp": 13.489,
+    "emotion": "dramatic",
+    "detailed_reasoning": "The story reaches a turning point. The performer's movements become sharper as he describes the bike taking a sudden \"body turn.\" His vocal delivery becomes more urgent and performative when quoting his friend, building tension and signaling a shift from simple narration to a dramatic reenactment of the event.",
+    "summary_reasoning": "Sharp movements, urgent vocal tone."
+  },
+  {
+    "timestamp": 23.643,
+    "emotion": "shocked",
+    "detailed_reasoning": "Delivering the line \"His face was torn,\" the performer's facial expression becomes grim, and his tone drops to a serious, almost hushed level. This sudden shift in vocal and facial cues conveys the shock and gravity of the injury he witnessed, creating a powerful, impactful moment.",
+    "summary_reasoning": "Grim expression, serious tone."
+  },
+  {
+    "timestamp": 27.537,
+    "emotion": "tense",
+    "detailed_reasoning": "The performer describes the chaotic aftermath of the crash using short, fragmented sentences (\"He's stuck... I'm stuck\"). His speaking pace accelerates, and his voice carries a frantic edge, reflecting the panic and tension of the moment he is describing.",
+    "summary_reasoning": "Fragmented sentences, fast pace, frantic tone."
+  },
+  {
+    "timestamp": 34.948,
+    "emotion": "humorous",
+    "detailed_reasoning": "The tension is abruptly broken with the absurd punchline, \"my hand was in my hand.\" The performer's tone shifts completely to one of dark comedy. He delivers the line with a knowing look, and as the audience laughs, he holds up his prosthetic arm, confirming the joke and shifting the entire mood of the story.",
+    "summary_reasoning": "Absurd punchline, comedic timing, revealing prosthetic."
+  },
+  {
+    "timestamp": 43.321,
+    "emotion": "amused",
+    "detailed_reasoning": "The performer describes the reaction of onlookers, imitating the shocked \"aunties.\" He uses an exaggerated, wide-eyed facial expression and a high-pitched, theatrical voice. This comical portrayal of the bystanders' shock shows his amusement with the memory and is intended to be purely humorous.",
+    "summary_reasoning": "Exaggerated facial expression, high-pitched theatrical voice."
+  },
+  {
+    "timestamp": 51.813,
+    "emotion": "humorous",
+    "detailed_reasoning": "The performer concludes the anecdote with the punchline, \"I picked up the hand.\" He delivers this line with a matter-of-fact, deadpan expression, which contrasts hilariously with the absurdity of the action. Following the line, he breaks into a smile, sharing the humor of the surreal situation with the audience.",
+    "summary_reasoning": "Deadpan delivery, absurd statement, final smile."
+  }
+]

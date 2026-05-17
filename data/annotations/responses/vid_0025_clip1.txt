@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 0.431,
+    "emotion": "hurt",
+    "detailed_reasoning": "The speaker begins with a direct and accusatory question, \"You hate me, don't you?\". Her tone is confrontational yet fragile, and her wide-eyed, direct stare into the camera conveys a deep sense of being wronged and emotionally wounded.",
+    "summary_reasoning": "Confrontational tone, direct stare, accusatory words."
+  },
+  {
+    "timestamp": 8.019,
+    "emotion": "despair",
+    "detailed_reasoning": "The speaker's voice starts to tremble as she says, \"No matter what I do.\" Her facial expression conveys a sense of hopelessness, and her tone is filled with resignation, indicating a feeling of deep despair about her situation of never being good enough, especially compared to her sister.",
+    "summary_reasoning": "Trembling voice, hopeless expression, despairing tone."
+  },
+  {
+    "timestamp": 15.768,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker's speech pace quickens, and an edge of frustration enters her voice. Her brows furrow slightly as she talks about constantly hearing how her sister has done things better. The emotion shifts from pure sadness to an agitated state of frustration.",
+    "summary_reasoning": "Faster speech, furrowed brows, frustrated tone."
+  },
+  {
+    "timestamp": 24.236,
+    "emotion": "anguished",
+    "detailed_reasoning": "The speaker asks a rhetorical question, \"Why does she want to ruin my life?\" Her voice cracks with emotion, and her facial expression is one of pure pain and confusion. This moment reveals her deep anguish and vulnerability.",
+    "summary_reasoning": "Cracking voice, pained expression, anguished words."
+  },
+  {
+    "timestamp": 28.34,
+    "emotion": "resentful",
+    "detailed_reasoning": "The speaker's tone becomes harsher as she accuses her sister of wanting to \"blot me out.\" Her facial muscles tense, showing a mix of anger at the injustice and self-pity for being treated like a mistake. This indicates a feeling of resentment.",
+    "summary_reasoning": "Harsh tone, tense face, resentful words."
+  },
+  {
+    "timestamp": 33.705,
+    "emotion": "hopeless",
+    "detailed_reasoning": "The speaker's voice drops to a low, defeated whisper as she calls herself \"just a copy.\" Her energy seems to drain, and her gaze wavers slightly, signifying a profound sense of self-devaluation and hopelessness.",
+    "summary_reasoning": "Whispering voice, low energy, self-devaluing words."
+  },
+  {
+    "timestamp": 45.075,
+    "emotion": "bitter",
+    "detailed_reasoning": "When saying \"You were so perfect,\" the speaker's tone is filled with a sharp bitterness and sarcasm. Her eyes narrow, turning the compliment into an accusation. This reflects her deep-seated resentment from being constantly compared.",
+    "summary_reasoning": "Sarcastic tone, narrowed eyes, bitter words."
+  },
+  {
+    "timestamp": 56.044,
+    "emotion": "defeated",
+    "detailed_reasoning": "In her final statement, \"And there was nothing left over for me,\" the speaker's voice becomes extremely quiet and trails off. Her expression is one of emptiness and resignation, conveying a state of complete emotional defeat.",
+    "summary_reasoning": "Quiet voice, empty expression, final resigned statement."
+  }
+]

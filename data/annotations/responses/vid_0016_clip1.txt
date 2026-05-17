@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 1.413,
+    "emotion": "pleading",
+    "detailed_reasoning": "The actor begins by holding his hands up in a defensive, non-threatening gesture. His tone of voice is urgent but not aggressive, suggesting he is trying to reason with someone and prevent an imminent physical altercation. The words 'Before you punch me' confirm the context of de-escalation.",
+    "summary_reasoning": "Defensive hands, urgent tone, de-escalating words."
+  },
+  {
+    "timestamp": 18.799,
+    "emotion": "determined",
+    "detailed_reasoning": "After a long pause where he seems to be steeling himself, his posture becomes more grounded and his tone shifts from pleading to resolute. He directly addresses the possibility of his own demise ('if I'm gonna die') with a firm voice, indicating he has accepted the risk and is committed to speaking.",
+    "summary_reasoning": "Grounded posture, firm and resolute tone."
+  },
+  {
+    "timestamp": 25.248,
+    "emotion": "taunting",
+    "detailed_reasoning": "The actor's tone becomes challenging and provocative. He leans forward slightly and his facial expression changes to a subtle smirk, directly questioning the other person's motives ('Why you want me to shut up, huh?'). This indicates a shift from defense to a more confrontational, mocking stance.",
+    "summary_reasoning": "Challenging tone, slight smirk, confrontational words."
+  },
+  {
+    "timestamp": 36.2,
+    "emotion": "mocking",
+    "detailed_reasoning": "The taunting intensifies into clear mockery. His voice takes on a higher, more condescending pitch, and he uses the insulting word 'softy'. His facial expression is openly derisive, designed to provoke and belittle the other person.",
+    "summary_reasoning": "Condescending tone, insulting words, derisive expression."
+  },
+  {
+    "timestamp": 40.326,
+    "emotion": "resolute",
+    "detailed_reasoning": "The actor's demeanor shifts back to seriousness. He drops the mocking tone and speaks with a clear, steady voice, directly inviting the other person to hit him ('punch me all you want'). This shows he is resolute in his decision to speak, regardless of the physical consequences.",
+    "summary_reasoning": "Serious tone, steady voice, accepting consequences."
+  },
+  {
+    "timestamp": 50.882,
+    "emotion": "adoring",
+    "detailed_reasoning": "There is a dramatic shift in his expression and tone. His voice softens significantly, and his face loses all its hardness, replaced by a look of profound affection and admiration as he says 'She's worth it.' He is no longer focused on his opponent but on his feelings for the woman.",
+    "summary_reasoning": "Soft voice, affectionate expression, reverent words."
+  },
+  {
+    "timestamp": 55.749,
+    "emotion": "condescending",
+    "detailed_reasoning": "After the moment of softness, his focus returns to his opponent, but his strategy changes. He asks an intellectual question ('Do you know about serendipity?') with a patronizing tone, attempting to establish intellectual superiority.",
+    "summary_reasoning": "Patronizing tone, intellectual question."
+  },
+  {
+    "timestamp": 57.992,
+    "emotion": "contemptuous",
+    "detailed_reasoning": "The condescension sharpens into outright contempt. His final line, 'Word too big for you?', is delivered with a sneer and a dismissive tone, solidifying his view of the other person as intellectually inferior.",
+    "summary_reasoning": "Sneer, dismissive tone, insulting question."
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 6.1,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her talk with a steady and measured vocal tone. Her posture is composed, and her facial expression is neutral as she sets up her argument. She appears calm and focused on delivering her prepared remarks.",
+    "summary_reasoning": "Steady voice, composed posture, neutral expression."
+  },
+  {
+    "timestamp": 15.873,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker's tone shifts to a more academic and declarative style as she begins to cite a study. She looks down at her notes, and her delivery becomes more focused on relaying factual information to the audience, indicating an informative and slightly less personal emotional state.",
+    "summary_reasoning": "Academic tone, citing a study, referencing notes."
+  },
+  {
+    "timestamp": 29.57,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker's delivery becomes more fluid and assured. She explains the outcome of shared experiences with a clear and unwavering voice, making a definitive point about creating strong bonds. Her steady pace and clear articulation project confidence in her conclusions.",
+    "summary_reasoning": "Fluid delivery, clear voice, steady pace."
+  },
+  {
+    "timestamp": 35.2,
+    "emotion": "passionate",
+    "detailed_reasoning": "When the speaker introduces the topic of \"Storytelling,\" her vocal energy noticeably increases. Her tone becomes more elevated and imbued with conviction as she connects storytelling to the grand concept of \"civil society.\" This shift suggests a deeper, more passionate belief in this part of her argument.",
+    "summary_reasoning": "Increased vocal energy, elevated tone, conviction."
+  },
+  {
+    "timestamp": 47.197,
+    "emotion": "informative",
+    "detailed_reasoning": "The camera cuts to a slide, so the analysis relies solely on vocal cues. The speaker's tone transitions back to a neutral, academic style as she introduces a specific case study. The passion from the previous statement recedes, replaced by a factual delivery appropriate for presenting evidence.",
+    "summary_reasoning": "Neutral tone, academic style, presenting a case study."
+  }
+]

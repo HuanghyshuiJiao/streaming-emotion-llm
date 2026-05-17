@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 5.255,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker begins his monologue by addressing a 'Mr. Duke'. His tone is conversational and lighthearted, and he has a slight smile on his face. The content of his speech, 'when you set up a business meeting, you don't play,' delivered with this amused expression and tone, suggests he is setting the stage for a humorous story rather than a serious business discussion.",
+    "summary_reasoning": "Lighthearted tone, smiling expression, humorous setup."
+  },
+  {
+    "timestamp": 12.241,
+    "emotion": "playful",
+    "detailed_reasoning": "The speaker's amusement grows as he continues the story. He names the location, 'Starlight Motor in,' and compliments it, which elicits laughter from the audience. His smile becomes wider, and his tone remains playful and engaging, indicating he is enjoying the humorous narrative he is building.",
+    "summary_reasoning": "Wider smile, playful tone, audience laughter."
+  },
+  {
+    "timestamp": 17.447,
+    "emotion": "joking",
+    "detailed_reasoning": "The emotion shifts to outright joking as he asks about a 'beauty pageant' because of 'all these beautiful women'. His pitch rises in mock excitement and surprise, and his facial expression is animated and clearly comedic. The audience's laughter reinforces that this is a joke, and the speaker is being flirtatious in a humorous way.",
+    "summary_reasoning": "Higher pitch, exaggerated expression, comedic content."
+  },
+  {
+    "timestamp": 22.152,
+    "emotion": "humorous",
+    "detailed_reasoning": "Continuing the joke, he says the beautiful women will be a 'problem' for him. He delivers this line with a deadpan but smiling expression, creating a humorous contrast between the words and his demeanor. His body language is relaxed, and he's clearly enjoying the audience's reaction, confirming his humorous intent.",
+    "summary_reasoning": "Smiling deadpan delivery, humorous contrast, audience reaction."
+  },
+  {
+    "timestamp": 26.817,
+    "emotion": "mischievous",
+    "detailed_reasoning": "The speaker transitions to a new topic about cigars in a 'fishbowl,' adopting a conspiratorial and slightly defiant tone. His facial expression and the way he says he's going to 'take one' suggests a playful, mischievous intent, as if he's planning a minor, funny act of rebellion.",
+    "summary_reasoning": "Conspiratorial tone, defiant but playful expression."
+  },
+  {
+    "timestamp": 39.981,
+    "emotion": "serious",
+    "detailed_reasoning": "There is a sudden and dramatic shift in tone. The speaker sits down, leans forward, and his voice becomes intense and earnest. He asks, 'What's it going to take... Because this is an opportunity of a lifetime.' His playful demeanor vanishes, replaced by a serious and focused expression, indicating a switch from comedy to a persuasive, business-like pitch.",
+    "summary_reasoning": "Shift in tone to intense, serious facial expression, forward posture."
+  },
+  {
+    "timestamp": 44.715,
+    "emotion": "sincere",
+    "detailed_reasoning": "He maintains the serious demeanor, stating directly, 'I'm serious about my business. And I'm serious about yours.' His tone is firm and his eye contact is direct, conveying sincerity and conviction. This reinforces the character's shift to a serious negotiator, adding a layer to the performance.",
+    "summary_reasoning": "Firm tone, direct eye contact, words of conviction."
+  },
+  {
+    "timestamp": 52.437,
+    "emotion": "joking",
+    "detailed_reasoning": "The speaker completely breaks the serious character again with an abrupt 'Excuse me.' He then launches into a loud, high-energy joke about 'good-looking pills.' His voice becomes animated, his expression is one of mock-seriousness, and his body language is expansive, signaling a clear and intentional return to a comedic and joking state, which is met with strong audience laughter.",
+    "summary_reasoning": "Abrupt change in tone, animated voice, expansive gestures, humorous content."
+  },
+  {
+    "timestamp": 57.392,
+    "emotion": "joyful",
+    "detailed_reasoning": "He delivers the final punchline, 'for your O.D.,' with a wide grin, laughing along with the audience. His face is expressive and full of joy from the successful performance. The energy is high and celebratory, showing his delight and amusement at the joke's reception.",
+    "summary_reasoning": "Wide grin, laughing with audience, high energy."
+  }
+]

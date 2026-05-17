@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": 1.895,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker is sitting in a relaxed but poised posture, holding a cigarette. Her speech is slow and deliberate, with a low, slightly husky tone. Her facial expression is neutral to slightly amused. This combination of calm body language and controlled, low-pitched speech suggests a strong sense of confidence and self-assurance.",
+    "summary_reasoning": "Slow speech, low tone, poised posture."
+  },
+  {
+    "timestamp": 4.039,
+    "emotion": "smug",
+    "detailed_reasoning": "After saying \"I think you'll get a lot of pleasure out of it,\" she follows up with \"I know I will.\" As she says this, a slight, knowing smirk appears on her face. Her tone remains low and confident. This subtle facial cue, combined with the self-assured statement, conveys a smug or self-satisfied emotion.",
+    "summary_reasoning": "Slight smirk, confident tone."
+  },
+  {
+    "timestamp": 6.785,
+    "emotion": "composed",
+    "detailed_reasoning": "She announces the musical guest, \"Pearl Jam is here,\" in the same low, deliberate tone. The camera then cuts to the band looking shocked and the audience erupts in loud cheers. The camera returns to her, and she remains perfectly still, unfazed by the loud reaction, with a calm, almost challenging look. Her lack of reaction to the chaos reinforces her composure and control.",
+    "summary_reasoning": "Unchanging expression, still posture during loud applause."
+  },
+  {
+    "timestamp": 21.294,
+    "emotion": "playful",
+    "detailed_reasoning": "After a long, silent pause where she holds her confident pose, she says, \"And one more thing,\" before trailing off. The suspense builds. Then, as she says, \"We'll be right back,\" she deliberately uncrosses and re-crosses her legs, a famous reference to her role in Basic Instinct. A playful smile emerges on her face as she does this. The action is intentionally provocative and mischievous, shifting the emotion from cool confidence to playful confidence.",
+    "summary_reasoning": "Provocative gesture, playful smile."
+  }
+]

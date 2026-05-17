@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 1.233,
+    "emotion": "somber",
+    "detailed_reasoning": "The video starts with a close-up on the actor's face. His expression is heavy, his eyes are downcast, and his voice is low and filled with a sense of weary resignation as he says, \"should have died hereafter.\" The overall mood is immediately established as one of somberness and grief.",
+    "summary_reasoning": "Low voice, heavy expression, downcast eyes."
+  },
+  {
+    "timestamp": 8.262,
+    "emotion": "regretful",
+    "detailed_reasoning": "The actor's tone shifts to one of regretful contemplation. He speaks slowly, with pauses, suggesting he is lost in thought about what could have been. The line \"There would have been a time for such a word\" is delivered with a sighing quality, reinforcing the feeling of a missed opportunity and regret.",
+    "summary_reasoning": "Slow speech, contemplative tone, sighing quality."
+  },
+  {
+    "timestamp": 14.731,
+    "emotion": "weary",
+    "detailed_reasoning": "The repetition of \"Tomorrow, and tomorrow, and tomorrow\" is delivered with a growing sense of weariness. His voice becomes monotonous and his pace is slow and plodding, mirroring the text which describes time creeping in a \"petty pace.\" This conveys a feeling of being worn down by the endless succession of days.",
+    "summary_reasoning": "Repetitive phrase, monotonous tone, slow pace."
+  },
+  {
+    "timestamp": 25.965,
+    "emotion": "despairing",
+    "detailed_reasoning": "His tone gains a slight edge of despair. As he speaks of time leading to \"the last syllable of recorded time,\" his facial expression hardens slightly. The weariness is now tinged with a sense of hopelessness and the futility of existence, creating an atmosphere of despair.",
+    "summary_reasoning": "Hardened expression, hopeless tone, somber text."
+  },
+  {
+    "timestamp": 29.43,
+    "emotion": "cynical",
+    "detailed_reasoning": "There is a shift to a more cynical and bitter tone. When he says, \"And all our yesterdays have lighted fools the way to dusty death,\" his voice has a dismissive, almost scornful quality. His eyes look directly at the camera with a challenging, world-weary expression, conveying a deep-seated cynicism about the meaning of past actions.",
+    "summary_reasoning": "Dismissive tone, direct gaze, scornful words."
+  },
+  {
+    "timestamp": 39.581,
+    "emotion": "resigned",
+    "detailed_reasoning": "After a long pause where the camera shows a figure lying at the bottom of the stairs, the actor's voice returns, now filled with a profound sense of resignation. The line \"Life is but a walking shadow\" is spoken softly and without inflection, as if stating an accepted, unchangeable, and bleak fact.",
+    "summary_reasoning": "Soft voice, flat tone, bleak text."
+  },
+  {
+    "timestamp": 45.296,
+    "emotion": "contemptuous",
+    "detailed_reasoning": "His emotion intensifies into contempt. He describes life as \"a poor player that struts and frets his hour upon the stage,\" and his delivery is laced with scorn for the pointless, temporary drama of human existence. His facial expression is tight with disdain.",
+    "summary_reasoning": "Scornful tone, tight facial expression, disdainful words."
+  },
+  {
+    "timestamp": 54.118,
+    "emotion": "nihilistic",
+    "detailed_reasoning": "The monologue culminates in a powerful statement of nihilism. His voice becomes forceful and almost guttural when he says the tale is \"told by an idiot, full of sound and fury.\" His eyes are wide with a mix of anger and bleak realization. The final words, \"signifying nothing,\" are delivered with a finality that erases all meaning, leaving a powerful feeling of absolute emptiness and nihilism.",
+    "summary_reasoning": "Forceful voice, wide eyes, powerful final words."
+  }
+]

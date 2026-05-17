@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 2.395,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins with a calm and even tone. Her facial expression is neutral, and her body language is relaxed as she starts to explain her point of view. She is speaking in a measured, conversational manner.",
+    "summary_reasoning": "Calm tone, neutral expression, relaxed posture."
+  },
+  {
+    "timestamp": 7.983,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker's tone remains calm, but she brings her hand to her chin and looks slightly away, as if carefully considering her words. This gesture, combined with her comparison between pharmacists and physicians, suggests she is in a state of thoughtful analysis.",
+    "summary_reasoning": "Hand-to-chin gesture, analytical tone."
+  },
+  {
+    "timestamp": 12.73,
+    "emotion": "concerned",
+    "detailed_reasoning": "Her brow furrows slightly and she brushes her hair back in a gesture that can indicate slight stress or concern. Her words, \"not as accessible,\" combined with the non-verbal cues, shift the emotion from purely thoughtful to slightly concerned about the issue she is describing.",
+    "summary_reasoning": "Furrowed brow, concerned tone, self-touch gesture."
+  },
+  {
+    "timestamp": 18.138,
+    "emotion": "passionate",
+    "detailed_reasoning": "There is a noticeable shift in her vocal energy. Her tone becomes more animated and positive as she contrasts the difficulty of seeing a doctor with the ease of visiting a pharmacy. The speed of her speech increases slightly, and her expression becomes more engaged, indicating passion for this point.",
+    "summary_reasoning": "Increased vocal energy, animated tone, engaged expression."
+  },
+  {
+    "timestamp": 24.891,
+    "emotion": "appreciative",
+    "detailed_reasoning": "The speaker's facial expression softens, and her tone becomes warm as she says, \"they're so knowledgeable.\" She is now speaking from personal experience (volunteering), and her voice carries a clear sense of admiration and appreciation for the pharmacists she worked with.",
+    "summary_reasoning": "Warm tone, soft expression, positive words."
+  },
+  {
+    "timestamp": 33.611,
+    "emotion": "sincere",
+    "detailed_reasoning": "Her expression becomes more earnest, and she makes direct eye contact with the camera. She nods for emphasis when saying her patients \"really trusted them.\" The tone is highly sincere, conveying a deep respect for the trust she witnessed between pharmacists and patients.",
+    "summary_reasoning": "Earnest expression, direct eye contact, emphatic nod."
+  },
+  {
+    "timestamp": 41.613,
+    "emotion": "empathetic",
+    "detailed_reasoning": "The speaker broadens her point to include \"mental well-being.\" Her tone becomes more serious and her expression more thoughtful, showing empathy for the patients. This indicates she is considering the deeper, emotional impact of the pharmacist's role beyond just physical health.",
+    "summary_reasoning": "Serious tone, thoughtful expression, empathetic words."
+  },
+  {
+    "timestamp": 46.143,
+    "emotion": "nostalgic",
+    "detailed_reasoning": "Her facial expression softens into a fond, gentle smile as she begins to recount a specific, heartwarming memory about older patients. Her voice also becomes softer and takes on a storytelling quality, reflecting a sense of nostalgia and warmth for the experience.",
+    "summary_reasoning": "Fond smile, soft voice, storytelling tone."
+  }
+]

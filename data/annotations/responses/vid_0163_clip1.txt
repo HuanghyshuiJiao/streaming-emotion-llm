@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp": 1.373,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins with a very slow, deliberate pace and a low, steady vocal tone. Her facial expression is neutral and poised, and she maintains direct eye contact with the camera. The overall atmosphere created by her demeanor, the lighting, and her elaborate costume is one of control and mystique.",
+    "summary_reasoning": "Slow pace, steady tone, neutral expression."
+  },
+  {
+    "timestamp": 6.316,
+    "emotion": "confident",
+    "detailed_reasoning": "When she says, 'I embrace it,' her tone becomes slightly more assertive and firm, contrasting with the previous description of others running. Her unwavering gaze and the deliberate delivery of the line project a sense of confidence and fearlessness in the face of the 'storm'.",
+    "summary_reasoning": "Assertive tone, unwavering gaze."
+  },
+  {
+    "timestamp": 11.064,
+    "emotion": "defiant",
+    "detailed_reasoning": "The choice of the word 'dance' in contrast to 'sheltered in fear' signifies a change in attitude from simply facing the storm to actively and gracefully engaging with it. Her tone becomes slightly more melodic and expressive, and her lips curl into a subtle, knowing smile, indicating a defiant and bold spirit.",
+    "summary_reasoning": "Expressive tone, subtle smile, defiant words."
+  },
+  {
+    "timestamp": 15.109,
+    "emotion": "determined",
+    "detailed_reasoning": "Her voice takes on a breathier, more intense quality as she says, 'I want to feel its power.' Her eyes seem to focus with greater intensity, and the direct statement of desire ('I want to') communicates a strong resolve and determination to experience the storm's force directly.",
+    "summary_reasoning": "Intense breathy voice, focused eyes."
+  },
+  {
+    "timestamp": 22.879,
+    "emotion": "awed",
+    "detailed_reasoning": "As she describes the storm as 'mighty and unforgiving,' her tone shifts to one of reverence and contemplation. She is acknowledging the immense power she is facing, and her voice softens slightly, conveying a sense of awe for its raw strength.",
+    "summary_reasoning": "Reverent tone, descriptive words."
+  },
+  {
+    "timestamp": 28.726,
+    "emotion": "proud",
+    "detailed_reasoning": "After building up the storm's unstoppable power, she delivers the line 'except me' with a sharp, percussive emphasis. Her chin is slightly raised, and her expression is resolute. This sudden turn positions herself as the single exception to the storm's dominance, a clear statement of pride and self-worth.",
+    "summary_reasoning": "Sharp tone, raised chin, resolute expression."
+  },
+  {
+    "timestamp": 32.311,
+    "emotion": "bold",
+    "detailed_reasoning": "The repetition of 'I dare' serves as a direct challenge. Her voice is strong and clear, without any hint of hesitation. Her direct gaze and confident posture reinforce this feeling of boldness, as she declares her intention to 'dance with the wind,' a metaphor for taking on a great and dangerous challenge.",
+    "summary_reasoning": "Strong voice, direct gaze, challenging words."
+  },
+  {
+    "timestamp": 37.518,
+    "emotion": "resilient",
+    "detailed_reasoning": "After acknowledging the danger ('a dangerous dance'), she states 'but I will survive' with absolute conviction. Her tone is firm and unwavering, leaving no room for doubt. This demonstrates a deep-seated belief in her own resilience and ability to endure hardship.",
+    "summary_reasoning": "Firm, convicted tone."
+  },
+  {
+    "timestamp": 43.926,
+    "emotion": "scornful",
+    "detailed_reasoning": "When addressing the storm directly with 'despite your power, despite your might,' her tone becomes dismissive. The repetition and the slight melodic lift in her voice carry a hint of scorn, as if she is belittling the force that others fear. She is no longer just defying it; she is asserting her superiority.",
+    "summary_reasoning": "Dismissive tone, direct address."
+  },
+  {
+    "timestamp": 47.751,
+    "emotion": "triumphant",
+    "detailed_reasoning": "Her prediction, 'tomorrow you'll be a memory,' is delivered with a tone of calm finality and triumph. Her expression is confident, with the corners of her mouth slightly upturned. She speaks as if the victory is already assured, looking down on her temporary adversary.",
+    "summary_reasoning": "Final tone, confident expression."
+  },
+  {
+    "timestamp": 51.176,
+    "emotion": "enduring",
+    "detailed_reasoning": "In her final statement, 'But I will still be here,' her voice is steady, calm, and grounded. She contrasts the fleeting nature of the storm with her own permanence. This conveys a profound sense of enduring strength, suggesting that while challenges come and go, she will remain.",
+    "summary_reasoning": "Steady, grounded voice, contrasting words."
+  }
+]

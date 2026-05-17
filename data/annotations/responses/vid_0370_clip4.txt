@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 1.092,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his talk with a calm and reflective tone. His voice is steady, and his hand gestures are open and thoughtful as he describes a period of self-discovery. His upward gaze suggests he is recalling memories, contributing to a contemplative and calm demeanor.",
+    "summary_reasoning": "Calm tone, reflective gestures, upward gaze."
+  },
+  {
+    "timestamp": 9.059,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker's tone shifts to a more serious and somber quality as he begins to talk about the sad people in the nursing home. His facial expression becomes more serious, and the content of his speech directly introduces the theme of sadness, which is reflected in his delivery.",
+    "summary_reasoning": "Somber tone, serious expression, sad topic."
+  },
+  {
+    "timestamp": 18.708,
+    "emotion": "serious",
+    "detailed_reasoning": "When introducing Mr. Bishop as \"the saddest person I have ever met,\" the speaker's tone becomes more emphatic and grave. His eyes widen slightly to emphasize the weight of this statement, indicating a shift to a more serious and impactful part of his story.",
+    "summary_reasoning": "Emphatic tone, grave expression, impactful statement."
+  },
+  {
+    "timestamp": 26.916,
+    "emotion": "disapproving",
+    "detailed_reasoning": "The speaker's tone becomes quietly judgmental and disapproving as he clarifies that Mr. Bishop \"just wasn't kind.\" He uses a flat, almost monotonous delivery while listing the man's negative daily actions, which conveys a sense of detached disapproval for the life described.",
+    "summary_reasoning": "Quietly judgmental tone, flat delivery, negative description."
+  },
+  {
+    "timestamp": 42.925,
+    "emotion": "sad",
+    "detailed_reasoning": "A significant shift occurs as the speaker explains Mr. Bishop's late-life realization. His tone fills with pity and sadness, and his facial expression becomes more pained. He is conveying the tragedy of the man's self-awareness coming too late, and his own emotion reflects the profound sadness of the situation.",
+    "summary_reasoning": "Pitying tone, pained expression, tragic content."
+  },
+  {
+    "timestamp": 54.776,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker's voice becomes very low and slow as he explicitly states the man's life was a \"recipe for deep and profound sadness.\" His expression is deeply somber, and he looks down, fully embodying the heavy emotion he is describing. This is the emotional climax of the story.",
+    "summary_reasoning": "Low and slow voice, downward gaze, explicit sad language."
+  },
+  {
+    "timestamp": 58.419,
+    "emotion": "dreadful",
+    "detailed_reasoning": "In the final sentence, the speaker's voice remains low and carries a tone of remembered dread. His use of the word \"hated\" and the final description of the room as \"so dark\" conveys a strong feeling of aversion and unpleasantness, ending the story on a heavy, dreadful note.",
+    "summary_reasoning": "Low tone, aversion in voice, strong negative words."
+  }
+]

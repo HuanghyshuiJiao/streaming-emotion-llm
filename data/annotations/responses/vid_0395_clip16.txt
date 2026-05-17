@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 2.797,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her presentation with a calm and measured tone. Her facial expression is neutral and her body language is composed as she lists different types of resilient entities. She is setting up the premise of her talk in a controlled and deliberate manner.",
+    "summary_reasoning": "Calm tone, neutral expression, deliberate speech."
+  },
+  {
+    "timestamp": 9.831,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "After establishing the premise, the speaker's tone shifts to a more explanatory and thoughtful one. She gestures with her hands as she explains the concept of interpreting emotions. Her eyebrows are slightly raised, and her expression is one of concentration and contemplation.",
+    "summary_reasoning": "Explanatory tone, hand gestures, raised eyebrows."
+  },
+  {
+    "timestamp": 20.956,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker introduces the key term 'Emotional agility' with a more assertive and confident tone. Her voice is clear and firm, and she makes direct eye contact with the audience. This delivery demonstrates her authority on the subject she is defining.",
+    "summary_reasoning": "Assertive tone, clear voice, direct eye contact."
+  },
+  {
+    "timestamp": 33.493,
+    "emotion": "reflective",
+    "detailed_reasoning": "There is a distinct shift as the speaker moves from defining a concept to telling a personal anecdote. Her tone becomes softer and more personal, and her pace slows down slightly as she begins with 'When I was little.' This change signals a transition into a reflective, storytelling mode.",
+    "summary_reasoning": "Softer tone, slower pace, personal anecdote."
+  },
+  {
+    "timestamp": 35.055,
+    "emotion": "anxious",
+    "detailed_reasoning": "When describing her childhood fear of death, her voice becomes more hushed and her expression turns serious. She is recounting a moment of being 'terrified,' and her demeanor subtly shifts to reflect the anxiety of that memory.",
+    "summary_reasoning": "Hushed voice, serious expression, recalling fear."
+  },
+  {
+    "timestamp": 37.558,
+    "emotion": "fond",
+    "detailed_reasoning": "The speaker's emotion changes again as she begins to talk about her father. Her facial expression softens, a slight smile appears, and her tone becomes warmer. This indicates she is recalling a cherished memory filled with fondness and affection for her father.",
+    "summary_reasoning": "Soft expression, slight smile, warm tone."
+  },
+  {
+    "timestamp": 44.367,
+    "emotion": "somber",
+    "detailed_reasoning": "Quoting her father's words about death, the speaker's expression becomes serious and her tone turns somber and matter-of-fact. The previous fondness is replaced by a graver mood that reflects the seriousness of the conversation she is recounting.",
+    "summary_reasoning": "Serious expression, somber tone, grave topic."
+  },
+  {
+    "timestamp": 50.015,
+    "emotion": "appreciative",
+    "detailed_reasoning": "The speaker's tone shifts to one of appreciation and respect as she describes how her father did not shield her from reality. Her vocal delivery conveys admiration for his wisdom and honesty, reflecting her positive evaluation of his parenting.",
+    "summary_reasoning": "Appreciative tone, respectful demeanor, positive words."
+  },
+  {
+    "timestamp": 54.785,
+    "emotion": "grateful",
+    "detailed_reasoning": "In the final sentences, the speaker's voice becomes more heartfelt and her expression softens as she talks about understanding the 'power' of her father's guidance. Her tone conveys a deep sense of gratitude and profound realization about the impact of his actions.",
+    "summary_reasoning": "Heartfelt tone, soft expression, profound gratitude."
+  }
+]

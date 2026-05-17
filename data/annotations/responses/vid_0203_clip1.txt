@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 3.997,
+    "emotion": "nervous",
+    "detailed_reasoning": "The speaker introduces himself with a slightly high-pitched and rushed tone. His eyes are wide and he has a slightly tense, forced smile. The content of his speech, mentioning he is early, combined with his vocal and facial cues, suggests social anxiety or nervousness.",
+    "summary_reasoning": "High-pitched rushed tone, wide eyes, tense smile."
+  },
+  {
+    "timestamp": 12.15,
+    "emotion": "anxious",
+    "detailed_reasoning": "The speaker explains that he wanted to arrive early to get used to the room, which is a common behavior for someone with social anxiety. His vocal tone remains a bit shaky and his speech is slightly hurried. He also avoids direct eye contact, looking down and away, which reinforces his anxious state.",
+    "summary_reasoning": "Anxiety-related words, shaky tone, avoids eye contact."
+  },
+  {
+    "timestamp": 18.78,
+    "emotion": "awkward",
+    "detailed_reasoning": "The speaker explicitly confirms his nervousness, stating he gets nervous in new places and with new people. His vocal delivery is sincere but also self-conscious. He gives a brief, awkward smile as he speaks, which further highlights his social discomfort and awkwardness in the situation.",
+    "summary_reasoning": "Explicitly states nervousness, self-conscious tone, awkward smile."
+  },
+  {
+    "timestamp": 21.444,
+    "emotion": "hopeful",
+    "detailed_reasoning": "There is a distinct shift in the interaction as the speaker presents a gift, saying, 'I brought you flowers.' His tone softens, and this act of giving suggests he is trying to make a positive impression and is hopeful for a good outcome from the meeting, despite his visible anxiety.",
+    "summary_reasoning": "Softer tone, offering a gift."
+  },
+  {
+    "timestamp": 24.789,
+    "emotion": "disappointed",
+    "detailed_reasoning": "Immediately after the hopeful moment of presenting the flowers, he undercuts the gesture by pointing out their flaw—'a little wilted.' His voice drops in pitch and volume, his gaze is directed downward at the flowers, and his facial expression becomes more downcast, reflecting his disappointment in the gift and himself.",
+    "summary_reasoning": "Voice drops, downward gaze, self-deprecating words."
+  },
+  {
+    "timestamp": 32.586,
+    "emotion": "flustered",
+    "detailed_reasoning": "The speaker begins to ramble, over-explaining why he couldn't get better flowers from a 'wonderful flower shop.' His speech pace increases, and his tone becomes more flustered, indicating a rise in his anxiety as he tries to justify the state of his gift and recover from the awkward moment.",
+    "summary_reasoning": "Rambling speech, faster pace, anxious tone."
+  },
+  {
+    "timestamp": 41.296,
+    "emotion": "sincere",
+    "detailed_reasoning": "His explanation shifts from being purely anxious to revealing his genuine intentions. By saying he 'wanted this to be special,' his tone becomes more earnest and his expression is pleading. He is vulnerably expressing how much this meeting means to him, which comes across as very sincere.",
+    "summary_reasoning": "Earnest tone, vulnerable words, pleading expression."
+  },
+  {
+    "timestamp": 45.841,
+    "emotion": "earnest",
+    "detailed_reasoning": "The speaker continues to express his genuine feelings, emphasizing his desire for the date to be 'great.' His facial expression is open, and his tone is filled with conviction. He is earnestly trying to communicate the effort and thought he put into the gesture, despite the imperfect outcome.",
+    "summary_reasoning": "Sincere tone, open facial expression, words of conviction."
+  },
+  {
+    "timestamp": 54.511,
+    "emotion": "insecure",
+    "detailed_reasoning": "The speaker's focus shifts to the person he is addressing, making assumptions about their dating life and immediately comparing himself negatively ('more than me'). This self-deprecating comment, combined with a slightly faltering and hesitant tone, reveals a deep-seated insecurity.",
+    "summary_reasoning": "Self-deprecating comparison, faltering tone."
+  }
+]

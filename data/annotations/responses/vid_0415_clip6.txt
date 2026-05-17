@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 5.826,
+    "emotion": "certain",
+    "detailed_reasoning": "The speaker begins with a neutral, calm demeanor. At this point, her tone becomes more definitive and slightly emphatic on the word 'never'. Her facial expression remains fairly neutral, but the conviction in her voice suggests a strong, predetermined opinion. She is stating a fact about herself with certainty.",
+    "summary_reasoning": "Emphatic tone, definitive statement."
+  },
+  {
+    "timestamp": 11.762,
+    "emotion": "disdainful",
+    "detailed_reasoning": "After stating she wouldn't want to be a family physician, her tone when saying 'or a general doctor' carries a slightly dismissive quality. Her facial expression, particularly the subtle tightening of her lips and a slight head turn, reinforces a sense of mild disdain for this career path.",
+    "summary_reasoning": "Dismissive tone, tight lips."
+  },
+  {
+    "timestamp": 18.305,
+    "emotion": "bored",
+    "detailed_reasoning": "The speaker explicitly states that she found the job 'a little bit boring'. Her tone is flat, and her eyes look slightly upwards as if recalling the feeling of boredom. The combination of her words, tone, and expression directly conveys this emotion.",
+    "summary_reasoning": "Flat tone, direct statement, eye movement."
+  },
+  {
+    "timestamp": 25.534,
+    "emotion": "frustrated",
+    "detailed_reasoning": "She reiterates that the job is 'boring,' and then her expression shifts. She raises her eyebrows and her tone becomes more exasperated as she talks about the 'amount of time you have to put in'. This indicates a feeling of frustration that the required effort doesn't justify the perceived mundane nature of the job.",
+    "summary_reasoning": "Exasperated tone, raised eyebrows."
+  },
+  {
+    "timestamp": 34.426,
+    "emotion": "annoyed",
+    "detailed_reasoning": "While listing the extensive educational requirements (four years of medical school, two years of residency), her tone becomes slightly strained and her pace quickens. She uses hand gestures to count the years, which adds to the feeling that she finds the lengthy process burdensome and annoying.",
+    "summary_reasoning": "Strained tone, quickened pace, emphatic gestures."
+  },
+  {
+    "timestamp": 46.415,
+    "emotion": "determined",
+    "detailed_reasoning": "After listing all the reasons she dislikes the idea of being a general physician, her tone shifts significantly. When she says, 'I knew that I wanted to specialize,' her voice becomes firm and clear. Her facial expression is focused, conveying a sense of conviction and determination about her own career path.",
+    "summary_reasoning": "Firm tone, focused expression, declarative statement."
+  },
+  {
+    "timestamp": 52.56,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "Concluding her point, the speaker's tone softens and becomes more reflective. She uses a hand gesture that looks like she's weighing options or considering an idea. Her facial expression is pensive, suggesting she is thinking through the implications of her decision, leading to the idea of a 'better career option'.",
+    "summary_reasoning": "Soft tone, pensive expression, considering gesture."
+  }
+]

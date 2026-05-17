@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 7.189,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins with a serious and contemplative tone. Her facial expression is focused, with slightly furrowed brows, and her hand gestures are measured and deliberate. The content, contrasting everyday stress with the profound \"dread\" of being in the wrong career, establishes a weighty and serious mood from the outset.",
+    "summary_reasoning": "Serious tone, focused expression, weighty topic."
+  },
+  {
+    "timestamp": 13.254,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker's tone shifts to become more explanatory and didactic. Her facial expression softens slightly, and she uses clear, illustrative hand gestures as she explains the psychological concept of labeling emotions. The pace is steady and clear, consistent with someone teaching or clarifying an idea.",
+    "summary_reasoning": "Explanatory tone, clear gestures, instructional content."
+  },
+  {
+    "timestamp": 17.66,
+    "emotion": "confident",
+    "detailed_reasoning": "When introducing the scientific term \"readiness potential,\" the speaker's voice becomes more assertive and confident. She looks directly at the audience, and her posture is assured. Citing what \"scientists call\" this potential adds a layer of authority to her delivery, reinforcing the confident emotion.",
+    "summary_reasoning": "Assertive voice, direct gaze, citing scientific concept."
+  },
+  {
+    "timestamp": 25.832,
+    "emotion": "persuasive",
+    "detailed_reasoning": "The speaker's emotion becomes more persuasive as she emphasizes taking the \"right steps.\" She uses a pointed hand gesture for emphasis and leans in slightly. Her tone is earnest, and she delivers the key phrase \"our emotions are data\" with deliberate weight after a slight pause, aiming to convince the audience of this core idea.",
+    "summary_reasoning": "Emphatic tone, pointed gesture, deliberate pause."
+  },
+  {
+    "timestamp": 30.119,
+    "emotion": "inspired",
+    "detailed_reasoning": "Using the metaphor of emotions as \"flashing lights,\" the speaker's tone becomes more inspired and illustrative. Her facial expression is open and engaged, and her hands move expressively to paint a picture for the audience. This shift to metaphorical language is delivered with a sense of wonder and insight.",
+    "summary_reasoning": "Illustrative tone, metaphorical language, open expression."
+  },
+  {
+    "timestamp": 45.297,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker's emotion intensifies to become passionate when giving the example of feeling \"rage\" at the news. Her voice becomes more forceful, and her facial expression is more intense to match the strong emotion she is describing. The content itself is emotionally charged, connecting a powerful feeling to deeply held values like equity and fairness.",
+    "summary_reasoning": "Forceful tone, intense expression, emotionally charged example."
+  },
+  {
+    "timestamp": 57.136,
+    "emotion": "encouraging",
+    "detailed_reasoning": "After the peak of passion, the speaker's tone softens and becomes encouraging. Her pace slows, and her facial expression is calm and reassuring as she talks about generating \"values-aligned\" responses. The overall delivery is meant to be uplifting and to empower the audience with this new understanding.",
+    "summary_reasoning": "Soft tone, calm expression, uplifting message."
+  },
+  {
+    "timestamp": 59.805,
+    "emotion": "serious",
+    "detailed_reasoning": "In the final moments, the speaker's emotion shifts back to serious. She uses the word \"caveat,\" and her tone drops slightly, becoming more grave. This creates a sense of suspense and signals to the audience that she is about to introduce a critical, cautionary point, recapturing their full attention.",
+    "summary_reasoning": "Grave tone, suspenseful wording, signaling a shift."
+  }
+]

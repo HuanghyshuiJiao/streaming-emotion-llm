@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 6.969,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins with a slow, deliberate pace and a serious, slightly somber facial expression. Her tone is low and steady as she describes a past internal state, indicating a calm and reflective mood.",
+    "summary_reasoning": "Slow pace, serious expression, steady tone."
+  },
+  {
+    "timestamp": 10.819,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker's tone becomes more melancholic and her pace slows down significantly as she lists heavy emotions like \"Pain,\" \"grief,\" and \"loss.\" Her facial expression reflects sadness and introspection, conveying the weight of these feelings.",
+    "summary_reasoning": "Melancholic tone, slow pace, sad expression."
+  },
+  {
+    "timestamp": 19.673,
+    "emotion": "informative",
+    "detailed_reasoning": "There is a distinct shift in tone and posture. The speaker stands up straighter, her voice becomes clearer and more assertive, and she begins to present a concept backed by \"Research.\" This change indicates a move from personal reflection to a more authoritative, informative stance.",
+    "summary_reasoning": "Assertive tone, upright posture, presents facts."
+  },
+  {
+    "timestamp": 29.47,
+    "emotion": "passionate",
+    "detailed_reasoning": "While continuing the informative tone, the speaker's voice softens and becomes more earnest as she lists positive outcomes like \"thriving\" and \"authentic happiness.\" Her facial expression warms, and she uses more open hand gestures, conveying a sense of passion and conviction about the benefits of her topic.",
+    "summary_reasoning": "Earnest tone, warm expression, open gestures."
+  },
+  {
+    "timestamp": 36.532,
+    "emotion": "assertive",
+    "detailed_reasoning": "The speaker's tone becomes more forceful and direct as she says, \"Emotional agility is more than just...\" She is making a clarifying point, and her vocal emphasis and clear enunciation project confidence and assertiveness to ensure the audience understands the distinction.",
+    "summary_reasoning": "Forceful tone, clear enunciation, clarifying point."
+  },
+  {
+    "timestamp": 44.14,
+    "emotion": "confident",
+    "detailed_reasoning": "Referring to her \"own research,\" the speaker's tone is firm and self-assured. She is speaking from a position of expertise, and her steady delivery and direct gaze convey confidence in the information she is presenting. The on-screen text \"Acceptance and Accuracy\" reinforces this authoritative mood.",
+    "summary_reasoning": "Firm tone, self-assured delivery, expert positioning."
+  },
+  {
+    "timestamp": 47.693,
+    "emotion": "observational",
+    "detailed_reasoning": "The speaker's tone shifts to a more conversational and relatable quality as she describes a common behavior (\"We often use quick and easy labels...\"). She uses the example \"I'm stressed,\" which she identifies as the most common one she hears, making her sound like an observer sharing a common insight with the audience.",
+    "summary_reasoning": "Conversational tone, sharing common example."
+  }
+]

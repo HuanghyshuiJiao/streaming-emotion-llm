@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp": 2.816,
+    "emotion": "earnest",
+    "detailed_reasoning": "The character begins by denying any intention of being a drug dealer. His tone is explanatory and his hands are open and gesturing, as if trying to sincerely convey his side of the story. His facial expression is serious and focused on making his point clear.",
+    "summary_reasoning": "Explanatory tone, open hand gestures, serious expression."
+  },
+  {
+    "timestamp": 8.106,
+    "emotion": "cynical",
+    "detailed_reasoning": "The character's tone shifts as he explains why he's taking business classes. He says, \"people are going to try and fuck you,\" with a more jaded and world-weary tone. His expression hardens slightly, reflecting a cynical worldview he believes he must protect himself from.",
+    "summary_reasoning": "Jaded tone, hardened expression, cynical words."
+  },
+  {
+    "timestamp": 16.581,
+    "emotion": "admiring",
+    "detailed_reasoning": "He begins describing his classmate, saying he's \"legit\" and \"so smart.\" His tone becomes lighter and more animated, expressing clear admiration and respect for this person. His eyes look up as he searches for the right words to describe his friend's intelligence.",
+    "summary_reasoning": "Animated tone, upward gaze, admiring words."
+  },
+  {
+    "timestamp": 20.989,
+    "emotion": "somber",
+    "detailed_reasoning": "The mood changes abruptly as he says, \"his mom died.\" His voice drops in pitch and volume, his pace slows, and his previously animated expression turns serious and sad. He is conveying a heavy and tragic piece of news.",
+    "summary_reasoning": "Lowered voice pitch, slower pace, sad expression."
+  },
+  {
+    "timestamp": 28.924,
+    "emotion": "indignant",
+    "detailed_reasoning": "When explaining that the death was due to medical error (\"they didn't give her the right medicine\"), his tone fills with a sense of injustice and frustration. His gestures become more agitated as he talks about how they \"fucked up,\" showing anger on his friend's behalf.",
+    "summary_reasoning": "Frustrated tone, agitated gestures, angry words."
+  },
+  {
+    "timestamp": 33.112,
+    "emotion": "empathetic",
+    "detailed_reasoning": "Recounting his offer to help his friend (\"whatever you need dude\"), his voice becomes softer and more compassionate. His facial expression reflects genuine concern and empathy for his friend's situation, showing a strong sense of loyalty.",
+    "summary_reasoning": "Soft, compassionate tone, concerned expression."
+  },
+  {
+    "timestamp": 42.528,
+    "emotion": "resolute",
+    "detailed_reasoning": "After his friend explains he can't do the \"drop,\" the character's response is immediate and decisive. He says \"say no more\" in a firm, resolute tone, cutting off any further explanation. His expression is determined, showing he has made up his mind to help without question.",
+    "summary_reasoning": "Firm, decisive tone, determined expression."
+  },
+  {
+    "timestamp": 49.597,
+    "emotion": "shocked",
+    "detailed_reasoning": "The character describes the moment he received the package. His eyes widen and his voice raises in pitch as he exclaims, \"fuck, are you fucking serious?\" This verbal and non-verbal reaction clearly indicates he is shocked and overwhelmed by the reality of the situation he has just entered.",
+    "summary_reasoning": "Wide eyes, raised voice pitch, shocked words."
+  },
+  {
+    "timestamp": 51.199,
+    "emotion": "resigned",
+    "detailed_reasoning": "Despite his shock, he immediately justifies his decision by remembering, \"his mom just fucking died.\" His tone shifts from shock to a somber resignation. He accepts the task out of loyalty, even though he is clearly uncomfortable, showing a mix of empathy and reluctant acceptance.",
+    "summary_reasoning": "Somber tone, empathetic justification, reluctant acceptance."
+  },
+  {
+    "timestamp": 58.97,
+    "emotion": "confident",
+    "detailed_reasoning": "While waiting for the drop, he admits, \"I'm feeling pretty fucking cool.\" A slight smirk appears on his face, and he looks up with a confident, almost arrogant expression. For a moment, he is caught up in the thrill and coolness of the dangerous situation.",
+    "summary_reasoning": "Smirk, upward gaze, confident words."
+  },
+  {
+    "timestamp": 59.791,
+    "emotion": "anxious",
+    "detailed_reasoning": "His confidence immediately evaporates as he adds, \"but also it's scary and shit.\" His confident expression disappears, replaced by a look of worry and anxiety. His tone becomes more subdued, revealing the fear underneath the bravado.",
+    "summary_reasoning": "Expression shifts to worry, subdued tone, anxious words."
+  }
+]

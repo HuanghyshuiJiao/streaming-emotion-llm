@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": 6.426,
+    "emotion": "pleased",
+    "detailed_reasoning": "The speaker describes a violent fantasy with a calm, almost casual tone and a slight, persistent smirk. The contrast between the horrific words and his relaxed, smiling demeanor indicates that he is taking pleasure in the thought, suggesting a sadistic or cruel satisfaction.",
+    "summary_reasoning": "Smirk, calm tone, violent words."
+  },
+  {
+    "timestamp": 12.782,
+    "emotion": "fulfilled",
+    "detailed_reasoning": "After describing the violent act, the speaker closes his eyes and his smirk softens into a blissful, satisfied smile. His tone becomes softer and almost reverent as he talks about completing his \"father's work,\" suggesting a deep sense of purpose and fulfillment in this imagined future.",
+    "summary_reasoning": "Eyes closed, blissful smile, soft tone."
+  },
+  {
+    "timestamp": 17.493,
+    "emotion": "determined",
+    "detailed_reasoning": "There's a sharp transition as he opens his eyes. The blissful expression disappears, replaced by a hard, serious look. His voice drops and becomes more forceful. This shift from a pleasant reverie to a stern focus on the present indicates a clear sense of resolve and determination.",
+    "summary_reasoning": "Eyes open, face hardens, forceful tone."
+  },
+  {
+    "timestamp": 21.162,
+    "emotion": "menacing",
+    "detailed_reasoning": "His expression intensifies into a snarl, baring his teeth slightly. His voice becomes a low, guttural growl. The combination of the aggressive facial expression, the intense stare, and the threatening vocal tone conveys a clear and direct menace.",
+    "summary_reasoning": "Snarl, intense stare, guttural voice."
+  }
+]

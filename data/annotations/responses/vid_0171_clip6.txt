@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 0.913,
+    "emotion": "angry",
+    "detailed_reasoning": "The speaker begins by shouting \"Shut up, David!\" with a loud, forceful tone. His facial expression is tense, his eyebrows are furrowed, and his hands are clenched into fists, which he shakes for emphasis. This combination of verbal and non-verbal cues clearly indicates a state of anger and intense frustration.",
+    "summary_reasoning": "Loud tone, tense face, clenched fists."
+  },
+  {
+    "timestamp": 8.128,
+    "emotion": "frustrated",
+    "detailed_reasoning": "After the initial outburst, the speaker's tone shifts from explosive anger to a more narrative but still strained voice. He describes the frustrating thoughts of wanting to leave or ignore the crying child. His hands are no longer clenched but are still held tensely. This indicates a shift from active anger to a state of ongoing frustration and helplessness.",
+    "summary_reasoning": "Strained voice, tense posture."
+  },
+  {
+    "timestamp": 16.405,
+    "emotion": "weary",
+    "detailed_reasoning": "The speaker's energy drops significantly. He says \"An hour. An hour and ten\" in a low, slow, and drawn-out manner. He looks down and his posture sags slightly, conveying a deep sense of exhaustion and the feeling of time dragging on during a difficult experience.",
+    "summary_reasoning": "Low and slow voice, downward gaze."
+  },
+  {
+    "timestamp": 29.333,
+    "emotion": "despairing",
+    "detailed_reasoning": "Recounting the moment of realization, the speaker's tone becomes one of grim acceptance. When he says \"we realize, we're screwed,\" his eyes widen and he makes direct eye contact with the audience, followed by a pained, wry smile. This combination expresses a sense of hopelessness and shared despair with his partner.",
+    "summary_reasoning": "Grim tone, wide eyes, pained smile."
+  },
+  {
+    "timestamp": 36.401,
+    "emotion": "analytical",
+    "detailed_reasoning": "The speaker pivots from his personal story to a more academic question: \"what basically happens on a neurobiological level?\" His tone becomes more detached, informative, and measured, similar to a lecturer. His body language is more neutral and poised, indicating a shift from emotional recounting to intellectual analysis.",
+    "summary_reasoning": "Detached tone, lecturer-like posture."
+  },
+  {
+    "timestamp": 49.718,
+    "emotion": "vulnerable",
+    "detailed_reasoning": "The speaker's voice becomes softer and lower as he lists the emotions he felt in that moment. He explicitly states he felt \"completely helpless.\" His facial expression is somber, and his gaze is slightly downcast. This confession of powerlessness and a multitude of negative feelings creates a moment of vulnerability.",
+    "summary_reasoning": "Soft voice, somber expression, verbal confession."
+  },
+  {
+    "timestamp": 53.3,
+    "emotion": "overwhelmed",
+    "detailed_reasoning": "Continuing to list his emotions—\"angry, in despair, scared\"—the speaker's voice remains low and his pace is deliberate. He looks lost in the memory of the difficult emotions. The culmination of these feelings, ending with \"I don't know what to do,\" points to a state of being completely overwhelmed by the situation.",
+    "summary_reasoning": "Low voice, listing negative emotions, verbalizes confusion."
+  }
+]

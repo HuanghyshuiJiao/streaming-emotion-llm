@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 2.773,
+    "emotion": "sincere",
+    "detailed_reasoning": "The speaker begins her performance by singing. Her initial vocal tone is smooth, controlled, and carries a gentle, apologetic quality that matches the lyrics \"I must apologize.\" Her facial expression is calm and focused, and her body language is still, contributing to an overall mood of sincerity and earnestness as she sets the emotional stage for her song.",
+    "summary_reasoning": "Gentle tone, apologetic lyrics, calm expression."
+  },
+  {
+    "timestamp": 7.698,
+    "emotion": "introspective",
+    "detailed_reasoning": "As the lyrics shift to \"And now I realize,\" her vocal delivery gains a slight intensity and emphasis. Her facial expression becomes more focused and her eyes seem to look inward, suggesting a moment of deep thought or realization. This marks a transition from a general apology to a specific moment of self-discovery.",
+    "summary_reasoning": "Vocal intensity, focused expression, inward gaze."
+  },
+  {
+    "timestamp": 14.123,
+    "emotion": "burdened",
+    "detailed_reasoning": "The speaker's voice takes on a heavier, more melancholic quality as she sings about the \"million expectations\" she was trying to achieve. Her delivery slows slightly, and the melody conveys a sense of weight and pressure. This musical and lyrical combination suggests the feeling of being burdened by past struggles and external pressures.",
+    "summary_reasoning": "Melancholic tone, weighty lyrics, slow delivery."
+  },
+  {
+    "timestamp": 17.806,
+    "emotion": "determined",
+    "detailed_reasoning": "A significant shift occurs here. The speaker's vocal delivery becomes much stronger, more forceful, and carries a clear tone of defiance. Her facial expression hardens with determination, and she makes a subtle, dismissive gesture with her hand. The lyrics \"Now I'm tired of avoiding confrontation\" explicitly state this change in attitude from passive to active.",
+    "summary_reasoning": "Forceful voice, defiant tone, determined expression."
+  },
+  {
+    "timestamp": 24.912,
+    "emotion": "liberated",
+    "detailed_reasoning": "This is the emotional climax of the phrase. As she sings \"I finally break free,\" her voice soars to a powerful high note, filled with a sense of release. A broad, genuine smile appears on her face, and she raises her arm in a triumphant gesture. The combination of soaring vocals, joyful expression, and triumphant body language clearly communicates a feeling of liberation.",
+    "summary_reasoning": "Soaring vocals, smiling face, triumphant gesture."
+  },
+  {
+    "timestamp": 31.61,
+    "emotion": "confident",
+    "detailed_reasoning": "Following the moment of release, her demeanor shifts to one of quiet strength. Her voice becomes firm and declarative as she sings, \"I won't rely on anyone but me.\" Her facial expression is resolved and her posture is upright, conveying a newfound sense of self-assurance and independence. The emotion is no longer about the struggle, but about the confident outcome.",
+    "summary_reasoning": "Firm voice, declarative lyrics, resolved expression."
+  },
+  {
+    "timestamp": 37.649,
+    "emotion": "hopeful",
+    "detailed_reasoning": "The speaker's expression softens and she looks slightly upward as she poses the question, \"How much greater could I be?\" Her vocal tone becomes more open and aspirational, and the rising melody suggests possibility and future potential. This shifts the focus from a statement of present confidence to a hopeful contemplation of the future.",
+    "summary_reasoning": "Upward gaze, aspirational tone, rising melody."
+  },
+  {
+    "timestamp": 43.708,
+    "emotion": "tender",
+    "detailed_reasoning": "In the final moments of the clip, the speaker's demeanor becomes very soft and intimate. Her vocal tone is gentle and filled with a quiet vulnerability as she sings the final line, \"If I truly loved.\" Her facial expression is soft and sincere, conveying a deep, tender emotion that underscores the central theme of self-love.",
+    "summary_reasoning": "Gentle voice, soft expression, vulnerable tone."
+  }
+]

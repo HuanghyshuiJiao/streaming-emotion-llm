@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 6.399,
+    "emotion": "fulfilled",
+    "detailed_reasoning": "The speaker begins with a gentle, confident smile and open hand gestures. Her tone is warm and her words, \"embrace my true nature as a multi-potential Renaissance human,\" express a strong sense of self-acceptance and contentment. This combination of positive visual cues and self-affirming language points to a feeling of fulfillment.",
+    "summary_reasoning": "Warm tone, gentle smile, self-affirming words."
+  },
+  {
+    "timestamp": 9.422,
+    "emotion": "inspirational",
+    "detailed_reasoning": "The speaker's focus shifts from herself to the audience. She uses the inclusive term \"we all\" and makes a broader gesture. Her vocal tone becomes more encouraging and slightly elevated in pitch, aiming to motivate the audience. This change in delivery and language indicates an inspirational emotion.",
+    "summary_reasoning": "Encouraging tone, inclusive gesture, motivational words."
+  },
+  {
+    "timestamp": 18.253,
+    "emotion": "heartfelt",
+    "detailed_reasoning": "The speaker's voice becomes softer and more intimate as she says, \"It's my deepest desire and my highest wish.\" She brings her hands to her chest, a common gesture for sincerity. Her facial expression is earnest and soft, conveying a deep, genuine emotion for the audience's well-being.",
+    "summary_reasoning": "Soft voice, hands on chest, earnest expression."
+  },
+  {
+    "timestamp": 24.0,
+    "emotion": "loving",
+    "detailed_reasoning": "As she delivers the line \"I love you, me,\" her expression is one of gentle self-acceptance. She places a hand over her heart, and her tone is soft and kind. This demonstrates a moment of encouraging self-love, which she is modeling for the audience.",
+    "summary_reasoning": "Gentle expression, hand on heart, kind tone."
+  },
+  {
+    "timestamp": 26.964,
+    "emotion": "grateful",
+    "detailed_reasoning": "After a pause where she receives applause, she says \"Thank you\" with a broad, genuine smile. Her eyes are warm and she looks directly at the audience. The tone of her voice is clearly appreciative, indicating gratitude for their reception.",
+    "summary_reasoning": "Broad smile, appreciative tone, direct eye contact."
+  }
+]

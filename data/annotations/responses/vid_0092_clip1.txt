@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 1.773,
+    "emotion": "neutral",
+    "detailed_reasoning": "The speaker introduces herself with a calm and neutral tone. Her facial expression is a simple, polite smile, and her voice is steady and clear. She is simply providing information to the viewer.",
+    "summary_reasoning": "Calm tone, polite smile, steady voice."
+  },
+  {
+    "timestamp": 17.289,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker is explaining the structure of her video. Her tone is clear and instructional, her gaze is direct, and her facial expression remains neutral and focused on conveying information. There is no personal emotion attached to the words.",
+    "summary_reasoning": "Instructional tone, direct gaze, neutral expression."
+  },
+  {
+    "timestamp": 33.134,
+    "emotion": "happy",
+    "detailed_reasoning": "As she begins the monologue, her tone shifts to become more expressive and slightly higher in pitch. She delivers the line about loving animals with a soft smile and a nostalgic quality, indicating a positive and happy memory.",
+    "summary_reasoning": "Expressive tone, higher pitch, soft smile."
+  },
+  {
+    "timestamp": 40.97,
+    "emotion": "nostalgic",
+    "detailed_reasoning": "The speaker's voice becomes softer and more reflective when mentioning her foster mother's nickname for her. Her eyes look slightly up and away, a common sign of recalling a memory. The smile is gentle, suggesting a fond, nostalgic feeling.",
+    "summary_reasoning": "Soft voice, reflective tone, distant gaze."
+  },
+  {
+    "timestamp": 45.901,
+    "emotion": "amused",
+    "detailed_reasoning": "When delivering the self-deprecating line about looking like a piggy, her smile widens and her tone becomes more lighthearted. This indicates she finds the memory amusing and is not embarrassed by it.",
+    "summary_reasoning": "Wide smile, lighthearted tone."
+  },
+  {
+    "timestamp": 51.392,
+    "emotion": "content",
+    "detailed_reasoning": "Speaking about her foster mother letting her call her 'Moma,' the speaker's pace slows, her voice is soft, and she has a gentle, sustained smile. This combination of cues suggests a deep feeling of contentment and cherished memory.",
+    "summary_reasoning": "Slow pace, soft voice, gentle smile."
+  },
+  {
+    "timestamp": 58.928,
+    "emotion": "excited",
+    "detailed_reasoning": "At the end of the clip, as she talks about the 'most beautiful pink dress,' her eyes widen slightly, her eyebrows raise, and her vocal pitch goes up. This conveys a sense of excitement and wonder associated with the memory of the dress.",
+    "summary_reasoning": "Widened eyes, raised eyebrows, higher pitch."
+  }
+]

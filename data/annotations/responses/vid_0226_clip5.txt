@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 4.236,
+    "emotion": "neutral",
+    "detailed_reasoning": "The speaker begins her talk with a steady, even-paced, and conversational tone. Her facial expression is relaxed with a slight smile, and she uses open, illustrative hand gestures. She is establishing her credibility and the premise of her talk in a calm and straightforward manner, setting a neutral baseline for her emotional state before she begins her main story.",
+    "summary_reasoning": "Steady tone, relaxed face, conversational."
+  },
+  {
+    "timestamp": 10.784,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker shifts into a storytelling mode about what she tells people on airplanes. Her tone becomes lighter, and a small, knowing smile appears on her face as she reveals her alternative profession: 'an editor.' Her head tilts slightly, a common non-verbal cue for playfulness or sharing a personal, slightly conspiratorial anecdote. This combination indicates she finds the situation she's describing amusing.",
+    "summary_reasoning": "Lighter tone, slight smile, head tilt."
+  },
+  {
+    "timestamp": 20.216,
+    "emotion": "humorous",
+    "detailed_reasoning": "The speaker's delivery becomes performative and animated as she imitates the typical 'awkward response' she receives. She uses a slightly higher, more expressive pitch and widens her eyes when quoting the question, 'are you going to psychoanalyze me?' This is a clear reenactment designed to create a humorous effect for the audience by highlighting the absurdity of the question in that context.",
+    "summary_reasoning": "Animated tone, higher pitch, wider eyes, imitation."
+  },
+  {
+    "timestamp": 28.806,
+    "emotion": "witty",
+    "detailed_reasoning": "The speaker continues her humorous point with a clever analogy. Her tone becomes sharp and incredulous, her eyebrows are raised, and she has a wry smile. She delivers the punchline comparing therapy to a gynecological exam with confident, comedic timing, which showcases her wit and lands the joke effectively, eliciting laughter from the audience.",
+    "summary_reasoning": "Incredulous tone, raised eyebrows, comedic timing."
+  },
+  {
+    "timestamp": 34.815,
+    "emotion": "sincere",
+    "detailed_reasoning": "After the joke, the speaker's demeanor shifts significantly. Her tone becomes lower-pitched, slower, and more grounded as she says, 'But the main reason... is because it's true.' Her humorous expression is replaced by a more neutral, earnest one. This transition signals a pivot from comedy to a sincere and important point that forms the foundation of her talk.",
+    "summary_reasoning": "Lower tone, slower pace, earnest expression."
+  },
+  {
+    "timestamp": 48.046,
+    "emotion": "purposeful",
+    "detailed_reasoning": "The speaker's tone becomes more declarative and instructive as she explains the core concept of her work as the 'Dear Therapist.' Her hand gestures are precise and emphatic, reinforcing her words. She speaks with clarity and conviction, indicating a strong sense of purpose in her unique role of teaching a wider audience through the medium of an advice column.",
+    "summary_reasoning": "Declarative tone, emphatic gestures, clarity, conviction."
+  },
+  {
+    "timestamp": 58.27,
+    "emotion": "analytical",
+    "detailed_reasoning": "To conclude the clip, the speaker shifts into a rapid-fire list of rhetorical questions that she considers in her work. Her tone is sharp, focused, and has a distinct, rhythmic cadence. Her gaze is intense and her expression is serious, reflecting the deep, analytical thought process she is sharing with the audience. This demonstrates the 'editing' mindset she applies to therapy.",
+    "summary_reasoning": "Questioning intonation, rhythmic pace, focused expression."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 4.588,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker is reading a story from a first-person perspective about grief. Her tone is low and her pace is measured, conveying a sense of sadness and seriousness appropriate for the content of the letter she is reading. Her facial expression is neutral and focused on the paper.",
+    "summary_reasoning": "Reading sad content, low tone, measured pace."
+  },
+  {
+    "timestamp": 12.792,
+    "emotion": "desperate",
+    "detailed_reasoning": "The speaker reads the final question from the letter, \"How can I get my wife back?\". Her voice rises slightly in pitch and inflection on the word \"back,\" which, combined with the desperate nature of the question itself, shifts the emotion from general somberness to a more pointed feeling of desperation.",
+    "summary_reasoning": "Voice rises on desperate question."
+  },
+  {
+    "timestamp": 16.332,
+    "emotion": "analytical",
+    "detailed_reasoning": "The speaker looks up from her paper, making eye contact with the audience for the first time. Her tone shifts from storytelling to explaining. Her voice becomes clearer, more direct, and slightly higher in pitch, indicating a transition to an analytical and instructional frame of mind.",
+    "summary_reasoning": "Looks up at audience, direct tone, instructional."
+  },
+  {
+    "timestamp": 22.600,
+    "emotion": "revelatory",
+    "detailed_reasoning": "The speaker explains the twist: the story is from a different point of view. She uses vocal emphasis on \"Her story\" and \"His story\" and gestures with her hands to separate the two perspectives. Her tone is engaging and slightly animated, as if revealing a clever insight to the audience.",
+    "summary_reasoning": "Vocal emphasis, hand gestures, engaging tone."
+  },
+  {
+    "timestamp": 35.737,
+    "emotion": "earnest",
+    "detailed_reasoning": "After contrasting the two stories, the speaker reveals the common theme: \"a longing for connection.\" Her pace slows down, her voice becomes softer and more sincere, and her facial expression is serious and empathetic. This change in delivery highlights the core emotional message of her talk, conveying an earnest and heartfelt belief.",
+    "summary_reasoning": "Slower pace, sincere tone, empathetic expression."
+  },
+  {
+    "timestamp": 45.062,
+    "emotion": "insightful",
+    "detailed_reasoning": "The speaker explains the benefit of shifting perspectives, stating the other character becomes \"much more sympathetic.\" She smiles slightly and her tone becomes brighter and more persuasive, as if sharing a valuable insight. Her body language is open and her head is tilted, reinforcing the feeling of sharing a helpful realization.",
+    "summary_reasoning": "Slight smile, persuasive tone, open body language."
+  },
+  {
+    "timestamp": 52.323,
+    "emotion": "emphatic",
+    "detailed_reasoning": "The speaker describes the process of shifting perspective as \"where change begins.\" She delivers this line with strong vocal emphasis, a serious and determined facial expression, and a deliberate nod. This combination of cues conveys a strong sense of conviction and emphasizes the importance of this point.",
+    "summary_reasoning": "Vocal emphasis, determined expression, deliberate nod."
+  },
+  {
+    "timestamp": 58.962,
+    "emotion": "inquisitive",
+    "detailed_reasoning": "The speaker concludes by posing a direct question to the audience. She looks out at them, and her voice takes on a questioning, upward inflection. Her eyebrows are slightly raised, and she holds the gaze, creating a thought-provoking and inquisitive final moment, directly inviting the audience to reflect.",
+    "summary_reasoning": "Direct question to audience, upward inflection, raised eyebrows."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1.694,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker begins with a slow, deliberate pace and a soft tone. His gaze is directed downwards and to the side, not at the camera. This combination of vocal and visual cues suggests he is in a thoughtful, reflective state, introducing a personal topic.",
+    "summary_reasoning": "Slow pace, soft tone, downward gaze."
+  },
+  {
+    "timestamp": 7.564,
+    "emotion": "pensive",
+    "detailed_reasoning": "The speaker continues with a slow pace and a low, even tone. His facial expression is neutral, and he maintains an introspective gaze, looking away from the camera. The content of his speech, contemplating whether he will ever fall in love, adds to the pensive mood.",
+    "summary_reasoning": "Slow pace, neutral expression, introspective gaze."
+  },
+  {
+    "timestamp": 17.822,
+    "emotion": "amused",
+    "detailed_reasoning": "A slight, almost imperceptible smile appears on the speaker's face as he says he falls in love over \"small, stupid things.\" His tone also lightens slightly, suggesting a sense of self-aware amusement at his own romantic tendencies.",
+    "summary_reasoning": "Slight smile, lighter tone, self-aware content."
+  },
+  {
+    "timestamp": 23.912,
+    "emotion": "fond",
+    "detailed_reasoning": "While recounting a specific memory of a girl peeling an apple, the speaker's tone becomes softer and more narrative. There's a subtle hint of a smile, and his expression seems to hold a sense of fond remembrance for this quirky detail.",
+    "summary_reasoning": "Soft narrative tone, subtle smile, recalling a specific memory."
+  },
+  {
+    "timestamp": 30.28,
+    "emotion": "emphatic",
+    "detailed_reasoning": "The speaker's tone becomes slightly more assertive and direct when he says, \"That is literally all.\" He emphasizes the simplicity of the act that made him fall for someone, using his vocal delivery to highlight the point.",
+    "summary_reasoning": "Assertive tone, direct speech."
+  },
+  {
+    "timestamp": 40.292,
+    "emotion": "resigned",
+    "detailed_reasoning": "When explaining that he also falls out of love easily, the speaker's tone has a sense of resignation. His shoulders are slightly slumped, and he delivers the line with a matter-of-factness that suggests acceptance of this trait.",
+    "summary_reasoning": "Resigned tone, matter-of-fact delivery."
+  },
+  {
+    "timestamp": 46.719,
+    "emotion": "playful",
+    "detailed_reasoning": "The speaker's tone shifts to become more playful and teasing as he lists mock deal-breakers like allowing joy or talking through movies. A slight smile returns, and his expression becomes lighter, indicating he's joking.",
+    "summary_reasoning": "Playful tone, slight smile, joking content."
+  },
+  {
+    "timestamp": 55.249,
+    "emotion": "content",
+    "detailed_reasoning": "When he says, \"Our love is stupid, which I kinda like if I'm honest,\" his expression softens into a genuine, gentle smile. His vocal tone is warm and affectionate, conveying a sense of contentment and fondness for this imperfect, simple kind of love.",
+    "summary_reasoning": "Genuine smile, warm tone, affectionate content."
+  },
+  {
+    "timestamp": 59.215,
+    "emotion": "calm",
+    "detailed_reasoning": "In the final line, the speaker concludes that this approach to love \"keeps it fun.\" His voice is calm and steady, and he ends with a soft, relaxed smile. This indicates a peaceful acceptance and happiness with his perspective on love.",
+    "summary_reasoning": "Calm voice, relaxed smile, peaceful conclusion."
+  }
+]

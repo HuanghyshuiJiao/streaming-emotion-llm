@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 3.537,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his story with a calm and narrative tone. His facial expression is neutral, and his voice is steady as he sets the scene about the founding of Apple. This establishes a baseline of composure.",
+    "summary_reasoning": "Calm narrative tone, neutral expression."
+  },
+  {
+    "timestamp": 8.206,
+    "emotion": "proud",
+    "detailed_reasoning": "As the speaker describes the rapid growth and success of Apple, from a garage to a $2 billion company, his tone becomes slightly more assertive and carries a clear sense of accomplishment. The content of the words themselves conveys immense pride.",
+    "summary_reasoning": "Assertive tone, words describing success."
+  },
+  {
+    "timestamp": 12.293,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker's confidence peaks as he describes releasing the Macintosh, which he calls their \"finest creation.\" His vocal delivery is strong and assured, reflecting the pride and certainty he felt at that high point in his career.",
+    "summary_reasoning": "Strong vocal delivery, confident words."
+  },
+  {
+    "timestamp": 18.605,
+    "emotion": "somber",
+    "detailed_reasoning": "There is a dramatic shift in the narrative and tone. After a pause, the speaker says, \"I got fired.\" His voice drops, becoming low and serious. The stark contrast with the preceding proud tone immediately signals a significant negative event, creating a somber mood.",
+    "summary_reasoning": "Dramatic pause, lowered voice, serious tone."
+  },
+  {
+    "timestamp": 20.748,
+    "emotion": "incredulous",
+    "detailed_reasoning": "The speaker asks a rhetorical question, \"How can you get fired from a company you started?\" He looks up at the audience, and his tone conveys a sense of disbelief and the absurdity of the situation. This elicits laughter from the audience, showing he is intentionally highlighting the irony.",
+    "summary_reasoning": "Rhetorical question, tone of disbelief, looks at audience."
+  },
+  {
+    "timestamp": 32.759,
+    "emotion": "serious",
+    "detailed_reasoning": "After explaining the initial success of his partnership, the speaker's tone shifts as he says, \"But then our visions of the future began to diverge.\" The word \"But\" marks a turn, and his voice becomes more serious and measured, indicating the start of a conflict.",
+    "summary_reasoning": "Shift in tone after 'But', describing conflict."
+  },
+  {
+    "timestamp": 39.247,
+    "emotion": "disappointed",
+    "detailed_reasoning": "When stating that the board of directors sided against him, the speaker's voice becomes flat and matter-of-fact. This lack of overt emotion, when describing a significant betrayal, conveys a deep sense of resignation and disappointment.",
+    "summary_reasoning": "Flat tone, describing betrayal, sense of resignation."
+  },
+  {
+    "timestamp": 43.131,
+    "emotion": "dejected",
+    "detailed_reasoning": "The speaker emphasizes his removal by stating he was \"very publicly out.\" The repetition and emphasis on the public nature of his firing, combined with a low and deliberate vocal tone, convey a feeling of humiliation and dejection.",
+    "summary_reasoning": "Emphasis on 'very publicly out', low and deliberate tone."
+  },
+  {
+    "timestamp": 48.417,
+    "emotion": "devastated",
+    "detailed_reasoning": "The speaker's emotion reaches its lowest point as he says the experience was \"devastating.\" His voice is low, his expression is pained, and the powerful word choice clearly communicates the immense emotional impact of losing the company he built.",
+    "summary_reasoning": "Pained expression, low voice, use of the word 'devastating'."
+  },
+  {
+    "timestamp": 52.715,
+    "emotion": "ashamed",
+    "detailed_reasoning": "The speaker describes feeling like he had \"let the previous generation of entrepreneurs down.\" His tone is heavy with regret and his gaze is lowered, suggesting a deep sense of personal failure and shame for not living up to expectations.",
+    "summary_reasoning": "Tone of regret, lowered gaze, words express failure."
+  }
+]

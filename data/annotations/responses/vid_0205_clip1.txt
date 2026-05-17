@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "annoyed",
+    "detailed_reasoning": "The video begins with the speaker posing a rhetorical question. Her tone is slightly exasperated, and her facial expression is weary, with a slight furrow in her brow. This combination of verbal and non-verbal cues suggests a feeling of annoyance or frustration with the topic she is introducing.",
+    "summary_reasoning": "Exasperated tone, weary expression, rhetorical question."
+  },
+  {
+    "timestamp": 7.681,
+    "emotion": "desperate",
+    "detailed_reasoning": "The speaker's emotion intensifies from simple annoyance to a more dramatic feeling of desperation. She uses strong, emotive language like \"slaves to our phone\" and \"waiting anxiously.\" Her tone becomes more plaintive and her eyes widen, conveying a sense of being trapped and longing for a human connection.",
+    "summary_reasoning": "Emotive language, plaintive tone, wide eyes."
+  },
+  {
+    "timestamp": 16.131,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "There is a distinct shift in tone and expression. When mentioning companies' attempts to improve the experience with music, her voice takes on a cynical, slightly mocking quality, and a sarcastic smile appears on her face. This indicates she does not believe these efforts are genuinely helpful.",
+    "summary_reasoning": "Cynical tone, sarcastic smile."
+  },
+  {
+    "timestamp": 21.238,
+    "emotion": "disbelieving",
+    "detailed_reasoning": "As she describes a company having a dedicated radio station for people on hold, her sarcasm evolves into outright disbelief. She subtly rolls her eyes and shakes her head, and her tone becomes incredulous, emphasizing the absurdity of the situation she is describing.",
+    "summary_reasoning": "Incredulous tone, eye roll, head shake."
+  },
+  {
+    "timestamp": 28.128,
+    "emotion": "critical",
+    "detailed_reasoning": "The speaker's demeanor changes from mocking to serious and analytical. She leans forward slightly, her brow furrows, and she poses a direct, logical question. Her tone is no longer sarcastic but pointed and challenging, indicating a shift to a critical and questioning mindset.",
+    "summary_reasoning": "Serious expression, pointed tone, direct question."
+  },
+  {
+    "timestamp": 32.332,
+    "emotion": "exasperated",
+    "detailed_reasoning": "Her frustration builds again into clear exasperation. She makes a hyperbolic statement comparing the number of people making message machines to those answering phones. Her speech becomes faster, her pitch rises, and she uses hand gestures to emphasize her point, all signaling a peak of frustration.",
+    "summary_reasoning": "Hyperbolic statement, faster speech, rising pitch."
+  },
+  {
+    "timestamp": 41.219,
+    "emotion": "disgusted",
+    "detailed_reasoning": "The emotion sharpens from general frustration to focused disgust. She puts very strong, sharp emphasis on the word \"hate,\" and her facial expression tightens with genuine dislike. This shows a deep revulsion for the specific experience of being given false hope by automated systems.",
+    "summary_reasoning": "Strong emphasis on \"hate\", tense facial expression."
+  },
+  {
+    "timestamp": 46.123,
+    "emotion": "mocking",
+    "detailed_reasoning": "The speaker begins to actively mimic the automated phrases she dislikes. Her voice changes to a higher-pitched, artificially cheerful tone, and she adopts a fake smile. This change into performance is clearly intended to mock and ridicule the insincerity of the automated messages.",
+    "summary_reasoning": "Mimicking voice, artificially cheerful tone, fake smile."
+  },
+  {
+    "timestamp": 54.07,
+    "emotion": "hopeful",
+    "detailed_reasoning": "Continuing her mimicry of the automated system, she quotes the phrase \"You have just advanced in our waiting order.\" The phrase itself, though delivered sarcastically, introduces the concept of progress, which creates a brief, albeit ironic, sense of hope for the character in the narrative.",
+    "summary_reasoning": "Mimicked phrase suggesting progress."
+  },
+  {
+    "timestamp": 57.272,
+    "emotion": "dejected",
+    "detailed_reasoning": "The entire performance of frustration and mockery collapses. After a final, hopeful \"Hello?\" her face goes blank, her shoulders slump, and her voice becomes monotone. This sudden drop in energy, followed by the sound of a dial tone, signifies the ultimate failure of her attempt to connect, leaving her looking completely dejected and defeated.",
+    "summary_reasoning": "Monotone voice, deflated expression, dial tone sound."
+  }
+]

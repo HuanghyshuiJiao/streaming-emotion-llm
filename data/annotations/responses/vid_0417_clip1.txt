@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 1.713,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins with a direct and solemn address to the audience. His tone is low, steady, and commands attention, while his facial expression is neutral and focused. The words 'wake up' immediately establish a serious and urgent theme.",
+    "summary_reasoning": "Low, steady tone, neutral expression, urgent words."
+  },
+  {
+    "timestamp": 16.813,
+    "emotion": "concerned",
+    "detailed_reasoning": "The speaker's tone shifts to be more cautionary. He introduces the concept of 'evil' and repeats the phrase 'wake up.' His vocal intensity increases slightly, and his facial expression tightens, conveying a sense of concern and warning about complacency.",
+    "summary_reasoning": "Cautionary tone, increased vocal intensity, tight expression."
+  },
+  {
+    "timestamp": 24.343,
+    "emotion": "impassioned",
+    "detailed_reasoning": "The speaker's delivery becomes much more forceful and passionate. He clenches his fist while talking about 'clenched fists,' and his voice rises in volume and pitch. The statement 'It's not love' is delivered with strong conviction, highlighting his passion for the topic.",
+    "summary_reasoning": "Forceful voice, rising volume, clenching fist gesture."
+  },
+  {
+    "timestamp": 27.928,
+    "emotion": "calm",
+    "detailed_reasoning": "Following an intense moment, the speaker's demeanor changes completely. His tone becomes soft and gentle, and a slight, reassuring smile appears. The phrase 'There you go' is delivered in a calm, encouraging manner, as if personally and gently waking someone up.",
+    "summary_reasoning": "Soft, gentle tone, slight smile."
+  },
+  {
+    "timestamp": 33.275,
+    "emotion": "determined",
+    "detailed_reasoning": "The energy rises again. The speaker's voice becomes louder and more declarative with the words 'Arise and reply.' His gestures become more expansive and directed towards the audience, indicating a shift from gentle encouragement to a determined call to action.",
+    "summary_reasoning": "Louder, declarative voice, expansive gestures."
+  },
+  {
+    "timestamp": 39.141,
+    "emotion": "hopeful",
+    "detailed_reasoning": "The speaker's tone softens significantly as he describes a dream 'where nobody dies.' His voice becomes more melodic and his pace slows. The content of his speech is idealistic, and his gentle delivery conveys a sense of hope and longing for a better world.",
+    "summary_reasoning": "Soft, melodic tone, slow pace, idealistic words."
+  },
+  {
+    "timestamp": 47.871,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker transitions to a more factual and assertive tone. He states the scientific fact that we share '99.9%' of our DNA. His delivery is clear and confident, using this fact to build a strong, logical argument for unity and connection.",
+    "summary_reasoning": "Factual, assertive tone, clear delivery."
+  },
+  {
+    "timestamp": 57.58,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speech culminates in a highly personal and passionate declaration. The speaker's voice is full of warmth and conviction as he talks about facing fears for the friends he loves. His arms open wide in a welcoming gesture, physically embodying the final metaphor of love as an 'infinite blanket.'",
+    "summary_reasoning": "Warm, convicted voice, wide-open arm gesture."
+  }
+]

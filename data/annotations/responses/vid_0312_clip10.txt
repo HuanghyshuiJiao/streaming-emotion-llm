@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 4.779,
+    "emotion": "earnest",
+    "detailed_reasoning": "The speaker begins with a composed and steady tone. As she delivers the line 'the biggest misconception people have is that we have time,' her vocal tone becomes more serious and her pace is deliberate. Her facial expression is focused and sincere, conveying the gravity of her message and an earnest desire for the audience to understand this point.",
+    "summary_reasoning": "Serious tone, deliberate pace, focused expression."
+  },
+  {
+    "timestamp": 9.387,
+    "emotion": "emphatic",
+    "detailed_reasoning": "After a pause, she delivers the line 'all we ever had or will have is now.' Her tone shifts to become more emphatic and certain. She uses a downward inflection on 'now' and maintains direct eye contact, stressing the importance and finality of this single word and concept. This conveys a strong sense of conviction.",
+    "summary_reasoning": "Downward inflection, direct eye contact, certain tone."
+  },
+  {
+    "timestamp": 22.43,
+    "emotion": "encouraging",
+    "detailed_reasoning": "The speaker's demeanor softens as she explains the concept of being present. When she says 'that's how you really win,' a subtle smile appears for the first time, and her tone becomes lighter and more positive. This shift from a serious, emphatic tone to a warmer one feels encouraging and uplifting for the audience.",
+    "summary_reasoning": "Subtle smile, lighter tone, positive shift."
+  },
+  {
+    "timestamp": 31.122,
+    "emotion": "realistic",
+    "detailed_reasoning": "The speaker's expression becomes more neutral and her tone shifts to a matter-of-fact delivery as she lists the things we cannot control, such as 'what challenges we might face, or for how long we will live.' This change from the previous encouraging moment grounds the speech in a sense of realism and pragmatism.",
+    "summary_reasoning": "Neutral expression, matter-of-fact tone."
+  },
+  {
+    "timestamp": 38.173,
+    "emotion": "empowered",
+    "detailed_reasoning": "Contrasting the previous point, her tone now rises in pitch and conviction on the words 'But we can always choose.' Her facial expression becomes more determined and her body language is open. This transition from a realistic to a more forceful tone conveys a feeling of empowerment and agency.",
+    "summary_reasoning": "Rising pitch, determined expression, forceful tone."
+  },
+  {
+    "timestamp": 46.445,
+    "emotion": "inquisitive",
+    "detailed_reasoning": "The speaker's tone softens and becomes more direct and personal as she poses a question to the audience: 'How do you live your life today?' She pauses, allowing the question to sink in, and her facial expression is open and questioning. This creates an intimate, inquisitive, and reflective moment.",
+    "summary_reasoning": "Soft tone, direct address, open expression, pause."
+  },
+  {
+    "timestamp": 52.414,
+    "emotion": "challenging",
+    "detailed_reasoning": "Following the first question, she immediately asks, 'Would you change anything?' Her tone becomes slightly more pointed and her gaze is direct, gently challenging the audience to self-reflect. The question itself is provocative, pushing the audience to consider their own lives more deeply.",
+    "summary_reasoning": "Pointed tone, direct gaze, provocative question."
+  },
+  {
+    "timestamp": 56.785,
+    "emotion": "somber",
+    "detailed_reasoning": "For the final line, 'if you found out that you had just a few more months to live,' her pace slows significantly, and her voice drops to a lower, more serious pitch. Her expression is grave, reflecting the weight of the hypothetical situation. This creates a somber and deeply thought-provoking end to her statement.",
+    "summary_reasoning": "Slow pace, low pitch, grave expression."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 6.862,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins by stating a fact from an article. His tone is neutral and reportorial, his facial expression is composed, and his body language is still. He is setting a calm, factual baseline for the story he is about to tell.",
+    "summary_reasoning": "Neutral tone, composed expression, factual content."
+  },
+  {
+    "timestamp": 17.56,
+    "emotion": "intrigued",
+    "detailed_reasoning": "The speaker's tone shifts slightly as he introduces a specific character, \"Pedro Reyes.\" His pace slows down, and he enunciates the name clearly, signaling a change from general background information to the core of his narrative. This shift in focus and delivery suggests he is intrigued by the character he is introducing.",
+    "summary_reasoning": "Slower pace, tonal shift, introducing character."
+  },
+  {
+    "timestamp": 24.592,
+    "emotion": "inspired",
+    "detailed_reasoning": "After revealing that the artist turned guns into musical instruments, the speaker's tone becomes lighter and more positive. A subtle smile appears on his face, and his eyebrows are slightly raised. The content itself is about a beautiful transformation, and his delivery reflects a sense of inspiration and awe at the idea.",
+    "summary_reasoning": "Lighter tone, subtle smile, positive content."
+  },
+  {
+    "timestamp": 33.916,
+    "emotion": "hopeful",
+    "detailed_reasoning": "The speaker creates a stark contrast between the weapons' past purpose (\"take people's lives\") and their new one. When he says \"but now,\" his voice softens and becomes more emotional and earnest. His facial expression is sincere, conveying a sense of hopefulness about this positive change.",
+    "summary_reasoning": "Softer, earnest tone, contrasting words, sincere expression."
+  },
+  {
+    "timestamp": 41.186,
+    "emotion": "profound",
+    "detailed_reasoning": "The speaker transitions from storytelling to making a philosophical statement. His tone becomes more declarative and firm, especially on the words \"we choose.\" His gaze is direct and focused on the audience, and his expression is serious, indicating he is delivering a profound, central message.",
+    "summary_reasoning": "Declarative tone, direct gaze, serious expression."
+  },
+  {
+    "timestamp": 43.549,
+    "emotion": "sincere",
+    "detailed_reasoning": "As he shares the lesson he learned, the speaker places his hand on his chest. This gesture, combined with a soft, heartfelt tone and an earnest facial expression, conveys deep sincerity and personal connection to the message he is sharing with the audience.",
+    "summary_reasoning": "Hand on chest, heartfelt tone, earnest expression."
+  },
+  {
+    "timestamp": 50.533,
+    "emotion": "wondering",
+    "detailed_reasoning": "The speaker's tone becomes more lyrical and contemplative as he says, \"I wonder.\" His hand gestures become more fluid and expressive, and his head tilts slightly. This shift in vocal quality and body language suggests a state of curiosity and imaginative wonder as he poses a poetic question.",
+    "summary_reasoning": "Lyrical tone, fluid gestures, contemplative expression."
+  },
+  {
+    "timestamp": 57.577,
+    "emotion": "passionate",
+    "detailed_reasoning": "In his final line, the speaker's delivery becomes more powerful and intense. He uses a crescendo in his voice to build to the final word, \"move.\" His eyes are wide and his expression is full of conviction. This conveys a passionate and impactful conclusion to his performance.",
+    "summary_reasoning": "Intense tone, wide eyes, convicted expression."
+  }
+]

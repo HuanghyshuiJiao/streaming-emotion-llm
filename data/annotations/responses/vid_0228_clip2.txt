@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 1.612,
+    "emotion": "disgusted",
+    "detailed_reasoning": "The speaker's facial expression, with furrowed brows and a slightly downturned mouth, combined with the topic of smelling bad, indicates a feeling of disgust or distaste. Her tone is slightly exasperated as she makes her initial point.",
+    "summary_reasoning": "Disgusted facial expression, negative tone, topic of bad smells."
+  },
+  {
+    "timestamp": 7.378,
+    "emotion": "dramatic",
+    "detailed_reasoning": "The speaker's tone becomes more theatrical as she says, 'It's like an orchestra of stink.' Her eyes widen and her facial expression becomes more animated to emphasize the metaphor, creating a dramatic and illustrative moment.",
+    "summary_reasoning": "Theatrical tone, animated facial expression, descriptive metaphor."
+  },
+  {
+    "timestamp": 11.581,
+    "emotion": "serious",
+    "detailed_reasoning": "After the dramatic metaphor, her tone shifts back to a more serious and explanatory one. She uses a logical analogy ('if one person is out of tune') and her facial expression is one of concentration, suggesting she is making a serious point.",
+    "summary_reasoning": "Serious tone, focused expression, logical analogy."
+  },
+  {
+    "timestamp": 13.663,
+    "emotion": "playful",
+    "detailed_reasoning": "The speaker hesitates while trying to remember the lesson number, looking up and pausing. She then dismisses it with a slight smile and a casual tone ('the next one'), turning a moment of forgetfulness into a playful, self-aware beat.",
+    "summary_reasoning": "Hesitation, slight smile, casual tone."
+  },
+  {
+    "timestamp": 19.068,
+    "emotion": "commanding",
+    "detailed_reasoning": "Her tone becomes sharp, loud, and direct as she says, 'You have to stop being so girly.' Her eyes are wide, and she stares intently at the camera, adopting an authoritative and commanding demeanor to deliver a new lesson.",
+    "summary_reasoning": "Sharp, loud tone, direct stare."
+  },
+  {
+    "timestamp": 23.492,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker's delivery becomes highly passionate and theatrical as she describes female pirates. Her voice is filled with energy, her pace quickens, and she uses a string of strong adjectives ('roughest, toughest') with a fierce expression, fully embodying the character she's describing.",
+    "summary_reasoning": "Energetic voice, fierce expression, strong adjectives."
+  },
+  {
+    "timestamp": 32.921,
+    "emotion": "determined",
+    "detailed_reasoning": "Her tone shifts to one of fierce determination and instruction. She uses a direct comparison ('If a male steals one... you steal two') and a firm, resolute facial expression to convey a competitive and unyielding attitude.",
+    "summary_reasoning": "Firm tone, resolute expression, competitive instruction."
+  },
+  {
+    "timestamp": 39.191,
+    "emotion": "grave",
+    "detailed_reasoning": "The speaker's final statement, 'Be better or be dead,' is delivered with ultimate seriousness. Her voice is low and steady, her face is devoid of any emotion other than gravity, and she holds a direct, unwavering gaze. The shift in energy from passionate to completely serious makes the statement feel somber and grave.",
+    "summary_reasoning": "Low, steady voice, serious expression, direct gaze."
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "enthusiastic",
+    "detailed_reasoning": "The speaker begins with a very high level of energy. Visually, he has a wide, toothy smile and his eyes are wide, conveying excitement. His vocal tone is high-pitched, loud, and cheerful. The combination of these multimodal cues clearly indicates enthusiasm as he introduces himself.",
+    "summary_reasoning": "Wide smile, high-pitched voice, high energy."
+  },
+  {
+    "timestamp": 7.9,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker shifts from a broad, enthusiastic greeting to a more focused, educational tone as he poses a rhetorical question to introduce the topic. While still positive and energetic, his vocal cadence and direct question signal a transition to teaching, making the emotion Informative. The accompanying on-screen text reinforces this shift.",
+    "summary_reasoning": "Educational tone, direct question, on-screen text."
+  },
+  {
+    "timestamp": 11.023,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker delivers a clear definition of the topic. His vocal tone is steady, measured, and direct, indicating confidence in the information he is providing. His facial expression is calm and assured, and he uses subtle hand gestures to underscore his points, reinforcing his role as a knowledgeable instructor.",
+    "summary_reasoning": "Steady tone, clear delivery, calm expression."
+  },
+  {
+    "timestamp": 16.85,
+    "emotion": "persuasive",
+    "detailed_reasoning": "When addressing the misconception that improv is just \"making things up,\" the speaker's tone becomes more persuasive. He emphasizes the phrase \"believe it or not\" with a slight rise in pitch and a more engaging facial expression, including raised eyebrows, to convince the audience that there is an underlying structure. This shift indicates he is actively trying to guide the viewer's understanding.",
+    "summary_reasoning": "Emphasized phrase, rising pitch, engaging expression."
+  },
+  {
+    "timestamp": 27.542,
+    "emotion": "instructional",
+    "detailed_reasoning": "Following his explanation, the speaker transitions to a new point starting with \"So, the first thing you should know...\". His tone becomes very direct and didactic, and his facial expression is neutral and focused. This signals a clear shift into a structured, instructional part of the lesson.",
+    "summary_reasoning": "Direct tone, focused expression, transitional phrase."
+  },
+  {
+    "timestamp": 34.268,
+    "emotion": "friendly",
+    "detailed_reasoning": "When giving a relatable example (\"Whose Line Is It Anyway?\"), the speaker's demeanor changes. His facial expression softens into a genuine smile, and his vocal tone becomes lighter and more conversational, as if sharing a common reference with a friend. This creates a friendlier, more accessible atmosphere compared to the previous instructional tone.",
+    "summary_reasoning": "Smile, lighter tone, conversational style."
+  },
+  {
+    "timestamp": 39.092,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker transitions back to a more formal, educational style to explain the concept of long-form improv. His smile recedes, his expression becomes more neutral and focused, and his vocal tone is once again clear and deliberate. This marks a return to the informative and instructional mode, contrasting with the previous friendly and conversational moment.",
+    "summary_reasoning": "Neutral expression, deliberate tone, educational content."
+  }
+]

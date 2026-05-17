@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 3.097,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins her talk by citing a large-scale survey she conducted. Her tone is measured, factual, and deliberate. Her facial expression is focused and lacks any smiling, establishing a serious and authoritative mood from the outset. She is presenting data to build her argument.",
+    "summary_reasoning": "Measured tone, focused expression, factual content."
+  },
+  {
+    "timestamp": 6.383,
+    "emotion": "concerned",
+    "detailed_reasoning": "After stating that 'a third of us' have a certain behavior, she repeats 'a third' for emphasis. Her voice becomes slightly softer and more deliberate, and her eyes are wide as she looks at the audience. This repetition and her non-verbal cues suggest she is trying to convey the gravity of the statistic, shifting from a purely factual tone to one of concern.",
+    "summary_reasoning": "Repetition for emphasis, softer voice, wide eyes."
+  },
+  {
+    "timestamp": 21.752,
+    "emotion": "analytical",
+    "detailed_reasoning": "The speaker is describing the two ways people deal with 'bad emotions': judging themselves or pushing them aside. Her tone is descriptive and explanatory. She uses a distinct hand gesture to illustrate the idea of 'pushing aside,' which reinforces the analytical nature of her explanation. Her expression remains serious and focused on conveying the information clearly.",
+    "summary_reasoning": "Explanatory tone, illustrative hand gesture."
+  },
+  {
+    "timestamp": 26.884,
+    "emotion": "empathetic",
+    "detailed_reasoning": "The speaker extends her point by saying we apply these judgments not just to ourselves but also to 'people we love, like our children.' Her voice softens noticeably on these words, and her expression also softens slightly. This shift in vocal and facial cues indicates a move from a general analysis to a more personal, empathetic concern for loved ones.",
+    "summary_reasoning": "Softer voice, softer expression, personal example."
+  },
+  {
+    "timestamp": 38.299,
+    "emotion": "critical",
+    "detailed_reasoning": "The speaker describes how parents 'shame' their children out of negative emotions and 'fail to help them' see their value. Her tone becomes firmer and more pointed, conveying a sense of disapproval for this common behavior. Her facial expression is serious and slightly strained, highlighting the negative consequences she is describing. This is a critique of a societal norm.",
+    "summary_reasoning": "Firmer tone, serious expression, disapproving language."
+  },
+  {
+    "timestamp": 52.718,
+    "emotion": "disapproving",
+    "detailed_reasoning": "The speaker concludes her point by stating that 'being positive has become a new form of moral correctness.' Her tone is declarative and carries a strong note of disapproval. The way she says 'moral correctness' is slightly sardonic, and her serious expression reinforces her critical stance on this societal pressure. The slight smile and head tilt at the end of the sentence add to the feeling of disapproval.",
+    "summary_reasoning": "Sardonic tone, critical language, serious expression."
+  },
+  {
+    "timestamp": 58.759,
+    "emotion": "somber",
+    "detailed_reasoning": "To illustrate her point, the speaker uses the poignant example of people with cancer being told to 'just stay positive.' Her tone becomes softer and more somber, reflecting the seriousness and emotional weight of the example. Her facial expression also becomes more subdued and empathetic, conveying a sense of sadness about this reality.",
+    "summary_reasoning": "Softer tone, serious example, empathetic expression."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 3.326,
+    "emotion": "intense",
+    "detailed_reasoning": "The speaker begins his performance with a very focused and intense facial expression. His eyes are wide, his brows are slightly furrowed, and he delivers the first line with a deliberate and serious tone, setting an intense mood for his spoken word poetry.",
+    "summary_reasoning": "Focused gaze, serious tone."
+  },
+  {
+    "timestamp": 9.855,
+    "emotion": "ominous",
+    "detailed_reasoning": "The speaker's tone becomes deeper and more foreboding when he mentions \"killer Jack the Paper Ripper.\" His facial expression remains intense, and the slow, deliberate pace of his words creates an ominous and slightly threatening atmosphere, fitting the subject matter.",
+    "summary_reasoning": "Deeper tone, intense expression."
+  },
+  {
+    "timestamp": 15.398,
+    "emotion": "critical",
+    "detailed_reasoning": "The speaker's delivery speeds up and his tone becomes more pointed and critical. He is listing societal problems like propaganda and prejudice. His expression is stern and his voice has a sharp, rhythmic quality that conveys a sense of condemnation.",
+    "summary_reasoning": "Faster pace, pointed tone, stern expression."
+  },
+  {
+    "timestamp": 26.609,
+    "emotion": "disdainful",
+    "detailed_reasoning": "When mentioning the \"pompous paper parliament,\" the speaker's tone shifts to one of clear disdain. His lip curls slightly, and his voice carries a contemptuous edge. His delivery is accusatory, highlighting his disapproval of the political figures he is describing.",
+    "summary_reasoning": "Contemptuous tone, slight lip curl."
+  },
+  {
+    "timestamp": 31.814,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker's voice rises in volume and pace as he describes peaceful protests being broken up by \"confetti cannons\" and \"preemptive police.\" His gestures become more expansive and his expression is one of frustration and anger at the injustice he is portraying.",
+    "summary_reasoning": "Louder voice, faster pace, angry expression."
+  },
+  {
+    "timestamp": 41.529,
+    "emotion": "accusatory",
+    "detailed_reasoning": "The speaker's tone becomes sharp and accusatory as he talks about \"paper piggy bankers\" and their greed. He gestures emphatically with his hands, and his facial expression is one of judgment and condemnation. The rhythm of his speech is strong and driving, emphasizing his critique.",
+    "summary_reasoning": "Sharp tone, emphatic gestures, judgmental expression."
+  },
+  {
+    "timestamp": 49.386,
+    "emotion": "somber",
+    "detailed_reasoning": "There is a distinct shift in tone here. After the angry critique, the speaker's voice becomes quieter and more somber as he talks about poverty and how the money goes to \"big wars.\" His pace slows down, and his expression becomes more melancholic, reflecting the gravity of the topic.",
+    "summary_reasoning": "Quieter voice, slower pace, melancholic expression."
+  },
+  {
+    "timestamp": 54.137,
+    "emotion": "resigned",
+    "detailed_reasoning": "The speaker delivers the line \"we remain imprisoned in our own paper chains\" with a sense of helplessness and resignation. His vocal energy drops, his shoulders seem to slump slightly, and his expression is one of weary acceptance of this perceived reality.",
+    "summary_reasoning": "Lower energy, weary expression."
+  },
+  {
+    "timestamp": 59.89,
+    "emotion": "cynical",
+    "detailed_reasoning": "In the final lines, the speaker's tone is cynical and almost dismissive. He states that things always stay the same and the only thing that changes is who is in power. His slight head shake and the wry, almost bitter tone of his voice convey a deep-seated cynicism about the possibility of real change.",
+    "summary_reasoning": "Bitter tone, slight head shake."
+  }
+]

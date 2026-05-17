@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 8.398,
+    "emotion": "scheming",
+    "detailed_reasoning": "The speaker is contemplating a plan to get attention. His tone is speculative, and his facial expression is a mix of thoughtfulness and mischievousness, with a slight smile and shifting eyes as he thinks about doing something that will get him in trouble for a 'long time'.",
+    "summary_reasoning": "Speculative tone, mischievous smile, thinking expression."
+  },
+  {
+    "timestamp": 14.604,
+    "emotion": "determined",
+    "detailed_reasoning": "The speaker's focus shifts to making his actions 'worthwhile' to 'earn her respect.' His tone becomes more serious and his gaze is more focused, indicating a sense of determination and purpose behind his scheming.",
+    "summary_reasoning": "Serious tone, focused gaze, purposeful words."
+  },
+  {
+    "timestamp": 22.751,
+    "emotion": "conflicted",
+    "detailed_reasoning": "The speaker suddenly gets an idea, indicated by a brightening expression and a raised finger, but then immediately dismisses it by saying 'Forget it. No.' This rapid shift from a potential idea to self-rejection shows he is conflicted and struggling to find the right plan.",
+    "summary_reasoning": "Sudden idea, immediate self-dismissal."
+  },
+  {
+    "timestamp": 27.054,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker shifts to recalling a past event, saying 'Hey, remember that time that we did...'. His gaze turns downwards and he begins stroking his chin, which are classic signs of deep thought and reminiscence as he searches for inspiration from the past.",
+    "summary_reasoning": "Downward gaze, stroking chin, recalling past."
+  },
+  {
+    "timestamp": 42.623,
+    "emotion": "excited",
+    "detailed_reasoning": "After a long pause, the speaker has a eureka moment. His face lights up with a wide, energetic smile, and he claps his hands together in excitement. His tone becomes animated as he enthusiastically presents his new idea.",
+    "summary_reasoning": "Wide smile, clapping hands, animated tone."
+  },
+  {
+    "timestamp": 53.608,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker bursts into laughter after proposing his idea. He is clearly very amused by his own plan, saying 'Jeez, right?' and smiling broadly. His joyful and gleeful expression shows he is highly entertained by the thought.",
+    "summary_reasoning": "Laughter, smiling, gleeful expression."
+  }
+]

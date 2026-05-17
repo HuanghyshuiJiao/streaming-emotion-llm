@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 11.208,
+    "emotion": "neutral",
+    "detailed_reasoning": "The speaker begins by setting the stage for a story. Her facial expression is neutral, her tone is calm and conversational, and her posture is relaxed. She is simply providing exposition about the story's structure, indicating a neutral, narrative-focused state.",
+    "summary_reasoning": "Neutral face, calm tone, giving exposition."
+  },
+  {
+    "timestamp": 13.432,
+    "emotion": "happy",
+    "detailed_reasoning": "The speaker's tone softens and becomes slightly higher in pitch as she describes the first part of the memory as 'all beautiful.' A subtle, gentle smile appears, and her eyes seem to soften. This shift in vocal and facial cues, combined with the positive language, indicates she is recalling a pleasant and happy memory.",
+    "summary_reasoning": "Softer tone, gentle smile, positive words."
+  },
+  {
+    "timestamp": 19.2,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's smile completely vanishes as she says the word 'changed.' Her eyebrows furrow slightly, and her facial muscles become tense. Her vocal tone flattens and becomes more somber, signaling a distinct shift in the narrative from a positive memory to a more serious and negative one.",
+    "summary_reasoning": "Smile disappears, furrowed brows, flat tone."
+  },
+  {
+    "timestamp": 25.47,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker explicitly states this part of the memory is 'bitter.' Her expression becomes downcast, her lips purse slightly, and she looks away, avoiding direct eye contact. Her voice is low and soft, conveying a clear sense of sadness and disappointment associated with the memory.",
+    "summary_reasoning": "Downcast expression, low voice, negative words."
+  },
+  {
+    "timestamp": 27.934,
+    "emotion": "regretful",
+    "detailed_reasoning": "The speaker's gaze shifts downward as she expresses a wish to have 'gone home.' This downward gaze, combined with a sighing quality in her voice and the content of her words, strongly suggests a feeling of regret about how the events unfolded.",
+    "summary_reasoning": "Downward gaze, sighing tone, words of regret."
+  },
+  {
+    "timestamp": 38.708,
+    "emotion": "apprehensive",
+    "detailed_reasoning": "Foreshadowing a 'terrible' event, the speaker's eyes widen slightly and she looks directly forward, creating a sense of foreboding. Her tone becomes more deliberate and serious, indicating apprehension and anticipation of the negative events she is about to describe.",
+    "summary_reasoning": "Wide eyes, serious tone, foreshadowing."
+  },
+  {
+    "timestamp": 42.794,
+    "emotion": "hurt",
+    "detailed_reasoning": "Recalling the 'mean things' said to her, the speaker's facial expression becomes visibly pained. Her brows are slightly furrowed, her mouth is tense, and her eyes convey a sense of being wounded. Her voice remains low and soft, reflecting the emotional impact of the memory.",
+    "summary_reasoning": "Pained expression, tense mouth, soft voice."
+  },
+  {
+    "timestamp": 50.745,
+    "emotion": "humiliated",
+    "detailed_reasoning": "When she describes 'being laughed at,' her expression shifts to one of deep-seated pain and humiliation. Her eyes are wide and her face is tense, as if reliving the embarrassment. The memory is clearly a source of shame, and her demeanor reflects this vulnerability.",
+    "summary_reasoning": "Wide eyes, pained face, recalling mockery."
+  },
+  {
+    "timestamp": 58.467,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker's final statement, 'I laughed too,' is delivered with a flat, almost hollow tone that starkly contrasts with the act of laughing. Her facial expression is one of profound sadness, showing no trace of mirth. This contrast reveals the deep pain of the memory, where laughter was a coping mechanism, not an expression of joy.",
+    "summary_reasoning": "Flat tone, sad expression, contradicting words."
+  }
+]

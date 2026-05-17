@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 3.637,
+    "emotion": "inquisitive",
+    "detailed_reasoning": "The speaker starts by telling a story, posing a question directly to the viewer. His tone is engaging and slightly raised in pitch at the end of the sentence, and he uses a subtle head tilt and direct eye contact, which conveys a sense of curiosity and inquiry to draw the listener in.",
+    "summary_reasoning": "Questioning tone, head tilt, direct eye contact."
+  },
+  {
+    "timestamp": 8.727,
+    "emotion": "calm",
+    "detailed_reasoning": "When quoting the student monk, the speaker's tone becomes very steady and his facial expression is neutral and relaxed. He is simply relaying the student's focused state of mind, and his calm delivery reflects the student's own inner calm and focus.",
+    "summary_reasoning": "Steady tone, neutral expression."
+  },
+  {
+    "timestamp": 15.94,
+    "emotion": "wise",
+    "detailed_reasoning": "Transitioning to the master monk's words, the speaker adopts a knowing and gentle expression. He smiles slightly and his tone is soft and instructive, conveying the wisdom of the master who is about to impart a lesson. His eyes have a gentle, knowing look.",
+    "summary_reasoning": "Gentle smile, soft instructive tone."
+  },
+  {
+    "timestamp": 23.473,
+    "emotion": "emphatic",
+    "detailed_reasoning": "The speaker's tone becomes more direct and firm as he delivers the core message from the master. He uses a pointed finger gesture to emphasize the idea of being focused on one's purpose. This shift from a softer storytelling tone to a more direct, assertive one highlights the importance of the lesson.",
+    "summary_reasoning": "Direct tone, pointed finger gesture."
+  },
+  {
+    "timestamp": 29.083,
+    "emotion": "reassuring",
+    "detailed_reasoning": "After delivering the punchline of the story, the speaker's expression softens again. His voice is calm and reassuring as he prepares to transition the lesson from the story to the audience's own lives. He makes a gentle, open-handed gesture.",
+    "summary_reasoning": "Soft expression, calm voice, open gesture."
+  },
+  {
+    "timestamp": 36.275,
+    "emotion": "didactic",
+    "detailed_reasoning": "The speaker is now directly addressing the audience with a universal truth. His tone is clear and instructional, and he uses precise hand gestures to underscore his point about encountering negative people. His expression is serious and focused, indicating he is teaching a practical lesson.",
+    "summary_reasoning": "Instructional tone, precise gestures, serious expression."
+  },
+  {
+    "timestamp": 42.306,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker's confidence grows as he builds on his point. He speaks with a steady rhythm and conviction, using a clear, open-palm gesture to illustrate his point about focus on a larger purpose. His facial expression is assured and his eye contact is strong.",
+    "summary_reasoning": "Steady rhythm, strong eye contact, assured expression."
+  },
+  {
+    "timestamp": 50.452,
+    "emotion": "conclusive",
+    "detailed_reasoning": "He brings his point to a powerful conclusion. His voice is firm and definitive, and he uses a final, dismissive hand gesture to emphasize that all the negativity becomes mere 'noises.' His expression is resolute, finalizing the core message of the entire talk.",
+    "summary_reasoning": "Firm voice, resolute expression, conclusive gesture."
+  },
+  {
+    "timestamp": 55.367,
+    "emotion": "inspirational",
+    "detailed_reasoning": "In his final sentence, addressing the 'Ladies and gentlemen,' his tone shifts to be more expansive and uplifting. He smiles warmly and uses open, inclusive gestures, aiming to inspire the audience to apply this lesson of focus to their own lives. The energy is positive and motivational.",
+    "summary_reasoning": "Warm smile, uplifting tone, inclusive gestures."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 1.734,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker begins with a rhetorical question suggesting a recurring negative experience. Her tone is slightly exasperated, and her facial expression is strained with a slight frown, indicating a feeling of frustration with the situation she is describing.",
+    "summary_reasoning": "Exasperated tone, strained facial expression, rhetorical question."
+  },
+  {
+    "timestamp": 8.423,
+    "emotion": "cynical",
+    "detailed_reasoning": "The speaker uses the strong, negative metaphor \"slaves to our phone.\" Her tone becomes more dramatic and her delivery is slower, emphasizing the negative characterization. This suggests a cynical or jaded perspective on the role of phones in daily life.",
+    "summary_reasoning": "Negative metaphor, dramatic tone."
+  },
+  {
+    "timestamp": 18.879,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "When talking about how companies try to make the hold experience \"better\" by playing music, her tone becomes slightly mocking. Her subtle smirk and the context of her overall complaint suggest she finds this attempt to be superficial and ineffective, indicating sarcasm.",
+    "summary_reasoning": "Mocking tone, slight smirk, context."
+  },
+  {
+    "timestamp": 29.953,
+    "emotion": "annoyed",
+    "detailed_reasoning": "The speaker poses a direct, challenging question about why the person running the on-hold radio station isn't also answering phones. Her head tilt, direct gaze, and pointed, incredulous tone show clear annoyance and question the logic of the situation.",
+    "summary_reasoning": "Incredulous tone, direct question, challenging body language."
+  },
+  {
+    "timestamp": 37.0,
+    "emotion": "exasperated",
+    "detailed_reasoning": "The speaker uses hyperbole, claiming more people make hold machines than answer phones. Her tone is heightened and her facial expression shows clear exasperation with the absurdity of the situation she's describing, marking a peak in her frustration.",
+    "summary_reasoning": "Hyperbole, heightened tone, exasperated expression."
+  },
+  {
+    "timestamp": 43.106,
+    "emotion": "disdainful",
+    "detailed_reasoning": "The speaker's tone becomes more serious and pointed as she says, \"I really hate the ones that make you feel like you're getting somewhere.\" The emphasis on \"hate\" and her contemptuous facial expression convey a strong sense of disdain for these types of automated messages.",
+    "summary_reasoning": "Emphatic negative word (\"hate\"), serious tone, contemptuous expression."
+  },
+  {
+    "timestamp": 49.372,
+    "emotion": "mocking",
+    "detailed_reasoning": "She begins to imitate an automated voice, saying \"Only a few moments more.\" Her voice takes on an artificially sweet and high-pitched quality, clearly mocking the insincerity of the automated messages she despises.",
+    "summary_reasoning": "Vocal mimicry, artificially sweet tone."
+  },
+  {
+    "timestamp": 57.259,
+    "emotion": "relieved",
+    "detailed_reasoning": "After a long monologue expressing frustration, her entire demeanor changes instantly when she says \"Hello.\" Her tone becomes bright and cheerful, and her face breaks into a wide, genuine smile, signaling immense relief that her wait is finally over and she has reached a person.",
+    "summary_reasoning": "Sudden shift in tone, wide smile, cheerful voice."
+  }
+]

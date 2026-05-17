@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 3.036,
+    "emotion": "concerned",
+    "detailed_reasoning": "The speaker begins by presenting a serious problem: rising youth unemployment. His facial expression is neutral but focused, his eyebrows are slightly lowered, and his vocal tone is steady and serious. This combination of verbal content and non-verbal cues indicates a concerned and somber start to his presentation.",
+    "summary_reasoning": "Serious topic, focused expression, steady somber tone."
+  },
+  {
+    "timestamp": 12.893,
+    "emotion": "empathetic",
+    "detailed_reasoning": "He transitions from presenting broad statistics to describing the personal struggle of young graduates. His tone softens and becomes more narrative, and he uses a gentle hand gesture. This shift from factual reporting to describing a human difficulty suggests empathy for the people he's talking about.",
+    "summary_reasoning": "Softer tone, narrative style, describes human struggle."
+  },
+  {
+    "timestamp": 20.706,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker describes the 'catch-22' of needing experience to get a job but needing a job to get experience. His tone becomes more animated, and his hand gestures become more open and expressive, visually representing the paradoxical and frustrating situation. This indicates a sense of frustration with the systemic issue.",
+    "summary_reasoning": "Animated tone, open hand gestures, describes paradox."
+  },
+  {
+    "timestamp": 29.516,
+    "emotion": "serious",
+    "detailed_reasoning": "He pivots to a new, alarming statistic about small business failures. His tone returns to the more measured, grave delivery from the beginning of the talk. The shift back to a factual, serious presentation style underscores the weight of this second problem.",
+    "summary_reasoning": "Grave tone, presents alarming statistic."
+  },
+  {
+    "timestamp": 43.969,
+    "emotion": "passionate",
+    "detailed_reasoning": "Here, the speaker connects the two problems he has outlined—unemployed graduates and failing businesses. His speech pace quickens, his vocal intensity increases, and his gestures become more emphatic as he builds his core argument. This increase in energy and conviction signals a passionate belief in the connection he is making.",
+    "summary_reasoning": "Faster pace, increased vocal intensity, emphatic gestures."
+  },
+  {
+    "timestamp": 52.094,
+    "emotion": "determined",
+    "detailed_reasoning": "In his concluding statement, the speaker proposes a solution and declares his personal mission. His tone becomes firm and resolute, his pace slows for emphasis, and he makes a definitive statement: 'I want to build that bridge.' His earnest expression and purposeful delivery convey a strong sense of determination and commitment.",
+    "summary_reasoning": "Firm tone, resolute pace, earnest expression, personal declaration."
+  }
+]

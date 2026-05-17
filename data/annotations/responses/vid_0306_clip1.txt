@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 1.032,
+    "emotion": "anxious",
+    "detailed_reasoning": "The speaker begins with a direct and distressed statement, 'I want to be alone.' Her voice is soft but carries a tense, firm quality. Her facial expression is serious and strained, with wide eyes looking directly forward, suggesting a state of anxiety and a strong need for solitude.",
+    "summary_reasoning": "Tense voice, strained facial expression."
+  },
+  {
+    "timestamp": 7.681,
+    "emotion": "scared",
+    "detailed_reasoning": "The speaker explicitly states her fear with the words, 'I get really scared.' Her voice wavers and cracks slightly on the word 'scared,' and her eyes widen, indicating that her underlying anxiety has intensified into a more acute state of fear.",
+    "summary_reasoning": "Explicit statement of fear, wavering voice, wide eyes."
+  },
+  {
+    "timestamp": 13.409,
+    "emotion": "pleading",
+    "detailed_reasoning": "After describing symptoms of a panic attack, her tone shifts to a pleading quality as she directly addresses the 'Doctor.' Her facial expression softens into one of earnest appeal, conveying a desperate request to be left alone.",
+    "summary_reasoning": "Pleading vocal tone, direct address, earnest expression."
+  },
+  {
+    "timestamp": 18.336,
+    "emotion": "resentful",
+    "detailed_reasoning": "There is a sharp change in demeanor from pleading to accusatory. Her tone becomes flat and bitter as she says, 'You don't really care.' Her eyes look down and away, and her facial expression closes off, signaling a shift to resentment and mistrust.",
+    "summary_reasoning": "Flat, bitter tone, avoids eye contact."
+  },
+  {
+    "timestamp": 28.429,
+    "emotion": "cynical",
+    "detailed_reasoning": "The speaker's tone becomes mocking and cynical as she predicts the doctor's actions: 'you'll be through with me. On to the next person.' Her expression is one of bitter resignation, showing she believes she is just another patient to be processed, not a person to be cared for.",
+    "summary_reasoning": "Mocking tone, bitter expression."
+  },
+  {
+    "timestamp": 36.913,
+    "emotion": "contemptuous",
+    "detailed_reasoning": "The emotion escalates from general cynicism to a direct, personal attack. Her voice fills with contempt as she says, 'I bet you haven't cared about anyone...' Her eyes narrow and she leans slightly forward, adopting a challenging and disdainful posture.",
+    "summary_reasoning": "Contemptuous tone, narrowed eyes, challenging posture."
+  },
+  {
+    "timestamp": 41.277,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "Her contempt is now expressed through heavy sarcasm. She sneers as she says the word 'unprofessional,' using it as a weapon to mock the doctor's perceived emotional detachment. Her lip curls, visually reinforcing the biting sarcasm in her tone.",
+    "summary_reasoning": "Sarcastic tone, sneering expression."
+  },
+  {
+    "timestamp": 47.704,
+    "emotion": "desperate",
+    "detailed_reasoning": "The anger and sarcasm suddenly dissipate, replaced by a tone of complete desperation. Her voice softens and breaks as she pleads, 'Please just let me go.' Her expression changes from disdain to one of exhausted, desperate appeal.",
+    "summary_reasoning": "Shift to soft, broken voice, exhausted expression."
+  },
+  {
+    "timestamp": 50.066,
+    "emotion": "defiant",
+    "detailed_reasoning": "Following her moment of desperation, a surge of defiance returns. Her voice grows stronger and more assertive as she challenges the doctor's authority, stating, 'I know what I need better than you.' Her chin lifts slightly, adding to the defiant stance.",
+    "summary_reasoning": "Assertive tone, challenging words, lifted chin."
+  },
+  {
+    "timestamp": 56.352,
+    "emotion": "angry",
+    "detailed_reasoning": "Her defiance culminates in an outburst of pure anger. Her voice rises to a near-shout as she makes her final, sweeping statement. Her entire body is tense, her face is contorted with frustration, and she begins to raise her arms in a gesture of exasperation and rage.",
+    "summary_reasoning": "Shouting voice, tense body, frustrated expression."
+  }
+]

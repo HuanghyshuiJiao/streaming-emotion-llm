@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 8.822,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker starts by recounting the sudden and unexpected death of his good friend, Jake. His tone is somber, his delivery is paced slowly and deliberately, and his facial expression is serious and conveys a sense of loss. The content of the story is inherently tragic, and his non-verbal cues align with an emotion of sadness and grief.",
+    "summary_reasoning": "Somber tone, serious expression, tragic content."
+  },
+  {
+    "timestamp": 20.457,
+    "emotion": "inspired",
+    "detailed_reasoning": "After setting the sad context, the speaker introduces a quote that his friend embodied. When he begins to recite the quote, his tone shifts from somber to more emphatic and powerful. He is no longer just recounting a sad memory but is sharing a piece of wisdom that clearly moves and inspires him, suggesting a shift in his emotional state from grief to inspiration.",
+    "summary_reasoning": "Emphatic tone, powerful delivery of quote."
+  },
+  {
+    "timestamp": 30.687,
+    "emotion": "determined",
+    "detailed_reasoning": "The speaker poses a rhetorical question about how he can keep his friend's memory alive by living life to the fullest. This signifies a mental shift from reflection to a call for action. His vocal tone becomes more resolute and his hand gestures become more expressive, underlining his decision to turn grief into a positive, determined purpose.",
+    "summary_reasoning": "Resolute tone, expressive gestures, call to action."
+  },
+  {
+    "timestamp": 42.011,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker introduces a new story of loss, describing the death of another friend, Megan. His tone immediately becomes more subdued and somber again, mirroring the sadness he expressed at the beginning of his talk. The narrative has returned to the theme of loss, bringing the emotion back to sadness.",
+    "summary_reasoning": "Subdued tone, story of another loss."
+  },
+  {
+    "timestamp": 53.094,
+    "emotion": "admiring",
+    "detailed_reasoning": "Instead of focusing on the tragedy of Megan's death, the speaker shifts to describing her character and actions. He speaks about how she was very open and worked to raise money and awareness for her disease. His tone changes from sad to one of respect and admiration for her strength and proactivity in the face of her illness.",
+    "summary_reasoning": "Respectful tone, positive description of friend's actions."
+  }
+]

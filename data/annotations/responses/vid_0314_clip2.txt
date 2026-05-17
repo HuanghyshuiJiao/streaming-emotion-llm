@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 6.2,
+    "emotion": "distressed",
+    "detailed_reasoning": "The speaker begins with a pained facial expression, her eyes are squinted and her mouth is tense. Her vocal tone is strained and emotional, conveying a sense of turmoil. The words themselves, describing her heartbeat as a \"warning drum,\" contribute to an atmosphere of anxiety and distress.",
+    "summary_reasoning": "Pained expression, strained voice, anxious words."
+  },
+  {
+    "timestamp": 11.327,
+    "emotion": "anguished",
+    "detailed_reasoning": "The speaker's expression intensifies in its pain. Her eyes are now closed tightly, and her face is contorted as if in agony. This deepens the initial distress into a more profound state of anguish, as she recalls a past action she has convinced herself she has done.",
+    "summary_reasoning": "Eyes closed tightly, pained facial contortion."
+  },
+  {
+    "timestamp": 15.153,
+    "emotion": "pained",
+    "detailed_reasoning": "While still in a state of anguish, her expression shifts slightly as she delivers the visceral line, \"I smeared my blood on every page.\" Her hands move to her stomach, and her voice is filled with a raw, painful quality, emphasizing the self-inflicted nature of her suffering.",
+    "summary_reasoning": "Visceral words, hands on stomach, raw vocal tone."
+  },
+  {
+    "timestamp": 25.408,
+    "emotion": "despairing",
+    "detailed_reasoning": "The speaker's voice becomes softer and has a sense of resignation. Her head is slightly bowed and her eyes are closed. The content of her speech, about giving herself to her craft and letting go, followed by a long pause, suggests a feeling of giving up or hopelessness.",
+    "summary_reasoning": "Soft resigned tone, bowed head, eyes closed."
+  },
+  {
+    "timestamp": 29.734,
+    "emotion": "tormented",
+    "detailed_reasoning": "Her voice rises in volume and cracks with emotion on the words \"so many times.\" Her hands are clutched tightly to her stomach, and her face is a mask of pain. The repetition and intensity suggest a deep, ongoing torment and suffering.",
+    "summary_reasoning": "Cracking voice, rising volume, clutching stomach, pained expression."
+  },
+  {
+    "timestamp": 35.781,
+    "emotion": "vulnerable",
+    "detailed_reasoning": "The speaker's tone shifts dramatically. It becomes softer, more intimate, and confessional as she begins to address someone directly (\"I told you\"). Her expression softens as well, conveying a raw vulnerability as she shares a deeply personal and bittersweet thought about love making life almost worth living.",
+    "summary_reasoning": "Soft, intimate tone, direct address, bittersweet words."
+  },
+  {
+    "timestamp": 43.02,
+    "emotion": "earnest",
+    "detailed_reasoning": "Her tone becomes more firm and direct as she insists, \"it is not poetry.\" She opens her eyes and looks forward, emphasizing the literal truth of her painful statement. This shift suggests a deep earnestness, wanting the listener to understand the reality of her self-hatred.",
+    "summary_reasoning": "Firm tone, direct gaze, emphatic words."
+  },
+  {
+    "timestamp": 47.932,
+    "emotion": "cathartic",
+    "detailed_reasoning": "As she describes putting the love she couldn't give herself to \"good use,\" there's a sense of release in her voice. Her hands, which were clutched, begin to open up. The act of explaining this transference of love seems to provide a moment of emotional release or catharsis amidst the pain.",
+    "summary_reasoning": "Sense of release in voice, opening hands."
+  },
+  {
+    "timestamp": 53.747,
+    "emotion": "sorrowful",
+    "detailed_reasoning": "In the final lines, her voice is filled with a profound sadness. Her expression is deeply sorrowful, her eyes are tearing up, and her face is contorted with the pain of loving something that is \"dying.\" This culminates all the previous emotions into a final, heartbreaking expression of sorrow and pained love.",
+    "summary_reasoning": "Sad tone, sorrowful expression, watery eyes, painful words."
+  }
+]

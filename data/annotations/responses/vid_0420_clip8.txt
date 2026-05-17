@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 3.375,
+    "emotion": "humorous",
+    "detailed_reasoning": "After asking if there are 'A students' in the audience and getting a quiet response, the speaker gestures to himself with a slight, self-deprecating smile and says 'It's just me.' His lighthearted tone and playful body language create a moment of humor to build rapport with the audience.",
+    "summary_reasoning": "Self-deprecating smile, playful tone, gesturing to self."
+  },
+  {
+    "timestamp": 7.159,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker's tone shifts to become more expository and calm. He explains a basic premise in a matter-of-fact way, stating that people don't need help or strategies to cope with good things. His posture is relaxed and his vocal delivery is smooth and even.",
+    "summary_reasoning": "Expository tone, relaxed posture, smooth vocal delivery."
+  },
+  {
+    "timestamp": 14.967,
+    "emotion": "serious",
+    "detailed_reasoning": "A distinct shift in tone and topic occurs here. The speaker begins to talk about 'negative things, the hurtful things, the bad things.' His voice becomes lower, his pace slows down, and his facial expression turns more somber and focused, signaling the serious nature of the subject matter.",
+    "summary_reasoning": "Lower vocal tone, slower pace, somber facial expression."
+  },
+  {
+    "timestamp": 23.376,
+    "emotion": "emphatic",
+    "detailed_reasoning": "The speaker's delivery becomes more forceful and emphatic as he explains the importance of our reactions to adversity. He uses stronger intonation on words like 'huge implications' and employs deliberate hand gestures to stress the weight of his point. His focus is intense, conveying the significance of this concept.",
+    "summary_reasoning": "Forceful intonation, deliberate hand gestures, intense focus."
+  },
+  {
+    "timestamp": 30.738,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker uses his body language to illustrate his point with passion. When saying 'succumb,' he slightly curls his body inward. When he says 'surmount,' he stands taller and raises his hand high. This physical demonstration, combined with a powerful and contrasting vocal tone, shows his passion for the topic of overcoming adversity.",
+    "summary_reasoning": "Contrasting body language (slumping vs. rising), powerful vocal tone."
+  },
+  {
+    "timestamp": 37.652,
+    "emotion": "pensive",
+    "detailed_reasoning": "The speaker's demeanor shifts to be more thoughtful and instructional. He says 'understand' and begins to break down the prerequisite for resilience. His pace is measured, his tone is more explanatory than passionate, and he uses hand gestures to carefully lay out the concept for the audience, inviting them to think along with him.",
+    "summary_reasoning": "Thoughtful tone, measured pace, explanatory hand gestures."
+  },
+  {
+    "timestamp": 53.807,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker delivers his concluding point with a tone of confidence and clarity. He states, 'The idea is to understand your belief system.' His voice is firm and direct, his posture is upright, and his gestures are definitive. This conveys a strong sense of conviction in the message he is delivering as the core idea of his talk.",
+    "summary_reasoning": "Firm voice, direct tone, definitive gestures."
+  }
+]

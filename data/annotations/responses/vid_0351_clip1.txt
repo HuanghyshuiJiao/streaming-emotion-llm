@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp": 4.356,
+    "emotion": "hopeful",
+    "detailed_reasoning": "The speaker begins with a formal greeting. His tone then shifts to something more personal and optimistic. He expresses a desire for mutual happiness, and a very slight, subtle smile appears on his face, accompanied by a soft, hopeful tone. The words themselves explicitly state hope for a happy outcome.",
+    "summary_reasoning": "Hopeful words, subtle smile, soft tone."
+  },
+  {
+    "timestamp": 10.263,
+    "emotion": "nervous",
+    "detailed_reasoning": "After expressing hope, the speaker pauses for a long time. He looks down and to the side, breaking eye contact. His speech begins with a hesitant \"I think...\" and a long pause, indicating he is gathering his thoughts and is nervous about what he is about to say. His facial expression is tense and his brows are slightly furrowed.",
+    "summary_reasoning": "Long pause, downward gaze, hesitant speech."
+  },
+  {
+    "timestamp": 12.306,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker's emotion shifts from nervousness to confidence. He changes his phrasing from a hesitant \"I think\" to a certain \"I know.\" He looks up, re-establishes eye contact, and his tone becomes more steady and assertive as he declares that they are a good match. This indicates he has overcome his brief hesitation.",
+    "summary_reasoning": "Assertive words, steady tone, direct gaze."
+  },
+  {
+    "timestamp": 18.353,
+    "emotion": "proud",
+    "detailed_reasoning": "The speaker announces a significant career achievement, stating that his father has purchased him a commission as a Colonel. He delivers this line with a serious but self-assured expression. His tone is declarative and carries a weight of importance and pride in his new status.",
+    "summary_reasoning": "Declarative tone, proud words, serious expression."
+  },
+  {
+    "timestamp": 22.659,
+    "emotion": "smug",
+    "detailed_reasoning": "After stating his new rank, he directly connects it to the listener's family history by asking, \"That is the rank your blood father first purchased, is it not?\" He raises his eyebrows and looks up, adopting a knowing expression. The tone is slightly pointed and self-satisfied, suggesting he is pleased with this strategic connection he's making.",
+    "summary_reasoning": "Knowing look, raised eyebrows, self-satisfied tone."
+  },
+  {
+    "timestamp": 28.586,
+    "emotion": "resolute",
+    "detailed_reasoning": "Following the other person's affirmation, he says, \"So I feel my career is now set.\" His tone is firm and conclusive. His expression is serious and determined. This statement marks a sense of finality and resolution about his professional life, setting the stage for the personal proposal to follow.",
+    "summary_reasoning": "Firm tone, conclusive words, serious expression."
+  },
+  {
+    "timestamp": 32.224,
+    "emotion": "nervous",
+    "detailed_reasoning": "Having established his career is set, he begins the next, more personal part of his speech with \"All that remains is...\" but then pauses for a very long time, looking away and slightly down. This prolonged hesitation and break in eye contact signal a return to nervousness as he approaches the marriage proposal.",
+    "summary_reasoning": "Long pause, averted gaze, trailing off."
+  },
+  {
+    "timestamp": 37.337,
+    "emotion": "sincere",
+    "detailed_reasoning": "Breaking the nervous silence, he makes a direct and honest statement about what he cannot offer: \"I cannot offer you a title.\" His tone is serious and direct, without any of the previous smugness. He is being upfront and sincere about the limitations of his proposal, treating the matter with gravity.",
+    "summary_reasoning": "Serious tone, direct and honest words."
+  },
+  {
+    "timestamp": 44.917,
+    "emotion": "flustered",
+    "detailed_reasoning": "Despite his attempt at sincerity, he becomes visibly flustered while trying to formulate the actual proposal. He says, \"What I'm trying to say is...\" while looking down with a slight, awkward smile. He appears momentarily lost for words, indicating he is flustered and struggling to articulate his feelings.",
+    "summary_reasoning": "Stammering words, awkward smile, downward gaze."
+  },
+  {
+    "timestamp": 46.12,
+    "emotion": "confident",
+    "detailed_reasoning": "He quickly recovers from being flustered and transitions back to a confident state. He uses the powerful phrase \"without doubt\" and his tone becomes clear, firm, and assertive. He is now making his formal offer with conviction, having overcome his final bout of nervousness.",
+    "summary_reasoning": "Assertive words, firm tone, conviction."
+  },
+  {
+    "timestamp": 52.798,
+    "emotion": "hopeful",
+    "detailed_reasoning": "After making his offer, his tone softens as he concludes, \"and I trust that this would be acceptable to you.\" He looks up at the person with a hopeful and expectant expression. The assertiveness is gone, replaced by a softer, more vulnerable hope for her acceptance.",
+    "summary_reasoning": "Soft tone, hopeful words, expectant gaze."
+  }
+]

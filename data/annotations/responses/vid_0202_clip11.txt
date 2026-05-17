@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 5.08,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her talk with a calm and measured tone. Her facial expression is neutral, and her posture is relaxed. She is delivering the introductory part of her speech in a factual, composed manner, setting the stage for the rest of her story.",
+    "summary_reasoning": "Calm tone, neutral expression, relaxed posture."
+  },
+  {
+    "timestamp": 12.184,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker's tone becomes slightly more personal and introspective as she begins to talk about her private experience with bipolar disorder. While still calm, there's a shift from a purely informational tone to one of personal reflection on her past.",
+    "summary_reasoning": "Introspective tone, personal content."
+  },
+  {
+    "timestamp": 17.592,
+    "emotion": "concerned",
+    "detailed_reasoning": "The speaker's tone shifts to become more serious and slightly strained. Her facial expression shows concern as she lists the negative stereotypes associated with mental illness ('weak,' 'broken,' 'violent'). This indicates her concern about the societal stigma.",
+    "summary_reasoning": "Serious tone, concerned expression, negative words."
+  },
+  {
+    "timestamp": 28.248,
+    "emotion": "vulnerable",
+    "detailed_reasoning": "During the cartoon illustration, the speaker's voice takes on a more vulnerable quality. She's describing her past fears of being judged. Her tone when saying 'dirty secret' and 'big mental illness' conveys this past sense of shame and fear, even though she is recounting it now.",
+    "summary_reasoning": "Vulnerable tone, describing past fear and shame."
+  },
+  {
+    "timestamp": 35.001,
+    "emotion": "confident",
+    "detailed_reasoning": "There is a distinct shift in energy. The speaker's voice becomes stronger and more assertive. Her posture is upright, and she looks directly at the audience with a confident expression. The word 'But' marks a turning point as she claims her identity as a 'storyteller.'",
+    "summary_reasoning": "Strong assertive voice, confident posture, direct gaze."
+  },
+  {
+    "timestamp": 42.613,
+    "emotion": "sincere",
+    "detailed_reasoning": "The speaker's tone softens and becomes more heartfelt as she expresses her desire to help others. Her facial expression is open and empathetic, and she uses a gentle hand gesture, conveying a deep sense of sincerity and purpose derived from her own experience.",
+    "summary_reasoning": "Soft heartfelt tone, empathetic expression, open gesture."
+  },
+  {
+    "timestamp": 47.161,
+    "emotion": "determined",
+    "detailed_reasoning": "Following her sincere statement of wanting to help, her tone becomes firm and decisive. Stating 'I would do it in words and pictures' with a slight nod, she conveys a strong sense of resolve and commitment to her mission.",
+    "summary_reasoning": "Firm tone, decisive nod, statement of purpose."
+  },
+  {
+    "timestamp": 54.793,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "In the final sentence, the speaker's pace slows down, and her tone becomes more explanatory and introspective. Her gaze and slight gesture towards her head indicate she is in a thoughtful state, reflecting on the internal nature of mood disorders.",
+    "summary_reasoning": "Slow pace, introspective tone, thoughtful expression."
+  }
+]

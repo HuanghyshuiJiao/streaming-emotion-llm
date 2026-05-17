@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 1.633,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins with a grave topic, contemplating suicide before her 11th birthday. Her vocal tone is low and somber, her pace is slow and deliberate, and her facial expression is serious with downcast eyes, all of which convey the gravity of her state of mind at that time.",
+    "summary_reasoning": "Somber tone, serious topic, downcast eyes."
+  },
+  {
+    "timestamp": 7.28,
+    "emotion": "reflective",
+    "detailed_reasoning": "After a pause, the speaker says, 'And that was when everything changed.' Her tone shifts from purely somber to more narrative and reflective. Her gaze lifts slightly, and there's a sense of introducing a pivotal moment in her story, indicating a shift in her emotional state from despair to recollection.",
+    "summary_reasoning": "Narrative tone, slight pause, topic shift."
+  },
+  {
+    "timestamp": 11.645,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker describes being in an inpatient children's mental institution. Her voice remains low, and her eyes look down and away, avoiding direct contact with the audience. This, combined with the difficult subject matter, suggests she is recalling a painful and sad memory.",
+    "summary_reasoning": "Low voice, downward gaze, painful topic."
+  },
+  {
+    "timestamp": 18.354,
+    "emotion": "pained",
+    "detailed_reasoning": "While describing the other children in the institution, she says she 'still struggles to articulate' their states. Her voice softens and almost breaks, her eyes close for a moment, and her facial expression shows deep empathy and pain from the memory. This is a moment of heightened sadness and difficulty.",
+    "summary_reasoning": "Voice softens, eyes close, pained expression."
+  },
+  {
+    "timestamp": 21.157,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker's tone shifts to become more neutral and factual as she begins to describe the therapy program she enrolled in. Her posture becomes more upright, and her delivery is more straightforward, indicating a move from emotional recollection to providing information.",
+    "summary_reasoning": "Neutral tone, factual content, upright posture."
+  },
+  {
+    "timestamp": 32.637,
+    "emotion": "calm",
+    "detailed_reasoning": "Continuing her explanation of the therapy, her voice is steady, her pace is even, and she makes direct eye contact with the audience. Her demeanor is that of an expert calmly explaining a technical concept, with no signs of the earlier sadness or pain.",
+    "summary_reasoning": "Steady voice, even pace, direct eye contact."
+  },
+  {
+    "timestamp": 49.799,
+    "emotion": "engaging",
+    "detailed_reasoning": "The speaker transitions to a simpler explanation with the phrase 'Put more simply'. Her tone becomes more conversational, and she uses open hand gestures. This indicates a deliberate attempt to connect with the audience and make the information more accessible.",
+    "summary_reasoning": "Conversational tone, open hand gestures."
+  },
+  {
+    "timestamp": 51.584,
+    "emotion": "determined",
+    "detailed_reasoning": "As she explains the core challenge of the therapy ('do the scary thing'), her tone becomes more firm and emphatic. Her eyebrows are slightly raised, and her expression is resolute, conveying the determination required to face the fear she is describing.",
+    "summary_reasoning": "Firm tone, emphatic delivery, resolute expression."
+  }
+]

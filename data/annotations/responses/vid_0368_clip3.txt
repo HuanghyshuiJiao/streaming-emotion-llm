@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 2.554,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins his story with a serious and measured tone. He is looking down at his notes, maintaining a neutral, focused facial expression suitable for the formal setting and the gravity of the subject matter—his adoption.",
+    "summary_reasoning": "Serious tone, neutral expression, reading notes."
+  },
+  {
+    "timestamp": 22.174,
+    "emotion": "humorous",
+    "detailed_reasoning": "The speaker delivers a line comparing his chosen college's cost to Stanford's. He then looks up at the audience with a subtle smirk. This visual cue, combined with the ironic content of his words and the subsequent laughter from the audience, indicates a deliberate shift to a lighthearted and humorous tone.",
+    "summary_reasoning": "Ironic content, slight smirk, audience laughter."
+  },
+  {
+    "timestamp": 27.76,
+    "emotion": "somber",
+    "detailed_reasoning": "Following the brief moment of humor, the speaker's topic shifts to the financial hardship his tuition placed on his parents. His tone becomes more subdued, his pace slows, and his expression returns to a neutral, grave state, signaling a shift to a somber mood.",
+    "summary_reasoning": "Subdued tone, serious topic, grave expression."
+  },
+  {
+    "timestamp": 36.871,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker recounts his past feelings of confusion and disillusionment with college. His tone is steady but carries an undercurrent of the frustration and uncertainty he felt. He is in a state of serious reflection on a past hardship.",
+    "summary_reasoning": "Recounting past confusion, frustrated tone."
+  },
+  {
+    "timestamp": 47.389,
+    "emotion": "resolved",
+    "detailed_reasoning": "After describing his uncertainty, the speaker talks about making the firm decision to drop out and trust that things would be okay. His tone shifts from reflecting on confusion to a more determined and forward-looking quality, conveying a sense of resolve and a leap of faith.",
+    "summary_reasoning": "Determined tone, forward-looking content."
+  },
+  {
+    "timestamp": 52.918,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker looks up from his notes to make direct eye contact with the audience. His facial expression becomes open, and a slight, genuine smile appears. His voice gains strength and warmth as he declares that dropping out was one of the best decisions he ever made, signaling a clear shift to a confident and self-assured emotional state.",
+    "summary_reasoning": "Direct eye contact, slight smile, strong vocal tone."
+  }
+]

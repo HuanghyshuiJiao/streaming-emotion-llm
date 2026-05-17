@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": 2.076,
+    "emotion": "contemplative",
+    "detailed_reasoning": "The speaker begins with a question to herself, \"I wonder if she could ever forgive me.\" Her tone is soft and questioning, and her gaze is directed downwards and away, suggesting deep, internal thought and uncertainty. The words themselves express a state of wonder and concern about forgiveness.",
+    "summary_reasoning": "Questioning tone, downward gaze, introspective words."
+  },
+  {
+    "timestamp": 10.318,
+    "emotion": "pleading",
+    "detailed_reasoning": "After a long, pensive pause where she maintains a worried and downcast expression, she looks up and to the side. Her tone shifts as she asks, \"She can forgive me, right?\" The question is no longer just contemplative; it's directed outward as if seeking reassurance. The slight upward inflection and the addition of \"right?\" makes her sound hopeful and pleading.",
+    "summary_reasoning": "Upward gaze, seeking reassurance, pleading tone."
+  },
+  {
+    "timestamp": 20.225,
+    "emotion": "desperate",
+    "detailed_reasoning": "Following another long, silent pause filled with internal struggle, her expression becomes more pained. She then utters \"Forgive me\" in a strained, almost breaking voice. The direct plea, combined with the raw emotion in her tone, indicates a shift from hopeful pleading to a more intense state of desperation.",
+    "summary_reasoning": "Pained expression, strained voice, direct plea."
+  },
+  {
+    "timestamp": 22.551,
+    "emotion": "fearful",
+    "detailed_reasoning": "The speaker's desperation escalates into fear. Her eyes widen slightly, and her voice becomes more frantic as she says, \"I don't want to be crucified.\" The extreme language (\"crucified\") combined with the heightened emotional intensity in her voice and facial expression conveys a strong sense of fear and desperation about the consequences.",
+    "summary_reasoning": "Frantic tone, wide eyes, extreme words."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 3.756,
+    "emotion": "neutral",
+    "detailed_reasoning": "The speaker begins with a standard greeting. Her tone is welcoming but formal and her facial expression is neutral with a slight, polite smile. Her posture is upright and her hands are clasped, indicating a professional and composed demeanor as she introduces herself and the lesson.",
+    "summary_reasoning": "Formal tone, neutral expression, composed posture."
+  },
+  {
+    "timestamp": 16.672,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker's tone shifts to be more educational and direct as she introduces the main topic of the lesson: the poem and the poetic genre of the dramatic monologue. Her facial expression remains neutral and focused, and her hand gestures are minimal, reinforcing the sense that her primary goal is to convey information clearly.",
+    "summary_reasoning": "Educational tone, neutral expression, direct delivery."
+  },
+  {
+    "timestamp": 28.907,
+    "emotion": "authoritative",
+    "detailed_reasoning": "When listing the three most popular poets of the Victorian age, the speaker's tone becomes slightly more assertive and her pace is deliberate. She names Robert Browning, Alfred Lord Tennyson, and Matthew Arnold with a sense of clarity and confidence, establishing her expertise on the subject matter. Her expression is serious and focused.",
+    "summary_reasoning": "Assertive tone, deliberate pace, serious expression."
+  },
+  {
+    "timestamp": 35.681,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's tone becomes more grave when she describes the Victorian age as a \"highly turbulent age with a lot of changes happening all at the same time.\" Her eyebrows lower slightly and her expression becomes more intense, reflecting the serious and chaotic nature of the period she is describing.",
+    "summary_reasoning": "Grave tone, intense expression."
+  },
+  {
+    "timestamp": 45.822,
+    "emotion": "emphatic",
+    "detailed_reasoning": "To convey the feeling of the people during the Victorian age, the speaker's tone becomes more emphatic. She uses the word \"bewildered\" and her facial expression shows a hint of concern, with slightly widened eyes, to emphasize the confusion and disorientation felt by people at the time due to rapid scientific and social changes.",
+    "summary_reasoning": "Emphatic tone, concerned expression, widened eyes."
+  },
+  {
+    "timestamp": 54.54,
+    "emotion": "contemplative",
+    "detailed_reasoning": "As she introduces the central conflict of the era, the speaker's pace slows down and her tone becomes more thoughtful and serious. She gestures with her hands to separate the two concepts, \"science and religion,\" and her focused expression suggests she is setting up a profound and complex theme for discussion.",
+    "summary_reasoning": "Slow pace, thoughtful tone, focused expression."
+  }
+]

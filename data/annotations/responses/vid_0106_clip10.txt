@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1.653,
+    "emotion": "theatrical",
+    "detailed_reasoning": "The speaker adopts a formal, slightly stilted, and character-like voice, distinct from a natural speaking tone. He is clearly performing a role, setting a scene by describing a futuristic, formal agreement. His facial expression is serious to match the character, but the artificiality of the voice indicates a playful or theatrical intent.",
+    "summary_reasoning": "Character voice, formal tone, serious expression."
+  },
+  {
+    "timestamp": 8.619,
+    "emotion": "persuasive",
+    "detailed_reasoning": "Continuing in his character voice, the speaker's tone shifts to become more enticing, like a salesman. When he says, \"we give you this shiny new GCC badge,\" he emphasizes the word \"shiny\" and his eyes widen slightly, trying to sell the value of the badge being offered in the story.",
+    "summary_reasoning": "Enticing tone, emphasized words, wide eyes."
+  },
+  {
+    "timestamp": 16.527,
+    "emotion": "authoritative",
+    "detailed_reasoning": "The speaker's tone becomes more grandiose and declarative as he lists the official-sounding features of the badge, such as being \"uniquely engraved\" with a \"holographic image of our supreme leader.\" The slow, deliberate pace of his speech adds to the feeling of authority and importance he is trying to convey for the object.",
+    "summary_reasoning": "Grandiose tone, declarative speech, slow pace."
+  },
+  {
+    "timestamp": 22.873,
+    "emotion": "delighted",
+    "detailed_reasoning": "The speaker breaks from his formal, authoritative tone with a sudden, high-pitched, and excited interjection: \"It sparkles!\" His expression momentarily shows childlike wonder and delight, contrasting with the previous serious demeanor. This sharp shift in vocal pitch and expression conveys a sense of excitement.",
+    "summary_reasoning": "Sudden high pitch, excited tone, wide eyes."
+  },
+  {
+    "timestamp": 31.452,
+    "emotion": "condescending",
+    "detailed_reasoning": "The speaker's entire demeanor shifts. He adopts a soft, high-pitched, cooing voice to say the word \"Pretty.\" This tone, combined with a gentle, placating facial expression, is characteristic of someone talking down to a small child, marking a clear shift to a condescending and patronizing emotion.",
+    "summary_reasoning": "Soft, high-pitched voice, gentle expression."
+  },
+  {
+    "timestamp": 36.101,
+    "emotion": "analytical",
+    "detailed_reasoning": "The speaker drops the character voice and reverts to his natural speaking tone. He begins to explain the subtext of the scene he was just acting out, saying, \"So what you're doing is you're talking to this alien like it's a child.\" His tone is neutral and explanatory, indicating a shift from performance to analysis.",
+    "summary_reasoning": "Natural voice, explanatory tone, neutral expression."
+  },
+  {
+    "timestamp": 41.231,
+    "emotion": "instructive",
+    "detailed_reasoning": "To further illustrate his point, the speaker briefly switches back into the condescending character voice to say \"pretty... pretty badge\" and then immediately switches back to his normal voice to explicitly state the intention: \"And you're very condescending.\" This act of demonstrating and then explaining is clearly instructive.",
+    "summary_reasoning": "Demonstrating character voice, providing direct explanation."
+  },
+  {
+    "timestamp": 49.648,
+    "emotion": "emphatic",
+    "detailed_reasoning": "While still in his instructive mode, the speaker's tone becomes more emphatic as he explains the alien's emotional state. He places vocal stress on the key phrases \"talked down to\" and \"patronized\" to ensure the listener understands the most crucial part of the interaction he is describing.",
+    "summary_reasoning": "Vocal stress on key phrases."
+  },
+  {
+    "timestamp": 53.516,
+    "emotion": "commanding",
+    "detailed_reasoning": "The speaker's tone shifts from explanation to direct instruction. He describes the scene's climax (\"it throws it at you\") and then issues clear commands on how to react physically, using imperative language like \"you have to portray\" and \"you got to hold it out.\" The tone is urgent and focused, as if directing an actor on set.",
+    "summary_reasoning": "Imperative language, urgent tone, giving directions."
+  }
+]

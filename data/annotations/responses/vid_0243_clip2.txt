@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 1.416,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins with a direct personal statement, 'I am autistic.' Her vocal tone is steady and soft, her pace is slow and deliberate, and her facial expression is neutral with a soft gaze. She has her hand on her chest, a self-soothing or heartfelt gesture, but her overall demeanor is one of calm self-acceptance rather than distress or nervousness.",
+    "summary_reasoning": "Steady soft voice, calm expression, deliberate pace."
+  },
+  {
+    "timestamp": 12.132,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker transitions from a personal statement to a general definition of autism. Her tone shifts to become more educational and objective. Her pitch and rhythm are characteristic of someone explaining a concept to an audience, maintaining a composed and clear delivery without strong emotional undertones.",
+    "summary_reasoning": "Educational tone, objective delivery, clear explanation."
+  },
+  {
+    "timestamp": 27.43,
+    "emotion": "earnest",
+    "detailed_reasoning": "While continuing to explain, the speaker says, 'we do share common traits.' As she says this, her tone becomes more inclusive and she gives a slight, affirming nod. Her facial expression is sincere. This combination suggests she is not just listing facts, but earnestly conveying a sense of shared experience and community.",
+    "summary_reasoning": "Inclusive tone, sincere expression, affirming nod."
+  },
+  {
+    "timestamp": 40.592,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker reverts to a more neutral, explanatory tone as she discusses how the difficulty with certain traits determines a person's position on the spectrum. Her voice is measured and her expression is focused, similar to her earlier definitional statements, indicating her primary goal is to convey information clearly.",
+    "summary_reasoning": "Neutral tone, measured voice, focused expression."
+  },
+  {
+    "timestamp": 46.671,
+    "emotion": "assertive",
+    "detailed_reasoning": "The speaker's entire demeanor shifts as she prepares to debunk a common misconception. Her vocal tone becomes firmer and more direct. Visually, she becomes more emphatic, shaking her head slightly as she says 'it's not like that at all.' This combination of a determined vocal delivery and clear body language signals a confident and assertive refutation of the linear spectrum model.",
+    "summary_reasoning": "Firm tone, emphatic head shake, direct refutation."
+  }
+]

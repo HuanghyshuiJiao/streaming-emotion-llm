@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 4.957,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his presentation in a calm and informative manner. His voice is steady, his pace is measured, and his facial expression is neutral. He is introducing the topic of his talk, Huntington's Disease, in a straightforward way.",
+    "summary_reasoning": "Steady voice, measured pace, neutral expression."
+  },
+  {
+    "timestamp": 9.562,
+    "emotion": "sad",
+    "detailed_reasoning": "As the speaker begins to describe his mother's symptoms, his tone becomes more somber and his pace slows slightly. His eyes are downcast and his expression reflects a sense of sadness as he recalls these difficult memories. The personal nature of the story introduces a clear emotional shift from the initial informative tone.",
+    "summary_reasoning": "Somber tone, slowed pace, downcast eyes."
+  },
+  {
+    "timestamp": 15.73,
+    "emotion": "disappointed",
+    "detailed_reasoning": "When mentioning that neighbors thought his mother was a drunk, the speaker's tone carries a note of disappointment and sadness. His eyebrows furrow slightly and he has a brief, melancholic expression, conveying the hurt and misunderstanding his family experienced.",
+    "summary_reasoning": "Sad tone, furrowed brows, melancholic expression."
+  },
+  {
+    "timestamp": 25.161,
+    "emotion": "empathetic",
+    "detailed_reasoning": "While describing his mother's severe mood swings, the speaker's tone is soft and empathetic. He lists her feelings of frustration, anger, and depression with a gentle cadence, showing understanding for what she went through. His facial expression is serious and compassionate.",
+    "summary_reasoning": "Soft tone, gentle cadence, compassionate expression."
+  },
+  {
+    "timestamp": 30.039,
+    "emotion": "serious",
+    "detailed_reasoning": "Transitioning to the topic of cognitive decline, the speaker's tone becomes more serious and grave. He pauses for emphasis before speaking, and his facial expression is focused and somber, highlighting the gravity of this aspect of the disease.",
+    "summary_reasoning": "Serious tone, pause for emphasis, focused expression."
+  },
+  {
+    "timestamp": 45.045,
+    "emotion": "concerned",
+    "detailed_reasoning": "When defining HD as a rare neurological genetic disease, the speaker's voice is filled with a sense of concern and gravity. He enunciates each word carefully, and his expression is deeply serious, emphasizing the multifaceted and severe nature of the illness he is about to describe.",
+    "summary_reasoning": "Concerned tone, careful enunciation, serious expression."
+  },
+  {
+    "timestamp": 54.0,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker concludes his description with a powerful and somber comparison, likening HD to having ALS, Alzheimer's, and Parkinson's all at once. His voice is low and heavy with the weight of this statement, and his eyes are closed for a moment, conveying a deep sense of somberness and the overwhelming nature of the disease.",
+    "summary_reasoning": "Low, heavy voice, closed eyes."
+  }
+]

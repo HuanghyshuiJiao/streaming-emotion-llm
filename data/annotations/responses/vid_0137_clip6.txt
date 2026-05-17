@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 6.584,
+    "emotion": "disappointed",
+    "detailed_reasoning": "The speaker recounts a pivotal negative moment from his past, stating, \"I thought my life was ruined.\" His tone is somber, his pace is deliberate, and his facial expression is serious with slightly furrowed brows, all of which reflect the feeling of disappointment and hopelessness he is describing.",
+    "summary_reasoning": "Somber tone, serious expression, negative words."
+  },
+  {
+    "timestamp": 12.896,
+    "emotion": "determined",
+    "detailed_reasoning": "The narrative shifts from a problem to a solution. The speaker's tone becomes more assertive and forward-looking as he describes making a decision. He says, \"I know what I'm going to do with this year,\" using a slight hand gesture for emphasis, which signals a change from disappointment to determination.",
+    "summary_reasoning": "Assertive tone, narrative pivot, hand gesture."
+  },
+  {
+    "timestamp": 21.332,
+    "emotion": "resolute",
+    "detailed_reasoning": "The speaker reveals his decision with the declarative statement, \"I'm going to write a novel.\" He delivers the line with a firm tone, a confident expression, and a slight nod, conveying the strong sense of purpose and resolve he felt at that moment.",
+    "summary_reasoning": "Firm tone, confident expression, declarative statement."
+  },
+  {
+    "timestamp": 25.899,
+    "emotion": "appreciative",
+    "detailed_reasoning": "As the speaker begins to describe his girlfriend's reaction, his tone softens, his facial expression warms, and a subtle smile appears. The content focuses on her positive and supportive response, and his delivery clearly communicates his deep appreciation for her belief in him.",
+    "summary_reasoning": "Soft tone, warm expression, positive anecdote."
+  },
+  {
+    "timestamp": 37.611,
+    "emotion": "amused",
+    "detailed_reasoning": "The story takes an ironic turn as he describes receiving \"24 rejection letters.\" He delivers this line not with sadness, but with a wry, knowing tone. This shift indicates that he is now looking back on this past hardship with a sense of humor and amusement.",
+    "summary_reasoning": "Ironic content, wry tone, recounting past hardship humorously."
+  },
+  {
+    "timestamp": 45.44,
+    "emotion": "humorous",
+    "detailed_reasoning": "The speaker delivers the punchline that some publishers wrote him twice. His smile becomes more pronounced, his tone is overtly playful, and he pauses to allow for the audience's laughter. He is now actively engaging in humor, sharing the absurdity of the situation with the audience.",
+    "summary_reasoning": "Smiling, playful tone, comedic timing."
+  },
+  {
+    "timestamp": 51.446,
+    "emotion": "determined",
+    "detailed_reasoning": "Following the humorous anecdote, the speaker's demeanor shifts back to being serious and forceful. He emphatically repeats, \"I'll write another,\" and uses a pointed finger gesture to underscore his persistence. This demonstrates a return to a powerful sense of determination in the face of rejection.",
+    "summary_reasoning": "Serious expression, forceful tone, repetitive emphasis."
+  },
+  {
+    "timestamp": 56.987,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker concludes his story with his ultimate realization: \"I realized I wanted to be a novelist.\" He says this with a clear, steady, and certain tone. His expression is focused and assured. This final statement is delivered with the confidence of someone who has found their true calling.",
+    "summary_reasoning": "Clear tone, focused expression, statement of self-realization."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 1.813,
+    "emotion": "regretful",
+    "detailed_reasoning": "The speaker begins with a heavy sigh, looking upwards with a pained expression. The words \"I think I've made a big mistake\" are spoken slowly and in a low, somber tone, conveying a clear sense of regret and weariness.",
+    "summary_reasoning": "Sigh, slow somber tone, pained expression."
+  },
+  {
+    "timestamp": 8.902,
+    "emotion": "fearful",
+    "detailed_reasoning": "The speaker explicitly uses the word \"afraid.\" Their tone remains low and serious, and they make a hand gesture while saying \"enemy,\" which adds weight to their words. The combination of the text, tone, and context suggests a shift from general regret to a more specific emotion of fear regarding his memories.",
+    "summary_reasoning": "Word \"afraid\", serious tone, hand gesture."
+  },
+  {
+    "timestamp": 17.212,
+    "emotion": "pained",
+    "detailed_reasoning": "The speaker's gaze drops down, and their voice becomes quieter and more introspective. They pause significantly before saying they are remembering something they \"wanted to forget.\" This shift in demeanor and the content of the words indicate they are accessing a painful memory, causing them emotional pain.",
+    "summary_reasoning": "Downward gaze, quieter voice, painful words."
+  },
+  {
+    "timestamp": 24.32,
+    "emotion": "numb",
+    "detailed_reasoning": "When revealing the traumatic event of a car accident and drag racing, the speaker's tone becomes flat and their facial expression is blank. This emotional numbness suggests a dissociative state, a common response when recounting severe trauma. He looks away, as if detached from the memory.",
+    "summary_reasoning": "Flat tone, blank expression, detached gaze."
+  },
+  {
+    "timestamp": 39.604,
+    "emotion": "tense",
+    "detailed_reasoning": "As the speaker begins to recount the specific details of the accident, their breathing becomes slightly more audible and their body tenses. Their speech is deliberate and slow, creating a sense of building tension and anxiety as they force themselves to relive the moment.",
+    "summary_reasoning": "Audible breathing, tense body, deliberate speech."
+  },
+  {
+    "timestamp": 46.884,
+    "emotion": "agitated",
+    "detailed_reasoning": "The speaker's speech pattern becomes faster and more erratic as they describe the collision. Their hand gestures become more pronounced and agitated, mimicking the swerving cars. This acceleration in speech and movement shows a clear increase in agitation and panic.",
+    "summary_reasoning": "Faster speech, erratic tone, agitated gestures."
+  },
+  {
+    "timestamp": 49.671,
+    "emotion": "shocked",
+    "detailed_reasoning": "After describing the cars hitting each other, there is a long, heavy pause. The speaker's face is filled with a look of horror and shock as they say \"the truck hit us.\" The sudden stop in their agitated speech and the raw expression convey the impact of the traumatic memory.",
+    "summary_reasoning": "Long pause, horrified expression, impactful words."
+  },
+  {
+    "timestamp": 57.713,
+    "emotion": "desperate",
+    "detailed_reasoning": "The speaker's voice cracks with emotion. They say \"I shouldn't remember. I can't,\" conveying a desperate struggle against the memory. Their head shakes slightly in denial, and their final words, \"I must stop remembering,\" are a plea, showing a complete sense of desperation and helplessness.",
+    "summary_reasoning": "Cracking voice, head shake, pleading words."
+  }
+]

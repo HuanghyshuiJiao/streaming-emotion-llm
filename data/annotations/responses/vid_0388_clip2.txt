@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "grief",
+    "detailed_reasoning": "The video begins with the man in a state of extreme distress. His facial expression is contorted with pain, his eyes are squeezed shut, and he is audibly sobbing and whimpering. His hands are clutching his face, which are all classic indicators of intense grief or sorrow. The first word \"No\" is uttered in a weak, broken tone that aligns with this overwhelming sadness.",
+    "summary_reasoning": "Contorted face, crying, weak tone."
+  },
+  {
+    "timestamp": 6.022,
+    "emotion": "despair",
+    "detailed_reasoning": "The man's grief appears to deepen into despair. He continues to cry, but his head is now bowed and his body language suggests a sense of hopelessness. He utters \"No\" again, not just as a sad word, but as a mournful, prolonged cry, indicating a complete loss of hope.",
+    "summary_reasoning": "Bowed head, mournful cry, continued sobbing."
+  },
+  {
+    "timestamp": 11.2,
+    "emotion": "rage",
+    "detailed_reasoning": "There is a very sharp and dramatic shift in the man's emotional state. The sobbing abruptly ceases, and the expression of sorrow is replaced by one of pure rage. His face contorts into a snarl, he bares his teeth, and a low, guttural, menacing laugh-like sound emerges. This is a complete transition from sadness to an aggressive, furious state.",
+    "summary_reasoning": "Crying stops, face snarls, bared teeth, guttural laugh."
+  },
+  {
+    "timestamp": 23.0,
+    "emotion": "anger",
+    "detailed_reasoning": "The peak of his explosive rage subsides into a more controlled, simmering anger. The aggressive snarling and laughing sounds have stopped. He now holds a fixed, menacing stare with his eyes wide open, looking directly forward. His facial muscles are still tense, but the emotion has shifted from an uncontrolled outburst to a cold, focused anger.",
+    "summary_reasoning": "Snarling stops, cold stare, tense expression."
+  },
+  {
+    "timestamp": 29.083,
+    "emotion": "defiant",
+    "detailed_reasoning": "After a moment of intense, quiet anger, the man looks directly at the camera with a hardened expression. He says the word \"No\" with a firm, resolute, and challenging tone. This is a stark contrast to his earlier sorrowful utterances of the same word. The combination of his direct, unwavering gaze and strong vocal delivery conveys a sense of defiance and opposition.",
+    "summary_reasoning": "Direct stare, firm tone, resolute speech."
+  }
+]

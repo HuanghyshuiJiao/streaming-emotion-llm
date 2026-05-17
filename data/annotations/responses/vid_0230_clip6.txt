@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 1.553,
+    "emotion": "humorous",
+    "detailed_reasoning": "The speaker begins with a personal anecdote. Her tone is light and conversational. When she mentions \"acupuncture they do with live honeybees,\" her slight smile and the brief pause before the punchline, combined with the audience's reaction, create a humorous and self-deprecating atmosphere. She seems at ease and is warming up the crowd.",
+    "summary_reasoning": "Light tone, slight smile, humorous content."
+  },
+  {
+    "timestamp": 11.763,
+    "emotion": "serious",
+    "detailed_reasoning": "After the initial joke, the speaker's demeanor shifts. The smile fades completely, her tone becomes more measured and somber, and her gaze is more intense. The content of her speech turns inward to a more difficult personal experience, signaling a transition to a serious and contemplative mood.",
+    "summary_reasoning": "Smile fades, somber tone, intense gaze."
+  },
+  {
+    "timestamp": 16.187,
+    "emotion": "distressed",
+    "detailed_reasoning": "Describing the act of shouting \"shut up, or worse\" at her own mind, the speaker's facial expression tightens, particularly around her mouth and eyes. Her voice carries a pained and forceful quality, reflecting the internal turmoil and distress she is recounting. This is a moment of sharing a deeply negative experience.",
+    "summary_reasoning": "Tense facial expression, pained tone."
+  },
+  {
+    "timestamp": 21.713,
+    "emotion": "confident",
+    "detailed_reasoning": "There is a distinct pivot from her internal struggle to her professional life. Her posture becomes more upright, her tone becomes clearer and more assertive, and her hand gestures become more open and illustrative. She is now speaking from a position of expertise and confidence as a \"people researcher.\"",
+    "summary_reasoning": "Upright posture, assertive tone, professional topic."
+  },
+  {
+    "timestamp": 33.342,
+    "emotion": "intrigued",
+    "detailed_reasoning": "The speaker's tone remains confident, but she adopts a more narrative and engaging quality, leaning slightly into her story. Using the word \"noteworthy,\" she signals to the audience that she is about to share a key piece of information. Her expression is focused and shows a hint of intrigue as she sets up the next part of her story.",
+    "summary_reasoning": "Narrative tone, engaging expression, focused gaze."
+  },
+  {
+    "timestamp": 42.492,
+    "emotion": "passionate",
+    "detailed_reasoning": "As she lists the specific skills she was using—\"recording body language, microexpressions, tonal shifts\"—her delivery becomes more animated and precise. Her hand gestures are small but sharp, emphasizing each point. This demonstrates a clear passion and deep knowledge for the subtleties of human interaction that define her work.",
+    "summary_reasoning": "Animated delivery, precise gestures, engaged tone."
+  },
+  {
+    "timestamp": 49.76,
+    "emotion": "somber",
+    "detailed_reasoning": "The mood shifts dramatically as she says, \"What neither of us knew then...\" Her pace slows down, her voice drops in pitch, and her animated expression is replaced by a heavy, serious look. This creates a moment of suspense and signals that she is about to make a profound and difficult revelation.",
+    "summary_reasoning": "Slow pace, lower pitch, serious expression."
+  },
+  {
+    "timestamp": 54.304,
+    "emotion": "vulnerable",
+    "detailed_reasoning": "Delivering the final line, \"were the symptoms of complex post-traumatic stress,\" her expression is completely open and grave. Her tone is steady but imbued with the weight of this personal and difficult truth. By sharing her diagnosis, she reveals the source of her skills and her pain, making her appear vulnerable and courageous.",
+    "summary_reasoning": "Grave expression, weighted tone, personal revelation."
+  }
+]

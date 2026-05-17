@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 8.821,
+    "emotion": "inquisitive",
+    "detailed_reasoning": "The speaker begins with a series of questions, delivered in a measured and slightly confrontational tone. His head is tilted and his eyebrows are slightly raised as he asks, \"Or is it all about what you want?\" This combination of verbal questioning and questioning body language indicates an inquisitive and probing emotional state.",
+    "summary_reasoning": "Questioning tone, tilted head, raised eyebrows."
+  },
+  {
+    "timestamp": 14.066,
+    "emotion": "loving",
+    "detailed_reasoning": "The speaker's tone softens significantly, and a look of affection comes over his face as he says, \"I love that girl of ours.\" His voice is gentle, and his gaze is distant as if picturing her. This shift from a confrontational to a gentle tone, coupled with the affectionate words, clearly marks a change to a loving emotion.",
+    "summary_reasoning": "Softened tone, gentle voice, affectionate facial expression."
+  },
+  {
+    "timestamp": 20.053,
+    "emotion": "proud",
+    "detailed_reasoning": "Continuing to speak about his daughter, his tone fills with pride. He describes her as a \"beautiful young woman with a mind of her own.\" His facial expression is one of admiration, and his voice carries a warm, proud inflection. The content and the delivery both point to a strong sense of pride in his daughter.",
+    "summary_reasoning": "Admiring expression, warm proud tone."
+  },
+  {
+    "timestamp": 26.920,
+    "emotion": "insistent",
+    "detailed_reasoning": "The speaker's emotion becomes more forceful and insistent. He says, \"Boy, do I want that,\" with a stronger volume and more conviction in his voice. His head nods slightly for emphasis. This demonstrates a shift from gentle pride to a more determined and insistent feeling about what he wants for his daughter.",
+    "summary_reasoning": "Stronger volume, convicted tone, head nod."
+  },
+  {
+    "timestamp": 33.678,
+    "emotion": "pleading",
+    "detailed_reasoning": "The speaker's tone shifts again, becoming pleading as he directly addresses the other person. He asks, \"Don't you want that for her?\" with an imploring quality in his voice. His eyebrows are slightly furrowed, and his expression is one of earnest appeal, indicating he is pleading with the other person to understand.",
+    "summary_reasoning": "Imploring tone, earnest facial expression."
+  },
+  {
+    "timestamp": 39.610,
+    "emotion": "impassioned",
+    "detailed_reasoning": "The speaker's energy rises, and he becomes more impassioned. He gestures with his hand and says, \"Embrace her like you've done before.\" His voice is louder and carries more emotional weight, and his facial expression is intense. He is no longer just pleading but is now passionately urging action.",
+    "summary_reasoning": "Louder, emotional voice, intense expression, gesturing."
+  },
+  {
+    "timestamp": 48.026,
+    "emotion": "commanding",
+    "detailed_reasoning": "After a pause, his tone becomes firm and commanding. He gives a direct order: \"make room for her in your heart.\" His voice is low and steady, lacking the previous passion and instead filled with a sense of authority and seriousness. His gaze is direct and unwavering.",
+    "summary_reasoning": "Firm, low voice, direct gaze, serious expression."
+  },
+  {
+    "timestamp": 54.405,
+    "emotion": "disappointed",
+    "detailed_reasoning": "The speaker's emotion transitions to one of deep disappointment and warning. He says, \"then I've got to reassess who you've become.\" His voice drops, becoming heavy with sadness and disappointment. His facial expression reflects this, with a slight frown and a look of disillusionment.",
+    "summary_reasoning": "Voice drops, heavy tone, frowning, disillusioned expression."
+  },
+  {
+    "timestamp": 59.772,
+    "emotion": "disgusted",
+    "detailed_reasoning": "In the final moments, his disappointment hardens into disgust. As he talks about shutting someone out after claiming to love them, his lip curls slightly, and his voice takes on a contemptuous edge. His head turns away slightly as he delivers the final words, \"shut them out,\" as if he can barely stand the thought.",
+    "summary_reasoning": "Contemptuous tone, slight lip curl, turning head away."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1.415,
+    "emotion": "pensive",
+    "detailed_reasoning": "The video starts with the character in a dimly lit, black-and-white setting. His head is slightly bowed, and his facial expression is somber and shadowed. The initial tone of his voice is low and contemplative, suggesting he is lost in thought about a past event.",
+    "summary_reasoning": "Dim lighting, somber expression, low tone."
+  },
+  {
+    "timestamp": 5.241,
+    "emotion": "contempt",
+    "detailed_reasoning": "The character's tone shifts from pensive to scornful as he compares the excellent king ('Hyperion') to the current one ('a satyr'). His facial expression tightens with a subtle sneer, indicating his disdain for the person he is describing. The mythological reference emphasizes the vast difference in his estimation of the two figures.",
+    "summary_reasoning": "Scornful tone, sneer, derogatory comparison."
+  },
+  {
+    "timestamp": 7.465,
+    "emotion": "sorrowful",
+    "detailed_reasoning": "His focus shifts to his father's love for his mother. The tone softens, becoming melancholic and filled with a sense of loss. He looks slightly upward as if recalling a painful but cherished memory, and his expression is one of deep sadness for what is gone.",
+    "summary_reasoning": "Softened tone, melancholic expression, recalling memory."
+  },
+  {
+    "timestamp": 18.744,
+    "emotion": "pained",
+    "detailed_reasoning": "The phrase 'must I remember' is delivered with a strained voice, as if forcing himself to confront painful memories. His facial muscles tense up, and his brows furrow, clearly showing the anguish that these recollections bring him.",
+    "summary_reasoning": "Strained voice, tense facial muscles, furrowed brow."
+  },
+  {
+    "timestamp": 21.649,
+    "emotion": "disdain",
+    "detailed_reasoning": "When he begins describing his mother's affection ('she would hang on him'), his tone acquires a critical, almost mocking edge. His lip curls slightly in a sign of disdain, suggesting he viewed her affection as excessive or cloying. The language ('increase of appetite') frames her love as a kind of insatiable hunger, which he clearly scorns.",
+    "summary_reasoning": "Mocking tone, slight lip curl, critical language."
+  },
+  {
+    "timestamp": 29.579,
+    "emotion": "bitter",
+    "detailed_reasoning": "After a pause, he utters the word 'Frailty' with a deep sense of cynicism, followed by the damning generalization, 'her name is Woman.' His voice is laced with bitterness, and his expression hardens, revealing a profound sense of betrayal and disillusionment with all women, prompted by his mother's actions.",
+    "summary_reasoning": "Cynical tone, hardened expression, generalization."
+  },
+  {
+    "timestamp": 38.983,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "He describes his mother following his father's body 'like Niobe, all tears.' The comparison to the eternally weeping Niobe is delivered with a sarcastic, biting tone, implying her grief was theatrical and insincere. A sneer is visible on his face as he speaks, underlining his contempt for what he sees as a false display of sorrow.",
+    "summary_reasoning": "Sarcastic tone, sneer, ironic comparison."
+  },
+  {
+    "timestamp": 45.6,
+    "emotion": "disgusted",
+    "detailed_reasoning": "The revelation that his mother 'married with my uncle' is spoken with visceral disgust. His face contorts, and he almost spits the words out. This is the ultimate betrayal, and his entire demeanor—voice, facial expression, and body language—is consumed by revulsion.",
+    "summary_reasoning": "Revulsion in voice, contorted face, spitting words."
+  },
+  {
+    "timestamp": 51.656,
+    "emotion": "resentful",
+    "detailed_reasoning": "In the final line, he compares the difference between his father and uncle to the difference between himself and Hercules. This statement is filled with resentment. It's a bitter acknowledgment of his own perceived weakness and inability to act, combined with his lingering rage at the injustice of the situation. His voice is heavy with a sense of frustrated impotence.",
+    "summary_reasoning": "Bitter tone, self-deprecating comparison, frustrated expression."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 2.478,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her story with a calm and measured tone. Her facial expression is neutral and focused, and her body language is relaxed. She is setting the scene for a personal story, and her demeanor indicates she is in control of the narrative.",
+    "summary_reasoning": "Calm tone, neutral expression, relaxed posture."
+  },
+  {
+    "timestamp": 6.992,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's tone becomes more serious and her expression sobers slightly as she mentions the specific date, \"March 2020.\" This date is culturally significant as the start of the pandemic, and her shift in tone reflects the gravity of the period she is about to describe. Her pace slows down, adding weight to the words.",
+    "summary_reasoning": "Sober tone, slower pace, significant date."
+  },
+  {
+    "timestamp": 10.884,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker's gaze becomes slightly distant and her voice softens as she says, \"I still remember this day.\" This indicates a shift from simply stating facts to delving into a vivid personal memory. The emotion is one of thoughtful recollection.",
+    "summary_reasoning": "Soft voice, distant gaze, recalling memory."
+  },
+  {
+    "timestamp": 22.627,
+    "emotion": "relaxed",
+    "detailed_reasoning": "The speaker explicitly states she felt \"quite calm and relaxed.\" Her vocal delivery matches this description perfectly—her tone is smooth, and a slight, gentle smile appears on her face. This contrasts with the potentially stressful setting of a doctor's office, highlighting her past state of mind.",
+    "summary_reasoning": "Explicit statement, smooth tone, slight smile."
+  },
+  {
+    "timestamp": 25.912,
+    "emotion": "confident",
+    "detailed_reasoning": "Her tone becomes more assertive and firm as she explains the reason for her calmness: \"I felt strong, I felt healthy.\" She emphasizes these words, and her posture is upright, conveying a strong sense of self-assurance and physical confidence she had at the time.",
+    "summary_reasoning": "Assertive tone, firm voice, upright posture."
+  },
+  {
+    "timestamp": 33.504,
+    "emotion": "somber",
+    "detailed_reasoning": "The mood shifts as she explains her family couldn't be with her. Her voice loses its confident edge, becoming more subdued and factual. Her facial expression becomes more neutral and serious, reflecting the isolating effect of the pandemic rules.",
+    "summary_reasoning": "Subdued tone, serious expression, isolating context."
+  },
+  {
+    "timestamp": 41.772,
+    "emotion": "tense",
+    "detailed_reasoning": "The speaker builds suspense. Her voice drops in pitch and slows down as she says, \"I still remember the exact words.\" Her gaze becomes very direct and her expression is serious, signaling to the audience that a pivotal and heavy moment is about to be revealed.",
+    "summary_reasoning": "Low-pitched voice, slow pace, direct gaze."
+  },
+  {
+    "timestamp": 48.813,
+    "emotion": "shocked",
+    "detailed_reasoning": "After a long, tense pause, she delivers the doctor's diagnosis. Her voice is flat and devoid of her own emotion, as if she is clinically quoting the words that stunned her. Her facial expression remains frozen and grim, conveying the profound shock and gravity of that moment as she relives it.",
+    "summary_reasoning": "Flat tone, grim expression, quoting shocking news."
+  }
+]

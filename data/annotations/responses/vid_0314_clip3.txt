@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 2.155,
+    "emotion": "anguished",
+    "detailed_reasoning": "The speaker begins with a highly emotional and strained voice, with a high pitch. Her facial expression is one of intense pain, with her eyes squinted and her mouth tense. The words \"hold the lazarus of my body\" convey a sense of deep struggle and suffering, setting a tone of anguish from the very start.",
+    "summary_reasoning": "Strained high-pitched voice, pained facial expression, intense lyrics."
+  },
+  {
+    "timestamp": 12.335,
+    "emotion": "desperate",
+    "detailed_reasoning": "The speaker's voice cracks on the word \"again.\" Her expression remains pained, and she's speaking about the conditions under which she can \"try to breathe again.\" This conveys a sense of desperation, as if she is pleading for these conditions to be met so she can find relief from her suffering.",
+    "summary_reasoning": "Voice crack, pleading tone, pained expression."
+  },
+  {
+    "timestamp": 19.288,
+    "emotion": "pained",
+    "detailed_reasoning": "After a brief pause, the speaker delivers the line \"or even ever\" with a falling intonation and a deeply pained and resigned facial expression. Her eyes are closed, and her head is slightly bowed. This delivery emphasizes a profound sense of hopelessness and deep-seated pain regarding the concept of self-love.",
+    "summary_reasoning": "Falling intonation, resigned facial expression, closed eyes."
+  },
+  {
+    "timestamp": 21.899,
+    "emotion": "pleading",
+    "detailed_reasoning": "The speaker's tone shifts to a direct plea. Her hands are open and gesturing, and her voice remains high and emotional as she asks her love to be a \"guardrail on the ledge.\" The facial expression is still one of anguish, but the intent has become a direct, desperate request for help and protection.",
+    "summary_reasoning": "Pleading tone, open hand gestures, direct address."
+  },
+  {
+    "timestamp": 33.429,
+    "emotion": "wistful",
+    "detailed_reasoning": "The speaker's voice softens on the word \"dance.\" She is describing dying flowers that still dance, a poignant and beautiful image. Her facial expression momentarily softens as well, reflecting a wistful and sad appreciation for this tragic beauty, a brief respite from the raw anguish.",
+    "summary_reasoning": "Softened voice, softened facial expression, poignant lyrics."
+  },
+  {
+    "timestamp": 39.735,
+    "emotion": "resigned",
+    "detailed_reasoning": "The speaker's voice becomes firm and declarative. She states, \"I will always be a woman of wounds,\" with a clear, steady, yet sad tone. Her facial expression is serious and her eyes are open and direct, conveying a sense of resigned acceptance of her permanent scars and trauma.",
+    "summary_reasoning": "Firm tone, direct gaze, declarative statement of pain."
+  },
+  {
+    "timestamp": 49.444,
+    "emotion": "hopeful",
+    "detailed_reasoning": "This is a major turning point. After repeating that love will not heal her, she adds, \"but it will hold my hand if I ever heal myself.\" Her voice on \"heal myself\" is softer and filled with a glimmer of hope. Her facial expression softens, and there's a sense of possibility introduced for the first time, shifting from resignation to tentative hope.",
+    "summary_reasoning": "Shift in lyrics, softer voice, softened expression."
+  },
+  {
+    "timestamp": 55.055,
+    "emotion": "grateful",
+    "detailed_reasoning": "The speaker's voice becomes much lighter and almost breaks into a sad smile as she imagines being taught a joke and staying alive to laugh at it. This introduces a tangible image of future happiness and expresses gratitude for the possibility of such a simple, joyful moment.",
+    "summary_reasoning": "Lighter tone, near-smile, hopeful lyrics."
+  },
+  {
+    "timestamp": 59.62,
+    "emotion": "loving",
+    "detailed_reasoning": "The final line, \"I love you enough to want to love myself too,\" is delivered with a voice thick with emotion, but it's the emotion of profound love and gratitude, not just pain. Her eyes are soft, and her expression is one of deep, heartfelt connection. It's a declaration of love for the other person and, crucially, a newfound motivation for self-love.",
+    "summary_reasoning": "Emotionally thick voice, soft eyes, loving declaration."
+  }
+]

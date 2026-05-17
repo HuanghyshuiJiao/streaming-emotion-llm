@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 0.351,
+    "emotion": "neutral",
+    "detailed_reasoning": "The speaker begins her talk in a calm, informative tone. Her facial expression is neutral and her body language is relaxed as she introduces the topic of executive functions. She is presenting factual information without a strong emotional charge.",
+    "summary_reasoning": "Informative tone, neutral expression."
+  },
+  {
+    "timestamp": 12.504,
+    "emotion": "emphatic",
+    "detailed_reasoning": "The speaker's tone shifts to be more emphatic and serious as she says, \"it's the whole operating system.\" She uses hand gestures and a more forceful vocal delivery to stress the all-encompassing nature of ADHD's effects, moving beyond a simple list of symptoms.",
+    "summary_reasoning": "Forceful tone, hand gestures."
+  },
+  {
+    "timestamp": 18.03,
+    "emotion": "hopeful",
+    "detailed_reasoning": "After describing the pervasive challenges, her tone becomes lighter and more encouraging. She mentions that there are \"a ton of strategies out there that can help,\" and her facial expression softens, signaling a shift from the problem to potential solutions, which introduces a sense of hope.",
+    "summary_reasoning": "Lighter tone, softer expression, positive words."
+  },
+  {
+    "timestamp": 27.014,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker transitions to a personal anecdote, starting with \"I knew I had trouble focusing.\" Her tone becomes more personal and introspective, her pace slows slightly, and her gaze shifts, indicating she is recalling and sharing her own past experiences.",
+    "summary_reasoning": "Personal tone, slower pace, recalling memory."
+  },
+  {
+    "timestamp": 31.72,
+    "emotion": "enlightened",
+    "detailed_reasoning": "Her tone conveys a sense of revelation as she explains the connection between being overwhelmed and poor working memory, something she \"didn't know.\" Her expression and delivery suggest the sharing of a significant personal insight or a 'lightbulb moment' in her journey.",
+    "summary_reasoning": "Tone of revelation, sharing personal insight."
+  },
+  {
+    "timestamp": 39.811,
+    "emotion": "vindicating",
+    "detailed_reasoning": "When explaining that running late wasn't because she \"didn't care,\" but because of a skewed sense of time, her tone becomes slightly defensive and then clarifying. It conveys a sense of vindication, as if she is finally able to explain a long-misunderstood behavior.",
+    "summary_reasoning": "Clarifying tone, explaining misunderstood behavior."
+  },
+  {
+    "timestamp": 50.865,
+    "emotion": "determined",
+    "detailed_reasoning": "The speaker's delivery becomes very firm and deliberate as she makes the statement \"that ADHD is real.\" Her gaze is direct and unwavering, and her vocal tone is strong and full of conviction. This is the core, powerful message she wants to impart.",
+    "summary_reasoning": "Firm tone, direct gaze, strong conviction."
+  },
+  {
+    "timestamp": 55.331,
+    "emotion": "urgent",
+    "detailed_reasoning": "Following her main point, she adds that \"medication is not enough\" with a serious and urgent tone. Her expression is firm, emphasizing that while medication is a tool, more comprehensive approaches are necessary, creating a sense of importance and urgency for the audience.",
+    "summary_reasoning": "Serious tone, firm expression, important concluding point."
+  }
+]

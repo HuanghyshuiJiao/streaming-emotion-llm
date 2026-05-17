@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 11.267,
+    "emotion": "neutral",
+    "detailed_reasoning": "The speaker begins by setting up a scenario for an acting exercise. His tone is calm and instructional, his facial expression is neutral, and his posture is relaxed. He is simply explaining the context of the scene.",
+    "summary_reasoning": "Calm instructional tone, neutral expression."
+  },
+  {
+    "timestamp": 17.896,
+    "emotion": "playful",
+    "detailed_reasoning": "The speaker shifts from his normal speaking voice to a higher-pitched, more formal, and slightly theatrical character voice to portray someone offering tea to an alien. His eyes widen slightly, and his expression becomes more animated, indicating a playful shift into character.",
+    "summary_reasoning": "Higher-pitched theatrical voice, animated expression."
+  },
+  {
+    "timestamp": 31.405,
+    "emotion": "didactic",
+    "detailed_reasoning": "The speaker drops the character voice and returns to his natural, instructional tone. He gestures with his hand to emphasize his point about making decisions as an actor. His expression is serious and focused as he explains the importance of thinking about props.",
+    "summary_reasoning": "Natural instructional tone, serious expression, emphatic gestures."
+  },
+  {
+    "timestamp": 41.183,
+    "emotion": "contemplative",
+    "detailed_reasoning": "The speaker transitions back to a more thoughtful, explanatory mode. He talks about the deeper aspects of acting beyond just words, like pantomime. His gaze is slightly upward and to the side, suggesting he is thinking through the concepts as he explains them.",
+    "summary_reasoning": "Thoughtful tone, upward gaze."
+  },
+  {
+    "timestamp": 48.857,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker re-enters the character, but this time adds a flourish by raising his pinky finger while pretending to hold a teacup. He has a slight smile and a twinkle in his eye, showing amusement and creativity in his performance of the character.",
+    "summary_reasoning": "Smiling expression, playful gesture (pinky up)."
+  },
+  {
+    "timestamp": 57.072,
+    "emotion": "playful",
+    "detailed_reasoning": "The speaker repeats the lines from the scene one last time. He maintains the high-pitched, formal character voice and engaged facial expression, reinforcing the playful, performance-oriented nature of this final segment.",
+    "summary_reasoning": "Sustained character voice, engaged expression."
+  }
+]

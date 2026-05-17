@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 1.793,
+    "emotion": "inquisitive",
+    "detailed_reasoning": "The speaker poses a direct question to the audience. His tone is calm and questioning, his eyebrows are slightly raised, and he uses hand gestures to emphasize his point, indicating he is genuinely curious and wants the audience to reflect.",
+    "summary_reasoning": "Questioning tone, raised eyebrows, hand gestures."
+  },
+  {
+    "timestamp": 9.48,
+    "emotion": "declarative",
+    "detailed_reasoning": "The speaker's tone shifts from inquisitive to declarative as he announces they are going to do an experiment. His voice is firm, and his body language becomes more purposeful, signaling a change in the direction of his presentation.",
+    "summary_reasoning": "Firm tone, purposeful body language."
+  },
+  {
+    "timestamp": 17.127,
+    "emotion": "humorous",
+    "detailed_reasoning": "The speaker begins to list common corporate titles like \"VP\" and \"AVP\" and then trails off into a string of letters from the alphabet (\"LMNOP, QRS, TUV\"). His tone becomes light and playful, and a slight smile appears on his face, indicating a clear attempt at humor to connect with the audience.",
+    "summary_reasoning": "Playful tone, smiling, listing alphabet letters instead of titles."
+  },
+  {
+    "timestamp": 26.596,
+    "emotion": "engaging",
+    "detailed_reasoning": "The speaker shifts to a more interactive segment, asking for \"math people in the room\" and raising his hand. His tone is energetic and his gestures are open and inviting, encouraging the audience to participate in the upcoming activity.",
+    "summary_reasoning": "Energetic tone, open gestures, asking for participation."
+  },
+  {
+    "timestamp": 36.003,
+    "emotion": "instructional",
+    "detailed_reasoning": "The speaker clearly lays out the task for the audience, asking them to calculate their years of experience. His tone becomes very direct and clear, and he uses a distinct gesture of pointing to his head to emphasize that the calculation should be done internally. This is a shift to a purely guiding and instructional mode.",
+    "summary_reasoning": "Direct tone, clear gestures, giving a task."
+  },
+  {
+    "timestamp": 44.815,
+    "emotion": "excited",
+    "detailed_reasoning": "The speaker's energy level rises significantly as he encourages the audience to shout out their answers. His voice becomes louder and more enthusiastic, and his body language is more animated, showing excitement for the audience's response.",
+    "summary_reasoning": "Louder voice, animated body language, encouraging shouting."
+  },
+  {
+    "timestamp": 53.833,
+    "emotion": "amused",
+    "detailed_reasoning": "After hearing a range of numbers from the audience, the speaker smiles and makes a summarizing comment about the \"pride of people\" with 20 years of experience. His tone is lighthearted and his facial expression is one of clear amusement, showing he is enjoying the interaction and the results of his experiment.",
+    "summary_reasoning": "Smiling, lighthearted tone, summarizing audience responses."
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 5.588,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins by offering advice with a serious and direct tone. His facial expression is neutral, and his gaze is focused, indicating he is conveying important information. The content of his speech is a warning about agents asking for money upfront, which reinforces the serious nature of his delivery.",
+    "summary_reasoning": "Direct tone, neutral expression, warning content."
+  },
+  {
+    "timestamp": 11.747,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker shifts to a more informative and explanatory tone as he describes the proper payment structure for an agent. His facial expression remains neutral, but his speech is clear and measured, focusing on educating the listener about industry standards.",
+    "summary_reasoning": "Explanatory tone, neutral face, factual content."
+  },
+  {
+    "timestamp": 23.485,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker's tone becomes slightly more relaxed and reassuring as he discusses acceptable paid services. He uses a calm and even voice, and his facial expression softens a little, suggesting that while these services are optional, they are not a cause for alarm.",
+    "summary_reasoning": "Relaxed tone, softened expression, reassuring content."
+  },
+  {
+    "timestamp": 30.993,
+    "emotion": "emphatic",
+    "detailed_reasoning": "The speaker's tone becomes more emphatic and firm as he stresses what a good agent should *never* require. He slightly raises his voice and uses definitive language (\"should never require\"), coupled with a serious facial expression, to highlight this crucial point.",
+    "summary_reasoning": "Firm tone, raised voice, definitive language."
+  },
+  {
+    "timestamp": 37.02,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker transitions back to an informative tone, providing a helpful resource. He mentions the Screen Actors Guild website and their list of approved agents. His delivery is straightforward and factual, aimed at providing practical guidance.",
+    "summary_reasoning": "Factual content, straightforward tone."
+  },
+  {
+    "timestamp": 46.017,
+    "emotion": "advisory",
+    "detailed_reasoning": "The speaker adopts an advisory tone, summarizing his advice for aspiring professionals. His voice is encouraging yet serious, and he makes direct eye contact with the camera, reinforcing the importance of his final recommendations.",
+    "summary_reasoning": "Encouraging tone, direct eye contact, summary advice."
+  },
+  {
+    "timestamp": 52.785,
+    "emotion": "encouraging",
+    "detailed_reasoning": "In his concluding words, the speaker's tone becomes encouraging. He advises the listener to get experience and be ready, offering a final piece of supportive advice. His facial expression is open and his voice has a positive inflection, ending the clip on a motivational note.",
+    "summary_reasoning": "Supportive words, positive inflection, open expression."
+  }
+]

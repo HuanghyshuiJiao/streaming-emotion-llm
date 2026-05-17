@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 2.254,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "The speaker begins with a rhetorical question, \"why should I be mad?\" His tone is dismissive and his facial expression is slightly strained, suggesting he's masking his true feelings. The line, \"At least he said goodbye this time,\" is delivered with a bitter irony, indicating that he is indeed upset but is using sarcasm as a defense mechanism.",
+    "summary_reasoning": "Rhetorical question, ironic tone, strained expression."
+  },
+  {
+    "timestamp": 5.958,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The emotion shifts from sarcasm to genuine frustration and regret. His tone becomes more direct and laden with disappointment as he says, \"I just wish I hadn't wasted my money.\" His focus on the \"stupid present\" highlights his feeling of wasted effort and emotional investment, and his facial expression hardens.",
+    "summary_reasoning": "Direct tone, disappointed words, hardened expression."
+  },
+  {
+    "timestamp": 12.005,
+    "emotion": "defensive",
+    "detailed_reasoning": "The speaker's tone becomes more assertive and he directly addresses his uncle, telling him not to worry. This is a clear attempt to project strength and independence. His statement, \"Ain't like I'm still five years old, right?\" is a defensive justification of his feigned maturity, trying to convince both his uncle and himself that he is unaffected.",
+    "summary_reasoning": "Assertive tone, direct address, projecting strength."
+  },
+  {
+    "timestamp": 18.713,
+    "emotion": "sad",
+    "detailed_reasoning": "The defensive wall begins to crumble as he recalls a painful childhood memory: \"asking Mom, when's Daddy coming home?\" His voice softens and takes on a melancholic tone, and his eyes look away as if lost in the past. This reveals the deep-seated sadness beneath his defiant exterior.",
+    "summary_reasoning": "Soft, melancholic tone, recounting painful memory, distant gaze."
+  },
+  {
+    "timestamp": 21.777,
+    "emotion": "defiant",
+    "detailed_reasoning": "After showing a moment of vulnerability, he quickly shifts back to a defiant stance. The question \"Who needs him?\" is delivered with a sharp, dismissive tone and a slight head toss. This is an effort to regain emotional control and reject the hurt he just revealed.",
+    "summary_reasoning": "Sharp tone, dismissive question, regaining control."
+  },
+  {
+    "timestamp": 25.001,
+    "emotion": "bitter",
+    "detailed_reasoning": "The defiance morphs into bitterness as he starts listing his father's absences, beginning with, \"He wasn't there to teach me how to shoot my first basket.\" His voice is laced with resentment for the specific milestones his father missed, and his pace begins to quicken, signaling a build-up of negative emotion.",
+    "summary_reasoning": "Resentful tone, listing past hurts, quickening pace."
+  },
+  {
+    "timestamp": 28.305,
+    "emotion": "proud",
+    "detailed_reasoning": "The speaker's emotion shifts from bitterness about his father's absence to pride in his own self-reliance. He states, \"But I learned, didn't I? I got pretty damn good at it too.\" His tone becomes confident and he seeks validation from his uncle, showing pride in the skills he acquired on his own.",
+    "summary_reasoning": "Confident tone, highlighting self-reliance, seeking validation."
+  },
+  {
+    "timestamp": 35.555,
+    "emotion": "angry",
+    "detailed_reasoning": "The pride quickly escalates into anger. As he rapidly lists more life events he navigated alone (\"learned how to shave,\" \"learned how to drive\"), his voice grows louder and more strained. The repetition builds a rhythm of escalating frustration and anger at having to face these moments without a father.",
+    "summary_reasoning": "Louder, strained voice, rapid listing of grievances."
+  },
+  {
+    "timestamp": 41.29,
+    "emotion": "furious",
+    "detailed_reasoning": "The anger culminates in a furious outburst. He shouts his accomplishments and frustrations, his voice reaching a peak in volume and intensity with the line, \"He didn't even send me a damn car.\" The final exclamation, \"To hell with it!\" is a raw expression of rage, his face contorted with emotion as he yells.",
+    "summary_reasoning": "Shouting, peak volume, contorted facial expression, raw rage."
+  },
+  {
+    "timestamp": 50.813,
+    "emotion": "heartbroken",
+    "detailed_reasoning": "Following the peak of his rage, the speaker's energy completely collapses. His voice drops to a near-whisper, trembling with emotion as he says, \"I don't need him.\" His face shows immense pain, his eyes well up, and his bravado is replaced by raw, heartbreaking sadness. The anger has burned away, leaving only the deep hurt.",
+    "summary_reasoning": "Voice trembling, energy collapse, visible pain, tearful eyes."
+  }
+]

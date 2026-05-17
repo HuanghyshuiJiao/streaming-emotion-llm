@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 7.82,
+    "emotion": "vulnerable",
+    "detailed_reasoning": "The speaker begins with a slightly strained smile that quickly fades. Her tone is soft and her words, \"I want someone to be here for me,\" express a clear need for support. Her eyes look up and to the side, and her expression shifts to one of sadness and longing, indicating a state of vulnerability.",
+    "summary_reasoning": "Pleading tone, sad expression, vulnerable words."
+  },
+  {
+    "timestamp": 14.347,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker's voice remains soft and her gaze is unfocused. She explicitly states, \"I need someone stronger than me.\" Her facial expression is consistently downcast, with a slight frown and sad eyes, conveying a feeling of sadness and inadequacy.",
+    "summary_reasoning": "Soft voice, downcast expression, sad words."
+  },
+  {
+    "timestamp": 19.313,
+    "emotion": "despairing",
+    "detailed_reasoning": "After a pause, she looks down and says, \"I'm so weak,\" with a self-deprecating, almost pained smile. The combination of the direct admission of weakness and the contradictory smile suggests a deep sense of despair and hopelessness.",
+    "summary_reasoning": "Words of weakness, pained smile, downward gaze."
+  },
+  {
+    "timestamp": 23.758,
+    "emotion": "pleading",
+    "detailed_reasoning": "Her expression becomes more earnest and her speech slightly more animated as she says, \"I need someone strong enough for both of us.\" The directness of the need, combined with her wide, sad eyes, creates a strong sense of pleading for help and support.",
+    "summary_reasoning": "Earnest expression, direct plea, sad eyes."
+  },
+  {
+    "timestamp": 35.024,
+    "emotion": "desperate",
+    "detailed_reasoning": "The speaker's voice gains a slight intensity and her words become more emphatic, repeating the word \"never, ever.\" She says, \"I need to know that you'll never, ever give up on me.\" This repetition and the direct plea not to be abandoned signal a shift to a more desperate emotional state.",
+    "summary_reasoning": "Intensified voice, emphatic repetition, words of desperation."
+  },
+  {
+    "timestamp": 44.104,
+    "emotion": "fearful",
+    "detailed_reasoning": "Her pleas continue with increasing desperation, repeating \"never\" multiple times. \"That you'll never leave me. That you'll never, never go away.\" Her eyes are wide and her head tilts slightly, a posture that conveys fear and fragility. The core emotion is a fear of being abandoned.",
+    "summary_reasoning": "Repetitive pleading, wide eyes, fearful words."
+  },
+  {
+    "timestamp": 51.621,
+    "emotion": "resigned",
+    "detailed_reasoning": "In her final statement, \"And I need someone to help me not give up on myself,\" her voice is soft and her expression is one of sad acceptance. She acknowledges her own struggle to maintain hope. The slight, sad smile at the very end suggests a sense of resignation to her own vulnerability.",
+    "summary_reasoning": "Soft voice, sad words, resigned smile."
+  }
+]

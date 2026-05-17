@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp": 1.814,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her story with a calm and measured tone. Her facial expression is neutral and focused, and her hand gestures are deliberate and illustrative, mimicking an inflating bubble. This combination suggests a composed, narrative state of mind as she sets the scene for her story.",
+    "summary_reasoning": "Calm tone, neutral expression, illustrative gestures."
+  },
+  {
+    "timestamp": 8.805,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's demeanor shifts as she says, \"And in that moment.\" Her vocal tone becomes slightly lower and more deliberate, and she pauses, creating a sense of anticipation. Her facial expression becomes more somber, signaling a transition from a simple narrative to a more profound and serious point in her story.",
+    "summary_reasoning": "Lower tone, deliberate pause, somber expression."
+  },
+  {
+    "timestamp": 12.17,
+    "emotion": "empathetic",
+    "detailed_reasoning": "As she describes seeing the mother with her baby, her voice softens considerably, becoming gentle and compassionate. Her hands come together in a cradling motion, visually mirroring the act of holding a baby. Her facial expression is soft and full of empathy, reflecting the vulnerability of the scene she is describing.",
+    "summary_reasoning": "Soft voice, cradling gesture, compassionate expression."
+  },
+  {
+    "timestamp": 19.942,
+    "emotion": "understanding",
+    "detailed_reasoning": "Continuing the interaction, her tone remains very soft and reassuring. She speaks about protecting the son with a look of deep understanding on her face, making direct eye contact with the audience as if she were speaking to the woman herself. This conveys a sense of validating the other person's feelings and establishing a connection.",
+    "summary_reasoning": "Soft tone, direct eye contact, reassuring expression."
+  },
+  {
+    "timestamp": 26.684,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker's tone becomes more narrative and slightly detached as she says, \"and I learned about her.\" She is summarizing a part of the story, and her expression is thoughtful and reflective, indicating a moment of processing the information she received during the conversation she describes.",
+    "summary_reasoning": "Narrative tone, thoughtful expression."
+  },
+  {
+    "timestamp": 29.349,
+    "emotion": "intense",
+    "detailed_reasoning": "When describing the woman's difficult emotions, the speaker's voice gains intensity and gravity. She emphasizes the words \"afraid and angry,\" and her facial expression becomes more serious and furrowed, conveying the weight of those feelings. This shift shows her deep engagement with the woman's struggle.",
+    "summary_reasoning": "Intense voice, serious expression, emphasized words."
+  },
+  {
+    "timestamp": 31.514,
+    "emotion": "admiring",
+    "detailed_reasoning": "After describing the woman's fear, the speaker's tone shifts to one of admiration as she says, \"fought through that fear.\" Her expression softens and she nods slightly, conveying respect and admiration for the woman's strength and resilience in creating a family despite her struggles.",
+    "summary_reasoning": "Admiring tone, softened expression, respectful nod."
+  },
+  {
+    "timestamp": 36.364,
+    "emotion": "loving",
+    "detailed_reasoning": "This marks a pivotal emotional shift. As she says \"welcomed this woman unconditionally,\" her voice becomes exceptionally warm and her arms open wide in a powerful, embracing gesture. A soft, genuine smile appears on her face, collectively expressing a profound sense of love and unconditional acceptance.",
+    "summary_reasoning": "Warm voice, wide-open arms, genuine smile."
+  },
+  {
+    "timestamp": 40.974,
+    "emotion": "joyful",
+    "detailed_reasoning": "The speaker's face lights up with a bright, genuine smile as she says, \"I also loved her instantly.\" Her voice is filled with warmth and affection, conveying a sense of sudden, profound joy. The immediacy and certainty in her tone and expression mark this as a moment of pure, heartfelt happiness.",
+    "summary_reasoning": "Bright smile, warm voice, affectionate tone."
+  },
+  {
+    "timestamp": 45.744,
+    "emotion": "assertive",
+    "detailed_reasoning": "The speaker's emotion shifts from a personal reflection to a broader, more assertive statement. Her tone becomes more forceful and declarative as she challenges the idea that \"love is hard.\" Her facial expression is serious and determined, indicating she is making a strong, central point to her audience.",
+    "summary_reasoning": "Forceful tone, serious expression, declarative statement."
+  },
+  {
+    "timestamp": 48.109,
+    "emotion": "inspirational",
+    "detailed_reasoning": "In her concluding statement, the speaker's demeanor becomes calm and wise. Her voice is soft yet profound, and a gentle, knowing smile returns to her face. She looks out at the audience with an open expression, delivering her final, inspirational message about the nature of love in a way that is meant to be both comforting and enlightening.",
+    "summary_reasoning": "Calm voice, wise smile, profound tone."
+  }
+]

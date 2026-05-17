@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 4.758,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker begins by reminiscing about her childhood. Her tone is soft and even, and her facial expression is pensive. She holds her hand to her chest, which often indicates introspection or a heartfelt statement. The combination of her words, gentle tone, and thoughtful expression suggests a state of reflection on past beliefs.",
+    "summary_reasoning": "Reminiscing words, soft tone, pensive expression."
+  },
+  {
+    "timestamp": 12.81,
+    "emotion": "sad",
+    "detailed_reasoning": "The topic shifts to a painful memory of feeling \"invisible.\" Her facial expression changes, with her eyebrows slightly furrowing and a look of sadness in her eyes. Her vocal tone becomes more subdued and melancholic, reflecting the painful nature of the memory she is recounting.",
+    "summary_reasoning": "Painful words, sad expression, subdued tone."
+  },
+  {
+    "timestamp": 20.983,
+    "emotion": "hopeful",
+    "detailed_reasoning": "As she starts quoting her mother, her entire demeanor shifts. Her facial expression softens, a small, gentle smile appears, and her eyes brighten. Her tone of voice becomes lighter and more optimistic, conveying the reassurance and hope her mother's words gave her.",
+    "summary_reasoning": "Reassuring words, gentle smile, lighter tone."
+  },
+  {
+    "timestamp": 26.771,
+    "emotion": "determined",
+    "detailed_reasoning": "The speaker's focus intensifies as she recalls her own internal mantra. Her eyes become very focused and she looks straight ahead with conviction. She repeats the phrase \"My time will come\" with a firm, steady voice, indicating that this wasn't just a passive hope but a determined belief she held onto.",
+    "summary_reasoning": "Intense focus, firm voice, words of conviction."
+  },
+  {
+    "timestamp": 33.056,
+    "emotion": "distressed",
+    "detailed_reasoning": "There is a sharp, negative shift in emotion. Her face contorts into an expression of pain and rejection, and her voice becomes strained with anguish. The words \"I didn't want it\" are delivered with a sense of deep distress, showing her initial negative reaction to the unexpected responsibility.",
+    "summary_reasoning": "Pained expression, strained voice, words of rejection."
+  },
+  {
+    "timestamp": 40.327,
+    "emotion": "accepting",
+    "detailed_reasoning": "After expressing her initial rejection, her demeanor softens. The harshness leaves her expression and her voice becomes more gentle and contemplative as she says, \"And then I did want it.\" This marks a pivotal turn from rejection towards acceptance.",
+    "summary_reasoning": "Softened expression, contemplative tone, words of acceptance."
+  },
+  {
+    "timestamp": 43.052,
+    "emotion": "passionate",
+    "detailed_reasoning": "Her emotion escalates from acceptance to a powerful desire. Her eyes widen with intensity, she leans forward slightly, and her voice rises in volume and emotional weight. She emphasizes the word \"really,\" and her hands clench, conveying a deep, passionate commitment to her newfound purpose.",
+    "summary_reasoning": "Intense expression, strong emotional voice, clenching hands."
+  },
+  {
+    "timestamp": 52.006,
+    "emotion": "amazed",
+    "detailed_reasoning": "Following the peak of her passion, she pulls back into a state of reflection again, but this time it's tinged with wonder. Her expression softens, a small, incredulous smile appears, and her tone becomes light with a sense of gentle irony as she realizes her mother was right. It's a moment of amazed recognition.",
+    "summary_reasoning": "Soft expression, incredulous smile, wondering tone."
+  },
+  {
+    "timestamp": 57.915,
+    "emotion": "vulnerable",
+    "detailed_reasoning": "She concludes by looking directly at the camera and asking, \"Isn't that stupid?\" Her smile is self-deprecating and her tone is sheepish. By downplaying her profound emotional journey, she is making herself vulnerable to the audience, sharing an intimate part of her story and then immediately seeking validation or connection through a shared sense of awkwardness.",
+    "summary_reasoning": "Self-deprecating words, sheepish smile, direct address."
+  }
+]

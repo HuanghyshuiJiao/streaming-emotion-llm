@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 2.173,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins his performance with a very deliberate and measured tone. His facial expression is neutral to slightly stern, and his hands are clasped in front of him. The content of his speech is philosophical and heavy, setting a serious mood from the outset.",
+    "summary_reasoning": "Measured tone, serious expression, heavy topic."
+  },
+  {
+    "timestamp": 10.283,
+    "emotion": "critical",
+    "detailed_reasoning": "The speaker's tone becomes more pointed and critical as he delivers the line about being born in America and custom-fitting a prison. His brow is slightly furrowed, and his gaze is intense, conveying a sense of judgment or critique of the situation he's describing.",
+    "summary_reasoning": "Pointed tone, intense gaze, critical words."
+  },
+  {
+    "timestamp": 17.551,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker's tone shifts to a more narrative and somber quality as he begins to talk about his personal experience growing up in East Atlanta. His pace slows slightly, and the mood becomes more personal and grave, reflecting on the harsh realities of his youth.",
+    "summary_reasoning": "Narrative tone, slower pace, grave topic."
+  },
+  {
+    "timestamp": 21.736,
+    "emotion": "mournful",
+    "detailed_reasoning": "A distinct shift to a mournful emotion occurs here. The speaker begins to physically count on his fingers while listing the number of friends he has lost. His voice becomes softer and laden with sadness, and his eyes look down briefly, indicating a deep sense of loss and grief as he prepares to name them.",
+    "summary_reasoning": "Counting lost friends, soft sad voice, downward gaze."
+  },
+  {
+    "timestamp": 36.556,
+    "emotion": "reflective",
+    "detailed_reasoning": "After listing the names of his lost friends, the speaker's tone becomes more reflective. He pauses and then begins to describe his neighborhood with a quieter, more observational voice. He is setting a scene from his past, and the emotion is one of looking back and contemplating that time and place.",
+    "summary_reasoning": "Quieter tone, describing the past, observational."
+  },
+  {
+    "timestamp": 43.739,
+    "emotion": "tense",
+    "detailed_reasoning": "The emotion shifts to tense as he recounts a specific, traumatic event of being robbed. His delivery becomes faster and more animated. He uses hand gestures to emphasize the action, and his voice carries a sense of urgency and danger associated with the memory.",
+    "summary_reasoning": "Faster delivery, animated gestures, urgent tone."
+  },
+  {
+    "timestamp": 51.504,
+    "emotion": "grim",
+    "detailed_reasoning": "The speaker's tone turns grim as he reveals the consequence of the robbery. He delivers the line \"they all started cripping\" with a heavy finality. His expression is serious and resigned, reflecting the bleak outcome of the situation for his friends.",
+    "summary_reasoning": "Heavy tone, serious expression, bleak words."
+  },
+  {
+    "timestamp": 55.156,
+    "emotion": "pensive",
+    "detailed_reasoning": "In the final lines, the speaker's tone becomes pensive as he hypothesizes about his friends' motivations. His voice is softer and more speculative, and his pace slows down. He is contemplating the reasons behind their actions, shifting from recounting events to a more internal, thoughtful state.",
+    "summary_reasoning": "Softer speculative tone, slower pace, thoughtful words."
+  }
+]

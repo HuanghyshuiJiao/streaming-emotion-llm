@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 7.264,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker begins by discussing self-improvement, which he calls a 'blessing.' However, his tone is very low, his speech is slow and deliberate, and his facial expression is weary with half-closed eyes. This contrast between the positive word and the negative delivery creates a somber and melancholic mood.",
+    "summary_reasoning": "Low tone, slow speech, weary expression."
+  },
+  {
+    "timestamp": 11.192,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker's emotion shifts from a general somberness to a more distinct sadness. He labels his knowledge as a 'curse' and expresses the pain of wanting to create change but feeling unable to. His eyes are mostly closed and his voice is heavy with emotion, indicating a deep sense of sadness and helplessness.",
+    "summary_reasoning": "Voice heavy, eyes closed, describes 'curse'."
+  },
+  {
+    "timestamp": 26.277,
+    "emotion": "resigned",
+    "detailed_reasoning": "He attempts to reassure the audience by saying 'I'm okay. I'm going to be okay.' However, his tone remains flat and sad, and his facial expression does not change. This indicates a sense of resignation, as if he is just going through the motions of reassurance without genuinely feeling it.",
+    "summary_reasoning": "Flat tone, reassuring words, sad expression."
+  },
+  {
+    "timestamp": 30.085,
+    "emotion": "depressed",
+    "detailed_reasoning": "The speaker explicitly states, 'I'm depressed.' This verbal confirmation aligns perfectly with the visual and auditory cues he has been displaying throughout the video: a consistently low and monotone voice, slow speech, and a sad, tired facial expression. The direct statement solidifies the emotion.",
+    "summary_reasoning": "Explicitly states 'I'm depressed', low tone, sad expression."
+  },
+  {
+    "timestamp": 42.576,
+    "emotion": "ashamed",
+    "detailed_reasoning": "When admitting 'I ate too much,' the speaker's tone shifts slightly to one of self-reproach. He stumbles over his words and seems to have difficulty making the confession, suggesting feelings of shame or guilt associated with his eating habits as a coping mechanism for his depression.",
+    "summary_reasoning": "Hesitant speech, confessional tone, admits overeating."
+  },
+  {
+    "timestamp": 52.042,
+    "emotion": "resigned",
+    "detailed_reasoning": "After confessing to overeating, he once again says, 'but I'm okay.' The delivery is still low-energy and lacks conviction. This repetition of reassurance, combined with the context of his ongoing struggles, points to a state of resignation and an attempt to accept his current situation without genuine positivity.",
+    "summary_reasoning": "Low-energy tone, repeated reassurance, lack of conviction."
+  },
+  {
+    "timestamp": 58.78,
+    "emotion": "exhausted",
+    "detailed_reasoning": "In his final statement, 'I just don't have much more to give right now,' the speaker's voice is flat and almost trails off. His energy seems completely depleted. This, combined with his consistently weary appearance, strongly conveys a sense of profound emotional and mental exhaustion.",
+    "summary_reasoning": "Flat voice, low energy, statement of depletion."
+  }
+]

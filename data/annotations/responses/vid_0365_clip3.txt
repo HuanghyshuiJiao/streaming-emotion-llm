@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 3.579,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker starts by defining a word, repeating it for emphasis. His tone is measured and deliberate, his gaze is focused, and his hand gestures are controlled and illustrative. This combination suggests he is in a state of deep thought, carefully explaining a concept to the audience.",
+    "summary_reasoning": "Measured tone, focused gaze, deliberate gestures."
+  },
+  {
+    "timestamp": 10.654,
+    "emotion": "earnest",
+    "detailed_reasoning": "After defining the word, the speaker shifts to a more personal tone, beginning with \"I am learning.\" His voice becomes softer and more sincere, and he places his hand on his chest, a gesture often associated with sincerity and personal feeling. This indicates a shift from a conceptual explanation to an earnest personal reflection.",
+    "summary_reasoning": "Sincere tone, hand-on-chest gesture."
+  },
+  {
+    "timestamp": 20.931,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker continues with a series of parallel statements about what he is learning about himself and masculinity. His tone remains earnest but becomes more reflective, with slight pauses and a contemplative facial expression. The content is about unlearning negative definitions, which prompts a reflective emotional state.",
+    "summary_reasoning": "Contemplative expression, soft tone, reflective pauses."
+  },
+  {
+    "timestamp": 27.377,
+    "emotion": "passionate",
+    "detailed_reasoning": "When he says violence \"shouldn't be anyone's first language,\" there's a noticeable increase in vocal intensity and a more determined facial expression. He uses his hands to emphasize the point more forcefully. This indicates a shift from reflection to a more passionate declaration of his belief.",
+    "summary_reasoning": "Increased vocal intensity, determined expression, forceful gestures."
+  },
+  {
+    "timestamp": 33.723,
+    "emotion": "profound",
+    "detailed_reasoning": "The speaker delivers the metaphor of the garden and the graveyard with a slower pace and a more profound tone. His eyes are wide, and he spreads his arms open, as if presenting a significant revelation. The weight of the metaphor suggests a deep, profound realization.",
+    "summary_reasoning": "Slow pace, profound tone, open body language."
+  },
+  {
+    "timestamp": 39.829,
+    "emotion": "intrigued",
+    "detailed_reasoning": "He transitions into a personal story, and his tone shifts to one of narrative storytelling. When he describes the \"strange-looking violin,\" his expression becomes one of curiosity and intrigue, as if recalling the moment of discovery. The slight head tilt and focused look convey this sense of interest.",
+    "summary_reasoning": "Narrative tone, curious expression, focused look."
+  },
+  {
+    "timestamp": 45.715,
+    "emotion": "amazed",
+    "detailed_reasoning": "The speaker reveals the violin was made from a rifle. He delivers this line with a sense of wonder and amazement, his eyes widening slightly and his voice carrying the weight of the incredible transformation he's describing. The pause after the line allows the impact of the statement to land, reinforcing his own amazement.",
+    "summary_reasoning": "Wide eyes, wondering tone, impactful pause."
+  },
+  {
+    "timestamp": 54.186,
+    "emotion": "hopeful",
+    "detailed_reasoning": "In the final line, \"someday that could be me,\" the speaker's voice is filled with a quiet but powerful hope. His facial expression is serene and forward-looking, and his tone is imbued with aspiration. It concludes the piece on a deeply personal and hopeful note, suggesting the possibility of his own transformation.",
+    "summary_reasoning": "Hopeful tone, serene expression, aspirational delivery."
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 1.994,
+    "emotion": "incredulous",
+    "detailed_reasoning": "The speaker begins by quoting or paraphrasing someone else. Her facial expression is one of disbelief, with furrowed brows and a slightly open mouth. Her tone is questioning and laced with frustration, as if she can't believe the justification she's heard.",
+    "summary_reasoning": "Disbelieving facial expression, frustrated tone."
+  },
+  {
+    "timestamp": 3.536,
+    "emotion": "accusatory",
+    "detailed_reasoning": "The emotion shifts from general disbelief to a direct accusation. The speaker's voice becomes sharper and more pointed, and she begins to use a hand gesture, pointing her finger, to single out the person she is addressing. This indicates a move from questioning to blaming.",
+    "summary_reasoning": "Sharp tone, pointing gesture."
+  },
+  {
+    "timestamp": 8.041,
+    "emotion": "disgusted",
+    "detailed_reasoning": "As she spells out the horrific actions she's referring to ('go to war and murder women and children'), her tone becomes filled with contempt and revulsion. Her facial expression matches this, showing a clear disgust for the concept she is describing.",
+    "summary_reasoning": "Contemptuous tone, disgusted facial expression."
+  },
+  {
+    "timestamp": 14.229,
+    "emotion": "outraged",
+    "detailed_reasoning": "The speaker's anger escalates significantly when she makes the comparison to Hitler. Her voice rises in volume and pitch, and her eyes widen, conveying shock and outrage. The use of such a strong historical reference, combined with her intense delivery, marks a peak in her anger.",
+    "summary_reasoning": "Louder voice, widened eyes, inflammatory words."
+  },
+  {
+    "timestamp": 18.274,
+    "emotion": "dismissive",
+    "detailed_reasoning": "Her tone becomes cutting and final as she refuses to hear an explanation. She uses a hand gesture to physically signal 'stop,' reinforcing her verbal refusal. This shows she has no interest in the other person's perspective and is completely dismissing them.",
+    "summary_reasoning": "Cutting tone, hand gesture."
+  },
+  {
+    "timestamp": 23.001,
+    "emotion": "furious",
+    "detailed_reasoning": "After being accused of being unfair, her emotion boils over into clear fury. Her voice becomes louder and more strained, and her body language becomes more agitated. The use of the expletive 'bullshit' confirms this intense level of anger and frustration.",
+    "summary_reasoning": "Loud strained voice, agitated body language."
+  },
+  {
+    "timestamp": 29.802,
+    "emotion": "indignant",
+    "detailed_reasoning": "Following her outburst, the speaker's anger settles into a more focused indignation. She clearly articulates the actions she finds morally reprehensible, and her tone is firm and condemnatory, expressing a strong sense of being wronged.",
+    "summary_reasoning": "Firm tone, condemnatory words."
+  },
+  {
+    "timestamp": 32.405,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "The speaker's tone shifts dramatically into a mocking imitation of an apology. Her voice becomes higher-pitched and she feigns distress by running her hands through her hair and looking upwards. This exaggerated performance is clearly meant to ridicule the other person's excuses.",
+    "summary_reasoning": "Mocking tone, exaggerated gestures."
+  },
+  {
+    "timestamp": 45.163,
+    "emotion": "righteous",
+    "detailed_reasoning": "Her emotion shifts from sarcasm to a firm, moral stance. Her voice becomes steady and powerful as she states her conviction that 'war is immoral.' She adopts a power pose with her hands on her hips, visually reinforcing her sense of moral authority and righteousness.",
+    "summary_reasoning": "Steady powerful voice, hands on hips."
+  },
+  {
+    "timestamp": 52.453,
+    "emotion": "exasperated",
+    "detailed_reasoning": "In her final statements, the anger is tinged with complete exasperation. Her tone suggests she is baffled and exhausted by the other person's logic. Her questions are not just angry but also convey a sense of 'how can you not see this?', indicating she is fed up with the entire argument.",
+    "summary_reasoning": "Baffled tone, exhausted expression."
+  }
+]

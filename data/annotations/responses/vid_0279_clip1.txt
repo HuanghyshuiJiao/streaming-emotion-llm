@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 2.353,
+    "emotion": "contemplative",
+    "detailed_reasoning": "The speaker begins with a slow, deliberate pace and a calm, neutral tone. His facial expression is placid, and his eyes are slightly downcast as he talks about searching for something in his life, suggesting a state of thoughtful reflection on his past.",
+    "summary_reasoning": "Slow pace, calm tone, downcast eyes."
+  },
+  {
+    "timestamp": 9.2,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker's tone becomes more melancholic as he uses the metaphor of being a wanderer lost in a desert. His facial expression shows a hint of sorrow, with slightly furrowed brows, reflecting the feeling of being lost and unfulfilled that he is describing.",
+    "summary_reasoning": "Melancholic tone, sorrowful expression, negative metaphor."
+  },
+  {
+    "timestamp": 16.207,
+    "emotion": "wistful",
+    "detailed_reasoning": "While still tinged with sadness, the speaker's emotion shifts to a more wistful state. He describes the person he's addressing as a \"lovely mirage,\" and his eyes look upwards as if reminiscing. The tone conveys a sense of longing for something beautiful that he believed was unattainable.",
+    "summary_reasoning": "Upward gaze, longing tone, unattainable desire."
+  },
+  {
+    "timestamp": 25.316,
+    "emotion": "relieved",
+    "detailed_reasoning": "A distinct shift occurs with the word \"But.\" The speaker's tone lifts, and a small, subtle smile appears. By stating \"you are real,\" he contrasts the previous feeling of fantasy with a newfound reality, bringing a sense of relief and dawning happiness to his expression and voice.",
+    "summary_reasoning": "Tone lifts, subtle smile, contrasting words."
+  },
+  {
+    "timestamp": 30.716,
+    "emotion": "joyful",
+    "detailed_reasoning": "The speaker's emotion transitions into clear joy. He describes his future as a \"never-ending dream,\" and his smile becomes more pronounced and genuine. His vocal tone is warmer and more expressive, filled with positive feeling.",
+    "summary_reasoning": "Warm tone, genuine smile, positive words."
+  },
+  {
+    "timestamp": 37.23,
+    "emotion": "loving",
+    "detailed_reasoning": "The emotion deepens into a clear expression of love. The speaker says, \"I knew you would make my life complete,\" with a heartfelt and sincere tone. His smile is soft, his gaze is direct, and his overall demeanor conveys deep affection and adoration.",
+    "summary_reasoning": "Sincere tone, soft smile, direct gaze."
+  },
+  {
+    "timestamp": 44.867,
+    "emotion": "fulfilled",
+    "detailed_reasoning": "Using the metaphor of a puzzle piece that completes a portrait, the speaker's expression and tone convey a profound sense of completeness and contentment. His smile is gentle and his voice is soft, reflecting the inner peace and wholeness he is describing.",
+    "summary_reasoning": "Contented expression, soft voice, puzzle metaphor."
+  },
+  {
+    "timestamp": 52.704,
+    "emotion": "adoring",
+    "detailed_reasoning": "This marks the emotional peak of the speech. When he states, \"The meaning of life is you,\" his voice is filled with profound sincerity and his facial expression is one of pure adoration. The intensity and earnestness in his delivery clearly communicate deep reverence and love.",
+    "summary_reasoning": "Profound tone, sincere expression, ultimate declaration."
+  },
+  {
+    "timestamp": 56.412,
+    "emotion": "grateful",
+    "detailed_reasoning": "In the final lines, the speaker describes the person as a \"reward\" and a \"gift.\" His tone is imbued with a deep sense of gratitude. His facial expression is soft and appreciative, reflecting his thankfulness for being freed from his past.",
+    "summary_reasoning": "Grateful tone, appreciative expression, positive words."
+  }
+]

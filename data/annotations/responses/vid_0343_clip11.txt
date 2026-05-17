@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 1.434,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his talk with a calm and measured tone. His facial expression is neutral and his posture is relaxed, indicating a composed start to his presentation.",
+    "summary_reasoning": "Calm tone, neutral expression, relaxed posture."
+  },
+  {
+    "timestamp": 6.427,
+    "emotion": "amused",
+    "detailed_reasoning": "When describing the octogenarian couples who \"bicker,\" the speaker's tone becomes lighter, and he has a slight, knowing smile. His head gestures become more animated, suggesting a sense of amusement at this relatable human behavior.",
+    "summary_reasoning": "Lighter tone, slight smile, animated gestures."
+  },
+  {
+    "timestamp": 11.158,
+    "emotion": "sincere",
+    "detailed_reasoning": "The speaker's tone shifts to become more earnest and he emphasizes the word \"really.\" His facial expression is serious and he makes direct eye contact, conveying a sense of sincerity and conviction about the importance of being able to count on each other.",
+    "summary_reasoning": "Earnest tone, word emphasis, serious expression."
+  },
+  {
+    "timestamp": 21.052,
+    "emotion": "authoritative",
+    "detailed_reasoning": "The speaker is stating the main message of his talk. His tone is clear and declarative. His posture is upright and he uses a definitive hand gesture, which conveys a sense of authority and confidence in the wisdom he is sharing.",
+    "summary_reasoning": "Clear tone, declarative speech, confident posture."
+  },
+  {
+    "timestamp": 30.827,
+    "emotion": "inquisitive",
+    "detailed_reasoning": "The speaker poses a rhetorical question to the audience, \"Why is this so hard to get?\". His tone becomes questioning, his eyebrows raise slightly, and he tilts his head, creating a sense of inquiry and inviting the audience to ponder the question with him.",
+    "summary_reasoning": "Questioning tone, raised eyebrows, head tilt."
+  },
+  {
+    "timestamp": 36.175,
+    "emotion": "reflective",
+    "detailed_reasoning": "In answering his own question with \"Well, we're human,\" the speaker's pace slows down and his tone becomes more reflective. He offers a small, gentle smile, suggesting a shared understanding and a moment of thoughtful consideration.",
+    "summary_reasoning": "Slower pace, gentle smile, reflective tone."
+  },
+  {
+    "timestamp": 46.77,
+    "emotion": "pragmatic",
+    "detailed_reasoning": "When describing relationships as \"messy\" and \"complicated,\" the speaker's tone becomes very direct and realistic. His expression is serious, and he uses matter-of-fact hand gestures, reflecting a pragmatic and straightforward view of the challenges involved.",
+    "summary_reasoning": "Direct tone, serious expression, matter-of-fact gestures."
+  },
+  {
+    "timestamp": 55.994,
+    "emotion": "emphatic",
+    "detailed_reasoning": "To conclude his point, the speaker states that this work is \"lifelong\" and \"never ends.\" He delivers these final words with strong emphasis, a resolute tone, and a firm nod, reinforcing the gravity and continuous nature of maintaining relationships.",
+    "summary_reasoning": "Strong emphasis, resolute tone, firm nod."
+  }
+]

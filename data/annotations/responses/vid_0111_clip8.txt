@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 1.593,
+    "emotion": "inquisitive",
+    "detailed_reasoning": "The speaker begins by posing a direct, rhetorical question to the audience. Her tone is questioning, with a rising inflection on \"instead?\". Her facial expression is open and engaging, looking directly at the audience, which reinforces the inquisitive nature of her opening statement.",
+    "summary_reasoning": "Rhetorical question, rising inflection, direct eye contact."
+  },
+  {
+    "timestamp": 7.542,
+    "emotion": "authoritative",
+    "detailed_reasoning": "After a pause, the speaker answers her own question with a clear, declarative statement. Her tone shifts from inquisitive to authoritative and informative. She enunciates \"Situation modification\" clearly and confidently, with a steady gaze and a slight nod, establishing it as the key concept.",
+    "summary_reasoning": "Declarative tone, clear enunciation, steady gaze."
+  },
+  {
+    "timestamp": 15.074,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker explains the term \"situation modification.\" Her delivery is measured, calm, and educational. The pace is steady, and her facial expression is neutral and focused, aimed at ensuring the audience understands the definition she is providing. Her tone is very matter-of-fact.",
+    "summary_reasoning": "Measured pace, neutral expression, educational tone."
+  },
+  {
+    "timestamp": 25.309,
+    "emotion": "assertive",
+    "detailed_reasoning": "When giving the example of a distracting phone, the speaker's tone becomes more assertive and direct. She uses a slightly faster pace when listing the phone's negative effects and ends with a strong, simple command: \"then push it away.\" Her hand gesture of pushing away reinforces this assertive, instructive emotion.",
+    "summary_reasoning": "Direct tone, strong command, reinforcing hand gesture."
+  },
+  {
+    "timestamp": 35.555,
+    "emotion": "appreciative",
+    "detailed_reasoning": "The speaker's tone softens as she shifts to the opposite example of things to keep close. When mentioning \"art, poetry, a really good novel,\" her voice becomes warmer and more appreciative. Her facial expression softens, and there's a slight smile, conveying a positive and personal connection to these items.",
+    "summary_reasoning": "Softened tone, warm voice, slight smile."
+  },
+  {
+    "timestamp": 44.35,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker transitions to discussing the research behind her claims. Her tone becomes more confident and factual. She states that the research is \"remarkable\" with emphasis and a firm, assured voice. Her posture is upright and her expression is serious, conveying confidence in the scientific backing of her advice.",
+    "summary_reasoning": "Factual tone, vocal emphasis, serious expression."
+  },
+  {
+    "timestamp": 57.612,
+    "emotion": "serious",
+    "detailed_reasoning": "To conclude, the speaker reveals the finding of the 'brain drain study.' Her pace slows down for emphasis, and her tone becomes more serious and impactful. She looks directly at the audience while delivering the final line, \"lowers your score,\" with a grave expression to underscore the significance of the research finding.",
+    "summary_reasoning": "Slow pace, impactful tone, grave expression."
+  }
+]

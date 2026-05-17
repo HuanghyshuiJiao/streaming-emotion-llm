@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 2.574,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his presentation with a calm and measured tone. His posture is relaxed, and he uses deliberate hand gestures to emphasize his points, establishing a neutral, storytelling baseline.",
+    "summary_reasoning": "Calm tone, relaxed posture, deliberate gestures."
+  },
+  {
+    "timestamp": 17.13,
+    "emotion": "nostalgic",
+    "detailed_reasoning": "The speaker's tone softens as he begins a personal anecdote about his youth. He mentions being influenced by Kanye West, and his facial expression becomes slightly more animated and his eyes look slightly up and away, suggesting he is recalling a specific memory.",
+    "summary_reasoning": "Soft tone, personal story, recalling memory."
+  },
+  {
+    "timestamp": 23.657,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker explicitly states that the memory is a 'little cringe'. He delivers this line with a slight smile and a self-deprecating chuckle in his voice, indicating amusement and a lack of genuine embarrassment. He finds the memory funny in retrospect.",
+    "summary_reasoning": "Smiling, self-deprecating tone, explicit words."
+  },
+  {
+    "timestamp": 31.364,
+    "emotion": "intrigued",
+    "detailed_reasoning": "The narrative shifts as he describes his dad pulling him aside after the ceremony. His tone becomes more focused and slightly lower, and his body language shifts to re-enact the moment, creating a sense of suspense and intrigue for the audience.",
+    "summary_reasoning": "Focused tone, narrative shift, creating suspense."
+  },
+  {
+    "timestamp": 39.8,
+    "emotion": "excited",
+    "detailed_reasoning": "Recalling his youthful mindset, the speaker's voice becomes more animated and his pace quickens. He describes his hopeful expectations of a surprise gift, like new sneakers or a video game, conveying a sense of boyish excitement and anticipation through his energetic tone and gestures.",
+    "summary_reasoning": "Animated voice, faster pace, hopeful words."
+  },
+  {
+    "timestamp": 51.142,
+    "emotion": "mysterious",
+    "detailed_reasoning": "The speaker's tone shifts dramatically. He slows down his speech and lowers his voice, pausing significantly before saying 'but it wasn't the surprise I was expecting.' This creates a sense of mystery and suspense, signaling a turning point in the story.",
+    "summary_reasoning": "Slow pace, lower tone, dramatic pause."
+  }
+]

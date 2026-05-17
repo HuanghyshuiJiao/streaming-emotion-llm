@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker starts his presentation with a neutral facial expression and a steady, clear tone of voice. He is standing still in the center of the stage, appearing composed as he introduces himself.",
+    "summary_reasoning": "Neutral expression, steady voice, composed posture."
+  },
+  {
+    "timestamp": 9.406,
+    "emotion": "amused",
+    "detailed_reasoning": "After delivering a short, quirky introductory poem about his own name, the speaker gives a slight, knowing smile. The audience's laughter reinforces the lighthearted and self-amused tone of his opening.",
+    "summary_reasoning": "Slight smile, audience laughter, quirky content."
+  },
+  {
+    "timestamp": 16.097,
+    "emotion": "playful",
+    "detailed_reasoning": "The speaker's tone becomes more animated and his eyebrows raise slightly as he introduces a seemingly absurd concept: 'a love poem about prime numbers.' This combination of a serious format (love poem) with a nerdy topic (prime numbers) suggests a playful and humorous intent.",
+    "summary_reasoning": "Animated tone, raised eyebrows, humorous topic."
+  },
+  {
+    "timestamp": 25.472,
+    "emotion": "humorous",
+    "detailed_reasoning": "The speaker delivers the cheesy potential title 'Primetime Loving' with a straight face, a classic comedic setup. He pauses, anticipating the audience's reaction to the pun, clearly intending to be humorous.",
+    "summary_reasoning": "Deadpan delivery, comedic timing, pun."
+  },
+  {
+    "timestamp": 28.6,
+    "emotion": "witty",
+    "detailed_reasoning": "Reacting to the audience's collective groan and laughter at his pun, the speaker smiles and immediately responds, 'That reaction is why I didn't.' His quick, self-deprecating comment showcases a witty and interactive style of humor.",
+    "summary_reasoning": "Responsive smile, quick self-deprecating comment."
+  },
+  {
+    "timestamp": 32.625,
+    "emotion": "focused",
+    "detailed_reasoning": "The speaker's demeanor shifts significantly. His smile fades, his expression becomes more neutral and serious, and his vocal tone changes from conversational to a more measured, narrative pace. This indicates he is now entering the performance of the poem and is focused on setting the scene.",
+    "summary_reasoning": "Serious expression, measured pace, shift to narrative tone."
+  },
+  {
+    "timestamp": 47.522,
+    "emotion": "descriptive",
+    "detailed_reasoning": "As he narrates the character '59's' morning routine, his tone becomes more evocative and his language more descriptive ('subtly impressed,' 'casually messing'). He is no longer just reciting but actively painting a picture and developing a character, showing a focus on the craft of storytelling.",
+    "summary_reasoning": "Evocative tone, descriptive language, character development."
+  },
+  {
+    "timestamp": 53.469,
+    "emotion": "tender",
+    "detailed_reasoning": "The speaker's voice softens and slows as he introduces the second character, '60'. The use of the word 'blessed' and the gentle shift in vocal delivery introduce a tender, almost romantic mood into the narrative.",
+    "summary_reasoning": "Soft tone, slower pace, romantic language."
+  },
+  {
+    "timestamp": 59.005,
+    "emotion": "admiring",
+    "detailed_reasoning": "He delivers the final line, 'was beautiful,' with a distinct tone of admiration and awe. His voice is soft yet emphatic, placing heavy emotional weight on the word 'beautiful' to convey the significance of the character '60'.",
+    "summary_reasoning": "Soft emphatic tone, awe-filled delivery."
+  }
+]

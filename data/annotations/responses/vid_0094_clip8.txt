@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 4.44,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins with a serious and slightly pleading facial expression, characterized by furrowed brows and a concerned look. Her vocal tone is earnest and direct as she emphasizes the importance of taking feelings seriously, which supports the interpretation of a serious emotional state.",
+    "summary_reasoning": "Serious facial expression, earnest tone."
+  },
+  {
+    "timestamp": 12.717,
+    "emotion": "contemplative",
+    "detailed_reasoning": "The speaker shifts her gaze and uses a more personal, narrative tone as she recalls her past struggles with acting. This change from giving advice to sharing a personal anecdote, combined with the reflective look on her face, indicates a shift to a more contemplative emotional state.",
+    "summary_reasoning": "Gaze shift, personal anecdote, narrative tone."
+  },
+  {
+    "timestamp": 16.304,
+    "emotion": "puzzled",
+    "detailed_reasoning": "Recounting her past difficulty with crying for a role, her eyes widen in a look of remembered bewilderment. She poses a rhetorical question to the audience with an incredulous tone, reflecting her past confusion and making the emotion more active than simple contemplation.",
+    "summary_reasoning": "Wide eyes, rhetorical question, incredulous tone."
+  },
+  {
+    "timestamp": 25.76,
+    "emotion": "enlightened",
+    "detailed_reasoning": "The speaker's facial expression softens, and a slight smile appears as she describes her emotional breakthrough in acting. Her vocal tone becomes lighter and more insightful, conveying a sense of realization and clarity, as if sharing an important discovery.",
+    "summary_reasoning": "Softened expression, slight smile, insightful tone."
+  },
+  {
+    "timestamp": 30.409,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker's tone becomes more firm and her expression more focused and determined. She emphasizes her point with conviction, leaning slightly forward and using subtle head nods, indicating a passionate belief in the advice she is giving.",
+    "summary_reasoning": "Firm tone, focused expression, conviction."
+  },
+  {
+    "timestamp": 47.838,
+    "emotion": "empathetic",
+    "detailed_reasoning": "Her expression softens and her speech slows down as she talks about the real people whose feelings are being portrayed. Her tone becomes more gentle and her eyes convey a sense of connection, indicating a shift towards an empathetic emotional state as she connects the acting to real-world feelings.",
+    "summary_reasoning": "Softened expression, slower speech, gentle tone."
+  },
+  {
+    "timestamp": 55.354,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker concludes with a personal affirmation, accompanied by a small, confident smile and a decisive nod. Her direct gaze and the assured tone of her final words project a strong sense of self-assurance and personal conviction.",
+    "summary_reasoning": "Confident smile, decisive nod, assured tone."
+  }
+]

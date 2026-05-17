@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 2.235,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker begins with a humorous anecdote about brothers at a wedding. His tone is light and slightly theatrical, and he has a subtle smile on his face. The content of the speech, describing brothers 'lurking in the corner muttering with envy,' is clearly intended to be comedic, setting an amused and lighthearted tone for the start of his speech.",
+    "summary_reasoning": "Lighthearted tone, smiling, humorous content."
+  },
+  {
+    "timestamp": 12.231,
+    "emotion": "amused",
+    "detailed_reasoning": "Continuing his joke about what weddings would be like if left to men, the speaker's delivery becomes more deadpan, which enhances the humor of the absurd scenarios he's describing ('spontaneous, almost inadvertent'). He maintains a wry smile, indicating he is still in a state of amusement and enjoying the joke he is telling.",
+    "summary_reasoning": "Deadpan delivery, wry smile, comedic content."
+  },
+  {
+    "timestamp": 21.647,
+    "emotion": "serious",
+    "detailed_reasoning": "There is a distinct shift in the speaker's demeanor. His smile completely disappears, his tone becomes more somber and direct, and he leans slightly forward. He introduces a 'frequency of failure' and prepares to deliver a stark statistic, signaling a sharp transition from humor to a serious and sobering topic.",
+    "summary_reasoning": "Smile disappears, somber tone, shift in topic."
+  },
+  {
+    "timestamp": 34.065,
+    "emotion": "amused",
+    "detailed_reasoning": "After delivering the serious statistic about divorce and comparing it to a losing baseball team, the speaker delivers the punchline: 'The Baltimore Orioles do better than weddings.' His tone lightens, a smirk appears on his face, and the audience laughs. This sudden injection of dark humor shifts the emotion from serious back to amused.",
+    "summary_reasoning": "Smirk, lighter tone, audience laughter, punchline delivery."
+  },
+  {
+    "timestamp": 38.774,
+    "emotion": "reassuring",
+    "detailed_reasoning": "The speaker contrasts the failure rate of marriage with the certainty of the current event. He says 'a commencement works every time.' His tone becomes warmer and more sincere, and his facial expression is soft and encouraging. He is shifting from humor to a more positive and reassuring message for the graduates.",
+    "summary_reasoning": "Sincere tone, soft facial expression, positive words."
+  },
+  {
+    "timestamp": 47.511,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker begins by quoting sincere-sounding vows ('in sickness and in health') but then pivots to increasingly absurd and specific challenges, culminating in 'passably attractive sales reps at trade shows in Cincinnati.' His delivery becomes playful, his smile returns, and the audience's laughter builds. The unexpected and comical specificity of the final line confirms the shift back to a humorous and amused state.",
+    "summary_reasoning": "Playful tone, smiling, humorous and specific content, audience laughter."
+  }
+]

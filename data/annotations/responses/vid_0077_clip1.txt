@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 0.852,
+    "emotion": "confused",
+    "detailed_reasoning": "The user begins the video by repeating the other person's statement as a question, \"You want to break up?\". Her facial expression, particularly her furrowed brow and slightly wide eyes, combined with the questioning tone of her voice, indicates a state of confusion and disbelief upon hearing the news.",
+    "summary_reasoning": "Questioning tone, furrowed brow."
+  },
+  {
+    "timestamp": 6.297,
+    "emotion": "calm",
+    "detailed_reasoning": "After a long pause where she processes the information, her facial expression becomes neutral and resigned. She replies with a simple \"Sure.\" in a flat, steady tone, indicating she is suppressing any strong emotional reaction and is outwardly projecting calmness and acceptance.",
+    "summary_reasoning": "Neutral expression, flat tone, resigned acceptance."
+  },
+  {
+    "timestamp": 14.685,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker's emotion shifts from passive acceptance to a more assertive stance. By stating, \"I wanted to break up too,\" she attempts to regain control of the situation. Her tone is matter-of-fact and steady, suggesting a feigned confidence as a defense mechanism.",
+    "summary_reasoning": "Assertive words, matter-of-fact tone."
+  },
+  {
+    "timestamp": 27.458,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "The speaker's tone takes on a sarcastic edge when she says, \"you beat me to it.\" A slight, wry smile appears on her face, and her vocal intonation suggests she is not being sincere but is rather using sarcasm to mask her true feelings and maintain a sense of control.",
+    "summary_reasoning": "Sarcastic tone, wry smile."
+  },
+  {
+    "timestamp": 34.378,
+    "emotion": "scornful",
+    "detailed_reasoning": "Her emotion shifts dramatically upon hearing the suggestion to \"be friends.\" Her eyes widen in disbelief, her eyebrows raise, and her tone becomes incredulous and mocking. This combination of facial and vocal cues conveys strong scorn and contempt for the idea.",
+    "summary_reasoning": "Incredulous tone, wide eyes, mocking expression."
+  },
+  {
+    "timestamp": 57.073,
+    "emotion": "sad",
+    "detailed_reasoning": "Despite continuing to use sarcastic words like \"buddy,\" the speaker's facade crumbles. A tear becomes visible on her cheek, and her voice begins to crack with emotion. This clear contradiction between her words and her physical emotional expression reveals her underlying sadness and hurt.",
+    "summary_reasoning": "Visible tear, cracking voice."
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 0.412,
+    "emotion": "happy",
+    "detailed_reasoning": "The speaker begins with a bright, welcoming tone and a wide, genuine smile. Her hands are open in a friendly gesture, conveying a positive and happy disposition as she introduces herself.",
+    "summary_reasoning": "Smiling face, bright tone, open gestures."
+  },
+  {
+    "timestamp": 6.14,
+    "emotion": "neutral",
+    "detailed_reasoning": "After her initial happy introduction, her expression becomes more neutral and her tone more formal as she states the piece she will be performing. The smile fades slightly, and her posture becomes more composed, indicating a shift to a more focused and neutral state before starting her monologue.",
+    "summary_reasoning": "Neutral expression, formal tone, composed posture."
+  },
+  {
+    "timestamp": 12.028,
+    "emotion": "anxious",
+    "detailed_reasoning": "The performance begins here. Her eyes widen and she adopts a tense posture, looking around as if anticipating something bad. Her voice takes on a dramatic, slightly shaky quality, immediately establishing a sense of anxiety and foreboding.",
+    "summary_reasoning": "Wide eyes, tense posture, shaky voice."
+  },
+  {
+    "timestamp": 17.396,
+    "emotion": "shocked",
+    "detailed_reasoning": "Her description of a '.44 Magnum smashing into my skull' is accompanied by a sharp, forceful vocal delivery. Her eyes are extremely wide, and her body jolts slightly, effectively conveying a state of intense shock and imagined physical impact.",
+    "summary_reasoning": "Forceful voice, wide eyes, body jolt."
+  },
+  {
+    "timestamp": 27.591,
+    "emotion": "dread",
+    "detailed_reasoning": "Her voice becomes lower and more ominous as she describes the 'chilling, grisly experiences known to women.' Her facial expression is one of pure dread, with wide, fearful eyes and a tense mouth, building suspense for the reveal.",
+    "summary_reasoning": "Ominous tone, fearful expression, tense mouth."
+  },
+  {
+    "timestamp": 29.134,
+    "emotion": "horrified",
+    "detailed_reasoning": "The reveal of the word 'Dating!' is delivered with a burst of horrified energy. Her voice is high-pitched and incredulous, her eyes are wide with terror, and she throws her hands out in a gesture of disbelief and horror.",
+    "summary_reasoning": "High-pitched voice, terrified expression, frantic gestures."
+  },
+  {
+    "timestamp": 35.064,
+    "emotion": "desperate",
+    "detailed_reasoning": "Her tone shifts to one of pleading desperation. She looks upward and her body seems to shrink as she begs, 'please don't make me do this.' Her hands are clasped or wringing, and her facial expression is pained, conveying a deep sense of desperation.",
+    "summary_reasoning": "Pleading tone, upward gaze, pained expression."
+  },
+  {
+    "timestamp": 40.172,
+    "emotion": "frustrated",
+    "detailed_reasoning": "Explaining why she stayed in her previous relationship, her tone becomes one of frustrated resignation. She makes a broad, exasperated gesture with her arms, and her facial expression is a mix of annoyance and justification.",
+    "summary_reasoning": "Frustrated tone, exasperated gesture, annoyed expression."
+  },
+  {
+    "timestamp": 49.347,
+    "emotion": "disgusted",
+    "detailed_reasoning": "She ends the thought about unwanted physical contact with a clear 'Ugh.' The sound is a classic vocalization of disgust, and her face scrunches up in a matching expression of revulsion.",
+    "summary_reasoning": "Vocalization of disgust, scrunched face."
+  },
+  {
+    "timestamp": 56.785,
+    "emotion": "horrified",
+    "detailed_reasoning": "The emotion returns to peak horror as she contemplates the worst part of dating. Her eyes are wide open in terror, her mouth is agape, and her voice is filled with a final, emphatic note of dread and disgust, especially on the word 'worst'.",
+    "summary_reasoning": "Wide eyes, agape mouth, horrified tone."
+  }
+]

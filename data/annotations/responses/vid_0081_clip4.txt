@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 2.314,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker begins with a serious and slightly sad expression. Her voice is low and her pace is slow. The content of her speech, preparing to say something difficult, combined with her neutral-to-sad facial expression and subdued tone, establishes a somber mood.",
+    "summary_reasoning": "Serious face, low voice, slow pace."
+  },
+  {
+    "timestamp": 8.001,
+    "emotion": "nostalgic",
+    "detailed_reasoning": "After stating something difficult, her expression softens significantly and a slight, sad smile appears as she says, \"we're like brother and sister.\" Her tone becomes gentler, suggesting a fond, albeit sad, recollection of their long history. This shifts the emotion from purely somber to nostalgic.",
+    "summary_reasoning": "Soft expression, slight smile, gentle tone."
+  },
+  {
+    "timestamp": 12.846,
+    "emotion": "conflicted",
+    "detailed_reasoning": "The nostalgic smile fades, and her expression becomes serious and pensive. Her eyes shift away from the camera as she says, \"Even though technically we dated,\" indicating internal conflict and the difficulty of the memory. The tone is hesitant and thoughtful.",
+    "summary_reasoning": "Serious face, averted gaze, hesitant tone."
+  },
+  {
+    "timestamp": 19.675,
+    "emotion": "sad",
+    "detailed_reasoning": "Her expression shifts to one of clear sadness and distress. Her eyebrows are slightly furrowed, her gaze is downcast, and her mouth is slightly open. Her voice is soft and wavers slightly as she talks about imagining life without the person, indicating a deep sense of loss and sadness.",
+    "summary_reasoning": "Furrowed brow, downcast eyes, soft voice."
+  },
+  {
+    "timestamp": 25.502,
+    "emotion": "pained",
+    "detailed_reasoning": "The sadness intensifies into clear pain. Her face contorts slightly, showing visible distress, especially around her mouth and eyebrows. The thought of \"not being with you\" and seeing him with someone else causes a visceral, pained reaction, which is reflected in her facial expression and the strained quality of her voice.",
+    "summary_reasoning": "Facial contortion, strained voice, distressed expression."
+  },
+  {
+    "timestamp": 35.627,
+    "emotion": "cheerful",
+    "detailed_reasoning": "There is an abrupt transition in the video, and the scene changes. The speaker is now smiling brightly and her entire demeanor has shifted. Her voice is upbeat, energetic, and friendly. This marks a complete break from the preceding monologue, indicating she has switched to an outro for her video, adopting a cheerful and engaging persona.",
+    "summary_reasoning": "Abrupt transition, bright smile, upbeat voice."
+  },
+  {
+    "timestamp": 45.545,
+    "emotion": "engaging",
+    "detailed_reasoning": "Continuing the outro, her tone is very friendly and she uses hand gestures to encourage audience interaction (thumbs up). She is actively trying to engage with her viewers by asking for likes and subscriptions, maintaining a positive and inviting demeanor.",
+    "summary_reasoning": "Friendly tone, hand gestures, direct address to audience."
+  },
+  {
+    "timestamp": 50.834,
+    "emotion": "affectionate",
+    "detailed_reasoning": "As she concludes the video, she waves and blows a kiss to the camera. This is a clear, conventional gesture of affection and warmth towards her audience, ending the video on a positive and friendly note.",
+    "summary_reasoning": "Waving, blowing a kiss, smiling."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 2.457,
+    "emotion": "determined",
+    "detailed_reasoning": "The speaker begins with a firm and clear tone, establishing a serious and determined mood. His facial expression is focused, and his posture is upright and confident. The content is a strong, declarative statement about national identity.",
+    "summary_reasoning": "Firm tone, focused expression."
+  },
+  {
+    "timestamp": 10.559,
+    "emotion": "impassioned",
+    "detailed_reasoning": "After listing divisions, the speaker's voice rises in pitch and volume as he repeats the unifying phrase \"the United States of America.\" This repetition, combined with the rising energy in his voice, signals a shift to a more impassioned and forceful delivery, intended to evoke a strong emotional response.",
+    "summary_reasoning": "Rising pitch, increased volume, emphatic repetition."
+  },
+  {
+    "timestamp": 19.822,
+    "emotion": "critical",
+    "detailed_reasoning": "The speaker's tone changes to one of criticism as he mentions \"the pundits.\" He uses a slightly dismissive tone and a subtle, critical facial expression, with narrowed eyes, to convey his disapproval of how political commentators divide the country.",
+    "summary_reasoning": "Dismissive tone, critical facial expression."
+  },
+  {
+    "timestamp": 27.11,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker's demeanor shifts to one of confidence and assertiveness. He says, \"But I've got news for them, too,\" with a challenging tone, a slight smirk, and direct eye contact. This combination of cues indicates he is about to confidently dismantle the argument he just introduced.",
+    "summary_reasoning": "Challenging tone, slight smirk."
+  },
+  {
+    "timestamp": 29.052,
+    "emotion": "inspiring",
+    "detailed_reasoning": "His voice becomes more resonant and uplifting as he talks about worshipping an \"awesome God.\" He is using powerful, emotional language, and his tone shifts from being merely confident to actively inspiring, aiming to connect with the audience on a shared, spiritual level.",
+    "summary_reasoning": "Uplifting tone, powerful language."
+  },
+  {
+    "timestamp": 39.664,
+    "emotion": "unifying",
+    "detailed_reasoning": "The speaker's tone softens as he brings up a relatable, everyday American image: coaching Little League. This example is delivered with a warm and inclusive voice, creating a sense of shared community and unity that transcends political divides.",
+    "summary_reasoning": "Soft, warm tone, relatable example."
+  },
+  {
+    "timestamp": 41.186,
+    "emotion": "proud",
+    "detailed_reasoning": "When mentioning \"gay friends in the red states,\" his delivery is pointed and deliberate. He says \"yes\" with emphasis and maintains a firm, proud expression, directly confronting a stereotype with a sense of conviction and pride in inclusivity.",
+    "summary_reasoning": "Emphatic word, firm expression."
+  },
+  {
+    "timestamp": 47.792,
+    "emotion": "respectful",
+    "detailed_reasoning": "By labeling both those who opposed and supported the war in Iraq as \"patriots,\" the speaker adopts a balanced and respectful tone. His voice is even and measured, deliberately showing equal respect for both sides of a contentious issue to further his theme of unity.",
+    "summary_reasoning": "Balanced, even tone, inclusive language."
+  },
+  {
+    "timestamp": 50.866,
+    "emotion": "patriotic",
+    "detailed_reasoning": "The speech reaches its emotional peak. The speaker's volume increases significantly, his pace quickens, and his voice fills with passion as he says, \"We are one people.\" This crescendo, combined with the content about pledging allegiance, evokes a strong sense of patriotism.",
+    "summary_reasoning": "Increased volume, passionate voice, unifying words."
+  }
+]

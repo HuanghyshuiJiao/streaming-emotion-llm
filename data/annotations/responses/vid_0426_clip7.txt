@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 6.32,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his talk with a calm and measured tone. He sets up a hypothetical scenario, and his facial expression is neutral and his body language is composed. He is establishing the context for his main point, and his demeanor is that of a storyteller or lecturer.",
+    "summary_reasoning": "Calm tone, neutral expression, storytelling."
+  },
+  {
+    "timestamp": 10.666,
+    "emotion": "emphatic",
+    "detailed_reasoning": "After posing a rhetorical question, the speaker's tone becomes more definitive as he says \"That's not what he does.\" He follows this by looking down to read from a text, signaling a shift to presenting evidence. This change in vocal tone and action indicates he is now making a firm point, moving from a hypothetical to a factual assertion.",
+    "summary_reasoning": "Definitive tone, shifting to read text."
+  },
+  {
+    "timestamp": 18.257,
+    "emotion": "authoritative",
+    "detailed_reasoning": "The speaker looks up from his notes and directly addresses the audience. His vocal volume increases, and his tone becomes authoritative as he quotes, \"Go back and tell John what you just saw.\" He uses a pointing gesture for emphasis, adopting the persona of the figure in the story to make the point more impactful.",
+    "summary_reasoning": "Louder voice, pointing gesture, direct address."
+  },
+  {
+    "timestamp": 24.265,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "After making his point about the story, the speaker's pace slows down and his tone becomes more analytical and explanatory. He labels the previous action as \"evidentialist\" and then transitions to a personal reflection by saying, \"The reason why I don't give my testimony...\" This shift from storytelling to self-explanation indicates a more thoughtful and introspective state.",
+    "summary_reasoning": "Slower pace, analytical tone, personal reflection."
+  },
+  {
+    "timestamp": 34.449,
+    "emotion": "persuasive",
+    "detailed_reasoning": "The speaker's energy increases as he begins to present the results of his informal surveys. He states, \"I get the same two answers,\" using a hand gesture to show the number two. His tone becomes more engaging and rhythmic as he builds his argument, aiming to persuade the audience of his conclusion based on this evidence.",
+    "summary_reasoning": "Increased energy, hand gestures, engaging tone."
+  },
+  {
+    "timestamp": 49.704,
+    "emotion": "empathetic",
+    "detailed_reasoning": "After listing the two common reasons people give for their faith, the speaker's tone softens and becomes more personal and direct towards the audience. He says, \"And your experiences are different...\" and begins listing examples of personal spiritual moments. His facial expression softens and his gestures become more open, indicating a shift from presenting data to connecting with the audience on an emotional, empathetic level.",
+    "summary_reasoning": "Softer tone, personal examples, open gestures."
+  }
+]

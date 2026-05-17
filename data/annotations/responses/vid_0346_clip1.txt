@@ -1,0 +1,74 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his performance with a clear, steady voice and a neutral facial expression. He is simply introducing himself and stating a fact about his birth date. His posture is relaxed and he seems at ease.",
+    "summary_reasoning": "Steady voice, neutral expression, relaxed posture."
+  },
+  {
+    "timestamp": 6.221,
+    "emotion": "amused",
+    "detailed_reasoning": "After stating that his birthday makes him a Leo, he says, 'I don't really know what that means.' He delivers this line with a slightly exasperated and humorous tone, a slight head shake, and a wry expression, indicating he finds the concept of zodiac signs amusingly meaningless.",
+    "summary_reasoning": "Humorous tone, wry expression, head shake."
+  },
+  {
+    "timestamp": 8.825,
+    "emotion": "neutral",
+    "detailed_reasoning": "The speaker shifts from the topic of his zodiac sign to listing his physical attributes. His tone becomes matter-of-fact and his facial expression is plain as he states his height and weight. He is simply relaying information without emotional inflection.",
+    "summary_reasoning": "Matter-of-fact tone, plain expression."
+  },
+  {
+    "timestamp": 12.01,
+    "emotion": "reflective",
+    "detailed_reasoning": "He moves from objective facts (height, weight) to more personal details, admitting he can't swim and is a 'sucker for a girl with a nice smile.' The pace of his speech slows, and his tone softens, indicating a shift into a more personal and reflective state of mind.",
+    "summary_reasoning": "Slower pace, softer tone, personal content."
+  },
+  {
+    "timestamp": 17.62,
+    "emotion": "self-deprecating",
+    "detailed_reasoning": "The speaker shares a series of personal paradoxes ('loud in places where I should be quiet'). The content is self-critical, but his tone and slightly bemused expression suggest a level of self-aware, deprecating humor about his own social awkwardness.",
+    "summary_reasoning": "Self-critical content, bemused expression."
+  },
+  {
+    "timestamp": 22.888,
+    "emotion": "resigned",
+    "detailed_reasoning": "He delivers the line 'and I've been backwards ever since' as a punchline to being born feet first. His tone is one of ironic resignation, and he makes a slight gesture with his hands, as if to say 'what can you do?' It’s a moment of accepting his perceived backwardness with a touch of humor.",
+    "summary_reasoning": "Ironic tone, resigned gesture."
+  },
+  {
+    "timestamp": 25.793,
+    "emotion": "passionate",
+    "detailed_reasoning": "After calmly stating he likes ginger ale, he adds 'A lot' with significant vocal emphasis, a smile, and a pointed finger gesture. This transforms a simple preference into a declaration of genuine, passionate enjoyment, creating a humorous and emphatic moment.",
+    "summary_reasoning": "Vocal emphasis, smile, pointed gesture."
+  },
+  {
+    "timestamp": 29.716,
+    "emotion": "vulnerable",
+    "detailed_reasoning": "The speaker's demeanor shifts as he shares a criticism he has received: 'I've been told that I give really bad hugs.' His tone becomes softer and more confessional, and his facial expression shows a hint of self-consciousness, as if revealing a personal failing that makes him feel vulnerable.",
+    "summary_reasoning": "Softer tone, confessional content, self-conscious expression."
+  },
+  {
+    "timestamp": 39.45,
+    "emotion": "anxious",
+    "detailed_reasoning": "He leans in slightly and his voice drops as he shares a secret, 'Secretly, I get really nervous...' His body language becomes more closed off as he brings his hands to his chest, and his eyes convey a sense of genuine anxiety and tension, revealing a deep-seated fear.",
+    "summary_reasoning": "Quieter voice, closed body language, anxious eyes."
+  },
+  {
+    "timestamp": 43.155,
+    "emotion": "introspective",
+    "detailed_reasoning": "The speaker's focus shifts inward as he talks about his 'odd fascination' with temporary things like sandcastles. His tone becomes more musing and his gaze is distant, suggesting he is deeply contemplating the meaning behind this personal trait.",
+    "summary_reasoning": "Musing tone, distant gaze, contemplative content."
+  },
+  {
+    "timestamp": 51.507,
+    "emotion": "sad",
+    "detailed_reasoning": "He connects his fascination with temporary things to a painful pattern in his love life. The line 'I tend to fall in love with women who will never love me back' is delivered with a heavy, somber tone. His facial expression is filled with sadness and resignation, marking the emotional low point of the piece.",
+    "summary_reasoning": "Somber tone, sad expression, painful content."
+  },
+  {
+    "timestamp": 58.15,
+    "emotion": "resigned",
+    "detailed_reasoning": "In his concluding lines, the speaker justifies his self-sabotaging behavior by claiming 'it's safer that way.' His tone is bleak and his expression is serious, conveying a deep sense of resignation. He has accepted this painful reality as a necessary form of self-protection.",
+    "summary_reasoning": "Bleak tone, serious expression, justifying words."
+  }
+]

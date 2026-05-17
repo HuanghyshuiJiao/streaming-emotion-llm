@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 3.416,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his talk with a steady and even tone of voice. His facial expression is neutral, and his posture is relaxed. He is introducing a concept in a measured way, suggesting a calm and composed state.",
+    "summary_reasoning": "Steady tone, neutral expression, relaxed posture."
+  },
+  {
+    "timestamp": 7.382,
+    "emotion": "disdainful",
+    "detailed_reasoning": "The speaker's tone becomes sharper and more critical when he describes David's parents. The word \"bastards\" is uttered with a cynical and slightly harsh tone, and his facial expression briefly shows contempt. This is a clear shift from his previously neutral, narrative tone to one of disdain, used for storytelling effect.",
+    "summary_reasoning": "Sharp tone, cynical word choice, contemptuous expression."
+  },
+  {
+    "timestamp": 12.008,
+    "emotion": "empathetic",
+    "detailed_reasoning": "After the moment of disdain, the speaker's tone softens significantly as he describes David's vulnerable situation. His voice takes on a more concerned and caring quality, and his facial expression shifts to one of sympathy. He is portraying the character's plight with empathy.",
+    "summary_reasoning": "Softer, concerned tone, sympathetic expression."
+  },
+  {
+    "timestamp": 17.717,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker lists a series of negative emotions (\"abandoned, helpless, hopeless, scared\") with a slower cadence and a lower, more somber pitch. His facial expression becomes very serious, and his gaze is directed downward for a moment, reflecting the gravity of the feelings he's describing. This creates a serious and heavy atmosphere.",
+    "summary_reasoning": "Slower cadence, somber tone, serious expression."
+  },
+  {
+    "timestamp": 29.734,
+    "emotion": "supportive",
+    "detailed_reasoning": "The speaker's tone shifts from describing a problem to offering a solution. His voice becomes gentle and reassuring, and his hand gestures become more open and inclusive. The language is instructional (\"the only thing you can do\"), but delivered in a way that feels caring and supportive.",
+    "summary_reasoning": "Gentle tone, reassuring voice, open gestures."
+  },
+  {
+    "timestamp": 36.442,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker moves from a specific emotional scenario to a broader, more abstract concept. His tone becomes more contemplative and analytical. His pace slows slightly, and his facial expression, particularly the raised eyebrows, conveys a sense of intellectual curiosity and thoughtfulness as he introduces a new idea.",
+    "summary_reasoning": "Contemplative tone, raised eyebrows, analytical content."
+  },
+  {
+    "timestamp": 48.226,
+    "emotion": "assertive",
+    "detailed_reasoning": "The speaker is now stating a core principle of his talk. His voice gains strength and becomes more declarative and assertive. He uses precise hand gestures to underscore the individuality he's describing (\"Every single one\"). This shows strong conviction in the point he is making.",
+    "summary_reasoning": "Assertive tone, declarative speech, emphatic gestures."
+  },
+  {
+    "timestamp": 58.928,
+    "emotion": "reflective",
+    "detailed_reasoning": "In the final part of the clip, the speaker's tone becomes more reflective and slightly critical of societal norms. He talks about being \"taught\" which feelings are acceptable. His delivery is slower, and there's a hint of a wry or knowing smile as he finishes, suggesting he is reflecting on a complex and universal aspect of upbringing.",
+    "summary_reasoning": "Slower delivery, wry smile, critical content."
+  }
+]

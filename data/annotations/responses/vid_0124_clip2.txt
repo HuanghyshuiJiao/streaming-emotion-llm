@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 6.539,
+    "emotion": "neutral",
+    "detailed_reasoning": "The speaker begins by setting a narrative scene. His tone is calm and even, his posture is straight, and his facial expression is neutral. He is simply telling a story to the audience, creating a baseline emotional state before the first major shift.",
+    "summary_reasoning": "Calm narrative tone, neutral expression, straight posture."
+  },
+  {
+    "timestamp": 12.927,
+    "emotion": "dramatic",
+    "detailed_reasoning": "There is a sharp shift in performance. The speaker crouches down, his eyes widen in mock shock, and he uses dramatic, theatrical body language to act out the dinosaur's surprise. The change is entirely performative and intended to be humorous through its over-the-top nature.",
+    "summary_reasoning": "Wide eyes, crouched body, theatrical acting."
+  },
+  {
+    "timestamp": 15.531,
+    "emotion": "happy",
+    "detailed_reasoning": "The speaker's demeanor changes from shock to naive joy. He stands up, his voice becomes high-pitched and cheerful, and he adopts a wide, innocent smile. This conveys the character's simple-minded happiness at the prospect of a new friend.",
+    "summary_reasoning": "High-pitched cheerful voice, wide smile."
+  },
+  {
+    "timestamp": 21.818,
+    "emotion": "sinister",
+    "detailed_reasoning": "Another abrupt character shift occurs for comedic effect. The speaker's face turns into a menacing scowl, his eyebrows furrow, and his voice drops to a low, deliberate, and sinister tone as he delivers the punchline, creating a humorous contrast to the previous happy emotion.",
+    "summary_reasoning": "Low sinister tone, menacing facial expression."
+  },
+  {
+    "timestamp": 28.587,
+    "emotion": "amused",
+    "detailed_reasoning": "After the sinister line, the speaker's tone becomes lighter and more playful. He delivers the line \"are delicious\" with a sense of personal satisfaction and relish, looking up as if savoring the thought. This shows he is amused by the dark humor of his own story.",
+    "summary_reasoning": "Playful tone, satisfied expression, savoring words."
+  },
+  {
+    "timestamp": 37.749,
+    "emotion": "neutral",
+    "detailed_reasoning": "The speaker completely drops the storytelling persona and transitions to a new topic. His posture becomes straight and formal again, his tone becomes factual and declarative, and his facial expression is neutral. He is now presenting information, and his emotion reflects this shift to a serious, informative style.",
+    "summary_reasoning": "Factual tone, neutral expression, formal posture."
+  },
+  {
+    "timestamp": 44.339,
+    "emotion": "serious",
+    "detailed_reasoning": "While still in an informative mode, the speaker's tone becomes more somber and the pace of his speech slows slightly. His facial expression becomes more focused and serious as he presents a contrasting, more sobering statistic about friendship, indicating the gravity of the point he is making.",
+    "summary_reasoning": "Somber tone, slower pace, serious expression."
+  },
+  {
+    "timestamp": 49.286,
+    "emotion": "humorous",
+    "detailed_reasoning": "The speaker delivers an absurd punchline that breaks the serious tone. A wry smile appears on his face, and his vocal tone becomes lighter with a clear hint of irony. This signals to the audience that he is making a joke by using a nonsensical comparison.",
+    "summary_reasoning": "Wry smile, ironic tone, absurd statement."
+  },
+  {
+    "timestamp": 53.333,
+    "emotion": "emphatic",
+    "detailed_reasoning": "The speaker's tone becomes strong, clear, and declarative. He uses an open hand gesture for emphasis and makes direct eye contact with the audience. He is making a bold, summarizing statement, and his emotion is one of firm conviction.",
+    "summary_reasoning": "Strong declarative tone, hand gestures, direct eye contact."
+  },
+  {
+    "timestamp": 59.502,
+    "emotion": "awkward",
+    "detailed_reasoning": "As the speaker lists socially awkward situations, his own demeanor begins to mirror that feeling. His voice gets slightly quieter, his pace slows, and his eyes shift away from the audience, looking down and to the side. This change in body language and vocal delivery conveys a feeling of remembered awkwardness and discomfort.",
+    "summary_reasoning": "Quieter voice, averted gaze, listing awkward experiences."
+  }
+]

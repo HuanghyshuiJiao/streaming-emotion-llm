@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 5.516,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his speech with a calm and measured tone. His voice is steady, his pace is deliberate, and his facial expression is neutral as he reads from the podium. This sets a thoughtful and composed atmosphere for his message.",
+    "summary_reasoning": "Measured tone, steady pace, neutral expression."
+  },
+  {
+    "timestamp": 9.54,
+    "emotion": "inspirational",
+    "detailed_reasoning": "The speaker's tone gains a slightly more inspirational and motivational quality. He uses parallel sentence structures (\"Climb it so you can see the world, not so the world can see you\") and delivers them with a clear, slightly rising intonation, aiming to inspire the audience with a deeper message about purpose.",
+    "summary_reasoning": "Motivational text, rising intonation."
+  },
+  {
+    "timestamp": 16.027,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker returns to a calmer, more direct tone. After a pause, he shifts from metaphorical language to a direct piece of advice. His voice is even and he maintains a steady pace, similar to the beginning of his speech, indicating a shift back to a composed delivery.",
+    "summary_reasoning": "Even tone, steady pace, direct address."
+  },
+  {
+    "timestamp": 21.933,
+    "emotion": "sincere",
+    "detailed_reasoning": "The speaker's tone becomes more sincere and earnest. When he contrasts personal satisfaction with doing good for others, his voice softens slightly and his pace slows down, emphasizing the moral weight of his words and conveying a sense of genuine belief in the message.",
+    "summary_reasoning": "Softer tone, slower pace, earnest message."
+  },
+  {
+    "timestamp": 36.814,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker's delivery becomes more passionate and emphatic. As he reaches a core point of his speech (\"selflessness is the best thing you can do for yourself\"), his volume increases, his pace quickens, and he places strong emphasis on key words, showing deep conviction and a desire to make a strong impact.",
+    "summary_reasoning": "Increased volume, faster pace, strong emphasis."
+  },
+  {
+    "timestamp": 44.755,
+    "emotion": "inspirational",
+    "detailed_reasoning": "The speaker's tone shifts to be more broadly inspirational and uplifting. After the passionate peak, his voice becomes warmer and more inclusive as he says \"because everyone is [special].\" The delivery is gentle yet firm, aiming to empower every member of the audience.",
+    "summary_reasoning": "Warm tone, inclusive message, gentle delivery."
+  },
+  {
+    "timestamp": 53.157,
+    "emotion": "encouraging",
+    "detailed_reasoning": "In his concluding remarks, the speaker adopts an encouraging and hopeful tone. He says \"Congratulations, good luck,\" and urges the graduates to make \"extraordinary lives.\" His voice is warm and forward-looking, ending the speech on a positive and motivating note for the future.",
+    "summary_reasoning": "Warm tone, hopeful words, positive conclusion."
+  }
+]

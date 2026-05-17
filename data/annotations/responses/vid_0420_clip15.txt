@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": 6.46,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker's tone is measured and deliberate. He uses the word \"eavesdropping\" in a metaphorical sense, suggesting a quiet, introspective search for meaning. His body language is contained, with hands held close to his body, and his facial expression is serious and focused, indicating he is deeply considering the concept he's presenting to the audience.",
+    "summary_reasoning": "Measured tone, serious expression, contained gestures."
+  },
+  {
+    "timestamp": 14.771,
+    "emotion": "empathetic",
+    "detailed_reasoning": "The speaker's tone shifts to be more direct and personal as he lists different life stages: \"the adolescent you, the college you...\" His voice softens slightly and his gaze seems to reach out to the audience, creating a connection. This suggests he is trying to relate to the personal journey of each listener, showing empathy for their different experiences and future selves.",
+    "summary_reasoning": "Direct tone, personal language, soft voice."
+  },
+  {
+    "timestamp": 23.944,
+    "emotion": "sincere",
+    "detailed_reasoning": "After a significant pause, the speaker's tone becomes more profound and earnest with the phrase \"And more than anything.\" This shift in vocal quality and the deliberate pause signal that he is about to convey a deeply felt message. His expression remains serious, emphasizing the sincerity of his upcoming statement.",
+    "summary_reasoning": "Profound tone, deliberate pause, serious expression."
+  },
+  {
+    "timestamp": 28.57,
+    "emotion": "grateful",
+    "detailed_reasoning": "The speaker's voice is filled with genuine emotion as he says, \"I thank you for giving my trauma purpose.\" The words themselves express immense gratitude, and his delivery is vulnerable yet strong. His hands are clasped in front of him, a common gesture of thankfulness and sincerity. This is the emotional peak of his statement, revealing a deep sense of appreciation.",
+    "summary_reasoning": "Emotional voice, vulnerable words, clasped hands."
+  }
+]

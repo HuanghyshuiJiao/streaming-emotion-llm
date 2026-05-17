@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 4.016,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker begins by repeating the word \"family\" multiple times. While his tone is relatively calm, his facial expression is slightly strained, with narrowed eyes and a tight mouth. This, combined with the monotonous repetition, suggests he is not simply stating the word but reflecting on its complex and perhaps painful meaning for him. The repetition feels like a mantra or a way to process a difficult thought.",
+    "summary_reasoning": "Repetitive words, strained facial expression, monotonous tone."
+  },
+  {
+    "timestamp": 8.963,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker shifts from repetition to explanation. His tone becomes didactic and even, his facial expression neutralizes, and his body language is relaxed. He is explaining the concept of semantic satiation, a trick his mother taught him. This detachment from the emotional weight of the word \"family\" suggests a calm, explanatory state.",
+    "summary_reasoning": "Explanatory tone, neutral expression, relaxed posture."
+  },
+  {
+    "timestamp": 13.449,
+    "emotion": "nostalgic",
+    "detailed_reasoning": "As he calls this trick his \"favorite game,\" his facial expression softens, and a subtle, wistful smile appears. His tone, while still calm, gains a slightly warmer, more personal quality. He seems to be looking back on this coping mechanism with a sense of fondness or nostalgia for the relief it once brought him as a child.",
+    "summary_reasoning": "Soft expression, slight smile, warm tone."
+  },
+  {
+    "timestamp": 16.213,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker's demeanor becomes more performative and assertive. He repeats the word \"separation\" with a clear, steady voice, looking directly forward. When he says, \"See? Nothing,\" he has a knowing, confident smile and a conclusive tone, as if successfully proving a point to the audience. He is demonstrating a sense of control over the word's power.",
+    "summary_reasoning": "Performative tone, direct gaze, confident smile."
+  },
+  {
+    "timestamp": 26.207,
+    "emotion": "amused",
+    "detailed_reasoning": "After stating he now works with words, he quickly says \"Shut up\" and smiles wryly, gesturing dismissively. This interaction with the imagined thoughts of the audience and his direct acknowledgment of the irony in his situation shows a sense of self-aware humor. His tone is light and amused.",
+    "summary_reasoning": "Wry smile, dismissive gesture, light tone."
+  },
+  {
+    "timestamp": 33.719,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's tone shifts to become more earnest and philosophical as he explains the principle he was taught: dominating language by devaluing it. His facial expression becomes focused and serious, and his gestures are more deliberate. The amusement is gone, replaced by a serious reflection on a deeply ingrained lesson from his youth.",
+    "summary_reasoning": "Serious tone, focused expression, deliberate gestures."
+  },
+  {
+    "timestamp": 39.908,
+    "emotion": "cynical",
+    "detailed_reasoning": "He demonstrates his point by repeating \"I love you\" until it becomes meaningless, culminating in a dismissive \"See? Nothing.\" His smile is strained, almost a grimace, and his tone is hollow. This performance demonstrates the destructive application of his 'trick' to something profound, revealing a deep-seated cynicism and disillusionment.",
+    "summary_reasoning": "Strained smile, dismissive tone, performative repetition."
+  },
+  {
+    "timestamp": 45.477,
+    "emotion": "vulnerable",
+    "detailed_reasoning": "The speaker's entire demeanor changes as he reveals that he developed a stutter after his parents' divorce. His voice becomes quiet and somber, his pace slows, and he breaks eye contact, looking down. This shift in vocal and physical cues exposes a deep vulnerability, revealing the painful origin of his complex relationship with words.",
+    "summary_reasoning": "Quiet somber voice, downward gaze, slower pace."
+  },
+  {
+    "timestamp": 49.082,
+    "emotion": "somber",
+    "detailed_reasoning": "He delivers the line \"Fate is a cruel and efficient tutor\" with a low, slow, and resonant voice. His facial expression is serious and grave, reflecting the weight of this conclusion. He is no longer telling a story but stating a grim truth he has come to accept, creating a somber and heavy atmosphere.",
+    "summary_reasoning": "Low slow voice, grave facial expression, serious tone."
+  },
+  {
+    "timestamp": 58.708,
+    "emotion": "anguished",
+    "detailed_reasoning": "In the final lines, his voice becomes strained as he describes the physical struggle of stuttering. He physically clutches his throat, and his face contorts in a pained expression. The delivery of the final, drawn-out word \"Separation\" is filled with tension and effort, vividly conveying a sense of profound and inescapable anguish.",
+    "summary_reasoning": "Strained voice, pained expression, clutching throat."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "apologetic",
+    "detailed_reasoning": "The speaker begins with the word 'Okay,' immediately followed by 'I'm sorry.' His vocal tone is soft and placating, and his hands are open in a non-threatening gesture. This combination of verbal apology, gentle tone, and open body language clearly indicates an apologetic emotional state.",
+    "summary_reasoning": "Apologetic words, soft tone, open hand gestures."
+  },
+  {
+    "timestamp": 3.717,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's tone shifts from apologetic to declarative and earnest. His facial expression becomes more focused, with direct eye contact and slightly furrowed brows. He is making a definitive statement ('I know you're nothing like my mother'), and the gravity of his voice and expression convey a serious attempt to reassure the listener.",
+    "summary_reasoning": "Declarative tone, focused expression, direct eye contact."
+  },
+  {
+    "timestamp": 8.866,
+    "emotion": "pleading",
+    "detailed_reasoning": "The emotion shifts as he says 'But the poor woman is dead.' His tone becomes pleading and slightly exasperated, particularly on the phrase 'for peace sake.' His facial expression softens into a look of appeal, suggesting he wants the other person to drop the subject out of pity or for the sake of peace.",
+    "summary_reasoning": "Pleading tone, exasperated words, appealing expression."
+  },
+  {
+    "timestamp": 12.071,
+    "emotion": "dramatic",
+    "detailed_reasoning": "The speaker's emotion escalates significantly for dramatic effect. As he describes his mother being 'bloated and decaying,' his eyes widen in a look of mock horror, he leans forward, and his voice takes on a low, grave, and theatrical tone. The description is intentionally graphic to create a shocking and definitive end to the topic.",
+    "summary_reasoning": "Wide eyes, theatrical tone, graphic language."
+  },
+  {
+    "timestamp": 19.884,
+    "emotion": "calm",
+    "detailed_reasoning": "After a long pause where he visibly collects himself, the speaker's entire demeanor shifts. He says, 'to answer your question,' in a very measured, slow, and calm tone. His hands come together in a composed manner, and his facial expression is now neutral and serious, indicating a deliberate reset of his emotional state to address a serious question.",
+    "summary_reasoning": "Slow measured tone, composed posture, long pause."
+  },
+  {
+    "timestamp": 22.929,
+    "emotion": "sincere",
+    "detailed_reasoning": "When he delivers the line 'I would save you,' his tone is firm, low, and unwavering. He maintains direct, steady eye contact, and his facial expression is completely serious and without any of the previous dramatic flair. This directness and steadiness in his voice and gaze convey strong sincerity.",
+    "summary_reasoning": "Firm tone, direct eye contact, serious expression."
+  },
+  {
+    "timestamp": 27.352,
+    "emotion": "intense",
+    "detailed_reasoning": "The speaker builds to an emotional peak to emphasize his point. His voice grows louder, higher-pitched, and more strained as he describes the hypothetical of his mother 'screaming my name.' His facial expression becomes pained, and he gestures emphatically. This crescendo of vocal and visual cues creates a moment of high intensity and emotional distress.",
+    "summary_reasoning": "Louder strained voice, pained expression, emphatic gestures."
+  },
+  {
+    "timestamp": 35.594,
+    "emotion": "resigned",
+    "detailed_reasoning": "Following the intense emotional peak, his voice drops suddenly to a quiet, almost gentle tone as he repeats, 'I would save you.' His facial expression softens, and he looks down briefly before making eye contact again. This sharp decrease in energy and volume, combined with the solemn repetition, suggests a heavy, sad resignation to his choice.",
+    "summary_reasoning": "Quiet gentle tone, softened expression, drop in energy."
+  },
+  {
+    "timestamp": 39.092,
+    "emotion": "bitter",
+    "detailed_reasoning": "In the final line, 'Are you happy now?', the speaker's tone is quiet and weary, laced with a clear hint of bitterness. He has a slight, sad smile that doesn't reach his eyes, and he tilts his head in a challenging way. The question is rhetorical, implying the other person has forced a painful confession, leading to this bitter, resentful emotional state.",
+    "summary_reasoning": "Bitter tone, sad smile, challenging posture."
+  }
+]

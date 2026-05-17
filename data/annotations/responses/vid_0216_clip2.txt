@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 6.179,
+    "emotion": "optimistic",
+    "detailed_reasoning": "The speaker begins with a self-deprecating statement about his past mistakes but frames it in a positive light, suggesting that only good options remain. His tone is calm and reflective, and his upward gaze indicates he is thinking. The combination of the text and his measured delivery conveys a sense of optimism about the future.",
+    "summary_reasoning": "Positive framing, calm tone, upward gaze."
+  },
+  {
+    "timestamp": 9.203,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker makes a joke by using the non-word \"gooder?\". His facial expression becomes more playful with a slight smile, and his tone shifts to be lighthearted and questioning. This is a clear break in the more serious tone, showing he is amused by his own wording and is attempting humor.",
+    "summary_reasoning": "Playful expression, lighthearted tone, humorous word choice."
+  },
+  {
+    "timestamp": 11.706,
+    "emotion": "neutral",
+    "detailed_reasoning": "Following the joke, the speaker transitions to a new topic with the phrase \"That takes me to my skills.\" His expression becomes more neutral and his tone becomes more presentational and straightforward. This indicates a deliberate shift in topic, resetting the emotional state to be more focused and less playful.",
+    "summary_reasoning": "Neutral expression, presentational tone, topic transition."
+  },
+  {
+    "timestamp": 13.148,
+    "emotion": "charming",
+    "detailed_reasoning": "While listing his skills, the speaker describes himself as \"Funny and loyal.\" He delivers this line with a confident, slight smile and a light tone, attempting to present himself in an appealing way. The emotion is one of charm and self-assurance.",
+    "summary_reasoning": "Confident smile, light tone, self-promotion."
+  },
+  {
+    "timestamp": 16.192,
+    "emotion": "playful",
+    "detailed_reasoning": "The speaker follows up his statement of loyalty with the humorous line, \"I'm always there whether you want me or not.\" His smile widens, his eyes show a bit of mischief, and his tone becomes distinctly playful. This adds a layer of lighthearted self-awareness to his previous statement.",
+    "summary_reasoning": "Mischievous smile, playful tone, humorous line."
+  },
+  {
+    "timestamp": 21.909,
+    "emotion": "sincere",
+    "detailed_reasoning": "When the speaker begins to talk about his references, his tone softens and becomes warmer, especially as he mentions his mom and friends. His facial expression is open and he has a genuine smile, indicating a shift from a playful demeanor to one of sincere affection.",
+    "summary_reasoning": "Softer tone, warm expression, genuine smile."
+  },
+  {
+    "timestamp": 27.753,
+    "emotion": "proud",
+    "detailed_reasoning": "The speaker states that he has \"devoted most of my time to being a good son and a good friend.\" He says this with an earnest expression and a steady, confident tone, subtly nodding to emphasize his commitment. This suggests he is proud of the dedication he has shown to his loved ones.",
+    "summary_reasoning": "Earnest expression, confident tone, statement of values."
+  },
+  {
+    "timestamp": 29.881,
+    "emotion": "hopeful",
+    "detailed_reasoning": "The speaker looks up and to the side as he says he hopes to add his girlfriend to his list of references. This upward gaze, combined with a softening of his tone and a gentle, wistful smile, strongly conveys a sense of hope for the future of his relationship.",
+    "summary_reasoning": "Upward gaze, soft tone, gentle smile."
+  },
+  {
+    "timestamp": 34.821,
+    "emotion": "earnest",
+    "detailed_reasoning": "The speaker clarifies his hope, stating he wants to be a \"good boyfriend.\" His expression is very open and sincere, looking directly at the camera. His voice is gentle and his words convey a desire to be worthy, which shows vulnerability and deep earnestness about his intentions.",
+    "summary_reasoning": "Open expression, gentle voice, sincere words."
+  }
+]

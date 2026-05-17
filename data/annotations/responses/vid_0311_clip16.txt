@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 1.313,
+    "emotion": "engaging",
+    "detailed_reasoning": "The speaker begins with a direct, rhetorical question to the audience. Her tone is slightly elevated and clear, designed to capture attention. Her body language is open, with palms up, which is an inviting and engaging gesture. This combination of vocal tone and open posture indicates an intention to connect directly with the listeners from the very beginning.",
+    "summary_reasoning": "Direct question, elevated tone, open posture."
+  },
+  {
+    "timestamp": 11.587,
+    "emotion": "empathetic",
+    "detailed_reasoning": "The speaker poses another rhetorical question about being put in a \"box of diagnoses.\" Her tone softens slightly, and her pace slows down, conveying a sense of understanding and empathy for those who might feel this way. Her facial expression is soft and concerned, reinforcing this empathetic connection with the audience.",
+    "summary_reasoning": "Soft tone, slow pace, concerned expression."
+  },
+  {
+    "timestamp": 20.937,
+    "emotion": "inspirational",
+    "detailed_reasoning": "The speaker's tone shifts from questioning to inviting and motivational. She says, \"I invite you to reclaim those lost or hidden parts of yourself.\" Her voice becomes warmer and more uplifting. She uses gentle, encouraging hand gestures. This change in vocal quality and body language marks a transition to an inspirational and encouraging message.",
+    "summary_reasoning": "Uplifting tone, warm voice, encouraging gestures."
+  },
+  {
+    "timestamp": 31.53,
+    "emotion": "empowering",
+    "detailed_reasoning": "The speaker's message becomes more powerful with words like \"catalyst\" and \"rebirth.\" Her voice gains a bit more strength and conviction, while still remaining positive. She emphasizes these key words to convey the potential for significant personal transformation, aiming to empower the audience.",
+    "summary_reasoning": "Powerful words, convicted tone, positive delivery."
+  },
+  {
+    "timestamp": 37.577,
+    "emotion": "reassuring",
+    "detailed_reasoning": "The speaker offers a piece of advice, saying \"And remember, you don't have to look like anybody else.\" Her tone becomes very gentle and reassuring, and she slows her speech slightly for emphasis. Her facial expression is soft with a knowing smile, which adds to the comforting and validating nature of her statement.",
+    "summary_reasoning": "Gentle tone, slow speech, soft smile."
+  },
+  {
+    "timestamp": 41.943,
+    "emotion": "sincere",
+    "detailed_reasoning": "The speaker transitions to a personal part of her story with a disclaimer about her parents. Her tone becomes more serious and deliberate, and her expression turns neutral and focused. This shift indicates she is about to make a very sincere point and wants to ensure there is no misunderstanding about her intentions.",
+    "summary_reasoning": "Serious tone, deliberate pace, focused expression."
+  },
+  {
+    "timestamp": 46.448,
+    "emotion": "loving",
+    "detailed_reasoning": "When speaking about her parents, her voice softens significantly and takes on a warm, affectionate quality. She says, \"They love me,\" and her facial expression mirrors this with a gentle, appreciative smile. This combination of a soft tone and warm expression clearly communicates a feeling of love and understanding.",
+    "summary_reasoning": "Soft voice, affectionate tone, gentle smile."
+  },
+  {
+    "timestamp": 51.372,
+    "emotion": "determined",
+    "detailed_reasoning": "In the final statement, the speaker's tone shifts to one of purpose and resolve. She speaks about parenting her own daughter differently. Her voice is firm and clear, and her gaze is steady. This change signals a shift from reflecting on the past to a determined and hopeful outlook for the future.",
+    "summary_reasoning": "Firm tone, clear voice, steady gaze."
+  }
+]

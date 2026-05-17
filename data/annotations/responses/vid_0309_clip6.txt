@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 1.214,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker begins with a somber tone and a pained facial expression. His eyebrows are slightly furrowed, and he describes being 'physically drained' from telling lies, conveying a sense of regret and emotional weight.",
+    "summary_reasoning": "Somber tone, pained expression, negative words."
+  },
+  {
+    "timestamp": 7.029,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker's tone becomes more explanatory and less pained. He clarifies his past actions were not due to being a 'bad person' but from being 'damaged.' His gaze is steady and his expression is thoughtful, indicating a shift from raw sadness to a more analytical reflection on his past self.",
+    "summary_reasoning": "Explanatory tone, thoughtful expression, self-analysis."
+  },
+  {
+    "timestamp": 12.804,
+    "emotion": "yearning",
+    "detailed_reasoning": "The speaker's voice softens and takes on a more hopeful, longing quality as he describes his search for validation ('someone who would grab hold of my story'). His hand gestures become more open and expressive, and his eyes widen slightly, visually representing his deep desire for acceptance.",
+    "summary_reasoning": "Soft, hopeful voice, open gestures, wider eyes."
+  },
+  {
+    "timestamp": 21.201,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker transitions to a new part of his story about a report card. His tone becomes more neutral and narrative, and his facial expression relaxes. The previous emotional intensity dissipates as he sets the scene for the next life lesson, indicating a return to a calmer, storytelling state.",
+    "summary_reasoning": "Neutral tone, relaxed face, storytelling."
+  },
+  {
+    "timestamp": 26.795,
+    "emotion": "passionate",
+    "detailed_reasoning": "After briefly mentioning a minor lesson, the speaker's energy increases significantly. He leans forward, his voice becomes louder and more emphatic as he introduces the 'more important lesson.' He gestures broadly while mentioning sharing this lesson globally, showing a strong sense of conviction and passion for the message he is about to deliver.",
+    "summary_reasoning": "Increased energy, loud emphatic voice, broad gestures."
+  },
+  {
+    "timestamp": 33.37,
+    "emotion": "assertive",
+    "detailed_reasoning": "The speaker delivers his key message with a firm, deliberate tone and direct eye contact. He uses strong, declarative statements like 'you will pay a price' and 'there are no free lunches.' His posture is confident, and the overall delivery is that of someone stating a hard-earned, undeniable truth.",
+    "summary_reasoning": "Firm tone, direct eye contact, declarative statements."
+  },
+  {
+    "timestamp": 40.609,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker moves to the next chapter of his life, when he was 21. His tone becomes narrative and factual again, losing the previous assertiveness. He sits back, and his expression is neutral as he describes his job in real estate, signaling a transition back to a calm, storytelling mode.",
+    "summary_reasoning": "Narrative tone, neutral expression, factual content."
+  },
+  {
+    "timestamp": 49.233,
+    "emotion": "disappointed",
+    "detailed_reasoning": "Despite having all the markers of success, the speaker's demeanor shifts dramatically. His voice drops in pitch and volume, his pace slows, and he delivers the word 'miserable' with a heavy, downward inflection. His facial expression becomes somber, reflecting deep internal unhappiness and disappointment with his life at that time.",
+    "summary_reasoning": "Low, slow voice, somber expression, negative word 'miserable'."
+  },
+  {
+    "timestamp": 53.705,
+    "emotion": "grave",
+    "detailed_reasoning": "He quotes a passage about gaining the world but losing one's soul. His tone becomes very serious and low, and he looks directly at the camera with a solemn expression. The gravity of the quote and his intense delivery convey that this was a profound and troubling realization for him.",
+    "summary_reasoning": "Serious low tone, solemn expression, serious content."
+  },
+  {
+    "timestamp": 57.294,
+    "emotion": "sad",
+    "detailed_reasoning": "Concluding his point, the speaker states, 'I was losing my soul.' His voice is quiet and filled with a deep sadness. His eyes look down and away, a classic sign of shame or sorrow, and his facial muscles are tense with restrained emotion, indicating profound personal pain.",
+    "summary_reasoning": "Quiet sad voice, downward gaze, pained expression."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 6.038,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his presentation with a calm and inviting tone. His voice is steady, his posture is relaxed, and his facial expression is neutral as he stands in the spotlight, effectively setting a narrative mood for the audience.",
+    "summary_reasoning": "Steady voice, relaxed posture, narrative tone."
+  },
+  {
+    "timestamp": 15.209,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's tone shifts from calm narration to a more serious and somber quality as he begins to describe a traumatic childhood memory. His voice becomes more deliberate, and his facial expression turns serious, reflecting the gravity of the event he is recounting about his face being 'ripped open.'",
+    "summary_reasoning": "Somber tone, serious expression, traumatic content."
+  },
+  {
+    "timestamp": 27.695,
+    "emotion": "distressed",
+    "detailed_reasoning": "The speaker's description of his parents' reaction introduces a sense of urgency and panic into the story. His vocal pace quickens and his tone becomes more intense when he says they 'rush me to the hospital,' conveying the distress of the moment.",
+    "summary_reasoning": "Faster pace, intense tone, urgent language."
+  },
+  {
+    "timestamp": 31.359,
+    "emotion": "admiration",
+    "detailed_reasoning": "The emotion shifts from distress to admiration as the speaker describes the surgeon. He uses positive, almost reverential language like 'wizard surgeon' and 'spins magic,' and his tone becomes lighter and filled with awe, indicating his deep respect and gratitude for the man who helped him.",
+    "summary_reasoning": "Reverential tone, positive language ('wizard')."
+  },
+  {
+    "timestamp": 38.648,
+    "emotion": "sad",
+    "detailed_reasoning": "A significant emotional shift occurs as the speaker reveals a photograph of his severe childhood injuries. His voice becomes quieter and more vulnerable, and his pace slows down. This, combined with the shocking visual, conveys a deep sense of sadness and the beginning of a profound fear.",
+    "summary_reasoning": "Quiet voice, slow pace, shocking photo."
+  },
+  {
+    "timestamp": 44.374,
+    "emotion": "hurt",
+    "detailed_reasoning": "The speaker's emotion transitions from general sadness to a more specific feeling of being hurt as he describes the reactions of others to his appearance. His tone conveys a sense of social pain and isolation, reflecting the emotional impact of being seen as startling or scary by family, friends, and strangers.",
+    "summary_reasoning": "Pained tone, describes social isolation."
+  },
+  {
+    "timestamp": 53.43,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker's tone becomes more measured and thoughtful, shifting from expressing the raw emotion of being hurt to analyzing the experience. He is processing the memory from an adult perspective, explaining what he learned about empathy, which indicates a move to a more introspective and reflective state.",
+    "summary_reasoning": "Measured tone, analytical language, intellectual processing."
+  },
+  {
+    "timestamp": 56.473,
+    "emotion": "neutral",
+    "detailed_reasoning": "The speaker signals a transition in his story with the phrase 'Fast forward a few years.' His tone loses the emotional weight of the preceding memories and becomes neutral and narrative, similar to the start of his talk. This change prepares the audience for the next chapter of his story.",
+    "summary_reasoning": "Transitional phrase, narrative tone, emotional reset."
+  }
+]

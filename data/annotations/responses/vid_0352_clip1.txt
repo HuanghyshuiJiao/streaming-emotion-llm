@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 6.158,
+    "emotion": "longing",
+    "detailed_reasoning": "The speaker begins with a hypothetical question about her future, spoken with a soft, slightly high-pitched, and wistful tone. Her facial expression is dreamy, with upturned eyes and a slight, melancholic smile, indicating a sense of longing for an idealized partner who is both 'suitable and wealthy'.",
+    "summary_reasoning": "Wistful tone, dreamy expression, melancholic smile."
+  },
+  {
+    "timestamp": 11.804,
+    "emotion": "defensive",
+    "detailed_reasoning": "In response to the off-screen character's challenging question, her expression shifts from wistful to more grounded and slightly defensive. Her smile becomes more forced, and her eyes narrow slightly as she listens. The tone of the question implies doubt, prompting her to defend her feelings.",
+    "summary_reasoning": "Forced smile, narrowed eyes, responding to challenge."
+  },
+  {
+    "timestamp": 13.566,
+    "emotion": "sincere",
+    "detailed_reasoning": "Her tone becomes earnest and direct as she says, \"he understood me.\" She leans forward slightly and makes direct eye contact, emphasizing the deep personal connection she felt. The defensiveness gives way to a heartfelt sincerity as she explains the core of her feelings.",
+    "summary_reasoning": "Earnest tone, direct eye contact, leaning forward."
+  },
+  {
+    "timestamp": 20.174,
+    "emotion": "sentimental",
+    "detailed_reasoning": "Her expression softens significantly, and she looks down and to the side as if accessing a fond memory. Her voice becomes gentle and quiet when she says she \"felt right in this world.\" This combination of a softened gaze, downward look, and gentle tone indicates a sentimental and nostalgic feeling.",
+    "summary_reasoning": "Soft expression, downward gaze, gentle tone."
+  },
+  {
+    "timestamp": 25.34,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker's tone shifts from sentimental to firm and confident. She looks up, her voice gains volume and conviction as she repeatedly states \"I am certain.\" This verbal and non-verbal shift demonstrates her strong belief in both his and her own feelings of love.",
+    "summary_reasoning": "Firm tone, direct gaze, assertive words."
+  },
+  {
+    "timestamp": 28.924,
+    "emotion": "hurt",
+    "detailed_reasoning": "Upon hearing the off-screen character dismiss her feelings as \"not love,\" her confident expression immediately collapses. Her face becomes still, her eyes show shock and hurt, and her mouth tightens slightly. The sudden invalidation of her deeply held emotions causes a visible and immediate emotional injury.",
+    "summary_reasoning": "Collapsed expression, shocked eyes, invalidated feelings."
+  },
+  {
+    "timestamp": 31.027,
+    "emotion": "annoyed",
+    "detailed_reasoning": "The initial hurt quickly turns into annoyance and frustration. She retorts with \"you stop it, won't you?\" Her eyebrows furrow, her voice becomes sharp and clipped, and she shakes her head slightly in disbelief. She is now pushing back against the other person's judgment.",
+    "summary_reasoning": "Sharp tone, furrowed brows, clipped words."
+  },
+  {
+    "timestamp": 38.318,
+    "emotion": "indignant",
+    "detailed_reasoning": "Her annoyance escalates to indignation. She challenges the other person's right to define her feelings. Her voice is laced with angry disbelief, her brow is heavily furrowed, and her expression is one of offense. She feels unjustly judged and is vocally fighting back against that judgment.",
+    "summary_reasoning": "Angry tone, furrowed brow, challenging words."
+  },
+  {
+    "timestamp": 44.086,
+    "emotion": "dejected",
+    "detailed_reasoning": "After the other character's quiet response (\"No.\"), the fight leaves her. Her face falls, the anger dissipates, and her expression becomes one of profound sadness and dejection. She stares blankly, her argument deflated, leaving only the painful reality of her situation.",
+    "summary_reasoning": "Fallen face, anger dissipates, blank stare."
+  },
+  {
+    "timestamp": 57.426,
+    "emotion": "disappointed",
+    "detailed_reasoning": "Her final lines are delivered in a low, quiet voice, heavy with sadness. She looks down, avoiding eye contact, and her face is etched with disappointment. She recounts her dashed hopes, admitting she's heard nothing from him and that her certainty about an announcement was misplaced, revealing the depth of her disappointment.",
+    "summary_reasoning": "Quiet sad tone, downcast eyes, admitting failed hopes."
+  }
+]

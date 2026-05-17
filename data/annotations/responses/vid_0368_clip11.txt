@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 12.068,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his speech with a philosophical point about death. His tone is measured, steady, and his pace is deliberate. He is looking down at his notes, reading in a calm and serious manner, establishing a contemplative mood.",
+    "summary_reasoning": "Measured tone, deliberate pace, reading speech."
+  },
+  {
+    "timestamp": 19.438,
+    "emotion": "philosophical",
+    "detailed_reasoning": "Continuing on the theme of mortality, the speaker offers a piece of advice based on his personal philosophy. His tone remains calm and steady, but the content is clearly a deeply held belief, giving his words a reflective and philosophical weight. He delivers the line with conviction.",
+    "summary_reasoning": "Calm tone, delivering personal philosophy."
+  },
+  {
+    "timestamp": 21.46,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker delivers the short, impactful sentence, \"You are already naked.\" He looks up briefly from his notes, and his tone carries a strong sense of certainty and confidence in the statement he's making. The starkness of the phrase is matched by his assured delivery.",
+    "summary_reasoning": "Impactful statement, certain tone, looks up."
+  },
+  {
+    "timestamp": 24.344,
+    "emotion": "encouraging",
+    "detailed_reasoning": "After a pause, the speaker looks up directly at the audience and says, \"There is no reason not to follow your heart.\" The direct eye contact and the shift in his voice to a slightly more persuasive, forward tone indicate a moment of direct encouragement to the graduates.",
+    "summary_reasoning": "Direct eye contact, persuasive tone."
+  },
+  {
+    "timestamp": 29.211,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker transitions from general advice to a deeply personal story, announcing, \"About a year ago, I was diagnosed with cancer.\" The topic itself is incredibly heavy, and while his voice remains steady, the atmosphere immediately becomes more serious and somber due to the gravity of the words.",
+    "summary_reasoning": "Serious topic change, grave content."
+  },
+  {
+    "timestamp": 37.182,
+    "emotion": "wry",
+    "detailed_reasoning": "After describing the discovery of a tumor on his pancreas, the speaker adds, \"I didn't even know what a pancreas was.\" There's a slight, dry, almost humorous inflection in his voice that injects a moment of irony into the grave situation. This brief, wry comment momentarily lightens the tension.",
+    "summary_reasoning": "Dry, ironic comment, slight tonal shift."
+  },
+  {
+    "timestamp": 46.625,
+    "emotion": "grave",
+    "detailed_reasoning": "The speaker recounts the doctor's prognosis that he had only \"three to six months\" to live. The content is the most serious and life-threatening yet. His tone is flat and matter-of-fact, which, given the context, conveys a profound sense of gravity and the weight of that diagnosis.",
+    "summary_reasoning": "Matter-of-fact tone, life-threatening content."
+  },
+  {
+    "timestamp": 54.945,
+    "emotion": "somber",
+    "detailed_reasoning": "He concludes the anecdote by translating the doctor's advice to \"get my affairs in order\" as \"prepare to die.\" He delivers this final, stark interpretation with a steady but somber tone, emphasizing the finality and seriousness of his brush with death. The clip ends on this heavy, reflective note.",
+    "summary_reasoning": "Stark words, steady and serious tone."
+  }
+]

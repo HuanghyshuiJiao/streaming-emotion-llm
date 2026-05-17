@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 5.578,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker begins a story with a serious and somber tone. Her facial expression, characterized by slightly furrowed brows and downturned lips, immediately sets a sad mood. The content of her words, describing a kid throwing a stone at a bird, confirms the negative and upsetting nature of the narrative. The combination of her somber voice, sad expression, and the troubling story content points to an emotion of sadness.",
+    "summary_reasoning": "Somber tone, sad expression, upsetting story."
+  },
+  {
+    "timestamp": 9.563,
+    "emotion": "distressed",
+    "detailed_reasoning": "The speaker describes a graphic and upsetting image of the bird's leg breaking. Her tone becomes more pained, and her hand gesture physically illustrates the fragility of the bird's leg, making the moment more vivid and distressing. Her facial expression conveys a sense of horror and deep sadness as she recalls the event. This shift from general sadness to a more acute, pained description indicates she is distressed.",
+    "summary_reasoning": "Pained tone, illustrative hand gesture, horrified expression."
+  },
+  {
+    "timestamp": 13.347,
+    "emotion": "helpless",
+    "detailed_reasoning": "The speaker recalls her own actions in the memory, screaming \"stop it!\". Her tone shifts dramatically to become louder, higher-pitched, and strained, mimicking the scream she is describing. Her facial expression is one of anguish and desperation. This combination of vocal and facial cues, along with the context of her trying to stop the cruelty, points to a strong feeling of helplessness and frustration.",
+    "summary_reasoning": "Loud strained voice, anguished expression, desperate words."
+  },
+  {
+    "timestamp": 25.389,
+    "emotion": "grieving",
+    "detailed_reasoning": "The speaker's voice becomes very soft and low, filled with a deep sense of sorrow as she describes the bird's death. Her gaze drops downward, and her facial expression is one of profound sadness and mourning. The slowing pace of her speech emphasizes the gravity and finality of the moment. The word \"keeled\" itself is a stark description of death, and her delivery conveys a sense of grieving for the creature.",
+    "summary_reasoning": "Soft low voice, downward gaze, sad expression."
+  },
+  {
+    "timestamp": 33.839,
+    "emotion": "desperate",
+    "detailed_reasoning": "The speaker describes the horrific contrast between the kids laughing and her own screaming. Her voice rises in volume and frustration, mirroring her past self's desperation. Her facial expression is a mix of anger and helplessness, and her hand gestures are expressive of her powerlessness. The repetition of \"Stop it!\" emphasizes her escalating desperation in the face of the children's cruelty and indifference.",
+    "summary_reasoning": "Loud frustrated voice, helpless expression, repeated pleas."
+  },
+  {
+    "timestamp": 37.383,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker explains why her pleas were not heard. Her tone shifts to one of deep frustration and contempt, particularly when she says \"ugly music.\" This phrase encapsulates her disgust with the children's callousness. Her head shake and averted gaze show her exasperation and the painful futility of her efforts. The reason for her helplessness is now clear, intensifying her feeling of frustration.",
+    "summary_reasoning": "Contemptuous tone, head shake, describing futility."
+  },
+  {
+    "timestamp": 40.667,
+    "emotion": "determined",
+    "detailed_reasoning": "After feeling frustrated and helpless, the speaker describes taking decisive action. Her tone becomes urgent and her speech quickens, mirroring the act of running for help. Her body language shifts as she describes getting the guard, conveying a sense of purpose and determination. This marks a change from passive despair to active intervention.",
+    "summary_reasoning": "Urgent tone, quickened pace, purposeful words."
+  },
+  {
+    "timestamp": 46.053,
+    "emotion": "defeated",
+    "detailed_reasoning": "The climax of her action-oriented effort ends in anticlimax. The phrase \"the kids were gone\" is delivered in a flat, hollow tone, completely devoid of the previous determination. Her facial expression drops, her eyes look down, and her posture slumps, visually representing her sense of defeat. The sudden drop in energy and emotion signifies that her attempt to bring justice or stop the cruelty failed.",
+    "summary_reasoning": "Flat hollow tone, slumped posture, defeated expression."
+  },
+  {
+    "timestamp": 53.342,
+    "emotion": "horrified",
+    "detailed_reasoning": "The speaker concludes her story with the final, gruesome image. Her voice drops to a near-whisper, filled with deep sadness and horror. She looks down, unable to meet the camera's gaze, indicating the difficulty of recalling and verbalizing this traumatic sight. The slow, heavy delivery of the words \"big pools of blood\" conveys the profound and lasting shock of the scene. This is the culmination of the story's tragedy, leaving a final impression of horror.",
+    "summary_reasoning": "Whispered voice, downward gaze, describing gruesome scene."
+  }
+]

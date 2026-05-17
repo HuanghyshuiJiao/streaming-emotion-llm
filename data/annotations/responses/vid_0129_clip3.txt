@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 0.792,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker begins with a rhetorical question, delivered with a sharp tone and a tense facial expression. He seems to be challenging an unseen person or a general idea, setting a confrontational and frustrated mood from the start.",
+    "summary_reasoning": "Sharp tone, tense expression."
+  },
+  {
+    "timestamp": 5.719,
+    "emotion": "disappointed",
+    "detailed_reasoning": "After a long pause, the speaker's demeanor shifts. He looks down, and his vocal tone becomes lower and softer. The words \"This isn't the way I planned it\" convey a sense of personal failure or things going wrong, indicating disappointment.",
+    "summary_reasoning": "Downward gaze, lower tone."
+  },
+  {
+    "timestamp": 9.584,
+    "emotion": "angry",
+    "detailed_reasoning": "The speaker's energy level rises dramatically. His voice becomes louder and faster, he uses a swear word for emphasis (\"fucked off\"), and his gestures become more expansive and sharp. This is a clear shift from disappointment to active anger and outrage.",
+    "summary_reasoning": "Louder voice, profanity, sharp gestures."
+  },
+  {
+    "timestamp": 12.328,
+    "emotion": "cynical",
+    "detailed_reasoning": "The speaker's anger transitions into a more bitter and dismissive tone. The phrase \"Come on, nothing's changed\" is delivered with a sense of weary frustration, suggesting he believes the outrage he just expressed is ultimately futile. This reflects a cynical worldview.",
+    "summary_reasoning": "Dismissive tone, weary expression."
+  },
+  {
+    "timestamp": 17.595,
+    "emotion": "resigned",
+    "detailed_reasoning": "His tone becomes flat and his pace slows. He talks about the media having their \"sacrificial lambs\" and moving on. His gestures are dismissive and his facial expression is weary, indicating a sense of resignation to a harsh reality he feels powerless to change.",
+    "summary_reasoning": "Flat tone, weary expression, dismissive gesture."
+  },
+  {
+    "timestamp": 24.985,
+    "emotion": "pained",
+    "detailed_reasoning": "After a long pause, the speaker's focus turns inward. He says, \"But it is me,\" with a soft but firm voice. His facial expression tightens, showing a look of pain and difficult acceptance of his personal involvement in the situation.",
+    "summary_reasoning": "Pained facial expression, soft tone."
+  },
+  {
+    "timestamp": 35.252,
+    "emotion": "bitter",
+    "detailed_reasoning": "Following another very long, emotional pause, the speaker's voice is quiet and strained. He asks, \"This is how it works, yeah?\" The question is rhetorical and laden with bitterness, implying a deep-seated resentment about the injustice of his situation.",
+    "summary_reasoning": "Quiet strained voice, rhetorical question."
+  },
+  {
+    "timestamp": 42.272,
+    "emotion": "despairing",
+    "detailed_reasoning": "The final line, \"I just want to go home,\" is delivered with a voice that is on the verge of breaking. His energy is completely gone, his eyes are downcast, and his posture is slumped. This conveys a profound sense of exhaustion and hopelessness, a feeling of despair.",
+    "summary_reasoning": "Breaking voice, downcast eyes, slumped posture."
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her speech with a clear, steady, and instructional tone. Her facial expression is neutral with a slight, polite smile, and her posture is composed as she stands at the podium. This combination of cues indicates a calm and controlled demeanor, appropriate for a formal address.",
+    "summary_reasoning": "Clear steady tone, neutral expression, composed posture."
+  },
+  {
+    "timestamp": 19.763,
+    "emotion": "serious",
+    "detailed_reasoning": "When transitioning to the topic of driving safety, the speaker's tone becomes more firm and admonitory. Her previously gentle smile disappears, replaced by a more focused and grave facial expression. This shift in vocal and facial cues signals the importance and danger of the topic she is about to discuss.",
+    "summary_reasoning": "Firm tone, grave expression."
+  },
+  {
+    "timestamp": 25.968,
+    "emotion": "concerned",
+    "detailed_reasoning": "As the speaker begins to list statistics about accidents, injuries, and deaths from distracted driving, her tone becomes graver and more somber. She speaks deliberately, emphasizing the large, tragic numbers. Her facial expression matches her tone, conveying a sense of concern and highlighting the severity of the issue.",
+    "summary_reasoning": "Grave somber tone, deliberate speech, serious expression."
+  },
+  {
+    "timestamp": 45.393,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker's emotion shifts as she introduces a quote. Her tone becomes lighter and more playful, particularly on the words \"stroke\" and \"caress.\" A clear smile appears on her face, and her eyes show a humorous glint, indicating that she finds the quote amusing and is sharing this feeling with the audience, who respond with laughter.",
+    "summary_reasoning": "Playful tone, smiling face, humorous context."
+  },
+  {
+    "timestamp": 56.815,
+    "emotion": "calm",
+    "detailed_reasoning": "Following the humorous quote and the audience's laughter, the speaker's smile fades and her expression returns to neutral. Her tone shifts back to being straightforward and instructional as she introduces her final point. This transition indicates a return to the baseline calm and formal demeanor of her speech.",
+    "summary_reasoning": "Neutral expression, straightforward tone."
+  }
+]

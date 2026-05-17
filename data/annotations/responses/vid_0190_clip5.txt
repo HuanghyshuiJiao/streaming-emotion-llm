@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 7.359,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his story with a reflective tone. His voice is steady and his pace is measured. Visually, his facial expression is neutral and his body language is composed, indicating a calm but serious emotional state as he discusses past emotional struggles.",
+    "summary_reasoning": "Steady voice, neutral expression, reflective topic."
+  },
+  {
+    "timestamp": 17.85,
+    "emotion": "proud",
+    "detailed_reasoning": "The speaker's tone shifts to be more positive and energetic as he lists his accomplishments. A subtle smile appears on his face, and his eyes show a hint of pride. His hand gestures become slightly more open, reinforcing the positive and proud feeling associated with his achievements.",
+    "summary_reasoning": "Positive tone, slight smile, listing achievements."
+  },
+  {
+    "timestamp": 30.34,
+    "emotion": "sad",
+    "detailed_reasoning": "There is a significant shift in emotion here. The speaker's proud expression completely fades, replaced by a somber look as he gazes downward. His voice becomes quieter and lower in pitch, and the pace of his speech slows down, conveying a deep sense of sadness and a painful memory.",
+    "summary_reasoning": "Downward gaze, somber face, quiet tone, slow pace."
+  },
+  {
+    "timestamp": 41.14,
+    "emotion": "nostalgic",
+    "detailed_reasoning": "The speaker's mood lightens as he recalls a memory with his 'pop-up'. A warm, gentle smile appears, and his tone becomes conversational and affectionate, particularly when mentioning the 'infamous Astro Van'. This combination of a fond memory and a warm delivery suggests a feeling of nostalgia.",
+    "summary_reasoning": "Gentle smile, warm tone, recalling fond memory."
+  },
+  {
+    "timestamp": 47.993,
+    "emotion": "determined",
+    "detailed_reasoning": "The speaker's focus shifts to his athletic ambitions. His nostalgic smile disappears, and his facial expression becomes serious and focused. His tone is firm and his speech is deliberate, conveying a strong sense of determination and purpose as he states his goal.",
+    "summary_reasoning": "Serious expression, firm tone, stating goal."
+  },
+  {
+    "timestamp": 52.677,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker's energy level increases significantly as he describes his intense training regimen. His voice becomes louder and more forceful, and he uses emphatic hand gestures to illustrate the effort he put in. This heightened energy and focused intensity reflect a strong passion for his goal.",
+    "summary_reasoning": "Increased energy, forceful tone, emphatic gestures."
+  },
+  {
+    "timestamp": 59.4,
+    "emotion": "calm",
+    "detailed_reasoning": "After the high-energy description of his training, the speaker's demeanor softens. His tone becomes more neutral and narrative as he sets the scene for the next part of his story. The passion subsides, and he returns to a calm, storytelling mode.",
+    "summary_reasoning": "Softer tone, narrative pace, transitioning story."
+  }
+]

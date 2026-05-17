@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp": 2.834,
+    "emotion": "annoyed",
+    "detailed_reasoning": "The user starts with a seemingly polite \"Excuse me,\" but her tone is already insistent and slightly sharp. Her facial expression is serious and her eyebrows are slightly furrowed. The initial words are a preface to a complaint, setting a tone of annoyance and impatience.",
+    "summary_reasoning": "Insistent tone, serious expression, furrowed brow."
+  },
+  {
+    "timestamp": 9.962,
+    "emotion": "disgusted",
+    "detailed_reasoning": "The user's focus on the chairs being \"fabric\" instead of \"vinyl\" is delivered with a tone of clear disapproval and disgust. She emphasizes the word \"fabric\" while looking down as if at the offending object, her face showing revulsion.",
+    "summary_reasoning": "Disapproving tone, emphasis on \"fabric\", look of revulsion."
+  },
+  {
+    "timestamp": 13.345,
+    "emotion": "agitated",
+    "detailed_reasoning": "The user's speech becomes faster and her tone more accusatory as she asks, \"Don't you realize that fabric chairs are not sanitary?\" Her eyes are wide and her expression is one of disbelief and agitation, as if she can't comprehend the situation.",
+    "summary_reasoning": "Fast speech, accusatory tone, wide eyes."
+  },
+  {
+    "timestamp": 18.731,
+    "emotion": "repulsed",
+    "detailed_reasoning": "The user lists potential contaminants like \"lice\" and \"crabs\" with increasing speed and a higher pitch, leaning forward slightly. Her facial expression is one of extreme disgust and revulsion, culminating in the phrase \"crawling around in those cushions.\"",
+    "summary_reasoning": "High-pitched, fast speech, disgusted facial expression."
+  },
+  {
+    "timestamp": 24.237,
+    "emotion": "furious",
+    "detailed_reasoning": "After a brief pause, her voice drops to a lower, more intense register as she says \"they stink.\" Her eyes narrow and her expression becomes hard, signaling a shift from disgust to outright anger and fury.",
+    "summary_reasoning": "Intense low voice, narrowed eyes, hard expression."
+  },
+  {
+    "timestamp": 29.262,
+    "emotion": "outraged",
+    "detailed_reasoning": "Her voice rises in volume and pitch, and she gestures with her hands for emphasis. Her face is contorted in outrage as she exclaims, \"It's disgusting!\" The combination of her loud, wavering voice and dramatic expression shows she is completely outraged by the perceived filth.",
+    "summary_reasoning": "Loud wavering voice, emphatic gestures, outraged expression."
+  },
+  {
+    "timestamp": 33.881,
+    "emotion": "accusatory",
+    "detailed_reasoning": "The user abruptly changes the subject to the listener's personal hygiene, pointing her finger and asking, \"Have you showered today?\" Her tone is highly confrontational and accusatory, and her expression is one of severe judgment.",
+    "summary_reasoning": "Pointing finger, confrontational tone, judgmental expression."
+  },
+  {
+    "timestamp": 44.972,
+    "emotion": "frustrated",
+    "detailed_reasoning": "She explains she is there to see a therapist for her \"issues,\" and her voice cracks slightly with emotion. She throws her hands up in a gesture of exasperation, indicating a deep sense of frustration with her own problems and the current situation.",
+    "summary_reasoning": "Voice cracks, exasperated gesture, frustrated tone."
+  },
+  {
+    "timestamp": 51.018,
+    "emotion": "desperate",
+    "detailed_reasoning": "Her voice becomes louder and more desperate as she claims she is being subjected to \"more emotional trauma.\" She looks upward as if pleading, and her words come out in a rush, highlighting her feeling of being overwhelmed and desperate for relief.",
+    "summary_reasoning": "Loud, desperate voice, pleading upward glance, rushed speech."
+  },
+  {
+    "timestamp": 52.64,
+    "emotion": "demanding",
+    "detailed_reasoning": "Her tone shifts to be sharp, loud, and demanding as she leans forward and confronts the listener with, \"Now what are you gonna do about it?\" Her expression is challenging and insistent, clearly demanding an immediate response.",
+    "summary_reasoning": "Sharp, loud tone, leaning forward, challenging expression."
+  },
+  {
+    "timestamp": 59.367,
+    "emotion": "resigned",
+    "detailed_reasoning": "After a long pause, her entire demeanor changes. Her shoulders slump, her voice becomes quiet and flat, and she looks down as she says, \"I'm sitting. I'm sitting.\" This shift from high agitation to quiet compliance shows a sense of defeat and resignation.",
+    "summary_reasoning": "Slumped shoulders, quiet flat voice, downward gaze."
+  }
+]

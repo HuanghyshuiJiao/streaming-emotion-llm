@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 8.035,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her talk by recounting intense childhood fears, using dramatic words like \"downfall of my entire family.\" However, her delivery is measured and her tone is completely steady. Her facial expression is neutral and composed, indicating that she is calmly narrating a past experience rather than feeling the fear in the present moment.",
+    "summary_reasoning": "Steady tone, calm face, dramatic words."
+  },
+  {
+    "timestamp": 13.872,
+    "emotion": "calm",
+    "detailed_reasoning": "Continuing to describe her past fears, the speaker maintains a consistent, calm tone of voice and a neutral facial expression. This reinforces the sense that she is in full control of the narrative, describing a past self from a detached and composed perspective.",
+    "summary_reasoning": "Steady tone, neutral face."
+  },
+  {
+    "timestamp": 23.538,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker contrasts her \"idyllic childhood\" with the \"certain doom, death, and despair\" she imagined. As she lists these dramatic outcomes, her tone becomes slightly lighter, and a subtle, wry smile appears on her face. This indicates she finds her past anxieties humorous in retrospect.",
+    "summary_reasoning": "Lighter tone, wry smile."
+  },
+  {
+    "timestamp": 28.124,
+    "emotion": "contemplative",
+    "detailed_reasoning": "The speaker transitions from her personal story to a broader observation about horror movies and life. Her tone becomes more thoughtful and her gaze is steady towards the audience. She is no longer just telling a story but sharing a reflective insight, creating a contemplative mood.",
+    "summary_reasoning": "Thoughtful tone, direct gaze."
+  },
+  {
+    "timestamp": 32.13,
+    "emotion": "serious",
+    "detailed_reasoning": "When delivering the line \"It doesn't really have to make sense for the fear to be real,\" the speaker's pace slows down, and her tone becomes more deliberate and emphatic. Her facial expression is focused, underscoring the importance of this central point in her talk. The shift in vocal delivery and expression marks a move to a more serious emotion.",
+    "summary_reasoning": "Slower pace, emphatic tone, focused expression."
+  },
+  {
+    "timestamp": 40.757,
+    "emotion": "calm",
+    "detailed_reasoning": "After making her serious point, the speaker reverts to a more narrative and explanatory tone. She discusses her intellectual understanding of her fears with a calm demeanor and neutral facial expression, using open hand gestures to illustrate her point. This returns the emotional state to one of calm reflection.",
+    "summary_reasoning": "Explanatory tone, neutral face, open gestures."
+  },
+  {
+    "timestamp": 57.358,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker lists all the ordinary, 'dangerous' activities other people engaged in, like using hand sanitizer instead of soap while camping in Vermont. As she does this, a warm, genuine smile spreads across her face, and her tone becomes light and anecdotal. This conveys a sense of fond amusement at the absurdity of her past fears when contrasted with the reality of everyday life.",
+    "summary_reasoning": "Warm smile, light tone, anecdotal content."
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp": 3.998,
+    "emotion": "serene",
+    "detailed_reasoning": "The speaker begins by describing a profound personal transformation, a 'musical epiphany.' Her tone is calm, her pace is measured, and she has a soft, gentle smile. The content of her speech, focusing on surrendering her ego and reconnecting with her 'true self,' combined with her tranquil demeanor, conveys a sense of serenity and inner peace.",
+    "summary_reasoning": "Calm tone, gentle smile, reflective words."
+  },
+  {
+    "timestamp": 12.292,
+    "emotion": "confident",
+    "detailed_reasoning": "After describing her transformation, she states, 'And I left Khan a changed woman.' She delivers this line with more vocal force and a definitive tone. Her posture becomes more upright and she looks directly at the audience, projecting a strong sense of confidence and self-assurance in her newfound identity.",
+    "summary_reasoning": "Stronger tone, upright posture, direct gaze."
+  },
+  {
+    "timestamp": 18.083,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker transitions into a narrative about her travels, specifically mentioning Barcelona. Her tone softens and becomes more descriptive and story-like. Her expression is neutral and thoughtful as she sets the scene for the next part of her story, indicating a shift into a reflective mood.",
+    "summary_reasoning": "Narrative tone, neutral expression, recounting past events."
+  },
+  {
+    "timestamp": 23.333,
+    "emotion": "joyful",
+    "detailed_reasoning": "When she mentions meeting the 'beautiful singer-songwriter named Marichel,' her entire demeanor changes. A bright, genuine smile appears on her face, her eyes light up, and her tone becomes significantly warmer and more enthusiastic. This sudden shift clearly indicates a feeling of joy and fond remembrance associated with this person.",
+    "summary_reasoning": "Bright smile, warm enthusiastic tone."
+  },
+  {
+    "timestamp": 28.542,
+    "emotion": "amazed",
+    "detailed_reasoning": "The speaker describes the coincidence of discovering that she and her new friend lived only 30 minutes apart. Her tone takes on a quality of lighthearted disbelief and wonder. Her facial expression, with slightly raised eyebrows and a persistent smile, conveys a sense of pleasant surprise and amazement at this serendipitous discovery.",
+    "summary_reasoning": "Tone of wonder, smiling, raised eyebrows."
+  },
+  {
+    "timestamp": 32.389,
+    "emotion": "playful",
+    "detailed_reasoning": "The use of the phrase 'we pinky swore' itself is inherently childish and playful. The speaker's tone becomes lighter and she makes a small gesture, reflecting the sweet, innocent nature of the promise. This conveys a fond and playful memory.",
+    "summary_reasoning": "Light tone, playful words, fond memory."
+  },
+  {
+    "timestamp": 37.381,
+    "emotion": "determined",
+    "detailed_reasoning": "There is a sharp shift in tone as she says, 'I started to dismantle the life I once knew and hated.' Her smile disappears, her expression becomes serious and focused, and her voice drops in pitch, becoming more resolute. The strong words combined with the serious delivery show a clear sense of determination.",
+    "summary_reasoning": "Serious expression, resolute tone, strong words."
+  },
+  {
+    "timestamp": 43.294,
+    "emotion": "proud",
+    "detailed_reasoning": "After describing the dismantling of her old life, she introduces her new one as 'my diamond life.' She says this with a confident smile and looks out at the audience. Her tone is full of positive ownership and satisfaction, indicating she is proud of the life she has built for herself.",
+    "summary_reasoning": "Confident smile, positive tone, ownership of 'diamond life'."
+  },
+  {
+    "timestamp": 46.801,
+    "emotion": "calm",
+    "detailed_reasoning": "Listing her spiritual practices like 'yoga, meditation, and Qigong,' the speaker's voice becomes noticeably calmer and more centered. Her pace slows slightly, and her body language is composed, reflecting the peaceful and grounding nature of these activities.",
+    "summary_reasoning": "Calm voice, slow pace, spiritual context."
+  },
+  {
+    "timestamp": 53.436,
+    "emotion": "happy",
+    "detailed_reasoning": "The speaker's mood lifts again as she recalls performing with her friend Marichel. A happy smile returns to her face, and her voice becomes more animated and bright. This shift indicates the positive and happy feelings she associates with making and performing music with her friend.",
+    "summary_reasoning": "Happy smile, bright tone, positive memory."
+  },
+  {
+    "timestamp": 57.485,
+    "emotion": "eager",
+    "detailed_reasoning": "Concluding her speech, the speaker announces she will sing the song she wrote. Her smile widens, and her tone becomes bright and inviting. She is looking forward to sharing her creation with the audience, and her entire demeanor conveys a sense of positive anticipation and eagerness.",
+    "summary_reasoning": "Wide smile, bright tone, anticipatory statement."
+  }
+]

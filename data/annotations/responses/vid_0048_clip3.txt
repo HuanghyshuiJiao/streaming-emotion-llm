@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 1.513,
+    "emotion": "shocked",
+    "detailed_reasoning": "The speaker begins his story by describing a shocking event. His eyes are wide, and his facial expression is intense and fixed. His vocal tone is low and serious, conveying the gravity of the memory he is recounting. The content of his words, \"his eyes like bug out,\" immediately sets a tone of horror and shock.",
+    "summary_reasoning": "Wide eyes, intense expression, serious tone."
+  },
+  {
+    "timestamp": 4.716,
+    "emotion": "horrified",
+    "detailed_reasoning": "Continuing the graphic description, the speaker's eyes remain wide with an expression of horror. His eyebrows are slightly raised, and his mouth is tense. The auditory cues, specifically the low, strained tone used to describe someone's face turning purple, enhance the feeling of horror as he relives the memory.",
+    "summary_reasoning": "Wide eyes, tense face, strained tone."
+  },
+  {
+    "timestamp": 11.624,
+    "emotion": "disturbed",
+    "detailed_reasoning": "As he delivers the most gruesome detail of the story—a knife in the back—his facial expression becomes more pained. He squints slightly and his lips tighten, showing his disturbance at the memory. His voice remains low and serious, emphasizing the horrific nature of what he witnessed.",
+    "summary_reasoning": "Pained expression, tight lips, serious tone."
+  },
+  {
+    "timestamp": 16.869,
+    "emotion": "distressed",
+    "detailed_reasoning": "The speaker's focus shifts from the victim to his own reaction. His tone becomes slightly higher-pitched and faster as he says \"screaming.\" His facial expression becomes more animated, with his eyebrows raising and a look of recalled panic, conveying his distress at the time.",
+    "summary_reasoning": "Higher pitch, faster pace, panicked expression."
+  },
+  {
+    "timestamp": 23.697,
+    "emotion": "annoyed",
+    "detailed_reasoning": "The narrative shifts to the aftermath with the police. The speaker's tone changes from distressed to one of annoyance. He mimics the police with a slightly mocking tone, and his facial expression hardens. His eyebrows furrow slightly, indicating his frustration with their demand for him to testify.",
+    "summary_reasoning": "Tone shift, mocking voice, furrowed brows."
+  },
+  {
+    "timestamp": 30.863,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker's frustration becomes more pronounced. He explicitly calls the courtroom \"dumb.\" His head is tilted down, but he looks up with a defiant and resentful expression. His tone is accusatory and exasperated, clearly showing his anger and frustration with the current situation.",
+    "summary_reasoning": "Derogatory word, defiant expression, accusatory tone."
+  },
+  {
+    "timestamp": 35.563,
+    "emotion": "helpless",
+    "detailed_reasoning": "After expressing his frustration, the speaker's demeanor shifts to one of helplessness. His voice softens and his pace slows as he says, \"I don't know what happened.\" His eyes look forward with a lost and confused expression, and his shoulders seem to slump slightly, indicating a sense of resignation and powerlessness.",
+    "summary_reasoning": "Softened voice, slower pace, lost expression."
+  },
+  {
+    "timestamp": 38.998,
+    "emotion": "desperate",
+    "detailed_reasoning": "In his final statement, the speaker's emotion intensifies to desperation. He looks directly forward, his eyes wide and his expression pleading. His voice is firm but carries an undertone of desperation as he insists on his lack of knowledge about Theo's actions. This conveys a final, urgent plea to be believed.",
+    "summary_reasoning": "Direct gaze, wide eyes, pleading tone."
+  }
+]

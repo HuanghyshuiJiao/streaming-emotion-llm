@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 1.112,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker's eyes are watery, and a tear is visible on his left cheek. His voice is soft and slightly shaky as he says, 'I want to be found.' This combination of visual and vocal cues indicates a strong feeling of sadness and vulnerability from the very beginning.",
+    "summary_reasoning": "Tearful, shaky voice."
+  },
+  {
+    "timestamp": 12.026,
+    "emotion": "melancholy",
+    "detailed_reasoning": "The speaker connects his feelings to his love for thrifting. Although he says he 'freaking loves' it, his tone is not joyful. Instead, his voice is soft and breaks slightly. A faint, sad smile appears, but his eyes remain sorrowful. This suggests a melancholy reflection rather than genuine happiness.",
+    "summary_reasoning": "Soft, breaking voice, sad smile."
+  },
+  {
+    "timestamp": 21.637,
+    "emotion": "empathetic",
+    "detailed_reasoning": "While talking about things that 'people didn't love,' the speaker's tone becomes more empathetic and sorrowful. His pace is slow and deliberate, and his expression is full of pathos. He seems to be projecting his own feelings of being unloved onto these inanimate objects, showing a deep empathy born from his own sadness.",
+    "summary_reasoning": "Sorrowful tone, slow pace, pained expression."
+  },
+  {
+    "timestamp": 42.363,
+    "emotion": "dejected",
+    "detailed_reasoning": "The speaker lists the flaws of thrifted items (a hole, a stain, a scratch, a missing button). His voice remains low and somber, and his gaze is often directed downwards, away from the camera. This suggests feelings of dejection and worthlessness, as he uses these flawed items as a metaphor for his own perceived imperfections.",
+    "summary_reasoning": "Somber tone, downward gaze."
+  },
+  {
+    "timestamp": 51.737,
+    "emotion": "vulnerable",
+    "detailed_reasoning": "The speaker explicitly connects the flawed items to himself by saying, 'And I feel like that.' His voice is quiet and heavy with emotion, and his facial expression conveys deep sadness and resignation. This is a moment of raw vulnerability where he directly states his feelings of being broken or unwanted.",
+    "summary_reasoning": "Quiet, emotional voice, direct admission of feeling."
+  }
+]

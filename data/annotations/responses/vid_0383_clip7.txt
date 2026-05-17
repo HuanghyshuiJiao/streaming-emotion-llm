@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 1.292,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker begins his performance with a very serious and measured tone. His voice is low and steady, and he looks down at his phone, indicating he is reading a prepared piece. The content about hiding stats to prevent the romanticization of tragedy sets a somber, serious mood from the outset.",
+    "summary_reasoning": "Low, steady voice. Serious content."
+  },
+  {
+    "timestamp": 8.76,
+    "emotion": "sad",
+    "detailed_reasoning": "The mood shifts from generally somber to specifically sad with the mention of 'suicide notes that were never left behind.' The speaker's delivery remains low and deliberate, but the explicit mention of such a tragic subject, combined with the idea of unspoken pain ('never left behind'), infuses the performance with a clear sense of sadness and loss.",
+    "summary_reasoning": "Words 'suicide notes'. Melancholy tone."
+  },
+  {
+    "timestamp": 14.727,
+    "emotion": "impassioned",
+    "detailed_reasoning": "The speaker's energy completely changes. He looks up from his phone, engaging with the audience directly for the first time. His volume increases, his pitch rises, and he uses a hand gesture for emphasis. The rhetorical question 'who's gonna teach these boys to cry' is delivered not as a calm inquiry but as an urgent, impassioned plea, shifting the emotion from sadness to a more active, pleading state.",
+    "summary_reasoning": "Louder voice, looks at audience, hand gestures."
+  },
+  {
+    "timestamp": 18.351,
+    "emotion": "serious",
+    "detailed_reasoning": "Following the impassioned plea, the speaker's tone becomes firm and declarative. He looks back down at his phone, and his voice returns to a lower, more controlled register. He delivers the line 'A man with nothing to lose will view everything as something to take' as a stark, factual statement, creating a serious and cautionary atmosphere.",
+    "summary_reasoning": "Firm, declarative tone. Lower register."
+  },
+  {
+    "timestamp": 25.518,
+    "emotion": "intense",
+    "detailed_reasoning": "Building on the serious tone, the speaker's delivery gains a threatening intensity. As he says the African proverb, his voice grows louder and more forceful, culminating in the line 'will burn the village down.' He looks up with a piercing gaze, and the statement is delivered with conviction, conveying the intense and destructive consequences of neglect.",
+    "summary_reasoning": "Forceful voice, piercing gaze, powerful words."
+  },
+  {
+    "timestamp": 27.99,
+    "emotion": "defiant",
+    "detailed_reasoning": "This marks the climax of the performance's energy. The camera switches to a wide view as the speaker dramatically spreads his arms wide open. This powerful, open gesture, combined with a steady, unwavering vocal delivery describing the boy watching the destruction, conveys a sense of defiant power born from pain. He is embodying the character's final, destructive act.",
+    "summary_reasoning": "Arms spread wide, steady and powerful voice."
+  },
+  {
+    "timestamp": 34.928,
+    "emotion": "tragic",
+    "detailed_reasoning": "After the peak of defiance, the energy recedes into tragedy. The speaker's voice softens and slows down significantly. The words 'ease his way into the fire' are spoken with a sorrowful, almost gentle tone. This final image of seeking warmth in self-destruction, delivered with such quiet sadness, transforms the defiance into a profound sense of tragedy and hopelessness.",
+    "summary_reasoning": "Soft, slow voice. Sorrowful tone. Sad imagery."
+  }
+]

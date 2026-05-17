@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 19.357,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker is commenting on a funny video clip of a bride laughing uncontrollably at her wedding. His tone of voice is light and tinged with laughter, mirroring the audience's amused reaction to the clip being shown. Although he is not visible, his vocal cues clearly indicate amusement.",
+    "summary_reasoning": "Laughing tone, humorous context."
+  },
+  {
+    "timestamp": 29.130,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker is now visible on stage. He has a slight smile and a light, conversational tone as he comments on the poor timing in the video clip. His delivery is relaxed and humorous, engaging with the audience's shared amusement. The phrase \"so lousy, isn't it?\" is delivered with a comedic, rhetorical flair.",
+    "summary_reasoning": "Slight smile, light tone, humorous comment."
+  },
+  {
+    "timestamp": 32.136,
+    "emotion": "curious",
+    "detailed_reasoning": "The speaker transitions from the humorous anecdote to a more educational point. He poses a rhetorical question, \"So how do you create endorphins?\" His tone shifts from amused to inquisitive and engaging. His facial expression becomes more neutral and focused, signaling a change in topic and inviting the audience to think.",
+    "summary_reasoning": "Rhetorical question, focused expression, tone shift."
+  },
+  {
+    "timestamp": 34.300,
+    "emotion": "positive",
+    "detailed_reasoning": "After asking the question, the speaker provides the answer with a warm and positive tone: \"you make people laugh.\" A gentle smile appears on his face, and his overall demeanor is friendly and encouraging, reflecting the positive nature of the subject matter.",
+    "summary_reasoning": "Warm tone, gentle smile."
+  },
+  {
+    "timestamp": 41.352,
+    "emotion": "enthusiastic",
+    "detailed_reasoning": "The speaker lists the positive effects of laughter (creativity, relaxation, focus). His vocal tone becomes more energetic and passionate. He uses hand gestures for emphasis, and his facial expression is animated, conveying his enthusiasm for the benefits he is describing.",
+    "summary_reasoning": "Energetic tone, animated gestures, passionate delivery."
+  },
+  {
+    "timestamp": 49.426,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker synthesizes his points and introduces his own term, \"the angel's cocktail.\" He delivers this phrase with a strong, confident tone and a proud smile. His body language is open and self-assured, indicating his command of the material and his satisfaction in presenting this key concept.",
+    "summary_reasoning": "Strong tone, proud smile, confident posture."
+  },
+  {
+    "timestamp": 54.034,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker creates a dramatic shift by introducing a contrast. His tone becomes lower, slower, and more somber as he mentions \"the devil's cocktail.\" His previously smiling expression turns serious and intense, and his movements cease, creating a moment of suspense and signaling a turn towards a more grave topic.",
+    "summary_reasoning": "Lower tone, slower pace, serious expression."
+  }
+]

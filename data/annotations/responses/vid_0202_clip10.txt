@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 5.159,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her story with a calm and reflective tone. Her facial expression is neutral, and her voice is steady as she introduces the serious topic of her medication history. This sets a composed baseline for the narrative.",
+    "summary_reasoning": "Calm tone, neutral expression, steady voice."
+  },
+  {
+    "timestamp": 16.378,
+    "emotion": "proud",
+    "detailed_reasoning": "The speaker's tone shifts to one of irony and a hint of pride. She delivers the line about having a \"backhanded sense of pride\" with a slight, wry smile and a more engaged, slightly performative tone, suggesting she found a dark humor or sense of accomplishment in the absurdity of her situation.",
+    "summary_reasoning": "Ironic tone, wry smile."
+  },
+  {
+    "timestamp": 23.084,
+    "emotion": "overwhelmed",
+    "detailed_reasoning": "Describing her emotional state as \"up and down, and both at the same time,\" her tone becomes more dynamic and her hand gestures become more animated, mirroring the chaotic feelings she's describing. This conveys a sense of being overwhelmed by conflicting emotions.",
+    "summary_reasoning": "Dynamic tone, animated gestures, chaotic words."
+  },
+  {
+    "timestamp": 26.591,
+    "emotion": "doubtful",
+    "detailed_reasoning": "The speaker's tone becomes more serious and introspective. Her facial expression shows a lack of certainty, and her voice loses its previous ironic edge as she says she \"didn't trust\" feeling good. This indicates a feeling of doubt and skepticism about her own emotional state.",
+    "summary_reasoning": "Serious tone, uncertain expression."
+  },
+  {
+    "timestamp": 30.94,
+    "emotion": "confused",
+    "detailed_reasoning": "Posing rhetorical questions like \"When is it a symptom?\", the speaker's voice rises in pitch, her brows are slightly furrowed, and she gestures with her hands open as if seeking an answer. This combination of vocal and visual cues expresses a deep sense of confusion and the difficulty of interpreting her own feelings.",
+    "summary_reasoning": "Questioning tone, raised pitch, furrowed brows."
+  },
+  {
+    "timestamp": 40.298,
+    "emotion": "weary",
+    "detailed_reasoning": "The speaker describes a long period of \"two and a half years\" of struggle. Her vocal pace is steady but carries a tone of exhaustion. Her eyes are slightly downcast, and her body language is subdued, reflecting the weariness of a prolonged and difficult journey.",
+    "summary_reasoning": "Exhausted tone, subdued body language."
+  },
+  {
+    "timestamp": 50.493,
+    "emotion": "grateful",
+    "detailed_reasoning": "When mentioning the \"steadfast support\" of her friends, family, and psychiatrist, the speaker's tone softens and becomes warmer. A slight, genuine smile appears, indicating a shift to a feeling of gratitude for the people who helped her through her struggle.",
+    "summary_reasoning": "Soft tone, warm expression, slight smile."
+  },
+  {
+    "timestamp": 57.477,
+    "emotion": "relieved",
+    "detailed_reasoning": "In the final sentence, the speaker states, \"I stabilized.\" Her delivery is conclusive, her posture relaxes, and she takes a visible breath. Her facial expression softens into a gentle, peaceful smile, conveying a profound sense of relief and calm after a long struggle.",
+    "summary_reasoning": "Relaxed posture, gentle smile, conclusive tone."
+  }
+]

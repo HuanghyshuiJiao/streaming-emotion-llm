@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 2.375,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker begins by talking about his past. His tone is conversational and his body language is open as he starts to tell a personal story. He is looking back on his life, setting a reflective mood for the narrative that is about to unfold.",
+    "summary_reasoning": "Storytelling tone, past-tense narrative."
+  },
+  {
+    "timestamp": 8.263,
+    "emotion": "assertive",
+    "detailed_reasoning": "After comparing his past actions to another's, the speaker's tone becomes more forceful and he points directly at the camera when he says, 'but I was wild.' This combination of a more emphatic vocal delivery and a direct gesture indicates he is strongly asserting this fact about his past self.",
+    "summary_reasoning": "Emphatic tone, pointing gesture."
+  },
+  {
+    "timestamp": 9.946,
+    "emotion": "somber",
+    "detailed_reasoning": "The mood shifts as the speaker reveals, 'my mother died when I was real young.' The topic itself is tragic, and his vocal tone drops to a more serious, lower register. The pace of his speech slows, conveying the gravity and sadness of this memory.",
+    "summary_reasoning": "Sad topic, lower tone, slower pace."
+  },
+  {
+    "timestamp": 18.118,
+    "emotion": "resigned",
+    "detailed_reasoning": "When describing how his family sent him away and he 'only got worse,' the speaker's tone is matter-of-fact but carries a sense of grim acceptance. He's not actively sad or angry, but rather stating the negative outcome of that period with a sense of inevitability, as if it were an unfortunate but accepted fact of his life.",
+    "summary_reasoning": "Matter-of-fact tone, negative content."
+  },
+  {
+    "timestamp": 22.399,
+    "emotion": "dramatic",
+    "detailed_reasoning": "The speaker builds narrative tension by stating his 'big moment' also happened in a barn, pausing, and then delivering the shocking confession, 'I burned it down.' The delivery is intentionally dramatic, marking this as a pivotal and impactful event in his story.",
+    "summary_reasoning": "Narrative tension, shocking confession."
+  },
+  {
+    "timestamp": 25.127,
+    "emotion": "grateful",
+    "detailed_reasoning": "There is a significant shift in the speaker's tone as he talks about his Aunt Minnie taking him in. His voice becomes much softer and warmer. This change, coupled with the words about being loved for the first time, conveys a deep sense of gratitude and relief for this turning point in his life.",
+    "summary_reasoning": "Softer warm tone, emotional words."
+  },
+  {
+    "timestamp": 33.269,
+    "emotion": "sincere",
+    "detailed_reasoning": "When explaining how his aunt's love 'stuck with me,' the speaker's tone is incredibly earnest and heartfelt. He points toward his own chest, a gesture that reinforces the personal and deeply felt truth of his words. He is speaking from the heart about the profound impact this had on him.",
+    "summary_reasoning": "Earnest tone, heartfelt words, chest gesture."
+  },
+  {
+    "timestamp": 39.286,
+    "emotion": "peaceful",
+    "detailed_reasoning": "As he concludes his story, stating that love grew until 'all the hate was gone,' his tone is calm and resolved. He uses open hand gestures, signifying release. The narrative has reached its conclusion, and his delivery reflects a sense of inner peace and the resolution of his past turmoil.",
+    "summary_reasoning": "Calm tone, open gestures, narrative resolution."
+  }
+]

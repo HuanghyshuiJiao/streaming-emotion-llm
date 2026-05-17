@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "calm",
+    "detailed_reasoning": "The video begins with the speaker in a seated position, speaking in a measured and even tone. His facial expression is neutral, and his initial hand gestures are relaxed and illustrative of the story he is beginning to tell. He is simply setting the scene for his narrative, establishing a calm, storytelling baseline.",
+    "summary_reasoning": "Measured tone, neutral expression, relaxed posture."
+  },
+  {
+    "timestamp": 18.13,
+    "emotion": "sad",
+    "detailed_reasoning": "After explaining the positive intentions behind the project, the speaker's tone shifts. He pauses, his pace slows, and his voice drops slightly as he delivers the line \"all the trees... they just died.\" Visually, his gaze shifts downward and to the side, and his previously open posture becomes more subdued. This combination of vocal and visual cues signals a turn towards disappointment and sadness about the negative outcome.",
+    "summary_reasoning": "Slow pace, lower tone, downward gaze."
+  },
+  {
+    "timestamp": 31.03,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker generalizes the experience of loss, shifting from the specific story of the trees to the universal concept of how children learn about death from a pet or grandparent. His tone becomes more detached and contemplative, and his facial expression is serious and thoughtful. The emotion is no longer personal sadness but a more general, somber reflection on a serious topic.",
+    "summary_reasoning": "Detached tone, serious expression, contemplative."
+  },
+  {
+    "timestamp": 36.841,
+    "emotion": "serious",
+    "detailed_reasoning": "He directly connects the previous somber thought back to the story, stating \"In this school by Donald Barlmay, the children learned this lesson well.\" His tone is firm and direct, and he uses a pointing gesture to emphasize his point. His facial expression is very serious, conveying the gravity of the lesson learned by the children in the story. The mood is no longer just reflective but pointed and serious.",
+    "summary_reasoning": "Firm tone, direct gaze, pointing gesture."
+  },
+  {
+    "timestamp": 47.743,
+    "emotion": "frustrated",
+    "detailed_reasoning": "After a long pause, the speaker's demeanor changes dramatically. He turns his body, his voice rises in volume and pitch, and his arms extend outwards in a gesture of exasperation as he reveals \"They were orange trees.\" He continues with \"I don't know how they died,\" maintaining the wide-armed gesture of helplessness and bewilderment. This sudden burst of energy, combined with the vocal and physical expression, clearly indicates frustration with the senselessness of the event.",
+    "summary_reasoning": "Louder voice, rising pitch, wide arm gestures."
+  },
+  {
+    "timestamp": 51.711,
+    "emotion": "defeated",
+    "detailed_reasoning": "Following the outburst of frustration, the speaker's energy completely collapses. He repeats the line \"They just died,\" but this time his voice is quiet and his posture slumps. His arms drop, and he looks down, conveying a sense of resignation and finality. The previous frustration has given way to a feeling of defeat and quiet sadness.",
+    "summary_reasoning": "Quiet voice, slumped posture, energy drop."
+  }
+]

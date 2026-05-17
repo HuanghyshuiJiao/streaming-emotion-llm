@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 6.142,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker is recounting a past period of his life. His tone is calm and measured, and his facial expression is neutral with slightly furrowed brows, suggesting he is thinking back on this time with a degree of seriousness and reflection.",
+    "summary_reasoning": "Calm tone, neutral expression, recounting past."
+  },
+  {
+    "timestamp": 14.457,
+    "emotion": "disappointed",
+    "detailed_reasoning": "The speaker describes a year of \"unhealthy living once again.\" His eyebrows are raised and furrowed, his lips are slightly pursed, and his tone carries a sense of regret and disappointment in himself for slipping back into old habits.",
+    "summary_reasoning": "Furrowed brows, regretful tone, negative words."
+  },
+  {
+    "timestamp": 27.401,
+    "emotion": "motivated",
+    "detailed_reasoning": "The speaker's tone shifts as he mentions proposing to his wife. He describes it as a \"big push\" and the motivation for his final weight loss. His expression becomes more focused and intense, and his speech gains a slight urgency, indicating a newfound sense of motivation and purpose.",
+    "summary_reasoning": "Intense expression, urgent tone, describes motivation."
+  },
+  {
+    "timestamp": 39.105,
+    "emotion": "ashamed",
+    "detailed_reasoning": "He explicitly states he didn't want to be the \"overweight guy that I'd been ashamed of for so many years.\" His facial expression is pained, with deep furrows in his brow and a downward turn of his mouth. His tone is somber, directly conveying the feeling of shame associated with his past self.",
+    "summary_reasoning": "Pained expression, somber tone, uses word \"ashamed\"."
+  },
+  {
+    "timestamp": 46.942,
+    "emotion": "determined",
+    "detailed_reasoning": "After his girlfriend said yes, he describes the moment as \"this was it.\" His tone becomes firm and decisive. He says there was \"finally a clock on the rest of my weight loss,\" and his facial expression is serious and focused, conveying a strong sense of determination and commitment.",
+    "summary_reasoning": "Firm tone, serious expression, decisive words."
+  }
+]

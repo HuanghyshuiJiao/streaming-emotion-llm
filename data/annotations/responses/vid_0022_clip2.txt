@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 3.614,
+    "emotion": "shy",
+    "detailed_reasoning": "The speaker begins by talking about holding hands. He delivers the line with a slight, hesitant smile and looks down, avoiding eye contact. His body language and the soft, slightly embarrassed tone in his voice suggest a feeling of shyness or bashfulness about the romantic interaction.",
+    "summary_reasoning": "Hesitant smile, downward gaze, soft tone."
+  },
+  {
+    "timestamp": 12.262,
+    "emotion": "admiring",
+    "detailed_reasoning": "The speaker's tone shifts as he starts describing the girl. He talks about the pencils she sharpens with a pocket knife. His voice becomes more animated and engaged, and he has a small smile, indicating he finds this quirky, rebellious trait admirable and interesting.",
+    "summary_reasoning": "Animated tone, engaged expression, small smile."
+  },
+  {
+    "timestamp": 18.208,
+    "emotion": "amazed",
+    "detailed_reasoning": "When describing how high the gym ceiling is, the speaker's eyes widen and he looks up. His voice gets louder and his pitch rises on the words '5,000 feet, man'. This vocal emphasis and wide-eyed expression convey a sense of amazement and awe at her ability to get a pencil stuck up there.",
+    "summary_reasoning": "Wide eyes, upward gaze, louder, higher-pitched voice."
+  },
+  {
+    "timestamp": 23.393,
+    "emotion": "longing",
+    "detailed_reasoning": "The speaker's expression softens, and he looks up dreamily at the ceiling as if picturing the pencils. His voice becomes quieter and more wistful as he says he stands under them, 'just hoping one of them falls.' This combination of dreamy expression and hopeful tone indicates a feeling of longing.",
+    "summary_reasoning": "Dreamy expression, soft wistful tone, looking up."
+  },
+  {
+    "timestamp": 32.804,
+    "emotion": "sentimental",
+    "detailed_reasoning": "After expressing his hope to get one of her pencils, he talks about keeping it as a 'souvenir to remember her by.' His voice is very soft and his smile is gentle. This demonstrates a shift to a more sentimental and tender emotion, valuing the object as a memento of his affection.",
+    "summary_reasoning": "Soft voice, gentle smile, tender expression."
+  },
+  {
+    "timestamp": 37.709,
+    "emotion": "determined",
+    "detailed_reasoning": "The speaker's tone becomes more forceful and urgent. He leans forward slightly and says, 'I gotta find a way to get an attention, man.' His facial expression is more serious and focused, conveying a sense of determination to take action to get closer to the girl.",
+    "summary_reasoning": "Forceful tone, urgent delivery, serious expression."
+  },
+  {
+    "timestamp": 44.596,
+    "emotion": "hopeful",
+    "detailed_reasoning": "The speaker's demeanor softens completely. He looks directly at the camera with a gentle, sincere expression. When he says he wants to turn 'harm into harmony again,' his voice is filled with warmth and a hopeful tone, revealing his genuine desire to bring happiness and peace to her life.",
+    "summary_reasoning": "Soft expression, warm and sincere tone."
+  },
+  {
+    "timestamp": 58.489,
+    "emotion": "romantic",
+    "detailed_reasoning": "In the final line, 'She just needs a reason to smile again, and I want to be that reason,' the speaker's voice is at its softest and most tender. He has a small, loving smile and a deeply sincere look in his eyes. This combination of vocal tenderness and affectionate facial expression culminates in a purely romantic and heartfelt declaration.",
+    "summary_reasoning": "Tender voice, loving smile, sincere eyes."
+  }
+]

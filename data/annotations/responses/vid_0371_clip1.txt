@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her story with a clear, steady voice and a neutral, composed facial expression. Her posture is upright and her delivery is measured, establishing the calm tone of a storyteller setting a scene.",
+    "summary_reasoning": "Steady voice, neutral expression, storyteller tone."
+  },
+  {
+    "timestamp": 4.558,
+    "emotion": "loving",
+    "detailed_reasoning": "When mentioning that the girl \"loved her father,\" the speaker brings both hands to her chest in a gesture that visually represents deep affection and sincerity. Her facial expression softens, and her tone becomes warmer, aligning with the loving emotion described in the text.",
+    "summary_reasoning": "Hands on chest, soft expression, warm tone."
+  },
+  {
+    "timestamp": 8.104,
+    "emotion": "disdainful",
+    "detailed_reasoning": "As the speaker introduces the \"stepmother,\" her tone shifts to become lower and more serious. Her facial expression hardens slightly, especially on the words \"cold, cruel woman,\" conveying a clear sense of disdain for the story's antagonist.",
+    "summary_reasoning": "Lower tone, serious expression, negative words."
+  },
+  {
+    "timestamp": 17.679,
+    "emotion": "sad",
+    "detailed_reasoning": "Describing the protagonist's suffering, the speaker's voice becomes softer and carries a melancholic quality. Her facial expression turns somber, reflecting sympathy and sadness for the character's difficult life.",
+    "summary_reasoning": "Soft voice, melancholic tone, somber expression."
+  },
+  {
+    "timestamp": 25.932,
+    "emotion": "wise",
+    "detailed_reasoning": "The speaker transitions from storytelling to directly addressing the audience with a moral saying. Her tone becomes more didactic and enunciated, and her facial expression is serious and knowing, as if imparting a piece of wisdom.",
+    "summary_reasoning": "Didactic tone, serious expression, clear enunciation."
+  },
+  {
+    "timestamp": 32.738,
+    "emotion": "confident",
+    "detailed_reasoning": "When stating that the stepmother's cruelty will return to her, the speaker's voice becomes firm and resolute. Her direct eye contact and the certainty in her tone convey confidence in the story's moral justice.",
+    "summary_reasoning": "Firm voice, resolute tone, direct eye contact."
+  },
+  {
+    "timestamp": 39.126,
+    "emotion": "sincere",
+    "detailed_reasoning": "The speaker's demeanor shifts to one of heartfelt appeal. Her voice softens, her expression becomes gentle, and she opens her arms in a wide, welcoming gesture. This combination conveys deep sincerity as she delivers the ultimate moral: \"be kind.\"",
+    "summary_reasoning": "Soft voice, gentle expression, open arm gesture."
+  },
+  {
+    "timestamp": 47.717,
+    "emotion": "dramatic",
+    "detailed_reasoning": "Resuming the narrative, the speaker's tone becomes more dramatic to introduce a new conflict. She uses a sharp, forceful arm gesture to illustrate how the stepmother \"forced\" the girl out of the house, adding a physical intensity that creates tension and signals a dramatic turn in the story.",
+    "summary_reasoning": "Dramatic tone, forceful arm gesture, new conflict."
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker begins with a powerful and declarative tone. Her voice is strong, and her arms are outstretched in an open, expressive gesture. Her facial expression is intense and focused. The words 'Darkness departed' and 'glory' convey a sense of triumph and spiritual fervor, setting a passionate and intense mood from the very start.",
+    "summary_reasoning": "Strong tone, outstretched arms, intense expression."
+  },
+  {
+    "timestamp": 15.261,
+    "emotion": "grateful",
+    "detailed_reasoning": "The narrative becomes more personal and intimate. The speaker's tone softens significantly as she recounts the man looking her in the eyes and saying, 'daughter, I'll take the blame.' Her facial expression also softens, conveying a sense of awe and deep thankfulness for this act of grace. The shift is from a general passionate declaration to a specific, personal moment of receiving mercy.",
+    "summary_reasoning": "Softer tone, softened facial expression, personal narrative."
+  },
+  {
+    "timestamp": 20.45,
+    "emotion": "somber",
+    "detailed_reasoning": "The scene she describes turns dark and violent with 'Handcuffs were placed on this man and he was thrown to the ground.' Her voice drops in pitch and becomes heavier. Her facial expression turns to one of pain and distress, reflecting the 'horrendous' events she is narrating. The emotion shifts from gratitude to a somber reflection on the suffering involved.",
+    "summary_reasoning": "Lower pitch, pained expression, dark narrative."
+  },
+  {
+    "timestamp": 34.486,
+    "emotion": "guilty",
+    "detailed_reasoning": "The speaker explicitly takes responsibility for the man's suffering with the words, 'I did this to him.' Her tone is confessional and heavy with remorse. Her eyes look down slightly, and her expression is deeply pained, indicating a strong feeling of personal guilt and sadness over her actions ('My lying, my stealing, my cheating').",
+    "summary_reasoning": "Confessional tone, pained expression, direct admission of fault."
+  },
+  {
+    "timestamp": 41.113,
+    "emotion": "sad",
+    "detailed_reasoning": "While still feeling guilty, the focus shifts to the immense suffering the man endured for her ('spent three days in the hell that I was to go to'). Her voice is filled with sorrow, reflecting on the magnitude of his sacrifice. The emotion evolves from personal guilt to a profound sadness for the pain he experienced on her behalf. This is amplified by the visual cut to a depiction of Jesus on the cross, reinforcing the theme of suffering.",
+    "summary_reasoning": "Sorrowful tone, focus on another's suffering, crucifixion imagery."
+  },
+  {
+    "timestamp": 49.977,
+    "emotion": "relieved",
+    "detailed_reasoning": "The emotional tone shifts dramatically with the declaration, 'I was found innocent.' Her voice lifts in pitch and gains a sense of lightness and wonder. After describing the weight of her guilt and his suffering, this statement brings a powerful sense of release and deliverance. Her posture begins to open up again, suggesting the lifting of a great burden.",
+    "summary_reasoning": "Lighter tone, lifted pitch, words of innocence."
+  },
+  {
+    "timestamp": 53.791,
+    "emotion": "adoration",
+    "detailed_reasoning": "The speaker's emotion builds to a final, powerful crescendo. Her arms are fully outstretched again, her voice swells with passion and conviction as she describes this ultimate form of love. Her facial expression is one of intense reverence and love. The final statement, 'This man died for me,' is delivered with a mix of awe, gratitude, and deep adoration for the sacrifice made.",
+    "summary_reasoning": "Swelling voice, outstretched arms, reverent expression."
+  }
+]

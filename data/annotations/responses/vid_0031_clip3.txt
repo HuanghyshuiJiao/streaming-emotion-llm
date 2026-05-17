@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 9.703,
+    "emotion": "grave",
+    "detailed_reasoning": "The speaker begins with a very serious and deliberate tone, defining the 'crime of criminal solicitation.' Her facial expression is stern, her gaze is fixed, and her voice is low and measured. She emphasizes each verb ('induce,' 'encourage,' 'entreat,' 'persuade') with legalistic precision, culminating in the word 'rape,' which is delivered with significant weight. This combination of a formal, legalistic text and a solemn, unwavering delivery creates a grave and serious atmosphere.",
+    "summary_reasoning": "Stern face, low measured voice, serious legal text."
+  },
+  {
+    "timestamp": 15.069,
+    "emotion": "pained",
+    "detailed_reasoning": "Following the grave statement, there is a long pause of over five seconds. During this time, the speaker breaks eye contact, looks down, and her expression shifts from sternness to one of visible pain and sorrow. She appears to be steeling herself for what she is about to say next. This non-verbal transition clearly indicates a shift from a detached, legalistic tone to a deeply personal and painful one.",
+    "summary_reasoning": "Long pause, downward gaze, sorrowful expression."
+  },
+  {
+    "timestamp": 19.835,
+    "emotion": "disgusted",
+    "detailed_reasoning": "The speaker's emotion changes as she begins quoting the perpetrators. Her voice takes on a sharp, slightly higher-pitched, and mocking quality, dripping with contempt as she says, 'Hold her down. Stick it to her. Make her moan.' Her facial muscles are tense, and there is a subtle sneer on her lips, conveying intense disgust and revulsion at the words she is repeating.",
+    "summary_reasoning": "Mocking tone, tense face, quoting horrific words."
+  },
+  {
+    "timestamp": 23.98,
+    "emotion": "angry",
+    "detailed_reasoning": "Immediately after quoting the disgusting phrases, she looks directly at the camera. Her expression hardens, her jaw sets, and her voice becomes a low, cold, and forceful condemnation. The statement 'These three men did worse than nothing' is delivered not with disgust, but with a clear, focused anger directed at the men she is describing.",
+    "summary_reasoning": "Hard stare, set jaw, cold forceful tone."
+  },
+  {
+    "timestamp": 28.84,
+    "emotion": "outraged",
+    "detailed_reasoning": "The speaker's anger escalates into outrage as she lists the actions of the bystanders. Her voice rises in pitch and tempo, creating a crescendo as she says, 'They cheered and they clapped and they rooted the others on.' This vocal shift, combined with the shocking nature of the actions being described, transforms her anger into a more dynamic and explosive state of outrage.",
+    "summary_reasoning": "Rising vocal pitch and tempo, listing shocking actions."
+  },
+  {
+    "timestamp": 35.277,
+    "emotion": "anguished",
+    "detailed_reasoning": "The outrage culminates in a moment of pure anguish. As she describes the outcome, her voice strains and cracks with emotion. The repetition of the word 'raped' is delivered with increasing pain and despair, her facial expression mirroring this deep suffering. The raw emotion in her voice and the visceral look of pain on her face convey a sense of profound anguish and horror.",
+    "summary_reasoning": "Voice cracking, pained expression, traumatic word repetition."
+  },
+  {
+    "timestamp": 44.803,
+    "emotion": "defiant",
+    "detailed_reasoning": "After a long, emotionally heavy pause, the speaker's demeanor shifts one last time. She looks up, locking her gaze intensely with the camera. Her expression is confrontational. Her voice is low again, but now it's firm and challenging as she asks the rhetorical question, 'Tell me, is that nothing?' The pain is still present in her eyes, but it is now overlaid with a powerful defiance, challenging anyone to dismiss the gravity of the events.",
+    "summary_reasoning": "Intense eye contact, challenging tone, confrontational question."
+  }
+]

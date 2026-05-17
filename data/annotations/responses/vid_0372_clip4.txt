@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 6.393,
+    "emotion": "sad",
+    "detailed_reasoning": "The video begins with the speaker looking directly at the camera with a somber expression. Her eyebrows are slightly furrowed, her eyes appear watery, and her mouth is set in a neutral-to-sad line. Her initial words, 'I wish...', are delivered in a soft, low, and melancholic tone, immediately establishing a feeling of sadness and longing.",
+    "summary_reasoning": "Somber expression, watery eyes, melancholic tone."
+  },
+  {
+    "timestamp": 11.301,
+    "emotion": "melancholy",
+    "detailed_reasoning": "The speaker's expression shifts to a wry, almost bitter smile. She tilts her head and her tone becomes slightly more animated but still carries a heavy, sad undertone. She's describing her situation with a fantastical metaphor ('like it were some sort of spell'), which suggests a sense of detached, melancholic irony about her own feelings.",
+    "summary_reasoning": "Wry smile, ironic tone, sad metaphor."
+  },
+  {
+    "timestamp": 18.192,
+    "emotion": "hopeful",
+    "detailed_reasoning": "Her expression softens into a more genuine, hopeful smile, and her eyes widen slightly. The fantasy metaphor continues ('waiting for my prince'), but the tone is now lighter and more wistful, as if she is momentarily lost in a pleasant daydream. This marks a brief shift from melancholic irony to a more sincere, albeit fleeting, hopefulness.",
+    "summary_reasoning": "Genuine smile, wide eyes, wistful tone."
+  },
+  {
+    "timestamp": 31.213,
+    "emotion": "resigned",
+    "detailed_reasoning": "After a long pause, the hopeful expression completely fades. She looks down, then back at the camera with a flat, emotionless expression. Her tone is monotonous and quiet as she says, 'Don't worry. I won't say anything anymore.' This combination of flat affect, quiet tone, and defeated words indicates a shift to resignation and emotional shutdown.",
+    "summary_reasoning": "Flat expression, monotonous tone, looking down."
+  },
+  {
+    "timestamp": 42.09,
+    "emotion": "regretful",
+    "detailed_reasoning": "Her expression becomes pained, and she looks away, avoiding eye contact. She stammers slightly ('I didn't...') and her voice is filled with self-reproach. The words themselves express regret for having brought up the topic. This combination of averted gaze, pained expression, and apologetic tone clearly conveys a feeling of regret.",
+    "summary_reasoning": "Pained expression, averted gaze, stammering, self-reproachful tone."
+  },
+  {
+    "timestamp": 52.739,
+    "emotion": "cynical",
+    "detailed_reasoning": "She looks back at the camera with a wry, almost bitter expression, squinting one eye slightly. Her tone is laced with sarcasm as she says, 'I bet you're sorry you asked how I was doing.' This is a defense mechanism, using cynicism to mask her underlying pain and push the other person away.",
+    "summary_reasoning": "Wry expression, sarcastic tone, cynical words."
+  },
+  {
+    "timestamp": 57.793,
+    "emotion": "despairing",
+    "detailed_reasoning": "Her cynical facade crumbles completely. Her face contorts in pain, her eyebrows furrow deeply, and she looks genuinely distressed. Her voice is strained and wavers as she asks, 'How am I doing anyway?' This final question, delivered with such raw visual and vocal emotion, reveals a state of deep despair and hopelessness.",
+    "summary_reasoning": "Pained expression, furrowed brow, strained voice."
+  }
+]

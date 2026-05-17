@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 1.993,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins with a slow, low-pitched, and deliberate tone. His facial expression is neutral to slightly downturned, and he maintains steady eye contact with the camera. The words 'day of reckoning' establish a grave context, and his delivery matches this seriousness.",
+    "summary_reasoning": "Slow, low voice. Neutral expression. Grave words."
+  },
+  {
+    "timestamp": 8.279,
+    "emotion": "somber",
+    "detailed_reasoning": "Continuing the narrative, the speaker's tone remains low and his pace is measured. He recounts a 'victory,' but his voice lacks any triumphant inflection. His expression is somber, with a slight furrow in his brow, suggesting the gravity of the events being described.",
+    "summary_reasoning": "Low tone. Measured pace. Somber expression."
+  },
+  {
+    "timestamp": 18.35,
+    "emotion": "tense",
+    "detailed_reasoning": "The speaker describes his father arriving with an army, promising to defend the city. His voice gains a slight tension and his pace quickens slightly. His eyes narrow subtly, conveying a sense of foreboding and anticipation about his father's true intentions.",
+    "summary_reasoning": "Tense voice. Narrowed eyes. Foreboding words."
+  },
+  {
+    "timestamp": 26.258,
+    "emotion": "cynical",
+    "detailed_reasoning": "When saying his father was 'never one to choose the losing side,' the speaker's lips purse slightly and his tone becomes more pointed and slightly lower. This delivery suggests a deep, knowing cynicism about his father's opportunism, a shift from simple narration to personal commentary.",
+    "summary_reasoning": "Pointed tone. Pursued lips. Cynical words."
+  },
+  {
+    "timestamp": 34.45,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker recounts urging the 'Mad King' to surrender. His voice rises slightly in pitch and volume, and he speaks with more emphasis. His brow is furrowed, and there's a clear note of frustration and earnestness in his tone, as if reliving the moment of giving unheeded advice.",
+    "summary_reasoning": "Louder, emphatic voice. Furrowed brow. Frustrated tone."
+  },
+  {
+    "timestamp": 42.4,
+    "emotion": "resigned",
+    "detailed_reasoning": "After stating the king didn't listen to him or Varys, his voice drops and his pace slows. His shoulders seem to slump slightly, and his facial expression is one of resignation and disappointment. The repetition of 'he didn't listen' reinforces this feeling of helplessness.",
+    "summary_reasoning": "Voice drops. Slower pace. Disappointed expression."
+  },
+  {
+    "timestamp": 51.373,
+    "emotion": "contemptuous",
+    "detailed_reasoning": "The speaker's entire demeanor shifts when he mentions Grand Maester Pycelle. His voice becomes a low growl, filled with venom. He leans forward slightly, his eyes narrow intensely, and he spits out the insult with pure contempt and disgust. This is the most intense emotion displayed so far.",
+    "summary_reasoning": "Low, venomous voice. Narrowed eyes. Intense expression."
+  },
+  {
+    "timestamp": 59.704,
+    "emotion": "mocking",
+    "detailed_reasoning": "In the final lines, the speaker mimics Pycelle's advice. He adopts a slightly higher, almost wheedling tone, contrasting sharply with his previous contemptuous voice. A faint, bitter smirk plays on his lips, clearly mocking the maester's naive trust in the Lannisters.",
+    "summary_reasoning": "Mimicking tone. Bitter smirk. Mocking words."
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 14.308,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her talk with a clear and steady voice. Her facial expression is composed and neutral, and she stands with a confident, upright posture. She appears at ease and prepared as she introduces herself to the audience.",
+    "summary_reasoning": "Clear voice, composed expression, upright posture."
+  },
+  {
+    "timestamp": 22.478,
+    "emotion": "serious",
+    "detailed_reasoning": "When the speaker introduces the topic of her talk, \"the danger of the single story,\" her tone becomes more deliberate and her expression more focused. The choice of words itself signals a shift to a weighty subject, and her delivery matches this, creating a serious and thoughtful atmosphere.",
+    "summary_reasoning": "Deliberate tone, focused expression, serious topic."
+  },
+  {
+    "timestamp": 32.638,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker's tone softens as she begins a personal anecdote about her childhood. She recalls her mother's claim that she started reading at age two, and then adds her own correction that four is closer to the truth. A slight smile and a light, self-deprecating tone suggest she is amused by this memory.",
+    "summary_reasoning": "Softened tone, slight smile, self-deprecating comment."
+  },
+  {
+    "timestamp": 39.235,
+    "emotion": "reflective",
+    "detailed_reasoning": "Continuing her story, the speaker describes the types of books she read as a child. Her tone is neutral and descriptive, and her gaze is steady as she sets the context for her main point. She is in a storytelling mode, reflecting on her past experiences.",
+    "summary_reasoning": "Neutral tone, descriptive language, storytelling mode."
+  },
+  {
+    "timestamp": 58.219,
+    "emotion": "poignant",
+    "detailed_reasoning": "The speaker reaches the climax of her opening anecdote, revealing that all the characters in her own childhood stories were \"white and blue-eyed.\" She delivers this line with a deliberate slowness and a serious facial expression. The tone conveys the weight of this realization, making the moment feel significant and poignant, as it illustrates the core theme of her talk.",
+    "summary_reasoning": "Deliberate slow pace, serious expression, impactful statement."
+  }
+]

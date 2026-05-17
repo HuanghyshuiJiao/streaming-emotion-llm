@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 2.314,
+    "emotion": "serious",
+    "detailed_reasoning": "The video starts with a black screen. The speaker's tone is slow, deliberate, and has a low, serious pitch. He is introducing a 'personal testimony of a savage storm,' which sets a grave and important tone for the story he is about to tell.",
+    "summary_reasoning": "Slow, low-pitched, serious words."
+  },
+  {
+    "timestamp": 12.81,
+    "emotion": "contemplative",
+    "detailed_reasoning": "The lights have come up, showing the speaker at a podium. His facial expression is pensive, with slightly furrowed brows. His tone remains serious and measured as he speaks about debating whether to tell this 'personal story of crisis,' suggesting he has given this matter a lot of thought.",
+    "summary_reasoning": "Pensive expression, measured tone, serious topic."
+  },
+  {
+    "timestamp": 27.591,
+    "emotion": "sincere",
+    "detailed_reasoning": "The speaker's tone shifts slightly, becoming warmer and more resolute as he states his purpose: 'to give God Almighty the glory.' His facial expression softens, and his voice carries a sense of conviction and earnestness, indicating a shift from a purely narrative tone to one of sincere faith.",
+    "summary_reasoning": "Warmer tone, resolute words, softened expression."
+  },
+  {
+    "timestamp": 32.35,
+    "emotion": "somber",
+    "detailed_reasoning": "When describing the crisis that 'threatened to end my ministry,' the speaker's tone becomes more grave and his pace slows. His facial expression is heavy, reflecting the seriousness and weight of the threat he faced. The content of the words themselves conveys a deep and somber memory.",
+    "summary_reasoning": "Grave tone, slow pace, heavy expression."
+  },
+  {
+    "timestamp": 43.803,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker transitions to recounting the past events of his knee surgeries and giving sermons while sitting down. His tone becomes more factual and narrative, losing some of the previous somber weight. He is looking down and to the side, as if recalling the memory, indicating a reflective state.",
+    "summary_reasoning": "Narrative tone, recalling past events."
+  },
+  {
+    "timestamp": 49.229,
+    "emotion": "vulnerable",
+    "detailed_reasoning": "After a deliberate pause following 'Not so,' the speaker reveals the truth. His voice drops in volume and his pace slows down significantly. He confesses, 'I was too sick to stand up for 40 minutes.' This admission, combined with the quieter and slower delivery, creates a moment of raw vulnerability before his audience.",
+    "summary_reasoning": "Quieter voice, slower pace, personal confession."
+  }
+]

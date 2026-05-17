@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "sad",
+    "detailed_reasoning": "The video begins with the woman looking downcast and somber. Her facial expression, particularly her downturned mouth and sad eyes, indicates a state of sadness or concern even before any dialogue is spoken by her.",
+    "summary_reasoning": "Downcast facial expression, sad eyes."
+  },
+  {
+    "timestamp": 15.469,
+    "emotion": "surprised",
+    "detailed_reasoning": "After a male voice off-screen offers to help her find a husband and provide a dowry, her expression shifts from sadness to surprise. She looks up, her eyebrows raise, and her eyes widen. Her tone of voice when she asks, \"You would do that for me?\" is filled with disbelief and a hint of hope.",
+    "summary_reasoning": "Raised eyebrows, widened eyes, surprised tone."
+  },
+  {
+    "timestamp": 19.134,
+    "emotion": "joyful",
+    "detailed_reasoning": "Following the man's confirmation that he would do anything for her, her face breaks into a wide, genuine smile. Her eyes light up, and she exclaims \"Tido!\" in a high-pitched, happy tone, indicating a clear shift from surprise to joy and relief.",
+    "summary_reasoning": "Wide smile, bright eyes, happy exclamation."
+  },
+  {
+    "timestamp": 26.102,
+    "emotion": "serious",
+    "detailed_reasoning": "The initial burst of joy subsides as she begins to explain her thoughts. Her smile fades, her expression becomes more contemplative, and her tone of voice becomes serious and measured as she talks about her suspicions.",
+    "summary_reasoning": "Smile fades, contemplative expression, serious tone."
+  },
+  {
+    "timestamp": 36.168,
+    "emotion": "grateful",
+    "detailed_reasoning": "When the man agrees with her assessment, she is overcome with emotion. She begins to cry and laugh at the same time, covering her mouth. This mix of tears and laughter, along with her words \"I cannot thank you enough,\" clearly expresses overwhelming gratitude and relief.",
+    "summary_reasoning": "Laughing through tears, verbal gratitude."
+  },
+  {
+    "timestamp": 41.593,
+    "emotion": "elated",
+    "detailed_reasoning": "Her gratitude quickly turns into elation. She looks upwards with a beaming smile, hands clasped together as if in prayer or immense happiness. Her plan to tell her father immediately shows her excitement and joyful anticipation.",
+    "summary_reasoning": "Beaming smile, upward gaze, clasped hands."
+  },
+  {
+    "timestamp": 44.356,
+    "emotion": "shocked",
+    "detailed_reasoning": "The man's abrupt \"No\" causes an immediate and drastic change in her demeanor. Her elated expression vanishes instantly, replaced by wide-eyed shock and confusion. Her smile drops, and her body language freezes.",
+    "summary_reasoning": "Smile drops, eyes widen, frozen posture."
+  },
+  {
+    "timestamp": 49.661,
+    "emotion": "disappointed",
+    "detailed_reasoning": "As the man explains that the suitor in question is not a kind man, her shock morphs into deep disappointment and sadness. Her eyebrows furrow, her gaze becomes distant, and the hope drains from her face, leaving a somber and pained expression.",
+    "summary_reasoning": "Furrowed eyebrows, somber expression, sad gaze."
+  },
+  {
+    "timestamp": 56.707,
+    "emotion": "hurt",
+    "detailed_reasoning": "Her expression hardens slightly as she processes the implication of his words. Her tone becomes accusatory and pained when she says, \"Then your gift comes with conditions.\" This indicates she feels the offer was not unconditional, leading to a feeling of being hurt and misled.",
+    "summary_reasoning": "Hardened expression, accusatory tone."
+  }
+]

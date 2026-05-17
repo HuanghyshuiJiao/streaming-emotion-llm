@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "sadness",
+    "detailed_reasoning": "The video begins with the speaker looking off-camera with a serious, slightly pained expression. His vocal tone is low and somber, and the words he uses ('misery,' 'vice,' 'hatred') convey a deep sense of suffering and despair. This combination of visual and auditory cues points to an initial emotion of sadness.",
+    "summary_reasoning": "Somber tone, serious expression, negative words."
+  },
+  {
+    "timestamp": 6.557,
+    "emotion": "bitterness",
+    "detailed_reasoning": "As the speaker describes unimaginable 'torture,' his facial expression tenses further, with furrowed brows. His vocal delivery gains a sharp, slightly scornful edge, particularly on the phrase 'such as you cannot even imagine.' This suggests a shift from pure sadness to a more pointed feeling of bitterness and resentment for the suffering he's endured.",
+    "summary_reasoning": "Tense expression, scornful tone."
+  },
+  {
+    "timestamp": 10.681,
+    "emotion": "nostalgia",
+    "detailed_reasoning": "The speaker's demeanor changes as he recalls the past. His facial expression softens, and he looks away as if in remembrance. His vocal tone becomes significantly softer, higher in pitch, and more wistful, especially when mentioning 'dreams of virtue.' This change in both visual and vocal cues indicates a shift to a nostalgic and melancholic state.",
+    "summary_reasoning": "Softened expression, wistful tone, recalling past."
+  },
+  {
+    "timestamp": 18.229,
+    "emotion": "hopefulness",
+    "detailed_reasoning": "Continuing his reflection on the past, the speaker's tone remains soft and his expression is wistful. The words 'faultily hoped to meet with beings who... would love me' convey a past sense of hope, even if it was ultimately unfulfilled. The emotion is a continuation of nostalgia but with a specific focus on the hope he once held.",
+    "summary_reasoning": "Soft tone, wistful expression, words of hope."
+  },
+  {
+    "timestamp": 30.035,
+    "emotion": "pride",
+    "detailed_reasoning": "The speaker's tone becomes slightly more assertive and his posture straightens. When he says 'I was nourished with high thoughts of honor and devotion,' there's a clear sense of pride in his past self's noble aspirations. His face shows a hint of defiant dignity.",
+    "summary_reasoning": "Assertive tone, straight posture, words of honor."
+  },
+  {
+    "timestamp": 35.147,
+    "emotion": "resentment",
+    "detailed_reasoning": "The nostalgic mood breaks abruptly. The speaker's face hardens, and his jaw tenses. His vocal tone shifts from wistful to a harsher, more guttural quality. The words 'still spurned' are delivered with force and a clear sense of indignation, signaling a transition into deep resentment over being rejected.",
+    "summary_reasoning": "Hardened expression, harsh tone, forceful delivery."
+  },
+  {
+    "timestamp": 41.863,
+    "emotion": "indignation",
+    "detailed_reasoning": "The resentment builds into indignation as he poses the rhetorical question, 'Was there no injustice in this?'. His voice rises in pitch and volume, and his expression is one of disbelief and challenge. He is no longer just lamenting his fate but actively questioning its fairness.",
+    "summary_reasoning": "Raised voice, challenging expression, rhetorical question."
+  },
+  {
+    "timestamp": 45.411,
+    "emotion": "anger",
+    "detailed_reasoning": "The indignation escalates into overt anger. The speaker's voice becomes significantly louder and more strained. His facial muscles are tense, his brow is heavily furrowed, and he delivers the line 'Am I to be thought the only criminal' as a direct, angry accusation.",
+    "summary_reasoning": "Loud voice, strained tone, angry expression."
+  },
+  {
+    "timestamp": 52.748,
+    "emotion": "rage",
+    "detailed_reasoning": "The anger culminates in pure rage. The speaker's entire body tenses, and his neck muscles strain. His voice is at its peak volume, trembling with fury as he grits out the words 'Even now my blood boils'. His facial expression is a mask of unrestrained rage and hatred, signifying the climax of his emotional outburst.",
+    "summary_reasoning": "Tense body, trembling voice, explicit words of rage."
+  }
+]

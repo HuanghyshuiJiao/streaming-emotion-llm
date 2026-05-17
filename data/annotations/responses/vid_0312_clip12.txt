@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 1.473,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her talk with a very steady and measured tone. Her posture is upright and her facial expression is neutral. She is delivering the initial information about her 'cancer vaccine' in a factual, straightforward manner, establishing a calm baseline.",
+    "summary_reasoning": "Steady tone, neutral expression, factual delivery."
+  },
+  {
+    "timestamp": 6.962,
+    "emotion": "reflective",
+    "detailed_reasoning": "As the speaker begins to talk about her 'realization,' her pace slows slightly and her gaze shifts to the side. Her tone becomes more thoughtful and contemplative, signaling a shift from stating facts to sharing a deeper, more personal insight about her condition.",
+    "summary_reasoning": "Slower pace, averted gaze, thoughtful tone."
+  },
+  {
+    "timestamp": 15.796,
+    "emotion": "determined",
+    "detailed_reasoning": "There is a distinct shift in her delivery on the line 'I'm not afraid anymore.' Her voice becomes stronger and more resolute. Her facial expression firms up, and her gaze is direct, conveying a powerful sense of conviction and a clear emotional turning point from her diagnosis.",
+    "summary_reasoning": "Stronger voice, firm expression, direct gaze."
+  },
+  {
+    "timestamp": 19.001,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker's voice rises in pitch and intensity as she says 'My love for life is so much stronger.' She emphasizes her words with hand gestures toward her chest, and her expression becomes more intense and engaged, clearly conveying the powerful, heartfelt emotion behind her statement.",
+    "summary_reasoning": "Louder voice, chest gestures, intense expression."
+  },
+  {
+    "timestamp": 29.77,
+    "emotion": "empowered",
+    "detailed_reasoning": "After listing the things she is not doing (struggling, fighting), she delivers the words 'I'm alive, living' with a calm but firm and positive tone. A subtle, confident smile emerges, and her declarative statement projects a sense of peace and control over her own narrative.",
+    "summary_reasoning": "Calm positive tone, confident smile, declarative words."
+  },
+  {
+    "timestamp": 34.236,
+    "emotion": "accepting",
+    "detailed_reasoning": "The speaker's tone shifts to become more candid and conversational as she says 'to be totally frank.' She uses open-handed gestures while talking about not knowing her future treatment. This combination of tone and body language indicates an honest acceptance of her uncertainty, without fear or distress.",
+    "summary_reasoning": "Candid tone, open-handed gestures, admitting uncertainty."
+  },
+  {
+    "timestamp": 47.773,
+    "emotion": "wise",
+    "detailed_reasoning": "After acknowledging her own uncertain lifespan, she says 'But then again, none of us do.' A small, knowing smile appears on her face, and her tone becomes gentle and inclusive. This connects her profound personal experience to a universal truth, conveying a sense of gentle, earned wisdom.",
+    "summary_reasoning": "Knowing smile, gentle tone, universal statement."
+  },
+  {
+    "timestamp": 56.073,
+    "emotion": "triumphant",
+    "detailed_reasoning": "Following a significant pause after the stark statement, 'I was supposed to be dead right now,' she delivers the final line, 'But I'm not.' Her voice is firm, her gaze is direct and unwavering, and her expression is serious. This powerful delivery conveys a sense of victory and defiance against her prognosis.",
+    "summary_reasoning": "Firm voice, direct gaze, powerful concluding statement."
+  }
+]

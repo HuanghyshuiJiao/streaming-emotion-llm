@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 0.832,
+    "emotion": "sad",
+    "detailed_reasoning": "The video begins with the speaker stating, \"Finally we broke.\" Her tone is low and somber, and her facial expression is downcast with a slight frown, indicating sadness and the beginning of a painful story.",
+    "summary_reasoning": "Low tone, sad expression, negative words."
+  },
+  {
+    "timestamp": 10.923,
+    "emotion": "pained",
+    "detailed_reasoning": "The speaker describes pieces of the relationship being \"scattered all around us.\" Her expression becomes more pained, with a slight grimace and a subtle head shake, as if reliving a difficult memory. Her tone remains low and heavy.",
+    "summary_reasoning": "Pained expression, grimace, negative metaphor."
+  },
+  {
+    "timestamp": 18.15,
+    "emotion": "defeated",
+    "detailed_reasoning": "After saying she was \"Trying to pull myself back together,\" her expression shifts to one of defeat. Her eyes look down, her mouth is slightly open, and her facial muscles seem to sag, conveying a sense of failure and exhaustion from the effort.",
+    "summary_reasoning": "Downward gaze, slack facial muscles, words of failure."
+  },
+  {
+    "timestamp": 20.493,
+    "emotion": "hopeless",
+    "detailed_reasoning": "The speaker explicitly states, \"I was unsuccessful.\" Her eyes widen slightly and stare blankly, and her face becomes very still. This, combined with the definitive negative statement, creates a strong sense of hopelessness and finality.",
+    "summary_reasoning": "Stark words, blank stare, still expression."
+  },
+  {
+    "timestamp": 29.903,
+    "emotion": "longing",
+    "detailed_reasoning": "She pauses and then looks directly at the camera while referring to a person (\"you\"). Her expression softens slightly, her eyes seem to search, and she has a slight, sad smile, which suggests a feeling of longing for this person who was the \"one last part\" of her life.",
+    "summary_reasoning": "Soft expression, direct gaze, sad smile, context of missing part."
+  },
+  {
+    "timestamp": 40.304,
+    "emotion": "scared",
+    "detailed_reasoning": "The speaker explicitly says that the thought of being with the person again \"made me scared.\" Her eyes widen, her brows lift, and her face becomes tense, visually aligning with the stated emotion of fear.",
+    "summary_reasoning": "Explicit words, wide eyes, tense expression."
+  },
+  {
+    "timestamp": 47.594,
+    "emotion": "fearful",
+    "detailed_reasoning": "She identifies her biggest thought as \"the idea of breaking apart again.\" Her eyes are wide and staring, her mouth is tense, and her expression is frozen in a look of stark fear, emphasizing the deep-seated anxiety about repeating past pain.",
+    "summary_reasoning": "Wide eyes, tense mouth, explicit statement of fear."
+  },
+  {
+    "timestamp": 52.98,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker generalizes her experience by saying, \"Love is a scary part of life.\" Her tone becomes more philosophical but remains low and somber. Her expression is serious and contemplative, reflecting on the dual nature of love.",
+    "summary_reasoning": "Philosophical words, serious tone, contemplative expression."
+  },
+  {
+    "timestamp": 58.067,
+    "emotion": "resigned",
+    "detailed_reasoning": "In the final sentence, she concludes that \"the best and the worst\" come from love. Her expression is one of sad resignation. Her face is calm but carries the weight of her experience, suggesting an acceptance of the painful reality of love's dual nature.",
+    "summary_reasoning": "Concluding words, calm but sad face, accepting tone."
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 4.857,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his speech with a very measured and calm tone. His facial expression is neutral and he frequently looks down at his notes, indicating a prepared and composed delivery. The pace is slow and deliberate, setting a serious but calm atmosphere.",
+    "summary_reasoning": "Measured tone, neutral expression, slow pace."
+  },
+  {
+    "timestamp": 11.205,
+    "emotion": "earnest",
+    "detailed_reasoning": "The speaker's tone shifts as he begins to give direct advice. The word 'urge' is emphasized, and his voice takes on a more sincere and persuasive quality. He is no longer just stating facts but is now making a heartfelt appeal to the graduates, which conveys a sense of earnestness.",
+    "summary_reasoning": "Emphasized 'urge', sincere tone."
+  },
+  {
+    "timestamp": 17.393,
+    "emotion": "cautionary",
+    "detailed_reasoning": "The speaker uses the phrase 'Don't bother,' initiating a warning. His tone becomes more direct and admonitory. He uses a metaphor comparing unloved work to an unloved spouse to emphasize his point, and his facial expression is serious, reinforcing the cautionary nature of his message.",
+    "summary_reasoning": "Direct warning tone, serious expression."
+  },
+  {
+    "timestamp": 27.679,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker's energy level rises significantly. He begins with the forceful command 'Resist,' and his voice becomes louder and more rhythmic as he lists negative concepts. His direct eye contact with the audience and intense facial expression show a strong, passionate conviction in his words.",
+    "summary_reasoning": "Forceful tone, rhythmic speech, intense expression."
+  },
+  {
+    "timestamp": 38.435,
+    "emotion": "authoritative",
+    "detailed_reasoning": "Following his passionate warning, the speaker's tone shifts to one of firm instruction. He issues a series of direct commands starting with 'Be worthy' and repeating the word 'Read.' His delivery is clear, confident, and declarative, positioning him as an authoritative mentor giving crucial advice.",
+    "summary_reasoning": "Direct commands, confident tone, declarative delivery."
+  },
+  {
+    "timestamp": 47.549,
+    "emotion": "inspirational",
+    "detailed_reasoning": "The speaker transitions from specific instructions about reading to broader life advice. The tone softens but becomes more uplifting. He delivers a series of short, powerful, and universally encouraging phrases like 'Dream big. Work hard.' The deliberate pauses between these phrases give them weight and an inspirational quality.",
+    "summary_reasoning": "Uplifting tone, short powerful phrases, deliberate pauses."
+  },
+  {
+    "timestamp": 55.796,
+    "emotion": "heartfelt",
+    "detailed_reasoning": "For his final point, the speaker's demeanor changes to be much more personal and emotional. His voice becomes softer and warmer, especially on the word 'Love.' His facial expression softens into a gentle, sincere look, conveying a deep, heartfelt sentiment as he concludes his speech.",
+    "summary_reasoning": "Soft warm voice, gentle facial expression."
+  }
+]

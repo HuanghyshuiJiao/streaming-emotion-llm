@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 3.363,
+    "emotion": "neutral",
+    "detailed_reasoning": "The speaker is introducing her piece. Her tone is presentational and clear, her facial expression is neutral, and her posture is straight. She is simply delivering information to the audience.",
+    "summary_reasoning": "Presentational tone, neutral expression."
+  },
+  {
+    "timestamp": 7.83,
+    "emotion": "cheerful",
+    "detailed_reasoning": "The speaker begins the monologue. Her eyes widen, a slight smile appears, and her vocal pitch rises slightly, shifting from a neutral introduction to a more engaging and cheerful character portrayal.",
+    "summary_reasoning": "Widened eyes, slight smile, higher pitch."
+  },
+  {
+    "timestamp": 12.457,
+    "emotion": "playful",
+    "detailed_reasoning": "The speaker's tone becomes more conspiratorial and her smile widens as she leans slightly into the 'secret' about why her room is tidy. Her eyes are bright, suggesting a playful and slightly mischievous mood.",
+    "summary_reasoning": "Conspiratorial tone, wider smile, bright eyes."
+  },
+  {
+    "timestamp": 22.471,
+    "emotion": "affectionate",
+    "detailed_reasoning": "When she says \"my invisible friend, Zara,\" her voice softens and her expression becomes gentle and fond. This indicates a shift to an affectionate emotion as she introduces this important character.",
+    "summary_reasoning": "Soft voice, gentle expression."
+  },
+  {
+    "timestamp": 27.432,
+    "emotion": "nostalgic",
+    "detailed_reasoning": "The speaker's tone becomes slightly softer and more reflective as she talks about inventing Zara years ago. Her eyes look slightly upwards and she has a gentle, reminiscent smile, indicating a feeling of nostalgia.",
+    "summary_reasoning": "Reflective tone, reminiscent smile."
+  },
+  {
+    "timestamp": 37.827,
+    "emotion": "amused",
+    "detailed_reasoning": "After stating that no one else can see her friend, she adds, \"I can't really see her either.\" Her delivery is accompanied by a self-deprecating smile and a light, airy tone, suggesting she finds her own pretense amusing.",
+    "summary_reasoning": "Self-deprecating smile, light tone."
+  },
+  {
+    "timestamp": 48.843,
+    "emotion": "sad",
+    "detailed_reasoning": "There is a significant shift in demeanor. Her posture droops slightly, her facial expression falls, her eyebrows furrow, and her vocal tone becomes lower and more somber as she says the word \"sad.\"",
+    "summary_reasoning": "Drooping posture, fallen expression, lower tone."
+  },
+  {
+    "timestamp": 56.225,
+    "emotion": "comforted",
+    "detailed_reasoning": "As she explains that Zara always understands, her voice, while still sad, gains a slightly warmer and softer quality. A faint, melancholic smile appears, suggesting that the thought of Zara brings her a sense of comfort amidst her sadness.",
+    "summary_reasoning": "Warmer tone, melancholic smile."
+  }
+]

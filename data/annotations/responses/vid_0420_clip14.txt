@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "determined",
+    "detailed_reasoning": "The speaker begins with a strong and clear vocal tone, immediately establishing a sense of authority and conviction. His words, \"power to change,\" are delivered with a deliberate pace, and his facial expression is serious and focused, conveying a determined mindset from the very start of his speech.",
+    "summary_reasoning": "Strong tone, serious expression, deliberate pace."
+  },
+  {
+    "timestamp": 10.485,
+    "emotion": "sincere",
+    "detailed_reasoning": "The speaker's tone softens significantly as he transitions to a personal topic, saying, \"Because of my faith.\" His body language also shifts; he brings his hands together in front of him and his expression becomes more earnest and introspective. This change from a powerful, declarative style to a more personal one indicates sincerity.",
+    "summary_reasoning": "Softened tone, introspective expression, clasped hands."
+  },
+  {
+    "timestamp": 17.234,
+    "emotion": "reflective",
+    "detailed_reasoning": "Continuing on the topic of faith, the speaker's tone becomes more philosophical and his pace slows. He uses open hand gestures as he explains that some reasons are clear while others take time, suggesting he is in a state of thoughtful contemplation. His calm demeanor and the nature of his words point to a reflective mood.",
+    "summary_reasoning": "Philosophical tone, slower pace, open gestures."
+  },
+  {
+    "timestamp": 25.705,
+    "emotion": "contemplative",
+    "detailed_reasoning": "The speaker describes the process of preparing his talk, and his gaze shifts inward as he recalls the \"central questions\" he faced. His brow furrows slightly, and his pace becomes more deliberate, emphasizing the internal struggle and thought process. This indicates a deeply contemplative and questioning state of mind.",
+    "summary_reasoning": "Inward gaze, furrowed brow, deliberate pace."
+  },
+  {
+    "timestamp": 37.08,
+    "emotion": "sentimental",
+    "detailed_reasoning": "Upon realizing he was talking to himself, the speaker's tone becomes softer and more personal. As he lists the different versions of himself (\"the adolescent me, the college me\"), his voice carries an emotional weight, and his gestures become more encompassing. This connection to his own past and future selves evokes a sentimental and heartfelt emotion.",
+    "summary_reasoning": "Soft emotional tone, personal content, encompassing gestures."
+  },
+  {
+    "timestamp": 52.35,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker delivers the climax of his message. His voice rises in volume and intensity, becoming forceful and clear. He makes direct eye contact and points forward as he says, \"you are indeed unbreakable.\" This surge in energy, combined with his determined expression and powerful words, conveys strong passion and a desire to inspire.",
+    "summary_reasoning": "Increased volume, forceful tone, determined expression."
+  }
+]

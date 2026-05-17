@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 2.094,
+    "emotion": "playful",
+    "detailed_reasoning": "The speaker begins with a knowing look and a slightly conspiratorial tone, smiling slightly as he says the segment is going to be \"worse.\" This combination of facial expression and vocal tone sets a playful, comedic expectation for the audience.",
+    "summary_reasoning": "Knowing look, smiling, conspiratorial tone."
+  },
+  {
+    "timestamp": 8.543,
+    "emotion": "amused",
+    "detailed_reasoning": "While reading the details about the Taco Bell wedding package, the speaker maintains a deadpan expression, but his tone has a clear undercurrent of amusement at the absurdity of the news item. The on-screen image of the couple with sauce packets reinforces the ridiculousness of the situation, and his delivery reflects this.",
+    "summary_reasoning": "Deadpan expression, amused vocal tone."
+  },
+  {
+    "timestamp": 15.994,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "The speaker delivers the punchline about \"shooting craps\" with a distinct comedic timing. His tone becomes more pointed and sarcastic, and a smirk appears on his face, emphasizing the cynical and humorous nature of the joke.",
+    "summary_reasoning": "Sarcastic tone, smirk, comedic timing."
+  },
+  {
+    "timestamp": 20.921,
+    "emotion": "amused",
+    "detailed_reasoning": "After the audience laughs, he explains, \"It's a joke about gambling.\" He delivers this line with a straight face and a flat tone. This deadpan explanation of an obvious joke is a comedic technique, and his subtle expression indicates he is amused by the act of over-explaining.",
+    "summary_reasoning": "Deadpan expression, flat tone, explaining an obvious joke."
+  },
+  {
+    "timestamp": 24.246,
+    "emotion": "appreciative",
+    "detailed_reasoning": "The speaker's demeanor shifts as he gives credit to the writer, Brian. His facial expression softens into a genuine smile, and his tone becomes warm and encouraging as he gestures for the audience to applaud. This indicates a moment of genuine appreciation.",
+    "summary_reasoning": "Genuine smile, warm tone, encouraging gesture."
+  },
+  {
+    "timestamp": 32.745,
+    "emotion": "playful",
+    "detailed_reasoning": "The speaker shifts back to a joking tone, teasing the writer by asking if he's clapping to make the memory of the bad joke go away. His expression is one of mock-seriousness and his tone is light and teasing, indicating a playful interaction.",
+    "summary_reasoning": "Teasing tone, mock-serious expression."
+  },
+  {
+    "timestamp": 39.339,
+    "emotion": "neutral",
+    "detailed_reasoning": "The speaker transitions to a new topic about government web pages. His tone becomes more factual and reportorial, similar to a news anchor, and his facial expression becomes neutral. This serves as a straight setup for the upcoming punchline.",
+    "summary_reasoning": "Factual tone, neutral expression."
+  },
+  {
+    "timestamp": 45.192,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "After delivering the punchline about STD treatment guidelines being removed, the speaker makes a self-deprecating joke about \"scratching it through my pockets.\" His facial expression shows mock disgust and resignation, and his tone is deeply sarcastic, creating a humorous and slightly edgy moment.",
+    "summary_reasoning": "Sarcastic tone, mock-disgusted expression."
+  },
+  {
+    "timestamp": 56.917,
+    "emotion": "playful",
+    "detailed_reasoning": "The speaker identifies another writer, Scollins, as the author of the \"worst\" jokes. He adopts a teasing tone and a playful, accusatory expression. This is another moment of light-hearted interaction with his staff, similar to the earlier moment with Brian.",
+    "summary_reasoning": "Teasing tone, playful expression."
+  },
+  {
+    "timestamp": 59.502,
+    "emotion": "amused",
+    "detailed_reasoning": "Concluding the segment, he announces that Scollins also wrote the next joke, creating anticipation. His slight smile and amused tone suggest that the upcoming joke will be similarly groan-worthy, and he finds humor in setting it up this way.",
+    "summary_reasoning": "Slight smile, amused tone, building anticipation."
+  }
+]

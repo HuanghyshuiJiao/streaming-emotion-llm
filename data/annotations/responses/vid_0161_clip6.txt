@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp": 6.777,
+    "emotion": "neutral",
+    "detailed_reasoning": "The speaker begins his story with a neutral, narrative tone. His facial expression is neutral, and his body language is relaxed as he sets the scene. The words themselves are introductory, recounting a past event without strong emotional coloring.",
+    "summary_reasoning": "Narrative tone, neutral expression, relaxed posture."
+  },
+  {
+    "timestamp": 7.498,
+    "emotion": "confident",
+    "detailed_reasoning": "When the speaker says, 'I aced it,' his tone becomes more assertive and slightly louder. He makes a definitive hand gesture and has a slight, confident smirk, indicating a feeling of pride and self-assurance about his performance.",
+    "summary_reasoning": "Assertive tone, confident gesture, smirk."
+  },
+  {
+    "timestamp": 12.823,
+    "emotion": "curious",
+    "detailed_reasoning": "The speaker's tone shifts as he describes seeing a 'strange man.' His pace slows slightly, and his eyes widen a little as he gestures towards the back, conveying a sense of intrigue and curiosity about this person he noticed while speaking.",
+    "summary_reasoning": "Slower pace, widened eyes, gesturing."
+  },
+  {
+    "timestamp": 18.708,
+    "emotion": "admiring",
+    "detailed_reasoning": "His voice softens, and the pace becomes more deliberate as he describes the man with the words 'humble, simple' and the 'unfailing quality of kindness in his eyes.' This change in vocal quality and the positive descriptive words suggest a feeling of admiration and respect for the man.",
+    "summary_reasoning": "Softened voice, deliberate pace, positive words."
+  },
+  {
+    "timestamp": 23.653,
+    "emotion": "dramatic",
+    "detailed_reasoning": "The speaker pauses and leans forward, creating a moment of suspense. His vocal tone is low and direct as he recounts the man walking up to him and looking him 'dead straight in the eye,' adopting a dramatic and serious demeanor to build anticipation for what the man will say.",
+    "summary_reasoning": "Pause, leaning forward, low and direct tone."
+  },
+  {
+    "timestamp": 31.115,
+    "emotion": "humorous",
+    "detailed_reasoning": "After delivering the punchline, 'But I don't know what it is,' the speaker's facial expression breaks into a smile, and his tone becomes light. The audience's laughter reinforces the humorous intent of this part of the story, showing he is intentionally making a joke.",
+    "summary_reasoning": "Smiling, light tone, audience laughter."
+  },
+  {
+    "timestamp": 37.603,
+    "emotion": "inspired",
+    "detailed_reasoning": "Recounting the man's offer, 'maybe we can find that something,' the speaker's tone becomes more earnest and hopeful. His expression is serious yet optimistic, conveying the sense of inspiration and possibility he felt at that moment.",
+    "summary_reasoning": "Earnest tone, hopeful expression, optimistic words."
+  },
+  {
+    "timestamp": 45.354,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker's energy level rises significantly. He opens his arms wide, his voice becomes louder and more animated, and a genuine smile spreads across his face as he declares, 'I discovered I could speak, and I love speaking.' This combination of cues clearly indicates passion and joy.",
+    "summary_reasoning": "High energy, loud animated voice, wide gestures, smiling."
+  },
+  {
+    "timestamp": 47.897,
+    "emotion": "fulfilled",
+    "detailed_reasoning": "Following his passionate declaration, his tone becomes slightly more grounded but retains a strong sense of positivity as he says this led him to become a teacher. His expression is one of satisfaction, indicating a feeling of fulfillment and purpose.",
+    "summary_reasoning": "Grounded positive tone, satisfied expression."
+  },
+  {
+    "timestamp": 54.726,
+    "emotion": "empathetic",
+    "detailed_reasoning": "The speaker's demeanor shifts dramatically. His voice becomes softer and lower, his pace slows, and his facial expression turns serious and somber. He talks about financial hardship, adopting a tone and look of empathy to connect with the audience on a more personal and vulnerable level.",
+    "summary_reasoning": "Soft low voice, slow pace, somber expression."
+  },
+  {
+    "timestamp": 59.637,
+    "emotion": "worried",
+    "detailed_reasoning": "Continuing on the theme of financial hardship, the speaker's expression becomes more tense, with furrowed brows, as he mentions the worry associated with bills. His vocal tone carries a weight of concern, effectively conveying the feeling of being worried.",
+    "summary_reasoning": "Tense expression, furrowed brow, concerned tone."
+  }
+]

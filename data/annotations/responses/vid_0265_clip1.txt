@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 2.094,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker opens with a serious statement about his sobriety. His facial expression is neutral to sad, with slightly furrowed brows and tired-looking eyes. His vocal tone is low, slow, and measured, conveying a sense of gravity and reflection on a difficult past.",
+    "summary_reasoning": "Serious statement, sad eyes, slow low-pitched voice."
+  },
+  {
+    "timestamp": 14.933,
+    "emotion": "fearful",
+    "detailed_reasoning": "There is a sudden and dramatic shift in the narrative from his personal struggles to the statistics of missing children. His eyes widen in fear, and his vocal delivery becomes faster and higher-pitched, filled with an urgent and distressed tone, indicating a switch to a state of fear and anxiety.",
+    "summary_reasoning": "Sudden topic change, widened eyes, faster urgent tone."
+  },
+  {
+    "timestamp": 20.380,
+    "emotion": "desperate",
+    "detailed_reasoning": "Following the fearful statement, he continues with even grimmer statistics. His eyes remain wide, and his facial expression conveys a sense of hopelessness. The vocal tone is strained, emphasizing his desperation about the slim chances of finding a missing child after a month.",
+    "summary_reasoning": "Hopeless expression, strained vocal tone."
+  },
+  {
+    "timestamp": 24.627,
+    "emotion": "angry",
+    "detailed_reasoning": "His demeanor shifts from desperation to defensiveness and anger. His jaw clenches, and he delivers the line with a sharp, louder, and slightly sarcastic tone. The phrase 'excuse me' is used confrontationally, indicating he feels judged and is lashing out with anger.",
+    "summary_reasoning": "Sharp sarcastic tone, clenched jaw, confrontational language."
+  },
+  {
+    "timestamp": 33.789,
+    "emotion": "anguished",
+    "detailed_reasoning": "After the burst of anger, his emotion transitions into deep pain. When he says 'It's day six,' his face contorts in pain, and his voice becomes strained and heavy with emotion. The repetition of 'Day six' emphasizes the weight of each passing day, revealing his profound anguish.",
+    "summary_reasoning": "Pained facial expression, strained and heavy voice."
+  },
+  {
+    "timestamp": 40.411,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker's focus turns inward, imagining his missing child's perspective. His eyes become red and watery, on the verge of tears. His voice softens and trembles, filled with profound sadness and guilt as he speaks about her waiting to be rescued.",
+    "summary_reasoning": "Watery eyes, trembling voice, guilt-ridden content."
+  },
+  {
+    "timestamp": 50.605,
+    "emotion": "pleading",
+    "detailed_reasoning": "In his final words, he looks directly at the listener with a raw, vulnerable expression. His tone is not just sad but also pleading, making a direct emotional appeal for empathy and understanding. The question 'do you understand that?' is delivered with a mix of desperation and a deep need to be understood.",
+    "summary_reasoning": "Direct gaze, desperate tone, emotional appeal for empathy."
+  }
+]

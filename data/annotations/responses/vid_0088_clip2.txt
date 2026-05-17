@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "suspicious",
+    "detailed_reasoning": "The speaker starts with a direct and intense stare at the camera. His tone is low and accusatory as he says, 'I know you're there.' This combination of visual focus and verbal accusation immediately establishes a feeling of suspicion and paranoia, which is consistent with the video's theme of dementia.",
+    "summary_reasoning": "Intense stare, accusatory tone."
+  },
+  {
+    "timestamp": 8.318,
+    "emotion": "angry",
+    "detailed_reasoning": "The speaker's accusations become more specific and his tone shifts from suspicious to overtly angry. His voice gets louder and more forceful as he says, 'You're smoking marijuana in that room, right?'. His facial expression remains tense and confrontational, reinforcing the escalation of his anger and frustration with the unseen person.",
+    "summary_reasoning": "Specific accusations, louder and forceful tone."
+  },
+  {
+    "timestamp": 14.244,
+    "emotion": "agitated",
+    "detailed_reasoning": "The speaker's anger evolves into clear agitation as he threatens to involve authorities, stating 'I want to call the police.' His voice remains firm and his expression is tense. This threat indicates a heightened state of distress and a feeling that the situation is out of his control, moving beyond simple anger to a more agitated and desperate state.",
+    "summary_reasoning": "Threatening police, firm tone, tense expression."
+  },
+  {
+    "timestamp": 24.173,
+    "emotion": "disgusted",
+    "detailed_reasoning": "The speaker's focus shifts to the dogs he claims are present. His facial expression changes to one of clear disgust, with a sneer forming as he speaks. His tone is filled with contempt as he uses visceral, negative words like 'smell,' 'stink,' and 'ugly.' This represents a shift from general agitation to a focused feeling of disgust and revulsion.",
+    "summary_reasoning": "Sneering expression, contemptuous tone, derogatory words."
+  },
+  {
+    "timestamp": 30.608,
+    "emotion": "joyful",
+    "detailed_reasoning": "There is an abrupt and complete shift in the speaker's demeanor. He stops his angry rant and begins singing 'Guantanamera.' His facial expression transforms from disgusted to joyful, with a wide smile and relaxed features. The sudden switch to singing a cheerful song indicates a dramatic mood swing into a state of happiness, detaching from the previous conflict.",
+    "summary_reasoning": "Abruptly starts singing, smiling, relaxed face."
+  },
+  {
+    "timestamp": 42.127,
+    "emotion": "confused",
+    "detailed_reasoning": "The joyful singing stops suddenly, and the speaker's expression shifts to one of confusion and distress. His smile disappears, his brow furrows, and he starts looking around frantically. His tone becomes worried and plaintive as he repeatedly asks, 'Where's my water?'. This demonstrates another sharp mental shift, from joy to a state of confusion and disorientation.",
+    "summary_reasoning": "Stops singing, searching gaze, worried tone."
+  }
+]

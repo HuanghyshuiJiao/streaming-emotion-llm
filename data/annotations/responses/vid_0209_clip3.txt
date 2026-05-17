@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 6.571,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker is addressing the camera directly. His tone of voice is measured, and his facial expression is neutral. He is explaining the potential use of his content for teachers in a straightforward and calm manner.",
+    "summary_reasoning": "Measured tone, neutral expression."
+  },
+  {
+    "timestamp": 18.464,
+    "emotion": "focused",
+    "detailed_reasoning": "The speaker's tone becomes more direct and slightly more serious as he clarifies the main focus of the class. His gaze is steady, and he emphasizes his points by stating what the class is *not* about, indicating a focused and clear intention.",
+    "summary_reasoning": "Direct tone, steady gaze, clarifying purpose."
+  },
+  {
+    "timestamp": 25.514,
+    "emotion": "passionate",
+    "detailed_reasoning": "After clarifying the class isn't about money or publishing, he states it's about having fun with writing. His voice softens slightly, and there's a hint of a smile, conveying his genuine passion and positive feeling about the subject.",
+    "summary_reasoning": "Softer tone, hint of a smile."
+  },
+  {
+    "timestamp": 32.105,
+    "emotion": "welcoming",
+    "detailed_reasoning": "The speaker thanks the audience and invites them to post comments and ask questions. His tone becomes more open and friendly, creating a welcoming and interactive atmosphere.",
+    "summary_reasoning": "Open tone, inviting questions."
+  },
+  {
+    "timestamp": 44.542,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker transitions to explaining the target audience for the class. His tone shifts back to being purely informative and descriptive, clearly laying out who the course is for. His expression remains neutral and focused on delivering information.",
+    "summary_reasoning": "Descriptive tone, neutral expression."
+  },
+  {
+    "timestamp": 54.996,
+    "emotion": "amused",
+    "detailed_reasoning": "The context completely changes as children suddenly appear in the frame, interrupting the speaker. The on-screen text labels this as \"BLOOPERS!\". The speaker's expression shifts to one of slight surprise and amusement as he is interrupted by the playful chaos, breaking his serious demeanor.",
+    "summary_reasoning": "Sudden interruption by children, on-screen text, surprised expression."
+  }
+]

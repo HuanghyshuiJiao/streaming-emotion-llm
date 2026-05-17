@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 6.359,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker begins with a calm and steady vocal tone. His facial expression is neutral and he maintains direct eye contact with the camera, adopting a teaching or advisory posture. The content is instructional, suggesting ways for aspiring actors to learn improv.",
+    "summary_reasoning": "Calm tone, neutral expression, instructional content."
+  },
+  {
+    "timestamp": 12.586,
+    "emotion": "assertive",
+    "detailed_reasoning": "The speaker's tone becomes more direct and firm as he emphasizes the necessity of improvisation in auditions. He uses a specific example ('When you audition') and his head nods slightly to reinforce his point, conveying a sense of authority and confidence in his advice.",
+    "summary_reasoning": "Direct tone, head nod, confident advice."
+  },
+  {
+    "timestamp": 22.198,
+    "emotion": "expressive",
+    "detailed_reasoning": "To illustrate his point about object work, the speaker uses more descriptive hand gestures as if holding an imaginary object. His vocal tone becomes more varied and animated, and his facial expressions are more engaged as he acts out the scenario he is describing.",
+    "summary_reasoning": "Illustrative gestures, animated tone, engaged expression."
+  },
+  {
+    "timestamp": 32.212,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker's delivery becomes much more forceful and impassioned. He raises his vocal volume and pitch on the words \"so important,\" and uses broader, more emphatic hand gestures to stress the value of improv. His facial expression is intense and conveys strong conviction.",
+    "summary_reasoning": "Forceful tone, emphatic gestures, intense expression."
+  },
+  {
+    "timestamp": 41.205,
+    "emotion": "encouraging",
+    "detailed_reasoning": "After making his strong point, the speaker's tone shifts to be more encouraging and action-oriented. He uses a call to action ('So go find an improv team') with a positive and supportive vocal tone. His facial expression softens, and his hand gestures become more open and inviting, motivating the viewer.",
+    "summary_reasoning": "Supportive tone, open gestures, positive expression."
+  },
+  {
+    "timestamp": 50.834,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker transitions back to an informative mode as he explains what 'ITS' stands for. His vocal delivery becomes measured and clear, and his facial expression is neutral as he provides the definition of the International Thespian Society, ensuring the audience understands the reference.",
+    "summary_reasoning": "Measured tone, neutral expression, defining a term."
+  }
+]

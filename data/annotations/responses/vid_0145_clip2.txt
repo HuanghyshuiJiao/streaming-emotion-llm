@@ -1,0 +1,74 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker begins with a rhythmic, poetic delivery, characteristic of spoken word. His tone is intense and his facial expression is focused. He uses hand gestures that match the cadence of his speech, conveying a strong, passionate start to his story. The content itself, quoting Dr. Dre about brotherhood, sets a serious and heartfelt tone.",
+    "summary_reasoning": "Rhythmic delivery, intense tone, focused expression."
+  },
+  {
+    "timestamp": 8.123,
+    "emotion": "somber",
+    "detailed_reasoning": "The narrative shifts to a tragic event involving his friends. The speaker's tone becomes more grave and his pace quickens slightly, creating a sense of urgency and dread. When he says \"three of my niggas called one to the head,\" his voice carries a heavy weight. His facial expression remains intense, but now it reflects the gravity and sadness of the loss he's describing.",
+    "summary_reasoning": "Grave tone, faster pace, serious expression, tragic content."
+  },
+  {
+    "timestamp": 10.667,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker begins to physically count his lost friends on his fingers, a powerful visual gesture of loss. His delivery slows down significantly, and he enunciates each number with deliberate, heavy sadness. His voice is low, and his gaze shifts downward, indicating deep reflection and sorrow. The direct statement \"that I don't see no more\" confirms the feeling of grief.",
+    "summary_reasoning": "Slow deliberate counting, low voice, downward gaze, gestures of loss."
+  },
+  {
+    "timestamp": 17.277,
+    "emotion": "bitter",
+    "detailed_reasoning": "After expressing sadness, his tone shifts to one of bitterness and disbelief when he says, \"they gave their lives for a cent.\" The way he delivers \"cent\" is sharp and clipped, emphasizing the worthlessness of the reason for their deaths. His facial expression hardens slightly, showing a sense of indignation and bitter irony over the tragedy.",
+    "summary_reasoning": "Sharp tone, hardened expression, ironic content."
+  },
+  {
+    "timestamp": 19.665,
+    "emotion": "admiring",
+    "detailed_reasoning": "The speaker's entire demeanor shifts when he introduces the character of Calvin. His tone softens, losing its previous bitterness and becoming warmer and more gentle. He speaks with admiration, highlighting Calvin's positive qualities like having a \"good head on his shoulders.\" There's a subtle, fond look on his face, indicating a positive and hopeful memory.",
+    "summary_reasoning": "Softened tone, warm delivery, fond expression."
+  },
+  {
+    "timestamp": 27.957,
+    "emotion": "nostalgic",
+    "detailed_reasoning": "The speaker describes Calvin's promising future with a warm, nostalgic tone. He lists accomplishments like a \"scholarship to Providence and the prettiest date on prom night\" with a sense of pride and fondness, as if reliving a cherished memory. His delivery is smooth and wistful, painting a picture of a life full of potential.",
+    "summary_reasoning": "Warm tone, wistful delivery, proud content."
+  },
+  {
+    "timestamp": 30.480,
+    "emotion": "angry",
+    "detailed_reasoning": "The mood shatters with the word \"But.\" The nostalgic tone is replaced by a hard, tense one. He repeats the word \"wrong\" three times with increasing emphasis and a faster pace, building tension and highlighting the injustice of the situation. His facial expression becomes strained and his body language more rigid, conveying a surge of anger and frustration.",
+    "summary_reasoning": "Hard tense tone, repeated emphasis, faster pace, angry expression."
+  },
+  {
+    "timestamp": 35.708,
+    "emotion": "indignant",
+    "detailed_reasoning": "The speaker's anger evolves into indignation as he role-plays the scene of the police stop. He mimics the officers' \"whispers\" with a resentful and mocking tone, conveying the prejudice Calvin faced. His own narration is filled with a sense of injustice and outrage at the baseless accusation. His posture is confrontational as he acts out the scene.",
+    "summary_reasoning": "Mocking tone, resentful delivery, confrontational posture."
+  },
+  {
+    "timestamp": 39.413,
+    "emotion": "enraged",
+    "detailed_reasoning": "The speaker's emotion peaks as he reenacts the direct confrontation. He delivers the officer's line, \"shut up... I mean, boy,\" with venom and contempt. The word \"boy\" is spat out, full of racist condescension. The speaker's face is twisted in a grimace of anger and pain, and his voice is strained, showing that he is channeling intense rage and disgust.",
+    "summary_reasoning": "Venomous tone, strained voice, facial grimace of anger."
+  },
+  {
+    "timestamp": 41.662,
+    "emotion": "disgusted",
+    "detailed_reasoning": "Continuing to voice the officer's prejudiced perspective, the speaker adopts a tone of utter dismissal and disgust. The lines are delivered with a cruel certainty, illustrating the officer's prejudiced assumptions. The speaker's facial expression conveys his own disgust at having to recount these dehumanizing words, showing contempt for the mindset he is portraying.",
+    "summary_reasoning": "Dismissive tone, cruel delivery, disgusted expression."
+  },
+  {
+    "timestamp": 45.174,
+    "emotion": "cynical",
+    "detailed_reasoning": "After the peak of rage, the speaker's energy shifts. His volume decreases, and his tone becomes laden with weary cynicism. He describes the \"struggle\" and the convenient \"malfunction\" of the body cam with a voice full of ironic disbelief. This highlights a feeling of systemic injustice and hopelessness, where the truth is deliberately obscured.",
+    "summary_reasoning": "Lower volume, weary tone, ironic delivery."
+  },
+  {
+    "timestamp": 51.234,
+    "emotion": "grieving",
+    "detailed_reasoning": "The poem comes full circle, returning to the theme of personal loss. The speaker's voice becomes very quiet and low, filled with a deep, resonant sadness. He specifies he now has \"four\" friends he won't see, signifying the loss of Calvin. The final words \"I will not see no more\" are delivered with a tone of quiet finality and profound grief, leaving the audience with the weight of his sorrow.",
+    "summary_reasoning": "Quiet low voice, profound sadness, tone of finality."
+  }
+]

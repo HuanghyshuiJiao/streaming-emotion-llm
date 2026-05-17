@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "vulnerable",
+    "detailed_reasoning": "The speaker begins with a self-deprecating statement, 'I know I'm not as smart as you.' Her tone is soft and yielding, and her facial expression is open and non-confrontational. This combination of conceding language, gentle vocal delivery, and soft expression creates an immediate sense of vulnerability.",
+    "summary_reasoning": "Soft tone, conceding words, open expression."
+  },
+  {
+    "timestamp": 12.381,
+    "emotion": "determined",
+    "detailed_reasoning": "There is a clear shift in energy marked by the word 'But.' Her tone becomes firmer and more assertive, her posture straightens, and her eye contact becomes more direct and focused. She is no longer conceding but is now preparing to make a strong, contrasting point, signaling determination.",
+    "summary_reasoning": "Firm tone, direct eye contact, assertive words."
+  },
+  {
+    "timestamp": 17.696,
+    "emotion": "hurt",
+    "detailed_reasoning": "As she begins to describe the other person's destructive actions, her voice fills with pain. Her facial expression becomes strained, with a furrowed brow and tension around her mouth. The words 'destroy everything I've ever wanted' are delivered with a slow, heavy pace, emphasizing the deep hurt she feels.",
+    "summary_reasoning": "Pained tone, strained expression, painful words."
+  },
+  {
+    "timestamp": 24.006,
+    "emotion": "angry",
+    "detailed_reasoning": "Her emotion escalates from hurt to overt anger. Her voice becomes louder and more aggressive, and her face contorts with rage as she says, 'smash your face in with my fists.' She bares her teeth slightly, and her eyes are narrowed and intense, clearly communicating her frustration and anger.",
+    "summary_reasoning": "Aggressive tone, contorted face, violent words."
+  },
+  {
+    "timestamp": 31.779,
+    "emotion": "loving",
+    "detailed_reasoning": "Immediately following her angry outburst, her entire demeanor shifts dramatically. Her facial expression softens completely, her voice becomes gentle and quiet, and her eyes convey deep affection as she says, 'And still know that I love you.' This stark contrast highlights the profound love that coexists with her anger.",
+    "summary_reasoning": "Soft face, gentle voice, loving words."
+  },
+  {
+    "timestamp": 38.21,
+    "emotion": "empowered",
+    "detailed_reasoning": "After affirming her love, her tone lifts, and a small, confident smile appears. When she says, 'It's the one place I get all my strength from,' her voice is filled with a newfound positivity and conviction. This suggests that her love is not a weakness but the source of her resilience and power.",
+    "summary_reasoning": "Confident smile, positive tone, empowering words."
+  },
+  {
+    "timestamp": 45.853,
+    "emotion": "resolute",
+    "detailed_reasoning": "As she lists the negative things she endures ('abuse and insults'), her expression becomes pained again, but it's mixed with a steadfast resolve. Her voice is heavy but firm, indicating that while the experience is painful, her decision to 'take' it is unwavering. This is not passive acceptance but a determined choice.",
+    "summary_reasoning": "Firm voice, pained but steady expression, enduring words."
+  },
+  {
+    "timestamp": 54.743,
+    "emotion": "sad",
+    "detailed_reasoning": "In her final statement, her resolve gives way to profound sadness. Her voice becomes fragile and quiet, her eyebrows arch in sorrow, and her expression is one of weary helplessness. The words 'I can't promise I'm not going to die' convey a deep despair, and her delivery is filled with resignation and sorrow.",
+    "summary_reasoning": "Fragile voice, weary expression, despairing words."
+  }
+]

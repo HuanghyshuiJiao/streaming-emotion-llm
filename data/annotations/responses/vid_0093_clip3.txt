@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 2.314,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker begins his monologue with a strong, declarative tone. His facial expression is serious and engaged, and he leans slightly towards the camera. The words 'golden ticket' are delivered with emphasis, indicating he is about to share a deeply held belief with conviction.",
+    "summary_reasoning": "Emphatic tone, serious expression, strong keywords."
+  },
+  {
+    "timestamp": 13.887,
+    "emotion": "convinced",
+    "detailed_reasoning": "The speaker's tone becomes more assertive as he says 'to me, that is what makes good actors.' He uses a direct hand gesture (pointing) to emphasize his personal conviction in the statement. His speech is clear and unwavering, showing strong belief in his own point of view.",
+    "summary_reasoning": "Assertive tone, hand gesture, clear speech."
+  },
+  {
+    "timestamp": 26.057,
+    "emotion": "emphatic",
+    "detailed_reasoning": "When describing what good actors do, his energy level rises. He says they 'own the character' with a powerful and definitive tone, using hand gestures that suggest taking control or possession. This delivery emphasizes the importance of this action for an actor.",
+    "summary_reasoning": "High energy, powerful tone, expressive hands."
+  },
+  {
+    "timestamp": 39.188,
+    "emotion": "passionate",
+    "detailed_reasoning": "After listing superficial elements like costumes and gadgets, his tone becomes more intense and focused as he says 'but it's still the core of it is you.' He points towards the camera to directly address the viewer, making his point personal and highlighting its central importance with renewed passion.",
+    "summary_reasoning": "Intense tone, direct gesture, focused expression."
+  },
+  {
+    "timestamp": 45.096,
+    "emotion": "sincere",
+    "detailed_reasoning": "The speaker's tone softens significantly when he talks about identifying with a character and seeing the 'humanity inside it.' His voice becomes gentler and more thoughtful, and his facial expression relaxes, conveying a sense of genuine, heartfelt belief in the importance of emotional connection.",
+    "summary_reasoning": "Soft tone, gentle voice, relaxed expression."
+  },
+  {
+    "timestamp": 53.688,
+    "emotion": "passionate",
+    "detailed_reasoning": "In his concluding statement, the speaker's passion resurfaces strongly. He uses repetition ('they are showing me') for emphasis, and his voice builds in volume and conviction. His hand gestures become more open and expressive, summarizing his core message with a final burst of earnest energy.",
+    "summary_reasoning": "Repetitive emphasis, rising volume, expressive gestures."
+  }
+]

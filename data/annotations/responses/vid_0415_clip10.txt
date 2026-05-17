@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 6.4,
+    "emotion": "neutral",
+    "detailed_reasoning": "The speaker begins her story with a calm and neutral tone. Her facial expression is relaxed, and her speech has a steady, narrative pace. She is simply setting the context for her story.",
+    "summary_reasoning": "Calm tone, relaxed face, steady pace."
+  },
+  {
+    "timestamp": 10.105,
+    "emotion": "intrigued",
+    "detailed_reasoning": "The speaker's eyebrows raise slightly and her eyes look up and to the side as if in thought. Her tone becomes more engaged as she describes the things she was hearing as \"very interesting,\" indicating a growing curiosity.",
+    "summary_reasoning": "Raised eyebrows, upward gaze, engaged tone."
+  },
+  {
+    "timestamp": 17.455,
+    "emotion": "determined",
+    "detailed_reasoning": "Her tone becomes more firm and decisive as she talks about deciding to volunteer to see the profession \"firsthand.\" Her expression is focused, conveying a sense of purpose and resolve to understand the career path better.",
+    "summary_reasoning": "Firm tone, focused expression."
+  },
+  {
+    "timestamp": 22.221,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker's pace slows down, and she makes a comparative statement about pharmacy versus other medical fields. Her expression is contemplative as she explains that the field is not as well-known, indicating she has given this topic thought.",
+    "summary_reasoning": "Slower pace, contemplative expression."
+  },
+  {
+    "timestamp": 29.191,
+    "emotion": "disappointed",
+    "detailed_reasoning": "There is a subtle shift in her tone to one of slight disappointment or lament. She says, \"It's kind of sad,\" and her facial expression matches this sentiment, with a slight downturn of her lips, reflecting her feeling about the public's lack of knowledge about pharmacists.",
+    "summary_reasoning": "Sad tone, slight lip downturn."
+  },
+  {
+    "timestamp": 33.975,
+    "emotion": "nostalgic",
+    "detailed_reasoning": "The speaker's tone softens, and she smiles slightly as she begins to talk about her family friends who were pharmacists. This change suggests a fond recollection of these people and this time in her life.",
+    "summary_reasoning": "Soft tone, slight smile."
+  },
+  {
+    "timestamp": 40.361,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker smiles and makes a humorous, parenthetical comment, as indicated by the on-screen text \"(And a couple lol).\" Her lighthearted laugh and smiling face clearly show her amusement while sharing this personal detail.",
+    "summary_reasoning": "Smiling, laughing, lighthearted tone."
+  },
+  {
+    "timestamp": 47.187,
+    "emotion": "content",
+    "detailed_reasoning": "Her expression becomes very positive and content as she talks about realizing she could see herself working as a pharmacist. She smiles genuinely, and her tone is filled with warmth and satisfaction, reflecting the positive outcome of her volunteer experience.",
+    "summary_reasoning": "Genuine smile, warm tone."
+  },
+  {
+    "timestamp": 52.312,
+    "emotion": "enthusiastic",
+    "detailed_reasoning": "The speaker's energy level rises, and her speech becomes more animated and slightly faster. She uses the word \"love\" and describes the job as \"really fast-paced\" with a bright expression, conveying her enthusiasm for that aspect of the work.",
+    "summary_reasoning": "Increased energy, animated speech, bright expression."
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 8.266,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins by recounting a serious medical situation. His tone is somber and his facial expression is neutral and focused. He speaks in a measured, narrative style, setting a grave tone for the story he is about to tell, which involves landing in a city and immediately undergoing blood work to be sent to specialists.",
+    "summary_reasoning": "Somber tone, neutral expression, serious topic."
+  },
+  {
+    "timestamp": 14.999,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker describes a period of two weeks where he was isolated and unable to speak. His vocal tone remains low and steady, but there is an underlying quality of sadness. He looks down at his notes as he speaks, suggesting the weight of this difficult memory. The content itself conveys a sense of helplessness, contributing to the somber mood.",
+    "summary_reasoning": "Low tone, downward gaze, difficult memory."
+  },
+  {
+    "timestamp": 22.452,
+    "emotion": "distressed",
+    "detailed_reasoning": "The speaker explicitly states his inability to explain his condition because he didn't understand it himself. This admission of profound confusion and helplessness is delivered with a tone that reflects remembered distress. His facial expression is strained, with a slight furrow in his brow, visually representing the internal turmoil he is describing.",
+    "summary_reasoning": "Helpless tone, strained expression, frustrating memory."
+  },
+  {
+    "timestamp": 29.362,
+    "emotion": "intense",
+    "detailed_reasoning": "The speaker shifts from describing his physical state to a metaphorical one, mentioning the \"Prince of Darkness.\" His vocal delivery becomes more intense and dramatic, with increased volume and emphasis on certain words. This change in vocal dynamics signals a shift to describing an intense internal or spiritual battle.",
+    "summary_reasoning": "Intense voice, dramatic language, metaphorical struggle."
+  },
+  {
+    "timestamp": 40.845,
+    "emotion": "despairing",
+    "detailed_reasoning": "He continues to quote the negative thoughts that plagued him, stating that his ministry and everything he is \"is over.\" To convey this, he adopts a lower, graver vocal tone, mimicking a voice of doom. His expression is stern and serious, effectively communicating the sense of finality and despair he felt during that time.",
+    "summary_reasoning": "Grave tone, serious expression, quoting despairing thoughts."
+  },
+  {
+    "timestamp": 49.803,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker's tone shifts back to a more factual, narrative style as he describes returning to the doctor's office. His voice is calm and measured, creating a sense of suspense as the audience awaits the diagnosis. This calmness contrasts with the previously described turmoil, indicating a shift in the storytelling from emotional recall to factual reporting.",
+    "summary_reasoning": "Calm tone, factual narrative, creating suspense."
+  },
+  {
+    "timestamp": 54.152,
+    "emotion": "accepting",
+    "detailed_reasoning": "The speaker delivers the diagnosis, \"myasthenia gravis,\" with a clear, straightforward, and calm voice. There is no emotional wavering or dramatic pause. This delivery shows that in the present moment of telling the story, he has come to terms with the diagnosis. The emotion conveyed is one of acceptance and resolve.",
+    "summary_reasoning": "Clear voice, straightforward delivery, resolved tone."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 0.852,
+    "emotion": "neutral",
+    "detailed_reasoning": "The speaker asks a question directly to the camera. Her facial expression is neutral, and her tone of voice is calm and even, suggesting she is in a state of simple reflection before the emotional content begins.",
+    "summary_reasoning": "Neutral expression, calm tone."
+  },
+  {
+    "timestamp": 9.343,
+    "emotion": "sad",
+    "detailed_reasoning": "After a long pause, the speaker's eyes have welled up with tears, and her lower lip trembles slightly. Her voice is soft and begins to waver as she starts to answer her own question, indicating the onset of sadness.",
+    "summary_reasoning": "Eyes welling up, trembling lip, wavering voice."
+  },
+  {
+    "timestamp": 13.569,
+    "emotion": "grief",
+    "detailed_reasoning": "A tear rolls down her cheek as she mentions wanting to see her mom again. Her voice is soft and filled with sorrow, and her facial expression shows deep emotional pain, clearly indicating a state of grief.",
+    "summary_reasoning": "Tearful, sorrowful tone, pained expression."
+  },
+  {
+    "timestamp": 22.581,
+    "emotion": "regret",
+    "detailed_reasoning": "The speaker's voice cracks as she talks about a time when her life made sense. Her eyes are downcast, and her expression conveys a deep sense of loss and longing for the past, pointing to regret.",
+    "summary_reasoning": "Voice crack, downcast eyes, expression of loss."
+  },
+  {
+    "timestamp": 27.287,
+    "emotion": "guilt",
+    "detailed_reasoning": "Her voice becomes slightly stronger but is filled with self-blame as she says, 'it's all my fault.' Her facial expression hardens with pain and self-reproach, marking a clear shift from sadness to guilt.",
+    "summary_reasoning": "Self-blaming words, pained expression, hardened tone."
+  },
+  {
+    "timestamp": 35.108,
+    "emotion": "anguish",
+    "detailed_reasoning": "The speaker's description of the accident becomes more graphic and her tone sharpens with pain and anger when she says 'she's dead.' Her face is contorted in a grimace, reflecting deep anguish.",
+    "summary_reasoning": "Harsh words, sharp tone, contorted face."
+  },
+  {
+    "timestamp": 42.858,
+    "emotion": "anger",
+    "detailed_reasoning": "Her voice grows louder and more forceful as she blames herself, particularly on the word 'stupid audition.' Her eyebrows are furrowed, and her expression is one of intense self-directed anger and frustration.",
+    "summary_reasoning": "Loud forceful voice, frustrated expression, self-blame."
+  },
+  {
+    "timestamp": 48.325,
+    "emotion": "agitation",
+    "detailed_reasoning": "Recalling the moment of the audition, her speech becomes faster and her tone more desperate. She describes being mad at her mother, and her facial expression is a mix of past anger and present guilt, showing a state of high agitation.",
+    "summary_reasoning": "Fast speech, desperate tone, mixed expression of anger and guilt."
+  },
+  {
+    "timestamp": 53.292,
+    "emotion": "despair",
+    "detailed_reasoning": "At the end of her monologue, her face crumples completely. Her voice breaks on the final word, 'wasn't,' filled with hopelessness. This culmination of her expressed guilt and grief results in a clear state of despair.",
+    "summary_reasoning": "Crumpled face, breaking voice, hopeless tone."
+  }
+]

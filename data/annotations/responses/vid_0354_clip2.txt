@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 10.106,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker's facial expression is downcast, with her eyes looking towards the floor. Her vocal tone is low and lacks energy, conveying a sense of disappointment and melancholy. The content of her speech, describing how she has heard nothing from someone and her expectations were not met, reinforces this feeling of sadness and being let down.",
+    "summary_reasoning": "Downcast eyes, low tone, disappointing words."
+  },
+  {
+    "timestamp": 12.41,
+    "emotion": "resigned",
+    "detailed_reasoning": "Her emotion shifts from a soft sadness to a more cynical resignation. Her eyes lift and look to the side, and her brow furrows slightly. The pace of her speech slows, and she delivers the line \"he is not a man of his word\" with a definitive, slightly bitter tone, as if accepting a harsh truth.",
+    "summary_reasoning": "Eyes look away, brow furrows, bitter tone."
+  },
+  {
+    "timestamp": 27.152,
+    "emotion": "hopeful",
+    "detailed_reasoning": "In response to an off-screen offer of help, her entire demeanor changes. Her eyes, previously downcast, now look up and are wide with surprise and disbelief. Her eyebrows are raised, and her voice becomes softer and higher in pitch as she asks, \"You would do that?\" This combination of visual and vocal cues indicates a sudden spark of hope.",
+    "summary_reasoning": "Wide eyes, raised eyebrows, higher pitch."
+  },
+  {
+    "timestamp": 30.541,
+    "emotion": "grateful",
+    "detailed_reasoning": "Continuing from the previous state of hope, her expression softens further. As she asks, \"For me?\", her voice is filled with a sense of wonder and appreciation. The question itself highlights her feeling of being unworthy of such kindness, which points towards a deep sense of gratitude.",
+    "summary_reasoning": "Soft expression, wonder in voice."
+  },
+  {
+    "timestamp": 37.616,
+    "emotion": "contemplative",
+    "detailed_reasoning": "After the offer is confirmed, her expression becomes thoughtful. Her gaze is directed upward and to the side, suggesting she is processing information and thinking deeply. Her speech becomes more measured as she connects the new information to her past worries, indicating a shift from an emotional reaction to a more analytical and contemplative state.",
+    "summary_reasoning": "Thoughtful expression, upward gaze, measured speech."
+  },
+  {
+    "timestamp": 50.062,
+    "emotion": "happy",
+    "detailed_reasoning": "After her moment of contemplation, her face completely transforms into a wide, genuine smile. Her eyes light up, and she looks directly forward with joy. Her vocal tone becomes bright and cheerful as she expresses her thanks. The change is unambiguous, moving from thoughtfulness to pure happiness and relief.",
+    "summary_reasoning": "Wide smile, bright eyes, cheerful tone."
+  },
+  {
+    "timestamp": 55.273,
+    "emotion": "excited",
+    "detailed_reasoning": "Building on her happiness, her energy level increases. Her speech becomes faster and more purposeful as she suggests a plan of action (\"I will ask Papa to write immediately...\"). Her smile remains, but her expression is now more animated and forward-looking, indicating excitement and a desire to act on her newfound hope.",
+    "summary_reasoning": "Fast speech, animated expression, proactive words."
+  },
+  {
+    "timestamp": 57.898,
+    "emotion": "shocked",
+    "detailed_reasoning": "In reaction to the single word \"No\" from the off-screen speaker, her excitement abruptly vanishes. Her smile disappears, her eyes widen, and her face falls into an expression of complete shock and confusion. The rapid and extreme shift from joy to bewilderment clearly indicates she is shocked by this unexpected negative response.",
+    "summary_reasoning": "Smile vanishes, face falls, eyes widen."
+  }
+]

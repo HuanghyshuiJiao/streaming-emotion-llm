@@ -1,0 +1,74 @@
+[
+  {
+    "timestamp": 5.738,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker sets a somber scene by describing the main character's loneliness. His vocal tone is calm but carries a melancholic weight, especially on the final word, 'lonely.' His facial expression is neutral, which is appropriate for a narrator introducing a sad theme.",
+    "summary_reasoning": "Melancholic tone, sad story content."
+  },
+  {
+    "timestamp": 16.192,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker continues the story in a neutral, narrative tone. His voice is steady and his posture is unchanged from the opening, indicating a calm transition to the next part of the story before the dramatic shift in character.",
+    "summary_reasoning": "Calm narrative tone, neutral posture."
+  },
+  {
+    "timestamp": 18.395,
+    "emotion": "aggressive",
+    "detailed_reasoning": "There is an abrupt and dramatic shift in vocal delivery. The speaker's voice becomes loud, deep, and gruff to impersonate the father character. The confrontational nature of the question 'did you eat your classmates?' combined with this harsh tone clearly portrays aggression.",
+    "summary_reasoning": "Loud gruff voice, aggressive character portrayal."
+  },
+  {
+    "timestamp": 20.037,
+    "emotion": "humorous",
+    "detailed_reasoning": "The speaker follows the meek confession 'Just a little bit' with a sudden, loud, and exaggerated monstrous roar. This sharp and unexpected contrast is a comedic device, intended to shock the audience and create humor through absurdity.",
+    "summary_reasoning": "Exaggerated roar, comedic timing."
+  },
+  {
+    "timestamp": 26.325,
+    "emotion": "strained",
+    "detailed_reasoning": "To convey Penelope's struggle, the speaker's vocal delivery becomes tense and deliberate, emphasizing the words 'really hard.' His controlled posture and earnest facial expression mirror the character's intense effort to control herself.",
+    "summary_reasoning": "Strained voice, tense posture."
+  },
+  {
+    "timestamp": 33.654,
+    "emotion": "frantic",
+    "detailed_reasoning": "The speaker interrupts his own sentence with a loud, high-pitched, theatrical scream. His voice becomes chaotic, and his body language exaggerated as he describes Penelope losing control. This performance creates a feeling of frantic, comedic panic.",
+    "summary_reasoning": "Loud scream, frantic voice, chaotic movements."
+  },
+  {
+    "timestamp": 36.297,
+    "emotion": "frustrated",
+    "detailed_reasoning": "After the moment of chaos, the speaker delivers the line 'Dang it' with a sharp, exasperated tone while slapping his leg. This combination of a frustrated vocal expression and a physical gesture of annoyance clearly communicates the emotion.",
+    "summary_reasoning": "Exasperated tone, physical gesture of frustration."
+  },
+  {
+    "timestamp": 42.484,
+    "emotion": "anxious",
+    "detailed_reasoning": "The speaker adopts a new character, using a high-pitched, rapid-fire vocal delivery. This fast-paced, panicked tone, combined with the content of a child tattling to a teacher, effectively portrays the character's anxiety and urgency.",
+    "summary_reasoning": "High-pitched, fast-paced voice, panicked tone."
+  },
+  {
+    "timestamp": 45.207,
+    "emotion": "fearful",
+    "detailed_reasoning": "The speaker's voice drops to a hushed, serious tone to convey the fear of the other students. He physically steps back and his eyes widen, using his body language to reinforce the emotion of fear that he is narrating.",
+    "summary_reasoning": "Hushed tone, wide eyes, fearful posture."
+  },
+  {
+    "timestamp": 50.072,
+    "emotion": "playful",
+    "detailed_reasoning": "After building up a moment of fear, the speaker shifts to a light, matter-of-fact tone to deliver the punchline that the unafraid character is a goldfish. The comedic timing and the slight smile in his voice create a playful and humorous mood.",
+    "summary_reasoning": "Comedic timing, light tone, humorous punchline."
+  },
+  {
+    "timestamp": 56.92,
+    "emotion": "hopeful",
+    "detailed_reasoning": "The speaker's voice becomes soft and gentle, reflecting Penelope's sincere attempt to make a friend. His physical action of crouching down to address the imaginary goldfish conveys a sense of vulnerability and hope.",
+    "summary_reasoning": "Soft gentle voice, hopeful action."
+  },
+  {
+    "timestamp": 58.946,
+    "emotion": "vulnerable",
+    "detailed_reasoning": "For the final line, the speaker's voice becomes very small, quiet, and pleading. He is physically crouched low to the ground with an earnest, pleading facial expression, which powerfully communicates the character's vulnerability and deep longing for connection.",
+    "summary_reasoning": "Small pleading voice, crouched posture, earnest expression."
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker starts by explaining a medical test. Her tone is measured and even, and her facial expression is neutral. She is looking directly at the camera, conveying information in a straightforward manner, which indicates a calm and informative state.",
+    "summary_reasoning": "Measured tone, neutral expression, direct gaze."
+  },
+  {
+    "timestamp": 9.463,
+    "emotion": "neutral",
+    "detailed_reasoning": "The speaker continues her explanation of the test results. Her tone remains neutral and clinical as she describes the different outcomes. Her facial expression is slightly pensive, but her overall demeanor is objective and focused on conveying factual information.",
+    "summary_reasoning": "Neutral tone, clinical language, pensive expression."
+  },
+  {
+    "timestamp": 22.118,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker transitions from a general explanation to her personal story. Her tone becomes more personal and grave as she reveals her diagnosis. Her facial expression turns serious, and her eyebrows are slightly furrowed, indicating the weight of the information she is sharing.",
+    "summary_reasoning": "Personal tone, grave voice, serious expression."
+  },
+  {
+    "timestamp": 30.972,
+    "emotion": "somber",
+    "detailed_reasoning": "After stating she has the highest grade of PFO, she pauses and adds, 'So mine was fairly large.' Her tone is low and her pace is slow, emphasizing the seriousness of her condition. Her facial expression is somber, reflecting on the gravity of the diagnosis.",
+    "summary_reasoning": "Low tone, slow pace, somber expression."
+  },
+  {
+    "timestamp": 35.901,
+    "emotion": "grateful",
+    "detailed_reasoning": "There is a distinct shift in emotion. The speaker's tone softens and becomes lighter as she says she was 'just grateful.' Her facial muscles relax, and she looks slightly upward as if in relief. The explicit use of the word 'grateful' confirms this emotional shift.",
+    "summary_reasoning": "Soft tone, relaxed face, upward glance."
+  },
+  {
+    "timestamp": 40.89,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's tone becomes serious and clinical again as she relays the doctor's conclusion about the blood clot traveling to her heart. Her expression is grave, and she uses hand gestures to trace the path, showing the seriousness of the event.",
+    "summary_reasoning": "Serious tone, grave expression, illustrative gestures."
+  },
+  {
+    "timestamp": 47.622,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker shifts back to an explanatory mode, contrasting her situation with what typically happens with a blood clot. Her tone becomes more neutral and educational, similar to the beginning of the clip. Her expression is focused as she explains the biological process, indicating an informative stance.",
+    "summary_reasoning": "Explanatory tone, neutral expression, focused gaze."
+  }
+]

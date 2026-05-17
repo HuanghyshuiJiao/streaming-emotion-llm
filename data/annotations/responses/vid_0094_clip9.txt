@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 3.735,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker begins by reflecting on her acting process. Her tone is calm and measured, and her facial expression is neutral yet engaged, looking slightly upward as if recalling a memory. This combination of verbal and non-verbal cues suggests a state of thoughtful reflection as she introduces her topic.",
+    "summary_reasoning": "Calm tone, neutral face, recalling memory."
+  },
+  {
+    "timestamp": 10.081,
+    "emotion": "playful",
+    "detailed_reasoning": "The speaker's demeanor shifts as she invites the audience to guess which monologue she's referring to. A slight, knowing smile appears, and her tone becomes lighter and more engaging, almost as if sharing a small game or secret. This change indicates a move to a more playful and interactive mood.",
+    "summary_reasoning": "Slight smile, light tone, audience engagement."
+  },
+  {
+    "timestamp": 16.907,
+    "emotion": "amused",
+    "detailed_reasoning": "After giving a clue about the monologue, her smile widens and she subtly shakes her head. Her tone remains light and teasing. This suggests she finds the memory amusing and is enjoying the playful interaction she has set up with the viewer.",
+    "summary_reasoning": "Wider smile, teasing tone, shaking head."
+  },
+  {
+    "timestamp": 19.29,
+    "emotion": "happy",
+    "detailed_reasoning": "The speaker's expression becomes more genuinely joyful as she contrasts the somber character with her actual personality. Her smile is broad and authentic, her eyes crinkle, and her voice takes on a distinctly cheerful and happy tone, clearly expressing her contentment with who she is.",
+    "summary_reasoning": "Broad smile, cheerful tone, positive self-description."
+  },
+  {
+    "timestamp": 29.54,
+    "emotion": "reflective",
+    "detailed_reasoning": "The emotion shifts from overt happiness to a more introspective state. Her smile fades, she looks away thoughtfully, and her tone becomes more subdued as she describes the acting experience as \"interesting.\" This indicates she is reflecting on the deeper meaning or feeling of that particular performance.",
+    "summary_reasoning": "Fading smile, thoughtful gaze, subdued tone."
+  },
+  {
+    "timestamp": 34.49,
+    "emotion": "encouraging",
+    "detailed_reasoning": "Transitioning from her personal reflection, the speaker adopts a more advisory role. Her tone becomes helpful and supportive, and her expression is open as she states, \"I hope that it helps you.\" This conveys a genuine desire to offer encouragement and useful advice to the audience.",
+    "summary_reasoning": "Helpful tone, open expression, offering advice."
+  },
+  {
+    "timestamp": 41.218,
+    "emotion": "empathetic",
+    "detailed_reasoning": "The speaker shows understanding and reassurance towards the audience. Her tone becomes gentle and her facial expression is soft and earnest as she says \"don't feel bad. Everyone's different.\" This demonstrates empathy for viewers who might struggle with her acting method.",
+    "summary_reasoning": "Gentle tone, earnest expression, reassuring words."
+  },
+  {
+    "timestamp": 46.464,
+    "emotion": "determined",
+    "detailed_reasoning": "The speaker's mood shifts to one of conviction and seriousness. Her tone becomes more firm and definitive as she explains her own process, stating, \"this is how I do it.\" Her focused expression reinforces the determined and resolute nature of her artistic philosophy.",
+    "summary_reasoning": "Firm tone, focused expression, definitive statement."
+  },
+  {
+    "timestamp": 51.709,
+    "emotion": "serious",
+    "detailed_reasoning": "As she concludes, her focus intensifies. Her expression is serious, and her vocal delivery is deliberate and paced, emphasizing each word in the list \"Every time, every scene, every day.\" This conveys the deep seriousness and passion she feels about the need for constant newness in performance.",
+    "summary_reasoning": "Intense focus, serious expression, deliberate speech."
+  }
+]

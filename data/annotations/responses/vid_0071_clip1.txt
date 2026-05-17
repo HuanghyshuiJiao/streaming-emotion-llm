@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 2.335,
+    "emotion": "nostalgic",
+    "detailed_reasoning": "The speaker begins by talking about remembering his \"true love.\" His tone is calm and reflective, his gaze is slightly distant, and his pace is slow, suggesting he is recalling a past memory with a sense of nostalgia.",
+    "summary_reasoning": "Calm tone, reflective gaze, slow pace."
+  },
+  {
+    "timestamp": 7.705,
+    "emotion": "calm",
+    "detailed_reasoning": "Despite describing the two-month relationship as \"really hectic,\" the speaker's tone and facial expression remain neutral and calm. There's no sign of stress or agitation in his voice or face, indicating a detached and calm retelling of the events.",
+    "summary_reasoning": "Neutral tone, neutral expression, calm delivery."
+  },
+  {
+    "timestamp": 15.759,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker tells an exaggerated story about being bumped into so hard he almost hit an ambulance that already had two bodies in it. The absurdity of the story, combined with his deadpan delivery and a very slight smirk, indicates that he is being humorous and is amused by the memory.",
+    "summary_reasoning": "Absurd story, deadpan delivery, slight smirk."
+  },
+  {
+    "timestamp": 20.307,
+    "emotion": "relieved",
+    "detailed_reasoning": "After the dramatic ambulance story, he says, \"thankfully it didn't happen.\" His tone is slightly lighter, and his facial muscles relax, conveying a mock sense of relief that reinforces the humorous nature of the preceding anecdote.",
+    "summary_reasoning": "Lighter tone, relaxed facial muscles."
+  },
+  {
+    "timestamp": 33.235,
+    "emotion": "happy",
+    "detailed_reasoning": "The speaker's tone softens and becomes more positive as he describes the \"honeymoon period.\" His eyes seem to light up slightly, and his pace is gentle, suggesting a fond and happy memory.",
+    "summary_reasoning": "Soft tone, positive inflection, gentle pace."
+  },
+  {
+    "timestamp": 38.587,
+    "emotion": "nostalgic",
+    "detailed_reasoning": "He explicitly calls the honeymoon period \"the most fun I've ever had in my life.\" His gaze shifts downward as if deep in thought, and his tone carries a strong sense of fond remembrance and nostalgia for that specific time.",
+    "summary_reasoning": "Reflective downward gaze, fond tone."
+  },
+  {
+    "timestamp": 44.66,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker describes waking up and putting pepper spray in their eyes \"just for the kicks of it.\" The statement is absurd, and his completely deadpan, matter-of-fact delivery creates a sense of dark humor. He seems amused by the ridiculousness of the memory.",
+    "summary_reasoning": "Absurd content, deadpan delivery, dark humor."
+  },
+  {
+    "timestamp": 51.776,
+    "emotion": "amused",
+    "detailed_reasoning": "Continuing with the absurd memories, he mentions dropping things on each other's faces while asleep. His tone remains flat, but the content is so bizarre that it continues the theme of dark, amused humor from the previous statement.",
+    "summary_reasoning": "Bizarre content, flat tone, continued dark humor."
+  },
+  {
+    "timestamp": 53.68,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The video ends with the speaker trailing off with \"And... I don't know.\" His voice becomes quieter, his gaze shifts, and he seems to be searching for words, transitioning from amused storytelling to a more uncertain, thoughtful state.",
+    "summary_reasoning": "Voice trails off, shifting gaze, uncertain tone."
+  }
+]

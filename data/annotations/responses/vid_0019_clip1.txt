@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 2.894,
+    "emotion": "happy",
+    "detailed_reasoning": "The speaker begins by stating she is seeing a \"wonderful man.\" Her facial expression is a soft, genuine smile, and her vocal tone is warm and pleasant. This combination of verbal content and non-verbal cues indicates a clear state of happiness and contentment.",
+    "summary_reasoning": "Smiling, warm tone, positive words."
+  },
+  {
+    "timestamp": 25.442,
+    "emotion": "pleased",
+    "detailed_reasoning": "After explaining the serendipitous way she reconnected with David, where both their marriages were ending, she says they have \"so much in common.\" Her smile widens slightly and her tone is very positive, indicating she is pleased with how things have turned out and the connection they share.",
+    "summary_reasoning": "Smiling, positive tone, sharing good news."
+  },
+  {
+    "timestamp": 34.444,
+    "emotion": "joyful",
+    "detailed_reasoning": "The speaker's demeanor shifts significantly. She explicitly says, \"I get the giggles,\" and her facial expression becomes much more animated with a wide, bright smile. She looks upward as if fondly reminiscing, and her voice becomes lighter and more playful. This indicates a shift from simple happiness to a more giddy, joyful state.",
+    "summary_reasoning": "Giggling, wide smile, playful tone."
+  },
+  {
+    "timestamp": 47.449,
+    "emotion": "loving",
+    "detailed_reasoning": "The speaker's energy calms down from the previous joyful state. Her smile becomes very soft and gentle, her eyes appear sincere, and she says, \"I love him so much.\" The tone is deeply affectionate and heartfelt, indicating a profound sense of love.",
+    "summary_reasoning": "Soft expression, sincere tone, declaring love."
+  },
+  {
+    "timestamp": 53.821,
+    "emotion": "defensive",
+    "detailed_reasoning": "After a long pause, her expression changes completely. Her head tilts, her eyebrows lower slightly, and her tone becomes questioning and pointed as she asks, \"Why is that so hard to believe?\" This suggests she is reacting to perceived disbelief from the other person and is defending the validity of her feelings.",
+    "summary_reasoning": "Tilted head, questioning tone, challenging words."
+  },
+  {
+    "timestamp": 56.867,
+    "emotion": "assertive",
+    "detailed_reasoning": "To justify her current feelings, she brings up a past experience of falling in love quickly. Her tone becomes firm and declarative, and she makes direct eye contact with the camera. She is no longer just questioning the disbelief but is actively making a case for herself, shifting from a defensive stance to a more assertive one.",
+    "summary_reasoning": "Firm tone, direct eye contact, making a point."
+  }
+]

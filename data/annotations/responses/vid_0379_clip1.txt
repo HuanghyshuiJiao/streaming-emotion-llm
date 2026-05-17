@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 3.716,
+    "emotion": "happy",
+    "detailed_reasoning": "The speaker begins her monologue by repeatedly thanking the audience. Her facial expression is a wide, genuine smile, and her tone of voice is high-pitched and joyful, reflecting happiness and gratitude for the warm reception.",
+    "summary_reasoning": "Wide smile, joyful tone."
+  },
+  {
+    "timestamp": 13.408,
+    "emotion": "confident",
+    "detailed_reasoning": "After introducing herself, the speaker mentions her recent popular projects, \"Anyone But You\" and \"Euphoria.\" She delivers this line with a confident smile and a steady, engaging tone, indicating pride and self-assurance in her work.",
+    "summary_reasoning": "Confident smile, steady tone."
+  },
+  {
+    "timestamp": 18.315,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker makes a self-deprecating joke about her film \"Madame Web,\" saying the audience \"definitely did not see me\" in it. Her delivery is lighthearted, with a knowing smile and a pause for comedic effect, showing she is amused by the film's poor reception.",
+    "summary_reasoning": "Self-deprecating joke, smiling."
+  },
+  {
+    "timestamp": 23.161,
+    "emotion": "excited",
+    "detailed_reasoning": "The speaker's tone shifts to become more enthusiastic and forward-leaning as she announces her new film, \"Immaculate.\" Her eyes widen slightly and her voice has a clear, promotional energy, conveying excitement about her upcoming project.",
+    "summary_reasoning": "Enthusiastic tone, forward energy."
+  },
+  {
+    "timestamp": 28.688,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "She jokes that playing a nun in her new film is \"perfect casting.\" The way she says this, with a slight smirk and a subtly ironic tone, indicates sarcasm and humor, playing against her public image.",
+    "summary_reasoning": "Slight smirk, ironic tone."
+  },
+  {
+    "timestamp": 32.807,
+    "emotion": "sincere",
+    "detailed_reasoning": "The speaker's demeanor changes as she expresses a desire for the audience to get to know \"the real me.\" Her tone becomes softer and more earnest, and her smile is less performative, suggesting a moment of genuine sincerity.",
+    "summary_reasoning": "Softer tone, earnest expression."
+  },
+  {
+    "timestamp": 38.901,
+    "emotion": "self-aware",
+    "detailed_reasoning": "She describes the public's perception of her as \"the girl on TV who screams, cries, and has sex.\" Her tone is wry and her expression is one of knowing acknowledgment. This demonstrates a self-aware and humorous take on her own typecasting.",
+    "summary_reasoning": "Wry tone, acknowledging stereotype."
+  },
+  {
+    "timestamp": 41.667,
+    "emotion": "playful",
+    "detailed_reasoning": "Following up on her description of being typecast, she delivers the punchline \"Sometimes it's all three at the same time\" with a playful smirk and a light, teasing tone. This turns the previous self-awareness into a clear, playful joke.",
+    "summary_reasoning": "Playful smirk, teasing tone."
+  },
+  {
+    "timestamp": 49.505,
+    "emotion": "warm",
+    "detailed_reasoning": "The speaker begins talking about her hometown, Spokane, on the border of Washington and Idaho. Her tone becomes noticeably warmer and more personal, and her facial expression is soft and friendly, conveying a sense of warmth and connection to her roots.",
+    "summary_reasoning": "Warm tone, friendly expression."
+  },
+  {
+    "timestamp": 59.248,
+    "emotion": "mischievous",
+    "detailed_reasoning": "She ends her thought with a punchline referencing a political controversy associated with her family, saying she's from Idaho when asked about a \"Trump-themed party.\" She delivers the line with a mischievous look, a slight head tilt, and a sly tone, landing a well-timed, edgy joke.",
+    "summary_reasoning": "Mischievous look, sly tone, edgy joke."
+  }
+]

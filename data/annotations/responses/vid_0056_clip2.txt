@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 3.196,
+    "emotion": "assertive",
+    "detailed_reasoning": "The video begins with the speaker addressing the audience directly. His tone is firm and commanding from the very first spoken phrase. His facial expression is serious and his posture is confrontational, establishing a tone of authority and assertiveness.",
+    "summary_reasoning": "Firm tone, serious expression, confrontational posture."
+  },
+  {
+    "timestamp": 10.266,
+    "emotion": "demanding",
+    "detailed_reasoning": "The speaker's pace of speech begins to accelerate significantly as he starts listing various sports leagues. The repetition of \"you must\" and the rapid-fire delivery of the list shifts the emotion from being simply assertive to being actively demanding. The vocal intensity is clearly rising.",
+    "summary_reasoning": "Accelerated pace, vocal intensity, repetition."
+  },
+  {
+    "timestamp": 18.559,
+    "emotion": "aggressive",
+    "detailed_reasoning": "The list of demands becomes increasingly specific and absurd. The speaker's voice grows louder and more strained, moving from a demanding tone to an overtly aggressive one. He is shouting his words, and his facial expression shows tension and anger as he lays out these impossible tasks.",
+    "summary_reasoning": "Loud shouting, strained voice, tense facial expression."
+  },
+  {
+    "timestamp": 32.328,
+    "emotion": "enraged",
+    "detailed_reasoning": "The speaker's delivery reaches its peak intensity. He is yelling at the top of his lungs, and his face is contorted with the effort and the performed rage. The demands have escalated to a point of complete absurdity, and his emotion matches this by becoming a full-blown, enraged tirade.",
+    "summary_reasoning": "Peak volume, yelling, contorted face."
+  },
+  {
+    "timestamp": 42.218,
+    "emotion": "contemptuous",
+    "detailed_reasoning": "After a brief pause, the speaker offers an alternative to the impossible sports task: baking cookies. The dramatic shift in the content of the demand, while maintaining the same enraged and loud delivery, creates a sense of sarcastic contempt. He is dismissing the listener's potential failure with a demeaning and absurd alternative.",
+    "summary_reasoning": "Sarcastic content, enraged tone, dismissive alternative."
+  },
+  {
+    "timestamp": 45.488,
+    "emotion": "challenging",
+    "detailed_reasoning": "The speaker asks, \"Any questions?\" but his tone is not inquisitive. It is a sharp, aggressive, and challenging dare. His eyes are wide and his expression is confrontational, implying that any question would be met with further aggression. It's a rhetorical challenge, not a real question.",
+    "summary_reasoning": "Aggressive tone, confrontational expression, rhetorical question."
+  },
+  {
+    "timestamp": 47.333,
+    "emotion": "conspiratorial",
+    "detailed_reasoning": "There is a complete shift in demeanor. The speaker's aggressive and enraged persona vanishes. His voice drops in volume, his pace slows, and a slight smirk appears on his face. The final, crude line is delivered in a low, shared tone, as if letting the audience in on the real, underlying goal, creating a conspiratorial and mischievous mood.",
+    "summary_reasoning": "Lowered voice, smirk, slowed pace, crude punchline."
+  }
+]

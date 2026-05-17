@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp": 2.916,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker begins by directly addressing someone off-stage named Bill. Her tone is casual but firm, and she wears a slight smirk. When she turns to the audience to introduce herself as 'his girlfriend,' her body language is open and her voice is clear, indicating she is confident and in control of the situation she is initiating.",
+    "summary_reasoning": "Direct address, firm tone, smirk."
+  },
+  {
+    "timestamp": 6.062,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "The speaker's tone shifts to a clearly sarcastic and condescending one. While saying the words 'this isn't going to take long,' which sound reassuring, she immediately follows it with a biting insult about the person's sexual performance. Her knowing look to the audience and the wry delivery of the insult highlight the sarcastic nature of her words.",
+    "summary_reasoning": "Sarcastic tone, condescending look, insulting words."
+  },
+  {
+    "timestamp": 12.333,
+    "emotion": "angry",
+    "detailed_reasoning": "After a brief, purposeful pause, the speaker's emotion escalates from sarcasm to overt anger. Her facial expression hardens, her eyes narrow, and she delivers the line 'You're a fucking knobhead' with a sharp, aggressive tone and increased volume, directly expressing her rage.",
+    "summary_reasoning": "Hardened expression, aggressive tone, loud volume."
+  },
+  {
+    "timestamp": 14.036,
+    "emotion": "scornful",
+    "detailed_reasoning": "Immediately after her outburst of anger, her tone shifts to one of mockery and scorn. She lets out a short, humorless laugh and says 'Which is funny,' before delivering another insult about his 'tiny dick.' Her expression is one of contemptuous amusement, as if she finds his flaws both pathetic and laughable.",
+    "summary_reasoning": "Mocking tone, humorless laugh, contemptuous expression."
+  },
+  {
+    "timestamp": 25.081,
+    "emotion": "vindictive",
+    "detailed_reasoning": "The speaker's focus shifts from past grievances to a future prediction. Her tone becomes triumphant and malicious as she describes a scenario where he will be helpless without her. The slight smile and the pointed, confident delivery suggest she takes pleasure in imagining his future suffering and her own vindication.",
+    "summary_reasoning": "Triumphant tone, malicious smile, confident delivery."
+  },
+  {
+    "timestamp": 29.11,
+    "emotion": "smug",
+    "detailed_reasoning": "After predicting he'll come running back, she contrasts his future desperation with her own success. She delivers the line about being with someone new and the 'gag reflex' with a self-satisfied smile and a smug tone, clearly pleased with her own clever and cutting remark.",
+    "summary_reasoning": "Self-satisfied smile, smug tone, clever insult."
+  },
+  {
+    "timestamp": 35.102,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker's pace quickens as she states she could 'write a fucking novella' of things to say. Her tone becomes more exasperated and her gestures more animated, conveying a sense of overwhelming frustration with the limited time she has to air all her grievances. This transitions her into a rapid-fire list of insults.",
+    "summary_reasoning": "Fast pace, exasperated tone, animated gestures."
+  },
+  {
+    "timestamp": 41.252,
+    "emotion": "disgusted",
+    "detailed_reasoning": "When delivering the line 'Your chilli con carne... tastes like shit,' her facial expression contorts into one of pure disgust. The pause before the final words, combined with her repulsed look, effectively communicates her revulsion for his cooking and, by extension, for him.",
+    "summary_reasoning": "Repulsed facial expression, disgusted tone."
+  },
+  {
+    "timestamp": 46.28,
+    "emotion": "calm",
+    "detailed_reasoning": "There is a dramatic and sudden shift in her entire demeanor. She stops her angry tirade and begins explaining the offside rule in soccer in a completely flat, monotonous, and instructional tone. Her facial expression becomes neutral and her posture is like that of a teacher. This jarring change to a calm, robotic delivery is a rhetorical device to underscore her contempt.",
+    "summary_reasoning": "Monotonous instructional tone, neutral face, jarring shift."
+  },
+  {
+    "timestamp": 55.235,
+    "emotion": "hateful",
+    "detailed_reasoning": "The calm facade drops instantly for her final blow. Her voice becomes low and serious as she says, 'And I told your mum.' She delivers the final line, 'She said you're a cunt,' with a dead-serious, hard expression. The lack of shouting and the cold, final tone convey a deep-seated hatred and malice.",
+    "summary_reasoning": "Low serious tone, hard expression, cold delivery."
+  },
+  {
+    "timestamp": 57.7,
+    "emotion": "joyful",
+    "detailed_reasoning": "The performance abruptly ends as she breaks character, looks off to the side, and asks, 'Do you want a tone, babe?' Her face breaks into a wide, genuine smile, and she laughs. Her voice is light and friendly, showing relief and amusement now that the intense monologue is over. This signals a complete shift from the character's hatefulness to the performer's own joy.",
+    "summary_reasoning": "Wide smile, genuine laughter, friendly tone."
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 1.193,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker starts with a powerful and energetic tone, clenching his fist. His voice is loud and his pace is quick as he recounts a series of victories, using words like \"fight back,\" \"beat Penn State,\" and \"beat Ohio State.\" The combination of his vocal intensity, assertive body language, and triumphant words conveys a strong sense of passion and excitement about the memory.",
+    "summary_reasoning": "Loud voice, clenched fist, triumphant words."
+  },
+  {
+    "timestamp": 12.347,
+    "emotion": "triumphant",
+    "detailed_reasoning": "The speaker's passion builds to a clear peak of triumph. His voice crescendos as he exclaims, \"winning the national championship your senior year!\" He raises his fist high in the air, a classic gesture of victory, and his facial expression is one of pure elation and pride. This moment is the climax of his celebratory story.",
+    "summary_reasoning": "Vocal crescendo, raised fist, elated expression."
+  },
+  {
+    "timestamp": 22.2,
+    "emotion": "motivational",
+    "detailed_reasoning": "After pausing, the speaker's tone shifts from celebratory to instructional. He directly addresses the audience with advice: \"make your fear disappear.\" While still strong, his voice is more measured and his expression is focused and serious. He is now motivating the audience, using his personal story as a foundation for his lesson.",
+    "summary_reasoning": "Direct address, instructional tone, focused expression."
+  },
+  {
+    "timestamp": 35.573,
+    "emotion": "determined",
+    "detailed_reasoning": "The speaker's tone becomes more forceful and defiant. He uses short, powerful sentences like \"Prove them wrong.\" His expression is resolute, and his vocal delivery is sharp and emphatic. The emotion has shifted from general motivation to a more focused and intense feeling of determination against adversity.",
+    "summary_reasoning": "Forceful tone, sharp delivery, resolute expression."
+  },
+  {
+    "timestamp": 39.278,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker signals a transition by saying, \"Which leads me to the third way to make magic.\" His tone softens, his pace slows, and his body language becomes more open and explanatory. He is moving from a confrontational theme (\"prove them wrong\") to a more abstract and gentle concept, requiring a more thoughtful and measured delivery.",
+    "summary_reasoning": "Softer tone, slower pace, transitional phrase."
+  },
+  {
+    "timestamp": 47.807,
+    "emotion": "sincere",
+    "detailed_reasoning": "As he defines empathy, the speaker's tone becomes very gentle and his facial expression is open and earnest. He is talking about a deeply human and connective emotion, and his demeanor shifts to reflect this. The sincerity in his voice and face is meant to build a connection with the audience on this topic.",
+    "summary_reasoning": "Gentle tone, earnest expression, connective topic."
+  },
+  {
+    "timestamp": 54.915,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker's mood shifts dramatically as he begins a difficult personal story. His voice drops in pitch and volume, his pace slows down, and his expression becomes serious and sad. By sharing a vulnerable memory (\"My dad lost his job\"), his emotion turns to one of somber reflection.",
+    "summary_reasoning": "Lowered voice, slowed pace, serious expression."
+  }
+]

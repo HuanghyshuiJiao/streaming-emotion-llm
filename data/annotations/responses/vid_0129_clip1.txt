@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 2.073,
+    "emotion": "amazement",
+    "detailed_reasoning": "The speaker begins with the word \"Insane,\" delivered with wide eyes and a tone of disbelief. His body language, including running a hand through his hair, suggests he is overwhelmed and impressed by the information he is relaying about the cost of the hotel suite.",
+    "summary_reasoning": "Exclamatory word, disbelieving tone, wide eyes."
+  },
+  {
+    "timestamp": 9.222,
+    "emotion": "humor",
+    "detailed_reasoning": "The speaker's tone shifts to be more conversational and lighthearted. He makes a self-deprecating joke about the expensive room not being for him, using a slightly amused facial expression and tone to engage the audience in the humor of the situation.",
+    "summary_reasoning": "Conversational tone, amused expression, joking content."
+  },
+  {
+    "timestamp": 16.391,
+    "emotion": "excitement",
+    "detailed_reasoning": "The speaker becomes much more animated, using expansive gestures and a louder, more emphatic tone of voice. He is recounting a dramatic moment from a play, and his high energy, rapid speech, and engaging body language all convey a sense of excitement and performance.",
+    "summary_reasoning": "Animated gestures, loud emphatic tone, high energy."
+  },
+  {
+    "timestamp": 24.04,
+    "emotion": "disbelief",
+    "detailed_reasoning": "After a brief, calmer transition, his emotion shifts back to disbelief. He says, \"I couldn't believe it when he came in,\" with a look of genuine surprise on his face and a tone of voice that reflects his astonishment at the memory, setting the stage for the unlikely story he is about to tell.",
+    "summary_reasoning": "Surprised expression, astonished tone, explicit words of disbelief."
+  },
+  {
+    "timestamp": 33.18,
+    "emotion": "humor",
+    "detailed_reasoning": "The speaker launches into a comedic anecdote about mistaking a pharmacist for Judi Dench. His voice is energetic and performative as he describes acting his heart out, and his facial expressions shift from excitement to mock confusion, culminating in a punchline delivered with perfect comedic timing, which elicits laughter.",
+    "summary_reasoning": "Comedic anecdote, energetic performance, expressive face, punchline delivery."
+  },
+  {
+    "timestamp": 41.969,
+    "emotion": "amazement",
+    "detailed_reasoning": "Recounting the arrival of the actual famous person, his emotion shifts back to strong amazement. He uses profanity (\"Fucking hell\") to emphasize his shock, and his tone is filled with incredulity. His wide-eyed expression and gestures toward an imagined view of the London Eye reinforce this feeling of overwhelming awe.",
+    "summary_reasoning": "Expletive, incredulous tone, wide-eyed expression, shocked words."
+  },
+  {
+    "timestamp": 51.299,
+    "emotion": "joy",
+    "detailed_reasoning": "The speaker's demeanor softens as he recalls the positive events after the show. His tone becomes warm and appreciative, and a gentle smile appears on his face. He speaks slowly and sincerely when quoting the compliment they received, conveying a deep sense of happiness and gratitude from the memory.",
+    "summary_reasoning": "Soft tone, gentle smile, sincere delivery, positive content."
+  },
+  {
+    "timestamp": 57.9,
+    "emotion": "fulfillment",
+    "detailed_reasoning": "The speaker's tone becomes reflective and his expression turns sincere and slightly dreamy. He connects the events of the night to a universal childhood dream, conveying a profound sense of fulfillment and wonder. His voice is soft and introspective, indicating that this was a deeply meaningful, dream-come-true moment for him.",
+    "summary_reasoning": "Reflective tone, sincere expression, soft voice, concluding a dream."
+  }
+]

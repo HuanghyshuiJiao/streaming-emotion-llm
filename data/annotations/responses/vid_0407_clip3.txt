@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 9.5,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker's voice is deep, slow, and maintains a consistently low pitch. The content of the speech is philosophical and melancholic, discussing how we create myths and believe in them without question. The lack of visual cues (it's a still, dark image) forces reliance on the audio, which conveys a serious and somber mood.",
+    "summary_reasoning": "Deep, slow, low-pitched voice; philosophical, melancholic content."
+  },
+  {
+    "timestamp": 12.483,
+    "emotion": "cynical",
+    "detailed_reasoning": "The speaker's tone remains somber, but the content takes a cynical turn with the statement, 'The best heroes are the dead ones.' The matter-of-fact delivery of this pessimistic idea suggests a cynical worldview, as if this is an undeniable, grim truth.",
+    "summary_reasoning": "Cynical content, matter-of-fact tone."
+  },
+  {
+    "timestamp": 21.693,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker's tone remains steady and measured. Although the words discuss avoiding the truth, the vocal delivery is calm and controlled, suggesting a detached, observational perspective on the self-deception he is describing. The consistency in his voice indicates a calm emotional state.",
+    "summary_reasoning": "Steady, measured tone; detached perspective."
+  },
+  {
+    "timestamp": 34.733,
+    "emotion": "emphatic",
+    "detailed_reasoning": "There is a slight increase in vocal force and a more declarative rhythm as the speaker says, 'Heroes are never born. We create them.' This shift from a purely narrative tone to a more direct, assertive statement suggests he is emphasizing a key point in his argument.",
+    "summary_reasoning": "Increased vocal force, declarative rhythm."
+  },
+  {
+    "timestamp": 48.837,
+    "emotion": "intense",
+    "detailed_reasoning": "The speaker's tone becomes more direct and confrontational. The statement 'That's why you must die' is a dramatic escalation. Even though delivered without shouting, the directness and the gravity of the words create a moment of high intensity, breaking from the previous philosophical tone.",
+    "summary_reasoning": "Direct, confrontational tone; grave content."
+  },
+  {
+    "timestamp": 55.888,
+    "emotion": "sad",
+    "detailed_reasoning": "The scene changes to a new speaker. Her facial expression is melancholic, with downcast eyes. Her voice is soft and has a slight quiver as she says, 'You found me,' immediately establishing a sad and vulnerable emotional state.",
+    "summary_reasoning": "Melancholic expression, soft, quivering voice."
+  },
+  {
+    "timestamp": 59.788,
+    "emotion": "hopeless",
+    "detailed_reasoning": "The speaker's voice drops in volume and her pace slows on the final words, 'lost and broken.' Her facial expression remains one of deep sadness, and the specific words she uses convey a sense of finality and despair, moving beyond simple sadness to a feeling of hopelessness.",
+    "summary_reasoning": "Voice volume drops, slow pace, sad expression, despairing words."
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 1.452,
+    "emotion": "angry",
+    "detailed_reasoning": "The speaker's initial words, \"They fucking jerked him, man,\" are delivered with a harsh and aggressive tone. His facial expression is tense, with a furrowed brow and a downward turn of his mouth, which clearly indicates anger and frustration about the situation he is describing. The profanity used also emphasizes the intensity of his anger.",
+    "summary_reasoning": "Aggressive tone, profanity, tense facial expression."
+  },
+  {
+    "timestamp": 12.303,
+    "emotion": "disgusted",
+    "detailed_reasoning": "The speaker's emotion shifts from anger to disgust as he describes receiving a severed finger in an envelope. His voice is filled with revulsion, and his face shows a clear expression of horror. The graphic and visceral nature of the words \"his finger in the fucking envelope, man. All bloody and shit\" contributes to the sense of disgust.",
+    "summary_reasoning": "Revolted tone, horrified expression, graphic language."
+  },
+  {
+    "timestamp": 22.092,
+    "emotion": "helpless",
+    "detailed_reasoning": "The speaker's tone of voice changes to one of desperation and confusion. His words, \"I don't know what to do, eh?\" combined with a questioning and pleading tone, show that he feels completely lost and powerless in the situation. His facial expression also softens into one of despair.",
+    "summary_reasoning": "Desperate tone, questioning words, despairing expression."
+  },
+  {
+    "timestamp": 27.017,
+    "emotion": "vulnerable",
+    "detailed_reasoning": "The speaker's voice becomes quieter and more introspective as he says, \"I feel naked out here.\" This statement, combined with his subdued demeanor and downcast eyes, conveys a sense of exposure and vulnerability. He feels unprotected and at risk, which is a clear shift from his earlier anger.",
+    "summary_reasoning": "Quiet tone, introspective words, subdued demeanor."
+  },
+  {
+    "timestamp": 40.146,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker's emotion shifts to sadness and empathy as he imagines his friend's suffering. His voice becomes softer and filled with sorrow as he describes his friend \"just fucking bleeding, man.\" His eyes appear watery and his expression is pained, indicating deep sadness for his friend's plight.",
+    "summary_reasoning": "Sorrowful tone, empathetic words, pained expression."
+  },
+  {
+    "timestamp": 42.388,
+    "emotion": "despairing",
+    "detailed_reasoning": "The speaker's sadness deepens into despair as he states, \"He's dying, man.\" His voice cracks with emotion, and he seems to be on the verge of tears. The finality of his words, combined with his raw emotional display, shows that he is losing hope and feels overwhelmed by the situation.",
+    "summary_reasoning": "Cracking voice, hopeless words, raw emotion."
+  },
+  {
+    "timestamp": 57.202,
+    "emotion": "furious",
+    "detailed_reasoning": "The speaker's emotion shifts dramatically from despair to fury. His voice becomes hard and determined, and his eyes narrow as he says, \"I'm about to be on some real murder shit, hey.\" This is a clear declaration of his intent for revenge, and the intensity in his tone and expression signifies a shift to a cold, focused rage.",
+    "summary_reasoning": "Hard tone, narrowed eyes, vengeful words."
+  }
+]

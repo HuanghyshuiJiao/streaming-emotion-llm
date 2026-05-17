@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 5.357,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his talk with a steady and measured tone of voice. His body language is contained, with his hands clasped in front of him, and his facial expression is neutral. He is delivering information in a factual, calm manner.",
+    "summary_reasoning": "Steady tone, neutral expression, contained posture."
+  },
+  {
+    "timestamp": 17.109,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker's tone becomes more emphatic and assertive as he states that exercise increases BDNF the most. He uses subtle hand gestures to underscore his point, and his vocal delivery is firm, conveying a strong sense of confidence in the fact he is presenting.",
+    "summary_reasoning": "Emphatic tone, firm delivery."
+  },
+  {
+    "timestamp": 22.434,
+    "emotion": "engaging",
+    "detailed_reasoning": "The speaker's tone shifts to be more engaging and slightly informal as he mentions the \"simple yoga pose.\" The slight smile and direct, knowing look at the audience are meant to draw them in and build curiosity about this seemingly simple solution, making his delivery more engaging.",
+    "summary_reasoning": "Informal tone, slight smile, direct gaze."
+  },
+  {
+    "timestamp": 34.826,
+    "emotion": "authoritative",
+    "detailed_reasoning": "The speaker introduces his professional credentials. His tone becomes very factual and declarative, his posture is upright, and his expression is serious. He is establishing his expertise and credibility, which lends an authoritative quality to his demeanor.",
+    "summary_reasoning": "Factual tone, serious expression, stating credentials."
+  },
+  {
+    "timestamp": 46.613,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker shifts his focus to the patients he treats, describing them as \"medically destitute.\" His tone becomes graver and more somber, and his facial expression reflects the seriousness of the topic. The content is heavy, and his delivery matches it with a serious and slightly empathetic tone.",
+    "summary_reasoning": "Grave tone, somber expression, serious topic."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "authoritative",
+    "detailed_reasoning": "The speaker begins with a rapid, almost monotone delivery. Her tone is firm and declarative as she lays out the rules of the institution. Her facial expression is neutral and serious, and her posture is rigid, establishing a sense of authority and control from the very beginning.",
+    "summary_reasoning": "Rapid, firm tone, neutral expression, rigid posture."
+  },
+  {
+    "timestamp": 12.328,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "The speaker's tone shifts to become sarcastic and condescending. When she says \"enjoy the plastic furniture and coloring books,\" there's a slight lift in her pitch and a hint of a smirk in her expression. The description of the amenities is delivered in a way that mocks the patient's situation, creating a feeling of patronizing disdain.",
+    "summary_reasoning": "Sarcastic tone, condescending words, slight smirk."
+  },
+  {
+    "timestamp": 17.275,
+    "emotion": "intense",
+    "detailed_reasoning": "The narrative takes a darker turn, and the speaker's delivery becomes more intense. As she describes the static drowning out a screaming woman, her pace remains fast but her vocal energy increases. Her eyes are focused and her expression becomes more severe, reflecting the disturbing imagery in her words.",
+    "summary_reasoning": "Increased vocal energy, focused eyes, severe expression."
+  },
+  {
+    "timestamp": 21.08,
+    "emotion": "dismissive",
+    "detailed_reasoning": "After the intense description of the screaming, the speaker's tone abruptly becomes casual and dismissive when she says, \"That's just Cindy. She just does that sometimes.\" This sudden shift to a nonchalant attitude, combined with a slight head tilt, is jarring and highlights a cold, desensitized demeanor.",
+    "summary_reasoning": "Abrupt casual tone, nonchalant words, head tilt."
+  },
+  {
+    "timestamp": 27.151,
+    "emotion": "manipulative",
+    "detailed_reasoning": "The speaker's tone softens into a seemingly caring and persuasive one, saying, \"we are going to keep helping her, just like we want to keep helping you.\" However, her underlying stern expression and unwavering gaze contradict the helpful words, creating a manipulative and coercive feeling, as if pressuring the subject into compliance under the guise of care.",
+    "summary_reasoning": "Soft persuasive tone, stern expression, unwavering gaze."
+  },
+  {
+    "timestamp": 32.001,
+    "emotion": "accusatory",
+    "detailed_reasoning": "The emotion shifts sharply to being accusatory. The speaker's voice becomes harder and more forceful as she says, \"You haven't even tried the meds yet. You're still lying to us.\" Her eyebrows furrow, and her head juts forward slightly, emphasizing the direct confrontation and blame.",
+    "summary_reasoning": "Hard, forceful tone, furrowed brows, confrontational words."
+  },
+  {
+    "timestamp": 42.421,
+    "emotion": "menacing",
+    "detailed_reasoning": "There is a dramatic shift in emotion as the speaker's eyes widen significantly and a sharp, almost triumphant tone enters her voice. As she reveals that the weekend doesn't \"count,\" her expression becomes menacing. The words \"breakthrough or a breakdown\" are delivered with a chilling smile, indicating she is threatening the listener with an extended stay and further psychological pressure.",
+    "summary_reasoning": "Wide eyes, triumphant tone, chilling smile, threatening words."
+  },
+  {
+    "timestamp": 53.57,
+    "emotion": "chilling",
+    "detailed_reasoning": "Following the menacing outburst, the speaker's demeanor suddenly becomes calm and composed. She says, \"This is a good thing,\" with a level, quiet voice and a neutral, almost pleasant facial expression. This stark contrast creates a chilling effect, as her calm exterior now seems sinister and confirms the threat implied in her previous statement.",
+    "summary_reasoning": "Sudden calm voice, neutral expression, stark contrast."
+  }
+]

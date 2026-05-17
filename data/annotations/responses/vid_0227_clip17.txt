@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 2.136,
+    "emotion": "concerned",
+    "detailed_reasoning": "The speaker's tone is serious and questioning as she describes a hypothetical situation. Her facial expression, with slightly furrowed brows, and her open-handed, questioning gestures convey a sense of concern and disbelief about the events she's alluding to.",
+    "summary_reasoning": "Serious tone, questioning words, concerned expression."
+  },
+  {
+    "timestamp": 6.046,
+    "emotion": "determined",
+    "detailed_reasoning": "There is a distinct shift in her demeanor. Her tone becomes firm and declarative, moving from a questioning state to one of certainty. Her facial expression becomes more focused and resolute, and she uses a definitive hand gesture to emphasize her point, indicating determination.",
+    "summary_reasoning": "Firm tone, focused expression, declarative statement."
+  },
+  {
+    "timestamp": 8.792,
+    "emotion": "confident",
+    "detailed_reasoning": "Building on the previous statement, her vocal delivery gains more strength and her pitch rises slightly on the word \"beatable.\" This increased emphasis and the stronger, more empowering choice of words convey a growing sense of confidence and conviction.",
+    "summary_reasoning": "Stronger voice, rising pitch, empowering words."
+  },
+  {
+    "timestamp": 11.278,
+    "emotion": "earnest",
+    "detailed_reasoning": "The speaker's pace slows down significantly, and she enunciates her words with deliberate care, especially on \"most important thing.\" Her expression is intensely focused, and her tone becomes deeply serious. This combination of cues suggests she is speaking with great earnestness about a crucial point.",
+    "summary_reasoning": "Slow pace, serious tone, intense focus."
+  },
+  {
+    "timestamp": 17.112,
+    "emotion": "resolute",
+    "detailed_reasoning": "Her tone becomes very firm and direct as she speaks about confronting the problem. Her unwavering eye contact and the definitive way she states \"this is real\" show a lack of hesitation and a firm resolve. She is presenting a hard truth without flinching.",
+    "summary_reasoning": "Firm tone, direct eye contact, definitive words."
+  },
+  {
+    "timestamp": 23.608,
+    "emotion": "passionate",
+    "detailed_reasoning": "Her entire demeanor shifts to one of inspiration and passion. Her voice swells in volume and takes on an uplifting quality. Her arms open wide in an inclusive, powerful gesture, and her facial expression shows deep conviction. The line \"we are the movement\" is delivered as a powerful, unifying call to action.",
+    "summary_reasoning": "Uplifting tone, wide gestures, unifying words."
+  },
+  {
+    "timestamp": 28.179,
+    "emotion": "grateful",
+    "detailed_reasoning": "After the passionate climax of her speech, her expression softens into a genuine smile. Her tone becomes gentle and appreciative as she thanks the audience. Her body language, with a slight nod of her head, signals humility and gratitude.",
+    "summary_reasoning": "Soft smile, gentle tone, slight nod."
+  }
+]

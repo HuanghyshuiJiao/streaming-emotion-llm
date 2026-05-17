@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 2.434,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his story with a calm and even tone. His facial expression is neutral, and his posture is relaxed. He is setting the scene for his narrative in a straightforward, descriptive manner.",
+    "summary_reasoning": "Calm tone, neutral expression, relaxed posture."
+  },
+  {
+    "timestamp": 10.724,
+    "emotion": "annoyed",
+    "detailed_reasoning": "The speaker's emotion shifts as he describes the experience of waiting. The repetition of 'stand there' is delivered in a monotonous, rhythmic way that conveys a sense of prolonged, tedious waiting. His facial expression tightens slightly, hinting at his growing impatience and annoyance with the daily routine.",
+    "summary_reasoning": "Repetitive phrasing, monotonous tone, tight expression."
+  },
+  {
+    "timestamp": 17.031,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The annoyance escalates to frustration. His tone becomes more forceful and clipped on the words 'push the button.' His facial expression intensifies, with a clear frown and a slight tensing of his jaw, visually representing the frustration described in the narrative.",
+    "summary_reasoning": "Forceful tone, frowning expression, tense jaw."
+  },
+  {
+    "timestamp": 20.976,
+    "emotion": "curious",
+    "detailed_reasoning": "There is a distinct shift in tone and expression as the speaker recounts his attempts to understand the crosswalk button. His voice becomes lighter and more melodic, and a slight, mischievous smile appears. This change suggests he found the process of creating theories to be an interesting puzzle, moving from frustration to curiosity.",
+    "summary_reasoning": "Lighter tone, mischievous smile, melodic voice."
+  },
+  {
+    "timestamp": 27.011,
+    "emotion": "intrigued",
+    "detailed_reasoning": "The speaker's curiosity deepens into intrigue as he elaborates on his complex theories. His voice drops to a more conspiratorial, hushed tone, and he leans in slightly. His eyes are focused, suggesting he was genuinely captivated by the mystery of the 'citywide pattern.'",
+    "summary_reasoning": "Hushed tone, focused eyes, conspiratorial delivery."
+  },
+  {
+    "timestamp": 37.423,
+    "emotion": "resigned",
+    "detailed_reasoning": "After detailing his elaborate theories, the speaker's energy deflates. His tone becomes weary and his facial expression softens into one of resignation. He speaks about 'trusting in some invisible... logic,' indicating he had given up trying to understand and had accepted his fate.",
+    "summary_reasoning": "Weary tone, deflated energy, softened expression."
+  },
+  {
+    "timestamp": 43.45,
+    "emotion": "excited",
+    "detailed_reasoning": "A dramatic and abrupt shift occurs with the word 'Until.' The speaker's eyes widen, a large, almost manic grin spreads across his face, and his voice jumps in pitch and energy. The reveal that he 'brought a crowbar' is delivered with a burst of triumphant excitement.",
+    "summary_reasoning": "Wide eyes, manic grin, high-pitched voice."
+  },
+  {
+    "timestamp": 49.116,
+    "emotion": "eager",
+    "detailed_reasoning": "Maintaining the high energy from the previous moment, the speaker's emotion evolves into eagerness. As he describes dismantling the device, his voice is filled with breathless anticipation, and his facial expression shows a keen desire to finally uncover the truth.",
+    "summary_reasoning": "Anticipatory tone, high energy, keen expression."
+  },
+  {
+    "timestamp": 56.14,
+    "emotion": "shocked",
+    "detailed_reasoning": "Following a long, dramatic pause, the speaker's entire demeanor collapses. His excited expression vanishes, replaced by a slack-jawed look of disbelief and shock. His voice, when it returns, is quiet, flat, and hollow, conveying the profound shock of his discovery that there was nothing inside.",
+    "summary_reasoning": "Long pause, slack-jawed expression, hollow voice."
+  }
+]

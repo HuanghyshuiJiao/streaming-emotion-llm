@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 2.033,
+    "emotion": "somber",
+    "detailed_reasoning": "The video starts with the speaker looking down, his face in shadow. His voice is a low, quiet whisper as he reflects on a past event. The combination of the dark lighting, downward gaze, and hushed, slow-paced speech creates a somber and reflective mood.",
+    "summary_reasoning": "Quiet whisper, downward gaze, dark lighting."
+  },
+  {
+    "timestamp": 8.661,
+    "emotion": "assertive",
+    "detailed_reasoning": "The scene shifts, and the same character is now speaking directly to someone off-screen. His tone has changed from a whisper to a firm, clear voice. He looks up, making direct eye contact. His words, \"I gave you a chance to name your price,\" are delivered with a commanding presence, indicating a shift to an assertive and confrontational emotion.",
+    "summary_reasoning": "Firm tone, direct eye contact, confrontational words."
+  },
+  {
+    "timestamp": 15.35,
+    "emotion": "determined",
+    "detailed_reasoning": "The speaker's voice becomes more intense and his words, \"because it's my fate to have it,\" convey a strong sense of purpose. His facial expression is serious and his gaze is unwavering. This combination of vocal intensity and resolute language suggests a deep-seated determination.",
+    "summary_reasoning": "Intense voice, unwavering gaze, resolute words."
+  },
+  {
+    "timestamp": 20.155,
+    "emotion": "scheming",
+    "detailed_reasoning": "The speaker's expression softens slightly, and a faint, knowing smile appears as he says, \"I have a plan to meet my mother.\" His eyes seem to look up as if visualizing his plan. The subtle smile combined with the revelation of a plan gives the impression that he is plotting something and taking satisfaction in it.",
+    "summary_reasoning": "Faint smile, upward glance, revealing a plan."
+  },
+  {
+    "timestamp": 28.165,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "When imagining the conversation with his mother, he adopts a polite, almost overly formal tone to say \"Hello, Miss Winters. Do you know who I am?\" The politeness is clearly feigned, contrasting with the underlying tension of the situation he's describing. This creates a sarcastic and menacing undertone, as if he's mocking the civility he plans to display.",
+    "summary_reasoning": "Overly polite tone, menacing context."
+  },
+  {
+    "timestamp": 37.769,
+    "emotion": "vengeful",
+    "detailed_reasoning": "His voice drops and takes on a darker, more menacing quality as he says he will present the \"book of lies.\" His eyes narrow, and his expression becomes hard. The shift in vocal tone and the description of his planned action reveal a clear vengeful intent.",
+    "summary_reasoning": "Menacing tone, hard expression, vengeful words."
+  },
+  {
+    "timestamp": 46.964,
+    "emotion": "bitter",
+    "detailed_reasoning": "The speaker's voice is filled with bitterness and resentment as he delivers the line, \"Except I didn't die.\" He spits the words out with a pained expression. The content of the words, combined with the emotionally charged delivery, clearly indicates deep-seated bitterness.",
+    "summary_reasoning": "Resentful tone, pained expression, bitter words."
+  },
+  {
+    "timestamp": 51.793,
+    "emotion": "enraged",
+    "detailed_reasoning": "His emotion escalates dramatically. He leans forward, his voice rising to a near-shout filled with raw anger as he says, \"I'm the piece of trash you threw away 42 years ago.\" His face contorts with rage, his eyes wide and his teeth slightly bared. This is the climax of his anger.",
+    "summary_reasoning": "Loud voice, contorted face, enraged words."
+  },
+  {
+    "timestamp": 54.477,
+    "emotion": "triumphant",
+    "detailed_reasoning": "After his outburst, his expression shifts to one of cold, triumphant declaration. His voice is steady but powerful as he delivers the final blow: \"I'm your son.\" His gaze is intense and unwavering, conveying a sense of finality and victory in this imagined confrontation.",
+    "summary_reasoning": "Powerful voice, intense gaze, declarative statement."
+  }
+]

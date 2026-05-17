@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 2.434,
+    "emotion": "bitter",
+    "detailed_reasoning": "The character is standing alone in a dimly lit, grand hall, immediately establishing a somber mood. He begins his monologue by describing his physical deformities, referring to his legs of \"unequal size.\" His tone is laden with resentment and a sense of injustice about his physical form, conveying a deep-seated bitterness.",
+    "summary_reasoning": "Somber setting, resentful tone, words of physical deformity."
+  },
+  {
+    "timestamp": 12.445,
+    "emotion": "self-loathing",
+    "detailed_reasoning": "Continuing his monologue, the character compares himself to \"chaos\" and an \"unlick'd bear whelp,\" which are strong images of formlessness and being unfinished. The delivery of these lines is filled with contempt, which appears to be directed inward, indicating a strong sense of self-loathing and disgust with his own appearance.",
+    "summary_reasoning": "Contemptuous tone, self-deprecating metaphors."
+  },
+  {
+    "timestamp": 22.996,
+    "emotion": "melancholy",
+    "detailed_reasoning": "The character's tone shifts to one of melancholy and purposelessness. He describes the current \"weak piping time of peace\" as offering him \"no delight to pass away the time.\" His voice becomes softer and more reflective, and his posture remains still and isolated, suggesting a deep sadness and lack of joy in his life.",
+    "summary_reasoning": "Softer, reflective tone, words of purposelessness, isolated posture."
+  },
+  {
+    "timestamp": 30.502,
+    "emotion": "cynical",
+    "detailed_reasoning": "His only described pastime is to \"spy my shadow in the sun and descant on mine own deformity.\" This reveals a cynical self-awareness. The act of analyzing his own shadow and flaws suggests a detached, almost academic bitterness. His facial expression is subtly twisted, indicating a dark and cynical perspective on his own existence.",
+    "summary_reasoning": "Cynical words, twisted facial expression, dark tone."
+  },
+  {
+    "timestamp": 38.175,
+    "emotion": "determined",
+    "detailed_reasoning": "There is a distinct shift in the monologue's direction and the character's demeanor. After concluding that the world offers him no joy, his voice gains strength and his posture becomes more assertive. The word \"Then\" acts as a pivot, moving from lamentation to a new, more active resolve. This indicates a shift from passive suffering to a determined mindset.",
+    "summary_reasoning": "Shift in tone, more assertive voice, pivotal word choice."
+  },
+  {
+    "timestamp": 44.966,
+    "emotion": "ambitious",
+    "detailed_reasoning": "The character explicitly states his new purpose: to command and dominate those who are physically superior to him. His voice is filled with a newfound, dark ambition. He begins to walk slowly and deliberately, and his shadow grows larger on the wall, visually symbolizing his growing power and malicious intent. His expression is no longer one of self-pity but of focused ambition.",
+    "summary_reasoning": "Ambitious words, deliberate walk, growing shadow, focused expression."
+  },
+  {
+    "timestamp": 51.537,
+    "emotion": "scheming",
+    "detailed_reasoning": "In the final lines, he declares his intention to \"dream upon the crown.\" As he says this, he walks directly towards the camera, breaking the fourth wall. His face, now in close-up and cloaked in shadow, bears a conspiratorial, malevolent smirk. He makes a small, knowing gesture, directly engaging the audience in his villainous plotting. This combination of visuals and vocal delivery clearly communicates a cunning and scheming nature.",
+    "summary_reasoning": "Direct address to camera, conspiratorial smirk, malevolent tone."
+  }
+]

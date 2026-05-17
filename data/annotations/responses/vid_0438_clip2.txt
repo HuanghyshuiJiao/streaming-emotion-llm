@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 6.332,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker begins by posing a rhetorical question. Her tone is measured and calm, and she is looking down at her notes, suggesting a contemplative and prepared start to her speech. Her facial expression is serious and her body language is still, contributing to a thoughtful mood.",
+    "summary_reasoning": "Rhetorical question, calm tone, reading notes."
+  },
+  {
+    "timestamp": 10.807,
+    "emotion": "inspirational",
+    "detailed_reasoning": "The speaker shifts to a series of short, declarative statements starting with \"Stories can...\". Her vocal tone becomes more assertive and uplifting. She lifts her head to make eye contact with the audience, and her posture becomes more open, aiming to inspire and connect with her listeners.",
+    "summary_reasoning": "Repetitive uplifting phrases, assertive tone, audience eye contact."
+  },
+  {
+    "timestamp": 17.531,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker transitions to discussing her \"master's thesis here at Gallatin.\" Her tone becomes more neutral and academic, shifting from the inspirational cadence to a more factual delivery. She is explaining the premise of her work, which gives the segment an informative quality.",
+    "summary_reasoning": "Neutral tone, academic content, explanatory purpose."
+  },
+  {
+    "timestamp": 26.385,
+    "emotion": "persuasive",
+    "detailed_reasoning": "The speaker describes story as an \"influential tool which can mold the most obstinate of minds.\" Her tone becomes more emphatic and she uses strong, persuasive language. Her hand gestures become slightly more animated, aiming to convince the audience of the power of storytelling.",
+    "summary_reasoning": "Emphatic tone, strong language, persuasive intent."
+  },
+  {
+    "timestamp": 41.088,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker states that there has been \"ample evidence of storytelling in a multitude of cultures.\" Her tone is declarative and authoritative, presenting this information as an established fact. This statement, delivered with a steady voice and clear enunciation, projects confidence in her research and the point she is making.",
+    "summary_reasoning": "Declarative tone, authoritative statement, steady voice."
+  },
+  {
+    "timestamp": 50.430,
+    "emotion": "engaged",
+    "detailed_reasoning": "The speaker connects the broad historical context to a specific, local, and contemporary example: \"the numerous starving writers here in New York City.\" Her tone becomes more animated and personable, and she gestures more broadly, creating a relatable and engaging connection with the audience.",
+    "summary_reasoning": "Animated tone, local reference, broad gestures."
+  },
+  {
+    "timestamp": 54.500,
+    "emotion": "passionate",
+    "detailed_reasoning": "As she lists the modern outcomes of stories like \"movies, Broadway plays, television shows,\" her voice builds in energy and her pace quickens slightly. She is looking directly at the audience with an open and expressive face, conveying passion for the ongoing relevance and impact of storytelling.",
+    "summary_reasoning": "Increased energy, quicker pace, expressive face."
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 1.0,
+    "emotion": "affectionate",
+    "detailed_reasoning": "The video begins with the speaker looking off-camera with a gentle, warm smile. Her tone is soft and caring as she says 'She's special.' This combination of a gentle voice and a loving facial expression indicates a feeling of affection towards the subject she is addressing.",
+    "summary_reasoning": "Gentle smile, soft tone."
+  },
+  {
+    "timestamp": 5.896,
+    "emotion": "excited",
+    "detailed_reasoning": "There is a sudden shift in her demeanor. Her eyes widen, her expression becomes animated, and her vocal pitch and volume increase significantly. She leans forward as if sharing exciting news, which is confirmed by her words, 'did I tell you I was picked for the school swimming team?'. This rapid change in vocal and facial dynamics points to a burst of excitement.",
+    "summary_reasoning": "Widened eyes, high-pitched voice, animated."
+  },
+  {
+    "timestamp": 11.481,
+    "emotion": "joyful",
+    "detailed_reasoning": "After asking if her news is exciting, she exclaims 'Yes!' while nodding and smiling broadly. This appears to be her imagined, positive response from 'Zara,' and her expression is one of pure, validated happiness and joy.",
+    "summary_reasoning": "Broad smile, enthusiastic nod."
+  },
+  {
+    "timestamp": 13.402,
+    "emotion": "pleased",
+    "detailed_reasoning": "Her energy softens slightly from the peak of excitement. She gives a grateful and warm smile while saying 'Thank you,' as if graciously accepting a compliment. The tone is content and happy, showing she is pleased with the perceived reaction.",
+    "summary_reasoning": "Warm smile, grateful tone."
+  },
+  {
+    "timestamp": 17.506,
+    "emotion": "disappointed",
+    "detailed_reasoning": "Following a long, silent pause, her smile completely fades and her gaze drops. The energy drains from her face and body. The single word 'Good' is uttered in a flat, deflated tone, signaling a stark transition from happiness to disappointment as she realizes no one is actually responding.",
+    "summary_reasoning": "Smile fades, gaze drops, flat tone."
+  },
+  {
+    "timestamp": 25.933,
+    "emotion": "desperate",
+    "detailed_reasoning": "Her expression becomes strained and she starts looking around the empty space. Her voice suddenly becomes much louder, almost a shout, as she repeats her news. The loud, pleading quality of her voice and her searching eyes convey a sense of desperation for attention and validation.",
+    "summary_reasoning": "Loud pleading voice, searching eyes."
+  },
+  {
+    "timestamp": 35.097,
+    "emotion": "resigned",
+    "detailed_reasoning": "After her desperate plea receives no response, her body slumps in defeat. She utters the word 'Great' in a completely flat, sarcastic tone. This verbal irony combined with the deflated body language indicates she has given up hope and is resigned to being ignored.",
+    "summary_reasoning": "Slumped body, flat sarcastic tone."
+  },
+  {
+    "timestamp": 36.98,
+    "emotion": "bitter",
+    "detailed_reasoning": "Continuing from her resignation, her tone becomes heavy with sarcasm as she says, 'Thanks for your support, everyone.' The words are clearly meant to convey the opposite, indicating a feeling of bitterness and hurt from the lack of acknowledgment.",
+    "summary_reasoning": "Sarcastic tone, sad expression."
+  },
+  {
+    "timestamp": 47.754,
+    "emotion": "sad",
+    "detailed_reasoning": "Her demeanor shifts from bitter sarcasm to overt sadness. Her voice becomes soft and fragile as she says, 'Oh, Zara.' Her facial expression is downcast and melancholic, showing that the underlying emotion behind her earlier frustration is sadness.",
+    "summary_reasoning": "Soft fragile voice, downcast expression."
+  },
+  {
+    "timestamp": 57.267,
+    "emotion": "lonely",
+    "detailed_reasoning": "Her voice cracks with emotion and she speaks slowly, drawing out the final word 'lonely.' Her eyes look distant and pained, and her entire expression conveys a deep sense of isolation and sorrow, explicitly stating the root cause of her feelings.",
+    "summary_reasoning": "Emotional voice, pained expression, slow speech."
+  }
+]

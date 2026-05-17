@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1.794,
+    "emotion": "dramatic",
+    "detailed_reasoning": "The performer begins with a theatrical, storytelling tone. She has her hands over her eyes, and her voice is projected, setting a dramatic mood for the narrative she is about to unfold. When she removes her hands, her expression is animated and engaging.",
+    "summary_reasoning": "Theatrical tone, animated expression."
+  },
+  {
+    "timestamp": 6.262,
+    "emotion": "suspenseful",
+    "detailed_reasoning": "The pace of her speech slows down, and her tone becomes more deliberate as she mentions \"the chicken in the icebox.\" This change in vocal delivery, combined with a focused and serious facial expression, builds suspense for the audience.",
+    "summary_reasoning": "Slow deliberate tone, serious expression."
+  },
+  {
+    "timestamp": 11.512,
+    "emotion": "shocked",
+    "detailed_reasoning": "Her eyes widen dramatically, and her voice jumps to a high, sharp pitch as she exclaims, \"The chicken!\" This sudden and exaggerated vocal and facial change clearly portrays a moment of shock and alarmed realization.",
+    "summary_reasoning": "Wide eyes, high-pitched voice."
+  },
+  {
+    "timestamp": 16.521,
+    "emotion": "panicked",
+    "detailed_reasoning": "After running off-screen, the only available cue is audio. The performer lets out a series of high-pitched, wordless shrieks. These sounds convey a strong sense of panic and alarm, continuing the character's shocked reaction.",
+    "summary_reasoning": "High-pitched shrieks."
+  },
+  {
+    "timestamp": 25.151,
+    "emotion": "outraged",
+    "detailed_reasoning": "The performer returns to the stage with a look of complete disbelief. Her voice is loud, high-pitched, and strained as she yells, \"You dressed the chicken!\" Her hands are raised in an exasperated gesture, combining to express extreme outrage.",
+    "summary_reasoning": "Loud strained voice, exasperated gesture."
+  },
+  {
+    "timestamp": 29.196,
+    "emotion": "charmed",
+    "detailed_reasoning": "There is a sudden and complete shift in demeanor. The performer's angry expression is replaced by a sweet, innocent smile. Her voice becomes soft and high-pitched as she asks, \"Isn't he cute?\" This abrupt change from outrage to charm is comical and shows her character's flighty nature.",
+    "summary_reasoning": "Sudden tone shift, sweet smile, soft voice."
+  },
+  {
+    "timestamp": 37.106,
+    "emotion": "serious",
+    "detailed_reasoning": "The performer's expression turns stern, and her voice becomes lower and more authoritative as she resumes the narration. The content of the speech, about Amelia Bedelia being fired, is serious, and her tone and facial expression match this gravity.",
+    "summary_reasoning": "Stern expression, low authoritative voice."
+  },
+  {
+    "timestamp": 46.258,
+    "emotion": "pleased",
+    "detailed_reasoning": "After a moment of tasting something (as Mr. Rogers), the performer's facial expression transforms into one of pleasant surprise and enjoyment. Her tense posture relaxes, and a look of satisfaction spreads across her face, indicating the food is delicious.",
+    "summary_reasoning": "Relaxed posture, satisfied expression."
+  },
+  {
+    "timestamp": 52.766,
+    "emotion": "affectionate",
+    "detailed_reasoning": "The tone of voice becomes incredibly warm and gentle. The performer's facial expression softens into a fond smile. The crisis has been averted, and the final lines are delivered with a sense of endearment and relief.",
+    "summary_reasoning": "Warm gentle tone, fond smile."
+  }
+]

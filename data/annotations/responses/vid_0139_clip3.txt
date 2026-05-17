@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 11.487,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker is reacting to audience laughter from a previous joke. He smiles, shakes his head slightly, and uses a self-deprecating, lighthearted tone to say he'll get 'cranky, weird email.' This combination of facial expression, body language, and vocal tone indicates he is amused by the situation and is continuing to joke with the audience.",
+    "summary_reasoning": "Smiling, lighthearted tone, self-deprecating joke."
+  },
+  {
+    "timestamp": 17.636,
+    "emotion": "admiring",
+    "detailed_reasoning": "The speaker's demeanor shifts significantly. His smile fades, his expression becomes more serious and focused, and his vocal tone becomes more declarative and respectful as he introduces 'Ronald Neame' as a 'giant of the cinema.' This change in both visual and audio cues signals a shift from amusement to admiration.",
+    "summary_reasoning": "Serious expression, respectful tone."
+  },
+  {
+    "timestamp": 24.246,
+    "emotion": "nostalgic",
+    "detailed_reasoning": "As he begins to talk about the movie 'Scrooge,' which he saw as a child, his vocal tone softens. He has a slight, warm smile as he reminisces. The topic itself, a film from his childhood, combined with the softer vocal delivery, suggests a feeling of nostalgia and fondness.",
+    "summary_reasoning": "Soft tone, slight smile, reminiscing."
+  },
+  {
+    "timestamp": 33.259,
+    "emotion": "dramatic",
+    "detailed_reasoning": "The speaker is building up to the punchline of his story. His eyes widen, his eyebrows raise, and he pauses before saying he had an 'epiphany.' He is using his facial expressions and a more theatrical tone to create anticipation and drama for comedic effect, drawing the audience into his personal realization.",
+    "summary_reasoning": "Wide eyes, raised eyebrows, theatrical tone."
+  },
+  {
+    "timestamp": 38.367,
+    "emotion": "humorous",
+    "detailed_reasoning": "The speaker delivers the absurd punchline about not wanting to be 'Tiny Tim' with a completely straight, deadpan face. The stark contrast between the ridiculousness of the content and his serious delivery is a clear comedic technique, designed to be humorous. The resulting audience laughter confirms the success of this delivery.",
+    "summary_reasoning": "Deadpan expression, absurd content, audience laughter."
+  },
+  {
+    "timestamp": 45.033,
+    "emotion": "playful",
+    "detailed_reasoning": "After an audience member calls out, the speaker looks in their direction and says 'Shut up.' He delivers the line with a smile and a light, dismissive tone, not an aggressive one. This indicates he is not actually angry but is engaging in a playful and comedic back-and-forth with the audience.",
+    "summary_reasoning": "Smiling, light tone, joking with audience."
+  },
+  {
+    "timestamp": 50.047,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "The speaker adopts a mock-serious persona to continue his joke. He claims that coming from a 'harsh background,' he found Mr. Scrooge to be 'fairly reasonable.' The humor comes from the sarcastic nature of this defense, where he says the opposite of what is conventionally believed, maintaining a straight face to heighten the comedic effect.",
+    "summary_reasoning": "Mock-serious tone, straight face, defending Scrooge."
+  }
+]

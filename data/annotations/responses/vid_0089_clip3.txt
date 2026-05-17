@@ -1,0 +1,74 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "sad",
+    "detailed_reasoning": "The video begins with the woman looking down. Her facial expression is one of sorrow, with furrowed brows and a downturned mouth. Her vocal tone is low and melancholic as she begins to speak, suggesting she is recounting a difficult or upsetting memory.",
+    "summary_reasoning": "Downward gaze, sad face, low tone."
+  },
+  {
+    "timestamp": 4.097,
+    "emotion": "shocked",
+    "detailed_reasoning": "There is an abrupt shift in her demeanor. Her head snaps up, her eyes widen dramatically, and her eyebrows are raised high. This stark change in facial expression, combined with the shocking content of her words (\"kill Frank\"), indicates a moment of feigned shock or a manic, dramatic realization.",
+    "summary_reasoning": "Head snaps up, eyes widen, shocking words."
+  },
+  {
+    "timestamp": 6.741,
+    "emotion": "desperate",
+    "detailed_reasoning": "While her eyes remain wide, her expression softens slightly into one of pleading. Her shoulders are hunched forward, and her tone is one of justification. She appears to be desperately trying to make her extreme logic seem reasonable to the listener.",
+    "summary_reasoning": "Wide eyes, pleading tone, hunched posture."
+  },
+  {
+    "timestamp": 10.808,
+    "emotion": "exasperated",
+    "detailed_reasoning": "She rolls her eyes and looks up to the ceiling, a classic sign of annoyance or exasperation. This gesture dismisses the more rational alternative she's mentioning, and her tone shifts from desperate justification to one of flippant irritation.",
+    "summary_reasoning": "Eye roll, dismissive tone."
+  },
+  {
+    "timestamp": 14.193,
+    "emotion": "distressed",
+    "detailed_reasoning": "Her expression transitions into exaggerated, theatrical anguish. She closes her eyes tightly, her face contorts, and she throws her hands up in a gesture of overwhelming despair. Her voice takes on a high-pitched, whiny quality, indicating a melodramatic display of distress over the apartment.",
+    "summary_reasoning": "Exaggerated sad face, hands up, whiny tone."
+  },
+  {
+    "timestamp": 17.318,
+    "emotion": "indignant",
+    "detailed_reasoning": "The melodramatic distress subsides, and she places a hand on her chest. Her expression becomes one of self-pity and righteous indignation. Her tone is whiny and accusatory, as if she is the victim who is being unfairly treated, justifying why she shouldn't be the one to make a sacrifice.",
+    "summary_reasoning": "Hand on chest, self-pitying expression, accusatory tone."
+  },
+  {
+    "timestamp": 23.147,
+    "emotion": "contemplative",
+    "detailed_reasoning": "Her intense indignation momentarily fades as she looks up and to the side, briefly breaking eye contact. This suggests a fleeting moment of consideration or contemplation, as if she is grudgingly acknowledging other possibilities before dismissing them.",
+    "summary_reasoning": "Looks away, thoughtful expression."
+  },
+  {
+    "timestamp": 28.297,
+    "emotion": "defensive",
+    "detailed_reasoning": "Her expression becomes animated and emphatic. She speaks quickly and with a higher pitch, leaning forward slightly. The justification that she couldn't think of anything else at the time is delivered with a defensive and slightly frantic energy, as if warding off judgment.",
+    "summary_reasoning": "Animated expression, fast speech, higher pitch."
+  },
+  {
+    "timestamp": 31.587,
+    "emotion": "determined",
+    "detailed_reasoning": "Her expression becomes cold and serious. She looks directly at the camera with a resolved, almost grim look. Her vocal tone is firm and decisive as she states that killing him was the 'best' option, indicating a shift from frantic defense to cold determination.",
+    "summary_reasoning": "Cold expression, direct gaze, firm tone."
+  },
+  {
+    "timestamp": 36.583,
+    "emotion": "regretful",
+    "detailed_reasoning": "Her demeanor softens completely. She turns her head to the side, looking down with a pained and introspective expression. Her voice becomes quiet and slow, conveying a sense of sadness and regret as she identifies what she believes is the 'real problem'.",
+    "summary_reasoning": "Looks away, pained expression, quiet voice."
+  },
+  {
+    "timestamp": 41.88,
+    "emotion": "enraged",
+    "detailed_reasoning": "Her face suddenly contorts with extreme anger. She snarls, baring her teeth, and her eyebrows furrow deeply. Her voice becomes a strained, guttural shout filled with frustration. This is a violent, explosive shift from quiet regret to pure rage at her own perceived weakness.",
+    "summary_reasoning": "Face contorts, snarls, shouts."
+  },
+  {
+    "timestamp": 45.973,
+    "emotion": "furious",
+    "detailed_reasoning": "The rage intensifies to its peak. Her eyes are wide and staring, her mouth is aggressively shaped around the words she is almost spitting out. She is shouting and her entire facial expression is a mask of fury and frustration as she laments not asserting herself.",
+    "summary_reasoning": "Wide, furious eyes, shouting, aggressive mouth shape."
+  }
+]

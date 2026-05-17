@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 2.053,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her monologue with a neutral, narrative tone. Her arms are outstretched, and her facial expression is placid as she looks upwards, suggesting a state of calm contemplation while setting the scene.",
+    "summary_reasoning": "Neutral tone, placid expression, calm posture."
+  },
+  {
+    "timestamp": 4.196,
+    "emotion": "shocked",
+    "detailed_reasoning": "The speaker's demeanor changes abruptly. She clutches her throat, her eyes widen, and her mouth opens in a gasp. Her voice becomes breathy and strained, mirroring the physical and emotional shock described by the word 'gasped.'",
+    "summary_reasoning": "Clutches throat, wide eyes, gasping voice."
+  },
+  {
+    "timestamp": 7.5,
+    "emotion": "anxious",
+    "detailed_reasoning": "Following the shock, the speaker's tone shifts to a hushed, urgent whisper. Her facial expression becomes tense, with furrowed brows, and her body language is hurried as she describes needing to silence the commotion, indicating anxiety about being discovered.",
+    "summary_reasoning": "Hushed urgent tone, tense expression, hurried movements."
+  },
+  {
+    "timestamp": 14.448,
+    "emotion": "determined",
+    "detailed_reasoning": "The speaker's voice becomes cold, steady, and devoid of emotion as she describes the violent act of pushing someone underwater. Her face is set in an expression of grim concentration, and her movements are deliberate, conveying a sense of cold, methodical determination.",
+    "summary_reasoning": "Cold steady voice, grim concentration, deliberate actions."
+  },
+  {
+    "timestamp": 28.324,
+    "emotion": "satisfied",
+    "detailed_reasoning": "After the violent act, the speaker's posture relaxes slightly. She describes the morbid scene with a calm, observational tone. A subtle smile appears on her face, suggesting a chilling sense of satisfaction and accomplishment with the outcome.",
+    "summary_reasoning": "Relaxed posture, calm tone, subtle smile."
+  },
+  {
+    "timestamp": 42.481,
+    "emotion": "angry",
+    "detailed_reasoning": "Her calm satisfaction is shattered by the realization that she was seen. Her facial expression twists into a look of contempt, and her voice becomes harsh and filled with venom as she says, 'Some stupid kid.' This sudden shift in vocal and facial cues clearly indicates anger.",
+    "summary_reasoning": "Contemptuous expression, harsh venomous tone."
+  },
+  {
+    "timestamp": 49.473,
+    "emotion": "condescending",
+    "detailed_reasoning": "The speaker's anger dissipates, replaced by a chillingly conversational tone. She turns to address the audience with a smug smile, explaining her psychopathic preferences as if they are perfectly normal. This calm delivery, combined with the self-satisfied expression, gives her a condescending and superior air.",
+    "summary_reasoning": "Conversational tone, smug smile, direct address."
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 1.052,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker's initial statement, \"He stopped believing,\" is delivered with a slow pace and a low, somber tone. Visually, his facial expression is downcast, his eyes are slightly glossy, and he maintains a serious, melancholic look, all of which combine to convey a sense of sadness and disappointment.",
+    "summary_reasoning": "Slow pace, somber tone, sad expression."
+  },
+  {
+    "timestamp": 7.462,
+    "emotion": "disappointed",
+    "detailed_reasoning": "The speaker explicitly states, \"That's why he failed.\" The word \"failed\" is delivered with a flat, definitive tone, lacking any inflection. This, combined with his persistent sad facial expression, shifts the emotion from general sadness to a more specific feeling of disappointment in the outcome he is describing.",
+    "summary_reasoning": "Flat tone, sad expression, negative words."
+  },
+  {
+    "timestamp": 17.677,
+    "emotion": "regretful",
+    "detailed_reasoning": "When mentioning \"so much talent\" and \"so much potential,\" the speaker's eyes close and his head dips down. His eyebrows furrow, indicating a moment of painful reflection. The tone becomes softer and more sorrowful, expressing a deep sense of regret for what was lost.",
+    "summary_reasoning": "Eyes closed, head dipped, furrowed brows, sorrowful tone."
+  },
+  {
+    "timestamp": 21.242,
+    "emotion": "sad",
+    "detailed_reasoning": "After the moment of regret, the speaker re-establishes eye contact and his expression returns to one of straightforward sadness as he explains the core issue: \"he stopped believing in himself.\" The tone is explanatory but remains low and melancholic, framing the situation as a tragic fact.",
+    "summary_reasoning": "Direct gaze, sad expression, explanatory tone."
+  },
+  {
+    "timestamp": 32.206,
+    "emotion": "empathetic",
+    "detailed_reasoning": "The speaker's tone softens as he describes how the stress \"finally broke him.\" His expression shifts from simple sadness to one of understanding and pity for the person's struggle. The delivery suggests he feels the weight of the situation from the other person's perspective, indicating empathy.",
+    "summary_reasoning": "Soft tone, pitying expression, empathetic words."
+  },
+  {
+    "timestamp": 40.924,
+    "emotion": "nostalgic",
+    "detailed_reasoning": "A noticeable shift occurs when he says, \"His music was great.\" A slight, bittersweet smile appears, his eyes look down and to the side, and his tone becomes warmer. This combination of a sad smile while recalling a positive past experience is a strong indicator of nostalgia.",
+    "summary_reasoning": "Bittersweet smile, downward gaze, warm tone."
+  },
+  {
+    "timestamp": 48.308,
+    "emotion": "appreciative",
+    "detailed_reasoning": "As he continues reminiscing, his smile becomes more genuine and less sad. His eyes light up, and his tone becomes brighter and more animated when he says the music would get him into an \"emotional state.\" This shift from a bittersweet memory to a purely positive one shows his deep appreciation for the art.",
+    "summary_reasoning": "Genuine smile, brighter tone, positive words."
+  }
+]

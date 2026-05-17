@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 0.652,
+    "emotion": "happy",
+    "detailed_reasoning": "The user starts the video by waving at the camera with a wide, genuine smile. Her tone of voice is high-pitched and friendly as she says 'Hey guys,' indicating a happy and welcoming mood.",
+    "summary_reasoning": "Smiling, waving, friendly tone."
+  },
+  {
+    "timestamp": 4.575,
+    "emotion": "serious",
+    "detailed_reasoning": "After the initial greeting, the speaker's demeanor shifts. Her smile fades, her eyebrows lower slightly, and her tone becomes more neutral and informative as she introduces the monologue she will be performing. This change indicates a shift to a more serious and focused state.",
+    "summary_reasoning": "Smile fades, neutral tone, informative content."
+  },
+  {
+    "timestamp": 16.027,
+    "emotion": "intense",
+    "detailed_reasoning": "The performance begins. The speaker's entire persona changes. She is now holding a knife, her facial expression is hard and focused, with narrowed eyes and no smile. Her posture is guarded. This abrupt shift from her friendly introduction to this menacing character creates an intense and threatening atmosphere.",
+    "summary_reasoning": "Holding a knife, hard expression, guarded posture."
+  },
+  {
+    "timestamp": 39.417,
+    "emotion": "aggressive",
+    "detailed_reasoning": "The speaker's voice becomes a low growl on the word 'Touch'. Her facial expression is confrontational, with a direct, challenging stare. The content of the line is a direct threat. This combination of vocal tone, facial expression, and threatening words conveys strong aggression.",
+    "summary_reasoning": "Growling tone, confrontational stare, threatening words."
+  },
+  {
+    "timestamp": 59.55,
+    "emotion": "furious",
+    "detailed_reasoning": "Delivering the final line, 'I want to hurt them,' the speaker's eyes widen, her mouth opens in a snarl, and her voice is filled with rage. The previous aggression builds to a peak of fury, showing a clear desire to inflict harm.",
+    "summary_reasoning": "Wide eyes, snarling expression, enraged tone."
+  }
+]

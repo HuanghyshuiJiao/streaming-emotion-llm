@@ -1,0 +1,44 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "streaming-emotion-llm"
+version = "0.1.0"
+description = "Streaming facial emotion understanding and online multimodal reasoning with lightweight LLM adaptation."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "TBD" }
+authors = [
+  { name = "Your Name" }
+]
+dependencies = [
+  "torch",
+  "transformers",
+  "peft",
+  "accelerate",
+  "numpy",
+  "pandas",
+  "pyyaml",
+  "opencv-python",
+  "pillow",
+  "torchvision",
+  "tqdm"
+]
+
+[project.optional-dependencies]
+audio = [
+  "librosa",
+  "soundfile"
+]
+dev = [
+  "pytest",
+  "ruff"
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"

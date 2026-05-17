@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 2.675,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins his story with a somber and reflective tone. His facial expression is neutral and his gaze is distant, suggesting he is recalling a significant past event. The content of his speech, 'the first time I broke,' sets a serious mood from the outset.",
+    "summary_reasoning": "Reflective tone, neutral expression, serious topic."
+  },
+  {
+    "timestamp": 7.662,
+    "emotion": "regretful",
+    "detailed_reasoning": "Continuing his story, the speaker lists negative life events ('flunked high school,' 'arrested'). His tone remains serious and his facial expression is pensive, almost pained, conveying a sense of regret for his past actions without being overly emotional.",
+    "summary_reasoning": "Serious tone, pensive expression, negative self-description."
+  },
+  {
+    "timestamp": 12.028,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker's tone shifts slightly as he says, 'I wasn't afraid of the cops.' He pauses and makes direct eye contact with the audience, adopting a more conversational and assertive tone. This change suggests a sense of control over his story and a hint of bravado.",
+    "summary_reasoning": "Assertive tone, direct eye contact, pause."
+  },
+  {
+    "timestamp": 16.654,
+    "emotion": "amused",
+    "detailed_reasoning": "A clear shift to humor occurs when he reveals his fear of his 'mama.' His tone becomes lighter, his delivery has comedic timing, and the corners of his mouth twitch into a slight smile as the audience begins to laugh. He is building a relatable, funny scenario.",
+    "summary_reasoning": "Lighter tone, slight smile, comedic timing."
+  },
+  {
+    "timestamp": 20.259,
+    "emotion": "jovial",
+    "detailed_reasoning": "The speaker's amusement grows as he directly engages the audience by asking about 'emotional mothers.' His tone is playful, and he has a clear, open-mouthed smile. He is sharing a humorous moment with the crowd, creating a jovial atmosphere.",
+    "summary_reasoning": "Playful tone, open smile, audience engagement."
+  },
+  {
+    "timestamp": 32.081,
+    "emotion": "humorous",
+    "detailed_reasoning": "He continues the funny anecdote about his mother, exaggerating his tone to mimic her screaming and the cops' fear. His facial expression is animated and his body language is open, fully committing to the comedic storytelling which is met with more laughter.",
+    "summary_reasoning": "Exaggerated tone, animated expression, comedic storytelling."
+  },
+  {
+    "timestamp": 38.447,
+    "emotion": "somber",
+    "detailed_reasoning": "The mood changes abruptly. The humor vanishes as he describes his mother arriving at the jail. His voice becomes slow, low, and heavy. His posture becomes still and he looks down, physically conveying a shift to a deeply serious and painful memory.",
+    "summary_reasoning": "Slow, low voice, still posture, downward gaze."
+  },
+  {
+    "timestamp": 46.035,
+    "emotion": "sad",
+    "detailed_reasoning": "Describing his mother's tear, the speaker's voice becomes very soft, almost a whisper. His facial expression is filled with sorrow and his eyes convey deep emotion as he relives this vulnerable moment. The focus is entirely on the sadness of the scene.",
+    "summary_reasoning": "Soft voice, sorrowful expression, sad content."
+  },
+  {
+    "timestamp": 51.14,
+    "emotion": "reflective",
+    "detailed_reasoning": "After the peak of sadness, his tone shifts to be more analytical and instructive as he says 'mothers cry three types of tears.' He is no longer just telling the story but is now explaining its deeper meaning, adopting a thoughtful and reflective demeanor.",
+    "summary_reasoning": "Analytical tone, thoughtful expression, explanatory words."
+  },
+  {
+    "timestamp": 58.682,
+    "emotion": "pained",
+    "detailed_reasoning": "The speaker delivers the final line, culminating in the word 'shame.' His voice is low and heavy with emotion, and his facial expression is deeply pained. He lands on the final word with force, conveying the profound and painful impact of this realization.",
+    "summary_reasoning": "Low, heavy voice, pained expression, impactful word."
+  }
+]

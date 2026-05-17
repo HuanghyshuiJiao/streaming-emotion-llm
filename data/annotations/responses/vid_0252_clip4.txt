@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 6.941,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins by setting a schedule, his tone is neutral and factual. When he says \"Saturday night was the longest night in the history of the world,\" his voice becomes lower and slower, and his facial expression is grave. This indicates a shift to a more serious and somber mood, setting a dramatic tone for the story he is about to tell.",
+    "summary_reasoning": "Lower, slower voice. Grave expression."
+  },
+  {
+    "timestamp": 15.394,
+    "emotion": "calm",
+    "detailed_reasoning": "After describing the difficult night, he talks about the beginning of his speech. He states, \"for five minutes there was no problem.\" His tone here is even and matter-of-fact, and his facial expression is neutral. This conveys a sense of temporary calm or normalcy before the main event of his story unfolds.",
+    "summary_reasoning": "Even tone, neutral expression."
+  },
+  {
+    "timestamp": 19.58,
+    "emotion": "anxious",
+    "detailed_reasoning": "The speaker describes the moment things went wrong. He says, \"in one second... my tongue simply refused to function.\" His voice becomes more strained, his pace quickens slightly, and his facial expression tightens with furrowed brows. This combination of cues reflects the sudden anxiety and panic he felt in that moment.",
+    "summary_reasoning": "Strained voice, quickened pace, tense expression."
+  },
+  {
+    "timestamp": 32.937,
+    "emotion": "somber",
+    "detailed_reasoning": "He begins to describe the negative thoughts that plagued him, personifying them as the \"prince of darkness.\" His vocal tone drops significantly, becoming deeper and more resonant. His speaking pace slows down, and his expression becomes intensely serious and grave. This shift creates a somber and ominous atmosphere, reflecting the gravity of the spiritual and psychological battle he is describing.",
+    "summary_reasoning": "Deeper, slower voice. Grave expression."
+  },
+  {
+    "timestamp": 40.291,
+    "emotion": "distressed",
+    "detailed_reasoning": "The speaker recounts the specific negative thoughts he had, such as people thinking he was drunk or on drugs. His voice takes on a pained and slightly higher-pitched quality, conveying vulnerability. His facial expression shows distress, with his eyebrows raised in a worried manner. This reflects the deep distress and helplessness he felt.",
+    "summary_reasoning": "Pained tone, worried expression."
+  },
+  {
+    "timestamp": 50.83,
+    "emotion": "resolute",
+    "detailed_reasoning": "The narrative shifts from the internal struggle to taking action. He says, \"We called Dr. Schnitzler.\" His tone becomes more factual and steady, losing the distressed quality from the previous sentences. His facial expression becomes more composed. This indicates a shift in emotion towards a more resolute and pragmatic state of mind, focused on finding a solution.",
+    "summary_reasoning": "Factual tone, composed expression."
+  }
+]

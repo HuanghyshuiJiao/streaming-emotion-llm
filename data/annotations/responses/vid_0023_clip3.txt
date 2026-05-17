@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 0.452,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins with a direct and focused gaze at the camera. Her eyebrows are slightly lowered, and her lips are pursed, creating a serious and contemplative expression. Her tone is neutral and declarative, setting a serious mood for her opening statement.",
+    "summary_reasoning": "Direct gaze, neutral tone, serious expression."
+  },
+  {
+    "timestamp": 1.754,
+    "emotion": "pleased",
+    "detailed_reasoning": "A noticeable shift occurs as the speaker's expression softens into a warm smile. Her eyes light up, and her tone becomes more affectionate and positive. This change indicates she is transitioning to a pleasant and heartfelt topic.",
+    "summary_reasoning": "Soft smile, warm tone."
+  },
+  {
+    "timestamp": 11.631,
+    "emotion": "enthusiastic",
+    "detailed_reasoning": "The speaker's eyes widen significantly, and she delivers the line with increased energy and emphasis. Her smile becomes more pronounced, conveying a strong sense of enthusiasm and appreciation for the undivided attention she is describing.",
+    "summary_reasoning": "Wide eyes, energetic tone, enthusiastic smile."
+  },
+  {
+    "timestamp": 17.461,
+    "emotion": "dreamy",
+    "detailed_reasoning": "Her gaze shifts upward and to the side, away from the camera, giving her a dreamy and reflective appearance. Her tone softens, and the pace of her speech slows slightly, creating a romantic and wistful mood as she describes the world disappearing.",
+    "summary_reasoning": "Upward gaze, soft tone, reflective expression."
+  },
+  {
+    "timestamp": 22.55,
+    "emotion": "joyful",
+    "detailed_reasoning": "Her focus returns to the camera with a wide, bright smile. Her tone is filled with joy and excitement, especially as she emphasizes the phrase \"entire universe.\" This combination of visual and auditory cues expresses a feeling of pure happiness.",
+    "summary_reasoning": "Wide smile, joyful tone, direct gaze."
+  },
+  {
+    "timestamp": 29.486,
+    "emotion": "gleeful",
+    "detailed_reasoning": "The speaker's expression becomes highly animated and playful. She lists the sci-fi terms with a broad, infectious smile and a light, almost giddy tone, conveying a sense of gleeful excitement and delight in the comparison she's making.",
+    "summary_reasoning": "Animated expression, broad smile, gleeful tone."
+  },
+  {
+    "timestamp": 35.657,
+    "emotion": "appreciative",
+    "detailed_reasoning": "After the peak of her excitement, her expression softens into a sincere and gentle smile. Her tone becomes more grounded and heartfelt, clearly conveying her genuine appreciation and fondness for the subject of her monologue.",
+    "summary_reasoning": "Sincere smile, heartfelt tone."
+  },
+  {
+    "timestamp": 38.783,
+    "emotion": "content",
+    "detailed_reasoning": "Her voice becomes softer and more introspective as she describes feeling \"special.\" Her smile is gentle, and her eyes have a soft, reflective quality, indicating a deep sense of personal contentment and feeling valued.",
+    "summary_reasoning": "Soft voice, gentle smile, reflective expression."
+  },
+  {
+    "timestamp": 47.259,
+    "emotion": "peaceful",
+    "detailed_reasoning": "She concludes her thought with a serene and comforting smile. Her voice is soft and has a peaceful quality, expressing the emotional resolution and comfort she finds in not feeling \"alone anymore.\"",
+    "summary_reasoning": "Serene smile, soft tone."
+  }
+]

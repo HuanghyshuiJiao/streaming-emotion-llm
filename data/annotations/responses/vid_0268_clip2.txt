@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 2.414,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins with a grave and measured tone. Her facial expression is serious, with slightly furrowed brows and a concerned look in her eyes. The initial words, addressing the 'Jew' and mentioning 'justice,' establish a formal and serious context.",
+    "summary_reasoning": "Grave tone, serious expression."
+  },
+  {
+    "timestamp": 10.827,
+    "emotion": "pleading",
+    "detailed_reasoning": "After arguing that justice alone offers no salvation, her tone softens as she says, 'We do pray for mercy.' Her eyes seem to convey a deeper sense of appeal, and her pace slows down, shifting the emotion from a serious argument to a heartfelt plea based on a shared human condition.",
+    "summary_reasoning": "Softer tone, slower pace, appealing eyes."
+  },
+  {
+    "timestamp": 20.38,
+    "emotion": "deliberate",
+    "detailed_reasoning": "The speaker's tone shifts again to be more explanatory and direct. She explicitly states her purpose: 'I have spoke thus much to mitigate the justice of thy plea.' Her facial expression becomes more focused and less emotional, indicating a deliberate and reasoned attempt to persuade.",
+    "summary_reasoning": "Explanatory tone, focused expression."
+  },
+  {
+    "timestamp": 26.819,
+    "emotion": "stern",
+    "detailed_reasoning": "Her tone hardens significantly when she issues a warning. The words 'this strict court of Venice must needs give sentence' are delivered with a firm, unwavering voice. Her facial expression becomes severe, her gaze intensifies, and there's a clear lack of warmth, conveying the gravity of the consequences.",
+    "summary_reasoning": "Hardened tone, severe expression, intense gaze."
+  },
+  {
+    "timestamp": 30.581,
+    "emotion": "grave",
+    "detailed_reasoning": "The final two words, 'the murderer,' are spoken with a heavy finality. Her voice drops in pitch, and her expression is somber and resolute. This concludes her speech on a very grim and condemnatory note, solidifying the serious consequences she has been building towards.",
+    "summary_reasoning": "Low pitch, somber expression, finality in tone."
+  }
+]

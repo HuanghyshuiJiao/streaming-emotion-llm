@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 3.96,
+    "emotion": "pained",
+    "detailed_reasoning": "The user begins the monologue by explicitly stating they are \"hurting so bad inside.\" Their facial expression is strained, with eyes slightly squinted and the corners of their mouth turned down. Their vocal tone is low and heavy, conveying a deep sense of emotional pain.",
+    "summary_reasoning": "States pain, strained face, heavy tone."
+  },
+  {
+    "timestamp": 10.147,
+    "emotion": "desperate",
+    "detailed_reasoning": "The user's tone shifts to a more pleading and questioning quality as they ask, \"What did I do in my past life to deserve this?\" Their eyes look upwards as if searching for an answer, and their facial expression conveys confusion and desperation. The pitch of their voice rises slightly, indicating heightened emotional distress.",
+    "summary_reasoning": "Pleading tone, questioning words, upward gaze."
+  },
+  {
+    "timestamp": 17.815,
+    "emotion": "insecure",
+    "detailed_reasoning": "Continuing the self-questioning, the user's voice becomes softer and more hesitant. They look away and their posture seems to shrink slightly as they ask a series of questions about being a sin, a reminder, or a disappointment. This combination of verbal and non-verbal cues suggests a deep sense of insecurity and self-doubt.",
+    "summary_reasoning": "Soft hesitant voice, avoids eye contact, questioning self-worth."
+  },
+  {
+    "timestamp": 25.363,
+    "emotion": "dejected",
+    "detailed_reasoning": "After listing potential reasons for their pain, the user concludes with \"I even disappoint myself.\" Their voice drops in volume and pitch, and their head tilts down. The statement is delivered with a tone of finality and resignation, indicating a feeling of dejection and hopelessness.",
+    "summary_reasoning": "Low volume, downward head tilt, resigned tone."
+  },
+  {
+    "timestamp": 34.681,
+    "emotion": "resentful",
+    "detailed_reasoning": "The user's demeanor changes significantly when talking about their sister. Their voice becomes louder, faster, and harsher. They say, \"I will never be my sister... I hate everything about her.\" Their jaw is tense, and their eyes narrow, clearly expressing anger and resentment.",
+    "summary_reasoning": "Harsh loud tone, tense jaw, angry words."
+  },
+  {
+    "timestamp": 40.928,
+    "emotion": "conflicted",
+    "detailed_reasoning": "Immediately after the outburst of anger, there is a sharp shift. The user's voice softens dramatically, and their expression changes to one of sadness as they say, \"But I don't want to be mean to her.\" This quick change from hate to regret shows a deep internal conflict.",
+    "summary_reasoning": "Sudden tone shift from harsh to soft, sad expression."
+  },
+  {
+    "timestamp": 48.858,
+    "emotion": "hopeless",
+    "detailed_reasoning": "The user's voice becomes very quiet and airy, almost a whisper. They express a desire to \"become a shadow, fading away, forgotten.\" Their gaze is unfocused and directed downwards, and their body is still, reflecting a state of profound hopelessness and a wish to disappear.",
+    "summary_reasoning": "Quiet whispery voice, downward unfocused gaze, expresses desire to disappear."
+  },
+  {
+    "timestamp": 57.105,
+    "emotion": "resigned",
+    "detailed_reasoning": "In the final lines, the user's tone is one of sad resignation. They suggest that if they were forgotten, they wouldn't cause sadness anymore. Their facial expression is somber, with a slight, sad smile. This indicates they have accepted their perceived role as a source of sadness and are proposing a final, painful solution.",
+    "summary_reasoning": "Sad tone, somber expression, accepting painful outcome."
+  }
+]

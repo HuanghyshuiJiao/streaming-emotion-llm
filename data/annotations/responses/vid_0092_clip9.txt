@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1.7,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins with an instructional tone, maintaining a calm and neutral facial expression. Her voice is steady and her delivery is measured as she introduces the topic of St. Francis of Assisi.",
+    "summary_reasoning": "Instructional tone, neutral expression, steady voice."
+  },
+  {
+    "timestamp": 4.655,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker's tone softens, and she looks slightly away from the camera as she says, \"I would sure love to be a saint.\" This shift from a purely instructional tone to a more personal and introspective one suggests she is contemplating the idea, not just stating it.",
+    "summary_reasoning": "Softer tone, introspective gaze, personal statement."
+  },
+  {
+    "timestamp": 11.694,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker returns to her role as an instructor. Her tone becomes clear and analytical as she explains that this is a \"bittersweet ending.\" Her facial expression is neutral and focused on conveying the information clearly.",
+    "summary_reasoning": "Analytical tone, neutral expression, focused delivery."
+  },
+  {
+    "timestamp": 23.887,
+    "emotion": "engaged",
+    "detailed_reasoning": "The speaker's tone becomes more animated and encouraging as she talks about putting \"more colors\" into the monologue. She uses slight head movements and a more varied vocal pitch to engage the listener and emphasize her point about adding dynamism.",
+    "summary_reasoning": "Animated tone, varied pitch, head movements."
+  },
+  {
+    "timestamp": 30.734,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker's delivery becomes much more forceful and insistent. She repeats the word \"always\" three times with strong emphasis and uses more expressive hand gestures to underscore the importance of avoiding a monotone delivery. Her conviction is evident in her passionate tone.",
+    "summary_reasoning": "Forceful tone, repeated emphasis, expressive gestures."
+  },
+  {
+    "timestamp": 37.421,
+    "emotion": "neutral",
+    "detailed_reasoning": "After her passionate plea, the speaker's tone shifts back to being purely informational. She calmly states, \"Now I'm going to be doing a dramatic reading,\" signaling a transition. Her expression becomes neutral as she prepares for the reading.",
+    "summary_reasoning": "Informational tone, calm expression, signaling a transition."
+  },
+  {
+    "timestamp": 42.664,
+    "emotion": "fond",
+    "detailed_reasoning": "As she begins the dramatic reading, her voice softens significantly, and a gentle, reminiscent smile appears on her face. The content is about loving animals, and her delivery conveys a clear sense of warmth and fondness for the subject.",
+    "summary_reasoning": "Soft voice, gentle smile, warm tone."
+  },
+  {
+    "timestamp": 53.107,
+    "emotion": "tender",
+    "detailed_reasoning": "When recalling the specific nickname her foster mother gave her, \"her little piggy,\" the speaker's smile becomes warmer and her eyes soften. The memory is clearly a tender one, and her affectionate tone reflects this specific, personal recollection.",
+    "summary_reasoning": "Warm smile, soft eyes, affectionate tone."
+  },
+  {
+    "timestamp": 57.043,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker ends the clip by admitting, \"And I did look like a little piggy.\" She says this with a lighthearted, self-deprecating chuckle in her voice and a clear smile of amusement on her face, sharing a moment of light humor.",
+    "summary_reasoning": "Lighthearted tone, smiling, self-deprecating comment."
+  }
+]

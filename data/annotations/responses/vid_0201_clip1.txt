@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "intense",
+    "detailed_reasoning": "The video starts with the speaker looking directly into the camera with wide, intense eyes. His vocal delivery for the first line, 'I had it all,' is energetic and forceful, immediately establishing a heightened emotional state, not one of calm reflection. The stage makeup indicating a recent fight adds to the overall intensity of the scene.",
+    "summary_reasoning": "Wide eyes, energetic tone, forceful delivery."
+  },
+  {
+    "timestamp": 8.641,
+    "emotion": "proud",
+    "detailed_reasoning": "While continuing to list his former possessions, the speaker's tone becomes more emphatic and carries a sense of past satisfaction when he talks about his condo and clever furniture. The way he says 'that said who I was,' combined with a slight forward lean and open hand gestures, suggests he is conveying the pride and identity he once derived from these items.",
+    "summary_reasoning": "Emphatic tone, proud words, leaning forward."
+  },
+  {
+    "timestamp": 17.091,
+    "emotion": "mocking",
+    "detailed_reasoning": "There is a distinct shift in tone from pride to self-mockery. He adopts a more storytelling, performative voice. When he describes flipping through catalogues and wondering 'what kind of dining set defines me as a person,' his animated expression and slightly sarcastic tone ridicule his past consumerist mindset.",
+    "summary_reasoning": "Mocking tone, animated expression, absurd content."
+  },
+  {
+    "timestamp": 29.442,
+    "emotion": "critical",
+    "detailed_reasoning": "The mocking tone disappears and is replaced by a serious, graver one. The use of the strong, negative word 'slave' to describe his relationship with the 'Ikea nesting instinct' shows a harsh, critical judgment of his former self. His expression becomes stern, reinforcing this critical self-assessment.",
+    "summary_reasoning": "Serious tone, strong negative word 'slave'."
+  },
+  {
+    "timestamp": 32.465,
+    "emotion": "despair",
+    "detailed_reasoning": "Following the critical self-assessment, the speaker's tone becomes low, slow, and somber. The line 'my life was ending one minute at a time' is delivered with a sense of gravity and hopelessness, conveying the deep despair he felt in that previous state of existence.",
+    "summary_reasoning": "Low somber tone, slow pace, fatalistic words."
+  },
+  {
+    "timestamp": 36.329,
+    "emotion": "hopeful",
+    "detailed_reasoning": "A dramatic shift occurs here, marking a turning point in the narrative. The speaker's eyes light up, a small smile appears, and his vocal tone lifts, becoming energetic and infused with excitement. The introduction of 'Tyler Durden' is presented as a moment of salvation, moving the mood from despair to hope and reverence.",
+    "summary_reasoning": "Eyes light up, smile, energetic hopeful tone."
+  },
+  {
+    "timestamp": 39.552,
+    "emotion": "convinced",
+    "detailed_reasoning": "When quoting Tyler Durden, the speaker's demeanor becomes serious and focused. He delivers the line, 'the things you own end up owning you,' with a firm, deliberate tone, as if imparting a profound truth. He is not just repeating words; he is sharing a core belief that has fundamentally changed him, indicating deep conviction.",
+    "summary_reasoning": "Serious focused expression, firm tone, delivering profound quote."
+  },
+  {
+    "timestamp": 44.877,
+    "emotion": "cynical",
+    "detailed_reasoning": "After explaining his realization, his tone shifts again to a cynical, world-weary one. He generalizes the critique of consumerism to everyone ('We're consumers'). The wry smile and the almost preachy, dismissive way he lists the reasons for consumption convey a bitter, cynical understanding of society.",
+    "summary_reasoning": "Cynical tone, wry smile, critical generalization."
+  }
+]

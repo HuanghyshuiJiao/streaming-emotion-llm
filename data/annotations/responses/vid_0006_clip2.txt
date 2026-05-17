@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 1.833,
+    "emotion": "longing",
+    "detailed_reasoning": "The speaker begins with an intense, direct gaze into the camera. Her vocal tone is earnest and slightly strained, and the pace of her speech is slow and deliberate. The words \"so badly that you can't imagine your future without it\" convey a deep sense of desire for something unattainable, which aligns with a feeling of longing.",
+    "summary_reasoning": "Intense gaze, earnest tone, words of deep desire."
+  },
+  {
+    "timestamp": 9.943,
+    "emotion": "sad",
+    "detailed_reasoning": "Following a long, contemplative pause, the speaker's expression becomes melancholic. She briefly closes her eyes and her voice drops in pitch and volume. Her delivery of the word \"sad\" is soft and imbued with sorrow, directly reflecting the emotion she is describing and feeling.",
+    "summary_reasoning": "Melancholic expression, soft sorrowful tone, says \"sad\"."
+  },
+  {
+    "timestamp": 15.57,
+    "emotion": "desperate",
+    "detailed_reasoning": "The speaker's emotion shifts from sadness to a more anxious state. Her eyebrows are slightly raised and her facial expression shows tension. Her tone becomes more strained as she speaks of being \"stuck,\" conveying a sense of helplessness and desperation about her situation.",
+    "summary_reasoning": "Tense expression, strained tone, words of being \"stuck\"."
+  },
+  {
+    "timestamp": 21.938,
+    "emotion": "determined",
+    "detailed_reasoning": "There is a marked change in demeanor. Her voice becomes firmer and more assertive, and she shakes her head slightly as if in defiance. The emphasis on \"I won't stop wishing\" suggests a shift from desperation to a more resolute and determined mindset.",
+    "summary_reasoning": "Assertive tone, defiant head shake, resolute words."
+  },
+  {
+    "timestamp": 26.744,
+    "emotion": "fearful",
+    "detailed_reasoning": "The speaker's brief determination gives way to vulnerability. Her eyes widen slightly, and her facial expression becomes tense and worried. Her voice becomes strained again as she talks about being \"left with nothing,\" indicating a palpable fear of that outcome.",
+    "summary_reasoning": "Tense face, strained voice, words of fear."
+  },
+  {
+    "timestamp": 31.609,
+    "emotion": "pleading",
+    "detailed_reasoning": "Her expression softens into one of supplication, and her eyes appear heavy-lidded and sad. Her voice becomes very soft and takes on a pleading quality. The words \"Give me some meaning\" are delivered as an earnest, almost whispered, appeal.",
+    "summary_reasoning": "Pleading expression, soft pleading voice, words of appeal."
+  }
+]

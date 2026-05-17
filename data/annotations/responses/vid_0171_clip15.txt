@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his talk with a calm and narrative tone. His posture is relaxed, and he is telling a personal story in a measured way, setting a neutral to calm initial emotional state.",
+    "summary_reasoning": "Calm narrative tone, relaxed posture."
+  },
+  {
+    "timestamp": 2.435,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker explicitly mentions his smile turning into a \"single tear.\" His facial expression shifts from a neutral smile to a more somber look, and his tone becomes softer and lower in pitch, indicating a transition into sadness as he recalls a memory.",
+    "summary_reasoning": "Words mention crying, somber expression, softer tone."
+  },
+  {
+    "timestamp": 13.431,
+    "emotion": "grief-stricken",
+    "detailed_reasoning": "The speaker's emotion intensifies significantly as he utters the words \"I miss him.\" His voice is heavy with emotion, almost breaking. He looks down, and his facial expression conveys deep pain and loss. The pause before this statement also builds up the emotional weight.",
+    "summary_reasoning": "Heavy voice, pained expression, downward gaze."
+  },
+  {
+    "timestamp": 19.12,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker transitions from his personal story to a more general, analytical point about feelings. His tone shifts from purely emotional to more thoughtful and explanatory. His facial expression becomes more neutral and serious as he begins to intellectualize the experience.",
+    "summary_reasoning": "Shift from personal story to general point, analytical tone."
+  },
+  {
+    "timestamp": 32.712,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker shifts his focus to his professional life, talking about his patients. His tone becomes more detached and professional, similar to a lecturer. He speaks calmly and steadily, explaining a recurring question he encounters.",
+    "summary_reasoning": "Professional topic, calm and steady tone."
+  },
+  {
+    "timestamp": 36.803,
+    "emotion": "inquisitive",
+    "detailed_reasoning": "The speaker is now quoting his patients, asking \"What's the difference?\" His tone changes to reflect a questioning and slightly frustrated or pleading state, mimicking the emotion of the people he is quoting. His expression also becomes more questioning.",
+    "summary_reasoning": "Quoting a question, questioning tone, mimicking patients."
+  },
+  {
+    "timestamp": 45.214,
+    "emotion": "assertive",
+    "detailed_reasoning": "He shifts back to his own voice, preparing to answer the question he just posed. His tone becomes clearer and more confident. He is setting himself up as the authority who will provide the answer, which conveys a sense of assertion.",
+    "summary_reasoning": "Confident tone, preparing to answer a question."
+  },
+  {
+    "timestamp": 48.868,
+    "emotion": "empathetic",
+    "detailed_reasoning": "The speaker delivers his core message. His tone becomes very gentle and sincere. His facial expression softens, and he leans slightly forward, creating a feeling of connection and understanding. He is conveying deep empathy for his patients and the audience.",
+    "summary_reasoning": "Gentle sincere tone, soft facial expression, direct emotional message."
+  }
+]

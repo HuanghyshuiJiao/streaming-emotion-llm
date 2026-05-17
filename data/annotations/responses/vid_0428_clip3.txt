@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp": 1.133,
+    "emotion": "contemplative",
+    "detailed_reasoning": "The speaker begins with a rhetorical question to herself, holding her chin and looking off to the side. Her tone is slow and questioning, and her facial expression is serious and pensive, indicating she is in a state of deep thought.",
+    "summary_reasoning": "Slow thoughtful tone, pensive expression, hand on chin."
+  },
+  {
+    "timestamp": 7.743,
+    "emotion": "realization",
+    "detailed_reasoning": "Her demeanor shifts completely from introspective to engaged. She points directly at the camera with a look of realization, and a smile starts to form. Her tone becomes more assertive and appreciative, as if she has just found the answer to her own question.",
+    "summary_reasoning": "Points at camera, smiling, assertive tone."
+  },
+  {
+    "timestamp": 11.609,
+    "emotion": "joyful",
+    "detailed_reasoning": "Her smile widens significantly, her eyes are wide with excitement, and her voice becomes higher-pitched and more energetic. She starts using more expressive hand gestures, clearly conveying a sense of joy and amazement as she recalls the positive things she was shown.",
+    "summary_reasoning": "Wide smile, wide eyes, high-pitched energetic voice."
+  },
+  {
+    "timestamp": 16.417,
+    "emotion": "grateful",
+    "detailed_reasoning": "Upon stating the profound impact the other person had on her (\"how I should live life\"), she spreads her arms wide in a grand gesture of openness. Her expression is one of pure happiness and her tone is full of conviction, suggesting deep gratitude.",
+    "summary_reasoning": "Open-arm gesture, happy expression, convicted tone."
+  },
+  {
+    "timestamp": 21.224,
+    "emotion": "liberated",
+    "detailed_reasoning": "Contrasting her past feeling of being \"trapped\" with her current state, she maintains a joyful and open posture. Her tone is confident and her expression is bright, conveying a strong sense of freedom and liberation from her former self.",
+    "summary_reasoning": "Joyful expression, open posture, contrasting past/present."
+  },
+  {
+    "timestamp": 27.318,
+    "emotion": "surprised",
+    "detailed_reasoning": "Her entire mood shifts abruptly as she looks off-camera. Her joyful expression is replaced by one of wide-eyed surprise and then mild concern. Her vocal tone changes from confident to a startled, questioning pitch, indicating she was caught off guard by someone's return.",
+    "summary_reasoning": "Sudden head turn, startled expression, questioning tone."
+  },
+  {
+    "timestamp": 32.45,
+    "emotion": "reassuring",
+    "detailed_reasoning": "Responding to the other person's implied concern, her expression softens and she makes a dismissive hand gesture. Her tone becomes light and placating, with the rapid repetition of \"no, no, no\" intended to quickly soothe the other person's worries.",
+    "summary_reasoning": "Soft expression, placating tone, dismissive gesture."
+  },
+  {
+    "timestamp": 37.241,
+    "emotion": "affectionate",
+    "detailed_reasoning": "Her focus returns entirely to the person off-screen. Her voice becomes very warm and sincere, and she has a loving smile on her face. The content of her words, \"Today is all about you and me,\" reinforces this affectionate and dedicated feeling.",
+    "summary_reasoning": "Warm sincere tone, loving smile, dedicated words."
+  },
+  {
+    "timestamp": 40.509,
+    "emotion": "eager",
+    "detailed_reasoning": "After confirming their shared day, her tone becomes bright and forward-looking. She looks expectantly in the direction of the other person and asks, \"where are we going next?\", conveying eagerness and anticipation for their next activity.",
+    "summary_reasoning": "Bright tone, expectant look, forward-looking question."
+  },
+  {
+    "timestamp": 43.155,
+    "emotion": "playful",
+    "detailed_reasoning": "She begins to physically move, turning to follow the other person. Her speech is rushed but happy (\"I'm coming, I'm coming\"), and her expression is one of gleeful urgency, suggesting a playful interaction of not wanting to be left behind.",
+    "summary_reasoning": "Rushed happy speech, physical movement, gleeful expression."
+  },
+  {
+    "timestamp": 46.644,
+    "emotion": "cheerful",
+    "detailed_reasoning": "She turns back to the camera, inviting the other person to join her in saying goodbye. Her voice is happy and sing-song, and she waves with a big, bright smile as she exits, ending the video on a cheerful and positive note.",
+    "summary_reasoning": "Sing-song voice, waving, big smile."
+  }
+]

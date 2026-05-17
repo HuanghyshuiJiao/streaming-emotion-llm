@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 10.985,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his speech by formally addressing the board of education, faculty, families, and graduates. His tone is measured, steady, and respectful. His facial expression is neutral and his posture is composed, indicating a calm and formal demeanor appropriate for the start of a commencement address.",
+    "summary_reasoning": "Formal address, steady tone, neutral expression."
+  },
+  {
+    "timestamp": 15.431,
+    "emotion": "sincere",
+    "detailed_reasoning": "After the formal introduction, the speaker's tone softens as he expresses his personal feelings about being there. He says, \"I'm honored and grateful. Thank you.\" His voice becomes warmer, he makes direct eye contact, and a subtle, genuine smile appears, shifting the emotion from formal calmness to sincere gratitude.",
+    "summary_reasoning": "Warmer tone, smile, expressing gratitude."
+  },
+  {
+    "timestamp": 24.723,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker pivots from a serious tone to a humorous one. He sets up a joke by calling commencement \"life's great forward-looking ceremony\" and then immediately anticipates a counterargument with \"And don't say, 'what about weddings?'\". His tone becomes light and playful, and a smirk forms on his face, signaling a clear shift into amusement and comedy.",
+    "summary_reasoning": "Light tone, playful smirk, setting up a joke."
+  },
+  {
+    "timestamp": 32.862,
+    "emotion": "satirical",
+    "detailed_reasoning": "Continuing his joke about weddings, the speaker's humor becomes more satirical. He describes weddings as \"bride-centric pageantry\" with a deadpan, slightly mocking delivery. The audience's laughter reinforces the comedic context, and his sustained smirk shows he is intentionally using satire for amusement.",
+    "summary_reasoning": "Deadpan delivery, mocking tone, audience laughter."
+  },
+  {
+    "timestamp": 51.339,
+    "emotion": "playful",
+    "detailed_reasoning": "The speaker's amusement peaks as he delivers the punchline of his extended joke, asking the audience to imagine a TV show about men trying on tuxedos. His facial expression becomes more animated with raised eyebrows, and his tone is overtly playful and incredulous, sharing the absurdity of the image with the audience who responds with laughter.",
+    "summary_reasoning": "Animated expression, incredulous tone, audience laughter."
+  }
+]

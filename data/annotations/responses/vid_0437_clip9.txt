@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 5.862,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her talk with a personal anecdote. Her tone is measured and narrative, her pace is steady, and her facial expression is neutral. She is setting the scene for her argument, and her overall demeanor is calm and composed.",
+    "summary_reasoning": "Narrative tone, steady pace, neutral expression."
+  },
+  {
+    "timestamp": 12.274,
+    "emotion": "annoyed",
+    "detailed_reasoning": "The speaker introduces a point of conflict, recounting how a professor criticized her novel. While her tone is still relatively calm, the content of her speech shifts to a negative personal experience, introducing an underlying feeling of annoyance or frustration with the professor's judgment.",
+    "summary_reasoning": "Recounting negative critique, shift in topic."
+  },
+  {
+    "timestamp": 20.899,
+    "emotion": "incredulous",
+    "detailed_reasoning": "The speaker contrasts her own self-criticism with the professor's specific critique of her work lacking \"African authenticity.\" Her tone gains a slight edge of disbelief and irony, particularly on the word \"failed,\" and her eyebrows raise slightly, suggesting she finds the professor's reasoning absurd.",
+    "summary_reasoning": "Ironic tone, raised eyebrows, emphasis on \"failed.\""
+  },
+  {
+    "timestamp": 31.884,
+    "emotion": "skeptical",
+    "detailed_reasoning": "After stating she didn't know what \"African authenticity\" was, the speaker pauses. Her tone is matter-of-fact but carries a strong undercurrent of skepticism and challenges the very premise of the professor's critique. Her facial expression remains serious, reinforcing her doubt about the concept.",
+    "summary_reasoning": "Challenging tone, serious expression, rhetorical pause."
+  },
+  {
+    "timestamp": 40.927,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "The speaker lists the professor's reasons for deeming her characters inauthentic (they drove cars, were not starving). Her delivery is deadpan and rhythmic, highlighting the absurdity of the stereotypes. This creates a strong sense of sarcasm and mocks the narrow-mindedness of the professor's view.",
+    "summary_reasoning": "Deadpan delivery, highlighting absurd stereotypes."
+  },
+  {
+    "timestamp": 50.49,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker's tone shifts dramatically. She turns the critique inward, admitting her own guilt regarding the \"single story.\" Her voice becomes softer and more confessional, her pace slows, and her gaze drops slightly, indicating a moment of self-reflection and humility.",
+    "summary_reasoning": "Softer confessional tone, slower pace, self-critique."
+  }
+]

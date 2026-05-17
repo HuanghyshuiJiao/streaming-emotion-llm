@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 3.456,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker starts her story with a serious topic, mentioning a choice between the \"Happy Rancher\" and jail. Her facial expression is neutral, and her tone of voice is steady and calm, without any significant emotional inflection. She is simply setting the scene for her story.",
+    "summary_reasoning": "Neutral expression, steady tone."
+  },
+  {
+    "timestamp": 9.505,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker is recalling a memory of someone visiting her. Her pace slows slightly, and her eyes have a distant look, suggesting she is thinking back to that specific moment. The tone remains calm but takes on a more reflective quality as she begins to share a personal story.",
+    "summary_reasoning": "Slow pace, distant look."
+  },
+  {
+    "timestamp": 15.233,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker mentions the \"stupid name\" of the place but then says it \"sounded kind of cool.\" A slight, wry smile appears on her face, and her tone lightens, indicating a sense of amusement or irony about the name in contrast to the positive opportunity it represented.",
+    "summary_reasoning": "Wry smile, light tone."
+  },
+  {
+    "timestamp": 25.127,
+    "emotion": "grateful",
+    "detailed_reasoning": "The speaker's voice softens and her expression becomes more earnest as she emphasizes that someone \"asked me what I wanted.\" The emphasis on these words and the change in her demeanor suggest a deep sense of surprise and gratitude for being shown this consideration.",
+    "summary_reasoning": "Soft voice, earnest expression."
+  },
+  {
+    "timestamp": 30.022,
+    "emotion": "sad",
+    "detailed_reasoning": "Recalling how this person wanted to help her, the speaker's expression becomes heavy with emotion. Her eyes appear watery and her lower lip trembles slightly. Her voice is filled with emotion as she describes this profound act of care, indicating sadness and being overwhelmed by the memory.",
+    "summary_reasoning": "Watery eyes, trembling lip, emotional voice."
+  },
+  {
+    "timestamp": 33.528,
+    "emotion": "vulnerable",
+    "detailed_reasoning": "The speaker explicitly states, \"I just broke down and cried.\" Her eyes are downcast, and her voice is soft and wavers, conveying the vulnerability and deep sadness she felt at that moment. She is reliving the emotional release she experienced.",
+    "summary_reasoning": "Downcast eyes, wavering voice."
+  },
+  {
+    "timestamp": 43.345,
+    "emotion": "relieved",
+    "detailed_reasoning": "After describing her crying, her narrative shifts to the reason for her emotional release: \"I finally found someone who cared.\" Her voice lifts, and a small, genuine smile begins to form. This change indicates a profound sense of relief and happiness at finding support.",
+    "summary_reasoning": "Lifted voice, small smile."
+  },
+  {
+    "timestamp": 49.035,
+    "emotion": "embarrassed",
+    "detailed_reasoning": "The speaker abruptly breaks from her emotional recollection and becomes self-conscious. She says, \"Man, what am I saying?\" and follows it with a self-deprecating comment about being a \"dork.\" She gives a sheepish, wide smile, indicating embarrassment at having shared such a personal and emotional story.",
+    "summary_reasoning": "Self-deprecating words, sheepish smile."
+  },
+  {
+    "timestamp": 52.06,
+    "emotion": "amused",
+    "detailed_reasoning": "Ending her story, she asks, \"Real sob story, huh?\" while smiling broadly. Her tone is light and self-aware. This indicates she has moved past the embarrassment and is now amused by her own emotional display, using humor to wrap up the segment.",
+    "summary_reasoning": "Broad smile, light tone, rhetorical question."
+  }
+]

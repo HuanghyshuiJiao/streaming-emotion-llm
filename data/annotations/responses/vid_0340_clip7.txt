@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 6.198,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her talk with a very calm and measured tone. Her facial expression is neutral and her body language is open and relaxed as she explains a concept. This establishes a baseline of a composed and informative demeanor.",
+    "summary_reasoning": "Measured tone, neutral expression, calm demeanor."
+  },
+  {
+    "timestamp": 10.682,
+    "emotion": "determined",
+    "detailed_reasoning": "After setting up her initial point, the speaker's tone shifts to become more emphatic and determined. She stresses the words 'environment' and 'really, really matters,' leaning forward slightly to emphasize the importance of her statement. This shows a clear conviction in the point she is making.",
+    "summary_reasoning": "Emphatic tone, forward lean, stressed words."
+  },
+  {
+    "timestamp": 17.069,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker transitions from an explanatory tone to a personal one. Her voice becomes softer and her pace slows as she begins to share her own experience with the words 'I tried to change everything.' Her gaze shifts slightly, indicating a turn inward to memory and personal reflection.",
+    "summary_reasoning": "Softer voice, slower pace, personal anecdote."
+  },
+  {
+    "timestamp": 25.533,
+    "emotion": "fearful",
+    "detailed_reasoning": "The speaker explicitly mentions the word 'fear.' Her tone becomes more vulnerable, and she looks down and away from the audience. This, combined with the content about her fear of getting better, strongly suggests she is recalling and conveying a genuine sense of past fear and uncertainty.",
+    "summary_reasoning": "Mentions 'fear', vulnerable tone, downward gaze."
+  },
+  {
+    "timestamp": 31.757,
+    "emotion": "anxious",
+    "detailed_reasoning": "Continuing on the theme of fear, her vocal pitch rises slightly as she asks rhetorical questions about her identity and potential loss. Her facial expression becomes more tense, and her speech quickens, reflecting the anxiety and high stakes of the internal conflict she is describing.",
+    "summary_reasoning": "Higher vocal pitch, tense expression, rhetorical questions."
+  },
+  {
+    "timestamp": 38.276,
+    "emotion": "analytical",
+    "detailed_reasoning": "The speaker shifts back to a more objective and explanatory mode. Her tone becomes clearer and more structured as she introduces the 'trifecta of addiction.' Her posture straightens and her gestures become more deliberate, as if she is teaching a concept, moving from personal emotion to an analytical framework.",
+    "summary_reasoning": "Explanatory tone, structured gestures, objective language."
+  },
+  {
+    "timestamp": 49.3,
+    "emotion": "compassionate",
+    "detailed_reasoning": "The speaker's tone softens dramatically as she encourages the audience to 'really listen to their story.' Her facial expression becomes gentle and empathetic, and she makes more direct, inclusive eye contact. This change conveys a deep sense of compassion and understanding for the subject of her talk.",
+    "summary_reasoning": "Softened tone, empathetic expression, direct eye contact."
+  }
+]

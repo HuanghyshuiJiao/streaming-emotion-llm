@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 3.716,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker begins with a slow, deliberate pace and a slightly melancholic tone. His facial expression is neutral and his gaze is directed slightly away from the camera, suggesting he is deep in thought and reflecting on a past experience.",
+    "summary_reasoning": "Slow pace, melancholic tone, distant gaze."
+  },
+  {
+    "timestamp": 12.527,
+    "emotion": "conflicted",
+    "detailed_reasoning": "The speaker describes how his parents gave him everything to succeed as a musician, which should be positive. However, his tone remains subdued and his facial expression lacks any joy. This contrast between the positive words and the negative delivery indicates an internal conflict or a sense of disconnect from his own success.",
+    "summary_reasoning": "Positive words, subdued tone, neutral expression."
+  },
+  {
+    "timestamp": 15.21,
+    "emotion": "disappointed",
+    "detailed_reasoning": "The speaker explicitly states, 'I was left empty.' His vocal tone drops, his pace slows down, and his expression becomes more somber. This combination directly conveys a feeling of disappointment and emptiness, marking the emotional low point of his reflection.",
+    "summary_reasoning": "Low vocal tone, slow pace, somber expression."
+  },
+  {
+    "timestamp": 19.996,
+    "emotion": "realization",
+    "detailed_reasoning": "The speaker's tone shifts as he explains his realization that his actions were for others, not himself. His eyebrows raise slightly and his speaking pace picks up, indicating a moment of clarity and a shift from feeling sad to understanding the source of his feelings.",
+    "summary_reasoning": "Shift in tone, raised eyebrows, faster pace."
+  },
+  {
+    "timestamp": 24.902,
+    "emotion": "frustrated",
+    "detailed_reasoning": "Describing how he spent his life doing things for others, the speaker's tone becomes more strained. There's a slight, subtle shake of his head, and his words are delivered with a cadence that suggests a long-held frustration with his past behavior.",
+    "summary_reasoning": "Strained tone, slight head shake, frustrated cadence."
+  },
+  {
+    "timestamp": 36.804,
+    "emotion": "regretful",
+    "detailed_reasoning": "When saying, 'I never asked myself what would make me happy,' the speaker's voice softens and his gaze drops. This demonstrates a sense of regret and introspection, highlighting a missed opportunity for self-discovery.",
+    "summary_reasoning": "Soft voice, downward gaze."
+  },
+  {
+    "timestamp": 41.655,
+    "emotion": "anxious",
+    "detailed_reasoning": "The speaker describes being 'so worried' and thinking he was 'selfish.' His eyes widen slightly and his tone conveys a sense of past anxiety and the social pressure he felt, making his fear palpable to the viewer.",
+    "summary_reasoning": "Wide eyes, anxious tone, specific word choice."
+  },
+  {
+    "timestamp": 49.372,
+    "emotion": "resigned",
+    "detailed_reasoning": "After explaining the negative consequences of being selfless, the speaker concludes that it leaves a person 'empty and without an identity.' His tone is conclusive and his expression is one of weary resignation, summarizing the negative outcome of his past actions.",
+    "summary_reasoning": "Conclusive tone, weary expression."
+  },
+  {
+    "timestamp": 51.737,
+    "emotion": "determined",
+    "detailed_reasoning": "There is a significant shift in energy. The speaker says, 'So I finally got tired of it all and quit.' His voice becomes louder and firmer, his posture straightens, and his expression shows resolve. This marks the turning point in his story from passive suffering to active decision-making.",
+    "summary_reasoning": "Louder firm voice, straight posture, resolved expression."
+  },
+  {
+    "timestamp": 55.806,
+    "emotion": "liberated",
+    "detailed_reasoning": "The speaker emphatically repeats the word 'quit' while listing the things he left behind ('symphony,' 'social pressure'). His tone is strong and decisive, and his facial expression shows a sense of relief and freedom, conveying a powerful feeling of liberation from his past burdens.",
+    "summary_reasoning": "Strong decisive tone, repetition of 'quit,' relieved expression."
+  }
+]

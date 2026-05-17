@@ -1,0 +1,80 @@
+[
+  {
+    "timestamp": 2.079,
+    "emotion": "playful",
+    "detailed_reasoning": "The speaker begins her monologue with a broad, theatrical statement, \"I am looking for love.\" Her smiling face, open-arm gestures, and slightly amused, declarative tone suggest she's not expressing a genuine vulnerability but rather setting up a playful, comedic premise for the audience. The context of being on stage reinforces this performative and playful emotion.",
+    "summary_reasoning": "Theatrical statement, smile, open gestures, amused tone."
+  },
+  {
+    "timestamp": 6.497,
+    "emotion": "sincere",
+    "detailed_reasoning": "After the initial playful declaration, she repeats the line but adds the word \"actively.\" Her tone becomes more serious and emphatic, her hands come together in front of her, and her facial expression loses the broad smile, shifting to one of more focused intent. This change in vocal and physical delivery is meant to convey a deeper, more genuine sincerity behind her quest for love.",
+    "summary_reasoning": "Emphatic tone, serious expression, clasped hands."
+  },
+  {
+    "timestamp": 13.351,
+    "emotion": "enthusiastic",
+    "detailed_reasoning": "The speaker's tone becomes conversational and engaging as she explains the concept of a \"traffic light party.\" Her energy builds throughout the explanation, culminating in a burst of enthusiasm when she says \"absolutely are?\" Her pitch rises, she smiles widely, and her gestures become more animated, showing excitement for the idea she's presenting.",
+    "summary_reasoning": "Conversational tone, rising pitch, wide smile, animated gestures."
+  },
+  {
+    "timestamp": 15.034,
+    "emotion": "joyful",
+    "detailed_reasoning": "This is the punchline moment. The speaker exclaims, \"I'm on green!\" with a burst of pure joy. Her arms are thrown open wide, her smile is at its biggest, and her voice is loud and cheerful. The combination of these cues conveys an ecstatic and uninhibited happiness, celebrating her availability.",
+    "summary_reasoning": "Exuberant tone, wide-open arms, broad smile."
+  },
+  {
+    "timestamp": 18.319,
+    "emotion": "amused",
+    "detailed_reasoning": "Following the peak excitement of her punchline and the audience's laughter, she adds the word \"Constantly.\" Her tone shifts dramatically to a more deadpan, understated delivery. She has a wry, self-deprecating smile, which shows she is amused by her own constant and perhaps overwhelming availability. The contrast creates a comedic beat.",
+    "summary_reasoning": "Deadpan delivery, wry smile, comedic contrast."
+  },
+  {
+    "timestamp": 22.024,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker corrects herself from \"I like a lot of things\" to \"No, I love a lot of things.\" This self-correction is accompanied by a significant shift in her expression and tone. Her eyes widen, her face becomes intense, and her voice becomes forceful and passionate. She is conveying that her feelings are not mild but incredibly strong and deeply felt.",
+    "summary_reasoning": "Forceful tone, intense facial expression, self-correction."
+  },
+  {
+    "timestamp": 28.374,
+    "emotion": "excited",
+    "detailed_reasoning": "As she rattles off a list of things she loves—\"food and friends and parties and events\"—her speech quickens, and her voice takes on a light, bubbly quality. Her face is animated with a constant smile, and her head bobs along with the rhythm of her words. This rapid, happy delivery conveys a sense of easily sparked excitement and enthusiasm for life.",
+    "summary_reasoning": "Fast-paced speech, bubbly tone, animated smile."
+  },
+  {
+    "timestamp": 31.759,
+    "emotion": "playful",
+    "detailed_reasoning": "Continuing her excited list, the speaker's emotion gains a playful edge. When she mentions \"sex,\" she gives a slightly cheeky look to the audience, and her tone has a mischievous quality. This indicates she's not just excited, but also having fun with her list and being intentionally a little provocative for comedic effect.",
+    "summary_reasoning": "Cheeky expression, mischievous tone."
+  },
+  {
+    "timestamp": 35.365,
+    "emotion": "confessional",
+    "detailed_reasoning": "The topic shifts to Facebook, and her demeanor changes. Her tone becomes more conversational and matter-of-fact, as if she is admitting a guilty pleasure. Her facial expression is one of slight embarrassment or self-consciousness, setting up a comedic conflict between her social media habits and her self-perception.",
+    "summary_reasoning": "Conversational tone, slightly embarrassed expression."
+  },
+  {
+    "timestamp": 43.327,
+    "emotion": "ironic",
+    "detailed_reasoning": "The speaker's emotion becomes deeply ironic as she describes how she'd like to see herself. She says she \"hates\" having the Facebook app with a look of theatrical self-disgust, then adopts an airy, pretentious tone and a dreamy expression to describe herself as an \"arty person\" and a \"free spirit.\" She is clearly mocking this idealized self-image, creating a strong sense of irony.",
+    "summary_reasoning": "Pretentious tone, dreamy expression, mocking self-image."
+  },
+  {
+    "timestamp": 45.072,
+    "emotion": "self-deprecating",
+    "detailed_reasoning": "After performing the \"free spirit\" persona, she immediately breaks character and admits, \"so cheesy.\" Her face scrunches up in a moment of self-awareness, and her tone becomes grounded and frank. She is laughing at herself, sharing a moment of self-deprecation with the audience over the ridiculousness of her previous statement.",
+    "summary_reasoning": "Grounded tone, scrunched face, admitting fault."
+  },
+  {
+    "timestamp": 49.825,
+    "emotion": "quirky",
+    "detailed_reasoning": "Trying to explain her personality, she uses the word \"cartwheely.\" Her energy lifts, her gestures become more expansive and free, and her tone becomes light and eccentric. She embodies the quirky, free-spirited nature she's describing, presenting her eccentricities in a charming and energetic way.",
+    "summary_reasoning": "Energetic tone, expansive gestures, quirky word choice."
+  },
+  {
+    "timestamp": 55.861,
+    "emotion": "adventurous",
+    "detailed_reasoning": "She concludes with an anecdote about spontaneously boarding trains and talking to strangers. Her voice is filled with a sense of whimsical, adventurous energy. She acts out waving to a stranger with a huge, friendly smile. This performance conveys a personality that is open, spontaneous, and embraces adventure and connection.",
+    "summary_reasoning": "Whimsical tone, acting out story, friendly smile."
+  }
+]

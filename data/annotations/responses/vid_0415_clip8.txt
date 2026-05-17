@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 5.238,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker begins by stating a fact about the number of dental schools in Canada. Her tone is neutral and her facial expression is calm and direct, with a slight head nod as she speaks, indicating she is sharing information.",
+    "summary_reasoning": "Neutral tone, calm expression, factual content."
+  },
+  {
+    "timestamp": 8.422,
+    "emotion": "surprised",
+    "detailed_reasoning": "When comparing the number of dental schools in the US (66) to Canada's six, her eyebrows raise, her eyes widen, and her vocal pitch slightly increases on the number \"66.\" This combination of facial and vocal cues suggests surprise or astonishment at the significant difference.",
+    "summary_reasoning": "Raised eyebrows, widened eyes, higher pitch."
+  },
+  {
+    "timestamp": 15.131,
+    "emotion": "analytical",
+    "detailed_reasoning": "The speaker acknowledges the population difference between the US and Canada as a factor. Her tone becomes more measured, and she looks slightly away as if considering the data, suggesting a shift to a more analytical and reasoned state of mind before making her next point.",
+    "summary_reasoning": "Measured tone, thoughtful gaze, analytical content."
+  },
+  {
+    "timestamp": 24.283,
+    "emotion": "concerned",
+    "detailed_reasoning": "After explaining the disparity in the number of schools, the speaker concludes that this makes it more competitive in Canada. Her facial expression becomes more serious, her brows slightly furrow, and her tone drops, conveying a sense of concern or worry about the difficulty of the situation.",
+    "summary_reasoning": "Serious expression, furrowed brows, lower tone."
+  },
+  {
+    "timestamp": 29.924,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker shifts to discussing her specific province, where there is only one dental school. Her tone becomes more pointed and she uses a hand gesture for emphasis. Her expression tightens slightly, indicating a personal frustration with the limited options available to her.",
+    "summary_reasoning": "Pointed tone, emphatic gesture, tight expression."
+  },
+  {
+    "timestamp": 42.357,
+    "emotion": "disappointed",
+    "detailed_reasoning": "She explains that only a small percentage of seats are reserved for out-of-province students. Her tone is tinged with disappointment, her lips purse slightly, and she shakes her head subtly, reflecting the discouraging nature of this fact.",
+    "summary_reasoning": "Disappointed tone, pursed lips, subtle head shake."
+  },
+  {
+    "timestamp": 55.131,
+    "emotion": "overwhelmed",
+    "detailed_reasoning": "Concluding her point, she describes how people from all over Canada are competing for this tiny percentage of spots. Her eyes widen, her hand gestures become more expansive, and her speech rate increases slightly, conveying a feeling of being overwhelmed by the sheer scale of the competition.",
+    "summary_reasoning": "Widened eyes, expansive gestures, faster speech."
+  }
+]

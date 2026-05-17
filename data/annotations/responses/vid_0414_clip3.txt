@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 1.293,
+    "emotion": "sad",
+    "detailed_reasoning": "The video begins with the speaker already in a state of sadness. His eyes are red and watery, his facial expression is pained, and his mouth is slightly downturned. He is looking directly into the camera, which makes his expression feel very personal and raw. The initial words, \"It pains me because...\" confirm the emotion verbally.",
+    "summary_reasoning": "Watery eyes, pained expression, sad words."
+  },
+  {
+    "timestamp": 6.038,
+    "emotion": "disappointed",
+    "detailed_reasoning": "The speaker's sadness is now more clearly defined as disappointment. After saying he believed in the person more than they believed in themself, his expression holds a look of letdown. His voice is soft and has a slight quaver, reinforcing the feeling of being let down by someone he had high hopes for.",
+    "summary_reasoning": "Sad expression, soft voice, words of letdown."
+  },
+  {
+    "timestamp": 14.188,
+    "emotion": "regretful",
+    "detailed_reasoning": "The speaker is explaining the \"number one lesson\" that the other person forgot. His tone is mournful, and his expression is filled with sorrow as he talks about doing what you love for the journey. This implies a deep regret, not for himself, but for the other person's choices and lost potential. The sadness in his eyes is palpable.",
+    "summary_reasoning": "Mournful tone, sorrowful expression, words about lost principles."
+  },
+  {
+    "timestamp": 21.477,
+    "emotion": "sad",
+    "detailed_reasoning": "His expression becomes more intensely sad as he repeats the idea that the person \"lost sight\" and \"forgot what it's all about.\" The repetition emphasizes the depth of his sorrow over this failure. His brows are slightly furrowed, and his eyes remain watery, conveying a feeling of deep, unresolved hurt.",
+    "summary_reasoning": "Watery eyes, furrowed brow, repetitive words of loss."
+  },
+  {
+    "timestamp": 28.53,
+    "emotion": "passionate",
+    "detailed_reasoning": "For a moment, as the speaker describes the true purpose of creative expression, his tone lifts slightly and his speech becomes more fluid. He speaks about what the \"soul needs to do.\" This brief shift reveals the passion behind his beliefs, which makes the overall context of disappointment even more poignant. His face remains sad, but the energy in his voice changes.",
+    "summary_reasoning": "Lifted tone, fluid speech, heartfelt words."
+  },
+  {
+    "timestamp": 35.749,
+    "emotion": "disappointed",
+    "detailed_reasoning": "After his brief moment of passion, the speaker's energy deflates as he returns to the other person's failure. When he says \"enjoy the process,\" his face shows clear disappointment that this did not happen. The contrast between the ideal he just described and the reality of the situation is stark.",
+    "summary_reasoning": "Deflated energy, sad expression, contrasting words."
+  },
+  {
+    "timestamp": 44.112,
+    "emotion": "resigned",
+    "detailed_reasoning": "In the final sentence, the speaker concludes that the person got \"stuck\" like most people. His tone becomes flatter, and his expression conveys a sense of hopeless resignation. The sadness is still there, but it's overlaid with a feeling that the outcome was sadly inevitable, leaving him defeated and sorrowful.",
+    "summary_reasoning": "Flat tone, defeated expression, words of inevitability."
+  }
+]

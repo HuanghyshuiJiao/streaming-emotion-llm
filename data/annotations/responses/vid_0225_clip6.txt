@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 4.135,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's initial conversational tone shifts. Her smile disappears, and she adopts a more somber facial expression and a graver tone of voice as she begins to present a statistic from the World Health Organization, indicating a change to a more serious mood.",
+    "summary_reasoning": "Somber expression, grave tone."
+  },
+  {
+    "timestamp": 10.521,
+    "emotion": "concerned",
+    "detailed_reasoning": "After stating that OCD is one of the top 10 most debilitating illnesses, the speaker's facial expression becomes more intense and her eyebrows furrow slightly. Her tone is weighty and deliberate, conveying a deep sense of concern for the gravity of the topic.",
+    "summary_reasoning": "Intense expression, weighty tone."
+  },
+  {
+    "timestamp": 17.006,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker transitions from presenting general facts to her personal story by saying, \"And I was no exception.\" Her voice softens and takes on a more melancholic quality, and her facial expression shows a hint of sadness as she prepares to share her personal struggles, indicating a shift to a somber mood.",
+    "summary_reasoning": "Softer voice, melancholic tone, sad expression."
+  },
+  {
+    "timestamp": 27.036,
+    "emotion": "pained",
+    "detailed_reasoning": "While describing her compulsive hand washing until her hands \"cracked and bled,\" the speaker's expression becomes tight and her voice is strained. She is recounting a physically and emotionally painful memory, and this pain is reflected in her tone and facial cues.",
+    "summary_reasoning": "Strained voice, tight expression, distressing words."
+  },
+  {
+    "timestamp": 35.178,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker's mood shifts to one of clear sadness as she explains the all-consuming nature of her compulsions. She looks down, breaking eye contact with the audience, and her voice is low and filled with resignation, especially when saying she \"simply didn't have the time\" for a normal life.",
+    "summary_reasoning": "Looks down, low tone, resigned expression."
+  },
+  {
+    "timestamp": 46.019,
+    "emotion": "hopeless",
+    "detailed_reasoning": "The speaker's emotional state reaches a low point here. Her voice becomes quieter and her speaking pace slows down as she describes her low quality of life and loss of motivation. Her facial expression is one of deep sadness and despair, reflecting the hopelessness she felt during that time.",
+    "summary_reasoning": "Quiet voice, slow pace, despairing expression."
+  }
+]

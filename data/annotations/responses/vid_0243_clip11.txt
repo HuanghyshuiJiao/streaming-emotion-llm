@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker begins her presentation with a clear and steady tone of voice. Her facial expression is neutral and her posture is upright, indicating she is in a mode of conveying information to the audience in a factual manner.",
+    "summary_reasoning": "Clear, steady tone. Neutral expression."
+  },
+  {
+    "timestamp": 10.698,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's tone shifts as she uses the word \"But\" to introduce a contrast. Her facial expression becomes more somber, her brow furrows slightly, and her pace slows down to emphasize the difficulties faced by an autistic child. This marks a shift from a general statement to a more serious and empathetic point.",
+    "summary_reasoning": "Somber expression, slower pace, empathetic tone."
+  },
+  {
+    "timestamp": 17.395,
+    "emotion": "vulnerable",
+    "detailed_reasoning": "The speech transitions from a general topic to a personal one with the phrase \"I really struggle.\" The speaker's gaze shifts downwards, and her voice becomes softer and more personal. This change in vocal tone and body language reveals a sense of personal vulnerability as she shares her own challenges.",
+    "summary_reasoning": "Downward gaze, softer voice, personal disclosure."
+  },
+  {
+    "timestamp": 27.645,
+    "emotion": "frustrated",
+    "detailed_reasoning": "Recounting her mother's instructions, the speaker's tone becomes slightly more rigid and forceful. Her facial muscles appear to tense up, particularly around the jaw. This suggests a feeling of frustration or exasperation stemming from the memory of being forced to do something that felt unnatural and uncomfortable.",
+    "summary_reasoning": "Rigid tone, tense facial muscles."
+  },
+  {
+    "timestamp": 35.873,
+    "emotion": "resigned",
+    "detailed_reasoning": "After explaining the pressure she was under, she says, \"so I learned to cheat.\" Her tone becomes matter-of-fact, and there's a slight release of tension in her face. This indicates a sense of resignation to her situation and her practical, albeit reluctant, solution to the problem.",
+    "summary_reasoning": "Matter-of-fact tone, released tension."
+  },
+  {
+    "timestamp": 48.933,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker introduces another personal difficulty, struggling to make friends. Her facial expression becomes more somber, her gaze lowers, and her vocal pitch drops slightly. This combination of cues conveys a feeling of sadness and melancholy associated with this social challenge.",
+    "summary_reasoning": "Somber expression, lower gaze, lower pitch."
+  },
+  {
+    "timestamp": 54.221,
+    "emotion": "anxious",
+    "detailed_reasoning": "In the final sentences, the speaker describes not knowing what is expected of her. Her eyes widen slightly, and her tone becomes more hesitant and uncertain. This expression of confusion and lack of social clarity points to an underlying feeling of anxiety about social interactions.",
+    "summary_reasoning": "Wide eyes, hesitant tone, expresses confusion."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 8.62,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker starts by addressing an unseen person, with a slightly exasperated but overall calm and controlled tone. He asks for time, indicating he is trying to focus on a task, and his facial expression is neutral.",
+    "summary_reasoning": "Controlled tone, neutral face."
+  },
+  {
+    "timestamp": 10.442,
+    "emotion": "focused",
+    "detailed_reasoning": "The speaker explains that the letter is important and he doesn't want to rush it. His tone becomes more serious and deliberate, and his brow furrows slightly as he looks down to write, indicating a clear shift into a state of concentration.",
+    "summary_reasoning": "Serious tone, deliberate speech, furrowed brow."
+  },
+  {
+    "timestamp": 18.031,
+    "emotion": "solemn",
+    "detailed_reasoning": "The speaker begins to read the letter he has written, starting with \"Dear God.\" His tone changes completely from conversational to a formal, reverent, and serious reading voice. This marks a significant shift in the mood of the video.",
+    "summary_reasoning": "Shift to formal reading voice, reverent tone."
+  },
+  {
+    "timestamp": 32.267,
+    "emotion": "contemplative",
+    "detailed_reasoning": "While reading about being asleep, the speaker adds, \"I think.\" This phrase is delivered in a softer, more hesitant tone than the rest of the reading, introducing an element of uncertainty and reflection about the memory he is recounting.",
+    "summary_reasoning": "Softer tone, hesitant speech."
+  },
+  {
+    "timestamp": 34.624,
+    "emotion": "intrigued",
+    "detailed_reasoning": "The narrative takes a turn as he begins to describe a mysterious female presence. His reading pace quickens slightly, and his tone carries a sense of mystery and growing wonder, pulling the listener into the strange event he is describing.",
+    "summary_reasoning": "Quicker pace, mysterious tone."
+  },
+  {
+    "timestamp": 52.8,
+    "emotion": "awed",
+    "detailed_reasoning": "In the final line, the speaker describes the figure as being \"all bright like the sun.\" His voice rises in intensity, and his eyes are wide as he reads. This combination of vocal and facial cues strongly conveys a feeling of being overwhelmed with awe and wonder.",
+    "summary_reasoning": "Intense voice, wide eyes."
+  }
+]

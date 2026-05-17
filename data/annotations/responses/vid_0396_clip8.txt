@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 5.061,
+    "emotion": "intrigued",
+    "detailed_reasoning": "The speaker begins his story with a calm, narrative tone. When he starts quoting the woman, Lena, his pace quickens to match the word 'hurriedly.' This shift in pace and the direct quotation create a sense of immediacy and introduce a mysterious element to the story, making the tone more intrigued and engaging.",
+    "summary_reasoning": "Quoting character, faster pace."
+  },
+  {
+    "timestamp": 12.175,
+    "emotion": "confused",
+    "detailed_reasoning": "After being told he will be meeting with three different people, the speaker says, 'I'm like, okay, that's a bit strange.' His tone shifts to one of personal reflection, and his facial expression shows slight bewilderment. This directly communicates his feeling of confusion about the unexpected change in his meeting.",
+    "summary_reasoning": "Bewildered tone, confused expression, direct statement."
+  },
+  {
+    "timestamp": 20.008,
+    "emotion": "curious",
+    "detailed_reasoning": "The narrative builds suspense as the woman engages in 'chit-chatting' and then 'suddenly' asks, 'Are you ready now?' The speaker's delivery emphasizes the unexpected nature of the question, making his past self's (and the audience's) emotion one of curiosity and anticipation for what comes next.",
+    "summary_reasoning": "Suspenseful tone, narrative build-up."
+  },
+  {
+    "timestamp": 23.752,
+    "emotion": "bewildered",
+    "detailed_reasoning": "In response to being asked if he's 'ready,' the speaker recounts his reaction: 'Yeah, what should I be ready for?' His vocal inflection is high and questioning, and his facial expression shows clear incomprehension. This is a moment of heightened confusion and bewilderment.",
+    "summary_reasoning": "Questioning tone, high inflection, confused expression."
+  },
+  {
+    "timestamp": 40.09,
+    "emotion": "shocked",
+    "detailed_reasoning": "The speaker reveals the critical information he was given: the three men he's about to meet are ex-military owners who do not want his training. He delivers this line with a flat, serious tone, which contrasts with the shocking content of the words. This delivery emphasizes the bombshell nature of the information, reflecting his past self's shock.",
+    "summary_reasoning": "Serious tone, shocking content."
+  },
+  {
+    "timestamp": 42.653,
+    "emotion": "amused",
+    "detailed_reasoning": "After conveying the shocking setup, the speaker's demeanor completely changes. He exclaims, 'Come on!' with a laugh in his voice and an exasperated but amused facial expression. This is a clear emotional release, showing that he now finds the memory of this stressful situation funny.",
+    "summary_reasoning": "Laughing tone, exasperated expression."
+  },
+  {
+    "timestamp": 50.98,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "The speaker explains the internal company politics as told to him by Lena, stating that the management is on 'two high horses.' He uses a sweeping hand gesture to emphasize the arrogance of the management. His tone and gesture convey a sense of sarcasm and cynicism about the executives' attitude.",
+    "summary_reasoning": "Sarcastic tone, dismissive hand gesture."
+  },
+  {
+    "timestamp": 57.79,
+    "emotion": "determined",
+    "detailed_reasoning": "Concluding the setup, the speaker describes his task: 'go in there and... prove the opposite.' His tone becomes firm and focused, and his body language is more grounded. He is no longer amused or confused but is conveying the sense of a challenging mission he is about to undertake, indicating determination.",
+    "summary_reasoning": "Firm tone, focused expression."
+  }
+]

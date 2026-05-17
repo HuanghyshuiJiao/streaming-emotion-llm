@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 6.378,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins his story with a serious and factual tone. His facial expression is neutral, and his posture is stable behind the podium. He is setting the scene for a significant event, and his calm but somber delivery indicates the gravity of the topic he is about to discuss.",
+    "summary_reasoning": "Factual tone, neutral expression, stable posture."
+  },
+  {
+    "timestamp": 16.771,
+    "emotion": "calm",
+    "detailed_reasoning": "As he continues to set the scene, his tone remains calm and measured. He describes a positive gathering before the main event, but his overall demeanor is still one of a storyteller laying the groundwork, without any strong emotional display. His voice is steady and his expression is focused.",
+    "summary_reasoning": "Calm tone, measured delivery, focused expression."
+  },
+  {
+    "timestamp": 25.401,
+    "emotion": "concerned",
+    "detailed_reasoning": "The speaker describes a sudden and alarming physical symptom. His eyebrows furrow slightly, and his mouth tightens as he says his tongue became \"as thick as a board.\" His vocal tone shifts to be more grave and slightly strained, reflecting the concern and confusion he felt during the experience he is recounting.",
+    "summary_reasoning": "Furrowed eyebrows, grave vocal tone, strained voice."
+  },
+  {
+    "timestamp": 36.797,
+    "emotion": "fearful",
+    "detailed_reasoning": "The speaker explicitly states his first thought was that he was having a stroke. His facial expression becomes more pained, his eyes widen slightly, and he pauses, conveying the gravity of this thought. His voice carries a note of remembered fear and seriousness as he articulates this life-threatening possibility.",
+    "summary_reasoning": "Pained expression, widened eyes, serious tone."
+  },
+  {
+    "timestamp": 41.924,
+    "emotion": "analytical",
+    "detailed_reasoning": "Immediately after expressing his fear, the speaker's tone shifts to a more rational and logical one. He describes his thought process of reasoning that he couldn't be having a stroke because he was conscious and alert. His facial expression relaxes slightly, and his delivery becomes more deliberate and less emotional, indicating a shift from panic to analysis.",
+    "summary_reasoning": "Rational tone, deliberate delivery, relaxed expression."
+  },
+  {
+    "timestamp": 51.817,
+    "emotion": "conclusive",
+    "detailed_reasoning": "The speaker arrives at a different conclusion for his symptoms, attributing them to pain medication. His tone is one of resolution, as if he has solved the immediate puzzle. He speaks with a sense of finality, and his facial expression indicates that he is moving on to the next part of his story, having explained the internal conflict.",
+    "summary_reasoning": "Resolute tone, sense of finality in delivery."
+  },
+  {
+    "timestamp": 55.182,
+    "emotion": "regretful",
+    "detailed_reasoning": "The speaker concludes this part of the story by stating he apologized to the audience. His tone is slightly somber, and he looks down briefly, conveying a sense of regret or embarrassment about the incident. The pace of his speech slows, emphasizing the apology and concluding the anecdote with a feeling of humility.",
+    "summary_reasoning": "Somber tone, downward gaze, slowed pace."
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 1.574,
+    "emotion": "annoyed",
+    "detailed_reasoning": "The speaker begins her monologue with a common frustrating scenario. Her tone is slightly exasperated, and her facial expression shows mild irritation as she sets up the premise of having to repeat information to a human customer service agent.",
+    "summary_reasoning": "Exasperated tone, irritated expression."
+  },
+  {
+    "timestamp": 5.801,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker's voice rises in pitch and volume on the word 'Then'. Her facial expression tightens, her eyes narrow, and she leans forward slightly, conveying a heightened sense of frustration and disbelief at the inefficiency of the process she's describing.",
+    "summary_reasoning": "Higher pitch, louder voice, tense face."
+  },
+  {
+    "timestamp": 11.932,
+    "emotion": "resigned",
+    "detailed_reasoning": "After the initial outburst of frustration, her tone becomes more explanatory but carries a heavy sense of resignation. Her head tilts and her vocal delivery slows down, suggesting a weary acceptance of the long and tedious process she is about to describe.",
+    "summary_reasoning": "Slower speech, weary tone, head tilt."
+  },
+  {
+    "timestamp": 18.123,
+    "emotion": "exasperated",
+    "detailed_reasoning": "The speaker describes being transferred and having to repeat herself. Her speech becomes faster, and her pitch rises again. Her eyes widen in a look of disbelief and exasperation at the cyclical and pointless nature of the interaction.",
+    "summary_reasoning": "Faster speech, higher pitch, wide eyes."
+  },
+  {
+    "timestamp": 24.514,
+    "emotion": "dejected",
+    "detailed_reasoning": "After describing the second agent's inability to help, her vocal energy drops significantly. Her tone becomes flat, and she delivers the line 'help you either' with a sense of defeat and disappointment, as if all hope is lost.",
+    "summary_reasoning": "Low vocal energy, flat tone, defeated delivery."
+  },
+  {
+    "timestamp": 29.693,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "The mood shifts as she describes the unexpected and irrelevant outcome of the call. Her tone becomes wry and ironic when mentioning the 'six-month subscription'. A slight, humorless smile appears, indicating she is using sarcasm to comment on the absurdity of the situation.",
+    "summary_reasoning": "Ironic tone, wry smile, absurd content."
+  },
+  {
+    "timestamp": 35.847,
+    "emotion": "incredulous",
+    "detailed_reasoning": "The speaker's sarcasm gives way to genuine-sounding bewilderment in the final line. Her eyebrows raise, her face adopts a look of confusion, and her tone on 'wasn't that...' is one of complete disbelief, contrasting the absurd outcome with the original purpose of her call.",
+    "summary_reasoning": "Raised eyebrows, confused expression, disbelieving tone."
+  }
+]

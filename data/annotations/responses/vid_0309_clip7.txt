@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 2.674,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker transitions from a light, illustrative analogy to the core, serious topic of his talk. His tone becomes more direct and earnest, his facial expression loses the slight smile, and his posture becomes more centered as he begins to discuss the relationship with a 'Heavenly Father'. This combination of verbal and non-verbal cues indicates a shift to a more serious and heartfelt emotional state.",
+    "summary_reasoning": "Direct tone, earnest expression, topic change."
+  },
+  {
+    "timestamp": 9.581,
+    "emotion": "nostalgic",
+    "detailed_reasoning": "The speaker begins recounting a personal story from his youth. His tone softens and takes on a narrative quality. He briefly looks away, a common action when accessing memory, and a faint, wistful smile appears. This suggests he is looking back on this period of his life with a sense of nostalgia, recalling the feeling of having 'the world by the tail'.",
+    "summary_reasoning": "Narrative tone, wistful smile, recalling memory."
+  },
+  {
+    "timestamp": 15.607,
+    "emotion": "sad",
+    "detailed_reasoning": "There is a stark contrast as the speaker moves from describing his external success to his internal state. His slight smile vanishes, replaced by a somber expression. His vocal tone drops in pitch and volume, and he delivers the word 'miserable' with a heavy, downward inflection, conveying a deep sense of unhappiness and pain from that time.",
+    "summary_reasoning": "Somber expression, lower tone, heavy inflection on 'miserable'."
+  },
+  {
+    "timestamp": 17.649,
+    "emotion": "regretful",
+    "detailed_reasoning": "The speaker's gaze drops, and he avoids looking at the camera as he admits to not praying for a long time. His tone is low and confessional. This combination of avoidant body language and a somber, confessing tone suggests feelings of regret and perhaps some shame about his past spiritual state.",
+    "summary_reasoning": "Downward gaze, confessional tone."
+  },
+  {
+    "timestamp": 25.717,
+    "emotion": "shameful",
+    "detailed_reasoning": "While explaining his past behavior, he admits his 'drug of choice was lying.' As he says this, his tone becomes more pointed and self-critical. His facial expression tightens slightly, conveying a sense of shame and self-reproach for this specific past failing, which he presents as a significant character flaw.",
+    "summary_reasoning": "Self-critical tone, tight facial expression."
+  },
+  {
+    "timestamp": 30.616,
+    "emotion": "pained",
+    "detailed_reasoning": "When describing the 'absolute emptiness' he felt, the speaker's eyes close for a moment, and his facial muscles tense as if reliving the painful experience. His voice becomes strained and the pace of his speech slows, emphasizing the profound and heavy nature of the emotion he is recalling. This multimodal expression clearly indicates deep emotional pain.",
+    "summary_reasoning": "Eyes closed, face tensed, strained voice."
+  },
+  {
+    "timestamp": 34.022,
+    "emotion": "challenging",
+    "detailed_reasoning": "The speaker recounts his direct challenge to God. His vocal tone becomes louder and more assertive, losing its previous pained quality. He makes strong eye contact with the camera and uses a pointed hand gesture when saying 'prove it,' embodying the defiant and challenging attitude he had in that moment of desperation.",
+    "summary_reasoning": "Assertive tone, direct eye contact, pointed gesture."
+  },
+  {
+    "timestamp": 43.339,
+    "emotion": "awed",
+    "detailed_reasoning": "After recounting his challenge to God, the speaker's entire demeanor shifts. He leans back, and a knowing, almost wondrous smile appears. His tone changes from narrative to advisory, filled with a sense of reverence and awe as he warns the audience about the power of such a prayer. His eyes widen slightly, reflecting on the magnitude of the 'encounter' that followed.",
+    "summary_reasoning": "Wondrous smile, reverent tone, wide eyes."
+  },
+  {
+    "timestamp": 51.374,
+    "emotion": "dismissive",
+    "detailed_reasoning": "The speaker describes his own mindset after making the prayer. He shakes his head and speaks more quickly, with a tone that is dismissive of his own past actions. He emphasizes the words 'didn't even remember' and 'zero faith,' conveying a complete lack of expectation and highlighting his own disbelief at the time. The emotion is directed at his past self's lack of faith.",
+    "summary_reasoning": "Head shake, faster speech, emphasis on 'zero faith'."
+  },
+  {
+    "timestamp": 56.063,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker's emotional intensity subsides as he transitions to the next part of his story. His tone becomes neutral and narrative, simply setting the scene by stating he was in his office after lunch. His facial expression and body language relax, indicating a return to a calm baseline before he describes the subsequent event.",
+    "summary_reasoning": "Neutral tone, relaxed expression, scene-setting."
+  }
+]

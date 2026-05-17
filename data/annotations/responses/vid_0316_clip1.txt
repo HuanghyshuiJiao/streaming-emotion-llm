@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 1.312,
+    "emotion": "happy",
+    "detailed_reasoning": "The speaker begins with a clear, bright smile and a friendly, pleasant tone as she introduces the monologue. Her facial expression and vocal quality indicate a positive and happy emotional state before starting the performance.",
+    "summary_reasoning": "Bright smile, pleasant tone."
+  },
+  {
+    "timestamp": 14.665,
+    "emotion": "calm",
+    "detailed_reasoning": "After a long pause, the performance begins. The initial happy smile has faded, replaced by a more neutral, slightly polite expression. Her vocal tone is even, cooperative, and steady as she speaks the first lines of the monologue, establishing a calm and composed character.",
+    "summary_reasoning": "Neutral expression, steady voice."
+  },
+  {
+    "timestamp": 26.937,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker's facial expression shifts significantly as she mentions her mom being nervous. Her eyes look down and away, her brow furrows slightly, and the corners of her mouth turn downward. Her tone becomes more somber and reflective, indicating a transition to sadness.",
+    "summary_reasoning": "Downward gaze, furrowed brow, somber tone."
+  },
+  {
+    "timestamp": 32.426,
+    "emotion": "worried",
+    "detailed_reasoning": "The emotion deepens as she explicitly says the word \"Worried.\" Her facial expression matches the word, with more pronounced tension in her brow and a distant, concerned look in her eyes. The context of worrying about her father's safety solidifies this emotion.",
+    "summary_reasoning": "Tense brow, concerned eyes, explicit word \"Worried\"."
+  },
+  {
+    "timestamp": 40.878,
+    "emotion": "anxious",
+    "detailed_reasoning": "Her expression becomes more pained and anxious as she recalls watching the news every night. Her eyes look up as if recalling a painful memory, and her face holds a look of dread. The tone is soft and heavy, conveying a sense of prolonged anxiety.",
+    "summary_reasoning": "Pained expression, upward gaze, heavy tone."
+  },
+  {
+    "timestamp": 50.432,
+    "emotion": "pained",
+    "detailed_reasoning": "When mentioning the \"horrible teasers\" on the news, her tone shifts to one of resentment and pain. Her eyes narrow slightly and she looks down, physically reacting to the memory of the unpleasant news headlines. This suggests the pain associated with that constant fear.",
+    "summary_reasoning": "Resentful tone, narrowed eyes, downward look."
+  },
+  {
+    "timestamp": 52.515,
+    "emotion": "fearful",
+    "detailed_reasoning": "As she delivers the final lines quoting the news teaser, her face transforms into an expression of raw fear. Her eyes are wide and fixed, her mouth is slightly agape, and her entire demeanor is frozen. The flat, hollow delivery of the line enhances the sense of shock and terror.",
+    "summary_reasoning": "Wide eyes, frozen expression, hollow tone."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 2.754,
+    "emotion": "contemplative",
+    "detailed_reasoning": "The speaker's initial tone is slow, deliberate, and somewhat questioning. His facial expression is serious and his gaze is fixed on something unseen. He seems to be pondering the meaning of what he is seeing, setting a contemplative and slightly confused mood.",
+    "summary_reasoning": "Slow, deliberate tone; serious, fixed gaze."
+  },
+  {
+    "timestamp": 16.27,
+    "emotion": "conflicted",
+    "detailed_reasoning": "The actor delivers the line about his eyes being fools with a pained and confused expression. His voice is low and raspy, conveying a sense of internal struggle as he questions his own perception and sanity. The slight grimace and furrowed brow indicate inner conflict.",
+    "summary_reasoning": "Pained expression, raspy voice, furrowed brow."
+  },
+  {
+    "timestamp": 25.06,
+    "emotion": "haunted",
+    "detailed_reasoning": "After a long pause where he turns away, he turns back to face the camera. His eyes are wide and his voice is filled with a sense of dread and disbelief as he says, \"I see thee still.\" He is clearly disturbed and fixated on the hallucination, giving a haunted impression.",
+    "summary_reasoning": "Wide eyes, tone of dread, fixation."
+  },
+  {
+    "timestamp": 33.15,
+    "emotion": "horrified",
+    "detailed_reasoning": "The speaker's emotion escalates as he describes seeing \"gouts of blood.\" His voice becomes more strained and intense, and his eyes widen in horror. He gestures towards the imaginary dagger, his body language reflecting the shock and revulsion of the vision.",
+    "summary_reasoning": "Strained voice, wide eyes, shocked gesture."
+  },
+  {
+    "timestamp": 45.336,
+    "emotion": "denial",
+    "detailed_reasoning": "There is a sudden and violent shift in demeanor. The speaker physically shakes off the vision and exclaims, \"There's no such thing.\" His voice is forceful and abrupt, and his expression is one of desperate rejection. This is a clear attempt to deny the reality of what he has just seen.",
+    "summary_reasoning": "Forceful voice, abrupt physical rejection."
+  },
+  {
+    "timestamp": 49.765,
+    "emotion": "resigned",
+    "detailed_reasoning": "The final line is delivered with a tone of grim acceptance. His voice drops, and his expression becomes somber and dark. He understands the source of his vision is his own murderous intent, and he seems to be resigning himself to this dark reality.",
+    "summary_reasoning": "Grim tone, somber expression, dark realization."
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 2.494,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker begins his speech by walking calmly across the stage. His tone is soft and his pace is slow and deliberate. He uses the word \"dreaming,\" which, combined with his calm demeanor and soft vocal tone, suggests a reflective or introspective state of mind as he sets the stage for his story.",
+    "summary_reasoning": "Calm walk, soft tone, slow pace."
+  },
+  {
+    "timestamp": 8.782,
+    "emotion": "determined",
+    "detailed_reasoning": "The speaker recounts his academic achievements, listing them in a sequence: returning to high school, completing exams, and going to college. His tone becomes more assertive and factual, and his walking pace seems slightly more purposeful. This shift in vocal delivery and the content of his speech convey a sense of determination and accomplishment.",
+    "summary_reasoning": "Assertive tone, factual content, purposeful walk."
+  },
+  {
+    "timestamp": 17.112,
+    "emotion": "humorous",
+    "detailed_reasoning": "The speaker creates a moment of humor through comedic timing. He pauses after saying he \"found a great girl,\" leading the audience to one expectation, and then delivers the punchline, \"but not a job.\" His slight smile after the line and the resulting audience laughter confirm the shift to a humorous and self-deprecating tone.",
+    "summary_reasoning": "Comedic pause, punchline, smile, audience laughter."
+  },
+  {
+    "timestamp": 24.802,
+    "emotion": "pensive",
+    "detailed_reasoning": "After the joke, the speaker's tone shifts to become more serious and questioning. He talks about not knowing what to do with his life, a universally relatable struggle. His facial expression becomes more somber, and he directly engages the audience with a thoughtful question, indicating a pensive and vulnerable emotional state.",
+    "summary_reasoning": "Serious tone, somber expression, thoughtful question."
+  },
+  {
+    "timestamp": 32.295,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker elaborates on the feeling of being lost. His vocal pitch drops, his pace slows down, and his tone becomes more somber as he says it's \"difficult to feel special.\" This change in vocal prosody reflects the gravity and sadness associated with the feeling of being lost and without direction.",
+    "summary_reasoning": "Lower pitch, slower pace, serious tone."
+  },
+  {
+    "timestamp": 40.471,
+    "emotion": "humorous",
+    "detailed_reasoning": "The mood lightens again with a second joke. When describing his dad's reaction to him feeling lost, he mimics his father's voice and delivers the line, \"you are like your mother.\" He then breaks into a wide smile as the audience laughs loudly, signaling a clear shift back to a humorous and lighthearted emotion.",
+    "summary_reasoning": "Vocal mimicry, punchline, wide smile, audience laughter."
+  },
+  {
+    "timestamp": 50.409,
+    "emotion": "intrigued",
+    "detailed_reasoning": "The speaker's tone becomes that of a storyteller building suspense and curiosity. He repeatedly uses the word \"strange\" to describe the club, its name, and its people. This repetition, combined with a slightly conspiratorial and amused facial expression, is designed to intrigue the audience and make them curious about what this club is.",
+    "summary_reasoning": "Storytelling tone, repetition of \"strange\", amused expression."
+  }
+]

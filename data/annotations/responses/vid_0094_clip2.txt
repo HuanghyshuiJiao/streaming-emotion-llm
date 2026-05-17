@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker starts her explanation with a steady, measured tone and a neutral, focused facial expression. Her hand gestures are calm and illustrative, indicating she is in a state of thoughtful explanation.",
+    "summary_reasoning": "Steady tone, neutral expression."
+  },
+  {
+    "timestamp": 15.708,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker poses a rhetorical question to herself, \"How I do that?\" Her pace slows, her gaze shifts slightly, and her tone becomes more introspective as she prepares to explain her personal method, contrasting it with general advice.",
+    "summary_reasoning": "Introspective tone, shifting gaze."
+  },
+  {
+    "timestamp": 23.156,
+    "emotion": "engaged",
+    "detailed_reasoning": "As she begins to describe her personal acting technique of pretending to be someone else, her tone becomes more animated and her eyes widen slightly. There is a subtle smile, indicating she is engaged and finds her own method interesting to share.",
+    "summary_reasoning": "Animated tone, wider eyes, subtle smile."
+  },
+  {
+    "timestamp": 31.632,
+    "emotion": "skeptical",
+    "detailed_reasoning": "The speaker's demeanor shifts as she describes an alternative, more common acting technique. Her tone becomes more neutral and detached, and her head tilts with a slightly furrowed brow, suggesting she is recounting a method she does not personally agree with or find effective.",
+    "summary_reasoning": "Detached tone, head tilt, furrowed brow."
+  },
+  {
+    "timestamp": 45.887,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker's emotion changes to frustration as she explicitly rejects the other method. She says, \"that tip does not work for me at all.\" Her tone becomes more emphatic, she shakes her head slightly, and her facial expression clearly shows confusion and exasperation.",
+    "summary_reasoning": "Emphatic tone, head shake, frustrated expression."
+  },
+  {
+    "timestamp": 51.673,
+    "emotion": "determined",
+    "detailed_reasoning": "In her final statement, her tone becomes firm and decisive. She states, \"I have to either be me or... be somebody else. I can't be both.\" Her direct gaze and resolute vocal delivery convey a strong sense of conviction and certainty about her own process.",
+    "summary_reasoning": "Firm tone, direct gaze, resolute delivery."
+  }
+]

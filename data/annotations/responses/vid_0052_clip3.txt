@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 0.391,
+    "emotion": "aggressive",
+    "detailed_reasoning": "The video starts with the speaker shouting \"Boo!\" directly at the camera in a sudden, loud, and confrontational manner. His facial expression is tense and his body language is forward, indicating aggression from the very beginning.",
+    "summary_reasoning": "Loud shout, confrontational tone, tense face."
+  },
+  {
+    "timestamp": 9.719,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker's tone is strained and intense as he directly addresses the \"Mr. Prosecutor.\" He points his finger and his face is filled with anguish. He wishes the prosecutor could feel what he's feeling, expressing a deep sense of being misunderstood and frustrated with the other person's lack of empathy.",
+    "summary_reasoning": "Strained tone, pointing gesture, pained expression."
+  },
+  {
+    "timestamp": 18.787,
+    "emotion": "impassioned",
+    "detailed_reasoning": "He raises his voice and speaks with more force when talking about the principles of a society: mercy, justice, and fair play. His tone becomes almost like a sermon, filled with conviction and passion for these ideals that he feels are being ignored. His brows are furrowed, showing intense focus on his words.",
+    "summary_reasoning": "Raised voice, forceful tone, furrowed brows."
+  },
+  {
+    "timestamp": 29.076,
+    "emotion": "contemptuous",
+    "detailed_reasoning": "There's a significant shift in tone here. After speaking about high ideals, he makes a crude analogy about a bear shitting in a toilet. His expression turns into a slight, bitter smirk, and his tone becomes dismissive and contemptuous, suggesting he believes the person he's addressing is incapable of understanding or upholding those ideals.",
+    "summary_reasoning": "Crude analogy, bitter smirk, dismissive tone."
+  },
+  {
+    "timestamp": 37.507,
+    "emotion": "disgusted",
+    "detailed_reasoning": "The speaker's face contorts in disgust as he says \"For the nation of pigs.\" His lip curls slightly and his voice is filled with scorn. This is a moment of pure, unadulterated contempt and disgust for the group he is referring to.",
+    "summary_reasoning": "Facial contortion, curled lip, scornful tone."
+  },
+  {
+    "timestamp": 48.702,
+    "emotion": "anguished",
+    "detailed_reasoning": "His voice cracks with emotion and his face shows deep pain as he mentions Jesus Christ forgiving the \"masters.\" He looks up as if in prayer or despair, conveying a sense of profound anguish and a feeling of being wronged in a way that is unforgivable to him.",
+    "summary_reasoning": "Voice cracks, pained expression, upward gaze."
+  },
+  {
+    "timestamp": 57.493,
+    "emotion": "hateful",
+    "detailed_reasoning": "The culmination of all the previous emotions. After expressing his inability to forgive, his face hardens, his eyes narrow, and he delivers the final lines, \"I hate, I hate you,\" with a low, intense, and unequivocal tone. The repetition emphasizes the depth of his hatred.",
+    "summary_reasoning": "Hard expression, narrow eyes, intense low tone, repetition."
+  }
+]

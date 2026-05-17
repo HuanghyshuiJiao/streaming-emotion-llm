@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 1.573,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker begins her story with a self-deprecating joke, comparing herself to Vera Lynn with dementia. Her tone is light and she has a slight, wry smile on her face, indicating she's amused by her own comparison and is setting up a humorous story.",
+    "summary_reasoning": "Self-deprecating humor, light tone, wry smile."
+  },
+  {
+    "timestamp": 14.552,
+    "emotion": "playful",
+    "detailed_reasoning": "She continues the setup of her story, explaining the nickname she gave her partner. Her tone is conversational and teasing, and her facial expression remains consistently amused and engaging with the audience, suggesting a playful mood as she builds the narrative.",
+    "summary_reasoning": "Conversational tone, amused expression, narrative setup."
+  },
+  {
+    "timestamp": 29.404,
+    "emotion": "anticipation",
+    "detailed_reasoning": "The speaker reveals she bought special underwear for the occasion. Her voice takes on a slightly more conspiratorial and excited tone, and she smiles knowingly at the audience. This shift indicates she's building up to a key moment in the story, creating a sense of playful anticipation.",
+    "summary_reasoning": "Conspiratorial tone, knowing smile, story build-up."
+  },
+  {
+    "timestamp": 32.588,
+    "emotion": "excited",
+    "detailed_reasoning": "To illustrate the story, the speaker begins to physically act out running to the bathroom. Her body language becomes energetic, and her movements are quick. This transition from static storytelling to active performance signals a heightening of the energy and excitement in the narrative.",
+    "summary_reasoning": "Energetic body language, acting out the scene."
+  },
+  {
+    "timestamp": 34.931,
+    "emotion": "embarrassed",
+    "detailed_reasoning": "The speaker's entire demeanor shifts dramatically. Her energetic movement stops, she hunches over slightly, and her facial expression changes to one of comic horror and embarrassment. Her voice also reflects this change, conveying a sense of mortification as she describes her feeling.",
+    "summary_reasoning": "Hunched posture, facial expression of horror, mortified tone."
+  },
+  {
+    "timestamp": 39.757,
+    "emotion": "panicked",
+    "detailed_reasoning": "Continuing to act out the scene, the speaker's voice becomes high-pitched and strained as she calls out to 'Terry'. This vocal shift, combined with her embarrassed posture, conveys a sense of comedic panic, as if she's trying to act normal while in a state of distress.",
+    "summary_reasoning": "High-pitched, strained voice, acting flustered."
+  },
+  {
+    "timestamp": 43.522,
+    "emotion": "jokey",
+    "detailed_reasoning": "The speaker delivers the line 'Don't go doing a runner' with a sarcastic and jokey tone, looking out at the audience. This is a moment of breaking the tension of her own story, showing she's using humor to cope with the embarrassing situation she's recounting.",
+    "summary_reasoning": "Sarcastic tone, looking at audience, breaking tension."
+  },
+  {
+    "timestamp": 50.17,
+    "emotion": "triumphant",
+    "detailed_reasoning": "Her posture changes completely as she acts out the 'surprise' reveal. She stands up straight, throws her arms out wide, and has a big, theatrical expression of joy and success on her face. This exaggerated performance conveys a sense of comedic triumph.",
+    "summary_reasoning": "Expansive gestures, wide eyes, theatrical smile."
+  },
+  {
+    "timestamp": 53.963,
+    "emotion": "shocked",
+    "detailed_reasoning": "After delivering the punchline, her facial expression transitions to one of exaggerated shock and disbelief. Her mouth is open, and her eyes are wide, comically emphasizing the successful and immediate outcome of her 'surprise'.",
+    "summary_reasoning": "Exaggerated facial expression, wide eyes, open mouth."
+  },
+  {
+    "timestamp": 58.658,
+    "emotion": "satisfied",
+    "detailed_reasoning": "Concluding her story, the speaker's expression softens into a genuine smile. Her tone is final and warm, leaving the audience with the humorous resolution of her story. This indicates a feeling of satisfaction with how the story, and the romantic night, concluded.",
+    "summary_reasoning": "Warm tone, genuine smile, concluding the story."
+  }
+]

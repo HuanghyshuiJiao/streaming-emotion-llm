@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 8.178,
+    "emotion": "hurt",
+    "detailed_reasoning": "The speaker's voice is steady but carries a somber tone as she recounts avoiding someone who looks like her ex-boyfriend. Her facial expression is serious and her gaze is distant, suggesting she is recalling a painful memory. The content of her speech directly addresses a past romantic relationship, which sets a foundation of personal emotional history.",
+    "summary_reasoning": "Somber tone, serious expression, painful memory."
+  },
+  {
+    "timestamp": 15.468,
+    "emotion": "pained",
+    "detailed_reasoning": "Her voice becomes slightly more strained and her pace slows as she quotes her ex saying, \"no one else would ever want me.\" Her facial expression tightens, particularly around her mouth, and she makes a subtle, pained expression. This is a direct recollection of hurtful words, and her delivery conveys the lasting impact of that pain.",
+    "summary_reasoning": "Strained voice, slow pace, pained expression."
+  },
+  {
+    "timestamp": 20.074,
+    "emotion": "insecure",
+    "detailed_reasoning": "The speaker's voice softens and takes on a more vulnerable quality as she admits to internalizing her ex's negative words. Her eyes are downcast, and her body language is more reserved. This shift indicates a feeling of self-doubt and insecurity stemming from the previously mentioned painful memories.",
+    "summary_reasoning": "Soft voice, vulnerable tone, downcast eyes."
+  },
+  {
+    "timestamp": 25.701,
+    "emotion": "anxious",
+    "detailed_reasoning": "Her tone becomes more questioning and her pace quickens slightly as she poses a hypothetical about a 'black girl who is too anxious to ever feel like magic.' Her eyes widen slightly, and there's a tension in her expression that suggests a state of worry and anxiety about her own identity and potential.",
+    "summary_reasoning": "Questioning tone, quick pace, tense expression."
+  },
+  {
+    "timestamp": 32.223,
+    "emotion": "vulnerable",
+    "detailed_reasoning": "The speaker's voice trembles slightly as she asks, \"Can she still be fly with wings that tremble?\" Her arms are slightly outstretched, and her expression is pleading and open. This combination of vocal instability and open body language conveys a deep sense of vulnerability and a search for validation.",
+    "summary_reasoning": "Trembling voice, pleading expression, open posture."
+  },
+  {
+    "timestamp": 38.753,
+    "emotion": "fearful",
+    "detailed_reasoning": "Her voice intensifies and her pace accelerates as she describes the feeling of being in constant danger of being crushed. Her eyes are wide, and her body is tense. The metaphor of an ant in danger of being crushed, combined with her intensified delivery, clearly communicates a state of fear and helplessness.",
+    "summary_reasoning": "Intense voice, wide eyes, tense body."
+  },
+  {
+    "timestamp": 46.669,
+    "emotion": "overwhelmed",
+    "detailed_reasoning": "The speaker's voice rises in volume and pitch as she talks about being reminded of how easy she is to crush. Her hands start to move more expressively, and her facial expression is one of distress. This escalation in vocal and physical energy suggests she is feeling overwhelmed by the weight of her anxiety.",
+    "summary_reasoning": "Louder voice, distressed expression, expressive hands."
+  },
+  {
+    "timestamp": 52.443,
+    "emotion": "struggling",
+    "detailed_reasoning": "Her voice is strained, and she physically shakes as she says, \"that is why I shake sometimes.\" Her hands are up near her head, and her whole body is engaged in portraying a physical struggle against an unseen weight. The combination of her words, the visible shaking, and the strained expression shows a moment of intense struggle.",
+    "summary_reasoning": "Strained voice, visible shaking, physical tension."
+  },
+  {
+    "timestamp": 58.017,
+    "emotion": "resigned",
+    "detailed_reasoning": "After the peak of her emotional and physical expression of struggle, her voice drops in volume and her body relaxes slightly as she delivers the final line, \"She and I picked out this outfit together.\" Her tone is one of weary acceptance, suggesting a resignation to the constant presence of her anxiety, as if it's a companion she has to coexist with.",
+    "summary_reasoning": "Lower volume, relaxed posture, weary tone."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "neutral",
+    "detailed_reasoning": "The video begins with a title card, and then the speaker appears on stage. She is looking down at her notes, and her initial tone is even and informative. Her facial expression is focused on reading, and her posture is that of a typical presenter starting a talk. She is delivering the introduction in a standard, factual manner.",
+    "summary_reasoning": "Even tone, reading from notes, presentational posture."
+  },
+  {
+    "timestamp": 20.329,
+    "emotion": "engaged",
+    "detailed_reasoning": "After setting up the initial problem of the two groups arguing, the speaker introduces the solution: the 'storytelling approach.' Her tone becomes slightly more animated and less monotonous. She looks up from her notes more, connecting with the audience as she explains this pivotal concept. This shift indicates a deeper engagement with the core message of her presentation.",
+    "summary_reasoning": "More animated tone, increased eye contact."
+  },
+  {
+    "timestamp": 33.646,
+    "emotion": "empathetic",
+    "detailed_reasoning": "The speaker explicitly states she is reading from a student's journal. To convey the personal and reflective nature of the quote, her voice softens, her pace slows, and her tone becomes more gentle and serious. This deliberate vocal shift is a performance choice to create empathy for the student whose words she is sharing.",
+    "summary_reasoning": "Reading a quote, voice softens, pace slows."
+  },
+  {
+    "timestamp": 50.404,
+    "emotion": "hopeful",
+    "detailed_reasoning": "After finishing the emotional quote, the speaker returns to her own voice to deliver the conclusion. Her tone becomes brighter and more conclusive. She summarizes the positive outcome of the workshop, stating that the group moved into an 'arena of acceptance.' Her final words are delivered with a subtle upward inflection and a slight, satisfied smile, conveying a sense of hope and successful resolution.",
+    "summary_reasoning": "Brighter tone, slight smile, positive concluding words."
+  }
+]

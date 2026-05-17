@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": 7.778,
+    "emotion": "sadness",
+    "detailed_reasoning": "The speaker's voice is low and somber, and her facial expression is downcast and weary. The content of her words, confessing that this is the only thing she has ever felt good doing, reveals a deep vulnerability and sadness about her current situation and sense of self-worth.",
+    "summary_reasoning": "Low somber voice, downcast expression, vulnerable words."
+  },
+  {
+    "timestamp": 15.165,
+    "emotion": "despair",
+    "detailed_reasoning": "The initial sadness deepens into despair as her voice cracks and breaks. A tear becomes visible on her face. Her statement, 'then I've got nothing else,' delivered with a trembling voice, conveys a profound sense of hopelessness and fear about her future if she can no longer pursue this one activity.",
+    "summary_reasoning": "Cracking voice, visible tear, hopeless words."
+  },
+  {
+    "timestamp": 20.082,
+    "emotion": "defiance",
+    "detailed_reasoning": "After a long, emotional pause, her demeanor shifts dramatically. She lifts her chin, and her voice becomes sharp, louder, and confrontational. The question 'is that enough truth to suit you' is delivered with a challenging tone, transforming her vulnerability into a defiant stance against the person she is speaking to.",
+    "summary_reasoning": "Sharp tone, lifted chin, confrontational question."
+  }
+]

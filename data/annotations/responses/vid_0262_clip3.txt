@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 8.18,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker starts by recounting a story with a playful and teasing tone, finding the situation humorous. She then says \"Delusional queen\" in a lighthearted, sing-song manner, coupled with a smile, clearly indicating her amusement at the thought.",
+    "summary_reasoning": "Playful tone, smiling, humorous content."
+  },
+  {
+    "timestamp": 13.126,
+    "emotion": "anticipatory",
+    "detailed_reasoning": "The speaker's tone shifts as she begins to address rumors. Her expression becomes more focused and her speech more deliberate, signaling to the audience that she is about to reveal something important. This builds a sense of anticipation for what's to come.",
+    "summary_reasoning": "Focused expression, deliberate tone, introduces rumors."
+  },
+  {
+    "timestamp": 21.556,
+    "emotion": "serious",
+    "detailed_reasoning": "To heighten the comedic effect of her upcoming reveal, the speaker adopts a very serious and firm tone, stating, \"I want to set the record straight.\" Her facial expression becomes neutral and determined, creating a dramatic pause that contrasts with the eventual joyful news.",
+    "summary_reasoning": "Firm tone, neutral expression, dramatic pause."
+  },
+  {
+    "timestamp": 24.139,
+    "emotion": "joyful",
+    "detailed_reasoning": "Following a dramatic pause, the speaker confirms the pregnancy rumors by saying \"I am\" and then triumphantly opens her jacket to reveal her baby bump. Her face immediately breaks into a wide, beaming smile, expressing pure joy and pride as the audience erupts in cheers.",
+    "summary_reasoning": "Wide smile, triumphant gesture, confirming happy news."
+  },
+  {
+    "timestamp": 42.281,
+    "emotion": "humorous",
+    "detailed_reasoning": "After the applause, the speaker's emotion transitions into humor as she reflects on the situation. She says it's bad when internet rumors are spread, \"but it's even worse when they're correct.\" She delivers this line with a laugh and a wide, amused smile, clearly joking about her secret being out.",
+    "summary_reasoning": "Laughing, smiling, self-deprecating joke."
+  },
+  {
+    "timestamp": 49.102,
+    "emotion": "exasperated",
+    "detailed_reasoning": "The speaker adopts a tone of playful exasperation as she describes trying to keep her pregnancy a secret. Her hand gestures become more expressive, and she says she was \"trying so hard,\" conveying a comedic sense of frustration that her efforts were unsuccessful.",
+    "summary_reasoning": "Playful tone, expressive gestures, describes failed attempt to keep a secret."
+  },
+  {
+    "timestamp": 55.642,
+    "emotion": "amused",
+    "detailed_reasoning": "Concluding her story, the speaker imitates how she would react to people congratulating her, whispering \"shh.\" Her expression is one of clear amusement, and her final line, \"can y'all stop?\" is delivered with a laugh in her voice, sharing a final humorous moment with the audience.",
+    "summary_reasoning": "Laughing tone, smiling, imitating a funny reaction."
+  }
+]

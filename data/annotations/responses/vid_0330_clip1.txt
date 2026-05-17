@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 1.513,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins with a calm and measured tone. His facial expression is neutral and he makes deliberate, slow hand gestures, setting a thoughtful and composed mood for the beginning of his story.",
+    "summary_reasoning": "Calm tone, neutral face, slow gestures."
+  },
+  {
+    "timestamp": 11.41,
+    "emotion": "amused",
+    "detailed_reasoning": "After repeating the word \"homework\" to the point of absurdity, the speaker says \"see, nothing\" with a slight, knowing smile and a light chuckle in his voice. This breaks the serious tone for a moment to share a moment of light amusement with the audience.",
+    "summary_reasoning": "Slight smile, light chuckle."
+  },
+  {
+    "timestamp": 15.557,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's smile fades as he transitions from the lighthearted example to the more profound statement, \"Our lives, she said, are the same way.\" His tone becomes more somber and his expression turns pensive, indicating a shift to a more serious topic.",
+    "summary_reasoning": "Smile fades, somber tone, pensive look."
+  },
+  {
+    "timestamp": 26.821,
+    "emotion": "pained",
+    "detailed_reasoning": "The speaker's repetition of the phrase \"wake up\" builds in intensity, volume, and speed. His eyes are tightly closed and his facial expression is strained, conveying a strong sense of emotional pain, desperation, and urgency.",
+    "summary_reasoning": "Intense repetition, strained face, closed eyes."
+  },
+  {
+    "timestamp": 31.247,
+    "emotion": "melancholy",
+    "detailed_reasoning": "Following the intense climax of repeating \"wake up,\" the speaker's voice drops to a soft, almost defeated tone as he delivers the line \"Nothing is forever, she said.\" His expression is somber, and the sudden drop in energy creates a feeling of sad finality and melancholy.",
+    "summary_reasoning": "Soft tone, somber expression, drop in energy."
+  },
+  {
+    "timestamp": 42.161,
+    "emotion": "detached",
+    "detailed_reasoning": "When describing being sent to the neighbor's house, the speaker uses the distant metaphor of an \"astronaut jettisoned from the shuttle.\" His tone becomes more narrative and less emotional, and his hand gesture mimics being pushed away, creating a sense of clinical detachment from the childhood trauma.",
+    "summary_reasoning": "Detached metaphor, narrative tone, hand gesture."
+  },
+  {
+    "timestamp": 46.667,
+    "emotion": "disoriented",
+    "detailed_reasoning": "The speaker describes the feeling after his parents' argument as there being \"no gravity in our home.\" His hands are open and apart, his eyes are wide, and his voice carries a hollow, lost quality. This combination of verbal and non-verbal cues powerfully conveys a sense of shock and disorientation.",
+    "summary_reasoning": "Hollow tone, wide eyes, open posture."
+  },
+  {
+    "timestamp": 55.62,
+    "emotion": "mournful",
+    "detailed_reasoning": "In the final lines, the speaker's voice becomes very soft and drops in pitch. He describes his parents whispering \"I love you\" until the words lost their meaning. His facial expression is sad and his tone is gentle and filled with sorrow, conveying a deep sense of mourning for the love that was lost through repetition.",
+    "summary_reasoning": "Soft voice, sad expression, sorrowful tone."
+  }
+]

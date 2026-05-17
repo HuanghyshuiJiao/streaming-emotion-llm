@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 1.532,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker delivers the opening line, \"Terry's not with us anymore,\" in a somber, slightly melancholic tone. Her facial expression is serious, with downturned lips, directly conveying a sense of loss and sadness. The context of the words themselves establishes a sad atmosphere from the very beginning.",
+    "summary_reasoning": "Somber tone, sad content, serious expression."
+  },
+  {
+    "timestamp": 7.417,
+    "emotion": "nostalgic",
+    "detailed_reasoning": "After a pause following the sad news, the speaker shifts the narrative by saying, \"But when I go to Dover...\" Her tone becomes lighter and more reflective. She looks upward and away, a common nonverbal cue for recalling a memory, indicating a shift from immediate sadness to a more contemplative, nostalgic state.",
+    "summary_reasoning": "Lighter tone, upward gaze, recalling a memory."
+  },
+  {
+    "timestamp": 12.522,
+    "emotion": "amazed",
+    "detailed_reasoning": "Describing the sea as \"a million floating diamonds,\" the speaker's tone fills with a sense of wonder. Her eyes seem to brighten and a subtle smile appears as she visualizes the beautiful imagery. This indicates a shift from simple recollection to a feeling of awe and amazement at the memory.",
+    "summary_reasoning": "Tone of wonder, bright eyes, beautiful imagery."
+  },
+  {
+    "timestamp": 15.665,
+    "emotion": "joyful",
+    "detailed_reasoning": "Following the beautiful description, she says, \"And I feel like a millionaire.\" A genuine, wide smile spreads across her face, and her voice becomes light and happy. This is a clear expression of the immense joy this memory brings her, moving beyond amazement to pure happiness.",
+    "summary_reasoning": "Wide smile, light tone, happy content."
+  },
+  {
+    "timestamp": 18.447,
+    "emotion": "loving",
+    "detailed_reasoning": "When she says, \"And Terry, he's there with me,\" her smile softens into a more tender, affectionate expression. Her tone becomes gentle and warm. This change indicates that the joy she feels is deeply intertwined with her love for Terry and the comforting feeling of his spiritual presence.",
+    "summary_reasoning": "Tender smile, gentle warm tone, affectionate content."
+  },
+  {
+    "timestamp": 23.452,
+    "emotion": "playful",
+    "detailed_reasoning": "The speaker's demeanor shifts as she says, \"And guess what? I'm wearing me nice pants.\" Her tone becomes lighthearted and a bit cheeky, and her facial expression is playful. This unexpected and humorous detail introduces a moment of charming levity, suggesting an inside joke or a sweet, quirky aspect of her relationship with Terry.",
+    "summary_reasoning": "Lighthearted tone, cheeky expression, humorous content."
+  },
+  {
+    "timestamp": 28.016,
+    "emotion": "reassured",
+    "detailed_reasoning": "In her final line, \"And I know he's pleased to see me,\" her voice is filled with a calm certainty and warmth. Her smile is confident and genuine. The emotion is one of deep, heartfelt reassurance, expressing her unwavering belief in their connection and his happiness for her.",
+    "summary_reasoning": "Certain tone, confident smile, warm expression."
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 8.143,
+    "emotion": "neutral",
+    "detailed_reasoning": "The speaker starts with a calm and informative tone, maintaining a neutral facial expression. She is delivering a lecture-style monologue, and her demeanor is professional and composed. Her voice is steady, and her body language is relaxed as she discusses the historical context of Charles Darwin's work.",
+    "summary_reasoning": "Calm tone, neutral expression, steady voice."
+  },
+  {
+    "timestamp": 18.218,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker's gaze shifts upwards and to the side, a common indicator of reflection or thinking. Her speech pace slows slightly as she generalizes about writers and thinkers being influenced by their times. This combination of visual and vocal cues suggests a shift from straightforward narration to a more contemplative or thoughtful state.",
+    "summary_reasoning": "Upward gaze, slower pace."
+  },
+  {
+    "timestamp": 32.02,
+    "emotion": "engaged",
+    "detailed_reasoning": "The speaker's eyebrows raise slightly, and her vocal tone becomes more animated and pitched slightly higher as she introduces an \"interesting\" point about Robert Browning. This shift indicates a heightened level of engagement with the specific detail she is about to share, moving from a general thoughtful state to a more focused and interested one.",
+    "summary_reasoning": "Raised eyebrows, higher pitch."
+  },
+  {
+    "timestamp": 43.142,
+    "emotion": "serious",
+    "detailed_reasoning": "After describing Browning's rebellious youth, the speaker's facial expression becomes more composed and her tone becomes slightly more measured and serious. She discusses his \"spiritual conflicts,\" and the slight tightening of her lips and the steady, lower pitch of her voice convey a sense of gravity about the topic.",
+    "summary_reasoning": "Composed expression, measured tone, lower pitch."
+  },
+  {
+    "timestamp": 54.123,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker's expression softens, her shoulders relax, and she delivers the line about Browning having \"settled down\" with a gentle, slightly downward vocal inflection. This indicates a resolution to the previously mentioned conflict, bringing the emotional tone back to a state of calmness and conclusion.",
+    "summary_reasoning": "Soft expression, relaxed posture, gentle tone."
+  }
+]

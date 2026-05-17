@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 1.854,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins his presentation by reading from a script. His tone is measured and his facial expression is neutral and focused. The subject matter, describing teachers as \"heroes that often get blamed,\" establishes a serious and earnest tone from the start.",
+    "summary_reasoning": "Measured tone, neutral expression, serious topic."
+  },
+  {
+    "timestamp": 10.049,
+    "emotion": "critical",
+    "detailed_reasoning": "The speaker's tone shifts as he begins to criticize the educational system and its \"policymakers.\" His voice becomes more pointed and slightly frustrated, particularly when stating that these policymakers have never taught. This marks a move from a general statement to a direct critique.",
+    "summary_reasoning": "Pointed tone, critical words, frustrated delivery."
+  },
+  {
+    "timestamp": 16.74,
+    "emotion": "indignant",
+    "detailed_reasoning": "The emotion intensifies significantly here. The speaker's voice rises in pitch and volume, filled with scorn as he describes the obsession with standardized tests. His delivery of the word \"outlandish\" is particularly sharp and dismissive, conveying a strong sense of indignation and disbelief at the absurdity of the situation.",
+    "summary_reasoning": "Scornful tone, higher pitch, dismissive words."
+  },
+  {
+    "timestamp": 24.759,
+    "emotion": "assertive",
+    "detailed_reasoning": "After the emotional peak of indignation, his tone becomes firm and resolute. He makes a strong, declarative statement that these tests \"should be abandoned.\" He looks up from his notes more, engaging directly with the audience with a determined facial expression, presenting his conclusion with conviction.",
+    "summary_reasoning": "Firm tone, determined expression, declarative statement."
+  },
+  {
+    "timestamp": 27.185,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker shifts his rhetorical strategy, adopting a confident and persuasive tone. He uses a hand gesture to engage the audience and introduces an authoritative source, Frederick J. Kelly. This pivot to citing evidence is delivered with a calm assurance that suggests he believes he has an irrefutable point to make.",
+    "summary_reasoning": "Persuasive tone, citing authority, calm assurance."
+  },
+  {
+    "timestamp": 32.741,
+    "emotion": "triumphant",
+    "detailed_reasoning": "This is the climax of his argument. As he delivers the quote from the very inventor of standardized testing, his tone becomes triumphant. He recites the words with deliberate emphasis and conviction, knowing it's a powerful and ironic validation of his entire speech. His confident expression and forceful delivery signal that he feels he has won the argument.",
+    "summary_reasoning": "Emphatic delivery, conclusive evidence, confident expression."
+  }
+]

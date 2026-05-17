@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 11.793,
+    "emotion": "agitated",
+    "detailed_reasoning": "The speaker begins with a very rapid, rhythmic, and repetitive recitation of 'off and on.' This fast-paced, almost frantic delivery, combined with a tense facial expression, suggests a state of agitation or obsessive energy. The repetition mimics the feeling of a mind that cannot rest, setting a tone of unease from the start.",
+    "summary_reasoning": "Rapid repetitive speech, tense face."
+  },
+  {
+    "timestamp": 15.346,
+    "emotion": "melancholy",
+    "detailed_reasoning": "Following the agitated repetition, the speaker's pace slows slightly, and his tone shifts to something more narrative and wistful. The line 'She'd close her eyes and imagine that days and nights were just passing in front of her' is delivered with a softer, more reflective quality, introducing a sense of sadness and melancholy about this memory.",
+    "summary_reasoning": "Slower pace, softer reflective tone."
+  },
+  {
+    "timestamp": 30.187,
+    "emotion": "hurt",
+    "detailed_reasoning": "There is a significant pause and a clear shift in demeanor. The speaker's voice is now slower, lower, and laced with sadness. He describes his partner's emotional withdrawal ('Her mouth was a straight line') and explicit rejection ('I was taking up too much of her time'). His eyes are downcast and his expression is pained, clearly indicating feelings of hurt and rejection.",
+    "summary_reasoning": "Slow low-pitched voice, downcast eyes, rejection narrative."
+  },
+  {
+    "timestamp": 37.163,
+    "emotion": "despair",
+    "detailed_reasoning": "The speaker recounts his partner's ultimate rejection, stating that 'this whole thing was a mistake.' His voice becomes more strained and wavers, filled with emotion. His facial expression conveys deep pain and disbelief. The finality of her words, coupled with his emotional delivery, creates a powerful sense of hopelessness and despair.",
+    "summary_reasoning": "Strained wavering voice, pained expression, narrative of final rejection."
+  },
+  {
+    "timestamp": 41.373,
+    "emotion": "impassioned",
+    "detailed_reasoning": "The emotion shifts from passive despair to an active, impassioned plea. The speaker's volume and pitch rise as he asks the rhetorical question, 'But how can it be a mistake that I don't have to wash my hands after I touch her?' This reveals the depth of his love, which overrode his apparent OCD. His tone is one of desperate, defiant questioning, arguing against the logic of the breakup.",
+    "summary_reasoning": "Increased volume, higher pitch, pleading rhetorical question."
+  },
+  {
+    "timestamp": 48.649,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker's voice becomes more forceful and clipped. The statement 'It's not a mistake' is a direct, sharp contradiction. He then expresses a feeling of being trapped with the words 'I just can't.' This vocal intensity, combined with a tense expression, conveys a strong sense of frustration with his situation and his inability to simply move on.",
+    "summary_reasoning": "Forceful clipped voice, tense expression, states inability."
+  },
+  {
+    "timestamp": 51.456,
+    "emotion": "anguished",
+    "detailed_reasoning": "The frustration gives way to raw anguish. The speaker's voice breaks on the word 'can't,' and his face contorts with pain. He physically expresses his distress by running his hand over his face and through his hair. The combination of the cracking voice and the distressed gesture shows that his frustration is rooted in deep emotional pain.",
+    "summary_reasoning": "Voice breaking, pained facial expression, distressed gesture."
+  },
+  {
+    "timestamp": 55.786,
+    "emotion": "obsessed",
+    "detailed_reasoning": "The speaker's tone becomes low and intense. He draws a direct parallel between his current fixation on the woman and his usual obsessions with 'germs sneaking into my skin.' This comparison highlights the unhealthy, all-consuming nature of his thoughts. His expression is grim and his focus seems inward, indicating a state of dark obsession rather than simple sadness.",
+    "summary_reasoning": "Low intense voice, grim expression, obsessive comparison."
+  }
+]

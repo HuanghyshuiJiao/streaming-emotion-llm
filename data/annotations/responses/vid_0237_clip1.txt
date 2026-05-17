@@ -1,0 +1,74 @@
+[
+  {
+    "timestamp": 1.813,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins by addressing the audience as a \"jury.\" His tone is formal and measured, and he maintains a serious facial expression while reading from his notes. This combination of formal language, steady vocal delivery, and sober expression establishes a serious and solemn mood from the outset.",
+    "summary_reasoning": "Formal address, serious tone, neutral expression."
+  },
+  {
+    "timestamp": 4.738,
+    "emotion": "urgent",
+    "detailed_reasoning": "The speaker's tone becomes more intense and he places a strong emphasis on the word \"lethal.\" His vocal pitch rises slightly, and the pace of his speech quickens, conveying a sense of gravity and urgency about the topic he is discussing. This marks a shift from a general serious tone to a more specific, alarming one.",
+    "summary_reasoning": "Intense tone, emphasis on \"lethal\"."
+  },
+  {
+    "timestamp": 7.942,
+    "emotion": "sincere",
+    "detailed_reasoning": "After expressing a lack of faith in the institution of school, the speaker's voice softens slightly when he says, \"but I do have faith in people.\" He delivers this line with a more heartfelt and genuine tone, and a subtle shift in his facial expression suggests sincerity, contrasting with the previous urgent tone.",
+    "summary_reasoning": "Softer, heartfelt tone."
+  },
+  {
+    "timestamp": 14.271,
+    "emotion": "impassioned",
+    "detailed_reasoning": "The speaker's voice gains energy and conviction as he makes a strong, logical argument comparing the customization of consumer products to education. His delivery becomes more rhythmic and persuasive, and he uses more deliberate pauses for effect, indicating a passionate belief in his message.",
+    "summary_reasoning": "Energetic voice, rhythmic delivery."
+  },
+  {
+    "timestamp": 18.337,
+    "emotion": "dismissive",
+    "detailed_reasoning": "When talking about \"school spirit,\" the speaker's tone becomes slightly condescending and he delivers the word \"useless\" with a sharp, definitive cadence. His facial expression tightens, conveying a clear sense of dismissal and criticism for the concept he is mentioning.",
+    "summary_reasoning": "Sharp, definitive tone on \"useless\"."
+  },
+  {
+    "timestamp": 22.743,
+    "emotion": "determined",
+    "detailed_reasoning": "The speaker's voice becomes firm and resolute as he declares what the focus of education \"should be.\" His posture becomes slightly more upright, and he speaks with a clear, unwavering tone, which communicates a strong sense of determination and conviction about the proposed task.",
+    "summary_reasoning": "Firm voice, resolute tone."
+  },
+  {
+    "timestamp": 27.589,
+    "emotion": "inspirational",
+    "detailed_reasoning": "Contrasting the critique of \"Common Core,\" the speaker's tone shifts to become more uplifting and motivational as he talks about reaching the \"core of every heart.\" His voice rises in pitch and volume, and his delivery becomes more expansive, aiming to inspire the audience with a new vision.",
+    "summary_reasoning": "Uplifting tone, rising pitch and volume."
+  },
+  {
+    "timestamp": 37.038,
+    "emotion": "optimistic",
+    "detailed_reasoning": "The speaker's tone shifts significantly when he introduces Finland as a positive example. His voice becomes lighter and more hopeful, and he uses the phrase \"impressive things\" with a sense of admiration. This change indicates a move from a critical stance to an optimistic one, showing that solutions are possible.",
+    "summary_reasoning": "Hopeful tone, admiring delivery of \"impressive things\"."
+  },
+  {
+    "timestamp": 46.828,
+    "emotion": "engaging",
+    "detailed_reasoning": "The speaker uses the colloquial phrase \"here's the kicker\" to draw the audience in. His tone becomes more conversational and direct, breaking from the more formal speech pattern. This shift is designed to capture attention and create a sense of anticipation for the important point that follows.",
+    "summary_reasoning": "Conversational tone, use of colloquialism."
+  },
+  {
+    "timestamp": 51.773,
+    "emotion": "triumphant",
+    "detailed_reasoning": "When stating that Finland's system \"outperforms every other country in the world,\" the speaker's voice swells with emphasis and pride. His delivery is powerful and conclusive, conveying a triumphant feeling about the success of this alternative educational model. His facial expression shows strong conviction.",
+    "summary_reasoning": "Powerful, proud tone, strong conviction."
+  },
+  {
+    "timestamp": 57.665,
+    "emotion": "encouraged",
+    "detailed_reasoning": "As the speaker lists more successful examples like Singapore, Montessori, and Khan Academy, his pace quickens and his tone remains positive and energetic. This rapid succession of positive examples conveys a sense of being encouraged by the variety of successful approaches available.",
+    "summary_reasoning": "Quick pace, energetic and positive tone."
+  },
+  {
+    "timestamp": 59.198,
+    "emotion": "pragmatic",
+    "detailed_reasoning": "In his final line, \"There is no single solution,\" the speaker's tone becomes very grounded and matter-of-fact. He delivers the line with a calm, declarative finality. This pragmatic conclusion summarizes his point that multiple paths to success exist, shifting from an inspired tone to a realistic one.",
+    "summary_reasoning": "Grounded, matter-of-fact tone."
+  }
+]

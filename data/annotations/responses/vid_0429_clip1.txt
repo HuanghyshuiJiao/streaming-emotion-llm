@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 2.014,
+    "emotion": "sadness",
+    "detailed_reasoning": "The video begins with the speaker looking directly at the camera. His eyes are red and watery, suggesting he has been crying. His facial expression is downcast, and his vocal tone is somber and low as he asks the initial question, setting a mood of sadness from the outset.",
+    "summary_reasoning": "Red eyes, somber tone, downcast expression."
+  },
+  {
+    "timestamp": 8.506,
+    "emotion": "sarcasm",
+    "detailed_reasoning": "There is a distinct shift in demeanor. The speaker's eyes widen, his eyebrows raise, and a slight, forced smile appears. His tone becomes mockingly cheerful and polite as he says, \"Hello, Lulu's mother.\" This change suggests he is sarcastically imitating how others would speak, contrasting sharply with his underlying sadness.",
+    "summary_reasoning": "Wide eyes, raised brows, forced smile, mock-cheerful tone."
+  },
+  {
+    "timestamp": 14.056,
+    "emotion": "anger",
+    "detailed_reasoning": "The sarcastic politeness vanishes abruptly. His face hardens, his voice becomes loud, harsh, and accusatory as he says, \"You remind me of her. Andre's fucking mother.\" The use of profanity and the aggressive shift in vocal delivery clearly indicate a transition from sarcasm to overt anger.",
+    "summary_reasoning": "Harsh tone, loud voice, aggressive expression, profanity."
+  },
+  {
+    "timestamp": 21.308,
+    "emotion": "remorse",
+    "detailed_reasoning": "Following his outburst, the speaker's energy collapses. He looks down, his eyes close, and his voice becomes soft and apologetic as he says, \"I'm sorry.\" This physical and vocal retraction signifies regret and remorse for his display of anger.",
+    "summary_reasoning": "Soft voice, looks down, apologetic tone."
+  },
+  {
+    "timestamp": 30.802,
+    "emotion": "resignation",
+    "detailed_reasoning": "The speaker's tone shifts again to become flat, factual, and devoid of intense emotion as he begins to list the details of Andre's death. He delivers the line, \"Andre died of AIDS,\" with a sense of weary resignation, as if stating an unchangeable, painful fact.",
+    "summary_reasoning": "Flat tone, factual delivery, lack of emotional inflection."
+  },
+  {
+    "timestamp": 39.789,
+    "emotion": "bitterness",
+    "detailed_reasoning": "A shocking and incongruous smile spreads across the speaker's face. While talking about a painful subject, he adopts a wide, almost manic grin. This smile, combined with his teary eyes and the painful context, does not indicate happiness but rather a deep, hysterical bitterness and pain.",
+    "summary_reasoning": "Incongruous smiling, pained context, teary eyes."
+  },
+  {
+    "timestamp": 50.59,
+    "emotion": "anguish",
+    "detailed_reasoning": "The forced smile finally breaks. His facial expression crumbles into one of pure pain, and he begins to cry openly. His voice cracks and rises in pitch with emotion as he says, \"And yes, I'm bitter, okay?\" The raw display of tears and vocal distress marks a clear shift into overwhelming anguish and grief.",
+    "summary_reasoning": "Crying, pained expression, cracking voice."
+  }
+]

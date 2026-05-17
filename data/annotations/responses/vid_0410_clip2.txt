@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker begins her performance with a deeply sorrowful expression, her eyebrows are furrowed, and her mouth is turned down. Her voice is high-pitched and wavering, simulating crying. The words themselves, 'Why did they make me so ugly?', convey a strong sense of sadness and negative self-worth.",
+    "summary_reasoning": "Sorrowful face, crying tone, sad words."
+  },
+  {
+    "timestamp": 8.183,
+    "emotion": "calm",
+    "detailed_reasoning": "There is a distinct shift in demeanor. The speaker stops her crying performance, her facial expression becomes neutral, and her vocal tone changes to a calm, standard narrative voice. She is transitioning from expressing emotion to telling a story, indicating a shift to a calm state.",
+    "summary_reasoning": "Stops crying, neutral face, narrative tone."
+  },
+  {
+    "timestamp": 15.915,
+    "emotion": "neutral",
+    "detailed_reasoning": "The speaker is now role-playing the character of the woodcutter. To do this, her tone becomes slightly gruff and dismissive. However, her own underlying emotion appears neutral, as she is focused on the performance and narration of the story rather than feeling the character's emotion herself.",
+    "summary_reasoning": "Role-playing character, dismissive tone, focused narration."
+  },
+  {
+    "timestamp": 31.307,
+    "emotion": "relieved",
+    "detailed_reasoning": "A major emotional shift occurs as the story's perspective changes to the crooked tree. The speaker's face brightens, she looks up with a wide-eyed, happy expression, and her voice becomes light and joyful. Clasping her hands together as she says 'Thank God' reinforces the strong feeling of relief and gratitude.",
+    "summary_reasoning": "Bright face, joyful tone, thankful gesture."
+  },
+  {
+    "timestamp": 35.734,
+    "emotion": "sincere",
+    "detailed_reasoning": "Transitioning from the story to its moral, the speaker's tone becomes earnest and sincere. Her facial expression turns serious to match the gravity of the message she is conveying. She is no longer playing a character but is speaking directly to the audience with conviction.",
+    "summary_reasoning": "Earnest tone, serious expression, direct address."
+  },
+  {
+    "timestamp": 43.424,
+    "emotion": "confident",
+    "detailed_reasoning": "When explicitly stating the 'Moral of the story,' the speaker's delivery becomes very confident and instructive. She raises her index finger, a gesture used to emphasize a key point with authority. Her voice is clear and steady, reinforcing the confidence in the lesson she is teaching.",
+    "summary_reasoning": "Instructive tone, pointing gesture, clear voice."
+  },
+  {
+    "timestamp": 51.215,
+    "emotion": "happy",
+    "detailed_reasoning": "Concluding her performance, the speaker says 'Thank you' with a warm, polite smile. She brings her hands together in a respectful gesture. Her overall demeanor is pleasant and happy, indicating a successful and positive end to her speech.",
+    "summary_reasoning": "Smiling face, polite gesture, warm tone."
+  }
+]

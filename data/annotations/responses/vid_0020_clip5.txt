@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "anguish",
+    "detailed_reasoning": "The performance begins with the actress already in a state of emotional distress. Her body language is contorted, leaning forward with hands outstretched as if holding something painful. Her facial expression is pained. The tone of her voice is soft but tinged with suffering as she speaks of 'injurious wasps' and 'sweet honey,' suggesting a painful internal conflict or torment.",
+    "summary_reasoning": "Pained expression, conflicted tone, distressed posture."
+  },
+  {
+    "timestamp": 4.855,
+    "emotion": "anger",
+    "detailed_reasoning": "There is a sharp shift in emotion. The actress's voice changes from a soft, pained tone to a harsh, forceful whisper. Her facial expression hardens, and her hands begin to clench as she delivers the line 'Kill the beast,' indicating a sudden turn towards aggression and anger.",
+    "summary_reasoning": "Harsh whisper, hardened expression, clenched hands."
+  },
+  {
+    "timestamp": 12.602,
+    "emotion": "sadness",
+    "detailed_reasoning": "After a physical outburst where she throws the imaginary letter, her entire demeanor changes as she picks up a piece. Her face softens completely, and her voice becomes quiet and gentle. She reads the words 'kind Julia,' and her expression is one of wistful sorrow, a stark contrast to the preceding rage.",
+    "summary_reasoning": "Softened face, gentle voice, shift from rage."
+  },
+  {
+    "timestamp": 15.505,
+    "emotion": "rage",
+    "detailed_reasoning": "The brief moment of sadness is immediately replaced by a new wave of intense anger. Her voice becomes loud and contemptuous as she says 'Unkind Julia.' She violently throws the paper down and rises to her feet, stomping her foot to emphasize 'trampling contemptuously.' Her face is contorted with fury, and her physical actions are large and aggressive.",
+    "summary_reasoning": "Loud contemptuous voice, violent physical actions, furious expression."
+  },
+  {
+    "timestamp": 32.667,
+    "emotion": "grief",
+    "detailed_reasoning": "Following the intense rage, she collapses and her energy shifts again upon reading another piece of the letter. Her voice becomes soft, slow, and filled with sorrow as she reads about the 'love wounded Proteus.' Her body language is now gentle, holding the paper carefully, indicating a shift from active rage to a state of profound, tender sadness or grief.",
+    "summary_reasoning": "Soft sorrowful voice, slow speech, gentle movements."
+  },
+  {
+    "timestamp": 40.423,
+    "emotion": "tenderness",
+    "detailed_reasoning": "The emotion evolves from general grief to a more specific, caring tenderness. She clutches the paper to her chest, physically cradling the 'poor wounded name.' Her voice becomes exceptionally soft and soothing, almost like a lullaby, as she promises to heal the wound. This protective gesture and nurturing tone mark a shift to compassion.",
+    "summary_reasoning": "Clutching paper to chest, soothing voice, protective gesture."
+  },
+  {
+    "timestamp": 45.614,
+    "emotion": "desperation",
+    "detailed_reasoning": "Her focus shifts outward as she pleads with the 'good winds.' Her voice takes on an urgent and pleading quality, and she looks up with a desperate expression. The fear of the letter pieces blowing away introduces a new element of desperate urgency to her emotional state.",
+    "summary_reasoning": "Urgent pleading tone, desperate expression."
+  },
+  {
+    "timestamp": 49.382,
+    "emotion": "panic",
+    "detailed_reasoning": "The desperation escalates into outright panic. Her voice remains urgent as she speaks, and her physical actions become frantic. She begins crawling and scrambling on the floor, urgently trying to gather every last piece of the letter before it's lost. This frantic search signifies a state of panic.",
+    "summary_reasoning": "Frantic crawling, urgent tone, scrambling movements."
+  }
+]

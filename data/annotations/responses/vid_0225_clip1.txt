@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 0.271,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker opens her talk with a strong, definitive statement, 'I love horror movies.' Her tone is upbeat and enthusiastic, and she has a clear, confident smile on her face. Her body language is open and she looks directly at the audience, conveying a genuine passion for her topic right from the start.",
+    "summary_reasoning": "Enthusiastic tone, smiling, strong statement."
+  },
+  {
+    "timestamp": 7.439,
+    "emotion": "reflective",
+    "detailed_reasoning": "After her initial enthusiastic statements, the speaker's tone becomes more serious and her pace slows down slightly. Her smile softens into a more thoughtful expression as she delves into the deeper, more complex themes of horror, such as the struggle between good and evil. This indicates a shift from simple passion to a more analytical and reflective state of mind.",
+    "summary_reasoning": "Serious tone, slower pace, analytical content."
+  },
+  {
+    "timestamp": 20.052,
+    "emotion": "convinced",
+    "detailed_reasoning": "The speaker's vocal tone gains strength and conviction as she describes the effect of the 'best' horror movies. Her expression is earnest and she emphasizes her belief that these films renew faith in humanity. The shift from a reflective tone to a more assertive one shows she is sharing a deeply held conviction.",
+    "summary_reasoning": "Assertive tone, earnest expression, strong belief."
+  },
+  {
+    "timestamp": 31.105,
+    "emotion": "nostalgic",
+    "detailed_reasoning": "The speaker's demeanor softens noticeably here. Her voice becomes gentler, and a warm, slight smile returns to her face as she mentions her childhood. This shift in vocal and facial cues, combined with the personal nature of the words, signals a move into a nostalgic and sentimental emotional space.",
+    "summary_reasoning": "Softened voice, warm smile, mentions childhood."
+  },
+  {
+    "timestamp": 42.226,
+    "emotion": "sincere",
+    "detailed_reasoning": "Continuing the personal reflection, the speaker's tone becomes very soft and her expression is deeply sincere. She speaks about a part of her 'existence,' indicating a profound personal connection. Her delivery is heartfelt and introspective, conveying the depth of her feelings about the topic.",
+    "summary_reasoning": "Soft tone, introspective content, heartfelt delivery."
+  },
+  {
+    "timestamp": 48.678,
+    "emotion": "reassuring",
+    "detailed_reasoning": "The speaker's tone abruptly becomes lighter and more conversational. She smiles and raises her eyebrows slightly, breaking the serious mood to directly address the audience with a playful disclaimer ('before you get too concerned'). This change in vocal tone and facial expression is meant to be charming and reassuring, putting the audience at ease before she tells a personal story.",
+    "summary_reasoning": "Lighter tone, smiling, direct audience address."
+  },
+  {
+    "timestamp": 54.789,
+    "emotion": "informative",
+    "detailed_reasoning": "In the final sentence, the speaker's emotion neutralizes. Her tone becomes straightforward and factual as she states where she grew up. Her expression is neutral, and the delivery is simply setting the stage for the story that will follow. This serves as a calm, informative transition.",
+    "summary_reasoning": "Neutral tone, factual content, setting a scene."
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 0.612,
+    "emotion": "angry",
+    "detailed_reasoning": "The video starts abruptly with the speaker commanding someone to \"shut up!\". Her facial expression is tense, her eyes are wide, and her vocal tone is sharp and commanding. This combination of verbal and non-verbal cues indicates a state of anger and frustration.",
+    "summary_reasoning": "Sharp tone, tense face, aggressive words."
+  },
+  {
+    "timestamp": 7.018,
+    "emotion": "contemptuous",
+    "detailed_reasoning": "After the initial outburst, the speaker's tone shifts. As she speculates on the cause of the other person's mood (\"maybe it's just the same old Mary\"), her voice takes on a mocking and condescending quality. Her expression is disdainful, suggesting she has contempt for the person she is speaking to.",
+    "summary_reasoning": "Mocking tone, disdainful expression, condescending words."
+  },
+  {
+    "timestamp": 14.706,
+    "emotion": "indignant",
+    "detailed_reasoning": "The speaker's anger resurfaces with more intensity. Her voice gets louder and more forceful as she asks, \"Who do you think you're talking to?\". Her eyes are wide with disbelief and her posture is confrontational, indicating she feels disrespected and is indignant.",
+    "summary_reasoning": "Louder forceful tone, wide eyes, confrontational question."
+  },
+  {
+    "timestamp": 23.955,
+    "emotion": "hateful",
+    "detailed_reasoning": "This marks the climax of her anger. Her voice becomes venomous and filled with vitriol as she unleashes a string of harsh insults, calling the other person a \"nasty, jealous, scheming bitch.\" Her facial expression is one of pure disgust and hatred, with narrowed eyes and a sneer.",
+    "summary_reasoning": "Venomous tone, expression of disgust, harsh insults."
+  },
+  {
+    "timestamp": 35.914,
+    "emotion": "dismissive",
+    "detailed_reasoning": "Following her outburst, her energy shifts. The intense anger subsides into a cold, dismissive state. As she says, \"Don't demean yourself by trying to justify your venom. Just go,\" her tone is final and she makes a slight, dismissive gesture with her head, indicating she considers the conversation over and the other person beneath her.",
+    "summary_reasoning": "Cold tone, final words, head gesture."
+  },
+  {
+    "timestamp": 46.404,
+    "emotion": "condescending",
+    "detailed_reasoning": "The speaker's tone changes to one of mock-pity and superiority. When she says, \"Henry is perfect for you. You're just too stuck up and stupid to see it,\" she is no longer shouting but is speaking with a condescending tone, as if explaining something to a child. Her facial expression carries a hint of a smirk.",
+    "summary_reasoning": "Superior tone, patronizing words, slight smirk."
+  },
+  {
+    "timestamp": 56.933,
+    "emotion": "spiteful",
+    "detailed_reasoning": "The video concludes with a final, cutting remark. Her voice is cold and there's a look of grim satisfaction on her face as she says she can give thanks for the person's partner getting away. This final statement is delivered with clear spite, meant to inflict one last bit of pain.",
+    "summary_reasoning": "Cold tone, satisfied expression, cutting remark."
+  }
+]

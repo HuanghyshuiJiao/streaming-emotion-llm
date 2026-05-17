@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "sad",
+    "detailed_reasoning": "The video begins with the speaker already in a state of sadness. Her facial expression is somber, with downturned lips and slightly furrowed brows. Her vocal tone is low and her speech is slow, reflecting a heavy emotional state from the very start.",
+    "summary_reasoning": "Somber face, low tone, slow speech."
+  },
+  {
+    "timestamp": 5.997,
+    "emotion": "grief",
+    "detailed_reasoning": "The speaker describes a moment where 'the world stopped.' Her vocal delivery is slow and heavy, and her facial expression is one of profound sadness and emptiness. The content of her words, combined with the sustained somber tone and distant gaze, elevates the emotion from simple sadness to a deeper sense of grief and shock.",
+    "summary_reasoning": "Heavy tone, empty expression, impactful words."
+  },
+  {
+    "timestamp": 13.424,
+    "emotion": "distressed",
+    "detailed_reasoning": "The speaker recounts a traumatic event involving police and being given a needle to stop her from screaming. Her gaze drops, and her voice carries a tone of pained recollection. The content is disturbing, and her delivery shifts from reflective grief to conveying the acute distress and helplessness she felt in that moment.",
+    "summary_reasoning": "Downward gaze, pained tone, traumatic content."
+  },
+  {
+    "timestamp": 16.047,
+    "emotion": "indignant",
+    "detailed_reasoning": "As she describes being slapped by zoo guards, her emotion sharpens. She uses a hand gesture to mimic the slap, and her facial expression becomes more tense and agitated. Her voice takes on a quality of disbelief and indignation at the injustice of the act, moving beyond simple distress to a more angered state.",
+    "summary_reasoning": "Slapping gesture, agitated face, indignant tone."
+  },
+  {
+    "timestamp": 20.432,
+    "emotion": "frustrated",
+    "detailed_reasoning": "After recounting the physical and medical interventions, she states that the perpetrators were never caught. Her tone becomes sharp and her expression hardens, conveying a deep sense of frustration and injustice. The focus shifts from her personal distress to the unresolved crime, indicating frustration with the lack of consequences for the 'gang'.",
+    "summary_reasoning": "Sharp tone, hard expression, sense of injustice."
+  },
+  {
+    "timestamp": 24.896,
+    "emotion": "despair",
+    "detailed_reasoning": "The speaker's frustration gives way to a profound sense of hopelessness. She states the irreversible nature of the loss—'you can't make the birds come alive again.' Her voice becomes soft and mournful, her expression is one of deep sorrow, and she slightly shakes her head, conveying utter despair and the finality of the tragedy.",
+    "summary_reasoning": "Mournful tone, sorrowful expression, irreversible loss."
+  },
+  {
+    "timestamp": 33.189,
+    "emotion": "bitter",
+    "detailed_reasoning": "In the final moments, the speaker's despair turns to bitterness and a sense of abandonment. She states flatly, 'Nobody cares,' and then repeats 'Nobody.' Her tone is devoid of the earlier intense sadness, replaced by a cold, bitter resignation. Her eyes close briefly as if shutting out a world that is indifferent to her pain.",
+    "summary_reasoning": "Flat bitter tone, repeated 'nobody', sense of abandonment."
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "StreamingEmotionSample",
+  "type": "object",
+  "required": ["sample_id", "video_path", "events"],
+  "properties": {
+    "sample_id": { "type": "string" },
+    "video_path": { "type": "string" },
+    "annotation_path": { "type": ["string", "null"] },
+    "audio_path": { "type": ["string", "null"] },
+    "duration_sec": { "type": ["number", "null"] },
+    "events": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["timestamp", "emotion"],
+        "properties": {
+          "timestamp": { "type": "number" },
+          "start_sec": { "type": "number" },
+          "end_sec": { "type": "number" },
+          "emotion": { "type": "string" },
+          "detailed_reasoning": { "type": ["string", "null"] },
+          "summary_reasoning": { "type": ["string", "null"] },
+          "reasoning": { "type": ["string", "null"] },
+          "response": { "type": ["string", "null"] }
+        }
+      }
+    }
+  }
+}

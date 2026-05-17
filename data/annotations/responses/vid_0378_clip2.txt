@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 5.678,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker begins with a contemplative tone, describing what people expected her dance to be about. Her facial expression is serious and her voice is low. When she says 'but not cancer,' her expression becomes more downcast and her tone shifts to be more definitively somber, reflecting the heavy subject matter.",
+    "summary_reasoning": "Downcast expression, low tone, heavy subject matter."
+  },
+  {
+    "timestamp": 12.908,
+    "emotion": "disappointed",
+    "detailed_reasoning": "The speaker's tone becomes flatter and her gaze drops slightly as she explains that the dance didn't have the emotional impact she might have hoped for, not even making her own mother cry. This conveys a sense of failure and disappointment.",
+    "summary_reasoning": "Flat tone, downward gaze."
+  },
+  {
+    "timestamp": 17.815,
+    "emotion": "resigned",
+    "detailed_reasoning": "After stating that the dance didn't cure her mother's cancer, her expression softens into a faint, sad smile. Her shoulders slump slightly, and her tone becomes one of quiet resignation, as if accepting a painful reality. This continues as she explains her mother's condition worsened and the dance was just 'an ordinary dance.'",
+    "summary_reasoning": "Sad smile, slumped shoulders, quiet tone."
+  },
+  {
+    "timestamp": 26.546,
+    "emotion": "annoyed",
+    "detailed_reasoning": "There is a complete shift in character. The speaker's posture becomes more rigid, her expression tightens, and she looks directly forward. Her tone becomes sharp and incredulous as she begins a new monologue, immediately establishing a feeling of annoyance and confrontation by stating, 'this is not a good date.'",
+    "summary_reasoning": "Rigid posture, tight expression, sharp tone."
+  },
+  {
+    "timestamp": 30.081,
+    "emotion": "angry",
+    "detailed_reasoning": "The speaker's annoyance quickly escalates to anger. She starts using profanity ('what the fuck'), her volume increases, her eyebrows furrow, and she speaks with a much more aggressive and forceful tone, directly insulting the person she's addressing ('you moron').",
+    "summary_reasoning": "Profanity, increased volume, aggressive tone, furrowed brows."
+  },
+  {
+    "timestamp": 36.69,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "The anger is now tinged with heavy sarcasm. As she contrasts the date with a 'lecture series... about global carnage,' her tone becomes mocking. She enunciates the words with exaggerated seriousness, and her expression conveys disdain for the topic being discussed.",
+    "summary_reasoning": "Mocking tone, disdainful expression, exaggerated enunciation."
+  },
+  {
+    "timestamp": 45.642,
+    "emotion": "indignant",
+    "detailed_reasoning": "The emotion intensifies from simple frustration to outright indignation. She explicitly states, 'I'm offended,' repeating the phrase for emphasis. Her voice gets higher and louder, her head tilts in disbelief, and her gestures become more open, showing she feels personally wronged.",
+    "summary_reasoning": "Louder, higher voice, repeated phrase, expressive gestures."
+  },
+  {
+    "timestamp": 48.966,
+    "emotion": "furious",
+    "detailed_reasoning": "The speaker's indignation peaks into fury. She exclaims 'what horse shit,' with a look of complete disgust. Her voice becomes a near-shout, filled with rage and disbelief as she mocks the idea that 'men need war' and describes the horrific consequences, her entire demeanor conveying intense anger and moral outrage.",
+    "summary_reasoning": "Shouting, disgusted expression, rage in voice."
+  }
+]

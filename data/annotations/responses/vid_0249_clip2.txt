@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "sad",
+    "detailed_reasoning": "The video begins with the speaker already in a somber state. Her facial expression is downcast, her eyes appear heavy, and her initial vocal tone is soft and hesitant as she says, 'I just feel like.' This suggests she is gathering her thoughts to express something emotionally difficult.",
+    "summary_reasoning": "Downcast expression, soft hesitant tone."
+  },
+  {
+    "timestamp": 8.790,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The underlying sadness is now mixed with frustration. Her voice, while still trembling, gains volume and speed as she lists the qualities of women ('minds,' 'souls'). Her facial expression intensifies, her eyes widen, and her speech becomes more forceful, conveying exasperation with having to state what she feels is obvious.",
+    "summary_reasoning": "Louder, faster voice. Intense expression."
+  },
+  {
+    "timestamp": 16.868,
+    "emotion": "angry",
+    "detailed_reasoning": "The emotion escalates from frustration to overt anger. Her voice becomes significantly louder and higher-pitched as she exclaims, 'I am so sick.' Her facial expression is one of clear indignation, and the words themselves explicitly state her anger towards the societal perception she is describing.",
+    "summary_reasoning": "Loud, high-pitched voice. Explicitly angry words."
+  },
+  {
+    "timestamp": 21.579,
+    "emotion": "despair",
+    "detailed_reasoning": "Immediately following her angry outburst, there is a dramatic shift. All the energy drains from her. She turns her head away and her posture slumps, signifying emotional exhaustion and defeat. The long silence that follows is heavy with a sense of hopelessness and collapse, which can be characterized as despair.",
+    "summary_reasoning": "Energy drains, slumps posture, turns away."
+  },
+  {
+    "timestamp": 28.113,
+    "emotion": "lonely",
+    "detailed_reasoning": "After the period of silent despair, she reveals the core of her pain. Her voice returns as a fragile, broken whisper to say, 'so lonely.' Her facial expression is crumpled in sorrow and her eyes are tearful. This moment reveals the deep vulnerability and personal pain that fueled her earlier anger.",
+    "summary_reasoning": "Whispered broken voice, tearful face, explicit words."
+  }
+]

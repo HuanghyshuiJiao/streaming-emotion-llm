@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 2.094,
+    "emotion": "humorous",
+    "detailed_reasoning": "The speaker begins with a rhetorical question, delivered with a smirk and a light, playful tone. The audience's immediate laughter confirms the comedic setup. His body language is relaxed, and he's engaging the audience as if sharing an inside joke.",
+    "summary_reasoning": "Rhetorical question, smirk, audience laughter."
+  },
+  {
+    "timestamp": 8.263,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's demeanor shifts. His smile fades, and he adopts a more declarative and serious tone. He repeats the phrase \"this is just the facts,\" signaling a transition from the opening joke to the main point of his monologue, using a more assertive and factual presentation style.",
+    "summary_reasoning": "Smile fades, declarative tone, assertive phrasing."
+  },
+  {
+    "timestamp": 12.288,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "While listing supposed \"facts\" about Trump's victory, the speaker's tone carries an undercurrent of sarcasm. His delivery is slightly exaggerated, and a subtle smirk returns, suggesting he's mocking the idea of an overwhelming win rather than stating it as a genuine belief.",
+    "summary_reasoning": "Exaggerated tone, subtle smirk, mocking context."
+  },
+  {
+    "timestamp": 15.933,
+    "emotion": "humorous",
+    "detailed_reasoning": "This marks the punchline of his setup. He delivers the absurd statement about Trump calling the Secretary of State with clear comedic timing and a broad smile. The loud and sustained laughter from the audience confirms the joke landed successfully.",
+    "summary_reasoning": "Comedic timing, broad smile, audience laughter."
+  },
+  {
+    "timestamp": 28.334,
+    "emotion": "cynical",
+    "detailed_reasoning": "After the laughter subsides, his tone shifts to a more analytical but cynical one. He uses the phrase \"amazing coalition\" without genuine enthusiasm, implying skepticism. His facial expression is more neutral and contemplative as he transitions to his next point about Trump's voter base.",
+    "summary_reasoning": "Cynical tone, neutral expression, skeptical phrasing."
+  },
+  {
+    "timestamp": 33.648,
+    "emotion": "mocking",
+    "detailed_reasoning": "The speaker's tone becomes mocking as he describes a segment of voters. The way he delivers the line \"they just want to see what he'll do\" is tinged with feigned disbelief, subtly ridiculing the logic of those voters. His expression is one of slight bemusement.",
+    "summary_reasoning": "Mocking tone, feigned disbelief, bemused expression."
+  },
+  {
+    "timestamp": 40.466,
+    "emotion": "humorous",
+    "detailed_reasoning": "He delivers another clear punchline, naming the voter type the \"get the cat high vote.\" His expression is triumphant and amused, and the audience responds with another round of strong laughter, indicating he has successfully landed another joke.",
+    "summary_reasoning": "Punchline delivery, amused expression, audience laughter."
+  },
+  {
+    "timestamp": 50.832,
+    "emotion": "analytical",
+    "detailed_reasoning": "Following a long pause for audience laughter, the speaker's tone becomes more serious and analytical again. He presents a statement about Trump's demographic performance in a matter-of-fact way, setting the stage for his final statistical point and punchline.",
+    "summary_reasoning": "Serious tone, matter-of-fact delivery, post-joke transition."
+  },
+  {
+    "timestamp": 56.276,
+    "emotion": "wry",
+    "detailed_reasoning": "He delivers the final line with a dry, deadpan tone. The humor comes from the pun and the contrast with the serious-sounding statistic he just presented. A slight, knowing smirk appears just after he speaks, signaling the intended wry humor, which is immediately followed by audience laughter.",
+    "summary_reasoning": "Deadpan tone, knowing smirk, pun-based joke."
+  }
+]

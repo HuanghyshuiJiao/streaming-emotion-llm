@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 9.641,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker's eyes are closed, and his speech is slow and deliberate from the beginning. His tone is low and melancholic. The content of his speech, about the pressure to leave a mark and effect positive change, carries a heavy weight, establishing a sad and burdened emotional state.",
+    "summary_reasoning": "Slow speech, low tone, closed eyes, heavy topic."
+  },
+  {
+    "timestamp": 11.183,
+    "emotion": "tormented",
+    "detailed_reasoning": "The speaker's voice strains on the word \"tortures,\" and his facial muscles tense slightly. This, combined with the powerful word choice, shifts the emotion from general sadness to a more specific feeling of being tormented by the internal pressure he's describing.",
+    "summary_reasoning": "Strained voice, facial tension, strong word choice."
+  },
+  {
+    "timestamp": 22.615,
+    "emotion": "confused",
+    "detailed_reasoning": "The speaker lists abstract and conflicting qualities of human nature (\"fickle,\" \"ethereal,\" \"abstract\"). His vocal delivery becomes a monotonous, slow recitation, reflecting a state of confusion and struggle as he grapples with these intangible concepts. He seems lost in the complexity of the thought.",
+    "summary_reasoning": "Abstract words, monotonous tone, slow recitation."
+  },
+  {
+    "timestamp": 39.118,
+    "emotion": "longing",
+    "detailed_reasoning": "After describing the confusion, the speaker's tone shifts to one of longing as he talks about the desire to find a \"grounded practical constitution\" that will allow him to \"move forward.\" The pace is still slow, but there's an underlying yearning for clarity and direction.",
+    "summary_reasoning": "Yearning tone, seeking direction in words."
+  },
+  {
+    "timestamp": 48.329,
+    "emotion": "resigned",
+    "detailed_reasoning": "The speaker admits, \"I haven't figured it out yet.\" His voice drops slightly, and the pace slows even more, conveying a sense of resignation and defeat. He is acknowledging his current inability to resolve the internal conflict he has been describing.",
+    "summary_reasoning": "Voice drops, slower pace, admission of defeat."
+  },
+  {
+    "timestamp": 51.921,
+    "emotion": "pained",
+    "detailed_reasoning": "He explicitly states, \"I believe that it's a curse.\" The word \"curse\" is delivered with a heavy, pained emphasis. His expression, though his eyes are closed, seems to deepen in its sorrow, reflecting the deep pain associated with this belief.",
+    "summary_reasoning": "Heavy emphasis, pained tone, strong negative word."
+  },
+  {
+    "timestamp": 55.301,
+    "emotion": "reflective",
+    "detailed_reasoning": "In the final clause, the speaker introduces a new possibility: \"perhaps it's a blessing in disguise.\" His tone becomes softer and more reflective. While not happy, the shift indicates a moment of contemplation, considering an alternative, more positive perspective on his struggle.",
+    "summary_reasoning": "Softer tone, introduces alternative perspective."
+  }
+]

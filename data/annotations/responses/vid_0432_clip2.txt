@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 3.756,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her story with a neutral facial expression and a steady, calm vocal tone. She is recounting a past event, and her demeanor is composed as she sets the scene, describing her initial confusion about a physical sensation.",
+    "summary_reasoning": "Neutral expression, steady tone."
+  },
+  {
+    "timestamp": 10.325,
+    "emotion": "concerned",
+    "detailed_reasoning": "Her expression shifts slightly, with a subtle furrow of her brow and a more hesitant vocal delivery. She describes not responding to her husband because she wasn't sure what was happening, indicating a growing sense of unease and concern about her condition.",
+    "summary_reasoning": "Hesitant voice, furrowed brow."
+  },
+  {
+    "timestamp": 18.817,
+    "emotion": "scared",
+    "detailed_reasoning": "The speaker's eyes widen and her tone becomes more serious and slightly strained. She describes the right side of her face drooping and her inability to speak, which are classic stroke symptoms. Her expression and the gravity of her words convey a significant shift from concern to genuine fear as she realizes something is seriously wrong.",
+    "summary_reasoning": "Wide eyes, serious tone, alarming words."
+  },
+  {
+    "timestamp": 34.714,
+    "emotion": "fearful",
+    "detailed_reasoning": "She explicitly states she thought she was having a \"full blown stroke.\" Her facial expression is tense, her eyes are wide, and she uses hand gestures to emphasize the severity of the situation. The vocal tone is high and conveys a strong sense of panic and fear associated with that terrifying thought.",
+    "summary_reasoning": "Explicit words, tense face, panicked tone."
+  },
+  {
+    "timestamp": 42.964,
+    "emotion": "anxious",
+    "detailed_reasoning": "Her speaking pace quickens, and she describes her husband urgently calling for a doctor and 911. Her expression remains serious and her eyes are still wide, reflecting the panic and anxiety of the moment as the emergency escalates.",
+    "summary_reasoning": "Fast pace, serious expression, urgent context."
+  },
+  {
+    "timestamp": 55.357,
+    "emotion": "terrified",
+    "detailed_reasoning": "The speaker explicitly labels the event as the \"scariest moment of my life.\" Her voice drops slightly but is filled with emotional weight, and her facial expression is deeply serious and reflective of that terror. The combination of her direct statement and solemn delivery marks the peak of her fear.",
+    "summary_reasoning": "Explicit words, solemn tone, serious expression."
+  }
+]

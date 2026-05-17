@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 4.277,
+    "emotion": "overwhelmed",
+    "detailed_reasoning": "The speaker describes being incredibly busy, to the point of not having time for friends. Her vocal tone is slightly strained and her pace is quick, conveying a sense of being overwhelmed by her schedule and responsibilities.",
+    "summary_reasoning": "Strained tone, quick pace, negative content."
+  },
+  {
+    "timestamp": 8.824,
+    "emotion": "conflicted",
+    "detailed_reasoning": "She states she had \"potential,\" which introduces a conflict. Her tone is tinged with sadness and her eyes look down, suggesting a difficult internal state where the knowledge of her potential clashes with the reality of her struggles.",
+    "summary_reasoning": "Sad tone, downward gaze, contrasting words."
+  },
+  {
+    "timestamp": 12.689,
+    "emotion": "dejected",
+    "detailed_reasoning": "The speaker concludes that her failure was her own fault. Her voice becomes softer and has a slight quiver, her pace slows, and her head is bowed, all strong indicators of dejection and self-blame.",
+    "summary_reasoning": "Soft, quivering voice, slow pace, bowed head."
+  },
+  {
+    "timestamp": 19.359,
+    "emotion": "exhausted",
+    "detailed_reasoning": "She explicitly states she was \"tired of trying.\" Her voice cracks with emotion, her eyes are watery, and her facial expression shows deep weariness. This conveys a profound sense of emotional and mental exhaustion.",
+    "summary_reasoning": "Voice cracks, watery eyes, weary expression."
+  },
+  {
+    "timestamp": 26.089,
+    "emotion": "hopeless",
+    "detailed_reasoning": "Describing falling \"farther and farther behind,\" her voice is filled with despair and her expression is one of deep sadness. Her shoulders are slightly slumped, reinforcing the feeling of being defeated and hopeless.",
+    "summary_reasoning": "Despairing tone, sad expression, slumped posture."
+  },
+  {
+    "timestamp": 30.054,
+    "emotion": "resigned",
+    "detailed_reasoning": "The speaker reflects on a point where she could have given up on herself. Her tone is somber and her gaze is distant, suggesting a state of resignation as she considers this past possibility of defeat.",
+    "summary_reasoning": "Somber tone, distant gaze."
+  },
+  {
+    "timestamp": 37.07,
+    "emotion": "determined",
+    "detailed_reasoning": "The emotional turning point comes with the words, \"But I didn't.\" Her voice gains strength and firmness, her head lifts slightly, and her expression shifts from sad to resolute, indicating a clear change to determination.",
+    "summary_reasoning": "Firm tone, lifted head, resolute expression."
+  },
+  {
+    "timestamp": 41.179,
+    "emotion": "realization",
+    "detailed_reasoning": "She explains that she knew her behavior was the cause of her situation. Her tone becomes more analytical and her gaze is focused, as if explaining a core insight. This marks a shift from pure emotion to a moment of cognitive realization and understanding.",
+    "summary_reasoning": "Analytical tone, focused gaze, explanatory words."
+  },
+  {
+    "timestamp": 46.691,
+    "emotion": "accepting",
+    "detailed_reasoning": "She plainly states, \"And my brain has ADHD.\" The delivery is matter-of-fact and calm. After the emotional turmoil described earlier, this statement comes across as an acceptance of her condition, without the previous self-blame.",
+    "summary_reasoning": "Matter-of-fact tone, calm delivery, direct statement."
+  },
+  {
+    "timestamp": 55.992,
+    "emotion": "frustrated",
+    "detailed_reasoning": "Even after acknowledging her ADHD and getting treatment, she concludes that it was \"still interfering with my life.\" Her tone carries a clear sense of ongoing frustration, and her facial expression shows the strain of this continuous struggle, despite her acceptance.",
+    "summary_reasoning": "Frustrated tone, strained expression, negative content."
+  }
+]

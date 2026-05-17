@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker begins with a rhetorical question directed at himself and the audience. His tone is contemplative, his hands are held to his chest in a self-reflective gesture, and his facial expression is serious and introspective as he poses a deep question about overcoming trauma.",
+    "summary_reasoning": "Rhetorical question, contemplative tone, self-reflective gesture."
+  },
+  {
+    "timestamp": 8.198,
+    "emotion": "assertive",
+    "detailed_reasoning": "The speaker's tone shifts from questioning to declarative. He confidently refutes common assumptions about people who overcome trauma, using firm vocal intonation and gesturing to emphasize that simple explanations like being 'strong' are insufficient. This marks a transition from introspection to making a strong, clear point.",
+    "summary_reasoning": "Declarative tone, firm voice, refuting assumptions."
+  },
+  {
+    "timestamp": 17.066,
+    "emotion": "confident",
+    "detailed_reasoning": "He delivers the key word \"resilient\" with strong emphasis and a definitive tone. He points away from himself, as if defining the concept for the audience. His posture is upright and his expression is assured, conveying complete confidence in the answer he is providing.",
+    "summary_reasoning": "Emphatic word, definitive tone, pointing gesture."
+  },
+  {
+    "timestamp": 20.85,
+    "emotion": "instructive",
+    "detailed_reasoning": "The speaker's tone becomes more educational and explanatory. He is no longer just telling his story but is now teaching a concept. His pace is measured and his hand gestures are open and illustrative, as if explaining a fundamental principle to an audience.",
+    "summary_reasoning": "Educational tone, measured pace, illustrative gestures."
+  },
+  {
+    "timestamp": 26.375,
+    "emotion": "calm",
+    "detailed_reasoning": "He provides a clear, dictionary-like definition of resilience. His voice is very steady, calm, and deliberate. His body language is relaxed, and he delivers the line with precision, solidifying his role as a knowledgeable instructor.",
+    "summary_reasoning": "Steady voice, deliberate pace, defining a term."
+  },
+  {
+    "timestamp": 37.257,
+    "emotion": "focused",
+    "detailed_reasoning": "The speaker deliberately draws the audience's attention to a specific part of his definition by saying \"note that I said negative change.\" His tone becomes more pointed and he uses a hand gesture to emphasize the word 'negative,' indicating a focused effort to clarify his point and ensure the audience understands the distinction he is about to make.",
+    "summary_reasoning": "Directing attention, pointed tone, emphasis on word."
+  },
+  {
+    "timestamp": 46.618,
+    "emotion": "engaging",
+    "detailed_reasoning": "The speaker shifts to using relatable, positive examples. His tone becomes lighter and more conversational, and he uses scenarios (getting a job, an exam being canceled) that are universally understood and slightly humorous. This change is designed to engage the audience directly and build rapport through shared, positive experiences.",
+    "summary_reasoning": "Relatable examples, lighter tone, conversational style."
+  }
+]

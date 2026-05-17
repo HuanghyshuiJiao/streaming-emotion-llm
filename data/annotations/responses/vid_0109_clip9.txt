@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 3.215,
+    "emotion": "happy",
+    "detailed_reasoning": "The speaker begins with a soft, dreamy tone of voice and an upward gaze, as if fondly remembering something. Her facial expression is relaxed and pleasant, and the words \"my favorite\" confirm a positive, happy emotion associated with the lemon meringue pie.",
+    "summary_reasoning": "Dreamy tone, pleasant expression, positive words."
+  },
+  {
+    "timestamp": 8.541,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker transitions into a narrative tone. Her voice becomes more neutral and steady, and her facial expression is focused on storytelling rather than expressing personal feeling. This indicates a shift to a calm, narrative state.",
+    "summary_reasoning": "Neutral narrative tone, focused expression."
+  },
+  {
+    "timestamp": 14.609,
+    "emotion": "amused",
+    "detailed_reasoning": "She begins to impersonate a character, Mrs. Rogers. Her voice takes on a slightly higher, more emphatic and instructive quality. Her facial expressions become more animated and performative, suggesting she is amused by the character she is portraying and the story she is telling.",
+    "summary_reasoning": "Impersonating voice, animated expression, performative."
+  },
+  {
+    "timestamp": 19.935,
+    "emotion": "nonchalant",
+    "detailed_reasoning": "The speaker's tone becomes very casual and dismissive as she speaks from the perspective of Mr. Rogers. Her body language is relaxed, and her delivery of the line about dressing chickens in lace is nonchalant, conveying a sense of amusement and carefree indifference.",
+    "summary_reasoning": "Casual tone, relaxed body language, dismissive words."
+  },
+  {
+    "timestamp": 24.341,
+    "emotion": "joyful",
+    "detailed_reasoning": "Her voice becomes significantly more enthusiastic and high-pitched when she mentions the lemon meringue pies again. Her face lights up with a wide, genuine smile, and her entire demeanor shifts to one of clear joy and delight, emphasizing the character's simple pleasure.",
+    "summary_reasoning": "Enthusiastic high-pitched voice, wide smile."
+  },
+  {
+    "timestamp": 30.343,
+    "emotion": "charming",
+    "detailed_reasoning": "The speaker breaks character to address the audience directly. Her tone becomes sweet and engaging, and she has a warm, inviting smile. The use of the word \"dearies\" and her gentle expression create a charming and friendly connection with the audience.",
+    "summary_reasoning": "Sweet tone, warm smile, direct address."
+  },
+  {
+    "timestamp": 35.1,
+    "emotion": "confused",
+    "detailed_reasoning": "There is an abrupt shift in her demeanor. She looks down at her hand with a puzzled and slightly disgusted expression. Her voice changes from charming to bewildered as she asks the question, indicating a sudden state of confusion and surprise.",
+    "summary_reasoning": "Abrupt shift, puzzled expression, bewildered tone."
+  }
+]

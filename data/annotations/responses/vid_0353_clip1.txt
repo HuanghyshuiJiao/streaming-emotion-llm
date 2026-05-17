@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 1.553,
+    "emotion": "concerned",
+    "detailed_reasoning": "The speaker begins with a rhetorical question about her future, spoken with a worried tone. Her facial expression is one of apprehension, with wide eyes looking upwards as if searching for an answer, indicating concern and anxiety about finding a suitable partner.",
+    "summary_reasoning": "Worried tone, apprehensive expression, questioning words."
+  },
+  {
+    "timestamp": 10.702,
+    "emotion": "nostalgic",
+    "detailed_reasoning": "The speaker's emotion shifts dramatically from concern to fondness. Her facial expression softens, her eyes look up dreamily as if recalling a cherished memory, and her voice becomes gentle as she says, \"he understood me.\" This indicates she is fondly reminiscing about a past connection.",
+    "summary_reasoning": "Softened voice, dreamy upward gaze, remembering a connection."
+  },
+  {
+    "timestamp": 16.188,
+    "emotion": "affectionate",
+    "detailed_reasoning": "Continuing her reminiscence, the speaker's tone becomes even softer and more heartfelt. She describes how just his look made her feel better in the world. This is delivered with a slow, emotional pace and a gentle expression, conveying a deep sense of affection and warmth.",
+    "summary_reasoning": "Soft tone, gentle expression, describing a positive feeling."
+  },
+  {
+    "timestamp": 24.217,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker's emotion shifts from wistful affection to a firm conviction. Her tone becomes stronger and more assertive as she declares, \"I'm convinced his affections were growing.\" Her gaze is more direct, and she speaks with certainty, reflecting her confidence in their mutual feelings.",
+    "summary_reasoning": "Assertive tone, direct gaze, words of certainty."
+  },
+  {
+    "timestamp": 29.387,
+    "emotion": "shocked",
+    "detailed_reasoning": "In immediate reaction to the other person's sharp dismissal of her feelings (\"stop it... It is not love\"), the speaker's confident expression shatters. Her eyes widen and her jaw drops slightly, showing clear shock and hurt that her deeply felt emotions have been so bluntly invalidated.",
+    "summary_reasoning": "Reaction to interruption, widened eyes, hurt expression."
+  },
+  {
+    "timestamp": 33.794,
+    "emotion": "defiant",
+    "detailed_reasoning": "After the initial shock, the speaker's hurt turns into defiance. She retorts, \"You stop it, won't you?\" with a sharp, challenging tone. Her expression hardens and she uses sarcasm to question the other person's right to judge her feelings, indicating she is pushing back strongly.",
+    "summary_reasoning": "Sharp tone, hardened expression, challenging words."
+  },
+  {
+    "timestamp": 44.552,
+    "emotion": "vulnerable",
+    "detailed_reasoning": "After a long, conflicted pause in response to being questioned, the speaker's defiance crumbles. She looks down, breaking eye contact, and quietly admits, \"No.\" Her voice is soft and resigned, revealing her own uncertainty and making her emotionally vulnerable.",
+    "summary_reasoning": "Long pause, fallen expression, quiet admission."
+  },
+  {
+    "timestamp": 55.831,
+    "emotion": "sad",
+    "detailed_reasoning": "After her friend delivers the final, painful piece of information that there has been no contact from the man, the speaker's vulnerability turns into clear sadness. She looks down, her expression completely dejected, as the last bit of hope she was clinging to is extinguished. The scene ends on her look of quiet devastation.",
+    "summary_reasoning": "Downcast eyes, dejected expression, absorbing painful news."
+  }
+]

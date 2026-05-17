@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 3.479,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker begins his talk by stating he moved to Maine to become famous. The absurdity of this statement, combined with his slight smirk and light, self-aware tone, indicates that he is amused by his own past naivety. He is setting up a humorous, self-deprecating anecdote.",
+    "summary_reasoning": "Self-deprecating words, light tone, smirk."
+  },
+  {
+    "timestamp": 8.21,
+    "emotion": "self-deprecating",
+    "detailed_reasoning": "The speaker describes his decision to move to Maine as one in a \"series of really interesting business decisions.\" His ironic and slightly drawn-out emphasis on the word \"interesting,\" along with his open-handed gestures, clearly frames this as a self-deprecating comment on his poor choices, which is confirmed by the audience's laughter.",
+    "summary_reasoning": "Ironic tone, open gestures, audience laughter."
+  },
+  {
+    "timestamp": 12.24,
+    "emotion": "amused",
+    "detailed_reasoning": "He continues his self-mocking narrative by comparing his decision to \"moving to the moon to become famous.\" This humorous exaggeration, delivered with a consistently amused tone and facial expression, shows he finds his past self's logic comical.",
+    "summary_reasoning": "Humorous analogy, amused tone."
+  },
+  {
+    "timestamp": 20.524,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker's tone shifts to become more matter-of-fact as he describes the practical realization that he couldn't make money as a songwriter in rural Maine. The pace slows, and the overt amusement fades from his expression as he reflects on this sobering discovery.",
+    "summary_reasoning": "Matter-of-fact tone, slower pace, neutral expression."
+  },
+  {
+    "timestamp": 27.794,
+    "emotion": "humorous",
+    "detailed_reasoning": "The emotion shifts back to humor as he describes himself as \"profoundly unqualified for gainful employment.\" The use of strong, self-critical language is delivered with a lighthearted, almost cheerful tone, creating a humorous contrast and making light of his past struggles.",
+    "summary_reasoning": "Exaggerated words, lighthearted tone."
+  },
+  {
+    "timestamp": 35.364,
+    "emotion": "humorous",
+    "detailed_reasoning": "After listing his lack of qualifications (no college, no trade), he delivers the punchline, \"I was an excellent hitchhiker.\" His timing and proud, upward inflection on this absurd skill are clearly intended to be comedic, and the audience's laughter confirms its success.",
+    "summary_reasoning": "Comedic punchline, upward inflection, audience laughter."
+  },
+  {
+    "timestamp": 40.351,
+    "emotion": "witty",
+    "detailed_reasoning": "Continuing the joke, the speaker adds that being an \"excellent hitchhiker\" was not something that \"really jumped off the resume.\" This dry, witty observation, delivered with a knowing look, showcases a more subtle, clever form of humor.",
+    "summary_reasoning": "Dry delivery, clever phrasing, witty observation."
+  },
+  {
+    "timestamp": 46.018,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker's tone becomes neutral and narrative as he transitions to the next phase of his story: getting a minimum wage job in a nursing home. The humor subsides, and he adopts a calm, straightforward delivery to mark a significant turning point.",
+    "summary_reasoning": "Neutral tone, narrative delivery, story transition."
+  },
+  {
+    "timestamp": 51.851,
+    "emotion": "sincere",
+    "detailed_reasoning": "There is a distinct shift in emotion as the speaker says this job \"changed the whole trajectory of my life.\" His voice becomes more earnest, his pace slows for emphasis, and his facial expression turns serious and heartfelt. He is conveying a profound and sincere realization.",
+    "summary_reasoning": "Earnest tone, slow pace, serious expression."
+  },
+  {
+    "timestamp": 58.253,
+    "emotion": "content",
+    "detailed_reasoning": "Bringing his story to the present, the speaker states he is 62 and can now look back and see how his life unfolded. His tone is calm, his body language is relaxed, and his facial expression is one of peaceful acceptance. This combination of cues conveys a sense of contentment and wisdom gained through experience.",
+    "summary_reasoning": "Calm tone, relaxed posture, accepting expression."
+  }
+]

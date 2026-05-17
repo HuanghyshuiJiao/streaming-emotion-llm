@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 0.191,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his performance with a calm and measured narrative tone. His voice is soft, his posture is relaxed, and he is setting the scene for a story. There are no strong visual or auditory cues to suggest any other emotion; he is simply beginning his tale.",
+    "summary_reasoning": "Soft voice, relaxed posture, narrative tone."
+  },
+  {
+    "timestamp": 4.778,
+    "emotion": "joyful",
+    "detailed_reasoning": "There is a dramatic shift in emotion as the speaker embodies the character of Santa Claus. His voice becomes loud, deep, and booming with cheer. Visually, he throws his arms open wide in a grand, welcoming gesture and his facial expression is one of broad, festive happiness. The text \"Ho, ho, ho! Merry Christmas!\" confirms this joyful portrayal.",
+    "summary_reasoning": "Booming voice, expansive gestures, smiling face."
+  },
+  {
+    "timestamp": 9.444,
+    "emotion": "whimsical",
+    "detailed_reasoning": "The speaker transitions back to a narrative voice, but it's now filled with a sense of magic and wonder. His voice becomes lighter and higher-pitched, especially on the word \"sailed.\" He uses a sweeping arm gesture to visually represent the sleigh flying into the sky, enhancing the fantastical and whimsical mood of the story.",
+    "summary_reasoning": "Light high-pitched voice, sweeping arm gesture."
+  },
+  {
+    "timestamp": 15.613,
+    "emotion": "tired",
+    "detailed_reasoning": "The speaker's entire demeanor shifts to portray exhaustion. His voice becomes slow and low-pitched, dragging out the words \"very tired.\" Physically, his shoulders slump, his pace slows to a heavy walk, and his facial expression becomes weary. He is physically and vocally embodying the character's fatigue.",
+    "summary_reasoning": "Slow low-pitched voice, slumped posture, heavy walk."
+  },
+  {
+    "timestamp": 21.481,
+    "emotion": "sleepy",
+    "detailed_reasoning": "Continuing the portrayal of tiredness, the speaker now acts out the final moments before sleep. He physically sits down heavily in a chair and mimes falling asleep by resting his head on his hands. His voice remains low and slow, trailing off, which reinforces the feeling of drifting into sleep.",
+    "summary_reasoning": "Sits heavily, mimes sleeping, voice trails off."
+  },
+  {
+    "timestamp": 25.127,
+    "emotion": "proud",
+    "detailed_reasoning": "While acting asleep, the speaker mumbles the line \"I saved Christmas!\" The delivery is muffled, as if talking in one's sleep, but the content of the words and the satisfied undertone convey a sense of pride and self-congratulation, even in a dream state.",
+    "summary_reasoning": "Muffled sleepy voice, triumphant words, satisfied tone."
+  },
+  {
+    "timestamp": 30.219,
+    "emotion": "startled",
+    "detailed_reasoning": "The emotion shifts abruptly from sleepiness to alarm. The speaker's head jerks up from its sleeping position, his eyes go wide, and his body tenses. This is accompanied by sharp, percussive knocking sounds he makes with his mouth, perfectly conveying the character being suddenly and unexpectedly awoken.",
+    "summary_reasoning": "Head jerks up, body tenses, abrupt vocal knocking sounds."
+  },
+  {
+    "timestamp": 33.845,
+    "emotion": "curious",
+    "detailed_reasoning": "After the initial shock, the character's emotion changes to curiosity. The speaker gets up from the chair and begins to walk with a more purposeful stride. His facial expression is inquisitive as he goes to investigate the source of the sound, indicating a shift from alarm to a desire to know what is happening.",
+    "summary_reasoning": "Purposeful walk, inquisitive facial expression."
+  },
+  {
+    "timestamp": 35.788,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker's delivery becomes lighthearted and humorous. He adopts a high-pitched, slightly singsong, and innocent voice to say, \"I'm coming, person at the door.\" The comical and overly literal phrasing, combined with the childlike vocal tone, creates a moment of amusement, highlighting the character's naive personality.",
+    "summary_reasoning": "High-pitched, innocent voice, comical phrasing."
+  },
+  {
+    "timestamp": 48.267,
+    "emotion": "confused",
+    "detailed_reasoning": "Upon metaphorically opening the door, the speaker's demeanor changes to one of confusion. He stops walking abruptly, his posture recoils slightly, and his facial expression shows bewilderment. His voice becomes high-pitched and questioning, with a sharp, surprised inflection on \"What's going on?\", indicating he is seeing something completely unexpected.",
+    "summary_reasoning": "Abrupt stop, recoiled posture, high-pitched questioning voice."
+  }
+]

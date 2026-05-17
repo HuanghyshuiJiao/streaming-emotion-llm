@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 3.939,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his speech with a calm and measured tone. His facial expression is neutral and his posture is composed. He is setting a baseline of calm authority before delving into the main points of his speech.",
+    "summary_reasoning": "Measured tone, neutral expression, composed posture."
+  },
+  {
+    "timestamp": 7.567,
+    "emotion": "assertive",
+    "detailed_reasoning": "The speaker's tone shifts to become more assertive and direct as he gives a piece of advice. He uses a pointed finger gesture to emphasize his command, \"take it,\" which conveys a sense of firm, friendly instruction.",
+    "summary_reasoning": "Assertive tone, direct advice, pointed gesture."
+  },
+  {
+    "timestamp": 14.603,
+    "emotion": "judgmental",
+    "detailed_reasoning": "The speaker's tone becomes firm and his facial expression serious as he makes a clear judgment about character. The definitive statement, \"you're a jerk,\" is delivered without hesitation, conveying strong conviction and a judgmental stance on the behavior described.",
+    "summary_reasoning": "Firm tone, serious expression, definitive statement."
+  },
+  {
+    "timestamp": 20.335,
+    "emotion": "inspired",
+    "detailed_reasoning": "After contrasting explainable things with the unexplainable, the speaker's tone softens and becomes more wondrous when he says, \"They're just magic.\" His eyes widen slightly, and he has a subtle smile, suggesting he is inspired by this concept of magic in the world.",
+    "summary_reasoning": "Wondrous tone, slight smile, softened expression."
+  },
+  {
+    "timestamp": 24.692,
+    "emotion": "purposeful",
+    "detailed_reasoning": "The speaker connects the idea of magic to his own profession as a writer. His tone becomes more focused and purposeful. He uses a hand gesture to illustrate the act of creation, which reinforces the sense that he is now speaking about his specific craft and purpose.",
+    "summary_reasoning": "Focused tone, purposeful hand gesture."
+  },
+  {
+    "timestamp": 29.938,
+    "emotion": "engaging",
+    "detailed_reasoning": "The speaker directly addresses the topic of his speech, \"how to make magic.\" He leans forward slightly and makes direct eye contact with the audience. His tone is inviting and engaging, meant to draw the listeners into his premise.",
+    "summary_reasoning": "Inviting tone, direct eye contact, leaning forward."
+  },
+  {
+    "timestamp": 34.624,
+    "emotion": "knowing",
+    "detailed_reasoning": "The speaker acknowledges the seemingly absurd nature of his topic by stating, \"Real magic doesn't exist.\" He delivers this line with a slight smile and a knowing tone, as if sharing an inside secret with the audience and anticipating their skepticism, which he is about to challenge.",
+    "summary_reasoning": "Knowing tone, slight smile, acknowledging audience skepticism."
+  },
+  {
+    "timestamp": 41.171,
+    "emotion": "instructional",
+    "detailed_reasoning": "The speaker transitions into a more instructional mode. He raises his hand and uses his fingers to count as he explains that there are only four types of magic tricks. His tone becomes very clear and declarative, like a teacher explaining a concept.",
+    "summary_reasoning": "Declarative tone, hand gestures for enumeration."
+  },
+  {
+    "timestamp": 50.322,
+    "emotion": "methodical",
+    "detailed_reasoning": "Continuing in his instructional mode, the speaker methodically lists the first type of magic trick. He holds up one finger, and his speech is paced very deliberately to ensure the audience follows his structured explanation. This creates a methodical and clear emotional tone.",
+    "summary_reasoning": "Deliberate pace, clear enumeration with finger."
+  },
+  {
+    "timestamp": 57.358,
+    "emotion": "engaging",
+    "detailed_reasoning": "As he describes the final magic trick, the speaker's gestures become more animated. He uses both hands to visually represent two things switching places. This active demonstration, combined with his clear, instructional tone, serves to re-engage the audience in his explanation.",
+    "summary_reasoning": "Animated gestures, clear instructional tone."
+  }
+]

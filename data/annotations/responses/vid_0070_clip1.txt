@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 4.477,
+    "emotion": "intense",
+    "detailed_reasoning": "The speaker begins with a very direct and unblinking stare, a slightly lowered head, and a low, measured vocal tone. The combination of his focused gaze and the deliberate pace of his words creates an immediate sense of intensity and seriousness.",
+    "summary_reasoning": "Direct stare, low measured tone."
+  },
+  {
+    "timestamp": 12.328,
+    "emotion": "patronizing",
+    "detailed_reasoning": "The speaker maintains intense eye contact and a slow, deliberate tone. The use of the phrase \"You see,\" combined with a knowing and slightly condescending facial expression, suggests he is explaining something he considers a simple truth to someone he views as naive.",
+    "summary_reasoning": "Knowing expression, slow deliberate tone."
+  },
+  {
+    "timestamp": 18.797,
+    "emotion": "grim",
+    "detailed_reasoning": "The speaker's demeanor shifts as he lists the words \"Fear. War. Justice.\" He pauses between each word, looking down and then back up with a very serious, almost somber expression. This, along with the weight of the words themselves, creates a grim and heavy atmosphere.",
+    "summary_reasoning": "Somber expression, slow punctuated words."
+  },
+  {
+    "timestamp": 22.963,
+    "emotion": "amused",
+    "detailed_reasoning": "After the grim pronouncements, the speaker's face breaks into a slight, confident smirk. He tilts his head and his tone becomes slightly lighter as he says, \"I dig it.\" This indicates a shift to a state of amusement or dark appreciation for the other person's situation.",
+    "summary_reasoning": "Smirk, head tilt, lighter tone."
+  },
+  {
+    "timestamp": 31.302,
+    "emotion": "gleeful",
+    "detailed_reasoning": "The speaker's amusement turns into overt, dark glee. His eyes widen, and a genuine, almost joyful smile spreads across his face as he says, \"That's my favorite.\" His tone becomes animated and full of pleasure at the thought of war, a stark contrast to his earlier intensity.",
+    "summary_reasoning": "Wide eyes, broad smile, animated tone."
+  },
+  {
+    "timestamp": 39.156,
+    "emotion": "savoring",
+    "detailed_reasoning": "The speaker's expression becomes dreamy and pleased. He looks away as if visualizing something enjoyable, and his voice becomes softer and more drawn out as he describes \"quivering hands.\" He is clearly relishing the thought, savoring the mental image.",
+    "summary_reasoning": "Dreamy expression, soft voice, looking away."
+  },
+  {
+    "timestamp": 43.124,
+    "emotion": "triumphant",
+    "detailed_reasoning": "The speaker's emotion peaks as he describes the enemy's surrender. He smiles widely and mockingly acts out the waving of white flags, physically demonstrating his feeling of triumph and joy at the idea of his opponent's defeat.",
+    "summary_reasoning": "Wide smile, triumphant gesture."
+  },
+  {
+    "timestamp": 49.215,
+    "emotion": "warning",
+    "detailed_reasoning": "There is a sharp shift in demeanor. The triumphant smile vanishes, replaced by a serious, stern expression. His tone becomes firm and he uses direct address (\"son\") and a cautionary finger gesture, clearly issuing a threat disguised as advice.",
+    "summary_reasoning": "Stern expression, firm tone, finger gesture."
+  },
+  {
+    "timestamp": 58.152,
+    "emotion": "menacing",
+    "detailed_reasoning": "The speaker delivers the final line with a slow, widening, and unsettling grin. His eyes are wide, and the combination of the friendly-seeming smile with the threatening words creates a chilling, menacing effect, leaving a final impression of danger.",
+    "summary_reasoning": "Slow unsettling grin, wide eyes."
+  }
+]

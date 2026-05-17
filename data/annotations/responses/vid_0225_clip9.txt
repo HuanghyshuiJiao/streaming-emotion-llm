@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 5.578,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her story with a calm and even-toned voice. Her facial expression is neutral and she maintains a steady posture, setting a narrative and factual tone for the beginning of her story.",
+    "summary_reasoning": "Calm voice, neutral expression, steady posture."
+  },
+  {
+    "timestamp": 13.389,
+    "emotion": "disappointed",
+    "detailed_reasoning": "When describing her lack of progress, her tone becomes slightly more somber, and she looks down briefly. Her eyebrows furrow slightly, conveying a sense of disappointment and struggle with her situation.",
+    "summary_reasoning": "Somber tone, downward glance, furrowed brow."
+  },
+  {
+    "timestamp": 18.356,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker's voice gains a slight edge of frustration as she explains she wasn't used to failing. Her facial expression tightens, and she shakes her head subtly, emphasizing her internal conflict and frustration with her inability to progress.",
+    "summary_reasoning": "Frustrated vocal tone, tight expression, head shake."
+  },
+  {
+    "timestamp": 24.119,
+    "emotion": "determined",
+    "detailed_reasoning": "There is a distinct shift in her demeanor. Her voice becomes firmer and more resolute. She makes direct eye contact with the audience and uses a slight hand gesture for emphasis, signaling a change in mindset to one of determination.",
+    "summary_reasoning": "Firm voice, direct eye contact, hand gesture."
+  },
+  {
+    "timestamp": 33.531,
+    "emotion": "resolved",
+    "detailed_reasoning": "As she describes her decision to face her fear without distractions, her tone becomes very deliberate and serious. Her expression is focused, and she pauses for effect, underlining the gravity and resolution of her commitment.",
+    "summary_reasoning": "Deliberate tone, focused expression, strategic pause."
+  },
+  {
+    "timestamp": 43.403,
+    "emotion": "empowered",
+    "detailed_reasoning": "Using the metaphor of facing the monster, the speaker's tone becomes stronger and more confident. She gestures with her hands to illustrate her point and her facial expression shows a sense of empowerment from confronting her fears directly.",
+    "summary_reasoning": "Stronger tone, illustrative gestures, confident expression."
+  },
+  {
+    "timestamp": 49.966,
+    "emotion": "relieved",
+    "detailed_reasoning": "When talking about seeing real progress, a clear sense of relief enters her voice. Her facial muscles relax into a soft, genuine smile, and her shoulders appear to relax slightly, conveying the positive outcome of her efforts.",
+    "summary_reasoning": "Relieved tone, soft smile, relaxed posture."
+  },
+  {
+    "timestamp": 58.928,
+    "emotion": "triumphant",
+    "detailed_reasoning": "Describing her ability to touch doorknobs without consequence, her voice is light and filled with a sense of victory. She smiles broadly and gestures openly, physically expressing the freedom and triumph she felt after years of struggle.",
+    "summary_reasoning": "Light tone, broad smile, open gestures."
+  }
+]

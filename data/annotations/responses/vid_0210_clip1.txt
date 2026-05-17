@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 1.416,
+    "emotion": "neutral",
+    "detailed_reasoning": "The speaker introduces herself with a calm and friendly tone. Her facial expression is neutral with a slight smile, and her body language is relaxed. This indicates a standard, neutral introductory state before the performance begins.",
+    "summary_reasoning": "Calm tone, neutral expression, introduction."
+  },
+  {
+    "timestamp": 7.979,
+    "emotion": "anxious",
+    "detailed_reasoning": "The performance begins with a dramatic shift. The speaker's eyes widen, her facial expression becomes distressed, and her body tenses up. Her vocal tone immediately becomes high-pitched and frantic as she delivers the line, \"I can't find my cat.\" This combination of visual and auditory cues signals a sudden change to anxiety and panic.",
+    "summary_reasoning": "Wide eyes, frantic tone, distressed expression."
+  },
+  {
+    "timestamp": 12.934,
+    "emotion": "agitated",
+    "detailed_reasoning": "The emotion intensifies from anxiety to agitation. Her voice becomes louder and more forceful, with a sharp, almost aggressive edge on the words \"really frickin' like my cat, okay?\" Her facial expression is now one of intense frustration, and she makes sharp, emphatic hand gestures. This shows her defensiveness and growing agitation in response to an imagined dismissive comment.",
+    "summary_reasoning": "Forceful tone, frustrated expression, sharp gestures."
+  },
+  {
+    "timestamp": 23.644,
+    "emotion": "exasperated",
+    "detailed_reasoning": "The speaker's tone shifts to one of utter exhaustion mixed with frustration. As she lists the hardships she's endured (\"awake for 30 hours,\" \"horizontal sleet\"), her shoulders slump slightly and her speech pattern becomes a rushed, breathless rant. This conveys a sense of being overwhelmed and at the end of her rope, characteristic of exasperation.",
+    "summary_reasoning": "Exhausted tone, breathless speech, overwhelmed expression."
+  },
+  {
+    "timestamp": 36.856,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "There is a distinct shift in tone to sarcasm. When she says, \"So if you're saying that I'm... overreacting,\" her voice drips with derision, and she adopts a mocking facial expression. This is a clear pivot from expressing her own feelings to sarcastically mimicking and challenging the perceived judgment of the person she's talking to.",
+    "summary_reasoning": "Sarcastic tone, mocking expression, challenging words."
+  },
+  {
+    "timestamp": 42.535,
+    "emotion": "indignant",
+    "detailed_reasoning": "The sarcasm culminates in a final, powerful statement of indignation. Her delivery of \"excuse this hysterical female\" is sharp, bitter, and defiant. Her eyes are wide with anger, and her body language is tense and confrontational. She is no longer just being sarcastic; she is expressing outrage at being dismissed.",
+    "summary_reasoning": "Bitter tone, angry expression, defiant posture."
+  }
+]

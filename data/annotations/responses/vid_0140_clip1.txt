@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 5.323,
+    "emotion": "neutral",
+    "detailed_reasoning": "The speaker introduces a new series of videos. His tone is calm and his facial expression is neutral, indicating a straightforward and informative demeanor as he begins his explanation.",
+    "summary_reasoning": "Calm tone, neutral expression."
+  },
+  {
+    "timestamp": 13.281,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker is explaining the format of his new series. His tone remains even and his expression is neutral, suggesting he is focused on conveying information clearly to the audience.",
+    "summary_reasoning": "Even tone, neutral expression."
+  },
+  {
+    "timestamp": 17.98,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker continues to explain his motivation for the video series. His tone is steady and he maintains a neutral, direct-to-camera gaze, reinforcing his role as an informant.",
+    "summary_reasoning": "Steady tone, direct gaze."
+  },
+  {
+    "timestamp": 25.146,
+    "emotion": "helpful",
+    "detailed_reasoning": "The speaker suggests the video could be helpful for non-native English speakers. His tone becomes slightly softer and more considerate, and his expression is open, conveying a desire to assist the viewer.",
+    "summary_reasoning": "Softer tone, open expression."
+  },
+  {
+    "timestamp": 36.977,
+    "emotion": "advisory",
+    "detailed_reasoning": "The speaker shifts to giving advice to actors. His tone becomes more instructive, and he uses a subtle hand gesture for emphasis, adopting the role of a knowledgeable guide.",
+    "summary_reasoning": "Instructive tone, hand gesture."
+  },
+  {
+    "timestamp": 43.943,
+    "emotion": "advisory",
+    "detailed_reasoning": "The speaker continues his advice, emphasizing a point about not getting stuck. His head moves for emphasis and his tone remains firm and instructive, solidifying his advisory role.",
+    "summary_reasoning": "Emphatic head movement, firm tone."
+  },
+  {
+    "timestamp": 49.89,
+    "emotion": "neutral",
+    "detailed_reasoning": "The speaker transitions to introducing the first monologue. His tone becomes matter-of-fact, and his facial expression is neutral as he prepares to read the title, indicating a shift from giving advice to presenting content.",
+    "summary_reasoning": "Matter-of-fact tone, neutral expression."
+  },
+  {
+    "timestamp": 55.857,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker names the collection the monologues are from. His tone is purely informational, and his gaze is slightly upward as he recalls the title, concluding his introduction before starting the reading.",
+    "summary_reasoning": "Informational tone, upward gaze."
+  }
+]

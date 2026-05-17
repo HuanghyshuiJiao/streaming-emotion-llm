@@ -1,0 +1,10 @@
+videos_dir: data/raw/videos
+manifest: data/manifests/all_valid.jsonl
+output_dir: data/processed/features/siglip_large_384_2fps_1plus3x3
+vision_pretrained: google/siglip-large-patch16-384
+fps: 2.0
+resolution: 384
+frame_token_cls: true
+frame_token_pooled: [3, 3]
+batch_size: 4
+dtype: bf16

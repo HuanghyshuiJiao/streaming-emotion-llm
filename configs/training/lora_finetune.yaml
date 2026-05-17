@@ -1,0 +1,19 @@
+optimizer:
+  name: adamw
+  learning_rate: 2.0e-4
+  weight_decay: 0.0
+
+scheduler:
+  name: cosine
+  warmup_ratio: 0.03
+
+runtime:
+  precision: bf16
+  gradient_accumulation_steps: 8
+  max_grad_norm: 1.0
+  num_workers: 4
+
+logging:
+  log_every_steps: 20
+  save_every_steps: 1000
+  keep_last_checkpoints: 3

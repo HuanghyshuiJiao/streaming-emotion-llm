@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 1.335,
+    "emotion": "happy",
+    "detailed_reasoning": "The speaker begins her introduction with a slight, friendly smile as she states her name. Her tone is welcoming and open, indicating a positive and happy disposition as she addresses the audience.",
+    "summary_reasoning": "Friendly smile, welcoming tone."
+  },
+  {
+    "timestamp": 4.366,
+    "emotion": "neutral",
+    "detailed_reasoning": "After introducing the first piece, her smile fades and her expression becomes more neutral. Her tone is informative and straightforward as she lists the subsequent pieces she will perform, indicating a shift from a personal greeting to a more formal presentation.",
+    "summary_reasoning": "Smile fades, informative tone."
+  },
+  {
+    "timestamp": 28.651,
+    "emotion": "somber",
+    "detailed_reasoning": "The performance begins here. The actor's facial expression becomes serious and sorrowful. Her voice drops in pitch and slows in pace, adopting a melancholic and somber tone to match the opening line of the sonnet, especially the word 'slave'.",
+    "summary_reasoning": "Sorrowful expression, low and slow voice."
+  },
+  {
+    "timestamp": 37.409,
+    "emotion": "resigned",
+    "detailed_reasoning": "The actor's tone becomes softer and more defeated. Her facial expression conveys a sense of helplessness and resignation, particularly as she speaks the line 'I have no precious time at all to spend,' suggesting the character's acceptance of their powerless situation.",
+    "summary_reasoning": "Soft tone, helpless expression."
+  },
+  {
+    "timestamp": 44.644,
+    "emotion": "frustrated",
+    "detailed_reasoning": "There is a subtle shift in her voice, which gains a slight edge of restrained frustration on the word 'chide'. Her facial muscles tense slightly, suggesting an underlying anger or frustration that the character feels they are not allowed to express.",
+    "summary_reasoning": "Vocal edge, tense facial muscles."
+  },
+  {
+    "timestamp": 51.499,
+    "emotion": "devoted",
+    "detailed_reasoning": "Her tone softens dramatically and becomes reverent when she utters the word 'sovereign'. Her gaze lifts slightly, and her expression changes to one of adoration and complete devotion, highlighting the character's deep emotional attachment.",
+    "summary_reasoning": "Soft, reverent tone, adoring gaze."
+  }
+]

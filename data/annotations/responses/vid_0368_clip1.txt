@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": 19.71,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his address with a very composed demeanor. His tone is steady, formal, and his facial expression is neutral. He is delivering a standard, respectful opening to a commencement speech, indicating a calm and prepared state.",
+    "summary_reasoning": "Composed demeanor, steady formal tone."
+  },
+  {
+    "timestamp": 28.499,
+    "emotion": "candid",
+    "detailed_reasoning": "The speaker's tone shifts to be more confidential and personal with the phrase \"Truth be told.\" This signals a move away from the formal opening towards a more honest and direct admission, creating a sense of intimacy with the audience.",
+    "summary_reasoning": "Confidential tone, personal admission."
+  },
+  {
+    "timestamp": 34.962,
+    "emotion": "amused",
+    "detailed_reasoning": "Following his admission of not graduating, the speaker delivers a self-deprecating punchline. His tone becomes lighthearted, he has a clear, slight smile on his face, and his words elicit laughter from the audience, indicating he is sharing a moment of amusement.",
+    "summary_reasoning": "Self-deprecating joke, lighthearted tone, smiling."
+  },
+  {
+    "timestamp": 40.581,
+    "emotion": "focused",
+    "detailed_reasoning": "The speaker's tone shifts from humorous back to serious and direct. He clearly outlines the structure of his talk (\"Today, I want to tell you three stories\"). This transition indicates he is now focusing on the main purpose of his speech and guiding the audience's expectations.",
+    "summary_reasoning": "Serious direct tone, outlining speech."
+  }
+]

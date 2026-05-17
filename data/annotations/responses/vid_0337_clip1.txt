@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 4.558,
+    "emotion": "determined",
+    "detailed_reasoning": "The speaker's tone is low, steady, and deliberate. His facial expression is intense and focused, with his eyes fixed on the viewer. This combination of a measured vocal delivery and a piercing gaze suggests a strong, underlying determination towards his goal, which is 'the crown'.",
+    "summary_reasoning": "Steady tone, intense gaze."
+  },
+  {
+    "timestamp": 10.467,
+    "emotion": "cynical",
+    "detailed_reasoning": "While maintaining a determined undertone, the speaker's voice drips with disdain as he pronounces the word 'hell'. His facial expression remains serious and intense, but the vocal shift introduces a cynical and bitter perspective on the world he must endure to achieve his goal.",
+    "summary_reasoning": "Disdainful tone."
+  },
+  {
+    "timestamp": 19.661,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker's tone shifts to one of contemplation mixed with clear frustration. He explicitly states his uncertainty ('I know not how to get the crown') and lists the obstacles ('many lives'). His brow is slightly furrowed, and his expression conveys the weight of this challenge, moving from pure determination to a more troubled and frustrated state.",
+    "summary_reasoning": "Troubled tone, furrowed brow."
+  },
+  {
+    "timestamp": 32.741,
+    "emotion": "tormented",
+    "detailed_reasoning": "The speaker's voice becomes more descriptive and pained as he delivers the metaphor of being lost in a 'thorny wood'. His expression is one of suffering and introspection, and his tone carries a sense of being trapped and in agony. This shows his internal struggle and the torment he feels.",
+    "summary_reasoning": "Pained tone, suffering expression."
+  },
+  {
+    "timestamp": 43.436,
+    "emotion": "desperate",
+    "detailed_reasoning": "The speaker's vocal intensity begins to rise, and his pace quickens slightly. The words 'toiling desperately' and 'torment myself' are delivered with increased force and a raw, desperate edge. His facial muscles are tense, and his eyes are wide, signaling that his torment is escalating into active, desperate action.",
+    "summary_reasoning": "Rising vocal intensity, tense face."
+  },
+  {
+    "timestamp": 50.406,
+    "emotion": "ruthless",
+    "detailed_reasoning": "A dramatic shift occurs. The desperation transforms into a cold, violent resolve. His voice becomes sharp and aggressive on the words 'hew my way out with a bloody axe.' His expression hardens, his jaw clenches, and his eyes show a furious, unwavering, and ruthless commitment to violence.",
+    "summary_reasoning": "Aggressive tone, hardened expression."
+  },
+  {
+    "timestamp": 59.147,
+    "emotion": "malevolent",
+    "detailed_reasoning": "After a pause, the speaker's entire demeanor changes. The overt anger is replaced by a chilling, subtle smile. His voice becomes deceptively soft and conversational as he says he can 'murder while I smile.' This juxtaposition of a pleasant expression with horrific intent reveals a deep-seated, malevolent nature.",
+    "summary_reasoning": "Chilling smile, soft tone."
+  }
+]

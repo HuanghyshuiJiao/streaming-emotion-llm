@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 1.113,
+    "emotion": "angry",
+    "detailed_reasoning": "The speaker's eyebrows are furrowed and her facial expression is pained. Her tone of voice is sharp and accusatory as she explicitly states, 'I'm angry at you.' This combination of visual and verbal cues clearly indicates anger and hurt.",
+    "summary_reasoning": "Furrowed eyebrows, sharp tone, explicit words."
+  },
+  {
+    "timestamp": 9.225,
+    "emotion": "sad",
+    "detailed_reasoning": "After a long pause with a sorrowful expression, the speaker's tone shifts to one of weary self-reproach. Her gaze is downcast as she says, 'I need to stop feeling sorry for myself,' indicating sadness and internal struggle.",
+    "summary_reasoning": "Sorrowful expression, weary tone, downcast gaze."
+  },
+  {
+    "timestamp": 12.31,
+    "emotion": "self-pitying",
+    "detailed_reasoning": "The speaker closes her eyes and her voice takes on a drawn-out, almost moaning quality as she repeats 'Me, me, me.' This delivery, combined with the context of feeling sorry for herself, strongly suggests a feeling of self-pity.",
+    "summary_reasoning": "Eyes closed, moaning tone, repetitive words."
+  },
+  {
+    "timestamp": 19.181,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "There is a distinct shift in demeanor. The speaker opens her eyes and a small, bitter smile appears as she says 'Yes.' The tone becomes lighter but laced with irony, indicating that her subsequent statement, 'it's all about me,' is meant sarcastically.",
+    "summary_reasoning": "Bitter smile, ironic tone."
+  },
+  {
+    "timestamp": 24.308,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "Continuing the previous sarcastic mode, the speaker's tone becomes mock-pleading and slightly whiny. Her facial expression is exaggerated as she says 'I want you to drop everything and focus on me,' making it clear she does not genuinely mean this but is mocking the idea.",
+    "summary_reasoning": "Mock-pleading tone, exaggerated expression."
+  },
+  {
+    "timestamp": 32.939,
+    "emotion": "regretful",
+    "detailed_reasoning": "The sarcasm vanishes, and her expression becomes downcast and pained again. Her voice is soft and filled with remorse as she says, 'I'm sorry I even came out of my room.' The shift in tone and facial expression points to genuine regret.",
+    "summary_reasoning": "Downcast expression, soft remorseful tone."
+  },
+  {
+    "timestamp": 40.043,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "The speaker's entire demeanor shifts back to sarcasm. Her tone becomes cynical and dismissive as she says, 'Oh, yeah.' She follows this with a completely unbelievable suggestion that tea would 'instantly cure' her, confirming the sarcastic intent.",
+    "summary_reasoning": "Cynical tone, dismissive expression, unbelievable statement."
+  },
+  {
+    "timestamp": 50.036,
+    "emotion": "cynical",
+    "detailed_reasoning": "Building on the sarcasm, her tone darkens as she says 'Maybe...' and suggests putting a 'drug' in the tea. This extreme and dark suggestion indicates a deep level of cynicism and a belief that her problems cannot be easily solved.",
+    "summary_reasoning": "Dark tone, extreme suggestion."
+  }
+]

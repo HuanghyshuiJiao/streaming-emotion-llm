@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 6.279,
+    "emotion": "dramatic",
+    "detailed_reasoning": "The speaker's tone is highly performative and emotional. He raises his hands, tilts his head back, and closes his eyes as he says the word \"over,\" stretching it out. This dramatic delivery conveys a sense of deep, theatrical feeling, almost like an exclamation of sorrow or reverence.",
+    "summary_reasoning": "Performative tone, raised hands, closed eyes."
+  },
+  {
+    "timestamp": 9.544,
+    "emotion": "sad",
+    "detailed_reasoning": "After the dramatic peak, the speaker's demeanor completely shifts. He lowers his head, his voice becomes quiet and strained, and his facial expression is pained as he describes a \"little girl.\" This sharp contrast from the previous moment indicates a shift to a profound and personal sadness.",
+    "summary_reasoning": "Lowered head, quiet strained voice, pained expression."
+  },
+  {
+    "timestamp": 16.273,
+    "emotion": "solemn",
+    "detailed_reasoning": "The speaker's voice gains a bit of strength but remains low and serious. He looks down as if in deep thought or prayer. The use of the word \"God\" and the phrase \"I know exactly\" is delivered with a weight that suggests a solemn, heartfelt realization emerging from his sadness.",
+    "summary_reasoning": "Serious low tone, downward gaze, weighted words."
+  },
+  {
+    "timestamp": 25.465,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker's tone becomes softer and more declarative. He opens up his posture and gestures with his hands, moving from introspection to sharing his definition of love. His facial expression relaxes slightly, indicating a shift from solemnity to a calm, simple state of belief.",
+    "summary_reasoning": "Softer declarative tone, open posture, relaxed face."
+  },
+  {
+    "timestamp": 35.411,
+    "emotion": "tender",
+    "detailed_reasoning": "When describing the feeling of being held, the speaker's voice becomes very soft and his hands come to his chest. His gaze shifts as if recalling a specific, cherished memory. This combination of gentle vocal delivery and self-soothing body language conveys a deep sense of tenderness and affection.",
+    "summary_reasoning": "Soft voice, hands on chest, reminiscent gaze."
+  },
+  {
+    "timestamp": 40.798,
+    "emotion": "serene",
+    "detailed_reasoning": "Following the tender memory, the speaker's voice remains soft and he looks upwards with a peaceful expression. The repetition of the core message \"love is real simple\" is delivered with a sense of quiet conviction and inner peace, indicating a serene emotional state.",
+    "summary_reasoning": "Soft voice, upward gaze, peaceful expression."
+  },
+  {
+    "timestamp": 51.292,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker's delivery of \"Love is real simple\" gains intensity here. His voice becomes louder and more forceful, and his gestures become more expansive. This renewed energy suggests that his serene belief is now being expressed with a surge of passion and conviction for the audience.",
+    "summary_reasoning": "Louder forceful voice, expansive gestures, intense delivery."
+  }
+]

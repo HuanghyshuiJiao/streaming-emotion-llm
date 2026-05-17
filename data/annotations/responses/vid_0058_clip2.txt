@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 1.373,
+    "emotion": "neutral",
+    "detailed_reasoning": "The speaker begins his story with a neutral facial expression and a calm, even tone. He is setting the scene in a straightforward, narrative manner without any strong emotional indicators.",
+    "summary_reasoning": "Neutral face, calm tone."
+  },
+  {
+    "timestamp": 5.039,
+    "emotion": "amused",
+    "detailed_reasoning": "As he describes the situation escalating, his eyes widen slightly and his tone shifts to one of slight disbelief and amusement. He finds the turn of events—the mood being ruined—to be somewhat comical, which is reflected in his subtly animated facial expression.",
+    "summary_reasoning": "Widened eyes, amused tone."
+  },
+  {
+    "timestamp": 10.268,
+    "emotion": "exasperated",
+    "detailed_reasoning": "The speaker's tone becomes flatter and his facial expression shifts to show exasperation. The slight grimace and the direct, slightly burdened way he says he's 'left with Chuck' indicates a feeling of being stuck in an annoying situation.",
+    "summary_reasoning": "Flat tone, slight grimace."
+  },
+  {
+    "timestamp": 12.191,
+    "emotion": "disgusted",
+    "detailed_reasoning": "The speaker's face scrunches up in clear disgust as he describes Chuck as 'blubbering' and 'whining.' His lip curls, and his tone is filled with contempt for the character, marking a sharp shift to a strong negative emotion.",
+    "summary_reasoning": "Scrunched face, contemptuous tone."
+  },
+  {
+    "timestamp": 16.197,
+    "emotion": "cynical",
+    "detailed_reasoning": "While still narrating, the speaker's tone takes on a darker, more cynical edge as he describes Chuck's self-pity and suicidal thoughts. His expression is less about disgust and more about a grim, detached amusement at the dark turn of the story.",
+    "summary_reasoning": "Dark tone, detached amusement."
+  },
+  {
+    "timestamp": 21.326,
+    "emotion": "gleeful",
+    "detailed_reasoning": "There is a dramatic shift in emotion as the speaker recalls his internal reaction. His face breaks into a wide, manic grin, his eyes squint with delight, and his voice raises in pitch to an excited 'yes!'. This shows he found the dark thought incredibly amusing and exciting.",
+    "summary_reasoning": "Wide grin, excited tone."
+  },
+  {
+    "timestamp": 26.374,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker's energy completely drops. His gleeful expression vanishes, replaced by a neutral, almost flat look. His voice becomes low and steady as he says 'But I don't say that,' indicating a return to a controlled, narrative state after the peak of excitement.",
+    "summary_reasoning": "Neutral expression, low and steady voice."
+  },
+  {
+    "timestamp": 29.139,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "He adopts a falsely comforting and patronizing tone. His slight, insincere smile, and the way he says 'buddy,' indicates that his words of encouragement are not genuine. The context of his previous gleeful thought makes his feigned kindness clearly sarcastic.",
+    "summary_reasoning": "Insincere smile, patronizing tone."
+  },
+  {
+    "timestamp": 39.281,
+    "emotion": "deadpan",
+    "detailed_reasoning": "His expression becomes neutral and his delivery flattens into a deadpan, observational tone as he says, 'He looked heavy.' This shift serves as a comedic setup, removing the sarcasm to deliver a seemingly factual statement before the punchline.",
+    "summary_reasoning": "Neutral expression, flat delivery."
+  },
+  {
+    "timestamp": 41.009,
+    "emotion": "shocked",
+    "detailed_reasoning": "For the punchline, the speaker's eyes widen dramatically and his eyebrows raise in a performance of mock surprise. His tone is one of feigned disbelief and innocence, comically contrasting with the reality that he pushed the character.",
+    "summary_reasoning": "Widened eyes, raised eyebrows, feigned disbelief tone."
+  }
+]

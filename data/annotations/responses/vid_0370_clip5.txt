@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 4.639,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker begins by describing a scene of hopelessness. His words, \"The clouds just seemed to be over his room\" and \"a room of despair,\" set a somber tone. Visually, his hands are held up as if to frame a small, oppressive space, reinforcing the feeling of being trapped. His facial expression is serious and his voice is low and heavy, conveying a sense of sadness for the person he is describing.",
+    "summary_reasoning": "Sad words, somber tone, heavy body language."
+  },
+  {
+    "timestamp": 8.706,
+    "emotion": "wistful",
+    "detailed_reasoning": "The speaker shifts to a hypothetical scenario about \"Mr. Bishop\" wanting to turn back time. The mention of giving up his \"whole life savings\" adds a layer of desperation and regret to the narrative. The speaker's tone becomes slightly more reflective and his gaze is directed upwards, suggesting a contemplation of past events and lost opportunities. The emotion is one of wistful regret.",
+    "summary_reasoning": "Regretful words, reflective tone, upward gaze."
+  },
+  {
+    "timestamp": 16.419,
+    "emotion": "compassionate",
+    "detailed_reasoning": "The reason for wanting to go back in time is revealed to be spreading love and help. The speaker's voice softens as he says \"I love you's and can I help you's.\" This change in vocal quality, combined with the altruistic nature of the words, shifts the emotion from mere regret to a deeper sense of compassion for the character's unrealized kindness.",
+    "summary_reasoning": "Soft tone, kind words."
+  },
+  {
+    "timestamp": 18.162,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker delivers the line \"But it was too late\" with a definitive and melancholic finality. His pace slows, his tone drops, and his facial expression reflects the gravity of the statement. This marks a return to a somber, sad emotion, emphasizing the hopelessness of the situation he just described.",
+    "summary_reasoning": "Final tone, slow pace, sad expression."
+  },
+  {
+    "timestamp": 26.055,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker physically and verbally shifts the narrative. He gestures to the other side of the stage and introduces a new person, \"Maddie Campbell.\" His tone becomes more neutral and narrative, moving away from the heavy sadness of the previous story. This transition acts as a reset, bringing the emotional state to a calmer, more neutral baseline as he begins a new anecdote.",
+    "summary_reasoning": "Topic shift, neutral tone, physical gesture."
+  },
+  {
+    "timestamp": 33.427,
+    "emotion": "impressed",
+    "detailed_reasoning": "The speaker provides context for Maddie's life, emphasizing that she was born in the 1890s. His tone is filled with a sense of wonder and his facial expression is animated. He is not just stating a fact; he is conveying the impressiveness of her longevity and the historical distance of her origins, showing admiration for her.",
+    "summary_reasoning": "Wonder in voice, animated expression, impressive facts."
+  },
+  {
+    "timestamp": 40.155,
+    "emotion": "respectful",
+    "detailed_reasoning": "The speaker emphasizes the extreme difficulty of Maddie's upbringing by using strong, negative words like \"coldest, harshest, most challenging.\" However, his tone is not one of pity but of deep respect for the resilience required to survive such conditions. His voice is firm and deliberate, underscoring the severity of the environment and his admiration for her strength.",
+    "summary_reasoning": "Strong words, firm tone, emphasizing hardship."
+  },
+  {
+    "timestamp": 52.209,
+    "emotion": "appreciative",
+    "detailed_reasoning": "The speaker explains that Maddie's survival depended on two key things: \"moose meat and the kindness of neighbors.\" While the first is practical, the second introduces a warm, human element. The speaker's tone softens when he mentions \"kindness,\" indicating an appreciation for the community and support that enabled her to endure, shifting from respect for her strength to appreciation for her community.",
+    "summary_reasoning": "Soft tone, warm words, focus on community."
+  },
+  {
+    "timestamp": 58.54,
+    "emotion": "admiring",
+    "detailed_reasoning": "The speaker concludes the description of Maddie by listing her core qualities: \"compassion, and kindness and generosity of spirit.\" His voice is filled with warmth and clear admiration. His delivery is gentle and heartfelt, and his facial expression is soft. This is the emotional peak of his description, summarizing her life with a profound sense of admiration and respect.",
+    "summary_reasoning": "Warm tone, admiring words, soft facial expression."
+  }
+]

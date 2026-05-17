@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 5.198,
+    "emotion": "concerned",
+    "detailed_reasoning": "The speaker begins her talk by presenting a somber statistic about the life expectancy of autistic people. Her tone is serious and her facial expression is grave and focused, without any hint of a smile. This combination of verbal content, vocal tone, and facial expression indicates a deep sense of concern for the topic she is introducing.",
+    "summary_reasoning": "Serious tone, grave expression, somber statistic."
+  },
+  {
+    "timestamp": 8.282,
+    "emotion": "somber",
+    "detailed_reasoning": "Continuing from the previous point, the speaker adds another tragic fact: that the leading cause of death is suicide. Her voice remains low-pitched and steady, but carries a heavy, somber quality. Her facial expression is pained and serious, reinforcing the gravity of the statement. The overall mood is one of sadness and seriousness.",
+    "summary_reasoning": "Low-pitched voice, pained expression, tragic content."
+  },
+  {
+    "timestamp": 14.67,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker transitions from general statistics to her personal story, stating, 'At the age of 35, I discovered my unique voice.' Her tone softens and becomes more personal and introspective. The camera pulls back to a wider shot, showing her in a wheelchair, which adds to the personal context. This shift from a factual to a personal narrative indicates a moment of reflection.",
+    "summary_reasoning": "Softened tone, personal narrative shift."
+  },
+  {
+    "timestamp": 18.074,
+    "emotion": "calm",
+    "detailed_reasoning": "When she reveals her diagnosis, 'I discovered I was autistic,' her delivery is very direct and matter-of-fact. Her tone is calm and her facial expression is neutral but firm. She is stating a core part of her identity without emotional fanfare, but with a sense of clarity and self-awareness, indicating a state of calm acceptance.",
+    "summary_reasoning": "Direct tone, neutral expression, factual statement."
+  },
+  {
+    "timestamp": 21.639,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker's emotion shifts as she discusses society's role. Her tone becomes more forceful and critical when she says society is 'stifling the voices of autistic people.' Her eyebrows furrow slightly, and there's a visible tension in her expression, suggesting frustration with the societal barriers faced by autistic individuals.",
+    "summary_reasoning": "Forceful tone, furrowed brows, critical words."
+  },
+  {
+    "timestamp": 27.316,
+    "emotion": "impassioned",
+    "detailed_reasoning": "The speaker's tone becomes more impassioned and pleading as she begins her call to action, 'We need to allow our children to be their true selves.' Her voice carries a strong sense of conviction and urgency. Her facial expression is earnest, and she is speaking from a place of deep belief, trying to persuade the audience.",
+    "summary_reasoning": "Pleading tone, earnest expression, call to action."
+  },
+  {
+    "timestamp": 35.747,
+    "emotion": "determined",
+    "detailed_reasoning": "Continuing her call to action, the speaker's voice becomes very firm and determined. She uses repetitive phrases like 'we need to stop' to emphasize her points about how autistic children should be treated. Her direct eye contact and emphatic head nods underscore her resolve and determination to see change.",
+    "summary_reasoning": "Firm voice, repetitive emphasis, direct eye contact."
+  },
+  {
+    "timestamp": 44.178,
+    "emotion": "critical",
+    "detailed_reasoning": "The speaker's tone shifts to one of criticism when she says, 'We need to stop forcing out behaviors we don't understand.' The emphasis on the word 'forcing' and her stern expression clearly convey her disapproval of suppressing autistic behaviors. This is a direct critique of societal norms and interventions.",
+    "summary_reasoning": "Critical tone, stern expression, emphasis on 'forcing'."
+  },
+  {
+    "timestamp": 49.585,
+    "emotion": "hopeful",
+    "detailed_reasoning": "There is a distinct shift in emotion as the speaker offers a positive alternative. Her voice becomes warmer and more encouraging as she talks about encouraging 'special interests and their unique skills.' A gentle smile appears on her face, and her entire demeanor softens, conveying a sense of hope and positivity for the future.",
+    "summary_reasoning": "Warm tone, gentle smile, positive language."
+  },
+  {
+    "timestamp": 54.792,
+    "emotion": "proud",
+    "detailed_reasoning": "In her concluding statement, 'I am autistic,' the speaker's voice is firm, clear, and filled with pride. She looks directly at the audience with a confident smile. Her posture is assured. This final declaration is a powerful statement of self-acceptance and identity, delivered with undeniable pride.",
+    "summary_reasoning": "Firm voice, confident smile, direct gaze."
+  }
+]

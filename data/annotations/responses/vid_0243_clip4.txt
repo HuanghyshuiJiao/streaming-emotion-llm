@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 3.398,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker starts her presentation with a very steady and measured tone of voice. Her facial expression is neutral and focused, and her posture is relaxed in her wheelchair. She is introducing a concept, 'executive function,' in an informative and composed manner, establishing a calm and educational atmosphere.",
+    "summary_reasoning": "Steady tone, neutral expression, informative content."
+  },
+  {
+    "timestamp": 10.411,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker transitions from defining a neutral term to describing the challenges faced by an autistic person with poor executive function. Her tone remains calm and steady, but the content about struggle and difficulty lends a more serious and empathetic quality to her delivery. Her facial expression remains focused and she maintains a consistent, deliberate pace.",
+    "summary_reasoning": "Serious topic, empathetic tone, steady pace."
+  },
+  {
+    "timestamp": 21.156,
+    "emotion": "neutral",
+    "detailed_reasoning": "After discussing the difficulties of executive function, the speaker moves on to a new topic, 'repetitive behaviors.' Her tone shifts back to a purely informative and neutral state. She is simply introducing the next point in her presentation, and her voice and expression do not carry the previous weight of seriousness.",
+    "summary_reasoning": "Informative tone, topic transition, neutral expression."
+  },
+  {
+    "timestamp": 31.687,
+    "emotion": "engaged",
+    "detailed_reasoning": "The speaker shifts from giving a general, cliché example about autism ('loves trains') to sharing a personal special interest ('the TV show Friends'). This transition is marked by a slight smile and a more personal, warmer tone. Her speech becomes slightly more animated as she is now sharing something about herself, indicating personal engagement with the topic.",
+    "summary_reasoning": "Personal anecdote, slight smile, warmer tone."
+  },
+  {
+    "timestamp": 36.312,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker's engagement deepens as she quantifies her interest ('every single night for 15 years'). Her speaking pace accelerates slightly, and her tone becomes more emphatic and confident. This demonstrates a clear passion for her special interest, moving beyond simple engagement to a more intense and enthusiastic emotional state.",
+    "summary_reasoning": "Faster pace, confident tone, personal detail."
+  },
+  {
+    "timestamp": 46.142,
+    "emotion": "calm",
+    "detailed_reasoning": "After speaking passionately about her personal interest, the speaker uses the word 'finally' to transition to her last point, 'stimming.' Her pace slows down, her tone becomes more measured, and her expression returns to the neutral, informative state from the beginning of the talk. This signals a return to a calm, educational demeanor.",
+    "summary_reasoning": "Topic transition, slower pace, informative tone."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1.393,
+    "emotion": "enthusiastic",
+    "detailed_reasoning": "The speaker introduces himself with a friendly and open expression. His tone is upbeat and his body language is relaxed as he announces his participation in the monologue contest, conveying a sense of genuine enthusiasm.",
+    "summary_reasoning": "Upbeat tone, open expression."
+  },
+  {
+    "timestamp": 8.203,
+    "emotion": "focused",
+    "detailed_reasoning": "The speaker's tone becomes more direct and his gaze shifts slightly as he mentally prepares to begin his monologue. He explicitly states he has it memorized, indicating a shift from a casual introduction to a state of concentration for his performance.",
+    "summary_reasoning": "Direct tone, focused gaze."
+  },
+  {
+    "timestamp": 18.538,
+    "emotion": "nervous",
+    "detailed_reasoning": "After a long pause, the speaker's eyes are darting and looking upward as if trying to recall his lines. This prolonged silence combined with the visual cues of searching for the words indicates he is nervous and struggling to remember the monologue.",
+    "summary_reasoning": "Long pause, darting eyes."
+  },
+  {
+    "timestamp": 25.468,
+    "emotion": "confused",
+    "detailed_reasoning": "The speaker trails off mid-sentence and explicitly says, 'Wait, what?', confirming his confusion. His facial expression shows a mix of forgetfulness and disorientation, as he has clearly lost his place in the monologue.",
+    "summary_reasoning": "Says 'Wait, what?', confused expression."
+  },
+  {
+    "timestamp": 30.315,
+    "emotion": "frustrated",
+    "detailed_reasoning": "After another failed attempt at the line, the speaker says, 'That ain't it. It's not,' in a self-critical tone. His expression tightens slightly, and the quick, clipped nature of his words shows clear frustration with his inability to remember the line correctly.",
+    "summary_reasoning": "Self-critical tone, tight expression."
+  },
+  {
+    "timestamp": 32.54,
+    "emotion": "determined",
+    "detailed_reasoning": "The speaker takes a breath and says, 'Here we go. Okay,' in a tone of self-encouragement. Despite his previous failures, this verbal cue and his attempt to reset his posture show a clear determination to get the monologue right.",
+    "summary_reasoning": "Self-encouraging tone, resets posture."
+  },
+  {
+    "timestamp": 40.559,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker breaks character, looking at the camera with a slightly exasperated but humorous expression. He questions the content of the monologue itself ('Why is she harming me?'), finding humor in his own struggle and the absurdity of the line, which indicates amusement.",
+    "summary_reasoning": "Breaks character, humorous expression, questions the line."
+  },
+  {
+    "timestamp": 43.445,
+    "emotion": "confident",
+    "detailed_reasoning": "Having just broken the tension with a moment of humor, the speaker delivers the line again. This time, his voice is clearer and more forceful, and his facial expression is more composed, suggesting a newfound confidence after overcoming his mental block.",
+    "summary_reasoning": "Clearer voice, composed expression."
+  },
+  {
+    "timestamp": 54.542,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker delivers the final lines of the monologue with a slight smile and a knowing look. The content itself is a punchline ('but I deserved it'), and his delivery is lighthearted and self-deprecating, ending the performance on an amused and charming note.",
+    "summary_reasoning": "Slight smile, lighthearted tone, delivers punchline."
+  }
+]

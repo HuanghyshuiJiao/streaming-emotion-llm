@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1.914,
+    "emotion": "serious",
+    "detailed_reasoning": "The video begins with the on-screen title 'MICHAEL CAINE'. The speaker's tone is low, measured, and grave. His facial expression is neutral and focused, and his posture is still. He is reciting a somber line from Shakespeare's Macbeth, and his entire demeanor reflects the serious and tragic nature of the text.",
+    "summary_reasoning": "Low grave tone, neutral expression, reciting tragic text."
+  },
+  {
+    "timestamp": 8.163,
+    "emotion": "authoritative",
+    "detailed_reasoning": "The on-screen text changes to 'IAN MCKELLEN', signaling a change in persona. The speaker's voice becomes more resonant and declarative, adopting a formal and slightly more theatrical cadence. He is delivering a line of advice from Hamlet, and his tone shifts from somber to wise and authoritative, as if imparting important knowledge.",
+    "summary_reasoning": "Resonant declarative tone, formal cadence, change in persona."
+  },
+  {
+    "timestamp": 13.471,
+    "emotion": "playful",
+    "detailed_reasoning": "A dramatic shift occurs as the text changes to 'BILL COSBY'. The speaker's face breaks into a wide, exaggerated grin, and his head begins to move in a loose, wobbly manner. His voice completely changes to a high-pitched, sing-song, and jocular tone, mimicking the comedian's style. The combination of the goofy expression, characteristic head movement, and comedic voice indicates a playful and humorous mood.",
+    "summary_reasoning": "Wide grin, head wobble, high-pitched jocular tone."
+  },
+  {
+    "timestamp": 21.022,
+    "emotion": "serious",
+    "detailed_reasoning": "The text switches back to 'IAN MCKELLEN'. Instantly, the speaker's playful smile disappears, and his expression becomes stern and focused again. His voice drops back to the formal, authoritative tone from the previous McKellen impression. This abrupt return to a serious demeanor marks a clear emotional shift.",
+    "summary_reasoning": "Smile disappears, stern expression, formal tone."
+  },
+  {
+    "timestamp": 27.09,
+    "emotion": "cheerful",
+    "detailed_reasoning": "The persona changes to 'ELMO'. The speaker's voice immediately jumps to an extremely high-pitched, falsetto, and breathy tone, accurately mimicking the character. His facial expression becomes wide-eyed and happy. The cheerful, childlike vocal delivery creates a strong sense of innocent joy, which contrasts humorously with the serious quote he is reciting.",
+    "summary_reasoning": "Extreme high-pitched falsetto, wide-eyed expression, childlike tone."
+  },
+  {
+    "timestamp": 28.553,
+    "emotion": "amused",
+    "detailed_reasoning": "After finishing the Elmo line, the speaker breaks character and lets out a high-pitched laugh. His face shows genuine amusement at his own performance. This is a clear and explicit expression of mirth.",
+    "summary_reasoning": "Vocalized laughter, smiling face, breaking character."
+  },
+  {
+    "timestamp": 30.98,
+    "emotion": "contemplative",
+    "detailed_reasoning": "The persona reverts to 'IAN MCKELLEN'. The speaker's expression becomes neutral and his voice returns to a lower, measured, and serious tone. He delivers lines that are somewhat absurd ('You are a reindeer') but with the gravitas of a dramatic monologue. This juxtaposition creates a thoughtful and contemplative mood.",
+    "summary_reasoning": "Neutral expression, serious tone, dramatic delivery."
+  },
+  {
+    "timestamp": 43.043,
+    "emotion": "inquisitive",
+    "detailed_reasoning": "The on-screen text changes to 'CHRISTOPHER WALKEN'. The speaker's vocal delivery immediately shifts to a halting, staccato rhythm with distinctive, unpredictable pauses and rising inflections. The content of the lines are questions ('Why would they not let me play?'), and this unique, hesitant yet pointed delivery style gives the impression of a curious or inquisitive state of mind.",
+    "summary_reasoning": "Halting rhythm, unusual pauses, rising inflections, questioning text."
+  },
+  {
+    "timestamp": 51.839,
+    "emotion": "passionate",
+    "detailed_reasoning": "Switching back to 'IAN MCKELLEN' for the final time, the speaker recites a powerful and famous monologue from 'The Merchant of Venice'. The quirky, halting rhythm of the previous impression is gone, replaced by a smooth, emotionally charged, and escalating tone. His voice gains intensity and volume, and his facial expression is focused and stern, conveying the passion and indignation of the character's plea.",
+    "summary_reasoning": "Emotionally charged tone, escalating intensity, focused expression."
+  }
+]

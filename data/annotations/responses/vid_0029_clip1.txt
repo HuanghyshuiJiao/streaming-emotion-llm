@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 4.558,
+    "emotion": "friendly",
+    "detailed_reasoning": "The speaker introduces herself with a warm and welcoming tone. She has a gentle smile and open body language, making direct eye contact with the camera. Her speech is paced in a friendly, conversational manner.",
+    "summary_reasoning": "Warm tone, smile, open body language."
+  },
+  {
+    "timestamp": 8.464,
+    "emotion": "engaging",
+    "detailed_reasoning": "She introduces the lesson's topic, \"breathing,\" with a slightly more focused and instructive tone. Her expression remains pleasant, and her direct eye contact is maintained to keep the viewer engaged with the upcoming lesson.",
+    "summary_reasoning": "Instructive tone, pleasant expression, direct eye contact."
+  },
+  {
+    "timestamp": 18.199,
+    "emotion": "encouraging",
+    "detailed_reasoning": "The speaker explains the benefit of the exercise – to relax before an audition. Her tone is supportive and encouraging, and she uses gentle, open hand gestures. Her facial expression is soft and reassuring, aiming to build the viewer's confidence.",
+    "summary_reasoning": "Supportive tone, gentle hand gestures, reassuring expression."
+  },
+  {
+    "timestamp": 26.832,
+    "emotion": "informative",
+    "detailed_reasoning": "Her tone becomes more instructional as she explains the core concept of the exercise, using the analogy of an accordion. Her expression is focused, and her hands begin to move towards her torso to demonstrate, indicating a shift from encouragement to direct instruction.",
+    "summary_reasoning": "Instructional tone, focused expression, preparatory gestures."
+  },
+  {
+    "timestamp": 37.469,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker's voice becomes very soft and calm as she guides the viewer through the initial breathing action. Her demonstration is slow and deliberate, and her entire demeanor is designed to be soothing and easy to follow, modeling the state she wants the viewer to achieve.",
+    "summary_reasoning": "Soft voice, slow pace, soothing demeanor."
+  },
+  {
+    "timestamp": 47.581,
+    "emotion": "cautionary",
+    "detailed_reasoning": "Her tone shifts to be more serious and slightly cautionary as she describes the wrong way to breathe. She gestures to her upper chest to emphasize the area of \"nervous, shallow breathing,\" and her facial expression becomes more stern to highlight this common mistake.",
+    "summary_reasoning": "Serious tone, stern expression, specific cautionary gesture."
+  },
+  {
+    "timestamp": 58.27,
+    "emotion": "focused",
+    "detailed_reasoning": "Returning to the correct method, her tone becomes focused and direct. She reiterates the instruction to place hands on the rib cage and ends the clip by saying \"here's the real technique,\" creating a sense of anticipation and focus for the next step.",
+    "summary_reasoning": "Direct tone, clear instruction, creates anticipation."
+  }
+]

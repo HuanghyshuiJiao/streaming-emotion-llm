@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 3.515,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker is delivering a serious piece of information, her bipolar diagnosis. Her tone is measured and factual, her facial expression is neutral and serious, and the content itself is weighty. This combination indicates a serious and somber mood.",
+    "summary_reasoning": "Serious content, measured tone, neutral expression."
+  },
+  {
+    "timestamp": 6.899,
+    "emotion": "skeptical",
+    "detailed_reasoning": "The speaker explicitly states, \"which I didn't believe.\" While her tone remains calm and her facial expression doesn't change dramatically, the words themselves convey a clear sense of disbelief and skepticism about the diagnosis she just received. The primary cue is the transcription content.",
+    "summary_reasoning": "Explicit statement of disbelief."
+  },
+  {
+    "timestamp": 16.871,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker begins listing the symptoms of her condition. Her tone is still narrative and calm, but the act of reciting this personal list of behaviors feels introspective. She is recounting the moment she started to see herself in the diagnosis, suggesting a state of reflection.",
+    "summary_reasoning": "Narrative tone, listing personal symptoms."
+  },
+  {
+    "timestamp": 34.331,
+    "emotion": "shocked",
+    "detailed_reasoning": "The speaker's emotional state shifts dramatically here. She uses the powerful phrase \"like a gut punch\" and her voice softens and becomes more intense. Her eyes close briefly and her facial expression conveys a deep internal impact, reflecting the shock and pain of this realization.",
+    "summary_reasoning": "Intense language, pained expression, softer voice."
+  },
+  {
+    "timestamp": 42.228,
+    "emotion": "accepting",
+    "detailed_reasoning": "Following the moment of shock, the speaker's tone becomes firm and resolute as she says, \"I just knew it was true.\" Her expression changes from one of pain to one of resigned certainty. This marks a shift from the initial shock to an acceptance of her reality.",
+    "summary_reasoning": "Firm tone, resolute expression, words of certainty."
+  },
+  {
+    "timestamp": 49.744,
+    "emotion": "intrigued",
+    "detailed_reasoning": "The speaker's mood lightens considerably. She identifies herself as an artist and admits that a part of her was \"intrigued.\" Her tone becomes lighter, and a slight, wry smile appears on her face, suggesting she is finding a new, almost curious perspective on her diagnosis.",
+    "summary_reasoning": "Lighter tone, wry smile, use of the word \"intrigued\"."
+  },
+  {
+    "timestamp": 53.612,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker ends with the phrase \"crazy artist,\" delivered with a clear smile and a light, almost playful tone. Her body language is relaxed. This final moment shows her finding humor and a sense of identity in the situation, indicating amusement with the stereotype.",
+    "summary_reasoning": "Smiling, lighthearted tone, playful words."
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 6.498,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins his poem with a calm, measured tone and a serious facial expression. He is reading from his phone, which indicates a prepared piece. The content itself, discussing the \"deconstruction of a man,\" sets a serious and contemplative mood right from the start. His body language is still, focusing the audience's attention on his words.",
+    "summary_reasoning": "Calm tone, serious expression, heavy topic."
+  },
+  {
+    "timestamp": 18.151,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker's tone becomes more somber and his pace slows as he delivers the line, \"The breaking of a boy is the world's quietest natural disaster.\" This powerful and melancholic metaphor, combined with the deliberate and weighty delivery, deepens the serious mood into one of somber reflection on a hidden tragedy.",
+    "summary_reasoning": "Slow pace, weighty tone, melancholic metaphor."
+  },
+  {
+    "timestamp": 23.116,
+    "emotion": "determined",
+    "detailed_reasoning": "There is a distinct shift in tone from somberness to determination. The speaker's voice becomes firmer and more assertive as he presents a stark choice: \"You either use the stones at rock bottom to build a way out, or you get buried by them.\" This conveys a sense of resilience and the necessity of struggle for survival, moving away from passive sadness to active resolve.",
+    "summary_reasoning": "Firm, assertive tone, words of resilience."
+  },
+  {
+    "timestamp": 32.806,
+    "emotion": "critical",
+    "detailed_reasoning": "The speaker's tone takes on a critical edge as he describes the external pressures men face. He speaks about the world trying to \"construct you into its perfect little image.\" His delivery speeds up slightly, and his gestures become more pointed, suggesting frustration with and a critique of societal expectations.",
+    "summary_reasoning": "Critical tone, pointed gestures, words of critique."
+  },
+  {
+    "timestamp": 42.054,
+    "emotion": "cautionary",
+    "detailed_reasoning": "Using the metaphor of an assembly line, the speaker's tone becomes cautionary. When he says, \"we need to watch out for our defective counterparts,\" his voice conveys a sense of warning about the danger of being collectively judged by the flaws of a few. The seriousness of his expression underlines this warning.",
+    "summary_reasoning": "Warning tone, serious expression, words of shared danger."
+  },
+  {
+    "timestamp": 53.164,
+    "emotion": "grave",
+    "detailed_reasoning": "The mood becomes significantly heavier and more grave. The speaker describes how \"defective product...tends to destroy itself.\" His voice is slow and filled with pathos. This somber reflection on self-destruction sets a grim tone for the final, stark choice he presents.",
+    "summary_reasoning": "Slow, heavy tone, words of self-destruction."
+  },
+  {
+    "timestamp": 58.489,
+    "emotion": "fateful",
+    "detailed_reasoning": "In the final line, \"how you become a man or a monster,\" the speaker's tone is one of fateful finality. His voice is low and steady, delivering the line as an ultimate, unchangeable outcome of the process he has described. His grave expression and the weight in his voice emphasize the profound and high-stakes nature of this transformation.",
+    "summary_reasoning": "Low, steady tone, grave expression, words of ultimate choice."
+  }
+]

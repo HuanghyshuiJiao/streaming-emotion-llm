@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "amused",
+    "detailed_reasoning": "The video begins with the speaker already smiling and launching into a story. Her tone is light and animated, and her facial expression is cheerful, suggesting she is recounting a story that she finds entertaining or ridiculous.",
+    "summary_reasoning": "Smiling, animated tone, storytelling."
+  },
+  {
+    "timestamp": 9.912,
+    "emotion": "conspiratorial",
+    "detailed_reasoning": "After a pause, the speaker's smile fades slightly and she leans forward, asking a rhetorical question, \"And you know what happened to her?\" Her tone lowers and becomes more intimate, as if she is about to share a shocking secret or a punchline, drawing the listener in.",
+    "summary_reasoning": "Fading smile, lower tone, rhetorical question."
+  },
+  {
+    "timestamp": 12.498,
+    "emotion": "mock-serious",
+    "detailed_reasoning": "The speaker delivers the absurd punchline, \"She got ran over by a garbage truck,\" with a completely straight face and wide eyes. The contrast between the serious expression and the ridiculous, dark humor of the story indicates a feigned seriousness for dramatic and comedic effect.",
+    "summary_reasoning": "Straight face, wide eyes, dark humor."
+  },
+  {
+    "timestamp": 15.023,
+    "emotion": "indignant",
+    "detailed_reasoning": "The speaker's expression shifts to one of feigned indignation. She says \"Did so\" with force, her eyebrows are slightly furrowed, and she uses exaggerated gestures while describing the truck running over the foot. This conveys a sense of defending the truthfulness of her absurd story.",
+    "summary_reasoning": "Forceful tone, furrowed brows, exaggerated gestures."
+  },
+  {
+    "timestamp": 19.132,
+    "emotion": "threatening",
+    "detailed_reasoning": "There is a distinct shift in mood. The speaker's smile is completely gone, replaced by a stern, serious expression. Her voice becomes lower and carries a menacing undertone as she delivers the line, \"It isn't safe for them greenies here.\" This is a direct warning.",
+    "summary_reasoning": "Stern expression, low menacing tone."
+  },
+  {
+    "timestamp": 22.379,
+    "emotion": "warning",
+    "detailed_reasoning": "Continuing the threatening mood, her final statement, \"You better tell your boyfriend not to come,\" is delivered with a slight head tilt and direct, unblinking eye contact. The tone is firm and conclusive, solidifying the statement as a serious and personal warning.",
+    "summary_reasoning": "Direct eye contact, head tilt, firm tone."
+  }
+]

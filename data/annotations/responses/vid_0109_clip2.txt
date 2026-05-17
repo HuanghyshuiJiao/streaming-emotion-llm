@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "dramatic",
+    "detailed_reasoning": "The speaker begins her performance with a story-telling, theatrical tone, immediately setting a dramatic mood. Her facial expression is serious and her hands are clasped as she introduces the character of Amelia Bedelia as 'one of the strangest girls in town.' This is followed by a prolonged, high-pitched, and non-verbal sound, which enhances the strange and dramatic characterization she is building.",
+    "summary_reasoning": "Theatrical tone, serious expression, strange vocalization."
+  },
+  {
+    "timestamp": 13.446,
+    "emotion": "amused",
+    "detailed_reasoning": "After a long comedic pause where she makes funny faces and gestures, the performer breaks character to address the audience directly. Her tone shifts to become conversational and knowing, accompanied by a slight, conspiratorial smile as she says, 'We all know that one person.' This creates a shared moment of amusement with the audience, connecting the strange character to a relatable experience.",
+    "summary_reasoning": "Conversational tone, knowing smile, direct address."
+  },
+  {
+    "timestamp": 19.833,
+    "emotion": "informative",
+    "detailed_reasoning": "The performer's demeanor becomes more formal and her tone shifts to be neutral and presentational. She stands straight and delivers background information about the play being an adaptation of an original story. This transition from performance to exposition signals an informative intent.",
+    "summary_reasoning": "Formal tone, neutral expression, giving context."
+  },
+  {
+    "timestamp": 26.16,
+    "emotion": "stressed",
+    "detailed_reasoning": "She transitions into a new character whose voice is higher-pitched, faster-paced, and has a slightly posh accent. The character expresses worry about leaving Amelia Bedelia alone on her first day. The combination of the rushed vocal delivery and the content of the lines ('I can't be here') conveys a sense of stress and urgency.",
+    "summary_reasoning": "High-pitched, fast-paced voice, worried words."
+  },
+  {
+    "timestamp": 31.122,
+    "emotion": "authoritative",
+    "detailed_reasoning": "The character's tone shifts from stressed to commanding and instructional. She gives clear, firm directions about a list she has left, emphasizing words like 'Exactly' and 'Please do.' Her posture is upright and her tone is unequivocal, establishing her authority in the situation.",
+    "summary_reasoning": "Commanding tone, firm enunciation, instructional words."
+  },
+  {
+    "timestamp": 37.957,
+    "emotion": "jovial",
+    "detailed_reasoning": "The performer switches to a second character, presumably the husband, adopting a much lower, gruff, and casual voice with a country accent. The informal language ('we ought to get some grub') and the relaxed, cheerful tone create a stark contrast, indicating a jovial and easygoing personality.",
+    "summary_reasoning": "Low, casual voice, cheerful tone, informal words."
+  },
+  {
+    "timestamp": 41.143,
+    "emotion": "excited",
+    "detailed_reasoning": "Embodying the husband character, the performer lets out an energetic 'Yee-haw!'. This exclamation is delivered with a loud volume, high energy, and a joyful facial expression, clearly indicating a moment of excitement and enthusiasm before driving off.",
+    "summary_reasoning": "Loud exclamation, high energy, joyful expression."
+  },
+  {
+    "timestamp": 45.593,
+    "emotion": "delighted",
+    "detailed_reasoning": "The performer now portrays Amelia Bedelia for the first time. Her voice becomes high-pitched, sweet, and innocent. She waves goodbye with a broad, cheerful smile and exclaims, 'such lovely folks.' Her entire demeanor, from her sweet tone to her naive expression, shows she is utterly charmed and delighted by her new employers.",
+    "summary_reasoning": "High, sweet voice, broad smile, cheerful words."
+  },
+  {
+    "timestamp": 50.183,
+    "emotion": "optimistic",
+    "detailed_reasoning": "Continuing as Amelia Bedelia, the performer looks around with wide-eyed wonder. Her line, 'I'm going to love working here,' is delivered with a tone of pure, unadulterated happiness and hope. Her bright smile and enthusiastic voice convey a strong sense of optimism about her new job.",
+    "summary_reasoning": "Enthusiastic tone, bright smile, hopeful words."
+  },
+  {
+    "timestamp": 55.514,
+    "emotion": "impressed",
+    "detailed_reasoning": "The performer reverts back to the narrator's voice, which is calm and descriptive. As she describes Amelia Bedelia going inside, her tone when saying 'Such a grand house it was' is filled with a sense of awe and wonder, reflecting Amelia's own feelings. This conveys that both the character and the narrator are impressed by the house.",
+    "summary_reasoning": "Awestruck tone, descriptive words."
+  }
+]

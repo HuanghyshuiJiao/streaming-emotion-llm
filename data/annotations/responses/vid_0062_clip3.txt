@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 7.462,
+    "emotion": "determined",
+    "detailed_reasoning": "The speaker begins with a firm and assertive tone of voice, using strong, open hand gestures to emphasize his commitment. His facial expression is serious and focused as he describes his plan to watch and blog about 'Game of Thrones,' conveying a strong sense of determination and resolve.",
+    "summary_reasoning": "Firm tone, assertive gestures, focused expression."
+  },
+  {
+    "timestamp": 20.08,
+    "emotion": "amused",
+    "detailed_reasoning": "After stating he would skip meals for his goal, his tone lightens. He says \"so be it\" and then begins to laugh. This indicates a shift from pure determination to a state of amusement, as if he finds the extremity of his own dedication humorous or absurd.",
+    "summary_reasoning": "Lightened tone, laughter."
+  },
+  {
+    "timestamp": 27.74,
+    "emotion": "distressed",
+    "detailed_reasoning": "The laughter abruptly and dramatically transitions into intense, uncontrollable crying. His facial expression crumples, he starts gasping for air, and he shakes his head while saying \"No.\" This sudden breakdown signals a shift from amusement to overwhelming emotional distress.",
+    "summary_reasoning": "Laughter turns to crying, crumpled face, gasping."
+  },
+  {
+    "timestamp": 46.78,
+    "emotion": "denial",
+    "detailed_reasoning": "While still visibly distraught and trying to stop crying, the speaker begins to verbally deny his state, saying \"I'm fine\" and \"I don't need the medication.\" His voice is shaky and his expression is still pained, creating a stark contrast between his words and his emotional presentation, indicating a state of denial.",
+    "summary_reasoning": "Shaky voice, pained expression, contradictory words."
+  },
+  {
+    "timestamp": 54.958,
+    "emotion": "resigned",
+    "detailed_reasoning": "Following his emotional outburst and attempts at denial, the speaker's energy completely fades. He utters a final, quiet \"so\" and then a soft, sigh-like \"Oh.\" His posture slightly slumps and his expression becomes vacant, suggesting a sense of defeat and resignation.",
+    "summary_reasoning": "Low energy, quiet sigh, vacant expression."
+  }
+]

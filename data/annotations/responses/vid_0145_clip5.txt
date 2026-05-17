@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 4.755,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins his performance with a deliberate and measured tone. His facial expression is neutral but focused, and his body language is contained. The content of his words, introducing the idea of stories that need to be told, sets a serious and contemplative mood from the outset.",
+    "summary_reasoning": "Deliberate tone, focused expression, serious content."
+  },
+  {
+    "timestamp": 8.399,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker's tone shifts to become more grave and somber as he introduces the central theme: the \"strange problem\" Black boys face. He repeats the line for emphasis, and his facial expression tightens slightly, conveying the weight of the topic. The repetition and the slight pause create a heavy, sorrowful atmosphere.",
+    "summary_reasoning": "Grave tone, repetition, serious facial expression."
+  },
+  {
+    "timestamp": 15.065,
+    "emotion": "mournful",
+    "detailed_reasoning": "The speaker begins listing names, each followed by an initial. His delivery becomes rhythmic and almost like a eulogy or a memorial roll call. He uses hand gestures, pointing outwards for each name, which adds to the feeling of dedication and remembrance. The act of naming individuals transforms the general somberness into a more personal and mournful emotion.",
+    "summary_reasoning": "Eulogistic tone, listing names, pointing gestures."
+  },
+  {
+    "timestamp": 30.286,
+    "emotion": "pained",
+    "detailed_reasoning": "After listing the names, the speaker's tone shifts to one of direct, painful questioning. The words \"Like why does...\" are delivered with a sense of frustration and deep sadness. His facial expression reflects this inner turmoil, his brow is furrowed, and his eyes convey a sense of pleading and hurt, as if grappling with an unanswerable, painful question.",
+    "summary_reasoning": "Questioning tone, frustrated delivery, pained facial expression."
+  },
+  {
+    "timestamp": 38.7,
+    "emotion": "solemn",
+    "detailed_reasoning": "Concluding his piece, the speaker says a simple \"Thank you.\" His voice is low, and he gives a slight nod, bringing the intense emotional journey to a close. The atmosphere is heavy and respectful. His demeanor is not one of relief but of quiet, solemn finality after sharing such a heavy message.",
+    "summary_reasoning": "Low voice, slight nod, quiet finality."
+  }
+]

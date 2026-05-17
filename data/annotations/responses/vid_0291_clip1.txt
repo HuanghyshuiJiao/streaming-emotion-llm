@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 4.758,
+    "emotion": "happy",
+    "detailed_reasoning": "The speaker is at the beginning of his show, receiving applause. He is smiling warmly at the audience, his body language is open, and he explicitly says \"Thank you\" and \"I appreciate that.\" The combination of verbal gratitude, a genuine smile, and positive audience feedback clearly indicates a state of happiness and appreciation.",
+    "summary_reasoning": "Smiling, open body language, verbal gratitude."
+  },
+  {
+    "timestamp": 8.624,
+    "emotion": "approving",
+    "detailed_reasoning": "The speaker's tone shifts to one of positive affirmation as he says, \"That is the right attitude.\" He points towards the audience, reinforcing his approval of their positive energy. His facial expression remains positive and encouraging, directly validating the audience's reaction.",
+    "summary_reasoning": "Affirming tone, pointing gesture, positive expression."
+  },
+  {
+    "timestamp": 17.938,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker transitions from the initial pleasantries to the main topic of his monologue. His tone becomes more matter-of-fact, his smile slightly fades, and he says, \"We had an election.\" This shift in vocal tone and facial expression signals a move to a more serious subject.",
+    "summary_reasoning": "Matter-of-fact tone, fading smile, topic change."
+  },
+  {
+    "timestamp": 25.389,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker spots someone in the audience and makes a lighthearted joke about them, saying, \"So upset this guy is. He's not going to sit again.\" His delivery is accompanied by a smirk and a teasing tone, and the audience laughs. This indicates a clear shift to an amused and joking mood.",
+    "summary_reasoning": "Smirk, teasing tone, audience laughter."
+  },
+  {
+    "timestamp": 31.062,
+    "emotion": "humorous",
+    "detailed_reasoning": "The speaker sets up a joke by describing a normal morning scene in a calm, narrative tone (\"I opened the window... the sun was still shining\"). He then delivers the punchline with a deadpan expression (\"my gardener was packing for Mexico\"), which elicits a strong laugh from the audience. The structure and delivery are intentionally humorous.",
+    "summary_reasoning": "Narrative setup, deadpan delivery, punchline."
+  },
+  {
+    "timestamp": 46.505,
+    "emotion": "candid",
+    "detailed_reasoning": "The speaker makes a direct, self-disclosing statement, \"Hey, I did not vote for the winner.\" His tone is straightforward and he makes a slight shrugging gesture. This creates a moment of frankness and alignment with a portion of his audience, sharing his personal stance.",
+    "summary_reasoning": "Direct statement, straightforward tone, shrugging gesture."
+  },
+  {
+    "timestamp": 49.71,
+    "emotion": "skeptical",
+    "detailed_reasoning": "The speaker's tone shifts to be more analytical and questioning. He says the winners now have to \"deal with reality.\" His facial expression becomes more serious, and his words cast doubt on whether the promises made can be fulfilled, conveying a skeptical outlook on the situation.",
+    "summary_reasoning": "Analytical tone, serious expression, questioning words."
+  },
+  {
+    "timestamp": 55.539,
+    "emotion": "critical",
+    "detailed_reasoning": "The speaker concludes his thought by citing a specific and controversial campaign promise: \"Trump says he's going to deport 12 million people.\" His tone is sharp and pointed, and his expression is very serious. This delivery is meant to highlight the extreme nature of the statement, functioning as a pointed critique.",
+    "summary_reasoning": "Sharp tone, serious expression, citing controversial promise."
+  }
+]

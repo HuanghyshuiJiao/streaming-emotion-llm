@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp": 2.255,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker begins with a strong, projected, and declamatory vocal tone. Her words express a grand ambition to evoke a powerful reaction in an audience ('uproarious laughter,' 'guts busting'). Her facial expression is focused and intense, and her initial hand gestures are broad, suggesting a passionate declaration of purpose.",
+    "summary_reasoning": "Strong projected voice, intense expression, ambitious words."
+  },
+  {
+    "timestamp": 7.926,
+    "emotion": "playful",
+    "detailed_reasoning": "There is a dramatic shift in vocal and physical delivery. Her tone becomes high-pitched, soft, and sing-song, directly mimicking the 'berries and cream' meme. Her body language also changes; she brings her hands together in a quaint, almost childlike manner and adopts a slight, coy smile, indicating a switch to a playful and humorous mood.",
+    "summary_reasoning": "High-pitched sing-song voice, smiling, childlike gestures."
+  },
+  {
+    "timestamp": 11.312,
+    "emotion": "humorous",
+    "detailed_reasoning": "The speaker's delivery again changes to match her words. As she references David Sedaris's 'monotone stupor,' her voice becomes completely flat, her facial expression goes deadpan, and her body becomes still. This is a clear performative choice to embody the character for comedic effect, indicating a dry, humorous intent.",
+    "summary_reasoning": "Monotone voice, deadpan expression, still posture."
+  },
+  {
+    "timestamp": 15.319,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "Continuing the comedic impersonations, she shifts to a 'Kylie Jenner' persona. Her voice becomes breathy and higher-pitched, and her facial expression is a caricature of someone having a slow realization. This mocking imitation of a celebrity persona conveys a sarcastic and satirical form of humor.",
+    "summary_reasoning": "Breathy high-pitched voice, vacant expression, mimicking celebrity."
+  },
+  {
+    "timestamp": 19.526,
+    "emotion": "intense",
+    "detailed_reasoning": "To embody 'Nicolas Cage fighting bees,' the speaker's energy explodes. Her voice becomes loud, strained, and comically aggressive. Her body tenses, her facial expression becomes one of mock rage, and she makes sharp, fighting gestures. This over-the-top performance is meant to be humorous through its sheer, chaotic intensity.",
+    "summary_reasoning": "Loud strained voice, mock angry expression, aggressive gestures."
+  },
+  {
+    "timestamp": 24.955,
+    "emotion": "confident",
+    "detailed_reasoning": "After the series of impersonations, her tone shifts back to the strong, declarative style from the beginning. She makes a sweeping, definitive statement about emulating pop culture to become the 'funniest person.' Her voice is firm, fast-paced, and full of conviction, and her posture is assertive, projecting strong confidence in her goal.",
+    "summary_reasoning": "Firm fast-paced voice, assertive posture, definitive statement."
+  },
+  {
+    "timestamp": 34.189,
+    "emotion": "yearning",
+    "detailed_reasoning": "The speaker's emotion escalates as she states her core desire 'to be hysterical.' Her voice swells with passion, and she throws her arms wide open in a gesture of grand longing. Her facial expression is full of desire, and the way she delivers the line conveys a deep yearning for this state of being.",
+    "summary_reasoning": "Passionate voice, arms thrown wide, expressive face."
+  },
+  {
+    "timestamp": 40.487,
+    "emotion": "vulnerable",
+    "detailed_reasoning": "While the passion remains, a new layer emerges as she talks about being 'free from inertia and self-doubt.' Her voice takes on a more serious, grounded quality when mentioning these obstacles. Her upward gaze and outstretched arms now seem to be pleading for release, introducing a sense of vulnerability and acknowledging her internal struggles.",
+    "summary_reasoning": "Serious tone on 'self-doubt', pleading expression, acknowledging obstacles."
+  },
+  {
+    "timestamp": 44.86,
+    "emotion": "sincere",
+    "detailed_reasoning": "The monologue pivots to an internal focus with the line 'master the practice of self-acceptance and love.' Her voice becomes noticeably softer and more introspective, losing its performative edge. She brings her hands inward towards her body, a significant shift from the previous expansive gestures, which all point to a moment of quiet sincerity.",
+    "summary_reasoning": "Soft introspective voice, inward gestures, personal topic."
+  },
+  {
+    "timestamp": 48.009,
+    "emotion": "determined",
+    "detailed_reasoning": "Her energy begins to build again, but this time it's a controlled crescendo of internal resolve. As she says she wants the 'confidence to be everything I never thought I was,' her voice grows in strength and her expression becomes incredibly focused and determined. It’s not a performance for others, but a powerful statement of personal resolve.",
+    "summary_reasoning": "Building vocal strength, focused expression, words of resolve."
+  },
+  {
+    "timestamp": 54.046,
+    "emotion": "impassioned",
+    "detailed_reasoning": "In the final lines, she repeats her determined phrase, and the emotion reaches its peak. Her voice is full of raw feeling, almost breaking with the intensity of her desire. The repetition builds the emotional weight, and her focused expression conveys an impassioned plea to herself to break free from her own limitations.",
+    "summary_reasoning": "Raw emotional voice, repeated intense phrase, focused expression."
+  }
+]

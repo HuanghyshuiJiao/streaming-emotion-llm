@@ -1,0 +1,74 @@
+[
+  {
+    "timestamp": 4.218,
+    "emotion": "intense",
+    "detailed_reasoning": "The speaker begins with a serious and dramatic tone, discussing fear. His facial expression is strained, with furrowed brows and a tense mouth. His voice is deliberate and carries weight, and his hand gestures are used for emphasis, creating an overall feeling of intensity and seriousness as he sets up the central theme of fear.",
+    "summary_reasoning": "Strained face, serious tone, dramatic words."
+  },
+  {
+    "timestamp": 7.583,
+    "emotion": "melancholy",
+    "detailed_reasoning": "The speaker's tone shifts to something more self-deprecating and vulnerable with the line, \"I'm clumsy.\" This is followed by the metaphorical admission, \"Yesterday I tripped over my self-esteem.\" The delivery, while still serious, now carries an undercurrent of sadness and personal struggle, moving from general fear to a specific, melancholy reflection on his own fragility.",
+    "summary_reasoning": "Vulnerable words, self-deprecating tone, sad metaphor."
+  },
+  {
+    "timestamp": 11.529,
+    "emotion": "pained",
+    "detailed_reasoning": "Continuing the metaphor, the speaker describes his pride shattering \"like an iPhone with a broken face.\" The specificity and modernity of this image make the feeling of being broken very palpable. His facial expression conveys hurt, and his tone is somber, reflecting the pain of this internal damage.",
+    "summary_reasoning": "Painful metaphor, somber tone, hurt expression."
+  },
+  {
+    "timestamp": 17.25,
+    "emotion": "wounded",
+    "detailed_reasoning": "The speaker introduces a new, powerful metaphor: \"I've never been in the military, but I have this purple heart.\" He places his hand over his heart, physically indicating the location of his emotional wound. His voice is grave and his expression is deeply serious, conveying the feeling of being a veteran of emotional battles.",
+    "summary_reasoning": "Wounded metaphor, hand on heart, grave tone."
+  },
+  {
+    "timestamp": 21.376,
+    "emotion": "vulnerable",
+    "detailed_reasoning": "He explains the origin of his \"purple heart\" comes from \"beating myself up over things I can't fix.\" This is a direct confession of self-inflicted emotional harm. His tone is filled with resignation and sadness, and his expression is unguarded, creating a moment of raw vulnerability.",
+    "summary_reasoning": "Confessional words, resigned tone, unguarded expression."
+  },
+  {
+    "timestamp": 25.341,
+    "emotion": "introspective",
+    "detailed_reasoning": "The poem shifts to a more abstract and contemplative space as he wonders what his bedsheets and curtains think of him. This personification of inanimate objects suggests deep loneliness and a turn inward. His voice becomes quieter and more questioning, and his gaze seems distant, indicating a state of lonely introspection.",
+    "summary_reasoning": "Contemplative words, quiet tone, lonely theme."
+  },
+  {
+    "timestamp": 32.311,
+    "emotion": "overwhelmed",
+    "detailed_reasoning": "The speaker uses powerful, cumulative imagery to describe his flaws—a hamper \"overflowing with really, really loud mistakes\" and a \"graveyard in my closet.\" The repetition and the dramatic metaphors convey a sense of being buried under the weight of his past failures. His tone and expression suggest he feels overwhelmed by it all.",
+    "summary_reasoning": "Overwhelming imagery, intense tone, burdened expression."
+  },
+  {
+    "timestamp": 37.018,
+    "emotion": "fearful",
+    "detailed_reasoning": "The emotion escalates to a direct and visceral fear of judgment. He describes the terror that if someone sees his \"skeletons,\" they will \"grind my bones into powder.\" The imagery is violent and extreme, and his voice carries a slight tremor, reflecting a raw fear of being vulnerable and being destroyed by another person's judgment.",
+    "summary_reasoning": "Violent imagery, fearful words, intense tone."
+  },
+  {
+    "timestamp": 45.948,
+    "emotion": "friendly",
+    "detailed_reasoning": "After a long pause that breaks the tension, the speaker's entire demeanor shifts. He smiles warmly and introduces himself with a simple, \"Hi. My name is Rudy.\" The tone becomes light, open, and conversational, completely breaking from the dramatic persona of the poem to establish a friendly connection with the audience.",
+    "summary_reasoning": "Abrupt shift, warm smile, light tone."
+  },
+  {
+    "timestamp": 48.319,
+    "emotion": "cheerful",
+    "detailed_reasoning": "Continuing the friendly introduction, he lists simple things he enjoys like \"frozen yogurt\" and \"people watching.\" His voice is upbeat, he maintains a broad smile, and his body language is relaxed. The content and delivery are unambiguously cheerful and lighthearted, creating a stark contrast to the preceding poem.",
+    "summary_reasoning": "Happy words, broad smile, upbeat tone."
+  },
+  {
+    "timestamp": 53.624,
+    "emotion": "sad",
+    "detailed_reasoning": "The cheerful facade is shattered with the word \"But...\" His smile vanishes, his voice drops in pitch and volume, and his gaze lowers as he confesses, \"I don't allow myself to cry as often as I need to.\" This abrupt pivot reveals the preceding happiness was a performance, returning to the underlying sadness and emotional suppression from the poem.",
+    "summary_reasoning": "Smile fades, voice drops, sad confession."
+  },
+  {
+    "timestamp": 57.543,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker concludes with the poignant metaphor, \"I have solar power confidence.\" His expression is complex, combining the lingering sadness with a wry, self-aware half-smile. The line itself is clever and thoughtful, suggesting his confidence is conditional and dependent on external factors. The final emotion is one of sad, knowing reflection on his own nature.",
+    "summary_reasoning": "Poignant metaphor, wry smile, self-aware tone."
+  }
+]

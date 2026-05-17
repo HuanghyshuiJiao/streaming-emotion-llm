@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "somber",
+    "detailed_reasoning": "The video begins with a monochromatic, dimly lit scene. The speaker's facial expression is neutral but appears weary, with dark makeup under her eyes. Her voice is slow, quiet, and low-pitched, establishing a somber and narrative tone from the very beginning.",
+    "summary_reasoning": "Monochrome filter, weary expression, slow quiet voice."
+  },
+  {
+    "timestamp": 7.06,
+    "emotion": "mysterious",
+    "detailed_reasoning": "While the speaker's tone remains low and her expression is still, the content of her words, \"But this wasn't all the house did,\" introduces an element of suspense and intrigue. Her steady, direct gaze at the camera enhances this feeling, making the atmosphere more mysterious.",
+    "summary_reasoning": "Ominous words, direct gaze."
+  },
+  {
+    "timestamp": 15.09,
+    "emotion": "haunted",
+    "detailed_reasoning": "The speaker's gaze drifts away from the camera as if she is recalling a memory or looking into the past. Her voice takes on a more distant, slightly airy quality. The words themselves—\"light, steam and glow,\" \"ghostly\"—are ethereal and supernatural, contributing to a haunted, trance-like mood.",
+    "summary_reasoning": "Distant gaze, airy voice, supernatural words."
+  },
+  {
+    "timestamp": 27.52,
+    "emotion": "uneasy",
+    "detailed_reasoning": "The speaker's focus shifts to her personal experience. Her tone becomes more confessional and her gaze drops, indicating introspection. The statement \"not really slept\" reveals a state of internal restlessness and unease, shifting the narrative from descriptive to personal.",
+    "summary_reasoning": "Confessional tone, downward gaze, revealing words."
+  },
+  {
+    "timestamp": 32.289,
+    "emotion": "weary",
+    "detailed_reasoning": "Continuing on the theme of sleeplessness, the speaker's voice becomes even quieter, and her expression reflects a long-held tiredness. The words \"Sleep was never something I did much of\" convey a sense of chronic struggle, transitioning the emotion from general unease to a deep-seated weariness.",
+    "summary_reasoning": "Quiet voice, tired expression, chronic struggle described."
+  },
+  {
+    "timestamp": 41.748,
+    "emotion": "burdened",
+    "detailed_reasoning": "A long, audible sigh precedes her words, indicating a heavy emotional weight she is carrying. Her facial expression becomes more pained, and her voice is filled with sorrow as she mentions having \"worries at seven.\" This combination of cues points to a deep, long-standing emotional burden.",
+    "summary_reasoning": "Audible sigh, pained expression, sad tone."
+  },
+  {
+    "timestamp": 47.72,
+    "emotion": "despair",
+    "detailed_reasoning": "The speaker's expression conveys a sense of hopelessness. Her voice is soft and fragile, almost breaking. The final statement, \"Forever awake,\" is delivered with a tone of utter finality and resignation, culminating in a clear emotion of despair over her inescapable condition.",
+    "summary_reasoning": "Hopeless expression, fragile voice, words of finality."
+  }
+]

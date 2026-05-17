@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 4.0,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her performance with a calm and measured tone. Her facial expression is neutral and focused, and her posture is relaxed as she sets the scene by quoting a \"psych ward.\"",
+    "summary_reasoning": "Calm tone, neutral expression, relaxed posture."
+  },
+  {
+    "timestamp": 10.387,
+    "emotion": "impersonating",
+    "detailed_reasoning": "The speaker's tone shifts to a slightly patronizing and artificially soothing quality, as if she is impersonating a character from the asylum. Her voice is soft and her delivery is deliberate, mimicking a clinical, reassuring manner that feels disingenuous.",
+    "summary_reasoning": "Patronizing tone, deliberate delivery."
+  },
+  {
+    "timestamp": 18.179,
+    "emotion": "menacing",
+    "detailed_reasoning": "Her tone becomes lower and more pointed as she says, \"we are going to keep you safe and secured.\" This, combined with the context of being in a psych ward, creates a slightly menacing or threatening feeling, despite the seemingly reassuring words.",
+    "summary_reasoning": "Low, pointed tone, threatening context."
+  },
+  {
+    "timestamp": 24.488,
+    "emotion": "ominous",
+    "detailed_reasoning": "The speaker's tone drops and becomes more intense and slow when describing the security measures like \"locked doors\" and \"cameras perched in the corners like hawks.\" Her facial expression becomes more serious, and the line \"We will be watching\" is delivered with an ominous finality.",
+    "summary_reasoning": "Intense, slow tone, serious expression."
+  },
+  {
+    "timestamp": 27.513,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "There's a clear shift to a sarcastic tone. After the ominous warning, she says \"But this is all for you and your well-being\" with a slight, ironic smile and a lighter, almost patronizing vocal inflection, suggesting the opposite of what the words mean.",
+    "summary_reasoning": "Ironic smile, patronizing tone."
+  },
+  {
+    "timestamp": 31.48,
+    "emotion": "accusatory",
+    "detailed_reasoning": "Her voice takes on a clinical, detached, and slightly accusatory quality as she lists the patient's supposed conditions: \"sick, anxious, depressed, a danger to yourself.\" She delivers the lines as a direct, blunt statement of fact, embodying the cold authority of the institution.",
+    "summary_reasoning": "Clinical, detached tone, direct delivery."
+  },
+  {
+    "timestamp": 38.215,
+    "emotion": "manipulative",
+    "detailed_reasoning": "The speaker's tone becomes subtly manipulative. When offering the chance to sign a paper to make the stay \"voluntary,\" her voice becomes softer and more persuasive, with a slight upward inflection that sounds deceptively cooperative. This implies a coercive choice presented as a favor.",
+    "summary_reasoning": "Soft, persuasive tone, deceptive inflection."
+  },
+  {
+    "timestamp": 43.546,
+    "emotion": "foreboding",
+    "detailed_reasoning": "Her tone shifts to be more descriptive and foreboding. As she describes the future experience of being woken by \"strangers in white coats and clipboards,\" her pace is steady and her voice is flat, painting a picture of an impersonal and inevitable future event.",
+    "summary_reasoning": "Descriptive, flat tone, steady pace."
+  },
+  {
+    "timestamp": 49.539,
+    "emotion": "insistent",
+    "detailed_reasoning": "The speaker's emotion intensifies with the repetition of \"again and again and again.\" Her pace quickens and her volume increases slightly, conveying a sense of relentless, exhausting interrogation. Her tone becomes more insistent and forceful as she asks \"why and how you want to kill yourself.\"",
+    "summary_reasoning": "Repetitive words, faster pace, forceful tone."
+  },
+  {
+    "timestamp": 56.734,
+    "emotion": "cynical",
+    "detailed_reasoning": "In the final lines, the speaker's tone becomes deeply cynical. The advice to \"be honest\" and \"take advantage of the five to ten minutes\" is delivered with a flat, dismissive inflection, highlighting the inadequacy and absurdity of the care being offered. Her slight smile reinforces the cynical and ironic mood.",
+    "summary_reasoning": "Dismissive tone, flat inflection, cynical smile."
+  }
+]

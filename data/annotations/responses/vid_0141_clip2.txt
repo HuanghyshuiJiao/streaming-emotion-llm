@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 0.812,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker begins her talk with a strong, clear, and declarative vocal tone. Her posture is upright, her facial expression is serious and focused, and she uses a deliberate hand gesture for emphasis. This combination conveys a strong sense of confidence and command of the subject matter from the very start.",
+    "summary_reasoning": "Strong tone, upright posture, focused expression."
+  },
+  {
+    "timestamp": 10.53,
+    "emotion": "passionate",
+    "detailed_reasoning": "When the speaker introduces the word \"storytelling,\" her vocal tone becomes more emphatic and her pacing more deliberate. Her eyes widen slightly, and she leans into the statement, showing a deeper level of personal conviction and passion for the topic she is introducing as a powerful tool.",
+    "summary_reasoning": "Emphatic tone, deliberate pacing, engaged expression."
+  },
+  {
+    "timestamp": 21.389,
+    "emotion": "enthusiastic",
+    "detailed_reasoning": "After setting up the problem of a world with 'forgettable messages,' the speaker's demeanor brightens significantly. Her vocal tone lifts, she delivers the line \"stories make us memorable\" with a clear, warm smile, and her body language becomes more open. This shift indicates enthusiasm for the solution she is presenting.",
+    "summary_reasoning": "Lifted tone, smiling, open body language."
+  },
+  {
+    "timestamp": 23.74,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker's emotional tone shifts as she begins to cite research. Her voice becomes more measured and factual, her smile disappears in favor of a more neutral, serious expression, and her gestures become more precise. This change in delivery indicates a transition from persuasion to providing factual evidence.",
+    "summary_reasoning": "Factual tone, neutral expression, precise gestures."
+  },
+  {
+    "timestamp": 35.147,
+    "emotion": "passionate",
+    "detailed_reasoning": "Following the statistic, the speaker's energy rises again. Her voice becomes more dynamic and louder on the words \"stories create powerful connections.\" She uses broader, more expressive hand gestures, and her facial expression is highly engaged, showing a renewed passion for the interpersonal power of storytelling.",
+    "summary_reasoning": "Dynamic voice, expressive gestures, engaged face."
+  },
+  {
+    "timestamp": 44.883,
+    "emotion": "authoritative",
+    "detailed_reasoning": "To introduce another piece of evidence, the speaker adopts a more formal and authoritative tone. She clearly enunciates the credentials of the professor she is quoting, and her posture remains firm and her expression serious. This delivery is intended to lend credibility and weight to the information.",
+    "summary_reasoning": "Formal tone, clear enunciation, serious expression."
+  },
+  {
+    "timestamp": 52.894,
+    "emotion": "amazed",
+    "detailed_reasoning": "As she explains the scientific finding that brain waves synchronize, the speaker's tone softens and fills with a sense of wonder. Her eyes widen, her eyebrows raise, and her hands make a fluid, illustrative gesture. This conveys her own amazement and fascination with the concept, inviting the audience to share in that feeling.",
+    "summary_reasoning": "Wondrous tone, wide eyes, raised eyebrows."
+  }
+]

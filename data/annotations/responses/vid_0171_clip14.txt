@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 2.577,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his story with a neutral facial expression and a steady, even tone. His posture is relaxed, and he is setting a scene for the audience in a narrative manner. The initial words are introductory, and his overall demeanor suggests calmness.",
+    "summary_reasoning": "Neutral expression, steady tone, narrative start."
+  },
+  {
+    "timestamp": 7.367,
+    "emotion": "engaged",
+    "detailed_reasoning": "The speaker's tone shifts as he begins to tell the story about Lucy. He slightly raises the pitch and alters his cadence to mimic a child's pleading voice when he says, \"I want those cookies so badly.\" This vocal change shows he is actively engaged in the storytelling and trying to bring the scene to life for the audience, moving from a simple narration to a more animated one.",
+    "summary_reasoning": "Vocal pitch change, mimicking child's voice."
+  },
+  {
+    "timestamp": 18.01,
+    "emotion": "reflective",
+    "detailed_reasoning": "When quoting the mother's words, \"it's okay to be angry,\" the speaker's tone becomes softer and more gentle. His pace slows down, and he looks down slightly as if recalling the weight of that simple but profound statement. This shift suggests he is reflecting on the significance of the moment he witnessed.",
+    "summary_reasoning": "Softer tone, slower pace, downward gaze."
+  },
+  {
+    "timestamp": 37.825,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker's facial expression changes as he says, \"I started off with a smile on my face.\" A clear, genuine smile appears on his own face, and a lighter, more cheerful tone enters his voice. This indicates a shift to amusement as he recalls his own reaction to the event.",
+    "summary_reasoning": "Genuine smile, lighter tone of voice."
+  },
+  {
+    "timestamp": 51.77,
+    "emotion": "humorous",
+    "detailed_reasoning": "Recounting his girlfriend's reaction, the speaker delivers the line, \"I'm probably in a psychotic state right now,\" with a wry smile and a slight chuckle in his voice. This self-deprecating comment is clearly intended to be humorous, showing his amusement at the absurdity of the situation from his girlfriend's perspective.",
+    "summary_reasoning": "Wry smile, chuckle in voice, self-deprecating joke."
+  },
+  {
+    "timestamp": 56.071,
+    "emotion": "calm",
+    "detailed_reasoning": "As the speaker concludes his anecdote, his expression softens, and his smile fades back to a neutral one. His tone returns to the calm, narrative style from the beginning of his talk. He uses a hand gesture to signify the act of telling the story, bringing the segment to a clear and composed end.",
+    "summary_reasoning": "Neutral expression, narrative tone returns."
+  }
+]

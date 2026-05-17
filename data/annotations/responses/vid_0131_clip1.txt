@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 1.774,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker begins with a warm, direct gaze and a confident smile. Her tone is light and affirming as she delivers the opening lines, establishing a self-assured and positive mood.",
+    "summary_reasoning": "Direct gaze, confident smile, light tone."
+  },
+  {
+    "timestamp": 5.479,
+    "emotion": "playful",
+    "detailed_reasoning": "Her smile becomes slightly more mischievous, and she tilts her head while speaking about the 'boys back home'. The tone of her voice becomes more teasing and flirtatious, suggesting a playful and charming attitude.",
+    "summary_reasoning": "Mischievous smile, head tilt, teasing tone."
+  },
+  {
+    "timestamp": 14.173,
+    "emotion": "ambitious",
+    "detailed_reasoning": "The speaker's expression becomes more focused and her gaze shifts upwards as if visualizing her future. Her tone becomes more declarative and assertive when she talks about getting to Hollywood and becoming a star, indicating a clear sense of ambition.",
+    "summary_reasoning": "Focused expression, upward gaze, assertive tone."
+  },
+  {
+    "timestamp": 23.627,
+    "emotion": "mysterious",
+    "detailed_reasoning": "Her tone becomes slightly more hushed and intriguing as she states her 'past will be a mystery.' The playful confidence returns, but it's now tinged with a sense of calculated secrecy, as if she is crafting a persona.",
+    "summary_reasoning": "Hushed tone, intriguing words, controlled expression."
+  },
+  {
+    "timestamp": 35.816,
+    "emotion": "disappointed",
+    "detailed_reasoning": "There is an abrupt shift in demeanor. Her smile completely fades, her face becomes serious, and her tone drops significantly. The word 'Actually' marks a sharp pivot from the fantasy to a much more somber and harsh reality, introducing a feeling of disappointment.",
+    "summary_reasoning": "Smile fades, serious expression, somber tone."
+  },
+  {
+    "timestamp": 40.268,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker's expression is now pained, with furrowed brows. Her voice carries a clear weight of frustration as she describes being 'wrapped up in that little space'. The rhetorical question 'And for what?' powerfully conveys her sense of futility and annoyance with the past.",
+    "summary_reasoning": "Pained expression, weary tone, frustrated words."
+  },
+  {
+    "timestamp": 47.106,
+    "emotion": "distressed",
+    "detailed_reasoning": "She physically re-enacts the moment of birth by looking around with wide, confused eyes. Her voice becomes higher and strained as she says 'screaming', mirroring the panic and distress of the moment she is describing.",
+    "summary_reasoning": "Wide eyes, looking around, strained voice."
+  },
+  {
+    "timestamp": 56.069,
+    "emotion": "regretful",
+    "detailed_reasoning": "Her expression settles into one of deep sadness and longing. Her voice becomes very soft and trails off on the final, incomplete sentence, leaving a powerful feeling of unresolved pain and regret about what could have been.",
+    "summary_reasoning": "Sad expression, soft trailing voice, incomplete sentence."
+  }
+]

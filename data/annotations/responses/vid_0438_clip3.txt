@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 1.032,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her presentation by reading from her notes. Her tone is neutral and informative, her facial expression is focused, and her body language is still. This establishes a calm and professional baseline for her speech, typical of an academic presentation's start.",
+    "summary_reasoning": "Neutral tone, reading notes, still posture."
+  },
+  {
+    "timestamp": 11.821,
+    "emotion": "engaged",
+    "detailed_reasoning": "The speaker begins to list various ways humans use narrative. Her vocal delivery becomes more rhythmic and less monotonous. She starts to look up from her notes more and uses a subtle hand gesture, indicating she is becoming more engaged with the material and moving from simply reading to actively delivering the content.",
+    "summary_reasoning": "Rhythmic voice, looks up, hand gesture."
+  },
+  {
+    "timestamp": 24.832,
+    "emotion": "purposeful",
+    "detailed_reasoning": "She transitions to a key point about storytelling being used to foster peace. Her tone becomes more serious and deliberate. She uses a more definitive hand gesture when saying \"around the globe,\" which adds weight to her words and signals a purposeful intent to convey a significant idea.",
+    "summary_reasoning": "Serious tone, deliberate pace, definitive gesture."
+  },
+  {
+    "timestamp": 30.55,
+    "emotion": "inquisitive",
+    "detailed_reasoning": "The speaker poses a rhetorical question to the audience. Her pitch rises, her eyebrows lift slightly, and she gestures with open palms. This combination of vocal and visual cues creates an inquisitive and engaging tone, intended to make the audience consider the question she is about to answer.",
+    "summary_reasoning": "Raised pitch, raised eyebrows, open-palm gesture."
+  },
+  {
+    "timestamp": 39.869,
+    "emotion": "confident",
+    "detailed_reasoning": "After posing the question, the speaker begins her explanation. Her tone becomes steady and clear, her posture is composed, and she uses small, precise hand gestures to emphasize her points. She is no longer just asking a question but is now confidently providing the answer, showing command of her subject.",
+    "summary_reasoning": "Steady tone, composed posture, precise gestures."
+  },
+  {
+    "timestamp": 47.225,
+    "emotion": "authoritative",
+    "detailed_reasoning": "She cites another source, \"Vanderbroek,\" to support her argument. Her delivery remains smooth and confident, but the act of quoting an external authority adds a layer of academic weight to her speech. Her tone is firm and clear, reinforcing her position as a knowledgeable speaker.",
+    "summary_reasoning": "Citing source, clear tone, confident delivery."
+  },
+  {
+    "timestamp": 57.426,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "As she finishes the quote and her sentence, her speaking pace slows, and her pitch drops on the final words \"in meaningful ways.\" This vocal modulation signals the end of a complex point and invites the audience to reflect on its significance, giving her delivery a thoughtful and conclusive quality.",
+    "summary_reasoning": "Slower pace, lower pitch, final emphasis."
+  }
+]

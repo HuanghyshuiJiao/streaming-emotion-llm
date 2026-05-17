@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 0.351,
+    "emotion": "distress",
+    "detailed_reasoning": "The video starts with the actress already on her knees. Her facial expression is one of shock and pain, with wide eyes and an open mouth. Her initial vocalization, \"Oh,\" is high-pitched and strained, immediately conveying a strong sense of distress.",
+    "summary_reasoning": "Shocked expression, high-pitched vocalization."
+  },
+  {
+    "timestamp": 4.916,
+    "emotion": "scorn",
+    "detailed_reasoning": "After reading the initial lines, her tone shifts dramatically. While still distressed, she speaks the words \"Poor, forlorn Proteus. Passionate Proteus\" with a mocking and sarcastic inflection. Her facial expression becomes a sneer, indicating contempt and scorn for the words she is reading.",
+    "summary_reasoning": "Mocking tone, sneering expression."
+  },
+  {
+    "timestamp": 10.723,
+    "emotion": "sadness",
+    "detailed_reasoning": "When she reads the line \"To thy sweet Julia,\" referring to herself, the scorn in her voice dissipates and is replaced by a softer, more vulnerable tone filled with self-pity. Her expression softens into one of clear sadness and hurt, as the reality of the letter's content hits her personally.",
+    "summary_reasoning": "Vulnerable tone, pained expression."
+  },
+  {
+    "timestamp": 13.285,
+    "emotion": "rage",
+    "detailed_reasoning": "Her sadness abruptly turns to fury. She exclaims, \"That'll tear away,\" and her voice becomes a sharp, high-pitched cry. Visually, she violently rips the paper she is holding, with her entire body tensing up in an explosive expression of rage.",
+    "summary_reasoning": "Sharp cry, violent action of tearing paper."
+  },
+  {
+    "timestamp": 19.032,
+    "emotion": "remorse",
+    "detailed_reasoning": "Following her outburst, there is a clear shift. Her aggressive posture softens, and she looks down at the torn pieces with a conflicted expression. Her voice becomes quiet and breathy as she says, \"Yet I will not,\" indicating an immediate regret for her destructive act.",
+    "summary_reasoning": "Softened posture, quiet voice, conflicted expression."
+  },
+  {
+    "timestamp": 21.454,
+    "emotion": "wistful",
+    "detailed_reasoning": "Looking at the scattered pieces on the floor, her expression changes to a sad, gentle smile. Her voice takes on a soft, contemplative, almost fond quality, though it's heavily tinged with sadness. She's finding a bitter, ironic beauty in the way the words are arranged, leading to a wistful state.",
+    "summary_reasoning": "Sad smile, gentle and contemplative tone."
+  },
+  {
+    "timestamp": 32.771,
+    "emotion": "longing",
+    "detailed_reasoning": "She begins to gently pick up the pieces of the letter. Her actions become tender as she makes two pieces of paper \"Kiss.\" Her voice is a soft whisper, and her facial expression conveys a deep sense of longing for the affection that the letter represents, even as she re-enacts it with the torn fragments.",
+    "summary_reasoning": "Tender actions, whispering tone, sad smile."
+  },
+  {
+    "timestamp": 35.539,
+    "emotion": "conflicted",
+    "detailed_reasoning": "The brief tenderness gives way to a harsher emotion. When she says the word \"Contend,\" her voice becomes more forceful, and her expression hardens. She manipulates the paper pieces more aggressively, reflecting her internal turmoil and the conflict inherent in the relationship.",
+    "summary_reasoning": "Forceful tone, hardened expression, aggressive action."
+  },
+  {
+    "timestamp": 40.855,
+    "emotion": "resignation",
+    "detailed_reasoning": "In the final moment, her energy completely deflates. She looks down at the paper fragments in her hands and says, \"Do what you will,\" in a low, soft, and defeated tone. Her body language, particularly the slight slump of her shoulders, communicates a sense of surrender and resignation to her painful situation.",
+    "summary_reasoning": "Defeated tone, slumping posture."
+  }
+]

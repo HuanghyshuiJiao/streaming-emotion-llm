@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 3.276,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins with a calm and measured tone. Her facial expression is neutral and her posture is relaxed. She is introducing a topic in an educational manner, which conveys a sense of composure and focus.",
+    "summary_reasoning": "Measured tone, neutral expression, educational context."
+  },
+  {
+    "timestamp": 12.591,
+    "emotion": "instructive",
+    "detailed_reasoning": "The speaker transitions from a general statement to a specific instruction (\"try to find the operative words\"). Her tone becomes more direct and guiding, and she uses a slight hand gesture (off-screen) to emphasize her point. Her expression remains focused, indicating a shift into a more active teaching mode.",
+    "summary_reasoning": "Direct tone, guiding language, focused expression."
+  },
+  {
+    "timestamp": 24.93,
+    "emotion": "assertive",
+    "detailed_reasoning": "The speaker's tone becomes firmer and more definitive as she explains a key concept (\"by doing that you're literally saying nothing\"). She uses vocal emphasis on \"literally\" and \"nothing\" to drive her point home with conviction. This shift from a neutral, instructional tone to a more pointed and confident one suggests assertiveness.",
+    "summary_reasoning": "Firm tone, vocal emphasis, confident delivery."
+  },
+  {
+    "timestamp": 36.548,
+    "emotion": "clarifying",
+    "detailed_reasoning": "The speaker's tone softens as she clarifies the scope of her demonstration (\"I will be showing you a little bit...\"). She is managing the viewer's expectations, and her expression is open and helpful, indicating a shift to a more gentle, clarifying mode of communication.",
+    "summary_reasoning": "Softened tone, explanatory phrasing, helpful expression."
+  },
+  {
+    "timestamp": 43.279,
+    "emotion": "engaged",
+    "detailed_reasoning": "The speaker shifts from explaining the theory to providing a practical example. Her tone becomes more animated and performative as she delivers the line, \"I've always loved taking care of animals.\" Her eyes are wider and more expressive, and her intonation is more varied, indicating she is now actively demonstrating the concept with heightened engagement.",
+    "summary_reasoning": "Animated tone, expressive eyes, varied intonation."
+  },
+  {
+    "timestamp": 50.418,
+    "emotion": "instructive",
+    "detailed_reasoning": "After the performative example, the speaker reverts to her teaching persona. Her tone becomes analytical and explanatory again as she breaks down the rule (\"usually we stress verbs and nouns\"). Her pace is deliberate, reinforcing the instructive nature of this final segment.",
+    "summary_reasoning": "Explanatory tone, deliberate pace, analytical phrasing."
+  }
+]

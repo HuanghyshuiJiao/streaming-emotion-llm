@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1.594,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins the story with a calm and neutral tone. Her facial expression is composed, and her body language is still, indicating a standard narrative-style delivery to set the scene.",
+    "summary_reasoning": "Calm tone, neutral expression, still posture."
+  },
+  {
+    "timestamp": 8.507,
+    "emotion": "curious",
+    "detailed_reasoning": "As the character in the story opens the gift, the speaker's tone remains calm but she physically handles the prop box, opening it to mirror the action in the story. This action, combined with the narrative context of receiving a gift, suggests a sense of curiosity and anticipation.",
+    "summary_reasoning": "Opening prop box, narrative context."
+  },
+  {
+    "timestamp": 15.961,
+    "emotion": "angry",
+    "detailed_reasoning": "The emotion shifts dramatically with the word \"Angry.\" The speaker's volume increases, her tone becomes sharp and forceful, and her facial expression hardens. This is a clear transition from a calm narrator to portraying an angry character.",
+    "summary_reasoning": "Loud volume, sharp tone, hard expression."
+  },
+  {
+    "timestamp": 22.753,
+    "emotion": "contemptuous",
+    "detailed_reasoning": "Continuing the portrayal of the angry character, the speaker's voice is filled with contempt as she says the line \"you gave me a Bible.\" She then makes a dismissive gesture with the prop box and book, physically throwing them down to emphasize the character's disgust and rejection of the gift.",
+    "summary_reasoning": "Dismissive tone, forceful gesture with props."
+  },
+  {
+    "timestamp": 25.919,
+    "emotion": "calm",
+    "detailed_reasoning": "After the character's outburst, the speaker transitions back to her role as the narrator. Her voice returns to a calm, neutral, and even-paced storytelling tone to signify the passage of time in the narrative.",
+    "summary_reasoning": "Voice returns to neutral, storytelling tone."
+  },
+  {
+    "timestamp": 29.465,
+    "emotion": "content",
+    "detailed_reasoning": "When describing the character's success, the speaker's tone becomes slightly brighter and more positive. She uses broad, open hand gestures to convey the idea of a full and successful life, reflecting the contentment of the character she is describing.",
+    "summary_reasoning": "Positive tone, open hand gestures."
+  },
+  {
+    "timestamp": 37.402,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The word \"realized\" marks a shift in the character's mindset. The speaker's pace slows down, and her tone becomes more subdued and pensive, indicating a moment of introspection for the character.",
+    "summary_reasoning": "Slower pace, subdued and pensive tone."
+  },
+  {
+    "timestamp": 41.801,
+    "emotion": "contemplative",
+    "detailed_reasoning": "As the character contemplates visiting his father, the speaker's delivery becomes more hesitant and her voice softens. She brings her hand to her head in a classic gesture of deep thought, physically embodying the character's contemplative state.",
+    "summary_reasoning": "Soft, hesitant voice, gesture of thinking."
+  },
+  {
+    "timestamp": 47.023,
+    "emotion": "regretful",
+    "detailed_reasoning": "In the final line, the speaker reflects on the long time since the character spoke to his father. Her tone becomes somber, conveying a sense of sadness and regret. She makes a slow, sweeping gesture with her arm, emphasizing the vast amount of time that has passed and the weight of that silence.",
+    "summary_reasoning": "Somber tone, slow sweeping arm gesture."
+  }
+]

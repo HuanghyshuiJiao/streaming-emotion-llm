@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 1.012,
+    "emotion": "determined",
+    "detailed_reasoning": "The speaker begins with a firm and declarative statement, looking directly at the camera. Her tone is steady and her facial expression is serious, conveying a sense of resolve from the very start.",
+    "summary_reasoning": "Firm tone, direct gaze, serious expression."
+  },
+  {
+    "timestamp": 6.998,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker's tone becomes more clipped and slightly louder. Her eyes narrow and she subtly shakes her head, indicating frustration with the person she is addressing for not understanding her position.",
+    "summary_reasoning": "Clipped tone, narrowed eyes, head shake."
+  },
+  {
+    "timestamp": 10.281,
+    "emotion": "angry",
+    "detailed_reasoning": "There is a significant increase in volume and force in her voice as she says \"damn fault.\" Her eyebrows are furrowed and her expression is one of clear anger and exasperation.",
+    "summary_reasoning": "Loud volume, forceful tone, furrowed brows."
+  },
+  {
+    "timestamp": 14.725,
+    "emotion": "defiant",
+    "detailed_reasoning": "After the burst of anger, her tone shifts to one of defiance. She speaks with conviction, emphasizing her refusal to be held back. Her chin is slightly raised and her gaze is unwavering.",
+    "summary_reasoning": "Convicted tone, raised chin, unwavering gaze."
+  },
+  {
+    "timestamp": 22.913,
+    "emotion": "pained",
+    "detailed_reasoning": "Her voice softens and takes on a more emotional, slightly pleading quality. Her eyes start to look watery and her expression shifts to one of hurt, suggesting the topic is deeply personal and painful.",
+    "summary_reasoning": "Soft, emotional tone, watery eyes, pained expression."
+  },
+  {
+    "timestamp": 28.198,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker's voice begins to tremble and her face shows clear signs of sadness. She talks about the rarity of her opportunity, and her expression conveys the weight of her circumstances and a sense of hopelessness.",
+    "summary_reasoning": "Trembling voice, sad facial expression."
+  },
+  {
+    "timestamp": 32.908,
+    "emotion": "distressed",
+    "detailed_reasoning": "Her sadness deepens into distress as she describes her family's situation. Her voice cracks, her breathing becomes more audible, and her facial muscles are tense with emotion, verging on tears.",
+    "summary_reasoning": "Cracking voice, tense facial muscles, near tears."
+  },
+  {
+    "timestamp": 41.569,
+    "emotion": "anguished",
+    "detailed_reasoning": "The speaker's voice is now full of anguish as she describes her brother's life. Her eyes are wide with pain, and she is openly crying, showing a deep level of emotional suffering.",
+    "summary_reasoning": "Anguished tone, wide eyes, crying."
+  },
+  {
+    "timestamp": 51.271,
+    "emotion": "desperate",
+    "detailed_reasoning": "As she describes her father's illiteracy, her emotion peaks. Her voice is high-pitched and strained, filled with desperation. Her entire face is contorted in a cry, conveying a sense of being overwhelmed by her family's hardships.",
+    "summary_reasoning": "High-pitched, strained voice, crying, desperate expression."
+  },
+  {
+    "timestamp": 58.067,
+    "emotion": "determined",
+    "detailed_reasoning": "In the final lines, her desperation transforms back into fierce determination. Despite the tears, her voice becomes forceful and resolute. She clenches her jaw and shakes her head, emphasizing her resolve not to fail.",
+    "summary_reasoning": "Forceful voice, clenched jaw, head shake."
+  }
+]

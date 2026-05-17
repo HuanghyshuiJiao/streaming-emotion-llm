@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins his address with a formal and measured tone. His facial expression is neutral, and he is looking down at his notes, establishing a serious and official atmosphere appropriate for a commencement speech.",
+    "summary_reasoning": "Formal tone, neutral expression, reading from notes."
+  },
+  {
+    "timestamp": 6.407,
+    "emotion": "critical",
+    "detailed_reasoning": "The speaker's tone becomes more pointed and illustrative as he describes the high-pressure academic environment. His phrasing, such as \"where a B is the new C,\" carries a subtly critical undertone about the school's intense standards, suggesting a critique of grade inflation and academic pressure.",
+    "summary_reasoning": "Pointed tone, critical phrasing."
+  },
+  {
+    "timestamp": 13.224,
+    "emotion": "engaging",
+    "detailed_reasoning": "The speaker shifts from description to a direct, meta-commentary on his own words (\"I hope you caught me when I said one of the best\"). This breaks the formal flow and his tone becomes more personal, as if sharing an inside thought, designed to deliberately draw the audience's attention to the nuance of his language.",
+    "summary_reasoning": "Direct address, personal tone, meta-commentary."
+  },
+  {
+    "timestamp": 17.56,
+    "emotion": "satirical",
+    "detailed_reasoning": "The speaker's tone takes on a satirical quality as he explains the self-serving reasons people use the phrase \"one of the best.\" His choice of words like \"bask in a little easy distinction\" and the slightly condescending tone suggest he is subtly mocking this mindset, even as his facial expression remains largely straight.",
+    "summary_reasoning": "Satirical tone, critical word choice."
+  },
+  {
+    "timestamp": 29.899,
+    "emotion": "assertive",
+    "detailed_reasoning": "The speaker's tone shifts to become firm and declarative, marked by the word \"But.\" He confidently states that the phrase \"defies logic,\" transitioning from social critique to a more direct, logical argument. His posture is upright and his delivery is confident.",
+    "summary_reasoning": "Firm tone, declarative statement, confident delivery."
+  },
+  {
+    "timestamp": 37.911,
+    "emotion": "earnest",
+    "detailed_reasoning": "The speaker's tone softens and becomes more sincere as he transitions to offering direct advice to the graduates. Using the word \"hope\" and speaking about the true purpose of education, his demeanor shifts from critical analysis to earnest guidance, conveying a sense of genuine care for the students' future.",
+    "summary_reasoning": "Sincere tone, hopeful words, direct advice."
+  },
+  {
+    "timestamp": 47.356,
+    "emotion": "scholarly",
+    "detailed_reasoning": "By invoking and quoting the classical playwright Sophocles, the speaker adopts a more formal and scholarly tone. His pace slows slightly to lend gravity to the quote, elevating his message by grounding it in historical wisdom. This adds an air of authority to his advice.",
+    "summary_reasoning": "Citing a classic author, formal tone, slower pace."
+  },
+  {
+    "timestamp": 51.76,
+    "emotion": "humorous",
+    "detailed_reasoning": "Immediately following the profound classical quote, the speaker delivers an unexpected and absurd punchline: \"Second is ice cream.\" The stark juxtaposition of high philosophy with a mundane treat, combined with his deadpan delivery, creates a moment of dry, intellectual humor.",
+    "summary_reasoning": "Deadpan delivery, unexpected juxtaposition, humorous content."
+  },
+  {
+    "timestamp": 56.164,
+    "emotion": "reflective",
+    "detailed_reasoning": "After the brief joke, the speaker's tone returns to one of seriousness and sincerity. He concludes with a classic philosophical idea—the wisdom of knowing one's own ignorance. This ending is humbling and reflective, intended to leave the graduates with a final piece of profound advice.",
+    "summary_reasoning": "Serious tone, humbling words, philosophical theme."
+  }
+]

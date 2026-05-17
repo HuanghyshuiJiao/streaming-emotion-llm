@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp": 0.812,
+    "emotion": "resentful",
+    "detailed_reasoning": "The video starts with the speaker's face in a close-up. Her expression is confrontational, with direct eye contact. Her tone of voice is accusatory and bitter as she says, 'You hate me, don't you?' This combination of verbal and non-verbal cues points to a feeling of resentment.",
+    "summary_reasoning": "Confrontational expression, accusatory tone."
+  },
+  {
+    "timestamp": 5.06,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker's expression becomes more pained, her eyebrows furrow slightly, and her voice carries a tone of frustration and hurt. She says, 'I'm never good enough for you,' which, combined with her pained look, indicates her frustration and sense of inadequacy.",
+    "summary_reasoning": "Pained expression, frustrated tone."
+  },
+  {
+    "timestamp": 10.269,
+    "emotion": "insecure",
+    "detailed_reasoning": "When talking about her sister, the speaker's voice becomes softer and more defeated. Her facial expression shows clear signs of sadness and comparison. The line 'it's never as good as my sister' highlights a deep-seated insecurity.",
+    "summary_reasoning": "Defeated tone, sad expression, self-comparison."
+  },
+  {
+    "timestamp": 16.84,
+    "emotion": "bitter",
+    "detailed_reasoning": "The speaker's tone shifts to a more cynical and bitter one. She mentions how she always has to hear about her sister doing things better, and her expression becomes slightly sarcastic, especially on the word 'better'. This indicates a feeling of bitterness towards the constant comparisons.",
+    "summary_reasoning": "Cynical tone, sarcastic expression."
+  },
+  {
+    "timestamp": 25.735,
+    "emotion": "desperate",
+    "detailed_reasoning": "Her eyes widen slightly and her voice takes on a desperate, almost pleading quality when she asks, 'Why does she want to ruin my life?'. This rhetorical question, delivered with a mix of frustration and helplessness, conveys desperation.",
+    "summary_reasoning": "Wide eyes, pleading tone, helpless words."
+  },
+  {
+    "timestamp": 30.423,
+    "emotion": "hopeless",
+    "detailed_reasoning": "Her face contorts with pain and her voice becomes more strained. She says her sister wants to 'blot me out like I'm some sort of mistake.' The word 'mistake' is filled with self-loathing and a sense of hopelessness.",
+    "summary_reasoning": "Pained expression, strained voice, self-loathing."
+  },
+  {
+    "timestamp": 36.352,
+    "emotion": "dejected",
+    "detailed_reasoning": "The speaker's expression is one of complete defeat. She looks down, avoiding eye contact, and her voice is low and monotonic as she says, 'I'm just a copy. A copy of a copy.' This repetition and her defeated demeanor show a deep sense of dejection and worthlessness.",
+    "summary_reasoning": "Defeated expression, low tone, avoids eye contact."
+  },
+  {
+    "timestamp": 39.977,
+    "emotion": "resigned",
+    "detailed_reasoning": "She briefly looks up with a sad, almost accepting expression. Her tone is one of resignation as she says 'not as good as the original, and not as good as you.' She seems to have accepted her perceived inferiority, which points to a state of resignation.",
+    "summary_reasoning": "Sad acceptance in expression, resigned tone."
+  },
+  {
+    "timestamp": 47.989,
+    "emotion": "sad",
+    "detailed_reasoning": "Looking down again, her expression is deeply sorrowful. The way she says 'You were so perfect' is not angry or bitter, but filled with a profound sadness, as if reminiscing on a painful truth. Her eyes appear watery.",
+    "summary_reasoning": "Sorrowful expression, sad tone, watery eyes."
+  },
+  {
+    "timestamp": 51.094,
+    "emotion": "overwhelmed",
+    "detailed_reasoning": "Her eyes shift from side to side as if lost in thought, and her voice becomes slightly distant. She generalizes her feelings by saying 'Everyone around me is so perfect,' which suggests she feels overwhelmed by the perceived perfection of others.",
+    "summary_reasoning": "Distant gaze, overwhelmed tone."
+  },
+  {
+    "timestamp": 56.802,
+    "emotion": "despair",
+    "detailed_reasoning": "In the final line, 'And there was nothing left over for me,' her voice cracks slightly and is filled with despair. Her face shows a mix of sadness and hopelessness, concluding her monologue on a note of utter despair.",
+    "summary_reasoning": "Cracking voice, hopeless expression, finality in tone."
+  }
+]

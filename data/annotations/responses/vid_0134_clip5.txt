@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 1.894,
+    "emotion": "romantic",
+    "detailed_reasoning": "The speaker is singing a slow, sentimental song. His eyes are closed and his facial expression is soft as he sings the line \"I'll never forget,\" suggesting he is fondly recalling a romantic memory.",
+    "summary_reasoning": "Singing, closed eyes, soft expression, romantic lyrics."
+  },
+  {
+    "timestamp": 13.232,
+    "emotion": "alarmed",
+    "detailed_reasoning": "The music suddenly becomes more dramatic and percussive. The speaker's eyes open, and his facial expression shifts from romantic nostalgia to one of surprise and alarm as he sings about a sudden \"knock at the door,\" signaling a change in the story's mood.",
+    "summary_reasoning": "Sudden dramatic music, eyes open, surprised expression."
+  },
+  {
+    "timestamp": 17.398,
+    "emotion": "panicked",
+    "detailed_reasoning": "The narrative escalates as the husband is revealed to be at the door and is described as \"vicious.\" The speaker's eyes are wide, and his facial expression is exaggerated to show a comical sense of panic and urgency, matching the lyrics about needing to escape.",
+    "summary_reasoning": "Escalating narrative, wide eyes, exaggerated panicked expression."
+  },
+  {
+    "timestamp": 20.546,
+    "emotion": "incredulous",
+    "detailed_reasoning": "The speaker's character in the song reacts to the absurd suggestion of jumping out a window. His facial expression shifts to one of disbelief and his tone becomes questioning as he says \"you must be joking,\" highlighting the absurdity of the situation.",
+    "summary_reasoning": "Disbelieving expression, questioning tone, absurd lyrics."
+  },
+  {
+    "timestamp": 25.98,
+    "emotion": "amused",
+    "detailed_reasoning": "The woman's response in the song, \"darling, don't be superstitious,\" is a clear punchline. The speaker delivers it with a wry, knowing smile and a slight head tilt, indicating he finds the illogical response humorous. The emotion has fully shifted from tension to comedy.",
+    "summary_reasoning": "Wry smile, knowing expression, comedic punchline."
+  },
+  {
+    "timestamp": 28.326,
+    "emotion": "fearful",
+    "detailed_reasoning": "The music becomes frantic and the story's tension builds again. The speaker's eyes widen dramatically and his expression becomes one of comical fear as he describes the husband bursting in and rushing towards him, acting out the character's fright.",
+    "summary_reasoning": "Frantic music, wide eyes, comically fearful expression."
+  },
+  {
+    "timestamp": 37.249,
+    "emotion": "surprised",
+    "detailed_reasoning": "This is the final punchline of the joke. The expected confrontation turns into a simple case of mistaken direction. The speaker delivers the husband's line with a completely different, non-threatening tone and a surprised but amused expression, revealing the twist.",
+    "summary_reasoning": "Unexpected punchline, non-threatening tone, amused expression."
+  },
+  {
+    "timestamp": 40.618,
+    "emotion": "joyful",
+    "detailed_reasoning": "Having delivered the final punchline, the speaker's face breaks into a full, genuine smile. He looks down and chuckles slightly, clearly pleased with the joke he has told and the comedic misdirection. His expression is one of pure amusement and joy.",
+    "summary_reasoning": "Full smile, chuckle, pleased expression after joke."
+  }
+]

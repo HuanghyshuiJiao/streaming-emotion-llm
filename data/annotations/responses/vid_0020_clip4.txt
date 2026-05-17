@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 2.174,
+    "emotion": "anguished",
+    "detailed_reasoning": "The actress begins with a high-pitched, loud, and emotional tone. Her facial expression is one of deep pain and desperation. She is pleading, as indicated by her words and the strained quality of her voice.",
+    "summary_reasoning": "Pleading tone, pained expression."
+  },
+  {
+    "timestamp": 12.225,
+    "emotion": "defiant",
+    "detailed_reasoning": "After a pause where she collects herself, her tone shifts. While still emotional, the words \"Therefore proceed\" are delivered with a sense of resolve and challenge. Her posture becomes slightly more upright, and she looks forward with determination, suggesting she is standing up to her accuser.",
+    "summary_reasoning": "Resolved tone, determined gaze."
+  },
+  {
+    "timestamp": 17.171,
+    "emotion": "indignant",
+    "detailed_reasoning": "There is a sharp turn in her demeanor. Her voice becomes louder, faster, and more accusatory. She turns back towards her unseen accuser and her body language becomes more aggressive, pointing and emphasizing her words, which now carry a strong sense of injustice.",
+    "summary_reasoning": "Loud accusatory tone, aggressive body language."
+  },
+  {
+    "timestamp": 28.739,
+    "emotion": "furious",
+    "detailed_reasoning": "Her indignation builds to a crescendo. Her voice is at its loudest and most forceful as she delivers the line \"I tell you, it is rigor and not law.\" Her face is contorted in anger, and her whole body is tense, conveying a sense of pure, righteous fury at the injustice she is facing.",
+    "summary_reasoning": "Loud forceful voice, tense body, angry face."
+  },
+  {
+    "timestamp": 41.705,
+    "emotion": "dismissive",
+    "detailed_reasoning": "After a long, tense pause, she turns and shouts \"Go!\" Her tone is sharp, commanding, and full of contempt. She dismisses the person by turning her back completely and walking away, indicating she is done with the conversation and is casting them out.",
+    "summary_reasoning": "Sharp shout, turns back."
+  },
+  {
+    "timestamp": 52.887,
+    "emotion": "sorrowful",
+    "detailed_reasoning": "The actress's emotion shifts dramatically from anger to deep sorrow. Her voice breaks as she says \"O hateful hands,\" filled with regret and pain. Her facial expression is one of anguish as she looks at her hands, which have torn the letter, mourning the loss of the \"loving words.\"",
+    "summary_reasoning": "Broken voice, anguished expression."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 0.692,
+    "emotion": "sad",
+    "detailed_reasoning": "The video begins with the speaker already in a state of distress. Her face is tear-streaked, her expression is pained, her eyebrows are furrowed, and her voice is audibly breaking as she says the word 'crying'. This combination of visual and auditory cues strongly indicates a state of sadness and emotional pain.",
+    "summary_reasoning": "Tear-streaked face, pained expression, breaking voice."
+  },
+  {
+    "timestamp": 5.117,
+    "emotion": "overwhelmed",
+    "detailed_reasoning": "The speaker describes feeling 'numb' and just 'going through the motions'. Her speech is rapid and continuous, listing a series of confusing and contradictory feelings. Visually, her eyes are wide and her expression is one of confusion and distress, suggesting she is overwhelmed by her emotional state.",
+    "summary_reasoning": "Rapid speech, lists confusing feelings, distressed expression."
+  },
+  {
+    "timestamp": 8.501,
+    "emotion": "despairing",
+    "detailed_reasoning": "After expressing her confusion, her voice trails off and she looks down with a deeply pained and lost expression. The statement 'I don't even know if I am thinking' combined with the long, silent pause that follows, conveys a sense of hopelessness and deep despair.",
+    "summary_reasoning": "Voice trails off, lost expression, long pause, hopeless words."
+  },
+  {
+    "timestamp": 15.449,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker's tone shifts from despair to one of clear frustration. Her voice becomes louder and more strained as she says 'so frustrated'. Her facial expression tightens, and she shakes her head slightly, directly verbalizing and physically expressing her frustration with people trying to relate to her pain.",
+    "summary_reasoning": "Louder strained voice, tight facial expression, explicit words."
+  },
+  {
+    "timestamp": 24.499,
+    "emotion": "vulnerable",
+    "detailed_reasoning": "Her tone softens significantly, becoming almost pleading. She expresses a need for someone to 'just listen'. Visually, her expression is one of raw vulnerability, and her gaze is directed slightly away, as if making a heartfelt plea. This marks a shift from frustration to a more exposed, vulnerable state.",
+    "summary_reasoning": "Soft, pleading tone, vulnerable expression, expresses need for support."
+  },
+  {
+    "timestamp": 37.251,
+    "emotion": "resigned",
+    "detailed_reasoning": "The speaker's tone becomes definitive and somber. She states that understanding is impossible until one has lost their own father. Her facial expression is a mixture of sadness and resignation, as if she is stating an unchangeable, painful fact. The finality in her voice and the directness of her statement convey a sense of resigned acceptance of this communication barrier.",
+    "summary_reasoning": "Definitive, somber tone, sad and resigned expression, states a painful fact."
+  }
+]

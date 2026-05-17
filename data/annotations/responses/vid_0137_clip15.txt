@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his speech with a slow, measured pace and a calm, low-pitched tone. His facial expression is neutral and his posture is still, establishing a thoughtful and composed demeanor from the very start. The content is philosophical, setting a reflective mood.",
+    "summary_reasoning": "Slow pace, calm tone, neutral expression."
+  },
+  {
+    "timestamp": 11.084,
+    "emotion": "didactic",
+    "detailed_reasoning": "The speaker transitions to quoting a friend, and his tone shifts to be more narrative and instructive. He uses a hand gesture, raising his hand to emphasize the metaphor of writing things \"in stone,\" indicating a shift from general observation to imparting specific wisdom. His expression remains serious but is now more focused on conveying a lesson.",
+    "summary_reasoning": "Instructive tone, hand gesture, focused expression."
+  },
+  {
+    "timestamp": 18.231,
+    "emotion": "advisory",
+    "detailed_reasoning": "He now directly addresses the audience of graduates with a clear piece of advice. His tone becomes more direct and his language is instructional (\"write in pencil and be unafraid\"). This change marks a move from storytelling to giving direct guidance, making his emotional state advisory.",
+    "summary_reasoning": "Direct tone, instructional language."
+  },
+  {
+    "timestamp": 23.317,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker's demeanor becomes more assertive and confident. He raises his index finger for strong emphasis when he says, \"I promise you,\" and his vocal tone becomes firmer and more declarative. This indicates a high degree of conviction in the point he is making about intelligence and ego.",
+    "summary_reasoning": "Assertive tone, pointed gesture, firm voice."
+  },
+  {
+    "timestamp": 31.766,
+    "emotion": "reflective",
+    "detailed_reasoning": "Following his assertive point, his tone softens as he describes the qualities of truly intelligent people. His pace remains deliberate, and his expression becomes more contemplative, suggesting a shift back to a more reflective and thoughtful state as he praises the virtue of being open to learning.",
+    "summary_reasoning": "Softened tone, contemplative expression, deliberate pace."
+  },
+  {
+    "timestamp": 39.367,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker's energy rises significantly as he describes the nature of life. His voice becomes more dynamic in pitch and volume, especially on the words \"hard and wonderful and messy and rewarding.\" His gestures become slightly more open, conveying a passionate belief in the multifaceted and unpredictable journey ahead for the graduates.",
+    "summary_reasoning": "Dynamic voice, increased volume, emotional words."
+  },
+  {
+    "timestamp": 51.654,
+    "emotion": "emphatic",
+    "detailed_reasoning": "For his concluding statement, the speaker's pace slows down dramatically, and his tone becomes very firm and deliberate. He uses a pointed finger gesture to underscore his final, powerful message. The distinct pauses and forceful articulation of his words create an emphatic and resolute final impression.",
+    "summary_reasoning": "Slow pace, firm tone, pointed gesture."
+  }
+]

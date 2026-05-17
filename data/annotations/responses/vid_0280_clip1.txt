@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": 3.961,
+    "emotion": "assertive",
+    "detailed_reasoning": "The speaker begins by setting rules for others. Her tone is firm and direct, and her facial expression is serious and unsmiling. She uses commanding language like \"you must follow,\" establishing a clear sense of authority from the outset.",
+    "summary_reasoning": "Firm tone, serious expression, commanding words."
+  },
+  {
+    "timestamp": 12.442,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker contrasts the position of others (\"upstage\") with her own (\"downstage, close to my audience\"). She delivers this line with a steady, unwavering tone and a neutral, confident facial expression, indicating she is comfortable and in control of the stage.",
+    "summary_reasoning": "Steady tone, neutral expression, self-assured statement."
+  },
+  {
+    "timestamp": 16.553,
+    "emotion": "arrogant",
+    "detailed_reasoning": "There is a significant shift in tone as she asks the rhetorical question, \"Who is the professional award-winning actor here?\" and answers \"Me.\" Her voice becomes slightly more pronounced and self-important, her head tilts, and her expression becomes smug, clearly communicating a sense of superiority.",
+    "summary_reasoning": "Rhetorical question, self-important tone, smug expression."
+  },
+  {
+    "timestamp": 22.247,
+    "emotion": "condescending",
+    "detailed_reasoning": "The speaker's tone softens, but in a patronizing way, as she addresses the others as \"girls.\" Her instruction, \"not to steal my light,\" combined with this diminutive term and a slight, knowing smile, comes across as condescending and dismissive of their importance.",
+    "summary_reasoning": "Patronizing tone, calls them \"girls\", knowing smile."
+  }
+]

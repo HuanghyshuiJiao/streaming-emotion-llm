@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 1.635,
+    "emotion": "challenging",
+    "detailed_reasoning": "The video begins with the speaker looking directly at the camera with a stern and intense facial expression. Her eyebrows are slightly furrowed and her jaw is tense. Her tone is sharp and assertive, posing a rhetorical question in a manner that feels more like a direct challenge to the listener's assumptions.",
+    "summary_reasoning": "Intense expression, sharp tone, rhetorical question."
+  },
+  {
+    "timestamp": 4.002,
+    "emotion": "assertive",
+    "detailed_reasoning": "The speaker maintains her intense and direct gaze. Her tone is firm and declarative as she says, \"It is so too.\" This reinforces her previous point with conviction, showing no doubt in her argument. The lack of movement and steady voice project a strong sense of self-assurance.",
+    "summary_reasoning": "Firm tone, direct gaze, declarative statement."
+  },
+  {
+    "timestamp": 11.001,
+    "emotion": "imploring",
+    "detailed_reasoning": "The speaker's expression softens slightly, and her head tilts upward. Her tone shifts from declarative to questioning, with a higher pitch and a more pleading quality. She is appealing to a sense of shared humanity and emotion, asking the audience to recognize the similarities between men and women, yet her underlying tone remains strong.",
+    "summary_reasoning": "Softer expression, pleading tone, upward head tilt."
+  },
+  {
+    "timestamp": 14.229,
+    "emotion": "demanding",
+    "detailed_reasoning": "The speaker's expression hardens again, shifting from a pleading appeal to a firm demand. Her gaze is direct and unwavering, and her tone becomes forceful and commanding. The words \"let them use us well\" are delivered with deliberate weight, as a clear condition or ultimatum.",
+    "summary_reasoning": "Hardened expression, forceful tone, direct gaze."
+  },
+  {
+    "timestamp": 21.128,
+    "emotion": "warning",
+    "detailed_reasoning": "The speaker's tone drops to a low, serious, and steady register. Her facial expression is grim and resolute. This is the consequence of the previous demand not being met. The final words, \"their ills instruct us so,\" are delivered with a sense of grim finality, functioning as a clear warning or threat of reciprocal action.",
+    "summary_reasoning": "Low serious tone, grim expression, threatening words."
+  }
+]

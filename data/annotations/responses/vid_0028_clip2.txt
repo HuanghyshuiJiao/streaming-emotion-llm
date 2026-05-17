@@ -1,0 +1,74 @@
+[
+  {
+    "timestamp": 2.135,
+    "emotion": "happy",
+    "detailed_reasoning": "The speaker begins with a bright, cheerful tone and a smile while talking about her shiny hair. Her delivery is upbeat and positive, consistent with a happy emotional state, as if she's in a commercial.",
+    "summary_reasoning": "Cheerful tone, smiling."
+  },
+  {
+    "timestamp": 10.969,
+    "emotion": "excited",
+    "detailed_reasoning": "The speaker's energy level increases dramatically. She starts jumping, waving her hand, and her voice becomes louder and higher-pitched as she enthusiastically exclaims, 'Ooh, pick me, pick me.' This combination of physical and vocal cues indicates strong excitement and eagerness.",
+    "summary_reasoning": "Jumping, waving, loud high-pitched voice."
+  },
+  {
+    "timestamp": 14.716,
+    "emotion": "eager",
+    "detailed_reasoning": "Continuing her plea to be chosen, the speaker's tone remains high and energetic, but she clasps her hands together in a begging gesture. This shifts the emotion from pure excitement to a more focused and intense eagerness to be picked.",
+    "summary_reasoning": "High-pitched pleading tone, begging gesture."
+  },
+  {
+    "timestamp": 19.904,
+    "emotion": "disappointed",
+    "detailed_reasoning": "There is a sudden and significant drop in the speaker's energy. Her shoulders slump, she looks down, and her voice becomes quiet and dejected. This change in posture and vocal tone clearly signals a shift to disappointment or frustration after not being chosen.",
+    "summary_reasoning": "Slumped posture, downward gaze, quiet dejected voice."
+  },
+  {
+    "timestamp": 23.751,
+    "emotion": "competitive",
+    "detailed_reasoning": "The speaker's energy returns with a new, more forceful quality. She points towards someone off-screen and her voice becomes louder and has a taunting edge as she says, 'Pick me, not Nick.' Her determined facial expression suggests a competitive spirit.",
+    "summary_reasoning": "Forceful tone, pointing gesture, determined expression."
+  },
+  {
+    "timestamp": 27.943,
+    "emotion": "disgusted",
+    "detailed_reasoning": "When talking about the other child getting sick, the speaker makes a face of disgust and uses a mocking tone to repeat the word 'barfs'. This performance of disgust is meant to be comical and persuasive.",
+    "summary_reasoning": "Disgusted facial expression, mocking tone."
+  },
+  {
+    "timestamp": 33.292,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker's demeanor changes drastically to one of stillness and good behavior. She sits quietly with her hands clasped and adopts a very sweet, soft voice to claim she is being good. This is a clear attempt to appear calm and well-behaved.",
+    "summary_reasoning": "Still posture, soft sweet voice."
+  },
+  {
+    "timestamp": 38.099,
+    "emotion": "charming",
+    "detailed_reasoning": "Continuing her act of being well-behaved, the speaker lowers her voice to a whisper and leans forward slightly, addressing 'Miss Janet'. Her expression is sweet and innocent, an attempt to be charming and win favor.",
+    "summary_reasoning": "Whispering, sweet innocent expression."
+  },
+  {
+    "timestamp": 46.393,
+    "emotion": "admiring",
+    "detailed_reasoning": "The speaker's tone becomes very sweet and complimentary as she flatters the teacher's appearance. Her wide eyes, smile, and soft voice convey admiration, which is being used strategically to persuade the teacher.",
+    "summary_reasoning": "Sweet flattering tone, smiling, wide eyes."
+  },
+  {
+    "timestamp": 53.324,
+    "emotion": "hopeful",
+    "detailed_reasoning": "After all the flattery, her voice takes on a pleading and hopeful quality as she asks, 'So can I go, please?'. Her hands are clasped together, and her facial expression is one of earnest hope.",
+    "summary_reasoning": "Pleading hopeful tone, clasped hands."
+  },
+  {
+    "timestamp": 57.197,
+    "emotion": "joyful",
+    "detailed_reasoning": "Her expression shifts to one of wide-eyed surprise and happiness upon seemingly getting a positive answer. Her voice is filled with joyful disbelief as she asks, 'Wow, I can?'.",
+    "summary_reasoning": "Surprised expression, joyful tone."
+  },
+  {
+    "timestamp": 59.991,
+    "emotion": "elated",
+    "detailed_reasoning": "Her joy turns into pure elation. She breaks into a huge grin, begins to jump up and down, and shouts 'Yes, cool, woo!'. Her entire body and voice express extreme happiness and excitement.",
+    "summary_reasoning": "Jumping, shouting, huge grin."
+  }
+]

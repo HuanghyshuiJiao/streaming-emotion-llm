@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 6.362,
+    "emotion": "uneasy",
+    "detailed_reasoning": "The speaker is discussing topics that make her uncomfortable, such as blood, needles, and cutting into people. Her facial expression shows clear distaste, with slightly furrowed brows and a tense mouth. Her vocal tone is also somewhat strained, reflecting her squeamishness about the subject matter.",
+    "summary_reasoning": "Squeamish topic, distasteful expression, strained tone."
+  },
+  {
+    "timestamp": 12.012,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker transitions from her personal feelings to the factual requirements of medical training, like learning suturing. Her tone becomes more explanatory and matter-of-fact, and her facial expression turns more neutral and focused, indicating a shift to a more serious, descriptive mood.",
+    "summary_reasoning": "Explanatory tone, neutral and focused expression."
+  },
+  {
+    "timestamp": 20.422,
+    "emotion": "apprehensive",
+    "detailed_reasoning": "She reintroduces the idea of invasive procedures, and her tone conveys a sense of apprehension. Her eyes widen slightly as she talks about cutting into people and seeing blood, bringing back the initial uneasiness but with more emphasis on the daunting reality of the profession.",
+    "summary_reasoning": "Apprehensive topic, wide eyes, intense tone."
+  },
+  {
+    "timestamp": 28.07,
+    "emotion": "reassuring",
+    "detailed_reasoning": "The speaker quickly pivots to reassure the viewer. Her tone softens, and she uses the direct phrase \"don't take me wrong.\" Her facial expression also softens, and she makes a small, placating gesture. This indicates she is trying to offer encouragement and qualify her previous statements of discomfort.",
+    "summary_reasoning": "Reassuring words, soft tone, placating gesture."
+  },
+  {
+    "timestamp": 39.362,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker is now reflecting on her personal career journey and how her aversion to blood and needles helped guide her toward pharmacy. Her tone is calm and contemplative, and her gaze shifts as if she's looking back on this decision-making process with a sense of clarity.",
+    "summary_reasoning": "Reflective words, calm tone, contemplative gaze."
+  },
+  {
+    "timestamp": 45.663,
+    "emotion": "apologetic",
+    "detailed_reasoning": "The speaker begins to summarize her points but then interrupts herself to comment on her own video. Her tone becomes self-conscious, and she explicitly says she feels the video is disorganized. Her facial expression shows a hint of concern or worry about how her content is being perceived, indicating an apologetic state.",
+    "summary_reasoning": "Self-critical words, concerned expression, self-conscious tone."
+  },
+  {
+    "timestamp": 51.935,
+    "emotion": "sincere",
+    "detailed_reasoning": "Continuing her apology, the speaker says \"I'm sorry\" and expresses hope that the disorganization doesn't bother the viewer. Her tone is very earnest, and she makes open hand gestures, which conveys sincerity and a genuine concern for the viewer's experience.",
+    "summary_reasoning": "Sincere tone, earnest expression, open gestures."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 4.679,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins in a composed manner. His tone of voice is low and steady, and his facial expression is neutral. He is looking directly at the camera, establishing a calm and direct mode of address as he sets the premise for his lesson.",
+    "summary_reasoning": "Low, steady tone. Neutral expression."
+  },
+  {
+    "timestamp": 15.137,
+    "emotion": "sincere",
+    "detailed_reasoning": "The speaker's tone becomes softer and more earnest as he asks the viewer to \"look at it with fresh eyes.\" His gaze is steady, and the slight lowering of his head adds a touch of humility to his request, conveying sincerity in his instructional approach.",
+    "summary_reasoning": "Softer, earnest tone. Steady gaze."
+  },
+  {
+    "timestamp": 19.485,
+    "emotion": "focused",
+    "detailed_reasoning": "After his initial request, the speaker's tone becomes slightly more assertive and direct as he states, \"But the main focus is for new writers.\" His expression tightens subtly, indicating a shift from a general request to the core purpose of his content, showing focus.",
+    "summary_reasoning": "Assertive tone. Direct statement."
+  },
+  {
+    "timestamp": 28.226,
+    "emotion": "welcoming",
+    "detailed_reasoning": "The speaker's expression softens, and his tone becomes more open and inviting as he says, \"I welcome your feedback.\" He is actively encouraging interaction, and this shift from instruction to invitation indicates a welcoming and open attitude.",
+    "summary_reasoning": "Soft expression. Inviting tone."
+  },
+  {
+    "timestamp": 44.23,
+    "emotion": "helpful",
+    "detailed_reasoning": "The speaker maintains an open and welcoming tone while providing specific ways for viewers to contact him. He offers multiple channels (blog, video comments, email), and his clear, steady delivery is aimed at being as accommodating and helpful as possible.",
+    "summary_reasoning": "Clear, steady tone. Offering multiple contact methods."
+  },
+  {
+    "timestamp": 56.616,
+    "emotion": "enthusiastic",
+    "detailed_reasoning": "When addressing teachers, the speaker's tone becomes notably more positive and encouraging. He says he'd \"love to hear how it goes\" and would \"even be willing to give some feedback.\" This offer, combined with the positive language and a slightly more animated vocal tone, conveys genuine enthusiasm and a desire to collaborate.",
+    "summary_reasoning": "Positive language. Animated vocal tone."
+  }
+]

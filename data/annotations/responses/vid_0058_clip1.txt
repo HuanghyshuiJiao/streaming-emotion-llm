@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "shocked",
+    "detailed_reasoning": "The video begins with the speaker in a state of high distress. His facial expression is pained, with his eyes squeezed shut and then opening wide in shock as he looks down, as if at a body. His voice is strained and high-pitched as he says the shocking words, conveying horror and disbelief.",
+    "summary_reasoning": "Pained expression, wide eyes, strained voice, shocking words."
+  },
+  {
+    "timestamp": 10.345,
+    "emotion": "reminiscent",
+    "detailed_reasoning": "There is a dramatic shift in tone and subject matter. The speaker looks up, breaking his horrified gaze, and his facial expression softens. His voice becomes lighter and more conversational as he begins to recall a recent, happy memory, indicating a shift to reminiscence.",
+    "summary_reasoning": "Softer face, lighter tone, recalling a past event."
+  },
+  {
+    "timestamp": 18.757,
+    "emotion": "amused",
+    "detailed_reasoning": "While recounting the pleasant memory, the speaker's tone becomes more animated. He smiles and makes a self-deprecating comment about the movie 'Hope Floats', which injects humor into the story. His lighthearted tone and amused expression clearly signal this emotion.",
+    "summary_reasoning": "Smiling, animated voice, humorous comment."
+  },
+  {
+    "timestamp": 24.425,
+    "emotion": "excited",
+    "detailed_reasoning": "As the story escalates to a passionate encounter, the speaker's energy level increases significantly. His eyes widen in playful excitement, his gestures become more expansive, and his voice becomes faster and higher-pitched, mirroring the thrilling turn of events he is describing.",
+    "summary_reasoning": "Increased energy, wide eyes, faster high-pitched voice."
+  },
+  {
+    "timestamp": 32.093,
+    "emotion": "alarmed",
+    "detailed_reasoning": "The narrative takes a sudden, violent turn, and the speaker's emotion shifts abruptly from excitement to alarm. His facial expression becomes serious and confused, and his voice takes on a more forceful and concerned tone as he describes being attacked, conveying a sense of sudden shock and danger.",
+    "summary_reasoning": "Sudden tonal shift, serious expression, describing violence."
+  },
+  {
+    "timestamp": 38.786,
+    "emotion": "angry",
+    "detailed_reasoning": "The speaker begins to embody the character of 'Chuck' in his story. His facial expression becomes tense and confrontational, with furrowed brows. He alters his voice to be deeper and more aggressive, delivering the accusatory lines with a palpable anger that is clearly an act of performance.",
+    "summary_reasoning": "Tense face, deep aggressive voice, acting out a confrontation."
+  },
+  {
+    "timestamp": 45.178,
+    "emotion": "surprised",
+    "detailed_reasoning": "The speaker switches back to his own perspective in the story. His performed anger vanishes and is replaced by a look of genuine surprise. His eyes widen, he uses a defensive 'whoa' gesture with his hands, and his voice becomes high-pitched and incredulous, showing his shock at the new information.",
+    "summary_reasoning": "Wide eyes, high-pitched incredulous voice, defensive gesture."
+  },
+  {
+    "timestamp": 49.225,
+    "emotion": "bewildered",
+    "detailed_reasoning": "As the final and most absurd twist of the story is revealed (that the woman is Chuck's cousin), the speaker's emotion shifts to utter bewilderment. His facial expression is a comical mix of disgust and disbelief, and his tone conveys the sheer strangeness of the situation, leaving him in a state of confused amusement.",
+    "summary_reasoning": "Disgusted/confused expression, bewildered tone, absurd story twist."
+  }
+]

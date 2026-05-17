@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 4.82,
+    "emotion": "scared",
+    "detailed_reasoning": "The speaker begins with a high-pitched, strained voice and a wide-eyed, open-mouthed expression of terror. Their hands are up in a defensive posture, conveying a sense of panic and fear as they deliver the line about their finger being eaten. The entire performance is exaggerated and theatrical.",
+    "summary_reasoning": "High-pitched voice, scared facial expression, defensive posture."
+  },
+  {
+    "timestamp": 9.99,
+    "emotion": "dramatic",
+    "detailed_reasoning": "After the initial outburst, the speaker's demeanor shifts to that of a storyteller. Their voice becomes lower and more measured, but retains a dramatic and engaging quality. They use deliberate pauses and inflections to build the narrative about Penelope the dinosaur, indicating a shift from experiencing fear to narrating a story.",
+    "summary_reasoning": "Narrative tone, measured speech, storytelling posture."
+  },
+  {
+    "timestamp": 17.564,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's tone becomes more serious and matter-of-fact as they describe Penelope's change in behavior. Their facial expression is neutral and focused, and they sit down, adopting a more grounded and stable posture. This change conveys the gravity of Penelope's decision to stop eating her classmates, even when tempted.",
+    "summary_reasoning": "Matter-of-fact tone, neutral expression, seated posture."
+  },
+  {
+    "timestamp": 23.495,
+    "emotion": "disgusted",
+    "detailed_reasoning": "The speaker makes a loud, guttural 'Mmm!' sound while contorting their face in an expression of disgust and mock pleasure. This is a non-verbal cue that strongly indicates a feeling of revulsion, performed for comedic and dramatic effect to illustrate the temptation Penelope is resisting.",
+    "summary_reasoning": "Vocalization, disgusted facial expression."
+  },
+  {
+    "timestamp": 33.0,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker's tone softens and becomes more thoughtful as they describe Penelope remembering what it's like to be a snack. Their gaze is distant, and their body language is more subdued, suggesting a moment of introspection and empathy for Penelope's perspective. They walk slowly, adding to the reflective mood.",
+    "summary_reasoning": "Soft tone, distant gaze, slow movement."
+  },
+  {
+    "timestamp": 39.559,
+    "emotion": "mischievous",
+    "detailed_reasoning": "The speaker's expression shifts to a sly, knowing look. They describe the goldfish licking its lips with a corresponding action and a slight smirk. The tone becomes playful and subtly menacing, indicating a turn in the story towards dark humor and mischief.",
+    "summary_reasoning": "Sly expression, playful tone, licking lips gesture."
+  },
+  {
+    "timestamp": 45.597,
+    "emotion": "menacing",
+    "detailed_reasoning": "For the final punchline, the speaker's voice drops to a low, intense whisper. Their eyes widen and their facial expression becomes predatory and intense. This sudden shift in vocal and facial cues creates a menacing and threatening atmosphere, ending the story on a darkly comedic and startling note.",
+    "summary_reasoning": "Low intense whisper, wide eyes, predatory expression."
+  }
+]

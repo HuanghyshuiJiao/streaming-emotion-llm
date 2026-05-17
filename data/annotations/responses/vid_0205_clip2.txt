@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 6.339,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins with a flat, neutral tone, mimicking a pre-recorded automated message. Her facial expression is neutral and her delivery is steady, indicating a calm, albeit performative, emotional state as she sets up the scenario.",
+    "summary_reasoning": "Flat tone, neutral expression, steady delivery."
+  },
+  {
+    "timestamp": 10.904,
+    "emotion": "annoyed",
+    "detailed_reasoning": "The speaker's tone shifts from neutral to one of annoyance. Her pitch rises slightly and she emphasizes the words \"endless maze,\" conveying a sense of frustration. Her facial expression tightens, particularly around the mouth, reinforcing this change.",
+    "summary_reasoning": "Rising pitch, frustrated tone, tight facial expression."
+  },
+  {
+    "timestamp": 17.592,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "The speaker adopts a robotic, monotonous voice to imitate an automated phone system. This, combined with the context of her previous annoyance, suggests a sarcastic or mocking emotion. Her eyes also look slightly upwards as if in disbelief.",
+    "summary_reasoning": "Robotic tone, mocking context, upward glance."
+  },
+  {
+    "timestamp": 29.667,
+    "emotion": "dramatic",
+    "detailed_reasoning": "The speaker's tone becomes low and dramatic when she says \"the notorious dead drop.\" Her eyes widen and she pauses for effect, creating a sense of mock-horror or theatrical dread about this common call-center experience.",
+    "summary_reasoning": "Low dramatic tone, wide eyes, pause."
+  },
+  {
+    "timestamp": 35.699,
+    "emotion": "confused",
+    "detailed_reasoning": "The speaker's tone shifts to one of questioning and uncertainty. Her voice rises in pitch at the end of her questions, and her facial expression shows bewilderment, with raised eyebrows and a slightly open mouth, reflecting the confusion of being on hold.",
+    "summary_reasoning": "Questioning tone, raised eyebrows, bewildered expression."
+  },
+  {
+    "timestamp": 38.644,
+    "emotion": "exasperated",
+    "detailed_reasoning": "The speaker asks \"Did they transfer my call to Albania?\" with a tone of heightened exasperation and disbelief. Her pitch is high and her facial expression shows clear frustration, marking an escalation from mere confusion to annoyance.",
+    "summary_reasoning": "High-pitched tone, frustrated expression, disbelief."
+  },
+  {
+    "timestamp": 47.139,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker's voice becomes strained and higher in pitch as she says \"it isn't even the right department.\" Her facial expression is one of pure frustration, with furrowed brows and a tense jaw, clearly showing her annoyance with the hypothetical situation.",
+    "summary_reasoning": "Strained voice, high pitch, frustrated facial expression."
+  },
+  {
+    "timestamp": 52.608,
+    "emotion": "resigned",
+    "detailed_reasoning": "The speaker's tone shifts to one of resignation and hopelessness. She describes being transferred to someone \"equally clueless\" with a slightly deflated tone and a sigh-like quality to her voice, suggesting she has given up hope of a resolution.",
+    "summary_reasoning": "Deflated tone, sigh-like voice, hopeless expression."
+  }
+]

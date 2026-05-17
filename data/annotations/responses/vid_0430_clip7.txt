@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 6.278,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins his speech with a profound, factual statement about the universe. His tone is formal, steady, and declarative, without any emotional inflection. His facial expression is neutral and focused, looking between his notes and the audience, establishing an authoritative and serious mood for the start of his message.",
+    "summary_reasoning": "Formal tone, neutral expression, profound topic."
+  },
+  {
+    "timestamp": 18.431,
+    "emotion": "humorous",
+    "detailed_reasoning": "There is a distinct shift in tone as the speaker injects a contemporary political reference. He pauses before saying \"Donald Trump,\" and his delivery becomes lighter and slightly playful. A subtle smirk appears on his face, signaling a clear comedic intent which breaks the initial seriousness.",
+    "summary_reasoning": "Comedic name-drop, lighter tone, slight smirk."
+  },
+  {
+    "timestamp": 26.665,
+    "emotion": "contemplative",
+    "detailed_reasoning": "The speaker changes his persona, adopting a more pleading and earnest tone to voice a hypothetical counter-argument from the audience (\"But Dave, you cry.\"). He then quotes poets and philosophers, shifting the mood from humor to a more thoughtful and contemplative state as he sets up a philosophical point.",
+    "summary_reasoning": "Shift in persona, earnest tone, philosophical quotes."
+  },
+  {
+    "timestamp": 36.283,
+    "emotion": "ironic",
+    "detailed_reasoning": "After seeming to agree with the counter-argument, the speaker uses hyperbole by applying the idea of perfection to the entire world population (\"6.8 billion examples of perfection\"). His grand, slightly exaggerated tone indicates that he is being ironic, using the massive number to subtly undermine the point he just presented.",
+    "summary_reasoning": "Exaggerated tone, hyperbolic numbers, ironic agreement."
+  },
+  {
+    "timestamp": 43.176,
+    "emotion": "assertive",
+    "detailed_reasoning": "The speaker's tone becomes firm, direct, and didactic as he delivers the thesis of his argument. He uses a clear, logical structure (\"If everyone is special, then no one is.\") and his vocal delivery is emphatic and confident. This marks the climax of his point, delivered with assertive conviction.",
+    "summary_reasoning": "Firm tone, direct gaze, emphatic delivery."
+  },
+  {
+    "timestamp": 50.269,
+    "emotion": "somber",
+    "detailed_reasoning": "Following his assertive point, the speaker's tone softens and his pace slows. He delves into deeper, more complex themes of fear, insignificance, and mortality. The language becomes more philosophical and his voice takes on a lower, more introspective quality, creating a somber and reflective mood to conclude the thought.",
+    "summary_reasoning": "Softer, lower tone, slow pace, philosophical language."
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 8.278,
+    "emotion": "skeptical",
+    "detailed_reasoning": "The speaker's facial expression shifts from neutral to concerned. Her eyebrows furrow slightly, and her lips tighten as she says, 'Then your gift comes with conditions.' Her tone becomes questioning and suspicious, indicating skepticism about the other person's intentions.",
+    "summary_reasoning": "Furrowed eyebrows, tight lips, questioning tone."
+  },
+  {
+    "timestamp": 11.781,
+    "emotion": "annoyed",
+    "detailed_reasoning": "After a pause where she processes the other person's words, her expression hardens. Her eyes narrow, and she delivers the line 'What then?' with a sharp, challenging tone. This shows a clear shift from skepticism to annoyance and defensiveness.",
+    "summary_reasoning": "Hardened expression, narrow eyes, sharp tone."
+  },
+  {
+    "timestamp": 18.267,
+    "emotion": "incredulous",
+    "detailed_reasoning": "She repeats the word 'Appropriate?' with wide eyes and raised eyebrows, her head tilting in disbelief. Her tone is filled with scorn and disbelief, mocking the very idea of the word being used in this context. The emotion has escalated from annoyance to outright incredulity.",
+    "summary_reasoning": "Wide eyes, raised eyebrows, scornful tone."
+  },
+  {
+    "timestamp": 25.333,
+    "emotion": "indignant",
+    "detailed_reasoning": "Her tone becomes more forceful and her speech quickens as she expresses her outrage. Her facial expression is tense with indignation as she questions the other person's judgement. She is no longer just in disbelief, but actively angered by the suggestion.",
+    "summary_reasoning": "Forceful tone, tense expression, quick speech."
+  },
+  {
+    "timestamp": 35.641,
+    "emotion": "hurt",
+    "detailed_reasoning": "Her expression softens into one of pain and confusion. Her voice becomes higher-pitched and trembles slightly on the line, 'Why should you say such a thing?' The previous anger is now replaced by a clear sense of being deeply hurt by the accusation.",
+    "summary_reasoning": "Pained expression, high-pitched voice, trembling tone."
+  },
+  {
+    "timestamp": 40.692,
+    "emotion": "angry",
+    "detailed_reasoning": "The hurt quickly transforms into anger. Her voice gains volume and a hard edge as she spits out the words, 'You are a liar.' Her eyes are wide and her face is tense with fury, directly confronting the other person.",
+    "summary_reasoning": "Loud, hard voice, tense face, wide eyes."
+  },
+  {
+    "timestamp": 46.546,
+    "emotion": "frustrated",
+    "detailed_reasoning": "Her anger shifts to a desperate frustration. She starts speaking faster and her pitch rises as if she can't believe the other person doesn't understand. Her facial expression is pleading yet exasperated, highlighting her struggle to make her point.",
+    "summary_reasoning": "Fast speech, high pitch, pleading and exasperated expression."
+  },
+  {
+    "timestamp": 50.855,
+    "emotion": "contemptuous",
+    "detailed_reasoning": "The emotion makes a sharp turn to cold contempt. Her voice drops, and she speaks with a slow, dismissive tone. Her facial expression becomes a sneer of superiority as she says, 'You are beneath him,' looking down on the other person.",
+    "summary_reasoning": "Low, slow voice, sneering expression, dismissive tone."
+  },
+  {
+    "timestamp": 52.94,
+    "emotion": "shocked",
+    "detailed_reasoning": "Her contempt is shattered by the other person's response. Her eyes widen in genuine shock and disbelief as she repeats the words, 'I'm beneath him?' Her voice rises in pitch, filled with stunned astonishment.",
+    "summary_reasoning": "Wide eyes, high-pitched voice, stunned expression."
+  },
+  {
+    "timestamp": 56.408,
+    "emotion": "desperate",
+    "detailed_reasoning": "The shock dissolves into desperation. Her voice cracks and she begins to plead, repeating 'Tell me.' Her facial expression is a mixture of pain, confusion, and a desperate need for an explanation, showing she is emotionally overwhelmed and breaking down.",
+    "summary_reasoning": "Cracking voice, pleading tone, pained expression."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 5.239,
+    "emotion": "surprised",
+    "detailed_reasoning": "The speaker explicitly states she was 'surprised'. This is accompanied by a slight raising of her eyebrows and a brief, wider opening of her eyes. Her tone also lifts slightly, matching the emotion of surprise in her storytelling.",
+    "summary_reasoning": "States 'surprised', raised eyebrows, tone lift."
+  },
+  {
+    "timestamp": 13.15,
+    "emotion": "incredulous",
+    "detailed_reasoning": "The speaker says she looked at the doctor like she was 'crazy'. Her facial expression shifts to one of disbelief, with a slight head tilt and a wry, questioning look. Her tone becomes dismissive, reflecting her past skepticism about the doctor's suggestion.",
+    "summary_reasoning": "States 'crazy', disbelieving expression, dismissive tone."
+  },
+  {
+    "timestamp": 15.774,
+    "emotion": "overwhelmed",
+    "detailed_reasoning": "The speaker asks a rhetorical question about not having time. Her speech pace accelerates, her pitch rises, and her hand gestures become more expansive and rapid. The content, mentioning being 'surrounded by brainiacs' and having to 'study constantly,' conveys a feeling of intense pressure and being overwhelmed.",
+    "summary_reasoning": "Faster speech, higher pitch, stressed tone, words of pressure."
+  },
+  {
+    "timestamp": 27.591,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker describes her reaction to the doctor's advice using the phrase 'off her rocker'. She delivers this line with a wry smile and a slight shake of her head, indicating that in retrospect, she finds her past disbelief and the situation amusing. Her tone is lighthearted.",
+    "summary_reasoning": "Uses funny phrase, wry smile, lighthearted tone."
+  },
+  {
+    "timestamp": 33.728,
+    "emotion": "appreciative",
+    "detailed_reasoning": "The speaker's tone shifts to become softer and more reflective as she explains the doctor's perspective. The words 'completely logical' and 'totally acceptable' are spoken with a sense of newfound understanding and appreciation. Her facial expression softens, and she has a gentle, thoughtful smile.",
+    "summary_reasoning": "Soft, reflective tone, gentle smile, words of understanding."
+  },
+  {
+    "timestamp": 40.619,
+    "emotion": "joyful",
+    "detailed_reasoning": "The speaker talks about an activity that brought her 'joy' and 'always felt good'. Her face lights up with a genuine smile, and her tone becomes warm and positive. The content of her speech is explicitly about happiness and positive feelings.",
+    "summary_reasoning": "States 'joy', genuine smile, warm tone."
+  },
+  {
+    "timestamp": 44.025,
+    "emotion": "regretful",
+    "detailed_reasoning": "The emotion shifts dramatically as the speaker says 'yet I denied myself that pleasure'. Her smile disappears, her expression becomes serious and slightly pained, and her tone becomes somber. This combination of cues indicates regret for her past actions.",
+    "summary_reasoning": "Smile disappears, somber tone, words of denial."
+  },
+  {
+    "timestamp": 49.274,
+    "emotion": "pained",
+    "detailed_reasoning": "The speaker describes how her mind was 'programmed to deny, shut down, and belittle' herself, culminating in the word 'suffering'. Her expression is very serious, her brow is slightly furrowed, and her tone is low and heavy, conveying the pain of that past experience.",
+    "summary_reasoning": "States 'suffering', serious/pained expression, low/heavy tone."
+  },
+  {
+    "timestamp": 56.306,
+    "emotion": "hopeful",
+    "detailed_reasoning": "The speaker's entire demeanor lifts as she says, 'Well, I took her advice'. Her tone becomes brighter and more positive, a smile returns to her face, and her posture seems to lift. This marks the positive resolution to her story, indicating hope and positive change.",
+    "summary_reasoning": "Brighter tone, smile returns, story resolution."
+  }
+]

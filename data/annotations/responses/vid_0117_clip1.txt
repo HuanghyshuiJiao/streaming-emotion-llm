@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 2.054,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins with a serious and slightly worried tone, stating \"This is bad.\" Her facial expression is tense, with wide eyes and a firm mouth, underscoring the gravity of her words about the \"last liberal who came to town.\"",
+    "summary_reasoning": "Serious tone, tense expression."
+  },
+  {
+    "timestamp": 8.724,
+    "emotion": "disdainful",
+    "detailed_reasoning": "Her tone shifts to one of disdain and slight mockery as she begins the anecdote about her cousin's girlfriend from California. Her facial expression tightens, and the emphasis on \"California\" suggests a negative stereotype is being invoked.",
+    "summary_reasoning": "Disdainful tone, tight expression."
+  },
+  {
+    "timestamp": 11.328,
+    "emotion": "disgusted",
+    "detailed_reasoning": "When describing the braided armpit hair, her expression conveys clear disgust. She raises her eyebrows, and her mouth forms a slight grimace. Her tone is one of disbelief and disapproval, which is reinforced when she says, \"She did. JJ saw it.\"",
+    "summary_reasoning": "Disgusted expression, disapproving tone."
+  },
+  {
+    "timestamp": 18.319,
+    "emotion": "scornful",
+    "detailed_reasoning": "Recounting how the girl chained herself to a barbecue restaurant, the speaker's tone becomes scornful. She speaks with a slight, mocking cadence, and her facial expression is one of contempt for the girl's actions, portraying them as absurd.",
+    "summary_reasoning": "Scornful tone, mocking cadence."
+  },
+  {
+    "timestamp": 23.647,
+    "emotion": "smug",
+    "detailed_reasoning": "After describing the protest, she pauses and asks, \"You know what happened to her?\" with a knowing, slightly smug look. Her eyes narrow, and a small smile plays on her lips, anticipating the negative outcome she's about to share.",
+    "summary_reasoning": "Knowing look, slight smile."
+  },
+  {
+    "timestamp": 29.295,
+    "emotion": "satisfied",
+    "detailed_reasoning": "Concluding the story with the girl's foot being run over by a garbage truck, the speaker's emotion is one of grim satisfaction. She nods affirmatively and maintains a slight, satisfied smile, as if this outcome was deserved or expected. Her final words, \"ran right over her foot,\" are delivered with a sense of finality and justification.",
+    "summary_reasoning": "Satisfied smile, affirmative nod."
+  }
+]

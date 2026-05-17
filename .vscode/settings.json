@@ -1,0 +1,11 @@
+{
+  "python.defaultInterpreterPath": "D:\\Users\\15373\\anaconda3\\envs\\video-mm\\python.exe",
+  "python.terminal.activateEnvironment": true,
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}/src"
+  ],
+  "terminal.integrated.env.windows": {
+    "CONDA_DEFAULT_ENV": "video-mm",
+    "PYTHONPATH": "${workspaceFolder}/src"
+  }
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 3.801,
+    "emotion": "sincere",
+    "detailed_reasoning": "The speaker begins by offering advice. His tone is calm and measured, and he maintains direct eye contact with the camera. His facial expression is neutral but engaged, conveying a sense of sincerity and seriousness in his message.",
+    "summary_reasoning": "Calm tone, direct eye contact, serious expression."
+  },
+  {
+    "timestamp": 8.352,
+    "emotion": "warm",
+    "detailed_reasoning": "When the speaker mentions bringing friends and family along, his facial expression softens, and a gentle smile appears. His tone becomes warmer and more inviting, suggesting positive feelings associated with loved ones.",
+    "summary_reasoning": "Soft expression, gentle smile, warmer tone."
+  },
+  {
+    "timestamp": 11.44,
+    "emotion": "earnest",
+    "detailed_reasoning": "The speaker advises not to assume loved ones will be a distraction. He slightly raises his eyebrows and his gaze becomes more intense, emphasizing his point. The tone is serious and earnest, aiming to persuade the listener of his conviction.",
+    "summary_reasoning": "Raised eyebrows, intense gaze, serious tone."
+  },
+  {
+    "timestamp": 18.271,
+    "emotion": "reassuring",
+    "detailed_reasoning": "Explaining how family can 'take the weight off your shoulders,' the speaker's voice becomes softer and more gentle. His expression is understanding and empathetic, conveying a reassuring and comforting message.",
+    "summary_reasoning": "Softer tone, empathetic expression."
+  },
+  {
+    "timestamp": 22.1,
+    "emotion": "joyful",
+    "detailed_reasoning": "The speaker's face lights up with a wide, genuine smile as he talks about enjoying moments and celebrating with people. His eyes crinkle, and his tone becomes more lively and upbeat, clearly indicating joy.",
+    "summary_reasoning": "Wide smile, crinkled eyes, lively tone."
+  },
+  {
+    "timestamp": 27.233,
+    "emotion": "heartfelt",
+    "detailed_reasoning": "As he encourages surrounding oneself with loved ones, the speaker's expression is very open and genuine. His tone is deeply sincere and heartfelt, showing the personal importance of this message to him.",
+    "summary_reasoning": "Open expression, sincere tone."
+  },
+  {
+    "timestamp": 35.434,
+    "emotion": "encouraging",
+    "detailed_reasoning": "After a reflective pause, the speaker's demeanor shifts. He delivers the line 'get after it' with a bright, confident smile and a more energetic, motivational tone, intended to encourage and inspire.",
+    "summary_reasoning": "Confident smile, energetic tone."
+  },
+  {
+    "timestamp": 40.146,
+    "emotion": "amused",
+    "detailed_reasoning": "After hearing an off-screen voice say 'Beautiful,' the speaker's smile broadens into a more relaxed, amused grin. He looks slightly to the side, and his expression is one of lighthearted pleasure and amusement in reaction to the comment.",
+    "summary_reasoning": "Broad grin, sideward glance, reaction to off-screen comment."
+  }
+]

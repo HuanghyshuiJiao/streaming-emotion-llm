@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 3.975,
+    "emotion": "sad",
+    "detailed_reasoning": "The clip begins with a close-up on the character's face. Her makeup is smeared as if she has been crying, and her facial expression is one of deep sorrow and exhaustion. Her voice is soft, shaky, and filled with regret as she says, 'And I tried.' The combination of her distressed appearance and emotional vocal delivery clearly indicates sadness.",
+    "summary_reasoning": "Smeared makeup, sad expression, shaky voice."
+  },
+  {
+    "timestamp": 14.225,
+    "emotion": "heartbroken",
+    "detailed_reasoning": "The character's initial sadness deepens into heartbreak as she explains her motivation. Her voice trembles and almost breaks on the words 'I loved you.' Her eyes are downcast and filled with pain, reflecting on a past love that seems to be the source of her current sorrow. The context provided by the words confirms the profound emotional pain visible on her face and audible in her voice.",
+    "summary_reasoning": "Voice trembling, pained expression, sad words."
+  },
+  {
+    "timestamp": 26.817,
+    "emotion": "resigned",
+    "detailed_reasoning": "There is a subtle shift in her demeanor. After expressing her heartbreak, her tone becomes more matter-of-fact, though still tinged with sadness. As she says, 'I'm not as sweet as Stella,' her expression hardens slightly. This marks a transition from raw sadness to a state of grim acceptance or resignation to a reality she cannot change.",
+    "summary_reasoning": "Hardened expression, matter-of-fact tone."
+  },
+  {
+    "timestamp": 47.382,
+    "emotion": "defiant",
+    "detailed_reasoning": "A dramatic shift occurs. The background music begins to swell, and her entire demeanor changes. Her expression, previously sad and resigned, morphs into a cold, determined look. When she says, 'I'm Cruella,' her voice is firm and steady. This is a moment of transformation where she casts off her former self and embraces a new, more formidable identity with defiance.",
+    "summary_reasoning": "Swelling music, cold expression, firm voice."
+  },
+  {
+    "timestamp": 58.333,
+    "emotion": "maniacal",
+    "detailed_reasoning": "Her defiance evolves into a more unhinged, maniacal state. As she lists her new attributes—'Born brilliant, born bad, and a little bit mad'—a smirk plays on her lips, and her eyes have a wild, gleeful look. The transformation is complete, and she seems to revel in this darker, more chaotic persona. The slight, almost imperceptible chuckle confirms this manic glee.",
+    "summary_reasoning": "Smirk, wild eyes, gleeful tone."
+  }
+]

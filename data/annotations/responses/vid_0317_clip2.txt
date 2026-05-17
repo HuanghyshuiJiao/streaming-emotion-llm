@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 0.952,
+    "emotion": "confused",
+    "detailed_reasoning": "The speaker begins with a rhetorical question, her head slightly tilted and her brows furrowed. Her tone is questioning and reflects a sense of bewilderment about a situation, as if she's trying to process something unbelievable.",
+    "summary_reasoning": "Questioning tone, furrowed brows, head tilt."
+  },
+  {
+    "timestamp": 6.197,
+    "emotion": "anxious",
+    "detailed_reasoning": "After mentioning a \"leper,\" she labels the condition as \"social leprosy.\" Her eyes widen slightly, and her voice carries a tense, worried quality. The concept itself is highly negative, and her delivery suggests a growing sense of dread about this social isolation.",
+    "summary_reasoning": "Tense voice, wide eyes, negative words."
+  },
+  {
+    "timestamp": 11.302,
+    "emotion": "conflicted",
+    "detailed_reasoning": "The speaker explicitly states her internal struggle: \"The right thing feels so wrong.\" Her facial expression is pained, her eyes look down, and her vocal tone is filled with turmoil, clearly showing she is torn between two difficult choices.",
+    "summary_reasoning": "Pained expression, conflicted words, downward gaze."
+  },
+  {
+    "timestamp": 18.289,
+    "emotion": "desperate",
+    "detailed_reasoning": "She states that the truth will ruin her. Her voice rises in pitch and volume, and her expression becomes more distressed. This escalation conveys a feeling of being trapped with no good options, leading to a sense of desperation.",
+    "summary_reasoning": "Higher pitch, distressed expression, words of ruin."
+  },
+  {
+    "timestamp": 26.477,
+    "emotion": "resigned",
+    "detailed_reasoning": "Following the expression of her dilemma, her shoulders slump slightly and her voice drops to a lower, flatter tone as she says, \"I'm not so sure I care.\" This shift in energy and vocal quality indicates a move from active struggle to a state of weary resignation or defeat.",
+    "summary_reasoning": "Flat tone, slumping shoulders, words of indifference."
+  },
+  {
+    "timestamp": 32.694,
+    "emotion": "cynical",
+    "detailed_reasoning": "She connects her situation to what happened to \"all those guys who stood up for what was right.\" Her tone becomes slightly bitter and dismissive, and she shakes her head subtly, suggesting a cynical belief that doing the right thing only leads to punishment.",
+    "summary_reasoning": "Bitter tone, subtle head shake, cynical words."
+  },
+  {
+    "timestamp": 43.46,
+    "emotion": "somber",
+    "detailed_reasoning": "Listing the tragic fates of Gandhi, MLK, and Jesus, her voice becomes quiet and heavy. She looks down and away, her facial expression reflecting the gravity of their sacrifices. The pace of her speech slows, creating a somber and mournful mood.",
+    "summary_reasoning": "Quiet, heavy voice, downward gaze, slow pace."
+  },
+  {
+    "timestamp": 53.764,
+    "emotion": "defeated",
+    "detailed_reasoning": "In her final statement, \"I'm no Jesus,\" her voice is soft and filled with a sense of finality and inadequacy. Her gaze remains downcast, and her expression is one of complete surrender, acknowledging she doesn't have the strength to follow the path of a martyr.",
+    "summary_reasoning": "Soft voice, downcast gaze, words of inadequacy."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 1.393,
+    "emotion": "pleased",
+    "detailed_reasoning": "The speaker's initial state is calm and informative. When she says the word \"confident,\" her tone brightens slightly and the corners of her mouth lift into a subtle smile. The content of her speech is positive, reflecting on a positive change in her daughter, which is mirrored in her expression and tone.",
+    "summary_reasoning": "Positive words, brightening tone, subtle smile."
+  },
+  {
+    "timestamp": 12.468,
+    "emotion": "engaged",
+    "detailed_reasoning": "The speaker transitions from simply stating a fact to explaining the reason behind it. Her tone becomes more emphatic and her pitch rises on the word \"relate.\" Her eyes are wide and she maintains steady eye contact, showing her investment in the explanation and her belief in the importance of connecting with the material.",
+    "summary_reasoning": "Emphatic tone, rising pitch, wide eyes."
+  },
+  {
+    "timestamp": 21.179,
+    "emotion": "enthusiastic",
+    "detailed_reasoning": "When describing the showcase program as \"really great,\" the speaker's positive emotion becomes more pronounced. A clear smile appears, her eyebrows raise, and her vocal tone becomes higher and more energetic, conveying strong approval and enthusiasm for the program's benefits.",
+    "summary_reasoning": "Positive words, clear smile, energetic tone."
+  },
+  {
+    "timestamp": 27.487,
+    "emotion": "serious",
+    "detailed_reasoning": "As the speaker mentions \"real world pressure,\" her demeanor shifts. Her enthusiastic smile fades, her expression becomes neutral and more serious, and her vocal pitch drops slightly. This change in tone and expression effectively contrasts the positive aspects of the program with the serious challenges of the business.",
+    "summary_reasoning": "Smile fades, neutral expression, lower pitch."
+  },
+  {
+    "timestamp": 38.419,
+    "emotion": "content",
+    "detailed_reasoning": "Discussing how the kids feel more comfortable among their peers, the speaker's tone softens and becomes warmer. A gentle smile returns to her face, and her overall expression is relaxed. This combination of cues indicates a feeling of contentment and happiness about the supportive environment the program provides.",
+    "summary_reasoning": "Soft tone, gentle smile, relaxed expression."
+  },
+  {
+    "timestamp": 42.21,
+    "emotion": "concerned",
+    "detailed_reasoning": "The speaker's emotion shifts as she describes the negative feelings kids might have at auditions, such as being \"under a microscope.\" Her eyebrows furrow slightly, her expression becomes more tense, and her tone is grave. This demonstrates her concern for the children and highlights the stressful nature of traditional auditions.",
+    "summary_reasoning": "Furrowed brows, tense expression, grave tone."
+  }
+]

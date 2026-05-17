@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 1.813,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins with a calm, conversational tone and relaxed facial expression. He is setting up a relatable scenario about procrastination, speaking in a measured and even pace to draw the listener in.",
+    "summary_reasoning": "Calm tone, relaxed face, measured pace."
+  },
+  {
+    "timestamp": 13.927,
+    "emotion": "knowing",
+    "detailed_reasoning": "The speaker's tone shifts from a neutral narrative to a more assertive and definitive statement. By saying, \"They've already made up their minds,\" his expression becomes more serious, and he leans forward slightly, conveying a sense of insider knowledge or a hard truth.",
+    "summary_reasoning": "Assertive tone, serious expression, definitive statement."
+  },
+  {
+    "timestamp": 22.617,
+    "emotion": "emphatic",
+    "detailed_reasoning": "The speaker transitions with the word \"So\" and his vocal intensity increases. He stresses the words \"how important it is,\" using a more forceful tone and direct eye contact to emphasize the critical nature of the advice he is about to give.",
+    "summary_reasoning": "Increased vocal intensity, direct eye contact, stressed words."
+  },
+  {
+    "timestamp": 32.191,
+    "emotion": "empathetic",
+    "detailed_reasoning": "After his emphatic point, the speaker's tone softens considerably. He acknowledges a common difficulty by saying, \"I know that finding a reader sometimes is difficult.\" His facial expression relaxes, and his pace slows, showing understanding and empathy for the viewer's potential struggles.",
+    "summary_reasoning": "Softened tone, relaxed face, acknowledging difficulty."
+  },
+  {
+    "timestamp": 39.382,
+    "emotion": "helpful",
+    "detailed_reasoning": "The speaker's emotion shifts to being actively helpful and solution-oriented. He directly tells the audience he is providing a resource, \"I'm going to put a link...\" His tone is clear and practical, and his hand gestures are used to guide the viewer's attention, reinforcing his intention to provide a useful tool.",
+    "summary_reasoning": "Solution-oriented language, clear tone, guiding gestures."
+  },
+  {
+    "timestamp": 51.259,
+    "emotion": "encouraging",
+    "detailed_reasoning": "The speaker's tone becomes more motivational and directive. He uses imperative verbs like \"Find\" and \"get\" to empower the audience. His hand gestures become more open and expansive as he talks about building a community, creating an encouraging and supportive atmosphere.",
+    "summary_reasoning": "Motivational tone, directive language, expansive gestures."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 2.895,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker begins with a story of betrayal. His facial expression is somber, with slightly downturned lips and a steady, low-pitched voice. The content of his words, describing his father sacking a city after he opened the gates, suggests a painful memory, and his demeanor reflects this sadness and gravity.",
+    "summary_reasoning": "Somber face, low tone, sad story."
+  },
+  {
+    "timestamp": 12.087,
+    "emotion": "desperate",
+    "detailed_reasoning": "The speaker's face tenses up, his eyebrows furrow slightly, and he squints his eyes as he says \"I pleaded with him.\" His voice gains a slight strain, conveying a sense of desperation and earnestness from the past event he is recounting. This shows a shift from general sadness to a more specific memory of pleading.",
+    "summary_reasoning": "Tense face, strained voice."
+  },
+  {
+    "timestamp": 19.977,
+    "emotion": "pained",
+    "detailed_reasoning": "After recounting the king's shocking demand for his father's head, the speaker's expression becomes more pained. His eyebrows are more deeply furrowed, and his mouth is tense. The emotional weight of this memory is visible on his face, indicating a deep sense of hurt and betrayal.",
+    "summary_reasoning": "Furrowed brow, tense mouth."
+  },
+  {
+    "timestamp": 26.386,
+    "emotion": "disgusted",
+    "detailed_reasoning": "When quoting the king's command \"Burn them all,\" the speaker's tone becomes sharper and filled with contempt. His facial expression shows disgust, with a slight sneer and narrowed eyes. He is clearly appalled by the memory of this cruel order, and his emotion shifts from personal pain to disgust at the king's actions.",
+    "summary_reasoning": "Sharp tone, sneer, contemptuous expression."
+  },
+  {
+    "timestamp": 38.923,
+    "emotion": "accusatory",
+    "detailed_reasoning": "The speaker's demeanor changes as he poses a direct, hypothetical question. He leans forward slightly, his gaze intensifies, and his tone becomes pointed and accusatory when he says \"if your precious Renly.\" He is no longer just recounting a story but is now challenging the listener, shifting the emotion to one of accusation.",
+    "summary_reasoning": "Intense gaze, pointed tone, challenging words."
+  },
+  {
+    "timestamp": 51.886,
+    "emotion": "contemptuous",
+    "detailed_reasoning": "By the end of his monologue, the speaker's face is filled with contempt. His eyebrows are lowered, his eyes are narrowed, and his lips are tightened in a sneer. His voice is firm and challenging as he asks, \"Would you have done it?\" This culminates the build-up of emotion, settling on a strong feeling of contempt for the listener's perceived hypocrisy and the oath they follow.",
+    "summary_reasoning": "Narrowed eyes, sneer, challenging tone."
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 2.355,
+    "emotion": "dramatic",
+    "detailed_reasoning": "The speaker begins his story by setting a scene. His tone is earnest and slightly exaggerated, and he uses his hands to frame his words, indicating he is launching into a significant and dramatic tale.",
+    "summary_reasoning": "Earnest tone, framing hand gestures."
+  },
+  {
+    "timestamp": 6.08,
+    "emotion": "proud",
+    "detailed_reasoning": "After revealing his minor role as a 'tree,' the speaker's tone shifts to one of pride and importance as he announces he had a line. His facial expression is serious and his eyes are wide, emphasizing the significance of this line to him.",
+    "summary_reasoning": "Serious expression, wide eyes, important tone."
+  },
+  {
+    "timestamp": 7.783,
+    "emotion": "theatrical",
+    "detailed_reasoning": "The speaker delivers his line with a theatrical flourish, pointing his finger up and moving his head with the words. This exaggerated performance of his line shows a theatrical and proud emotion, as if he is reliving his moment on stage.",
+    "summary_reasoning": "Exaggerated delivery, pointing gesture."
+  },
+  {
+    "timestamp": 12.71,
+    "emotion": "disappointed",
+    "detailed_reasoning": "The speaker's narrative takes a turn. The word 'but' signals a shift, and his vocal tone drops. His facial expression changes from proud to let down as he explains that his father didn't record his performance. His eyebrows are slightly furrowed and his mouth is downturned.",
+    "summary_reasoning": "Vocal tone drop, narrative shift, sad facial expression."
+  },
+  {
+    "timestamp": 18.799,
+    "emotion": "indignant",
+    "detailed_reasoning": "The speaker's emotion escalates from disappointment to indignation. He asks a rhetorical question, 'Can you believe it?', with wide eyes and raised eyebrows. His vocal pitch rises and he spreads his arms out in a gesture of disbelief and frustration.",
+    "summary_reasoning": "Rhetorical question, wide eyes, raised pitch, disbelief gesture."
+  },
+  {
+    "timestamp": 21.564,
+    "emotion": "annoyed",
+    "detailed_reasoning": "Continuing his complaint, the speaker's voice becomes more forceful and clipped. He refers to himself as 'Wonderful me' and shakes his head slightly, conveying a strong sense of annoyance and disbelief that he was overlooked for 'a bunch of apps.'",
+    "summary_reasoning": "Forceful tone, head shake, sarcastic words."
+  },
+  {
+    "timestamp": 25.69,
+    "emotion": "exasperated",
+    "detailed_reasoning": "The speaker concludes his story with a final, exasperated statement. He looks up and to the side in a moment of mock despair, stating it will take 'years to get over.' His delivery of the punchline, 'He should have gotten Sprint,' is delivered with a tone of finality and annoyance, suggesting this is the ultimate, frustrating conclusion to his problem.",
+    "summary_reasoning": "Mock despair look, annoyed tone, punchline delivery."
+  }
+]

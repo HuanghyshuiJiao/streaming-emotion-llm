@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 3.395,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker starts his talk with a neutral and composed tone. His facial expression is serious and focused, and his body language is still, indicating a calm and prepared state before delving into the main topic.",
+    "summary_reasoning": "Neutral tone, focused expression, still body."
+  },
+  {
+    "timestamp": 11.126,
+    "emotion": "sad",
+    "detailed_reasoning": "The content shifts to a serious topic ('one of the worst phone calls you can get'). His tone becomes more somber, his speaking pace slows down, and he briefly looks down, suggesting the introduction of a sad and difficult memory.",
+    "summary_reasoning": "Somber tone, slower pace, downward gaze."
+  },
+  {
+    "timestamp": 23.001,
+    "emotion": "grief",
+    "detailed_reasoning": "Recounting the moment he learned of his father's death, the speaker's voice is low and heavy with emotion. His facial expression is pained, his brows are furrowed, and he avoids eye contact. The combination of the tragic content and his subdued delivery clearly conveys a deep sense of grief and sorrow.",
+    "summary_reasoning": "Low voice, pained expression, tragic content."
+  },
+  {
+    "timestamp": 29.865,
+    "emotion": "anger",
+    "detailed_reasoning": "The speaker explicitly uses the word 'rage' to describe his past emotional state. Although his current delivery is still sad and reflective, the focus of the narrative is on the intense anger he felt at the time. His face shows the pain of remembering this destructive emotion.",
+    "summary_reasoning": "Explicitly states 'rage', pained recollection."
+  },
+  {
+    "timestamp": 38.823,
+    "emotion": "vulnerable",
+    "detailed_reasoning": "After describing his outburst, he mentions his girlfriend witnessing it. His tone softens and he looks down, conveying a sense of shame or vulnerability at having been seen in such a state. The focus shifts from the anger itself to the exposure of that anger.",
+    "summary_reasoning": "Softer tone, downward gaze, mentions being witnessed."
+  },
+  {
+    "timestamp": 44.304,
+    "emotion": "resigned",
+    "detailed_reasoning": "The speaker uses the phrase 'life goes on,' and his tone becomes more detached and matter-of-fact. This indicates a shift from recounting the intense, raw emotions of the immediate aftermath to a more resigned acceptance of the progression of time and the grieving process.",
+    "summary_reasoning": "Detached tone, transitional phrase."
+  },
+  {
+    "timestamp": 55.806,
+    "emotion": "contemplative",
+    "detailed_reasoning": "The speaker describes the 'interesting' realization that he had stopped thinking about his father. His tone shifts to one of curiosity and reflection. His facial expression is thoughtful as he reflects on this change in his own mental state, indicating a contemplative mood.",
+    "summary_reasoning": "Curious tone, thoughtful expression, self-reflection."
+  }
+]

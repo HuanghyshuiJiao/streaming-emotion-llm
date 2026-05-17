@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "happy",
+    "detailed_reasoning": "The speaker begins with a wide, genuine smile and a friendly wave to the camera. Her vocal tone is high-pitched, bright, and cheerful as she delivers her greeting, all of which are strong indicators of a happy and welcoming emotion.",
+    "summary_reasoning": "Smiling, waving, high-pitched cheerful voice."
+  },
+  {
+    "timestamp": 3.957,
+    "emotion": "confident",
+    "detailed_reasoning": "When introducing herself, the speaker maintains strong eye contact with the camera and keeps a pleasant, self-assured smile. Her voice is clear and steady, and the gesture of placing her hand on her chest adds a layer of sincerity and confidence to her introduction.",
+    "summary_reasoning": "Clear voice, direct eye contact, hand-on-chest gesture."
+  },
+  {
+    "timestamp": 6.301,
+    "emotion": "excited",
+    "detailed_reasoning": "To engage the audience, the speaker's vocal pitch rises and her speech quickens. Her facial expression becomes more animated, featuring raised eyebrows and a wider smile. She also leans forward slightly, creating a feeling of anticipation and excitement about the story she is about to tell.",
+    "summary_reasoning": "Rising pitch, wider smile, leaning forward."
+  },
+  {
+    "timestamp": 10.026,
+    "emotion": "calm",
+    "detailed_reasoning": "Transitioning from the excited question to the story's introduction, the speaker's vocal delivery becomes more measured and her tone settles. Her facial expression is neutral but remains friendly, indicating a shift into a calm, focused storytelling mode.",
+    "summary_reasoning": "Measured pace, neutral-friendly expression, narrative tone."
+  },
+  {
+    "timestamp": 17.859,
+    "emotion": "dramatic",
+    "detailed_reasoning": "The speaker adopts a classic storytelling tone, with clear enunciation and a slightly more performative quality. Her expression becomes serious and focused to establish the narrative setting and draw the listener into the story's world.",
+    "summary_reasoning": "Performative tone, focused expression."
+  },
+  {
+    "timestamp": 26.272,
+    "emotion": "alarmed",
+    "detailed_reasoning": "The word 'Suddenly' is used as a pivot point. The speaker's tone immediately shifts, becoming higher in pitch and more urgent. Her eyes widen slightly and her body language becomes more animated, effectively conveying the shock and alarm of the ant's sudden predicament.",
+    "summary_reasoning": "High pitch, widened eyes, abrupt tone shift."
+  },
+  {
+    "timestamp": 37.588,
+    "emotion": "distressed",
+    "detailed_reasoning": "The speaker embodies the character of the ant by crying out 'Help!' in a high-pitched, loud, and frantic voice. Her facial expression is contorted to show panic and distress, vividly portraying the character's desperate situation.",
+    "summary_reasoning": "High-pitched shouting, frantic voice, panicked expression."
+  },
+  {
+    "timestamp": 39.571,
+    "emotion": "sad",
+    "detailed_reasoning": "Immediately following the desperate cries, the speaker's vocal volume and pitch drop significantly. Her tone becomes somber, and her facial expression shifts from panic to one of hopelessness, conveying the sadness and despair of the ant's unheard pleas.",
+    "summary_reasoning": "Voice drops, somber tone, hopeless expression."
+  },
+  {
+    "timestamp": 43.317,
+    "emotion": "hopeful",
+    "detailed_reasoning": "As the narrative introduces the dove, the speaker's tone changes to become gentle and slightly lighter. This shift, combined with the introduction of a potential rescuer, creates a hopeful mood, suggesting a positive turn in the story. Her facial expression softens to match this new tone.",
+    "summary_reasoning": "Lighter tone, gentle voice, softened expression."
+  },
+  {
+    "timestamp": 49.906,
+    "emotion": "urgent",
+    "detailed_reasoning": "To match the quick action of the dove, the speaker's narration speeds up and her tone becomes more active and purposeful. Her hand gestures are sharp and decisive, mimicking the action of plucking and dropping a leaf, which enhances the feeling of urgency.",
+    "summary_reasoning": "Faster pace, active tone, decisive gestures."
+  },
+  {
+    "timestamp": 55.28,
+    "emotion": "relieved",
+    "detailed_reasoning": "As the ant successfully climbs onto the leaf, the speaker's pacing slows down and her voice becomes calm. A slight, satisfied smile appears on her face, indicating the positive resolution of the immediate crisis and conveying a sense of relief.",
+    "summary_reasoning": "Slowed pace, calm tone, slight smile."
+  }
+]

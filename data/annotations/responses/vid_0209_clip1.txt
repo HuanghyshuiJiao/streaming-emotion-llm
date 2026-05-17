@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 6.358,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins with a steady and even vocal tone. His facial expression is neutral and he maintains eye contact with the camera, creating a calm and introductory atmosphere.",
+    "summary_reasoning": "Steady tone, neutral expression."
+  },
+  {
+    "timestamp": 11.423,
+    "emotion": "enthusiastic",
+    "detailed_reasoning": "When announcing the new \"Free Drama writing school,\" the speaker's pitch slightly rises and his eyebrows lift. His articulation becomes more pronounced, conveying a sense of excitement about this new venture he is introducing.",
+    "summary_reasoning": "Higher pitch, raised eyebrows, clear articulation."
+  },
+  {
+    "timestamp": 21.354,
+    "emotion": "earnest",
+    "detailed_reasoning": "The speaker's pace slows slightly and his tone becomes more sincere as he explains his motivation for starting the school, which came from receiving many requests for help. He appears thoughtful and genuine in his desire to assist new writers.",
+    "summary_reasoning": "Slower pace, sincere tone, thoughtful expression."
+  },
+  {
+    "timestamp": 35.971,
+    "emotion": "confident",
+    "detailed_reasoning": "When listing his writing experience (plays, short stories, poetry), the speaker's voice is firm and steady. This shift in vocal quality indicates confidence in his abilities and credentials to teach the subject matter.",
+    "summary_reasoning": "Firm, steady voice."
+  },
+  {
+    "timestamp": 46.946,
+    "emotion": "upbeat",
+    "detailed_reasoning": "The speaker's tone becomes lighter and more cheerful when he emphasizes that the focus of the writing school is to be \"creative\" and \"fun.\" A slight smile appears, reinforcing the positive and enjoyable aspect of his program.",
+    "summary_reasoning": "Lighter tone, slight smile."
+  },
+  {
+    "timestamp": 51.552,
+    "emotion": "welcoming",
+    "detailed_reasoning": "After specifying the course is for new writers, the speaker quickly adds that experienced writers are also welcome. His tone is inclusive and reassuring, and his use of the phrase \"that's fine\" creates a welcoming and non-exclusive atmosphere for potential students of all levels.",
+    "summary_reasoning": "Inclusive, reassuring tone."
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 1.313,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins with a direct and confrontational tone. Her facial expression is stern, with slightly narrowed eyes and a firm set to her mouth, indicating she is initiating a serious and non-negotiable conversation.",
+    "summary_reasoning": "Direct tone, stern expression."
+  },
+  {
+    "timestamp": 5.398,
+    "emotion": "commanding",
+    "detailed_reasoning": "The speaker's tone becomes more forceful and her pace quickens as she gives a direct order: \"do not walk away from me.\" Her expression intensifies, conveying a clear assertion of authority and a demand for compliance.",
+    "summary_reasoning": "Forceful tone, quick pace, direct order."
+  },
+  {
+    "timestamp": 9.564,
+    "emotion": "threatening",
+    "detailed_reasoning": "The speaker's tone drops and becomes more pointed as she labels the other person's body language \"aggressive\" and follows it with the veiled threat, \"we might have to do something about that.\" Her steady, intense gaze reinforces the menacing nature of her words.",
+    "summary_reasoning": "Low tone, intense gaze, veiled threat."
+  },
+  {
+    "timestamp": 11.326,
+    "emotion": "taunting",
+    "detailed_reasoning": "The emotion shifts from a direct threat to a more psychological one. Her tone becomes mock-inquisitive as she suggests \"a sedative?\" and \"diazepam?\". This, combined with a slight head tilt and a condescending facial expression, serves to taunt and undermine the person she is addressing.",
+    "summary_reasoning": "Mocking tone, head tilt, condescending expression."
+  },
+  {
+    "timestamp": 14.09,
+    "emotion": "patronizing",
+    "detailed_reasoning": "The speaker's tone becomes falsely gentle and superior, as if speaking to a child. Phrases like \"I don't think being alone is best for you\" are delivered with a condescending certainty that invalidates the other person's feelings and asserts her own judgment as absolute.",
+    "summary_reasoning": "Falsely gentle tone, condescending words."
+  },
+  {
+    "timestamp": 24.044,
+    "emotion": "menacing",
+    "detailed_reasoning": "The speaker's tone becomes possessive and cold, especially on the line \"we want you to stay here.\" The words, which could be seen as welcoming in another context, are delivered with a chilling finality and a subtle, unsettling smile that does not reach her eyes, making the statement menacing.",
+    "summary_reasoning": "Cold tone, unsettling smile, possessive words."
+  },
+  {
+    "timestamp": 31.033,
+    "emotion": "manipulative",
+    "detailed_reasoning": "The speaker's pace accelerates significantly as she lays out a calculated, no-win scenario for the patient. Her tone is clinical and detached as she explains how they will either force the patient to \"fit in\" or \"act out,\" revealing a clear, manipulative strategy to justify a diagnosis. Her hand gestures become more expansive, illustrating her control over the situation.",
+    "summary_reasoning": "Rapid pace, clinical tone, expansive gestures."
+  },
+  {
+    "timestamp": 40.125,
+    "emotion": "dismissive",
+    "detailed_reasoning": "After revealing her manipulative plan, the speaker's tone shifts to one of feigned innocence and dismissiveness. By stating, \"We didn't cause your social anxiety. We only heightened what was already there,\" she deflects all responsibility, a classic gaslighting tactic delivered with a calm, self-righteous air.",
+    "summary_reasoning": "Defensive tone, deflecting words, feigned innocence."
+  },
+  {
+    "timestamp": 43.91,
+    "emotion": "insincere",
+    "detailed_reasoning": "The speaker adopts a sickly sweet and completely insincere tone. The phrase \"We just want to see you reach your full potential as a patient\" is delivered with a slight, cold smile. The cynical nature of the words, combined with the false warmth of her voice, highlights the deep insincerity of her stated intentions.",
+    "summary_reasoning": "Sickly sweet tone, cold smile, cynical words."
+  },
+  {
+    "timestamp": 50.659,
+    "emotion": "cold",
+    "detailed_reasoning": "For the final statement, the speaker's delivery becomes very slow, deliberate, and devoid of any previous emotion. The words \"this asylum was built to help you\" are spoken in a flat, almost robotic tone, creating a chilling and final assertion of absolute, unemotional power and control.",
+    "summary_reasoning": "Slow pace, flat tone, emotionless delivery."
+  }
+]

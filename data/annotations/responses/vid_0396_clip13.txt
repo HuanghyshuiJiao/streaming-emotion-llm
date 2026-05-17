@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 1.112,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his sentence with a calm and informative tone. His facial expression is neutral, and his body language is relaxed as he introduces the next topic.",
+    "summary_reasoning": "Calm tone, neutral expression."
+  },
+  {
+    "timestamp": 6.117,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker's tone shifts to a more playful and amused one as he uses the humorous exaggeration \"overdosed on endorphins.\" A slight, knowing smile appears on his face, indicating he's about to share something entertaining.",
+    "summary_reasoning": "Playful tone, slight smile."
+  },
+  {
+    "timestamp": 8.279,
+    "emotion": "anticipatory",
+    "detailed_reasoning": "The speaker's smile widens slightly and his tone becomes more anticipatory as he sets up the video clip for the audience. He says, \"Let's just look what that looks like,\" inviting the audience to share in the upcoming humorous moment.",
+    "summary_reasoning": "Wider smile, anticipatory tone."
+  },
+  {
+    "timestamp": 13.585,
+    "emotion": "joyful",
+    "detailed_reasoning": "The video clip begins, showing a bride at her wedding. The dominant emotion shifts to the content of the clip. The bride is seen laughing uncontrollably, a clear expression of overwhelming joy and amusement that is infectious and humorous in the context of a solemn ceremony.",
+    "summary_reasoning": "Video clip, bride laughing uncontrollably."
+  },
+  {
+    "timestamp": 44.729,
+    "emotion": "amused",
+    "detailed_reasoning": "The humor of the scene is sustained and amplified as the priest's serious, repeated lines (\"To inspire and to respond\") are juxtaposed with the bride's continued, helpless laughter. This contrast creates a consistently amusing and lighthearted emotional state for the viewer.",
+    "summary_reasoning": "Juxtaposition of priest's seriousness and bride's laughter."
+  }
+]

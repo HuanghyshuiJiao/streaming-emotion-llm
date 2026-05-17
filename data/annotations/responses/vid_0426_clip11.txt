@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "solemn",
+    "detailed_reasoning": "The speaker begins with the word 'Father,' immediately setting a prayerful and serious tone. His voice is low-pitched, slow, and reverent. His head is bowed and his eyes are looking down, which are typical postures for prayer, indicating a solemn and focused state of mind.",
+    "summary_reasoning": "Prayer-like tone, bowed head, slow speech."
+  },
+  {
+    "timestamp": 9.848,
+    "emotion": "sincere",
+    "detailed_reasoning": "The speaker's tone shifts to a more pleading and earnest quality as he asks for encouragement. He uses a gentle, beseeching voice, and his hand gestures become slightly more expressive, reinforcing the sincerity of his request within the prayer. The context is asking for divine help, which supports this interpretation.",
+    "summary_reasoning": "Pleading tone, earnest speech, expressive hands."
+  },
+  {
+    "timestamp": 17.501,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker's tone becomes more introspective and personal as he discusses the nature of personal experience as evidence. He slows his pace slightly and his voice takes on a more contemplative quality, suggesting he is reflecting on a deeper, personal conviction. This is a shift from direct petition to a more philosophical point within his prayer.",
+    "summary_reasoning": "Introspective tone, slower pace, personal content."
+  },
+  {
+    "timestamp": 26.339,
+    "emotion": "grateful",
+    "detailed_reasoning": "The speaker's emotion shifts to gratitude, clearly marked by the phrase 'we just thank you.' His tone becomes softer and warmer, conveying appreciation. This is a distinct change from the previous pleading and reflective tones, indicating a new section of the prayer focused on thankfulness.",
+    "summary_reasoning": "Explicit words of thanks, softer tone, warmer voice."
+  },
+  {
+    "timestamp": 37.325,
+    "emotion": "friendly",
+    "detailed_reasoning": "There is a complete change in scene and demeanor. The speaker is now in an office setting, looking directly at the camera with a slight smile. His tone is conversational, upbeat, and welcoming. This marks a transition from a formal, solemn prayer to an informal, friendly address to the audience.",
+    "summary_reasoning": "Scene change, direct eye contact, smiling, conversational tone."
+  },
+  {
+    "timestamp": 41.435,
+    "emotion": "appreciative",
+    "detailed_reasoning": "The speaker explicitly states 'I really appreciate it' and asks viewers to subscribe. His tone is genuinely thankful and persuasive. His facial expression is open and he uses hand gestures to emphasize his appeal, showing appreciation for the viewer's time and encouraging their engagement.",
+    "summary_reasoning": "Words of appreciation, persuasive tone, open expression."
+  }
+]

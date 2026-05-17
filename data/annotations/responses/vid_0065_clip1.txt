@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 1.713,
+    "emotion": "somber",
+    "detailed_reasoning": "The video begins with a tight close-up on the speaker's face. The lighting is dramatic, with one side of his face in shadow. His expression is neutral and his gaze is fixed. He delivers the first line, \"I sold her a ticket that night,\" in a flat, low-pitched, and monotonic voice. The combination of the stark visuals and the detached vocal delivery creates a serious and somber mood from the very beginning.",
+    "summary_reasoning": "Neutral expression, flat tone, stark lighting."
+  },
+  {
+    "timestamp": 11.867,
+    "emotion": "sad",
+    "detailed_reasoning": "After a long pause, the speaker recalls a past memory, \"we used to play foursquare once together.\" His voice remains low and slow, and his facial expression is still largely neutral. However, the mention of a shared, seemingly innocent past activity, combined with the overwhelmingly somber context, suggests an underlying sadness and a sense of loss for that past connection. There's a subtle hint of wistfulness in his unchanging expression.",
+    "summary_reasoning": "Recalling past, somber tone, unchanging expression."
+  },
+  {
+    "timestamp": 26.427,
+    "emotion": "melancholy",
+    "detailed_reasoning": "The speaker says, \"she seems sweet.\" The words themselves are positive, but his delivery remains completely flat and devoid of warmth. This contrast between the positive content and the sad, detached delivery creates a strong sense of melancholy. He is recalling a positive attribute of someone lost, but he is unable to express any positive emotion, highlighting his current state of sadness.",
+    "summary_reasoning": "Positive words, flat sad tone."
+  },
+  {
+    "timestamp": 35.286,
+    "emotion": "grief",
+    "detailed_reasoning": "The speaker reveals how he learned more about the person: \"until I saw that article in the paper.\" This line heavily implies that something tragic happened to her, which was reported in the news. The context shifts from a simple memory to the aftermath of a tragedy. His face remains a mask, but the gravity of the words, delivered with the same slow, somber tone, transforms the underlying sadness into a palpable sense of grief.",
+    "summary_reasoning": "Implying tragedy, grave tone, neutral expression."
+  },
+  {
+    "timestamp": 55.3,
+    "emotion": "grief",
+    "detailed_reasoning": "As he delivers the final line, \"She had a younger sister named Caroline,\" his voice shows a very subtle tremor. Just after he finishes speaking, a single tear forms in his eye and rolls down his cheek. This is the first overt and powerful visual confirmation of the deep grief that has been suppressed throughout the entire monologue, culminating in this final, heart-wrenching detail about her family.",
+    "summary_reasoning": "Voice tremor, visible tear."
+  }
+]

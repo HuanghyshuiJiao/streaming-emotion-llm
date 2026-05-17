@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker begins with a serious and direct statement, 'You may think it's funny, but I was the last one to see them alive.' Her facial expression is grave, her eyebrows are slightly lowered, and her tone is low and measured. This combination of verbal and non-verbal cues immediately sets a somber and serious mood for the story she is about to tell.",
+    "summary_reasoning": "Serious words, grave expression, low tone."
+  },
+  {
+    "timestamp": 10.223,
+    "emotion": "nostalgic",
+    "detailed_reasoning": "After stating the birds' rarity, she mentions, 'and the zoo had four of them.' As she says this, a very subtle, fleeting smile appears, and she gives a slight, soft nod. This suggests a fond, bittersweet memory of the zoo's special role, shifting the emotion from purely somber to nostalgic.",
+    "summary_reasoning": "Fleeting smile, fond memory."
+  },
+  {
+    "timestamp": 14.728,
+    "emotion": "wistful",
+    "detailed_reasoning": "The speaker's expression softens considerably as she recalls, 'just to watch them.' Her eyes look upward and away, a common sign of deep recollection. Her tone becomes gentler and more breathy, conveying a sense of longing and peaceful remembrance of the beautiful sight, indicating a wistful emotional state.",
+    "summary_reasoning": "Soft expression, distant gaze, gentle tone."
+  },
+  {
+    "timestamp": 21.036,
+    "emotion": "admiring",
+    "detailed_reasoning": "When describing the birds as 'so graceful,' her voice becomes softer and filled with awe. Her facial expression reflects deep admiration and wonder. This shift in tone and expression indicates her strong appreciation for the beauty of the birds' movements.",
+    "summary_reasoning": "Awestruck tone, admiring expression."
+  },
+  {
+    "timestamp": 25.601,
+    "emotion": "fond",
+    "detailed_reasoning": "The speaker makes a personal and specific comparison, saying their legs were 'as skinny as my little finger.' While saying this, she looks down at her hand and a small, affectionate smile appears. This gesture and fond smile show a tender and warm feeling associated with this specific memory.",
+    "summary_reasoning": "Affectionate smile, personal gesture."
+  },
+  {
+    "timestamp": 32.303,
+    "emotion": "disappointed",
+    "detailed_reasoning": "The mood shifts abruptly when she explains the reason for the birds' rarity: 'they killed him off for feathers.' Her fond smile vanishes, her jaw tightens, and her tone becomes harsher and laced with sadness and disapproval. This change clearly signals her disappointment and dismay.",
+    "summary_reasoning": "Smile vanishes, jaw tightens, harsh tone."
+  },
+  {
+    "timestamp": 38.811,
+    "emotion": "anxious",
+    "detailed_reasoning": "As she begins describing the 'gang of boys,' her eyes widen slightly and her expression becomes tense. Her speaking pace quickens, and her tone lowers, creating a sense of impending trouble. This change in demeanor reflects the anxiety and fear she felt as the scene unfolded.",
+    "summary_reasoning": "Wide eyes, tense expression, quicker pace."
+  },
+  {
+    "timestamp": 51.186,
+    "emotion": "scared",
+    "detailed_reasoning": "The speaker explicitly states her emotion by saying she was 'scared.' Her facial expression confirms this feeling; her eyes are wide and her face is tense. Her voice is hushed and conveys a genuine sense of fear as she recalls the intimidating presence of the boys.",
+    "summary_reasoning": "States 'scared', wide eyes, tense face."
+  },
+  {
+    "timestamp": 56.432,
+    "emotion": "disgusted",
+    "detailed_reasoning": "When recounting that the boys were saying 'dirty things,' her expression shifts from fear to clear disgust. Her nose wrinkles slightly, her lips tighten, and she gives a small shake of her head. Her tone is low and filled with contempt, indicating her revulsion at their behavior.",
+    "summary_reasoning": "Wrinkled nose, tight lips, contemptuous tone."
+  }
+]

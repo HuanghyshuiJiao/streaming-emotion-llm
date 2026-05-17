@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp": 1.633,
+    "emotion": "inquisitive",
+    "detailed_reasoning": "The speaker begins with a rhetorical question. His tone is questioning and his facial expression, with slightly furrowed brows, suggests he is posing a thought-provoking idea to the audience rather than expressing a personal emotion. The context is the start of a monologue, setting a contemplative stage.",
+    "summary_reasoning": "Rhetorical question, questioning tone, furrowed brows."
+  },
+  {
+    "timestamp": 6.238,
+    "emotion": "compassionate",
+    "detailed_reasoning": "When mentioning the poor crying and Caesar weeping, the speaker's tone softens significantly, and his facial expression becomes more empathetic. This shift in vocal and facial cues conveys a sense of compassion for the suffering he is describing, aligning with the words spoken.",
+    "summary_reasoning": "Soft tone, empathetic expression."
+  },
+  {
+    "timestamp": 9.301,
+    "emotion": "assertive",
+    "detailed_reasoning": "The speaker's tone becomes much firmer and more declarative as he makes the statement about what ambition should be made of. His facial expression hardens, and he delivers the line with conviction, contrasting with the previous compassionate moment.",
+    "summary_reasoning": "Firm tone, hardened expression, declarative statement."
+  },
+  {
+    "timestamp": 14.527,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "When he says \"and Brutus is an honourable man,\" there is a clear shift. A subtle, ironic smile appears, and his tone carries a mocking quality. This is the first time he uses this refrain, and the delivery suggests he means the opposite of what he is saying.",
+    "summary_reasoning": "Ironic smile, mocking tone."
+  },
+  {
+    "timestamp": 22.596,
+    "emotion": "earnest",
+    "detailed_reasoning": "Recounting the event of offering Caesar the crown, the speaker adopts an earnest tone and expression. He is presenting what he portrays as factual evidence to the audience, and his delivery is straightforward and sincere in its attempt to persuade.",
+    "summary_reasoning": "Earnest tone, sincere expression, presenting evidence."
+  },
+  {
+    "timestamp": 24.454,
+    "emotion": "incredulous",
+    "detailed_reasoning": "Following his evidence, he asks \"Was this ambition?\" with a tone of disbelief. His eyebrows raise, and his facial expression conveys incredulity, challenging the audience to disagree with his obvious conclusion.",
+    "summary_reasoning": "Disbelieving tone, raised eyebrows, challenging question."
+  },
+  {
+    "timestamp": 31.461,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "The speaker repeats the line about Brutus being an \"honourable man,\" but this time the sarcasm is more pronounced. He adds the word \"sure,\" and the ironic smile is more evident, reinforcing his mocking view of Brutus's honor.",
+    "summary_reasoning": "Heightened ironic tone, mocking smile."
+  },
+  {
+    "timestamp": 38.589,
+    "emotion": "sincere",
+    "detailed_reasoning": "He shifts his rhetorical strategy, claiming he is not there to disprove Brutus but to speak what he knows. His tone becomes calm and measured, and his facial expression turns serious, an attempt to build credibility and appear trustworthy to the audience.",
+    "summary_reasoning": "Calm tone, serious expression, building credibility."
+  },
+  {
+    "timestamp": 43.454,
+    "emotion": "nostalgic",
+    "detailed_reasoning": "The speaker's tone softens and becomes more emotional as he reminds the audience, \"You all did love him once.\" His facial expression is sad and wistful, appealing to a shared past affection for Caesar to stir their emotions.",
+    "summary_reasoning": "Soft emotional tone, sad expression, appealing to past feelings."
+  },
+  {
+    "timestamp": 51.142,
+    "emotion": "pleading",
+    "detailed_reasoning": "The emotion intensifies as he asks, \"What cause withholds you then to mourn for him?\" His voice is filled with sorrowful accusation, and his face shows pained confusion. He is directly challenging and pleading with the audience to feel remorse.",
+    "summary_reasoning": "Sorrowful tone, pained expression, challenging question."
+  },
+  {
+    "timestamp": 58.152,
+    "emotion": "enraged",
+    "detailed_reasoning": "The monologue reaches its emotional peak. The speaker's face contorts with anger and grief, and he practically shouts the final lines. His voice is loud and forceful, and his expression is one of utter fury and despair at the people's lack of reason.",
+    "summary_reasoning": "Loud shouting voice, furious facial expression."
+  }
+]

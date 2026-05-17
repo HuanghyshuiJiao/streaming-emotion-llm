@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 1.613,
+    "emotion": "annoyed",
+    "detailed_reasoning": "The speaker's initial words, \"Calm down?\", are repeated with a tone of clear disbelief and scorn. His facial expression, particularly the scrunched nose and furrowed brow, indicates that he finds the suggestion to calm down insulting and dismissive of his situation, leading to a feeling of annoyance.",
+    "summary_reasoning": "Scornful tone, annoyed facial expression."
+  },
+  {
+    "timestamp": 8.504,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker's tone shifts from simple annoyance to a more intense frustration. He says, \"I honestly don't think you understand the gravity of what is going on,\" directly stating his frustration with the other person's lack of understanding. His facial expression is pained, and his words convey a sense of urgency and exasperation.",
+    "summary_reasoning": "Exasperated tone, pained expression, urgent words."
+  },
+  {
+    "timestamp": 16.496,
+    "emotion": "desperate",
+    "detailed_reasoning": "The emotion escalates to desperation as the speaker reveals the stakes: \"I am on the edge of losing my company.\" His voice is filled with anguish, and his facial expression conveys deep worry and fear. The context of losing his life's work makes his plea sound desperate.",
+    "summary_reasoning": "Anguished tone, worried expression, high-stakes words."
+  },
+  {
+    "timestamp": 23.206,
+    "emotion": "indignant",
+    "detailed_reasoning": "As the speaker begins to list his personal sacrifices (\"I sacrificed my blood, sweat and tears\"), his tone becomes indignant. He is not just sad, but angry and offended that his immense effort and dedication could lead to ruin. The emphasis on his personal investment conveys a sense of injustice.",
+    "summary_reasoning": "Forceful tone, listing personal sacrifices."
+  },
+  {
+    "timestamp": 34.372,
+    "emotion": "proud",
+    "detailed_reasoning": "There is a distinct shift in emotion to pride as he declares, \"I single-handedly turned this company into a global success.\" His tone becomes boastful and assertive, highlighting his personal achievements. Despite the desperate situation, he takes a moment to assert his accomplishments with confidence.",
+    "summary_reasoning": "Assertive tone, boastful words, confident expression."
+  },
+  {
+    "timestamp": 49.612,
+    "emotion": "despair",
+    "detailed_reasoning": "After recounting his proud achievements, the speaker's energy visibly deflates. His final words about attracting investors are followed by a look of hopelessness. The brief moment of pride has passed, and the crushing weight of his potential failure returns, shifting his emotion to despair.",
+    "summary_reasoning": "Energy deflates, facial expression falls, tone becomes hopeless."
+  }
+]

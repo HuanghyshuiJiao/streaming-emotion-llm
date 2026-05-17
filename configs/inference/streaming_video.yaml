@@ -1,0 +1,18 @@
+input:
+  modality: video
+  frame_rate: 2
+
+streaming:
+  mode: event_stream_window
+  max_num_frames: 120
+  fps: 2.0
+
+generation:
+  max_new_tokens: 8
+  temperature: 0.2
+  top_p: 0.9
+
+triggers:
+  policy: disabled_for_baseline
+  min_confidence: 0.5
+  cooldown_seconds: 2.0

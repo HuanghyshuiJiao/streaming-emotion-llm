@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his monologue standing still at a podium. His facial expression is neutral, and his vocal tone is measured, even, and deliberate. This establishes a baseline of a calm and composed professional demeanor.",
+    "summary_reasoning": "Neutral expression, measured tone, still posture."
+  },
+  {
+    "timestamp": 6.809,
+    "emotion": "droll",
+    "detailed_reasoning": "The speaker mentions the well-known comedic character \"Alan Partridge.\" However, he maintains his completely flat vocal tone and neutral, unchanging facial expression. The humor is derived from the stark contrast between the comedic subject matter and his deadpan, serious delivery, indicating a dry, droll wit.",
+    "summary_reasoning": "Comedic content, deadpan delivery, neutral face."
+  },
+  {
+    "timestamp": 9.236,
+    "emotion": "anticipatory",
+    "detailed_reasoning": "When mentioning the \"new Doctor Who,\" the speaker's pitch rises slightly on the final word, and he immediately pauses. This vocal cue and deliberate pause for the expected audience applause show that he is actively building and anticipating a moment of excitement.",
+    "summary_reasoning": "Rising intonation, deliberate pause for applause."
+  },
+  {
+    "timestamp": 11.783,
+    "emotion": "composed",
+    "detailed_reasoning": "Following the loud applause from the audience, the speaker responds with a simple \"That's right.\" He delivers the line with his characteristic flat tone and without any change in his neutral expression, calmly absorbing the audience's energy and reasserting his composed control over the proceedings.",
+    "summary_reasoning": "Flat tone, neutral expression after applause."
+  },
+  {
+    "timestamp": 16.275,
+    "emotion": "droll",
+    "detailed_reasoning": "The speaker uses the slightly elaborate and cheerful phrase \"televisual treat,\" but delivers it with the same serious, monotonous tone he has used throughout. This continued juxtaposition of formal, almost quaint language and an entirely emotionless delivery reinforces his droll and deadpan comedic style.",
+    "summary_reasoning": "Formal language, monotonous tone, neutral face."
+  }
+]

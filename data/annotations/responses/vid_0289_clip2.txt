@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "amusement",
+    "detailed_reasoning": "The speaker begins his monologue with a slight smirk and a light, teasing tone. He raises his hands in a placating gesture, which contrasts with his comedic intent, signaling the start of a joke. The content itself is setting up a punchline about a political figure.",
+    "summary_reasoning": "Smirk, light tone, joke setup."
+  },
+  {
+    "timestamp": 16.299,
+    "emotion": "playful",
+    "detailed_reasoning": "After a punchline and audience laughter, the speaker waves his hand dismissively and says \"No, I kid Dean Cain.\" His tone is light and mock-serious, indicating a playful retraction of his previous joke before moving on to the next one. He is still smiling slightly.",
+    "summary_reasoning": "Smiling, dismissive hand wave, mock-serious tone."
+  },
+  {
+    "timestamp": 18.663,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "The speaker's smile fades slightly and he adopts a more serious, explanatory tone as he says, \"No, I think he joined because...\" This shift into a feigned serious explanation, immediately following jokes, indicates a sarcastic or satirical intent to set up the next punchline.",
+    "summary_reasoning": "Fading smile, mock-serious tone, satirical premise."
+  },
+  {
+    "timestamp": 23.972,
+    "emotion": "amusement",
+    "detailed_reasoning": "The speaker delivers the punchline \"bad actors,\" which is a clear pun. He smirks and looks directly at the audience, enjoying their laughter and applause. His expression is one of self-satisfaction at landing the joke successfully.",
+    "summary_reasoning": "Smirk, punchline delivery, audience laughter."
+  },
+  {
+    "timestamp": 36.759,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "The speaker transitions to a new topic with the phrase \"If all that's not enough...\" His tone becomes more formal and his facial expression is very straight, mimicking a news anchor. This deadpan delivery of a serious topic (wildfires) within a comedy monologue is clearly sarcastic.",
+    "summary_reasoning": "Formal tone, straight face, deadpan delivery."
+  },
+  {
+    "timestamp": 43.807,
+    "emotion": "amusement",
+    "detailed_reasoning": "After delivering the punchline about ICE agents wearing two masks, the speaker breaks into a wide, self-satisfied smirk. He is clearly enjoying the audience's strong laugh reaction to his joke, confirming his amused state.",
+    "summary_reasoning": "Smirk, audience laughter, successful punchline."
+  },
+  {
+    "timestamp": 53.239,
+    "emotion": "deadpan",
+    "detailed_reasoning": "The speaker's demeanor shifts dramatically. He adopts a very serious and pensive expression, slows his speech, and introduces a shocking and controversial subject: \"child molesters.\" This abrupt shift to a serious tone and expression for a taboo topic is a form of deadpan humor, meant to shock and set up a dark joke.",
+    "summary_reasoning": "Serious expression, slow speech, controversial topic."
+  }
+]

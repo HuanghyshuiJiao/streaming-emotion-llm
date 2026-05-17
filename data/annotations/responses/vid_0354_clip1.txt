@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 3.675,
+    "emotion": "sadness",
+    "detailed_reasoning": "The video begins with the actress looking down, her brow furrowed and her mouth slightly downturned. Her initial lines are spoken slowly and with a melancholic, questioning tone, suggesting she is troubled and sad about her romantic prospects.",
+    "summary_reasoning": "Downward gaze, furrowed brow, melancholic tone."
+  },
+  {
+    "timestamp": 12.924,
+    "emotion": "defensive",
+    "detailed_reasoning": "In response to the off-screen speaker's skeptical question, the actress looks up. Her tone shifts from sad and contemplative to more assertive and direct. The line \"And I do\" is a direct refutation, and her facial expression becomes more focused, indicating a need to defend her feelings.",
+    "summary_reasoning": "Assertive tone, direct gaze, refuting words."
+  },
+  {
+    "timestamp": 17.128,
+    "emotion": "fondness",
+    "detailed_reasoning": "The actress's tone softens significantly as she begins to reminisce about the person she loves. Her eyes look up and away as if recalling a pleasant memory, and her facial features relax. This change from defensiveness to a gentle, wistful state indicates she is feeling fondness.",
+    "summary_reasoning": "Softened tone, wistful gaze, recalling memories."
+  },
+  {
+    "timestamp": 26.437,
+    "emotion": "confident",
+    "detailed_reasoning": "After describing her feelings, she makes the statement, \"And I feel certain of my own love.\" Her voice becomes louder and more resolute, and she lifts her head, looking forward with conviction. This shift in vocal power and posture signals a change from fond remembrance to confident assertion.",
+    "summary_reasoning": "Louder resolute voice, head lifted, direct gaze."
+  },
+  {
+    "timestamp": 33.14,
+    "emotion": "shocked",
+    "detailed_reasoning": "The off-screen speaker sharply interrupts and dismisses her feelings. The actress's confident expression immediately vanishes. Her eyes widen, and her face becomes still and tense, reflecting her shock and hurt at being so abruptly shut down.",
+    "summary_reasoning": "Wide eyes, tense face, sudden interruption."
+  },
+  {
+    "timestamp": 39.136,
+    "emotion": "defiant",
+    "detailed_reasoning": "After processing the shock, her emotion shifts to defiance. She challenges the other speaker with the pointed question, \"Do you?\" Her voice is low but sharp, and her gaze is intense and unwavering, directly confronting the other person's authority on the matter.",
+    "summary_reasoning": "Sharp tone, intense unwavering gaze, challenging question."
+  },
+  {
+    "timestamp": 46.535,
+    "emotion": "angry",
+    "detailed_reasoning": "Having established that the other person also lacks experience with love, her defiance escalates into clear anger. Her voice rises in volume and pitch, her words are spoken more rapidly, and her facial expression is one of indignation as she asserts her right to her own feelings.",
+    "summary_reasoning": "Raised voice, faster pace, indignant expression."
+  }
+]

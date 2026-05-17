@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 3.756,
+    "emotion": "annoyed",
+    "detailed_reasoning": "The speaker calls out the name \"Cheryl\" for the second time. His tone is strained, his head is tilted, and his facial expression shows clear impatience and frustration, as if he's been trying to get her attention for a while.",
+    "summary_reasoning": "Strained tone, impatient expression."
+  },
+  {
+    "timestamp": 8.141,
+    "emotion": "impatient",
+    "detailed_reasoning": "The speaker's command, \"stop with the dishes,\" is delivered with a firm, commanding tone. His eyes are wide and his brow is slightly furrowed, indicating a growing impatience with the person he is addressing.",
+    "summary_reasoning": "Firm tone, commanding words."
+  },
+  {
+    "timestamp": 14.609,
+    "emotion": "accusatory",
+    "detailed_reasoning": "The speaker's tone shifts to become more accusatory as he says, \"You always go hide in the kitchen whenever we've got something to deal with.\" His head moves forward slightly, and his expression is one of confrontation, suggesting a long-standing grievance.",
+    "summary_reasoning": "Accusatory tone, confrontational expression."
+  },
+  {
+    "timestamp": 21.398,
+    "emotion": "exasperated",
+    "detailed_reasoning": "His voice rises in pitch and volume on the words \"And stop with the rinsing already.\" His head shakes slightly, and his facial expression conveys strong exasperation, as if this is a recurring and frustrating behavior he has to deal with.",
+    "summary_reasoning": "Louder tone, exasperated expression."
+  },
+  {
+    "timestamp": 29.114,
+    "emotion": "calm",
+    "detailed_reasoning": "After a pause, the speaker's demeanor changes. His voice becomes softer and more measured as he says, \"Just listen.\" His facial expression relaxes, and he seems to be attempting to de-escalate the situation and have a more serious, calm conversation.",
+    "summary_reasoning": "Softer tone, relaxed expression."
+  },
+  {
+    "timestamp": 42.031,
+    "emotion": "understanding",
+    "detailed_reasoning": "The speaker acknowledges the other person's perspective, stating he understands the mother-daughter relationship. His tone is softer and more reflective, and his gaze is distant, showing he is trying to be empathetic, even while admitting his limitations.",
+    "summary_reasoning": "Reflective tone, empathetic words."
+  },
+  {
+    "timestamp": 47.738,
+    "emotion": "proud",
+    "detailed_reasoning": "There is a distinct shift in tone to one of pride and admiration when he says, \"That daughter of ours has become a fine young lady.\" His voice warms up, and a subtle, soft expression appears on his face, indicating genuine pride in their daughter.",
+    "summary_reasoning": "Warm tone, proud words."
+  },
+  {
+    "timestamp": 49.68,
+    "emotion": "angry",
+    "detailed_reasoning": "The pride immediately turns to anger and frustration. He says \"Wonderful,\" but then punctuates it with an angry \"dammit!\" His voice becomes harsh, his face tenses, and he clenches his jaw, showing an internal conflict where the pride is immediately overwhelmed by anger at the situation.",
+    "summary_reasoning": "Harsh tone, tense face, angry words."
+  },
+  {
+    "timestamp": 53.085,
+    "emotion": "resentful",
+    "detailed_reasoning": "The speaker's tone is sharp and resentful as he says, \"That doesn't mean she's just like you. Or me.\" He is drawing a clear line, and his expression is hard and accusatory, suggesting he resents the assumptions being made about his daughter.",
+    "summary_reasoning": "Sharp tone, resentful words."
+  },
+  {
+    "timestamp": 57.494,
+    "emotion": "pleading",
+    "detailed_reasoning": "In the final moments, his anger subsides into a softer, more pleading tone. As he says, \"We're going to make the same choices. To be happy,\" his voice becomes almost wistful and his expression softens. It's a plea for unity and a shared goal, a stark contrast to the preceding anger.",
+    "summary_reasoning": "Wistful tone, soft expression."
+  }
+]

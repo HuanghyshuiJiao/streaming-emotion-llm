@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": 7.28,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins the video with a calm and informative tone. His facial expression is neutral, and his speech is paced evenly, suggesting he is relaxed and focused on providing advice.",
+    "summary_reasoning": "Calm tone, neutral expression, even pace."
+  },
+  {
+    "timestamp": 25.103,
+    "emotion": "emphatic",
+    "detailed_reasoning": "The speaker's tone becomes more emphatic as he stresses the importance of showing an agent a track record. His vocal volume increases slightly, and he uses hand gestures to emphasize his point, indicating a stronger conviction in his advice.",
+    "summary_reasoning": "Emphatic tone, increased volume, hand gestures."
+  },
+  {
+    "timestamp": 46.446,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's tone shifts to a more serious and cautionary one as he advises to be careful about the kind of agent to find. His facial expression becomes more focused and his eyebrows furrow slightly, conveying a sense of warning.",
+    "summary_reasoning": "Serious tone, focused expression, furrowed eyebrows."
+  },
+  {
+    "timestamp": 53.721,
+    "emotion": "warning",
+    "detailed_reasoning": "The speaker's tone becomes distinctly cautionary when he mentions a 'red flag'. His speech slows down for emphasis, and he raises his eyebrows, which, combined with the serious context, serves as a clear warning to the viewer.",
+    "summary_reasoning": "Cautionary tone, slow speech, raised eyebrows."
+  }
+]

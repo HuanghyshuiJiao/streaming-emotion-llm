@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 3.235,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins with an instructional tone, her voice is steady, and her facial expression is neutral and focused. She uses small hand gestures to emphasize her points, but her overall demeanor is composed and informative.",
+    "summary_reasoning": "Steady voice, neutral expression, instructional tone."
+  },
+  {
+    "timestamp": 12.227,
+    "emotion": "disapproving",
+    "detailed_reasoning": "The speaker's tone shifts to be more critical as she lists formulaic approaches to acting. Her pace quickens, and she shakes her head slightly when she says \"No,\" directly rejecting the method she just described. This conveys a sense of disapproval for rigid, checklist-based acting.",
+    "summary_reasoning": "Critical tone, head shake, quickened pace."
+  },
+  {
+    "timestamp": 15.992,
+    "emotion": "passionate",
+    "detailed_reasoning": "After rejecting the previous idea, her tone becomes much more engaged and encouraging. Her eyebrows raise, her expression softens, and her voice takes on a more inspiring quality as she presents her core belief: \"what's going to make the character come alive is if you are alive.\" This shift indicates a genuine passion for this perspective.",
+    "summary_reasoning": "Engaged tone, raised eyebrows, inspiring words."
+  },
+  {
+    "timestamp": 18.315,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker's energy shifts back to a more grounded and calm state. Her instruction to \"Just be\" is delivered in a simple, direct tone. Her facial expression is relaxed and neutral, reinforcing the simplicity and calmness of her message.",
+    "summary_reasoning": "Simple tone, relaxed expression, direct advice."
+  },
+  {
+    "timestamp": 22.941,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "As she explains how a character comes alive \"through you,\" her pace slows, and her gaze shifts slightly upward. This change in expression and delivery suggests she is reflecting on the concept she's explaining, giving her words a more contemplative and thoughtful quality.",
+    "summary_reasoning": "Slow pace, upward gaze, reflective delivery."
+  },
+  {
+    "timestamp": 27.287,
+    "emotion": "friendly",
+    "detailed_reasoning": "To conclude the video, the speaker's demeanor becomes much more casual and warm. She smiles, makes direct eye contact, and waves as she says \"See you later.\" This combination of verbal and non-verbal cues clearly communicates a friendly closing.",
+    "summary_reasoning": "Smiling, waving, casual tone."
+  }
+]

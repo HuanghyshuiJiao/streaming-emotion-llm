@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 3.216,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins by telling a story in a calm, narrative tone. His facial expression is neutral and his voice is steady and measured, setting a composed and serious atmosphere for his speech.",
+    "summary_reasoning": "Calm narrative tone, neutral expression."
+  },
+  {
+    "timestamp": 12.208,
+    "emotion": "hopeful",
+    "detailed_reasoning": "After describing a difficult situation, the speaker's tone softens slightly and the pace of his speech slows down as he talks about the mud feeling warmer. This shift in prosody, combined with the positive turn in the narrative, conveys a growing sense of hope.",
+    "summary_reasoning": "Softer tone, slower pace, positive narrative."
+  },
+  {
+    "timestamp": 22.563,
+    "emotion": "inspirational",
+    "detailed_reasoning": "The speaker transitions from his personal story to a broader message about the power of hope. His voice becomes slightly more resonant and he uses pauses for emphasis. His facial expression remains serious but focused, aiming to inspire the audience with his words.",
+    "summary_reasoning": "Resonant voice, emphatic pauses, serious expression."
+  },
+  {
+    "timestamp": 30.509,
+    "emotion": "passionate",
+    "detailed_reasoning": "Listing influential figures like Washington, Lincoln, and Malala, the speaker's voice gains intensity and his pace quickens slightly. This crescendo in his delivery demonstrates his passion for the message about the power of a single individual to create change.",
+    "summary_reasoning": "Intense voice, quickened pace."
+  },
+  {
+    "timestamp": 39.822,
+    "emotion": "encouraging",
+    "detailed_reasoning": "He connects the inspirational message back to the personal anecdote, creating a call to action. His tone is firm and encouraging, directly addressing the audience to 'start singing.' His delivery is deliberate and motivational.",
+    "summary_reasoning": "Firm tone, motivational delivery."
+  },
+  {
+    "timestamp": 43.347,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker shifts to a new topic, the bell in SEAL training. His tone becomes more somber and his pace slows. The subject matter—quitting—is grave, and his delivery reflects this seriousness. His facial expression is stern and focused.",
+    "summary_reasoning": "Somber tone, slow pace, stern expression."
+  },
+  {
+    "timestamp": 53.882,
+    "emotion": "grave",
+    "detailed_reasoning": "As he describes the act of quitting by ringing the bell, his voice drops in pitch and he speaks with a heavy, deliberate cadence. This emphasizes the finality and gravity of the decision, creating a solemn mood.",
+    "summary_reasoning": "Low pitch, deliberate cadence, solemn mood."
+  }
+]

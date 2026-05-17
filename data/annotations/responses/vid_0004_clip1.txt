@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 1.593,
+    "emotion": "annoyed",
+    "detailed_reasoning": "The speaker begins with a sharp, slightly raised tone and a defiant facial expression. The words themselves, particularly \"It really doesn't matter,\" are dismissive, setting an annoyed and confrontational mood from the start of her statement.",
+    "summary_reasoning": "Sharp tone, defiant expression, dismissive words."
+  },
+  {
+    "timestamp": 7.781,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker's tone shifts from pointed annoyance to frustration. While she says \"I really don't care,\" her rapid speech and the subsequent admission that \"there's nothing I can do about it,\" accompanied by a helpless hand gesture, indicate a feeling of powerlessness and frustration with the situation.",
+    "summary_reasoning": "Rapid speech, helpless gesture, frustrated words."
+  },
+  {
+    "timestamp": 16.173,
+    "emotion": "regretful",
+    "detailed_reasoning": "The speaker's demeanor changes to become self-reflective. Her tone softens and her speaking pace slows down as she talks about listening to her instincts. This shift from outward frustration to inward contemplation suggests she is now feeling regret over her past actions.",
+    "summary_reasoning": "Softened tone, slower pace, self-reflective words."
+  },
+  {
+    "timestamp": 20.519,
+    "emotion": "bitter",
+    "detailed_reasoning": "The emotion evolves from general regret to a more specific and bitter resentment. As she mentions concrete actions she regrets, her voice regains a sharp edge, her pace quickens, and she emphasizes words like \"totally\" and \"definitely.\" This conveys bitterness towards the specific choices she made.",
+    "summary_reasoning": "Sharp tone, quickened pace, resentful words."
+  },
+  {
+    "timestamp": 29.107,
+    "emotion": "overwhelmed",
+    "detailed_reasoning": "The speaker begins to list the negative consequences of her actions, starting with her mom's anger. Her voice pitch rises, and her speech remains fast and continuous, suggesting she is feeling overwhelmed by the cascade of problems she is now facing.",
+    "summary_reasoning": "Higher pitch, fast pace, listing consequences."
+  },
+  {
+    "timestamp": 32.358,
+    "emotion": "distressed",
+    "detailed_reasoning": "As she continues to list the social fallout—ruining a friendship and being misjudged—her emotion intensifies from overwhelmed to distressed. Her facial expression is pained, and her tone is filled with despair, showing the deep emotional impact these consequences are having on her.",
+    "summary_reasoning": "Pained expression, despairing tone, negative words."
+  },
+  {
+    "timestamp": 37.396,
+    "emotion": "desperate",
+    "detailed_reasoning": "The speaker attempts to return to her initial dismissive attitude by saying she doesn't care, but her emotional state contradicts this. Her voice becomes shaky and higher-pitched, and her expression remains strained. This disconnect between her words and her emotional presentation reveals a sense of desperation, as if she is trying to convince herself that she is okay when she clearly is not.",
+    "summary_reasoning": "Shaky voice, strained expression, contradictory words."
+  }
+]

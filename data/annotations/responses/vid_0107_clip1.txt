@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 1.213,
+    "emotion": "happy",
+    "detailed_reasoning": "The speaker begins with a bright, welcoming smile and a friendly, upbeat tone as she greets her audience. Her overall demeanor is positive and cheerful.",
+    "summary_reasoning": "Smiling, friendly tone."
+  },
+  {
+    "timestamp": 6.38,
+    "emotion": "enthusiastic",
+    "detailed_reasoning": "As she describes the monologue she's about to perform, her speech becomes more animated, her pitch rises slightly, and she maintains a wide-eyed, expressive look, conveying excitement about the content she has prepared.",
+    "summary_reasoning": "Animated speech, higher pitch, expressive face."
+  },
+  {
+    "timestamp": 16.695,
+    "emotion": "engaging",
+    "detailed_reasoning": "The speaker transitions to a standard YouTuber call-to-action. Her tone remains friendly, but becomes more direct and persuasive, and she uses open hand gestures to connect with the audience.",
+    "summary_reasoning": "Direct tone, friendly expression, hand gestures."
+  },
+  {
+    "timestamp": 24.086,
+    "emotion": "playful",
+    "detailed_reasoning": "She concludes her introduction with a peace sign and the quirky phrase, \"Peace out, Girl Scouts.\" Her smile turns into a grin, and her delivery is lighthearted and fun, indicating a playful mood before she starts the performance.",
+    "summary_reasoning": "Peace sign, quirky phrase, grin."
+  },
+  {
+    "timestamp": 30.305,
+    "emotion": "assertive",
+    "detailed_reasoning": "After a cut, the performance begins. Her entire demeanor shifts. The smile is gone, replaced by a serious and determined expression. Her tone is firm and demanding as she addresses her 'Dad,' establishing an assertive and confrontational mood for the monologue.",
+    "summary_reasoning": "Serious expression, firm tone, demanding words."
+  },
+  {
+    "timestamp": 36.413,
+    "emotion": "dismissive",
+    "detailed_reasoning": "When acknowledging the rule about her learner's permit, her tone becomes slightly sarcastic. She says \"Yeah, technically\" with a subtle head tilt and look away, signaling that she finds the rule to be a minor, inconvenient detail that she doesn't fully respect.",
+    "summary_reasoning": "Sarcastic tone, head tilt, dismissive words."
+  },
+  {
+    "timestamp": 44.304,
+    "emotion": "confident",
+    "detailed_reasoning": "The word 'But' marks a significant shift in her argument. Her tone becomes strong and declarative. Her facial expression is resolute, and she looks forward with conviction, clearly projecting confidence in her own skills.",
+    "summary_reasoning": "Strong tone, resolute expression, declarative words."
+  },
+  {
+    "timestamp": 47.107,
+    "emotion": "smug",
+    "detailed_reasoning": "When she delivers the line, 'You told me I was better than Mom,' she has a slight smirk on her face and a triumphant tone in her voice. This suggests she feels she has a winning point in the argument, leading to a smug and self-satisfied emotion.",
+    "summary_reasoning": "Smirk, triumphant tone."
+  },
+  {
+    "timestamp": 53.736,
+    "emotion": "persuasive",
+    "detailed_reasoning": "Her tone softens and becomes more logical as she tries to convince her dad that letting her drive isn't 'irresponsible.' Her expression is earnest, and her speech is more measured, indicating a shift in tactics from assertion to rational persuasion.",
+    "summary_reasoning": "Logical tone, earnest expression, measured speech."
+  },
+  {
+    "timestamp": 58.122,
+    "emotion": "proud",
+    "detailed_reasoning": "She concludes the monologue with the definitive statement, 'Because you know I'm awesome at it.' Her face lights up with a big, confident smile, and she stands with her hands on her hips in a proud posture, capping the performance with a feeling of unwavering self-assurance.",
+    "summary_reasoning": "Confident smile, proud posture, definitive statement."
+  }
+]

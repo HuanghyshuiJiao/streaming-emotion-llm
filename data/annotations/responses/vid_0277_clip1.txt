@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 1.794,
+    "emotion": "determined",
+    "detailed_reasoning": "The speaker starts with a firm and declarative tone. Her posture is upright and she looks directly ahead, conveying a sense of resolve and determination after having completed an action she refers to with 'I did it.'",
+    "summary_reasoning": "Firm tone, upright posture."
+  },
+  {
+    "timestamp": 8.664,
+    "emotion": "cold",
+    "detailed_reasoning": "When recounting the note she left, her voice becomes very matter-of-fact and almost detached. She describes a significant emotional event (a breakup) with a cold, unemotional delivery, suggesting a deliberate suppression of feeling or a sense of finality.",
+    "summary_reasoning": "Matter-of-fact tone, detached delivery."
+  },
+  {
+    "timestamp": 17.737,
+    "emotion": "smug",
+    "detailed_reasoning": "The speaker says the word 'Mastermind' with a clear sense of self-satisfaction. Her head is held high, her tone is confident and slightly arrogant, and she has a subtle smirk on her face, indicating she is proud of her clever, albeit flawed, plan.",
+    "summary_reasoning": "Confident tone, smirk."
+  },
+  {
+    "timestamp": 22.103,
+    "emotion": "apprehensive",
+    "detailed_reasoning": "There is a distinct shift in her demeanor as she reveals her mistake. Her voice becomes quieter, the pace of her speech slows down, and her confident expression fades, replaced by a look of worry or apprehension about the consequences of not closing the window.",
+    "summary_reasoning": "Quieter voice, slower pace, worried expression."
+  },
+  {
+    "timestamp": 25.107,
+    "emotion": "fearful",
+    "detailed_reasoning": "Describing him 'looming over me,' her eyes widen and her body tenses up. Her voice takes on a shaky, higher-pitched quality, clearly communicating the fear and shock of waking up to find him there.",
+    "summary_reasoning": "Wide eyes, tense body, shaky voice."
+  },
+  {
+    "timestamp": 26.269,
+    "emotion": "angry",
+    "detailed_reasoning": "Her emotion shifts abruptly to anger as she recounts their exchange. She shouts the lines, her face contorts with rage, and her body language becomes aggressive and confrontational. The tone is harsh and full of animosity.",
+    "summary_reasoning": "Shouting, angry expression, aggressive posture."
+  },
+  {
+    "timestamp": 33.095,
+    "emotion": "desperate",
+    "detailed_reasoning": "After the angry exchange, her tone completely changes. It becomes softer, almost pleading. She opens her arms in a gesture of helplessness and her facial expression shifts to one of sorrowful justification, indicating a sense of desperation and feeling trapped by her circumstances.",
+    "summary_reasoning": "Soft tone, helpless gesture, sorrowful expression."
+  },
+  {
+    "timestamp": 41.345,
+    "emotion": "cynical",
+    "detailed_reasoning": "When she mentions 'snogging,' her tone becomes dismissive and cynical. There's a slight, bitter smile as she says 'It didn't work,' suggesting a jaded perspective on the idea that simple affection could solve her complex problems.",
+    "summary_reasoning": "Dismissive tone, bitter smile."
+  },
+  {
+    "timestamp": 51.178,
+    "emotion": "despairing",
+    "detailed_reasoning": "As she describes the aftermath with 'more vodka' and 'more tears,' her voice becomes heavy with sadness and her posture slumps. Her expression is one of utter despair and exhaustion, conveying a deep sense of hopelessness.",
+    "summary_reasoning": "Sad tone, slumping posture, despairing expression."
+  },
+  {
+    "timestamp": 56.244,
+    "emotion": "confused",
+    "detailed_reasoning": "In the final lines, 'I don't even know why I was doing it,' her voice trails off and her expression turns to one of bewilderment. She looks lost and confused, as if she can't comprehend her own actions, marking a shift from despair to a state of emotional confusion.",
+    "summary_reasoning": "Voice trails off, bewildered expression."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 2.955,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins with a serious and direct tone. His facial expression is neutral but focused, and his eye contact is steady. He is setting a somber and important tone for the monologue he is about to deliver, indicating the gravity of the topic.",
+    "summary_reasoning": "Serious tone, focused expression."
+  },
+  {
+    "timestamp": 9.083,
+    "emotion": "sincere",
+    "detailed_reasoning": "The speaker's tone remains serious, but there's an added layer of sincerity and conviction as he describes the woman. His slight head shake on the word \"no\" and the emphasis on \"no ordinary woman\" convey a deep, heartfelt belief in what he is saying.",
+    "summary_reasoning": "Sincere tone, emphatic head shake."
+  },
+  {
+    "timestamp": 16.552,
+    "emotion": "defiant",
+    "detailed_reasoning": "The speaker's tone shifts to become more defiant and resolute. By stating, \"if I'm going to die,\" he shows a willingness to face the ultimate consequence. His arms spread slightly, and his chin lifts, which are visual cues of defiance and a desire to make a grand, final statement.",
+    "summary_reasoning": "Defiant tone, chin lift."
+  },
+  {
+    "timestamp": 23.281,
+    "emotion": "confrontational",
+    "detailed_reasoning": "The emotion changes to confrontational as he directly questions his unseen adversary. His tone becomes pointed and challenging with the question, \"Why do you want me to shut up?\" His eyes narrow slightly, focusing on the imagined opponent, reinforcing the challenging nature of his words.",
+    "summary_reasoning": "Confrontational tone, narrowed eyes."
+  },
+  {
+    "timestamp": 31.808,
+    "emotion": "mocking",
+    "detailed_reasoning": "The speaker's tone turns mocking and condescending. He accuses the other person of being sensitive and about to cry. A slight, derisive smile appears, and his delivery of \"Softy\" is filled with scorn, clearly intended to provoke and belittle.",
+    "summary_reasoning": "Mocking tone, derisive smile."
+  },
+  {
+    "timestamp": 37.155,
+    "emotion": "determined",
+    "detailed_reasoning": "After the taunt, his emotion shifts back to a firm determination. He says, \"Punch me all you want when I'm done,\" showing he is resolute in his decision to speak his mind, regardless of the physical consequences. His voice is steady and firm, and his gaze is unwavering.",
+    "summary_reasoning": "Determined tone, unwavering gaze."
+  },
+  {
+    "timestamp": 43.463,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker's emotion becomes deeply passionate as he gestures to the side and speaks about his feelings for \"her.\" His voice softens slightly but is filled with emotion, and his facial expression conveys deep affection and conviction, highlighting the core motivation for his defiance.",
+    "summary_reasoning": "Passionate tone, affectionate expression."
+  },
+  {
+    "timestamp": 48.89,
+    "emotion": "adamant",
+    "detailed_reasoning": "His passion builds to a point of being adamant. He looks directly forward again, and his declaration, \"She is worth it,\" is delivered with absolute certainty and firmness. His tone is final and leaves no room for debate.",
+    "summary_reasoning": "Adamant tone, certain delivery."
+  },
+  {
+    "timestamp": 53.697,
+    "emotion": "amused",
+    "detailed_reasoning": "The actor breaks character. His entire demeanor changes; his posture relaxes, his facial expression softens, and a slight, amused smile appears. His tone becomes light and conversational as he asks about \"serendipity,\" indicating a shift from the intense monologue to a playful, self-aware comment.",
+    "summary_reasoning": "Breaks character, amused smile, light tone."
+  }
+]

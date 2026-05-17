@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 4.216,
+    "emotion": "annoyed",
+    "detailed_reasoning": "The speaker's tone is immediately confrontational and accusatory. Her facial expression is stern, with narrowed eyes and a tense mouth, as she blames the other person for their own problems. The words \"you got some nerve blaming me for your skeletons\" clearly establish a tone of annoyance and frustration.",
+    "summary_reasoning": "Accusatory tone, stern expression, confrontational words."
+  },
+  {
+    "timestamp": 6.078,
+    "emotion": "angry",
+    "detailed_reasoning": "The speaker's emotion intensifies from annoyance to anger. She raises her voice slightly and delivers the line \"I'm not done, Harper\" with more force. Her eyes widen, and her head moves forward, indicating she is becoming more aggressive and is not willing to be interrupted.",
+    "summary_reasoning": "Louder voice, forceful delivery, wider eyes."
+  },
+  {
+    "timestamp": 13.286,
+    "emotion": "accusatory",
+    "detailed_reasoning": "While still angry, the dominant emotion here is accusatory. She directly points blame with the repeated and emphasized word \"you.\" Her head shakes slightly in disbelief and her tone is sharp and cutting, reinforcing that she is holding the other person solely responsible.",
+    "summary_reasoning": "Emphasized \"you\", sharp tone, head shake."
+  },
+  {
+    "timestamp": 18.612,
+    "emotion": "outraged",
+    "detailed_reasoning": "Her anger escalates to outrage as she recounts being manipulated. Her voice gets louder and higher in pitch when she says \"perfect together.\" Her facial expression shows disbelief and fury that the other person would say such things to her, reflecting a sense of betrayal.",
+    "summary_reasoning": "Higher pitch, louder voice, furious expression."
+  },
+  {
+    "timestamp": 28.603,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "The speaker's tone shifts to sarcasm. She mockingly suggests that if she had the \"luxury of getting my ass whooped,\" she could be calm. Her smirk and condescending tone indicate she is ridiculing the other person's situation and perceived calmness, while still being deeply angry.",
+    "summary_reasoning": "Sarcastic tone, condescending words, slight smirk."
+  },
+  {
+    "timestamp": 36.033,
+    "emotion": "uninhibited",
+    "detailed_reasoning": "She explicitly states her lack of control due to alcohol and hormones. Her speech becomes faster and her body language more animated. She lists her feelings (\"emotional,\" \"horny\") in a loud, unrestrained manner, showing she is past the point of caring about composure and is letting all her frustrations out.",
+    "summary_reasoning": "Loud, unrestrained tone, explicit words, animated gestures."
+  },
+  {
+    "timestamp": 40.984,
+    "emotion": "furious",
+    "detailed_reasoning": "Her emotion peaks at pure fury. She shouts the line \"I don't give a damn about no goddamn peace.\" Her voice is at its loudest, her eyes are wide with rage, and her face is tense, showing a complete rejection of any attempt at reconciliation.",
+    "summary_reasoning": "Shouting, wide eyes, tense face."
+  },
+  {
+    "timestamp": 43.991,
+    "emotion": "contemptuous",
+    "detailed_reasoning": "After her outburst, her anger shifts to contempt. The words \"Fuck you. Good night\" are delivered with a dismissive and final tone. Her expression is one of disgust as she ends the conversation abruptly, showing she has no respect left for the other person.",
+    "summary_reasoning": "Dismissive tone, curse words, abrupt ending."
+  },
+  {
+    "timestamp": 45.715,
+    "emotion": "defiant",
+    "detailed_reasoning": "Her final line, \"How about that?\", is a challenge. She looks directly at the camera with a defiant expression, a slight lift of her chin, and a tone that dares the other person to respond. It's a final assertion of her anger and her decision to walk away on her own terms.",
+    "summary_reasoning": "Challenging tone, defiant expression, chin lift."
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her talk with a hypothetical question to engage the audience. Her tone is measured and even, her facial expression is neutral, and her posture is relaxed and open. She is setting the stage for her main point in a calm, controlled, and educational manner.",
+    "summary_reasoning": "Measured tone, neutral expression, relaxed posture."
+  },
+  {
+    "timestamp": 14.96,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker transitions from a hypothetical scenario to a deeply personal story about her addiction. Her tone immediately becomes more somber, her pace slows, and her facial expression turns serious and melancholic. The specific words she uses, 'dark and messy and suffocating,' explicitly convey a negative and sad emotional state associated with this past experience.",
+    "summary_reasoning": "Somber tone, serious expression, negative words."
+  },
+  {
+    "timestamp": 26.34,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker describes the cyclical nature of her past struggle, quoting the idea that 'what we resist persists.' Her tone becomes more intense and her speaking pace quickens slightly. Her language about 'fighting' against the pain conveys a sense of internal conflict and frustration with the helplessness of her situation at the time.",
+    "summary_reasoning": "Intense tone, faster pace, describes a struggle."
+  },
+  {
+    "timestamp": 33.712,
+    "emotion": "calm",
+    "detailed_reasoning": "To illustrate her point, the speaker shifts to an analogy about a cat. Her tone softens considerably, becoming lighter and more illustrative. Her facial expression also softens, and she uses a gentle, descriptive narrative about a 'cute, cuddly' animal, which creates a calm and peaceful interlude in her otherwise intense story.",
+    "summary_reasoning": "Soft tone, gentle analogy, relaxed expression."
+  },
+  {
+    "timestamp": 39.522,
+    "emotion": "intense",
+    "detailed_reasoning": "The analogy takes a sharp and aggressive turn. The speaker's tone immediately becomes harsh and pointed to describe the cat getting injured. Her facial expression hardens, and the words she uses—'bite and claw and hiss'—are inherently violent, creating a moment of high intensity and aggression to mirror her internal state when in pain.",
+    "summary_reasoning": "Harsh tone, hard expression, aggressive words."
+  },
+  {
+    "timestamp": 45.955,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker directly applies the harsh cat analogy to herself, delivering the impactful line, 'I was a perfect example that hurt people hurt people.' Her tone is firm and full of conviction, her gaze is direct, and her delivery is deliberate and serious. This marks a moment of profound, painful self-awareness and confession.",
+    "summary_reasoning": "Firm tone, direct gaze, impactful statement."
+  },
+  {
+    "timestamp": 49.762,
+    "emotion": "regretful",
+    "detailed_reasoning": "The speaker elaborates on the consequences of her actions. Her voice becomes softer and audibly laden with sorrow. Her facial expression reflects sadness and her gaze lowers as she speaks about the pain she caused herself and others by disappearing. The content and her somber delivery clearly communicate a deep sense of guilt and regret.",
+    "summary_reasoning": "Sorrowful voice, downward gaze, describes causing pain."
+  }
+]

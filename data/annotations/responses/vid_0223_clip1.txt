@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 6.744,
+    "emotion": "sincere",
+    "detailed_reasoning": "The speaker begins with a calm and friendly tone, offering a compliment. His facial expression is neutral but engaged, and his voice is soft and steady as he explains the reason for giving a 'magic coin.' This combination of gentle vocal delivery and direct, positive words establishes a sincere and appreciative mood.",
+    "summary_reasoning": "Soft tone, direct gaze, positive words."
+  },
+  {
+    "timestamp": 17.466,
+    "emotion": "admiring",
+    "detailed_reasoning": "The speaker's tone remains soft and sincere, but there's a slight increase in warmth and conviction as he says, 'I really believe you would help them.' He nods slightly, reinforcing his belief in the person's goodness. The emotion shifts from simple sincerity to a more pronounced admiration for the person's character.",
+    "summary_reasoning": "Warm tone, nodding, words of belief."
+  },
+  {
+    "timestamp": 30.139,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker's tone becomes more measured and slightly more detached as he describes how other people might act selfishly. His gaze drifts slightly, and his pace slows down as if he is contemplating a general human behavior. This contrasts with his previous direct address, indicating a shift to a more thoughtful and observational state.",
+    "summary_reasoning": "Measured tone, slower pace, contrasting words."
+  },
+  {
+    "timestamp": 35.085,
+    "emotion": "impressed",
+    "detailed_reasoning": "There is a distinct shift back to direct praise with the words 'But you, you thought of others right away.' The speaker's tone becomes more emphatic and regains its warmth. His direct gaze returns, and the contrast with the previous statement highlights his strong sense of being impressed by the person's selflessness.",
+    "summary_reasoning": "Emphatic tone, direct gaze, strong praise."
+  },
+  {
+    "timestamp": 40.28,
+    "emotion": "appreciative",
+    "detailed_reasoning": "The speaker transitions from a general statement of admiration to listing specific, everyday kindnesses he has observed ('nice things around the diner'). His tone is consistently warm and his expression is soft, showing a genuine appreciation for these small but meaningful actions.",
+    "summary_reasoning": "Warm tone, soft expression, specific examples."
+  },
+  {
+    "timestamp": 54.861,
+    "emotion": "admiring",
+    "detailed_reasoning": "As he concludes his list of compliments, mentioning small acts like remembering names and listening, his tone remains consistently soft, gentle, and full of positive regard. His facial expression is calm and sincere. The accumulation of these specific examples reinforces a deep and steady feeling of admiration for the person's character.",
+    "summary_reasoning": "Gentle tone, sincere expression, listing kind acts."
+  }
+]

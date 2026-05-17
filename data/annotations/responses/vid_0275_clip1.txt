@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp": 1.113,
+    "emotion": "happy",
+    "detailed_reasoning": "The speaker begins by greeting the audience with a warm, friendly smile and a welcoming tone of voice. Her body language is relaxed, and the question 'How are you all doing tonight?' is delivered in a genuinely cheerful manner, setting a positive and engaging atmosphere.",
+    "summary_reasoning": "Smiling, friendly tone."
+  },
+  {
+    "timestamp": 2.917,
+    "emotion": "excited",
+    "detailed_reasoning": "The speaker explicitly states, 'I am very excited to be here.' Her vocal pitch rises on the word 'excited,' and her smile widens, confirming the genuine nature of her stated emotion. This conveys a higher level of energy and enthusiasm compared to her initial greeting.",
+    "summary_reasoning": "Explicit statement, rising pitch."
+  },
+  {
+    "timestamp": 8.65,
+    "emotion": "proud",
+    "detailed_reasoning": "When reminiscing about performing at a past event, the speaker's tone becomes slightly more reflective and her smile softens. She mentions a past achievement ('performed at the finals'), and her delivery carries a sense of fondness and pride for this personal history.",
+    "summary_reasoning": "Reflective tone, smiling recall of achievement."
+  },
+  {
+    "timestamp": 10.333,
+    "emotion": "pleased",
+    "detailed_reasoning": "In response to the audience's applause (audible in the background), the speaker lets out a small laugh and a broad, genuine smile. Her utterance of 'yeah' is filled with pleasure, showing her appreciation for the warm reception.",
+    "summary_reasoning": "Laughing, smiling at audience reaction."
+  },
+  {
+    "timestamp": 15.585,
+    "emotion": "calm",
+    "detailed_reasoning": "As she transitions from audience interaction to introducing her poem, her demeanor changes. Her tone becomes more measured and declarative, and her expression becomes focused. This shift indicates she is composing herself and setting a calm, neutral stage for the performance.",
+    "summary_reasoning": "Measured tone, focused expression."
+  },
+  {
+    "timestamp": 24.082,
+    "emotion": "earnest",
+    "detailed_reasoning": "The performance begins, and the speaker's entire demeanor shifts. Her voice drops in pitch, her pace slows, and her facial expression becomes serious and intense. This deliberate and somber delivery imbues the opening line of her poem with a sense of deep sincerity and earnestness.",
+    "summary_reasoning": "Lower pitch, slower pace, serious expression."
+  },
+  {
+    "timestamp": 28.853,
+    "emotion": "yearning",
+    "detailed_reasoning": "The speaker's tone conveys a deep sense of longing as she talks about wanting to read classic authors. The specific desire to 'confidently pronounce their names' adds a layer of vulnerability, suggesting a yearning not just for knowledge but for the cultural capital and confidence that comes with it.",
+    "summary_reasoning": "Longing tone, desire for confidence."
+  },
+  {
+    "timestamp": 34.406,
+    "emotion": "passionate",
+    "detailed_reasoning": "As the speaker lists all the types of books she wants to read, her vocal delivery builds in speed, volume, and intensity. This crescendo mirrors the expanding and all-consuming nature of her desire, transforming the tone from a simple yearning into a powerful expression of passion.",
+    "summary_reasoning": "Increasing vocal speed and intensity."
+  },
+  {
+    "timestamp": 42.004,
+    "emotion": "annoyed",
+    "detailed_reasoning": "There is a sharp shift in tone when she describes movie adaptations. Her voice takes on a scornful quality, particularly on the word 'plaster.' Her facial expression shows distaste, reflecting her annoyance at the commercialization that she feels taints the purity of the books.",
+    "summary_reasoning": "Scornful tone, distasteful expression."
+  },
+  {
+    "timestamp": 49.714,
+    "emotion": "contemplative",
+    "detailed_reasoning": "The mood softens again as she describes the intimate act of writing in the margins. Her voice becomes quieter and more thoughtful, and her pace slows. This delivery suggests a deep, contemplative state, focusing on the intellectual and personal connection to the act of reading.",
+    "summary_reasoning": "Softer, thoughtful voice, slower pace."
+  },
+  {
+    "timestamp": 53.429,
+    "emotion": "determined",
+    "detailed_reasoning": "For the final line of the poem, the speaker's voice swells with power and conviction. She raises her head and projects her voice, landing on the final words with resolute force. This powerful delivery transforms the desire into a firm declaration of intent, ending the piece with a strong sense of determination.",
+    "summary_reasoning": "Powerful voice, resolute delivery."
+  }
+]

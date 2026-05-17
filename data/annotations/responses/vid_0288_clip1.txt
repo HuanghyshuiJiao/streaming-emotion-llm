@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1.132,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker starts the conversation with a casual and relaxed tone, saying 'Hey, babe.' His facial expression is neutral, and his voice is soft, indicating a calm emotional state at the beginning of the phone call.",
+    "summary_reasoning": "Casual tone, neutral expression."
+  },
+  {
+    "timestamp": 6.332,
+    "emotion": "shocked",
+    "detailed_reasoning": "The speaker's facial expression changes dramatically as he repeats the question, 'You want to break up?'. His eyebrows furrow deeply, his eyes squint, and his mouth shows tension. This non-verbal reaction, combined with the long pause before the words, clearly indicates he is shocked and in disbelief at what he's hearing.",
+    "summary_reasoning": "Furrowed eyebrows, squinted eyes, tense mouth."
+  },
+  {
+    "timestamp": 10.216,
+    "emotion": "nonchalant",
+    "detailed_reasoning": "After the initial shock, the speaker quickly shifts his emotional display. He says 'Sure' with a slight, almost dismissive smile and a light, airy tone. This suggests an attempt to mask his surprise and appear unbothered or nonchalant about the prospect of breaking up.",
+    "summary_reasoning": "Dismissive smile, light tone."
+  },
+  {
+    "timestamp": 18.018,
+    "emotion": "defiant",
+    "detailed_reasoning": "The speaker's tone becomes more assertive and firm as he says, 'Yeah, I want to break up too.' He is no longer just reacting but is now actively participating in the breakup, turning the situation around. This change in tone from feigned nonchalance to active agreement suggests a defiant stance.",
+    "summary_reasoning": "Assertive tone, firm voice."
+  },
+  {
+    "timestamp": 22.013,
+    "emotion": "resentful",
+    "detailed_reasoning": "Explaining his reasoning, the speaker's tone takes on a harder edge. When he says, 'I've been thinking about it since the first day we met,' his voice is steady and serious, lacking any of the earlier nonchalance. This conveys a sense of long-held negative feeling or resentment.",
+    "summary_reasoning": "Hard tone, serious voice."
+  },
+  {
+    "timestamp": 33.344,
+    "emotion": "smug",
+    "detailed_reasoning": "The speaker's emotion shifts again as he says, 'But hey, you beat me to it.' He delivers the line with a slight smile and a light, almost cheerful tone. This suggests he is trying to regain control of the emotional dynamic, presenting himself as if he also wanted this outcome, giving him a smug or self-satisfied air.",
+    "summary_reasoning": "Slight smile, cheerful tone."
+  },
+  {
+    "timestamp": 39.166,
+    "emotion": "dismissive",
+    "detailed_reasoning": "When he says 'No hard feelings. Be friends,' his tone is casual and his expression is relaxed. He is treating the end of the relationship and the suggestion of friendship very lightly, which comes across as dismissive of the relationship's importance.",
+    "summary_reasoning": "Casual tone, relaxed expression."
+  },
+  {
+    "timestamp": 46.101,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "The speaker's agreement to be friends is laden with sarcasm. He says, 'Sure. I love to be friends,' with an overly agreeable and slightly exaggerated tone. His slight smile does not seem genuine, indicating he is mocking the suggestion rather than sincerely agreeing with it.",
+    "summary_reasoning": "Exaggeratedly agreeable tone, fake smile."
+  },
+  {
+    "timestamp": 50.318,
+    "emotion": "cynical",
+    "detailed_reasoning": "The speaker's tone becomes philosophical but cynical as he says, 'That's the natural evolution of relationships.' He is speaking in generalities with a tone of mock-seriousness, suggesting a deep-seated cynicism about how relationships progress and end.",
+    "summary_reasoning": "Mock-serious tone, generalizing statement."
+  }
+]

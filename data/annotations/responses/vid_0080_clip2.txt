@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 0.793,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker begins with a slow, heavy tone. His facial expression is strained, with squinted eyes and a tense mouth, conveying a sense of sorrowful pity for the person he is describing.",
+    "summary_reasoning": "Slow heavy tone, strained facial expression."
+  },
+  {
+    "timestamp": 5.104,
+    "emotion": "contempt",
+    "detailed_reasoning": "The speaker's tone shifts from sadness to a more accusatory and resentful one. His brow furrows, his volume increases slightly, and his words carry a clear sense of disdain for the person he is addressing.",
+    "summary_reasoning": "Accusatory tone, furrowed brow, disdain."
+  },
+  {
+    "timestamp": 12.061,
+    "emotion": "defiant",
+    "detailed_reasoning": "The speaker's tone becomes challenging and confrontational. He asks a rhetorical question with a scornful inflection, and his facial expression is one of direct, unwavering challenge. This marks a shift from expressing contempt to actively defying the other person.",
+    "summary_reasoning": "Challenging tone, scornful inflection, direct stare."
+  },
+  {
+    "timestamp": 16.833,
+    "emotion": "empowered",
+    "detailed_reasoning": "Following his defiant questions, the speaker makes a firm declaration. His tone is resolute and strong, and his expression is confident. He is no longer just challenging but stating his own power and the other person's lack of control.",
+    "summary_reasoning": "Resolute tone, confident expression."
+  },
+  {
+    "timestamp": 18.557,
+    "emotion": "contempt",
+    "detailed_reasoning": "The speaker's emotion intensifies into pure contempt. He delivers the line \"You an old man\" as a direct insult, his voice dripping with scorn and his facial expression showing disgust. He is now actively belittling the other person.",
+    "summary_reasoning": "Scornful tone, insulting words, disgusted expression."
+  },
+  {
+    "timestamp": 21.204,
+    "emotion": "enraged",
+    "detailed_reasoning": "The speaker's contempt climaxes into rage. His voice grows significantly louder and more aggressive, and he uses profanity for emphasis. His entire face is contorted with anger, showing the peak of his emotional state in the clip.",
+    "summary_reasoning": "Loud aggressive voice, profanity, angry facial expression."
+  }
+]

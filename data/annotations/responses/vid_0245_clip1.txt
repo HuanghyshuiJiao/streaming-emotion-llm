@@ -1,0 +1,74 @@
+[
+  {
+    "timestamp": 2.415,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins her story with a very measured and serious tone. Her facial expression is neutral to somber, and the slow, deliberate pace of her speech sets a grave mood. The content about being in a courtroom establishes a serious context right from the start.",
+    "summary_reasoning": "Measured tone, somber expression, serious content."
+  },
+  {
+    "timestamp": 3.557,
+    "emotion": "shameful",
+    "detailed_reasoning": "The explicit use of the word 'shamefully' directly indicates the emotion. The speaker's gaze is directed slightly downwards, and her tone remains low and somber, consistent with a feeling of shame and vulnerability in the courtroom setting she is describing.",
+    "summary_reasoning": "Word 'shamefully', downward gaze, low tone."
+  },
+  {
+    "timestamp": 10.128,
+    "emotion": "dread",
+    "detailed_reasoning": "The narrative introduces 'Satan as the persecutor' holding records of her life. This imagery, combined with her consistently grave tone and serious expression, builds a sense of dread and impending judgment. She uses hand gestures to illustrate the scene, drawing the listener into the tense atmosphere.",
+    "summary_reasoning": "Ominous words, grave tone, tense narrative."
+  },
+  {
+    "timestamp": 14.676,
+    "emotion": "awed",
+    "detailed_reasoning": "When mentioning 'God,' the speaker's voice rises in pitch and volume. She raises her right arm and points her finger upward, a powerful and reverent gesture. This contrasts sharply with the previous tone, indicating a shift to awe and reverence for the divine authority she is describing.",
+    "summary_reasoning": "Voice rises, upward gesture, reverent content."
+  },
+  {
+    "timestamp": 19.825,
+    "emotion": "helpless",
+    "detailed_reasoning": "The speaker's voice drops in volume and her pace slows on the line 'I had no lawyer.' Her facial expression conveys vulnerability, and the statement itself signifies a position of complete defenselessness, shifting the emotion from awe at a higher power to personal helplessness.",
+    "summary_reasoning": "Voice drops, slow pace, vulnerable expression."
+  },
+  {
+    "timestamp": 26.852,
+    "emotion": "distressed",
+    "detailed_reasoning": "The speaker describes this as the 'beginning of my tribulation.' Her tone is one of heavy resignation, and her gestures are open-palmed as if to signify surrender to a difficult fate. The word 'tribulation' itself points directly to a state of suffering and distress.",
+    "summary_reasoning": "Word 'tribulation', resigned tone, open-palmed gestures."
+  },
+  {
+    "timestamp": 35.157,
+    "emotion": "sorrowful",
+    "detailed_reasoning": "While describing the demons smiling, her focus shifts to the judge. Her voice softens as she says 'tears rolled down the judge's eyes,' and she gently touches her own face. This gesture and the softening of her tone convey a deep sense of sadness and sorrow for the judge's perceived pain.",
+    "summary_reasoning": "Soft tone, touches face, sad narrative content."
+  },
+  {
+    "timestamp": 40.35,
+    "emotion": "doomed",
+    "detailed_reasoning": "The speaker's voice gains a slight edge of intensity and finality as she speaks of her 'demise.' Her hands are held up as if in a state of alarm or surrender. The narrative has reached its lowest point, creating a palpable feeling of impending doom.",
+    "summary_reasoning": "Intense tone, word 'demise', defensive posture."
+  },
+  {
+    "timestamp": 42.556,
+    "emotion": "hopeful",
+    "detailed_reasoning": "The entire mood shifts with the words 'But wait,'. The speaker's tone becomes hushed and suspenseful, her expression changes from despair to one of anticipation, and she raises a finger to her lips. This is a classic narrative turning point, injecting sudden hope and suspense.",
+    "summary_reasoning": "Sudden pause, hushed tone, anticipatory expression."
+  },
+  {
+    "timestamp": 45.002,
+    "emotion": "triumphant",
+    "detailed_reasoning": "As a 'light' enters the story, her voice begins to swell with power and emotion. Visual effects of light are introduced. Her arm is raised high, and her facial expression is one of intense, tearful joy. The narrative turn from doom to salvation makes her tone triumphant.",
+    "summary_reasoning": "Swelling voice, raised arm, joyful expression, visual effects."
+  },
+  {
+    "timestamp": 51.498,
+    "emotion": "reverent",
+    "detailed_reasoning": "Leading to the climax, her voice is filled with building emotion and reverence. Her gestures are wide and encompassing. The slow, deliberate pace on 'none other than' builds anticipation for the reveal of the savior figure, culminating in a powerful feeling of reverence.",
+    "summary_reasoning": "Building vocal emotion, wide gestures, slow pace."
+  },
+  {
+    "timestamp": 53.323,
+    "emotion": "elated",
+    "detailed_reasoning": "Upon saying 'Jesus Christ,' the music swells and the video cuts to a depiction of Jesus. The speaker's delivery is at its emotional peak, conveying overwhelming relief, joy, and adoration. This culmination of the narrative's conflict results in a purely elated emotional state.",
+    "summary_reasoning": "Emotional peak, music swells, climactic reveal."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1.253,
+    "emotion": "joyful",
+    "detailed_reasoning": "The speaker begins her speech with a warm, genuine smile. Her tone is light and pleasant as she introduces a personal story about her mother. The setting is a celebratory one (a graduation ceremony), which contributes to the joyful mood.",
+    "summary_reasoning": "Warm smile, light tone, celebratory setting."
+  },
+  {
+    "timestamp": 8.305,
+    "emotion": "proud",
+    "detailed_reasoning": "When describing the portrait as the \"largest work she'd done,\" the speaker's tone becomes more emphatic, and her facial expression shows a mix of admiration and pride for her mother's work. She smiles more broadly, and her eyebrows raise slightly, highlighting the significance of this painting.",
+    "summary_reasoning": "Emphatic tone, wider smile, raised eyebrows."
+  },
+  {
+    "timestamp": 12.713,
+    "emotion": "engaged",
+    "detailed_reasoning": "The speaker uses expansive hand gestures to visually describe the large size of the canvas. Her tone is animated, and her facial expression is open and engaged with the audience, showing her enthusiasm for the story she is telling.",
+    "summary_reasoning": "Expansive gestures, animated tone, open expression."
+  },
+  {
+    "timestamp": 17.902,
+    "emotion": "anticipation",
+    "detailed_reasoning": "The speaker's vocal tone rises in pitch and speed when she says, \"I couldn't wait to see it.\" Her facial expression becomes more animated, with wider eyes and a slight forward lean, physically conveying her eagerness and anticipation.",
+    "summary_reasoning": "Higher pitch, faster speech, wider eyes."
+  },
+  {
+    "timestamp": 21.508,
+    "emotion": "surprised",
+    "detailed_reasoning": "After a dramatic pause following \"when I did,\" the speaker's tone shifts to one of incredulity. Her eyebrows raise significantly and her eyes widen as she says, \"I couldn't believe it,\" indicating genuine surprise at what she saw in the painting. The pause builds suspense for this emotional reveal.",
+    "summary_reasoning": "Dramatic pause, incredulous tone, raised eyebrows."
+  },
+  {
+    "timestamp": 31.517,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker's tone becomes more measured and serious as she describes being depicted as a \"work of art, a statue frozen in time.\" Her previous surprised smile fades into a more neutral, thoughtful expression, suggesting she is reflecting on the deeper meaning of her mother's portrayal.",
+    "summary_reasoning": "Measured tone, neutral expression, serious content."
+  },
+  {
+    "timestamp": 37.463,
+    "emotion": "introspective",
+    "detailed_reasoning": "The speaker's tone drops and becomes more subdued. She briefly lowers her gaze, mirroring the posture in the painting she's describing (\"hunched forward and looking down\"). This shift in vocal delivery and body language creates an introspective and slightly somber mood as she reveals the key detail of the portrait.",
+    "summary_reasoning": "Subdued tone, lowered gaze, somber mood."
+  },
+  {
+    "timestamp": 42.489,
+    "emotion": "curious",
+    "detailed_reasoning": "The speaker poses a series of rhetorical questions directly to the audience. Her tone becomes inquisitive, and her pitch varies, creating a sense of curiosity. She uses open hand gestures and direct eye contact, inviting the audience to ponder the question with her.",
+    "summary_reasoning": "Questioning tone, open gestures, direct eye contact."
+  },
+  {
+    "timestamp": 51.118,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker's tone shifts to one of knowing amusement. A wry smile appears as she builds up to the reveal. When she says \"my phone,\" her smile broadens, and the timing of the delivery is clearly comedic, indicating she is amused by the situation she's describing and is sharing a humorous, relatable moment with the audience.",
+    "summary_reasoning": "Wry smile, comedic timing, amused tone."
+  }
+]

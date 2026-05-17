@@ -1,0 +1,80 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "amazed",
+    "detailed_reasoning": "The speaker begins with a high-pitched, drawn-out \"Wow.\" Her eyes are wide open, her mouth is agape, and she is looking upwards as if in awe of a very large space. This combination of vocal and facial cues strongly indicates amazement.",
+    "summary_reasoning": "High-pitched tone, wide eyes, open mouth."
+  },
+  {
+    "timestamp": 5.116,
+    "emotion": "amused",
+    "detailed_reasoning": "After expressing amazement at the size of the house, her expression shifts slightly to a knowing smile. The line \"Rich folks\" is delivered with a slightly more playful and conspiratorial tone, suggesting she finds the opulence amusing.",
+    "summary_reasoning": "Knowing smile, playful tone."
+  },
+  {
+    "timestamp": 8.2,
+    "emotion": "frustrated",
+    "detailed_reasoning": "Her posture changes from relaxed awe to a more tense and self-directed state. Her voice loses its cheerful quality and becomes more stressed as she mentions the \"whole list of things to do,\" indicating frustration with her own idleness.",
+    "summary_reasoning": "Tense posture, stressed tone."
+  },
+  {
+    "timestamp": 12.504,
+    "emotion": "neutral",
+    "detailed_reasoning": "The speaker's demeanor shifts as she begins narrating the story. Her tone becomes more even and objective, and her facial expression becomes neutral, indicating a switch from expressing personal feelings to storytelling.",
+    "summary_reasoning": "Even tone, neutral expression, narrator persona."
+  },
+  {
+    "timestamp": 17.65,
+    "emotion": "contemplative",
+    "detailed_reasoning": "She embodies the character thinking. Her brows furrow slightly, she looks upwards, and she repeats the word \"think\" with a focused, deliberate tone. This indicates a state of deep thought or contemplation.",
+    "summary_reasoning": "Furrowed brow, focused tone, repetitive words."
+  },
+  {
+    "timestamp": 22.535,
+    "emotion": "excited",
+    "detailed_reasoning": "There is a sudden burst of energy. Her eyes light up, a wide smile spreads across her face, and her voice jumps to a high, excited pitch as she exclaims, \"I've got it.\" This is a classic 'eureka' moment, showing excitement and a sudden idea.",
+    "summary_reasoning": "Wide smile, high-pitched voice, sudden energy."
+  },
+  {
+    "timestamp": 24.076,
+    "emotion": "gleeful",
+    "detailed_reasoning": "Continuing from her excited realization, her expression is now beaming with joy. Her voice is bright and cheerful as she talks about making a surprise, conveying a sense of gleeful planning.",
+    "summary_reasoning": "Beaming expression, cheerful voice."
+  },
+  {
+    "timestamp": 27.19,
+    "emotion": "delighted",
+    "detailed_reasoning": "When she says \"lemon meringue pie,\" her voice is filled with warmth and her smile is genuine. The specific idea clearly delights her, and she presents it with a flourish, showing her happiness with her choice.",
+    "summary_reasoning": "Warm tone, genuine smile, happy delivery."
+  },
+  {
+    "timestamp": 29.113,
+    "emotion": "proud",
+    "detailed_reasoning": "She states, \"I do make good pies,\" with a confident tone, a self-satisfied smile, and a slight tilt of her head. This body language and vocal delivery clearly communicate a sense of pride in her baking abilities.",
+    "summary_reasoning": "Confident tone, self-satisfied smile."
+  },
+  {
+    "timestamp": 30.935,
+    "emotion": "playful",
+    "detailed_reasoning": "She shifts back to narration, but this time her tone is lively and rhythmic. She uses her hands and body to mime the actions of measuring and mixing, adding a playful and energetic quality to the storytelling.",
+    "summary_reasoning": "Lively tone, rhythmic speech, miming actions."
+  },
+  {
+    "timestamp": 43.31,
+    "emotion": "satisfied",
+    "detailed_reasoning": "After miming putting the pie in the oven, she says \"There we go\" with a nod and a look of contentment. Her actions and tone convey a sense of a job well done, indicating satisfaction.",
+    "summary_reasoning": "Content expression, definitive nod, satisfied tone."
+  },
+  {
+    "timestamp": 46.134,
+    "emotion": "serious",
+    "detailed_reasoning": "Her entire demeanor shifts abruptly. The smile disappears, her posture becomes more rigid, and her voice becomes lower and more business-like as she says, \"Now, about that list.\" This signals a transition to a serious, task-oriented mindset.",
+    "summary_reasoning": "Smile disappears, rigid posture, business-like tone."
+  },
+  {
+    "timestamp": 50.058,
+    "emotion": "focused",
+    "detailed_reasoning": "She begins to read from an imaginary list. Her voice takes on a monotonous, reciting quality, and her eyes are directed downwards as if reading. This indicates her focus has shifted entirely to the task of reading the instructions.",
+    "summary_reasoning": "Monotonous tone, downward gaze."
+  }
+]

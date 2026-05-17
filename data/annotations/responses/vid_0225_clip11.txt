@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 8.225,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker begins by talking about leaving an Ivy League institution, which she describes as what she was \"supposed to want.\" Her tone is measured and her gaze is slightly distant, suggesting she is reflecting on a significant past decision and the societal expectations tied to it. Her pace is deliberate, adding to the thoughtful and contemplative mood.",
+    "summary_reasoning": "Measured tone, distant gaze, deliberate pace."
+  },
+  {
+    "timestamp": 18.002,
+    "emotion": "content",
+    "detailed_reasoning": "Describing her life at the Ivy League school, she lists positive aspects like friends and supportive professors, saying she had a \"clear path.\" Her tone is calm and even, with a slight smile and relaxed facial expression, indicating a sense of contentment with that period of her life, even though she chose to leave it.",
+    "summary_reasoning": "Calm tone, slight smile, relaxed expression."
+  },
+  {
+    "timestamp": 25.195,
+    "emotion": "determined",
+    "detailed_reasoning": "The speaker's tone shifts as she explains her choice to move to Stockholm to \"try something different.\" Her voice becomes slightly more assertive, and her body language is composed. This indicates a sense of purpose and determination behind her decision to leave a comfortable situation for the unknown.",
+    "summary_reasoning": "Assertive tone, composed body language."
+  },
+  {
+    "timestamp": 35.177,
+    "emotion": "vulnerable",
+    "detailed_reasoning": "The speaker's demeanor changes significantly as she discloses a personal trauma. Her voice becomes softer and more somber, her pace slows, and she looks down briefly. This shift in tone and body language reveals a deep sense of vulnerability as she shares a painful experience with the audience.",
+    "summary_reasoning": "Softer tone, slower pace, downward gaze."
+  },
+  {
+    "timestamp": 42.748,
+    "emotion": "analytical",
+    "detailed_reasoning": "When differentiating between PTSD and OCD, the speaker's tone becomes more clinical and objective. Her delivery is straightforward and informative, lacking the emotional weight of the previous statement. This suggests a shift from personal testimony to a more analytical and explanatory mode of communication.",
+    "summary_reasoning": "Clinical tone, objective delivery."
+  },
+  {
+    "timestamp": 56.869,
+    "emotion": "empowered",
+    "detailed_reasoning": "In the final part of the clip, the speaker's voice gains strength and conviction. She speaks about acknowledging her fear but deciding not to let it control her life. Her facial expression is resolute, her posture is upright, and her gestures are more open, conveying a powerful sense of resilience and empowerment.",
+    "summary_reasoning": "Strong voice, resolute expression, upright posture."
+  }
+]

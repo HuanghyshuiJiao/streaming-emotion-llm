@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 4.02,
+    "emotion": "peaceful",
+    "detailed_reasoning": "The speaker begins with a calm and gentle tone, describing a serene scene. His voice is soft and the pace is slow and deliberate, creating a peaceful atmosphere as he talks about a sunny day and the feel of sand.",
+    "summary_reasoning": "Calm tone, slow pace, serene language."
+  },
+  {
+    "timestamp": 11.977,
+    "emotion": "content",
+    "detailed_reasoning": "Continuing the peaceful narrative, the speaker's tone expresses a deep sense of satisfaction and contentment. The words \"exquisite\" and the idea that time was \"non-existent\" are delivered with a soft, appreciative voice, indicating a feeling of profound, peaceful enjoyment.",
+    "summary_reasoning": "Appreciative tone, positive words, slow pace."
+  },
+  {
+    "timestamp": 18.281,
+    "emotion": "questioning",
+    "detailed_reasoning": "There is a distinct shift in tone from narrative to direct address. The speaker begins posing rhetorical questions to the audience. His tone is no longer just peaceful but becomes inquisitive and slightly more intense, aiming to make the listener reflect.",
+    "summary_reasoning": "Shift to rhetorical questions, direct address, more intense tone."
+  },
+  {
+    "timestamp": 24.732,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker's tone gains intensity and a sense of frustration. He transitions from questioning to making a critical statement about societal stress. His voice becomes firmer and the pace quickens, conveying a feeling of dissatisfaction with the current state of things.",
+    "summary_reasoning": "Firmer voice, faster pace, critical language."
+  },
+  {
+    "timestamp": 34.249,
+    "emotion": "critical",
+    "detailed_reasoning": "The speaker's frustration evolves into a more direct and critical tone. He explicitly assigns blame to the government. His voice is strong, his words are sharp (\"chemically enhanced genes,\" \"giant machines\"), and his delivery is forceful, indicating a clear critical stance.",
+    "summary_reasoning": "Forceful delivery, strong voice, accusatory language."
+  },
+  {
+    "timestamp": 42.412,
+    "emotion": "assertive",
+    "detailed_reasoning": "After laying out his critique, the speaker's tone becomes highly assertive and confident. He states that \"we should all be ashamed\" and follows it with a powerful, factual statement backed by authority figures (nurse, doctor, scientist). His voice is firm and unwavering, conveying strong conviction.",
+    "summary_reasoning": "Firm tone, unwavering delivery, confident statements."
+  },
+  {
+    "timestamp": 47.833,
+    "emotion": "confident",
+    "detailed_reasoning": "He concludes his point with a definitive statement: \"no two brains are the same.\" The delivery is powerful and resolute. His facial expression is serious and his voice is clear and strong, reinforcing the confidence and certainty of his message.",
+    "summary_reasoning": "Definitive tone, strong voice, serious expression."
+  },
+  {
+    "timestamp": 53.675,
+    "emotion": "concerned",
+    "detailed_reasoning": "The speaker's focus shifts to the younger generation, and his tone softens into one of concern. He talks about the \"future sitting at school, programmed to be worried about tests.\" The assertiveness fades, replaced by a more somber and empathetic tone.",
+    "summary_reasoning": "Softer, somber tone, empathetic language."
+  },
+  {
+    "timestamp": 58.995,
+    "emotion": "somber",
+    "detailed_reasoning": "The poem ends on a heavy and unresolved note. The speaker lists societal problems—the past waiting for an apology, the homeless feeling dispossessed. His voice is low, the pace is slow and deliberate, and the overall mood is somber, leaving the audience with a feeling of melancholy and concern for these unresolved issues.",
+    "summary_reasoning": "Low voice, slow pace, heavy and unresolved content."
+  }
+]

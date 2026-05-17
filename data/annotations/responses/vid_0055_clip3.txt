@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 3.86,
+    "emotion": "contemplative",
+    "detailed_reasoning": "The speaker begins with a neutral and thoughtful expression. His tone of voice is measured and calm, and his hands are gently clasped. He appears to be formulating a plan or recalling a recent event, which gives him a contemplative demeanor as he sets the scene.",
+    "summary_reasoning": "Neutral expression, measured tone, calm demeanor."
+  },
+  {
+    "timestamp": 9.553,
+    "emotion": "proud",
+    "detailed_reasoning": "As he reveals the name of the ballad, \"Bottom's Dream,\" his hands open in a presentational gesture. A slight, satisfied smile appears on his face, and his eyes show a hint of pride. He is clearly pleased with his own cleverness and the name he has chosen.",
+    "summary_reasoning": "Satisfied smile, presentational hand gesture, pleased eyes."
+  },
+  {
+    "timestamp": 11.798,
+    "emotion": "amused",
+    "detailed_reasoning": "When delivering the pun \"because it hath no bottom,\" his tone becomes slightly conspiratorial and knowing. His deadpan facial expression, combined with the wordplay, indicates that he is amused by his own joke, creating a moment of subtle, self-satisfied humor.",
+    "summary_reasoning": "Conspiratorial tone, deadpan expression, wordplay."
+  },
+  {
+    "timestamp": 16.71,
+    "emotion": "excited",
+    "detailed_reasoning": "The speaker's energy level noticeably increases as he talks about performing the song. His voice becomes louder and more animated, his eyes widen with enthusiasm, and his gestures become more expansive. He is clearly excited by the prospect of this performance.",
+    "summary_reasoning": "Louder animated voice, wide eyes, expansive gestures."
+  },
+  {
+    "timestamp": 24.688,
+    "emotion": "mischievous",
+    "detailed_reasoning": "His tone becomes more playful and exaggerated as he says \"to make it the more gracious.\" He adopts a funny, scrunched-up facial expression, pulling at his own face, which signals a shift into a more mischievous and theatrical mood as he builds towards his final, absurd idea.",
+    "summary_reasoning": "Playful tone, exaggerated facial expression."
+  },
+  {
+    "timestamp": 27.996,
+    "emotion": "ecstatic",
+    "detailed_reasoning": "At the climax of his speech, his voice rises in volume and pitch to an almost manic level. His eyes are wide with wild excitement, and his facial expression is one of pure, unrestrained glee. This explosion of energy suggests he is ecstatic about his outrageous idea.",
+    "summary_reasoning": "Loud manic voice, wild eyes, unrestrained glee."
+  }
+]

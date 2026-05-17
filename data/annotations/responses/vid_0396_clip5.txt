@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 6.78,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker is starting an anecdote with a lighthearted and slightly playful tone. His facial expression is relaxed with a slight smile, and his hand gestures are open, suggesting he's setting up a humorous and relatable story for the audience about falling in love.",
+    "summary_reasoning": "Playful tone, smile, relaxed posture."
+  },
+  {
+    "timestamp": 18.497,
+    "emotion": "humorous",
+    "detailed_reasoning": "The speaker's emotion shifts to a more performative and theatrical state. He acts out the scene of suddenly realizing his partner's flaws with an exaggerated, shocked tone and facial expression (\"Jesus Christ, where did this thing come from?\"). This is clearly a comedic act meant to entertain the audience.",
+    "summary_reasoning": "Exaggerated tone, shocked facial expression, comedic acting."
+  },
+  {
+    "timestamp": 31.978,
+    "emotion": "humorous annoyance",
+    "detailed_reasoning": "Continuing his story, the speaker's emotion becomes one of feigned annoyance. He acts out discovering his partner eating an apple loudly. His tone is comically critical, and his facial expression conveys mock irritation, which is designed to be funny and relatable.",
+    "summary_reasoning": "Comedic tone, mock irritation, acting."
+  },
+  {
+    "timestamp": 44.61,
+    "emotion": "humorous annoyance",
+    "detailed_reasoning": "The speaker escalates the humorous annoyance by vividly imitating the sound of someone slurping tea loudly. The sound effect, combined with his pained and irritated facial expression, serves as a comedic punchline, illustrating how mundane sounds can become infuriating in a long-term relationship.",
+    "summary_reasoning": "Imitates slurping sound, pained facial expression."
+  },
+  {
+    "timestamp": 49.783,
+    "emotion": "wry",
+    "detailed_reasoning": "The speaker transitions from storytelling to directly engaging the audience. He asks, \"Have you been there?\" with a knowing smile and a more conspiratorial tone, inviting shared experience. This indicates a shift to a wry, self-aware humor about the relatable, albeit sad, aspects of relationships.",
+    "summary_reasoning": "Direct audience address, knowing smile, conspiratorial tone."
+  }
+]

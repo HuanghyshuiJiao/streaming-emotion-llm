@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 4.618,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins by presenting factual information based on the brain scan image shown on the screen. Her tone is neutral, steady, and informative. Her posture is relaxed and her facial expression is neutral, indicating a calm and educational demeanor as she sets up her argument.",
+    "summary_reasoning": "Informative tone, neutral expression, factual content."
+  },
+  {
+    "timestamp": 10.967,
+    "emotion": "assertive",
+    "detailed_reasoning": "The speaker shifts from presenting facts to directly refuting common misconceptions. Her tone becomes more firm and declarative, especially on the words \"it's not because of...\". She uses a downward inflection to dismiss these popular beliefs, conveying confidence and assertiveness in her statement.",
+    "summary_reasoning": "Firm tone, downward inflection, refuting claims."
+  },
+  {
+    "timestamp": 19.299,
+    "emotion": "didactic",
+    "detailed_reasoning": "The speaker uses a striking and slightly absurd analogy comparing ADHD causes to Nicolas Cage and drownings. Her tone becomes illustrative and is meant to teach the concept of 'correlation does not equal causation'. The use of a memorable, almost humorous example indicates a didactic or instructive intent, aimed at making a complex idea simple.",
+    "summary_reasoning": "Illustrative analogy, teaching tone, simplified explanation."
+  },
+  {
+    "timestamp": 26.79,
+    "emotion": "emphatic",
+    "detailed_reasoning": "After the humorous analogy, she brings the audience back to the data shown on screen, stating, \"Those are real numbers.\" Her voice becomes louder, more serious, and she emphasizes the words to underscore the validity of her point. This brief, sharp shift in tone is meant to add weight and seriousness to her claim.",
+    "summary_reasoning": "Louder voice, serious tone, emphasized words."
+  },
+  {
+    "timestamp": 29.545,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker transitions back to explaining the actual reasons for the increase in ADHD diagnoses. Her tone returns to being educational and informative. She gestures openly and lists various demographics (girls, adults, gifted students), methodically building her argument with a confident and knowledgeable demeanor.",
+    "summary_reasoning": "Educational tone, open gestures, listing facts."
+  },
+  {
+    "timestamp": 37.161,
+    "emotion": "concerned",
+    "detailed_reasoning": "The speaker introduces a counterpoint by saying \"and ironically, a lack of understanding...\". Her tone becomes more nuanced and her facial expression turns serious and focused. She is highlighting a critical problem in the perception of ADHD, and her demeanor shifts to reflect a sense of concern about common misunderstandings.",
+    "summary_reasoning": "Nuanced tone, serious expression, highlighting a problem."
+  },
+  {
+    "timestamp": 48.264,
+    "emotion": "somber",
+    "detailed_reasoning": "In her final sentence, the speaker makes a personal statement: \"ADHD is more serious than I realized.\" Her pace slows, her voice softens, and her expression becomes introspective. This shift from a public, educational tone to a personal reflection conveys a sense of gravity and sobriety about the topic.",
+    "summary_reasoning": "Slower pace, soft voice, personal reflection."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 3.054,
+    "emotion": "somber",
+    "detailed_reasoning": "The scene opens with the character speaking in a low, measured tone. His facial expression is serious and weary as he contemplates the hardships of a 'weary life.' The dimly lit, grand setting adds to the overall somber and contemplative mood.",
+    "summary_reasoning": "Low tone, serious expression, weary words."
+  },
+  {
+    "timestamp": 8.039,
+    "emotion": "apprehensive",
+    "detailed_reasoning": "The character's tone shifts slightly, becoming more intense and hushed as he speaks of 'the dread of something after death.' His eyes are wide and fixed, and he leans forward subtly, conveying a sense of fear and apprehension about the unknown.",
+    "summary_reasoning": "Intense hushed tone, wide eyes, fearful words."
+  },
+  {
+    "timestamp": 23.754,
+    "emotion": "resigned",
+    "detailed_reasoning": "After describing the fear of the afterlife, his tone becomes one of grim acceptance. He explains that this fear 'puzzles the will,' leading to a state of paralysis. His facial expression is one of sad resignation to this fact, as if accepting an unfortunate but unchangeable truth.",
+    "summary_reasoning": "Grim tone, sad expression, accepting paralysis."
+  },
+  {
+    "timestamp": 35.5,
+    "emotion": "cynical",
+    "detailed_reasoning": "The character's voice takes on a cynical, almost bitter edge as he delivers the line, 'conscience doth make cowards of us all.' A slight, mirthless smile plays on his lips, and his eyes narrow, suggesting a bitter realization about human nature.",
+    "summary_reasoning": "Bitter tone, mirthless smile, cynical words."
+  },
+  {
+    "timestamp": 44.672,
+    "emotion": "melancholy",
+    "detailed_reasoning": "His tone softens into a more lamenting and sorrowful quality as he describes resolution being 'sicklied o'er with the pale cast of thought.' His expression is downcast, reflecting a deep sadness over the way introspection weakens resolve.",
+    "summary_reasoning": "Sorrowful tone, downcast expression, lamenting words."
+  },
+  {
+    "timestamp": 54.064,
+    "emotion": "defeated",
+    "detailed_reasoning": "In the final lines, his voice becomes quieter and trails off. His energy seems to dissipate as he describes great enterprises turning 'awry' and losing their purpose. His posture slumps slightly, conveying a profound sense of defeat and hopelessness.",
+    "summary_reasoning": "Quiet voice, low energy, slumped posture."
+  }
+]

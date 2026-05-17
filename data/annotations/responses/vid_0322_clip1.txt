@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 5.66,
+    "emotion": "nostalgic",
+    "detailed_reasoning": "The video starts with a classic film noir aesthetic—black and white, a man in a suit and fedora against a city nightscape. The background music is slow and melancholic piano. The speaker's voice is low, gravelly, and slow-paced. He begins by talking about a woman from his past, establishing a reflective and nostalgic tone right from the start.",
+    "summary_reasoning": "Film noir style, slow music, low raspy voice, past tense narrative."
+  },
+  {
+    "timestamp": 14.633,
+    "emotion": "melancholic",
+    "detailed_reasoning": "The speaker's description of the woman's gaze is filled with a sense of admiration for how she saw past his flaws. When he says, \"No one ever looked at me like that before,\" his tone becomes heavier and more definitive, tinged with a deep sadness about the uniqueness and loss of that experience. The accompanying piano music remains somber, reinforcing the feeling of melancholy.",
+    "summary_reasoning": "Heavy tone, somber music, reflecting on a unique lost connection."
+  },
+  {
+    "timestamp": 20.763,
+    "emotion": "regretful",
+    "detailed_reasoning": "The speaker explicitly states, \"I wasn't a good man. I wasn't even a whole man.\" This direct admission of his own shortcomings, delivered with a slow, heavy cadence, marks a clear shift into self-recrimination and regret. He is looking back on his past self with a sense of shame and disappointment.",
+    "summary_reasoning": "Verbal self-criticism, heavy tone, admission of flaws."
+  },
+  {
+    "timestamp": 23.656,
+    "emotion": "hopeful",
+    "detailed_reasoning": "The word \"But\" signals a significant tonal shift. As he mentions her smile, a still, black-and-white portrait of a smiling woman appears, and the music swells slightly with a more uplifting, though still gentle, melody. His voice softens as he says, \"it felt like maybe I could be,\" introducing a brief moment of hope and the possibility of redemption that she inspired in him.",
+    "summary_reasoning": "Visual shift to smiling woman, uplifting musical swell, softened vocal tone."
+  },
+  {
+    "timestamp": 36.851,
+    "emotion": "heartbroken",
+    "detailed_reasoning": "After the brief moment of hope, the music fades slightly and the speaker delivers the line \"she left\" with a sense of finality and quiet devastation. The pace of his speech slows down, and the tone becomes hollow, conveying a deep sense of loss and heartbreak. The contrast with the preceding hopeful moment makes the pain more palpable.",
+    "summary_reasoning": "Hollow tone, slowed speech, simple statement of loss."
+  },
+  {
+    "timestamp": 47.364,
+    "emotion": "resigned",
+    "detailed_reasoning": "The speaker's tone shifts from personal heartbreak to a more philosophical, generalized reflection on loss. He categorizes people who leave, suggesting a learned, somber acceptance of this painful reality. The visual returns to him against the city lights, reinforcing his isolation. His voice carries a weight of weary experience, indicating resignation to his fate and the damage he carries.",
+    "summary_reasoning": "Philosophical tone, generalization about loss, weary vocal delivery."
+  },
+  {
+    "timestamp": 53.643,
+    "emotion": "longing",
+    "detailed_reasoning": "He describes the \"rare ones\" who \"show you who you could have been.\" His voice is filled with a profound sense of longing for a different past and a better version of himself. The final words, \"If only you'd have gotten there sooner,\" are delivered with a deep, lingering regret, encapsulating the entire monologue's theme of a lost opportunity for a different life.",
+    "summary_reasoning": "Reflecting on lost potential, wistful tone, final words expressing deep regret."
+  }
+]

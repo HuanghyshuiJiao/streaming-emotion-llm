@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 0.712,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker begins by talking about her past self. Her tone is calm and her facial expression is neutral with a very faint, nostalgic smile, suggesting she is calmly reflecting on a memory.",
+    "summary_reasoning": "Calm tone, nostalgic smile, speaking of the past."
+  },
+  {
+    "timestamp": 5.396,
+    "emotion": "sad",
+    "detailed_reasoning": "There's a significant shift in her demeanor. The faint smile disappears, her eyes look down, and her face becomes somber. The word \"now\" is drawn out and followed by a long, heavy pause, indicating a painful transition from a better past to a difficult present.",
+    "summary_reasoning": "Smile fades, somber expression, heavy pause."
+  },
+  {
+    "timestamp": 10.961,
+    "emotion": "despairing",
+    "detailed_reasoning": "The speaker explicitly mentions trying not to cry. Her voice is low, slow, and sounds heavy with emotion. Her eyes are downcast and her overall expression is one of hopelessness and defeat, deepening the initial sadness into despair.",
+    "summary_reasoning": "Mentions crying, low slow voice, defeated expression."
+  },
+  {
+    "timestamp": 20.549,
+    "emotion": "scared",
+    "detailed_reasoning": "After another long, emotional pause, she explicitly states, \"I'm scared.\" Her voice drops to a vulnerable, shaky whisper, and her facial muscles tense up, clearly communicating a shift from sorrow to fear.",
+    "summary_reasoning": "States \"I'm scared\", shaky whisper, facial tension."
+  },
+  {
+    "timestamp": 27.956,
+    "emotion": "anxious",
+    "detailed_reasoning": "The speaker's fear becomes more specific and existential as she worries about losing her identity. She stammers slightly and brings her hand towards her head, gestures which, combined with her worried expression, indicate a rising state of anxiety and internal conflict.",
+    "summary_reasoning": "Stammering, expresses fear of losing self, hand to head gesture."
+  },
+  {
+    "timestamp": 31.776,
+    "emotion": "horrified",
+    "detailed_reasoning": "This is the climax of her fear. As she says, \"I'm scared that I am,\" her eyes widen dramatically in a look of dawning horror. Her voice is a tight, breathy whisper, conveying the terrifying realization that her fear of changing is coming true.",
+    "summary_reasoning": "Wide horrified eyes, breathy whisper, shocking statement."
+  },
+  {
+    "timestamp": 34.22,
+    "emotion": "intense",
+    "detailed_reasoning": "Her demeanor shifts completely from internal horror to external explanation. She addresses someone named \"Dina,\" her voice becomes louder and firmer, and her gaze is direct and challenging. This marks a change from being a victim of her fear to analyzing it with intensity.",
+    "summary_reasoning": "Addresses someone, firm loud voice, direct challenging gaze."
+  },
+  {
+    "timestamp": 41.033,
+    "emotion": "confrontational",
+    "detailed_reasoning": "Continuing her explanation, her tone becomes harder and more forceful. She leans in slightly, and her eyes are fixed on the camera. The statement that there is \"no running away\" is delivered as a harsh, unavoidable fact, setting a confrontational tone.",
+    "summary_reasoning": "Hard forceful tone, fixed gaze, confrontational statement."
+  },
+  {
+    "timestamp": 46.423,
+    "emotion": "contemptuous",
+    "detailed_reasoning": "The intensity builds to a climax of bitter anger and contempt. Her voice is laced with aggression, and she delivers the final line, \"The truth is gonna make you hurt, bitch,\" with a menacing glare, leaning forward to emphasize the threat. The emotion has transformed from fear into a hardened, contemptuous warning.",
+    "summary_reasoning": "Menacing glare, aggressive tone, threatening words."
+  }
+]

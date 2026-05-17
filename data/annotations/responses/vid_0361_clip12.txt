@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 8.599,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins the story with a neutral, narrative tone. His voice is steady and his body language is relaxed as he sets the scene of one friend visiting another. He is simply recounting events without adding much emotional color yet.",
+    "summary_reasoning": "Narrative tone, relaxed posture."
+  },
+  {
+    "timestamp": 12.623,
+    "emotion": "annoyed",
+    "detailed_reasoning": "The speaker's emotion shifts as he embodies the character. He lets out an exaggerated sigh of relief (\"Ah!\") but then his facial expression turns into a grimace and his voice becomes strained and complaining as he says his shoes \"cut a lot.\" This clearly conveys the character's physical discomfort and annoyance.",
+    "summary_reasoning": "Strained voice, pained facial expression."
+  },
+  {
+    "timestamp": 21.631,
+    "emotion": "pity",
+    "detailed_reasoning": "The speaker shifts perspective to the visiting friend's internal thoughts. The tone becomes more serious and contemplative. He expresses the gravity of his friend's life problems, suggesting that if he had even one of them, he might feel suicidal. This conveys a deep sense of pity and sympathy for his friend's larger struggles.",
+    "summary_reasoning": "Serious tone, contemplative expression."
+  },
+  {
+    "timestamp": 26.115,
+    "emotion": "incredulous",
+    "detailed_reasoning": "After contemplating his friend's major life issues, the speaker's tone shifts to one of disbelief and almost mockery as he voices the visiting friend's thoughts about the shoe problem. The phrase \"Your problem is that your shoes cut you\" is delivered with a tone of incredulity, highlighting the absurdity of this being the main complaint. He then says \"change your shoes\" with a tone of exasperation at the obviousness of the solution.",
+    "summary_reasoning": "Incredulous tone, exasperated expression."
+  },
+  {
+    "timestamp": 30.599,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker now voices the friend with the ill-fitting shoes. In response to the simple advice, he calmly states, \"I will change my shoes tomorrow.\" The tone is placid and slightly dismissive, creating a sense of mystery and suggesting that the friend's simple solution is missing the point. The emotion returns to a calm, narrative state.",
+    "summary_reasoning": "Placid tone, neutral expression."
+  },
+  {
+    "timestamp": 37.876,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker's energy and volume build significantly as he explains the true meaning behind the painful shoes. He uses expansive gestures and a more intense, passionate vocal delivery to describe roaming the world and fighting devils. The shoes are now a metaphor for his struggles, and his tone reflects the weight and intensity of these life battles.",
+    "summary_reasoning": "Intense voice, expansive gestures."
+  },
+  {
+    "timestamp": 47.74,
+    "emotion": "peaceful",
+    "detailed_reasoning": "Following the intense description of his struggles, the speaker's demeanor changes completely. His voice becomes soft and slow, his posture relaxes, and his facial expression softens. As he describes the peace he feels upon taking off the shoes, his tone is filled with a profound sense of relief and contentment. This powerful contrast delivers the story's emotional climax, showing that the pain makes the final peace meaningful.",
+    "summary_reasoning": "Soft voice, calm expression, slow pace."
+  }
+]

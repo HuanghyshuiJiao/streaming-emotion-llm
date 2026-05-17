@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "sad",
+    "detailed_reasoning": "The video opens with the speaker already looking distressed. Her eyebrows are furrowed, her eyes are watery, and her mouth is downturned in a classic expression of sadness. Her first words, 'My cake!', are delivered in a soft, high-pitched, and mournful tone, almost like a whimper, which reinforces the visual sadness.",
+    "summary_reasoning": "Distressed face, watery eyes, mournful tone."
+  },
+  {
+    "timestamp": 6.341,
+    "emotion": "melancholy",
+    "detailed_reasoning": "The speaker transitions from active distress to a more narrative and reflective state. While her facial expression remains sad, her tone becomes more measured as she begins to tell her story. The introduction of a slow, somber piano melody in the background sets a melancholy mood, suggesting she is recounting a past sad event.",
+    "summary_reasoning": "Sad face, narrative tone, somber music."
+  },
+  {
+    "timestamp": 12.07,
+    "emotion": "hopeful",
+    "detailed_reasoning": "As the speaker recalls waiting for the cake, her tone brightens and her pitch rises slightly, especially on the word 'dreaming.' She briefly closes her eyes as if to savor the memory of her anticipation. This brief shift in vocal and facial cues indicates a fleeting moment of remembered hope before the disappointment.",
+    "summary_reasoning": "Brighter tone, higher pitch, recalling a positive memory."
+  },
+  {
+    "timestamp": 19.141,
+    "emotion": "somber",
+    "detailed_reasoning": "The hopeful moment passes, and the speaker's mood shifts back down. Her tone becomes more serious and her face loses any hint of a smile as she says, 'Finally, the delivery guy shows up.' This signals that the story is heading towards its negative conclusion, creating a somber and suspenseful feeling.",
+    "summary_reasoning": "Serious tone, neutral face, narrative suspense."
+  },
+  {
+    "timestamp": 25.491,
+    "emotion": "disappointed",
+    "detailed_reasoning": "The speaker's tone is filled with negative anticipation as she says, 'and guess what's inside?' She makes direct eye contact with the camera, and there is a long, dramatic pause before the reveal. Her expression and the drawn-out delivery clearly foreshadow a disappointing outcome.",
+    "summary_reasoning": "Negative anticipatory tone, dramatic pause, direct eye contact."
+  },
+  {
+    "timestamp": 33.798,
+    "emotion": "defeated",
+    "detailed_reasoning": "After the long pause, she reveals the contents by saying 'Bread' in a flat, lifeless, and completely defeated tone. Her facial expression is one of pure disappointment and disbelief. The single word, delivered with such low energy, perfectly encapsulates the anticlimax and her feeling of defeat.",
+    "summary_reasoning": "Flat, lifeless tone, disappointed expression."
+  },
+  {
+    "timestamp": 39.535,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker's energy shifts from passive defeat to active frustration. Her voice rises in pitch and volume as she exclaims, 'Not even sweet bread!!' She throws her hands up and open in a gesture of exasperation, showing her growing annoyance and disbelief at the situation.",
+    "summary_reasoning": "Higher pitch, louder voice, exasperated hand gestures."
+  },
+  {
+    "timestamp": 46.254,
+    "emotion": "incredulous",
+    "detailed_reasoning": "Her frustration peaks and turns into pure incredulity. She asks, 'how do they mess that up?!' with a high-pitched, almost whining tone. Her eyes are wide, and she spreads her hands far apart in a gesture that expresses utter bewilderment and disbelief at the mistake.",
+    "summary_reasoning": "High-pitched tone, wide eyes, bewildered gestures."
+  },
+  {
+    "timestamp": 51.871,
+    "emotion": "sad",
+    "detailed_reasoning": "After the peak of her frustration, the speaker's energy deflates, and she returns to her initial state of sadness. Her voice becomes soft and mournful again as she repeats, 'My cake. Where is my cake?' Her facial expression is once again sorrowful, bringing the emotional narrative full circle back to her initial feeling of loss.",
+    "summary_reasoning": "Soft mournful voice, sorrowful expression, deflated energy."
+  }
+]

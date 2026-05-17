@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 2.495,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her talk with a very composed and steady tone of voice. Her facial expression is neutral, and her posture is relaxed. The words 'mostly okay. Or fixable' are delivered in a reassuring, unhurried manner, establishing a calm and controlled opening.",
+    "summary_reasoning": "Steady voice, neutral expression, calm delivery."
+  },
+  {
+    "timestamp": 26.251,
+    "emotion": "amused",
+    "detailed_reasoning": "After listing several serious life challenges, the speaker's tone shifts to become more lighthearted and playful. She mentions a made-up or unusual name, 'Smedmertz,' which, combined with a slight smile and a softer, more humorous vocal delivery, indicates she is amused and sharing a whimsical, personal anecdote to lighten the mood.",
+    "summary_reasoning": "Playful tone, slight smile, humorous content."
+  },
+  {
+    "timestamp": 30.274,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker's tone becomes more serious and declarative as she defines what stability means. Her smile fades, her expression becomes more focused and neutral, and her delivery is more deliberate and paced. This shift suggests she is moving from a lighthearted example to a more profound, central point of her talk.",
+    "summary_reasoning": "Serious tone, focused expression, deliberate pace."
+  },
+  {
+    "timestamp": 38.813,
+    "emotion": "playful",
+    "detailed_reasoning": "The speaker's demeanor changes as she introduces a personal and intriguing topic: her tattoo. She adopts a slightly confidential tone, a small, knowing smile appears, and her eyes crinkle slightly. This combination of cues suggests a playful and teasing attitude, meant to capture the audience's curiosity.",
+    "summary_reasoning": "Confidential tone, knowing smile."
+  },
+  {
+    "timestamp": 42.582,
+    "emotion": "amused",
+    "detailed_reasoning": "Following the setup about her tattoo, she delivers the punchline, 'It's my whole back.' Her smile widens, and her expression becomes more animated and openly amused, especially as she acknowledges the audience's laughter. The emotion is one of shared humor and lightheartedness.",
+    "summary_reasoning": "Wide smile, animated expression, acknowledging audience laughter."
+  },
+  {
+    "timestamp": 49.057,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker's mood shifts significantly from amusement to introspection. Her voice becomes softer and her speaking pace slows down. Her smile disappears, replaced by a more neutral, distant expression as she describes the private act of looking at her own tattoo. Her body language, turning slightly to the side, also contributes to this sense of a quiet, reflective moment.",
+    "summary_reasoning": "Softer voice, slower pace, neutral expression, turned body."
+  }
+]

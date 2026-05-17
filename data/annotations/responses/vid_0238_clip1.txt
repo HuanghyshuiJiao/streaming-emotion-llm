@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 5.617,
+    "emotion": "puzzled",
+    "detailed_reasoning": "The character begins by reflecting on an interaction. The initial tone is contemplative and slightly worried. As she starts describing the other person's behavior ('She made good view of me...'), her tone shifts to one of observation and her facial expression shows a hint of confusion, as if she is trying to piece something together. The way she describes the other person speaking in 'starts distractedly' reinforces this sense of puzzlement.",
+    "summary_reasoning": "Contemplative tone, confused expression, describing puzzling behavior."
+  },
+  {
+    "timestamp": 21.653,
+    "emotion": "shocked",
+    "detailed_reasoning": "After a long, dramatic pause where the character is completely still, her eyes widen significantly and her mouth opens in a classic expression of sudden, dawning realization. This visual cue is a very strong indicator of shock as she processes the meaning of the events she just recounted.",
+    "summary_reasoning": "Long pause, wide eyes, open mouth."
+  },
+  {
+    "timestamp": 27.799,
+    "emotion": "disbelieving",
+    "detailed_reasoning": "The character utters the words 'She loves me'. Her tone is breathy and incredulous, and her wide-eyed, shocked expression continues. She delivers the line not as a statement of fact, but as a question she can hardly believe herself, indicating a state of disbelief.",
+    "summary_reasoning": "Breathy tone, wide eyes, incredulous delivery."
+  },
+  {
+    "timestamp": 39.345,
+    "emotion": "confident",
+    "detailed_reasoning": "Following a rapid-fire sequence of deductions, the character's demeanor shifts abruptly. She declares 'I am the man' with a strong, assertive tone, a triumphant facial expression, and a more upright, confident posture. The previous disbelief has been replaced by a sudden certainty.",
+    "summary_reasoning": "Assertive tone, triumphant expression, upright posture."
+  },
+  {
+    "timestamp": 41.669,
+    "emotion": "sympathetic",
+    "detailed_reasoning": "Immediately after her moment of triumphant realization, her tone softens considerably as she says 'poor lady'. Her facial expression changes from confident to one of concern and pity, and her gaze lowers slightly, showing sympathy for the woman who has fallen for her disguise.",
+    "summary_reasoning": "Soft tone, concerned expression, lowered gaze."
+  },
+  {
+    "timestamp": 43.673,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The character's focus shifts from the other person to her own situation. Her voice takes on a harder, more bitter edge as she exclaims 'Disguise, I see, thou art a wickedness'. Her facial expression becomes stern, and she begins to use more forceful gestures, indicating frustration and blame directed at her own disguise.",
+    "summary_reasoning": "Bitter tone, stern expression, forceful gestures."
+  },
+  {
+    "timestamp": 54.333,
+    "emotion": "resigned",
+    "detailed_reasoning": "After lamenting the power of disguise, the character's energy deflates. She says 'Alas, our frailty is the cause, not we' with a sigh in her voice. Her posture softens, and her facial expression shifts to one of weary acceptance. The pace of her speech slows, conveying a sense of resignation to the perceived weakness of women.",
+    "summary_reasoning": "Sighing tone, deflated posture, weary expression."
+  }
+]

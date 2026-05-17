@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp": 1.193,
+    "emotion": "confused",
+    "detailed_reasoning": "The speaker's initial statement, \"I don't understand my feelings,\" combined with her furrowed brow, slight head tilt, and a soft, questioning tone, clearly indicates a state of confusion and inner turmoil.",
+    "summary_reasoning": "Confused words, facial expression, tone."
+  },
+  {
+    "timestamp": 6.942,
+    "emotion": "angry",
+    "detailed_reasoning": "The emotion shifts from confusion to anger. This is evident in her facial expression, which becomes more tense, and her tone, which gains a harder edge as she says the word \"hate.\" The words themselves mark a transition to a stronger, more defined negative emotion.",
+    "summary_reasoning": "Tense face, hard tone, word \"hate\"."
+  },
+  {
+    "timestamp": 14.734,
+    "emotion": "hateful",
+    "detailed_reasoning": "Her anger intensifies into outright hatred. Her voice becomes lower and more forceful on \"I hate you even more.\" Her facial expression contorts into a sneer, showing contempt and deep-seated animosity.",
+    "summary_reasoning": "Forceful voice, sneer, contemptuous expression."
+  },
+  {
+    "timestamp": 19.802,
+    "emotion": "pained",
+    "detailed_reasoning": "The focus shifts to the source of her hatred—a picture. The introduction of this visual in her mind brings a layer of pain to her anger. Her eyes widen, and her voice takes on a hurt quality as she describes seeing the picture of \"You and her.\"",
+    "summary_reasoning": "Pained expression, hurt tone, mention of painful memory."
+  },
+  {
+    "timestamp": 26.754,
+    "emotion": "bitter",
+    "detailed_reasoning": "Her pain turns to bitterness as she tries to dismiss the picture's importance by saying, \"I don't even care.\" Her tone is sharp and dismissive, and she shakes her head, a common sign of trying to reject a painful thought. This attempt to feign indifference reveals a deep bitterness.",
+    "summary_reasoning": "Dismissive tone, sharp words, rejecting gesture."
+  },
+  {
+    "timestamp": 29.156,
+    "emotion": "tormented",
+    "detailed_reasoning": "The speaker's emotion escalates to feeling tormented. She describes the picture as something that \"invades my head.\" Her voice becomes louder and more strained, and her facial expression is one of intense distress, as if she is being mentally assaulted by the image.",
+    "summary_reasoning": "Strained voice, distressed face, word \"invades\"."
+  },
+  {
+    "timestamp": 33.441,
+    "emotion": "agonized",
+    "detailed_reasoning": "The feeling of torment sharpens into agony. She uses the word \"stings,\" which she emphasizes with a pained vocal inflection and a facial expression of sharp pain. This suggests the emotional pain is so intense it feels physical.",
+    "summary_reasoning": "Pained vocal emphasis, agonized facial expression."
+  },
+  {
+    "timestamp": 41.53,
+    "emotion": "hopeless",
+    "detailed_reasoning": "The agony gives way to a sense of hopelessness. Her voice becomes softer and cracks as she says the wound is \"so deep I'll never get over it.\" Her eyes well up with tears, and her expression becomes one of despair and resignation to her suffering.",
+    "summary_reasoning": "Cracking voice, tearful eyes, words of despair."
+  },
+  {
+    "timestamp": 45.735,
+    "emotion": "defeated",
+    "detailed_reasoning": "After expressing hopelessness, her energy level drops, indicating she feels defeated. Her statement, \"I can't get rid of this picture either,\" is delivered in a tired, resigned tone. Her facial expression is weary, showing the emotional exhaustion from her internal battle.",
+    "summary_reasoning": "Tired tone, weary expression, words of defeat."
+  },
+  {
+    "timestamp": 50.8,
+    "emotion": "resigned",
+    "detailed_reasoning": "Her feeling of defeat settles into resignation. She describes the painful memory as coming \"uninvited,\" speaking in a soft, almost whispered voice. This delivery, combined with a look of sad acceptance, shows she has given up fighting the intrusive thought.",
+    "summary_reasoning": "Soft whisper, sad acceptance in expression."
+  },
+  {
+    "timestamp": 54.744,
+    "emotion": "anguished",
+    "detailed_reasoning": "In her final words, her resignation is tinged with deep anguish as she labels the experience \"a little torture.\" Her face twists in a final expression of pain, and her tone becomes bitter and pained, summarizing the profound suffering she has been describing.",
+    "summary_reasoning": "Pained facial expression, bitter tone, word \"torture\"."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 3.235,
+    "emotion": "awkward",
+    "detailed_reasoning": "The speaker begins by stating she is not good at emoting. Her tone is hesitant, her arms are crossed, and her facial expression is neutral to slightly strained, suggesting she feels uncomfortable or awkward about the task of performing a monologue.",
+    "summary_reasoning": "Hesitant tone, crossed arms, strained expression."
+  },
+  {
+    "timestamp": 10.666,
+    "emotion": "determined",
+    "detailed_reasoning": "After expressing her discomfort, she says \"Fuck it.\" Her tone shifts from hesitant to forceful and decisive. Her body language changes as she prepares to launch into the story, indicating a clear decision to push past her awkwardness and commit to the performance.",
+    "summary_reasoning": "Forceful tone, decisive delivery."
+  },
+  {
+    "timestamp": 19.178,
+    "emotion": "amused",
+    "detailed_reasoning": "When describing the man falling, she adds a cartoonish sound effect (\"Wee boop\"). This, combined with her deadpan delivery of a surreal and tragic event, creates a sense of dark humor. Her facial expression remains flat, which enhances the ironic amusement of the moment.",
+    "summary_reasoning": "Adds sound effect, deadpan delivery, dark humor."
+  },
+  {
+    "timestamp": 26.568,
+    "emotion": "somber",
+    "detailed_reasoning": "The mood shifts abruptly from dark humor to seriousness. After stating the man was alive, she pauses and then delivers \"and then he wasn't\" with a flat, definitive, and lower-pitched tone. Her facial expression becomes serious, marking the transition to the gravity of the death.",
+    "summary_reasoning": "Lower pitch, serious tone, grave expression."
+  },
+  {
+    "timestamp": 29.442,
+    "emotion": "guilty",
+    "detailed_reasoning": "The speaker explicitly states she feels guilty and calls herself a \"twat.\" Her tone is self-deprecating and confessional. She looks down slightly, and her expression is one of genuine remorse as she describes the inappropriate thought that followed the man's death.",
+    "summary_reasoning": "Self-deprecating tone, downward gaze, explicit statement of guilt."
+  },
+  {
+    "timestamp": 40.579,
+    "emotion": "shocked",
+    "detailed_reasoning": "Describing the moment before the man's death, her speaking pace slows and her gaze becomes fixed and distant, as if she is replaying the memory. Her expression is one of stunned disbelief, conveying the shock of looking at someone in their final moments.",
+    "summary_reasoning": "Slow pace, fixed gaze, stunned expression."
+  },
+  {
+    "timestamp": 48.351,
+    "emotion": "sad",
+    "detailed_reasoning": "Her tone becomes very soft and gentle as she says, \"he looked so kind.\" Her facial expression is filled with empathy and sorrow. The description of his death as the lights going out \"quietly and softly\" further enhances the deep sadness and poignancy of the moment.",
+    "summary_reasoning": "Soft tone, gentle delivery, sorrowful expression."
+  },
+  {
+    "timestamp": 56.503,
+    "emotion": "appreciative",
+    "detailed_reasoning": "In the final lines, as she reveals the man's name was \"Sunnymere,\" her expression softens into a slight, sad smile. Her tone has a hint of wonder and appreciation for the beauty of his name, finding a small, positive, and poignant detail in the midst of the tragedy.",
+    "summary_reasoning": "Soft, sad smile, wondering tone."
+  }
+]

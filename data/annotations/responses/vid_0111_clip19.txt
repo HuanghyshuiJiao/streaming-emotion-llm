@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 0.391,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her address from a podium in what appears to be a formal academic setting. Her initial tone is measured and clear, and her facial expression is composed with a gentle, slight smile, indicating a calm and controlled demeanor as she starts her speech.",
+    "summary_reasoning": "Measured tone, composed expression."
+  },
+  {
+    "timestamp": 7.661,
+    "emotion": "amused",
+    "detailed_reasoning": "After a long pause following the word '17', the speaker's smile widens and she looks down briefly. The content of her speech is a lighthearted, relatable anecdote about missing notifications. This combination of a comedic pause, the humorous content, and her subtly amused facial expression suggests she is sharing a moment of amusement with the audience.",
+    "summary_reasoning": "Comedic pause, wider smile, humorous content."
+  },
+  {
+    "timestamp": 11.586,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker's tone shifts from amused to more contemplative as she says 'As for everything in life...'. Her smile fades into a more neutral, serious expression. This transition in both vocal tone and facial expression marks a move towards a more philosophical and serious part of her speech.",
+    "summary_reasoning": "Contemplative tone, neutral expression."
+  },
+  {
+    "timestamp": 19.436,
+    "emotion": "earnest",
+    "detailed_reasoning": "Introducing a quote from Annie Dillard, the speaker's pace slows down, and her tone becomes more deliberate and sincere. Her facial expression is focused and serious, emphasizing the weight and importance of the words she is about to share. This deliberate delivery conveys a sense of earnestness.",
+    "summary_reasoning": "Slow, deliberate tone, focused expression."
+  },
+  {
+    "timestamp": 27.666,
+    "emotion": "grateful",
+    "detailed_reasoning": "Concluding her speech, the speaker's entire demeanor softens. A warm, genuine smile appears, and her tone becomes light and appreciative as she says 'Thank you'. This is a clear shift from the serious tone of the quote to one of warmth and gratitude towards the audience.",
+    "summary_reasoning": "Warm smile, appreciative tone."
+  },
+  {
+    "timestamp": 29.869,
+    "emotion": "joyful",
+    "detailed_reasoning": "For the final phrase, 'and go Bobcats,' her voice becomes louder, more energetic, and cheerful. Her smile broadens, expressing school spirit and a sense of shared joy and celebration appropriate for the graduation context. This is the peak of her positive emotional expression in the clip.",
+    "summary_reasoning": "Energetic voice, broad smile, cheerful tone."
+  }
+]

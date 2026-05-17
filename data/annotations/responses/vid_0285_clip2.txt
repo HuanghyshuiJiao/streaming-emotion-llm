@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "humorous",
+    "detailed_reasoning": "The speaker, a comedian, opens with a self-deprecating joke about his past addiction. His tone is energetic and performative, not genuinely distressed. He has a slight, knowing smile, and the audience's immediate laughter confirms the comedic intent of his statement.",
+    "summary_reasoning": "Energetic tone, self-deprecating joke, smiling, audience laughter."
+  },
+  {
+    "timestamp": 12.823,
+    "emotion": "engaging",
+    "detailed_reasoning": "The speaker transitions from his opening jokes to explaining the central theme of his comedy special. His tone becomes more direct and informative, yet still lighthearted, as he sets up the premise for the audience. His facial expression is open and friendly, gesturing slightly to connect with the viewers.",
+    "summary_reasoning": "Explanatory tone, direct address, friendly expression."
+  },
+  {
+    "timestamp": 21.251,
+    "emotion": "humorous",
+    "detailed_reasoning": "The speaker delivers another self-deprecating joke, this time about his physical appearance. He adopts a slightly more deadpan, matter-of-fact delivery to set up the punchline, which makes the absurd claim funnier. He breaks into a broad smile after the line, reacting to the strong audience laughter.",
+    "summary_reasoning": "Deadpan delivery, self-deprecating punchline, smiling, audience laughter."
+  }
+]

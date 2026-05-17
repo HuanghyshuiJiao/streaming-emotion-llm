@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 2.173,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker begins with a serious and metaphoric description of a person feeling helpless. His tone is low and steady, and his facial expression is serious and concerned. He slowly turns to face the audience, establishing a grave mood for the story he is about to tell.",
+    "summary_reasoning": "Serious tone, grave expression, negative words."
+  },
+  {
+    "timestamp": 10.421,
+    "emotion": "concerned",
+    "detailed_reasoning": "The speaker describes the negative physiological effects of pressure. His tone remains somber, but there's an added layer of concern as he details the physical toll on the character. His brow is slightly furrowed, enhancing the expression of worry.",
+    "summary_reasoning": "Somber tone, furrowed brow, negative words."
+  },
+  {
+    "timestamp": 18.609,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker lists positive attributes like \"vibrant colors\" and \"passion,\" but his tone becomes softer and more melancholic. His expression is one of sadness, as if mourning a loss, which aligns with the subsequent statement that these colors \"fade away.\"",
+    "summary_reasoning": "Soft, melancholic tone, sad expression."
+  },
+  {
+    "timestamp": 31.559,
+    "emotion": "bleak",
+    "detailed_reasoning": "The description shifts to explicitly negative imagery like \"monochrome blob of darkness and mystery.\" The speaker's tone becomes heavier and lower, and his facial expression is pained, reflecting the bleakness and loss of hope in the narrative.",
+    "summary_reasoning": "Heavy tone, pained expression, dark imagery."
+  },
+  {
+    "timestamp": 37.412,
+    "emotion": "disappointed",
+    "detailed_reasoning": "The narrative progresses to a point of failure: \"barely graduating high school.\" The speaker's tone conveys a sense of disappointment and struggle. His downward gaze and resigned expression reinforce this emotion.",
+    "summary_reasoning": "Disappointed tone, downward gaze, describing failure."
+  },
+  {
+    "timestamp": 45.931,
+    "emotion": "resigned",
+    "detailed_reasoning": "The story reaches a new low as the character \"settles for a job she hates.\" The speaker's vocal tone becomes flat and devoid of energy, conveying a sense of resignation and hopelessness. His posture is slightly slumped, mirroring the character's defeated state.",
+    "summary_reasoning": "Flat tone, slumped posture, words of defeat."
+  },
+  {
+    "timestamp": 52.265,
+    "emotion": "empathetic",
+    "detailed_reasoning": "The speaker concludes by explaining the character's lack of support. His voice becomes very soft, and his facial expression shifts to one of deep sympathy and pity for the character. This highlights his emotional connection to the story and his empathy for the person he is describing.",
+    "summary_reasoning": "Soft voice, sympathetic expression, explaining hardship."
+  }
+]

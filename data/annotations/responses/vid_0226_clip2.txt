@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 5.817,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins by reading a letter from a viewer. Her facial expression is somber, with downturned eyebrows and a focused gaze on the paper. Her vocal tone is steady but grave, adopting a serious demeanor to match the distressing content of the letter, which describes the discovery of a potential affair.",
+    "summary_reasoning": "Somber expression, grave tone, serious letter content."
+  },
+  {
+    "timestamp": 9.481,
+    "emotion": "distress",
+    "detailed_reasoning": "While reading the line 'she's gorgeous,' the speaker's eyebrows remain slightly furrowed, and her mouth is downturned. Her vocal delivery emphasizes the word, channeling the letter-writer's pain and insecurity. The contrast between the act of reading and the emotionally charged content conveys a feeling of vicarious distress.",
+    "summary_reasoning": "Furrowed brows, downturned mouth, pained tone."
+  },
+  {
+    "timestamp": 16.188,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker reads the most painful part of the letter, detailing how the writer's father's affair 'broke our family apart.' Her expression softens into one of sorrow and empathy. Her voice takes on a more somber, lower tone, effectively channeling the deep sadness and historical trauma described in the letter.",
+    "summary_reasoning": "Sorrowful expression, somber tone, traumatic story."
+  },
+  {
+    "timestamp": 18.891,
+    "emotion": "empathetic",
+    "detailed_reasoning": "After reading the powerful word 'devastated,' the speaker looks up from the paper. Her facial expression is one of deep empathy and concern. Her eyebrows are slightly raised in the middle, and her mouth is set in a sad, understanding line. Her voice softens, showing her emotional connection to the letter-writer's pain.",
+    "summary_reasoning": "Empathetic facial expression, soft voice."
+  },
+  {
+    "timestamp": 27.700,
+    "emotion": "inquisitive",
+    "detailed_reasoning": "Finishing the letter, the speaker transitions from narrator to presenter. She looks directly at the audience and asks, 'What should I do?' Her tone shifts from reading to direct, engaging address. Her eyebrows are slightly raised, and her direct gaze invites the audience to become active participants and consider the dilemma.",
+    "summary_reasoning": "Direct gaze, questioning tone, engaging the audience."
+  },
+  {
+    "timestamp": 37.734,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker begins to analyze the audience's potential reactions, starting with the universal pain of infidelity. Her expression is knowing and her vocal tone is gentle and analytical. She is guiding the audience's thought process from an empathetic but professional standpoint.",
+    "summary_reasoning": "Gentle tone, analytical expression, guiding the audience."
+  },
+  {
+    "timestamp": 42.082,
+    "emotion": "understanding",
+    "detailed_reasoning": "The speaker emphasizes the phrase 'especially painful' when explaining how the letter-writer's past trauma with her father makes the current situation worse. Her tone becomes more focused and serious, and her facial expression shows a deep comprehension of the complex psychological layers involved in the story.",
+    "summary_reasoning": "Emphatic tone, focused expression, explaining trauma."
+  },
+  {
+    "timestamp": 47.612,
+    "emotion": "connecting",
+    "detailed_reasoning": "The speaker explicitly aligns herself with the audience by saying, 'And like me, you'd probably have some empathy.' Her expression softens and becomes more open. Her tone is conversational and warm, creating a feeling of rapport and shared human experience with the audience.",
+    "summary_reasoning": "Inclusive language, warm tone, soft expression."
+  },
+  {
+    "timestamp": 51.018,
+    "emotion": "knowing",
+    "detailed_reasoning": "When discussing the husband, the speaker pauses and asks, 'how should I put this nicely,' which injects a moment of dark humor. A slight, wry smile appears, and her tone becomes somewhat conspiratorial, as if sharing an unspoken, mutual judgment with the audience about the husband's actions.",
+    "summary_reasoning": "Wry smile, conspiratorial tone, dark humor."
+  },
+  {
+    "timestamp": 57.170,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker brings the segment to a close by relating the audience's potential reactions back to her own professional experience as a therapist. Her tone becomes more settled and professional, and her expression is calm and thoughtful as she makes her final point, reflecting on her own process of reading such letters.",
+    "summary_reasoning": "Reflective tone, calm expression, professional conclusion."
+  }
+]

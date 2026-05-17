@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 3.697,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her speech with a very measured and calm tone. Her delivery is slow and deliberate, and her facial expression is neutral and composed. She is setting a calm, thoughtful stage for the story she is about to tell.",
+    "summary_reasoning": "Slow, measured tone; neutral expression."
+  },
+  {
+    "timestamp": 9.587,
+    "emotion": "persuasive",
+    "detailed_reasoning": "Her tone shifts slightly as she introduces the podcast and the author. There's a subtle rise in her pitch and a slight emphasis on the names, as if to recommend it to the audience. Her facial expression becomes slightly more engaged, moving from neutral to gently encouraging the audience to listen.",
+    "summary_reasoning": "Engaged tone, encouraging expression."
+  },
+  {
+    "timestamp": 15.677,
+    "emotion": "serious",
+    "detailed_reasoning": "As she introduces the quote from Zadie Smith, her tone becomes more serious and her pace slows down even more. She pauses before delivering the quote, creating a sense of gravity. Her facial expression becomes more focused and less smiley, signaling a shift to a more profound topic.",
+    "summary_reasoning": "Slower, graver tone; focused expression."
+  },
+  {
+    "timestamp": 23.411,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "While delivering the first part of Zadie Smith's quote, the speaker's tone is narrative and reflective. She is not expressing her own opinion but thoughtfully conveying someone else's. Her eyes look slightly down and to the side, a common cue for recalling information or deep thought.",
+    "summary_reasoning": "Reflective tone, downward gaze."
+  },
+  {
+    "timestamp": 34.905,
+    "emotion": "concerned",
+    "detailed_reasoning": "As the quote continues, describing the overwhelming nature of constant exposure to opinions and the need to present one's life as a 'media presentation,' the speaker's tone takes on a more concerned quality. Her eyebrows furrow slightly, and there's a hint of gravity in her voice, reflecting the negative weight of the words she is quoting.",
+    "summary_reasoning": "Grave tone, slight eyebrow furrow."
+  },
+  {
+    "timestamp": 43.555,
+    "emotion": "emphatic",
+    "detailed_reasoning": "The speaker's voice gains strength and her pitch rises as she quotes the part about how this constant exposure would affect her mind, books, and relationships. She uses vocal emphasis on key words like \"mind,\" \"books,\" and \"relationships\" to convey the profound impact described in the quote. Her expression is earnest and serious.",
+    "summary_reasoning": "Stronger voice, vocal emphasis, earnest expression."
+  },
+  {
+    "timestamp": 50.121,
+    "emotion": "calm",
+    "detailed_reasoning": "After the emotional peak of the quote, the speaker's tone returns to a calmer, more controlled state. Her pace slows, and her facial expression softens as she transitions from the quote back to her own speech, preparing to deliver the main point.",
+    "summary_reasoning": "Softer tone, slower pace, relaxed expression."
+  },
+  {
+    "timestamp": 57.325,
+    "emotion": "purposeful",
+    "detailed_reasoning": "In her final statement, the speaker's delivery becomes very clear and purposeful. She emphasizes the word \"intentionality\" with a firm, confident tone and a direct gaze at the audience. Her expression is resolute, clearly stating the moral of the story she has just told.",
+    "summary_reasoning": "Firm, confident tone; direct gaze; emphasis on final word."
+  }
+]

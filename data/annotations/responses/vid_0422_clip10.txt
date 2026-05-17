@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 6.242,
+    "emotion": "neutral",
+    "detailed_reasoning": "The speaker begins her explanation with a calm and steady vocal tone. Her facial expression is neutral, and her posture is relaxed, suggesting a composed and informative state as she introduces the topic.",
+    "summary_reasoning": "Calm tone, neutral expression, informative state."
+  },
+  {
+    "timestamp": 15.899,
+    "emotion": "analytical",
+    "detailed_reasoning": "The speaker's tone remains measured as she presents a critical dichotomy (sympathy vs. judgment). Her hand gestures are precise and contained, and her gaze is direct, indicating a focused, analytical mindset as she explains a complex literary concept.",
+    "summary_reasoning": "Measured tone, precise gestures, focused gaze."
+  },
+  {
+    "timestamp": 24.886,
+    "emotion": "engaged",
+    "detailed_reasoning": "The speaker's vocal pitch slightly increases, and she uses more fluid hand gestures as she explains what makes Browning's monologues interesting. Her facial expression becomes more animated, showing her engagement with the material she is presenting.",
+    "summary_reasoning": "Higher pitch, fluid gestures, animated expression."
+  },
+  {
+    "timestamp": 30.436,
+    "emotion": "pleased",
+    "detailed_reasoning": "After mentioning Robert Langbaum's observation, the speaker's tone softens, and a slight smile appears. She describes the observation as \"revelatory,\" and her expression shows a sense of intellectual satisfaction and agreement.",
+    "summary_reasoning": "Soft tone, slight smile, expressing agreement."
+  },
+  {
+    "timestamp": 38.07,
+    "emotion": "emphatic",
+    "detailed_reasoning": "The speaker's tone becomes more assertive as she emphasizes the feeling one gets when reading Browning. She uses a distinct head nod and direct eye contact to stress her point, conveying a strong sense of conviction.",
+    "summary_reasoning": "Assertive tone, head nod, direct eye contact."
+  },
+  {
+    "timestamp": 45.31,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker's pace slows down slightly, and her gaze shifts as if she is deeply considering the dual experience of the reader. Her tone is contemplative, reflecting the nuanced point she is making about understanding the character while also judging them.",
+    "summary_reasoning": "Slower pace, shifting gaze, contemplative tone."
+  },
+  {
+    "timestamp": 53.574,
+    "emotion": "instructive",
+    "detailed_reasoning": "The speaker transitions into a more direct, advisory tone. She looks directly at the camera and uses a deliberate hand gesture, clearly signaling that she is offering a special point or tip for students to use in their answers, adopting an instructive and helpful demeanor.",
+    "summary_reasoning": "Direct tone, advisory manner, deliberate gesture."
+  }
+]

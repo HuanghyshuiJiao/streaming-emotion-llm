@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 1.213,
+    "emotion": "performative",
+    "detailed_reasoning": "The video begins with the on-screen text identifying the speaker as 'IAN MCKELLEN,' though it is clearly not him. The speaker adopts a deep, theatrical, and declamatory tone, mimicking a famous actor. His facial expression is serious and focused, consistent with a dramatic performance. This is clearly an impersonation for comedic effect.",
+    "summary_reasoning": "Theatrical voice, on-screen text, impersonation."
+  },
+  {
+    "timestamp": 24.83,
+    "emotion": "manic",
+    "detailed_reasoning": "There is a sudden and significant shift in both the on-screen text and the speaker's performance. The text now identifies him as 'MARK HAMIL as THE JOKER.' His vocal delivery completely changes to a high-pitched, energetic, and slightly unhinged tone, characteristic of the Joker. His facial expression becomes a wide, smiling grimace, culminating in a laugh, which reinforces the manic and playful yet menacing emotion.",
+    "summary_reasoning": "Voice change, on-screen text, manic laughter."
+  },
+  {
+    "timestamp": 31.815,
+    "emotion": "performative",
+    "detailed_reasoning": "The on-screen text reverts back to 'IAN MCKELLEN,' and the speaker's voice immediately drops back down to the deep, resonant, and serious tone from the beginning of the video. His facial expression also returns to a more neutral, stoic look, signaling a return to the initial dramatic impersonation.",
+    "summary_reasoning": "Voice change, on-screen text, return to initial character."
+  },
+  {
+    "timestamp": 39.848,
+    "emotion": "jovial",
+    "detailed_reasoning": "Another abrupt change occurs as the on-screen text switches to 'LOUIS ARMSTRONG.' The speaker's voice transforms into a gravelly, raspy, and melodic tone, mimicking the famous jazz musician's singing style. He has a broad smile on his face, and his delivery is cheerful and lighthearted, conveying a jovial and comedic emotion.",
+    "summary_reasoning": "Voice change, on-screen text, singing tone, smiling."
+  },
+  {
+    "timestamp": 46.018,
+    "emotion": "performative",
+    "detailed_reasoning": "For the final line, the on-screen text once again shows 'IAN MCKELLEN.' The speaker's voice returns to the initial deep, serious, and theatrical tone to deliver the words 'The end.' This brings the performance full circle, ending on the same dramatic note it began with.",
+    "summary_reasoning": "Voice change, on-screen text, serious tone."
+  }
+]

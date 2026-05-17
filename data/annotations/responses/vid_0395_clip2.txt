@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 1.514,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins with a firm and assertive tone, using the word \"toxic\" to describe rigidity. Her facial expression is focused and intense, and she uses precise hand gestures to emphasize her point. This combination of verbal and non-verbal cues establishes a serious and authoritative mood from the outset.",
+    "summary_reasoning": "Firm tone, intense expression, emphatic gestures."
+  },
+  {
+    "timestamp": 11.594,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker's tone shifts from assertive to soft and personal as she begins her own story with \"My journey...\" Her pace slows slightly, and she has a more introspective expression, signaling a transition from a general statement to a personal reflection.",
+    "summary_reasoning": "Softer tone, slower pace, personal narrative."
+  },
+  {
+    "timestamp": 20.691,
+    "emotion": "somber",
+    "detailed_reasoning": "When she mentions growing up in \"apartheid South Africa,\" her tone becomes graver and more serious. Her facial expression is strained, reflecting the weight of the topic. The content itself is heavy, and her delivery matches the somber nature of the subject.",
+    "summary_reasoning": "Grave tone, serious expression, heavy topic."
+  },
+  {
+    "timestamp": 29.062,
+    "emotion": "critical",
+    "detailed_reasoning": "The speaker's tone becomes more pointed as she explains how \"denial\" makes racist legislation possible. The camera has pulled back, so the focus is on her words and tone, which carry a clear sense of condemnation and critical analysis of the societal issue.",
+    "summary_reasoning": "Pointed tone, condemnatory words."
+  },
+  {
+    "timestamp": 38.695,
+    "emotion": "introspective",
+    "detailed_reasoning": "The speaker transitions from the broad societal issue back to her personal experience. Her voice softens, and her pace slows down as she says, \"I first learned of the destructive power of denial at a personal level.\" This change in delivery indicates a shift inward, preparing the audience for a deeply personal and difficult story.",
+    "summary_reasoning": "Softer voice, slower pace, personal focus."
+  },
+  {
+    "timestamp": 49.998,
+    "emotion": "sad",
+    "detailed_reasoning": "Her emotion shifts distinctly to sadness as she recounts her father's death. Her voice becomes heavy with emotion, her pace is slow and deliberate, and her facial expression is pained. She looks down briefly, a common cue for recalling a painful memory. The specific details of his age and her age amplify the tragic and sad nature of the memory.",
+    "summary_reasoning": "Heavy voice, pained expression, downward gaze."
+  }
+]

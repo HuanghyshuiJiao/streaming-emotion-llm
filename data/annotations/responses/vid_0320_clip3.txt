@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 1.473,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker begins with a statement about her father's love in the past tense. Her facial expression is somber, her eyes are downcast, and her tone is melancholic and soft. The black and white filter of the video adds to the overall sad and nostalgic mood.",
+    "summary_reasoning": "Melancholic tone, somber expression, downcast eyes."
+  },
+  {
+    "timestamp": 5.076,
+    "emotion": "pained",
+    "detailed_reasoning": "After mentioning her mother, the speaker pauses for a long time and takes a deep, shaky breath. Her eyes close briefly as if recalling a painful memory. This non-verbal cue, combined with the heavy sigh, indicates a shift from simple sadness to a more acute sense of pain or distress.",
+    "summary_reasoning": "Long pause, shaky breath, pained expression."
+  },
+  {
+    "timestamp": 12.805,
+    "emotion": "anxious",
+    "detailed_reasoning": "The speaker explicitly states, \"I was always worried mother would leave me too.\" Her tone becomes slightly more tense and her speech is faster, reflecting the anxiety she is describing. Her eyes are wide and fixed, conveying a sense of fear and worry about abandonment.",
+    "summary_reasoning": "Explicit words, tense tone, wide eyes."
+  },
+  {
+    "timestamp": 19.392,
+    "emotion": "desperate",
+    "detailed_reasoning": "Her voice becomes softer and has a pleading quality as she says, \"I wish the ghosts would go.\" Her gaze is directed forward, almost as if she is pleading with an unseen presence. This conveys a sense of desperation and exhaustion from being haunted by these \"ghosts.\"",
+    "summary_reasoning": "Pleading tone, direct gaze, explicit words of wishing."
+  },
+  {
+    "timestamp": 24.378,
+    "emotion": "resigned",
+    "detailed_reasoning": "Following her desperate wish, her tone shifts to one of hopelessness and resignation when she says, \"But they linger. Always lingering.\" Her voice drops, her pace slows, and her expression becomes flat, suggesting she has accepted this haunting as a permanent state.",
+    "summary_reasoning": "Hopeless tone, slow pace, flat expression."
+  },
+  {
+    "timestamp": 28.502,
+    "emotion": "hopeless",
+    "detailed_reasoning": "The final words, \"Never really gone,\" are delivered with a profound sense of finality and hopelessness. Her voice is low and devoid of energy, and her gaze remains unfocused and empty. This culminates the previous feeling of resignation into a deeper state of hopelessness.",
+    "summary_reasoning": "Final tone, low voice, empty gaze."
+  }
+]

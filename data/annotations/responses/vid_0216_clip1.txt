@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp": 3.222,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker begins with a calm and measured tone. His facial expression is neutral, and his gaze is directed slightly upwards as if recalling a past experience. The content of his speech, about hitting a 'lowest moment,' reinforces this contemplative and reflective mood.",
+    "summary_reasoning": "Calm tone, upward gaze, past-tense narrative."
+  },
+  {
+    "timestamp": 6.172,
+    "emotion": "hopeful",
+    "detailed_reasoning": "After describing his lowest moment, the speaker's tone lifts slightly on the words 'lift myself up.' He uses hand gestures that move upward, visually reinforcing the idea of rising. This combination of vocal inflection and body language indicates a shift from simple reflection to a more hopeful outlook.",
+    "summary_reasoning": "Uplifted tone, upward hand gestures."
+  },
+  {
+    "timestamp": 16.699,
+    "emotion": "determined",
+    "detailed_reasoning": "The speaker's tone becomes firmer and more assertive as he states, 'there's nowhere to go but up.' His eyebrows are slightly furrowed, and his expression is serious, conveying a sense of conviction and newfound determination based on his past struggles.",
+    "summary_reasoning": "Firm tone, serious expression, assertive statement."
+  },
+  {
+    "timestamp": 22.048,
+    "emotion": "optimistic",
+    "detailed_reasoning": "The speaker's energy increases as he talks about saying 'goodbye to Neverland and hello to my future.' His vocal pitch rises, and his speaking pace quickens slightly. His eyes are wide and focused, suggesting excitement and optimism about what lies ahead.",
+    "summary_reasoning": "Higher pitch, faster pace, wide eyes."
+  },
+  {
+    "timestamp": 25.814,
+    "emotion": "confident",
+    "detailed_reasoning": "He announces that he's applying for jobs and has an interview, and his tone is confident and proud. He has a slight, self-assured smile and his posture is upright. The statement 'everything is ready' confirms this feeling of confidence and preparedness.",
+    "summary_reasoning": "Proud tone, slight smile, confident statement."
+  },
+  {
+    "timestamp": 28.217,
+    "emotion": "uncertain",
+    "detailed_reasoning": "There is a distinct shift in emotion as he says, 'Well, sort of.' His confident expression falters, replaced by a slightly sheepish and self-deprecating smile. His tone becomes softer and less certain, revealing his underlying anxiety about his lack of experience.",
+    "summary_reasoning": "Sheepish smile, softer tone, hesitant words."
+  },
+  {
+    "timestamp": 37.507,
+    "emotion": "sincere",
+    "detailed_reasoning": "When reading the 'Objective' from his resume, the speaker's demeanor changes. He looks directly at the camera with an earnest expression. His voice is soft but clear, conveying deep sincerity as he expresses his desire to make the world a happier place.",
+    "summary_reasoning": "Earnest expression, soft voice, heartfelt words."
+  },
+  {
+    "timestamp": 42.482,
+    "emotion": "joyful",
+    "detailed_reasoning": "Explaining why he jokes around, the speaker's face breaks into a genuine, broad smile. His eyes light up, and his tone becomes warm and cheerful as he says, 'I just want to make people happy.' This conveys a pure sense of joy derived from bringing happiness to others.",
+    "summary_reasoning": "Genuine smile, cheerful tone, positive words."
+  },
+  {
+    "timestamp": 48.22,
+    "emotion": "playful",
+    "detailed_reasoning": "When mentioning 'Education,' the speaker's tone becomes mischievous. He pauses, raises his eyebrows, and gives a knowing look, saying he'll leave that 'to the imagination.' This evasiveness, combined with his playful facial expression, indicates a humorous and coy attitude.",
+    "summary_reasoning": "Mischievous tone, knowing look, evasive comment."
+  },
+  {
+    "timestamp": 54.078,
+    "emotion": "self-deprecating",
+    "detailed_reasoning": "Discussing 'Experience,' he mentions learning from mistakes and then admits, 'I've made a lot of mistakes.' He delivers this line with a wry smile and a slightly exaggerated, knowing tone, using humor to acknowledge his past faults in a self-deprecating manner.",
+    "summary_reasoning": "Wry smile, knowing tone, humorous self-criticism."
+  },
+  {
+    "timestamp": 56.245,
+    "emotion": "resolved",
+    "detailed_reasoning": "The speaker's final statement, 'but I'm done doing things wrong,' is delivered with a complete shift in tone. His expression becomes serious and firm, his voice is strong and decisive, and he nods slightly for emphasis. This combination signals a powerful sense of resolve and a commitment to change.",
+    "summary_reasoning": "Serious expression, decisive tone, firm nod."
+  }
+]

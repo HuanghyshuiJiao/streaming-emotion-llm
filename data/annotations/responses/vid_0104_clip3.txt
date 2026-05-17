@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 8.18,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker begins his story with a very low, slow, and measured tone of voice. Visually, his facial expression is downcast, with his eyes looking down and a neutral to slightly sad mouth. This combination of audio and visual cues establishes a somber and serious mood as he starts recounting a conversation.",
+    "summary_reasoning": "Low slow voice, downcast eyes."
+  },
+  {
+    "timestamp": 11.023,
+    "emotion": "intrigued",
+    "detailed_reasoning": "The speaker's eyebrows raise slightly and his head tilts as he says it's the first time he's ever heard of something. His tone shifts from purely somber to one that contains a hint of curiosity or puzzlement, as if he's recalling a surprising and unusual event.",
+    "summary_reasoning": "Eyebrows raise, head tilt, curious tone."
+  },
+  {
+    "timestamp": 20.272,
+    "emotion": "amazed",
+    "detailed_reasoning": "After pausing, the speaker reiterates that it's the first time he's ever heard of a 'heart providing identification.' His eyes widen slightly and his tone conveys a sense of wonder and disbelief. The strangeness of the concept he's introducing is reflected in his amazed expression and vocal delivery.",
+    "summary_reasoning": "Wide eyes, wondering tone."
+  },
+  {
+    "timestamp": 30.898,
+    "emotion": "tender",
+    "detailed_reasoning": "His expression softens significantly when he recalls the woman saying, 'It's kind of beautiful.' His voice also becomes gentler and higher in pitch. A slight, sad smile appears on his face, indicating a shift from amazement to a more tender, poignant emotion.",
+    "summary_reasoning": "Soft expression, gentle voice, slight sad smile."
+  },
+  {
+    "timestamp": 42.093,
+    "emotion": "grieving",
+    "detailed_reasoning": "The speaker's voice breaks slightly and fills with emotion as he says 'My boy's heart endured.' His eyes become watery and he looks down, his face contorting with sadness. The weight of the memory is now fully evident in his expression and tone.",
+    "summary_reasoning": "Voice breaks, watery eyes, sad face."
+  },
+  {
+    "timestamp": 48.962,
+    "emotion": "heartbroken",
+    "detailed_reasoning": "He places his hand over his own heart as he says 'My boy's heart caught up with me.' This gesture, combined with his pained facial expression and the deep emotion in his voice, powerfully conveys a sense of being heartbroken and physically feeling the loss.",
+    "summary_reasoning": "Hand on heart, pained expression, emotional voice."
+  },
+  {
+    "timestamp": 57.713,
+    "emotion": "sorrowful",
+    "detailed_reasoning": "As he concludes by mentioning his son's name, 'Andy,' his face is etched with deep sorrow. His voice is heavy with grief, and a tearful, pained smile appears. The direct mention of the name brings the full weight of his loss to the forefront, resulting in a look of profound sorrow.",
+    "summary_reasoning": "Sorrowful face, grieving tone, tearful smile."
+  }
+]

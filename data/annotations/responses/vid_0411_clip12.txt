@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 2.855,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins with a grave and measured tone. His facial expression is stern, with lowered eyebrows and a tight mouth. He is describing the negative consequences of failure in SEAL training, setting a serious and somber mood from the outset.",
+    "summary_reasoning": "Grave tone, stern expression, serious topic."
+  },
+  {
+    "timestamp": 11.568,
+    "emotion": "authoritative",
+    "detailed_reasoning": "The speaker's tone remains serious, but he shifts to a statement of universal truth about the training: 'everyone... made the circus list.' He pauses and repeats the word 'everyone' for emphasis, delivering the line with a composed and authoritative voice that commands attention and establishes the universality of the experience.",
+    "summary_reasoning": "Commanding tone, emphatic repetition, universal statement."
+  },
+  {
+    "timestamp": 19.539,
+    "emotion": "engaging",
+    "detailed_reasoning": "The speaker introduces a narrative turn with the phrase 'an interesting thing happened.' His tone lightens slightly, and his pace becomes more deliberate, signaling to the audience that a key insight or lesson is about to be revealed. This shift is designed to pique curiosity and engage the listener.",
+    "summary_reasoning": "Narrative hook, deliberate pace, curiosity-building tone."
+  },
+  {
+    "timestamp": 28.131,
+    "emotion": "inspirational",
+    "detailed_reasoning": "The speaker reveals the positive outcome of the hardship. His tone becomes more uplifting and emphatic as he states that the students 'got stronger and stronger.' The repetition and rising intonation convey a message of hope and resilience, shifting the mood from serious to inspirational.",
+    "summary_reasoning": "Uplifting tone, emphatic repetition, positive message."
+  },
+  {
+    "timestamp": 33.11,
+    "emotion": "resolute",
+    "detailed_reasoning": "The speaker delivers the core lesson with firm conviction. As he says the words 'built inner strength and physical resiliency,' his voice is steady, strong, and unwavering. His expression is determined, reinforcing the certainty and importance of this conclusion.",
+    "summary_reasoning": "Firm tone, steady delivery, determined expression."
+  },
+  {
+    "timestamp": 41.358,
+    "emotion": "somber",
+    "detailed_reasoning": "He shifts to directly address the audience about the inevitability of failure. His tone becomes more grave and somber, matching the weight of his words like 'You will fail,' 'It will be painful.' His expression is serious and empathetic, preparing the audience for a difficult but necessary truth.",
+    "summary_reasoning": "Grave tone, serious content, direct address."
+  },
+  {
+    "timestamp": 49.225,
+    "emotion": "motivational",
+    "detailed_reasoning": "After describing the pain of failure, the speaker pivots with the word 'But.' His tone lifts significantly, becoming powerful and motivational. He makes direct eye contact and delivers the line, 'if you want to change the world, don't be afraid of the circuses,' as a clear and inspiring call to action, transforming the previous somber message into one of empowerment.",
+    "summary_reasoning": "Uplifting shift, powerful tone, call to action."
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 1.153,
+    "emotion": "hurt",
+    "detailed_reasoning": "The video begins with the speaker's eyes closed and a pained expression on his face. His voice is low, soft, and filled with sorrow as he asks, 'You know what hurts the most?'. The slow, melancholic music in the background enhances this feeling of deep emotional pain and sadness.",
+    "summary_reasoning": "Pained expression, sorrowful voice, sad music."
+  },
+  {
+    "timestamp": 8.044,
+    "emotion": "disappointed",
+    "detailed_reasoning": "The speaker maintains a hurt tone but adds a layer of disappointment as he dismisses material losses. He says, 'It's not the money. It's not the business running down,' suggesting that the actual source of his pain is something deeper and more personal than financial or business failure.",
+    "summary_reasoning": "Dismissive tone, focus on non-material pain."
+  },
+  {
+    "timestamp": 11.87,
+    "emotion": "betrayed",
+    "detailed_reasoning": "There's a significant shift in emotion as he opens his eyes and focuses on the camera. He emphasizes the word 'you' with a pointed and pained tone, saying, 'It's the fact that you did it.' This direct accusation, combined with his sorrowful expression, clearly indicates a feeling of deep personal betrayal.",
+    "summary_reasoning": "Direct accusation, pained tone, focused stare."
+  },
+  {
+    "timestamp": 26.713,
+    "emotion": "anguished",
+    "detailed_reasoning": "Recounting his loyalty, his voice becomes heavier with anguish. He describes how he defended the person against others' warnings ('When everyone was saying that you were not to be trusted'). His facial expression is a mixture of deep sadness and the pain of remembering his misplaced trust, showing profound emotional suffering.",
+    "summary_reasoning": "Heavy voice, pained facial expression, recounting loyalty."
+  },
+  {
+    "timestamp": 34.337,
+    "emotion": "angry",
+    "detailed_reasoning": "The emotion shifts from anguish to rising anger. His voice becomes louder and more forceful as he says, 'I fought for you. To war for you.' His eyebrows are furrowed, and there's a clear hardening in his expression, indicating that the memory of his efforts has turned his sorrow into anger.",
+    "summary_reasoning": "Louder voice, forceful tone, furrowed brows."
+  },
+  {
+    "timestamp": 38.367,
+    "emotion": "accusatory",
+    "detailed_reasoning": "His anger becomes sharply accusatory. He directly confronts the betrayal with the words, 'You were stabbing me in the back.' His gaze is intense, and his tone is sharp and cutting, clearly placing blame and expressing his outrage at the deceit.",
+    "summary_reasoning": "Sharp tone, intense gaze, direct blame."
+  },
+  {
+    "timestamp": 46.91,
+    "emotion": "furious",
+    "detailed_reasoning": "The speaker's emotion escalates to fury. He begins pointing aggressively towards the camera while listing the other person's actions ('All the frequent sneaking out'). His face is contorted with rage, his voice is loud and strained, and his body language is confrontational, signifying a peak in his anger.",
+    "summary_reasoning": "Aggressive pointing, loud strained voice, enraged expression."
+  }
+]

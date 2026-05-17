@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 4.618,
+    "emotion": "engaging",
+    "detailed_reasoning": "The speaker initiates a thought experiment to capture the audience's attention. His vocal tone is inviting and slightly playful, and his facial expression is open and engaging. He uses direct address (\"if I say right now\") to create a personal connection, setting a friendly and interactive mood.",
+    "summary_reasoning": "Inviting tone, direct address, thought experiment."
+  },
+  {
+    "timestamp": 16.558,
+    "emotion": "amused",
+    "detailed_reasoning": "After telling the audience not to think of something specific, he asks, \"What do you keep thinking of?\" His tone is knowing and slightly amused, with a subtle smile. He anticipates the audience's predictable failure to follow his instruction, which creates a moment of shared understanding and light humor.",
+    "summary_reasoning": "Knowing tone, rhetorical question, slight smile."
+  },
+  {
+    "timestamp": 24.03,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker's vocal delivery intensifies as he explains his core concept of \"E-motion.\" His voice becomes louder and more emphatic, especially on the word \"emotion.\" He uses a hand gesture for emphasis and leans forward slightly, conveying passion and conviction about the point he is making.",
+    "summary_reasoning": "Emphatic tone, louder volume, hand gesture."
+  },
+  {
+    "timestamp": 33.684,
+    "emotion": "assertive",
+    "detailed_reasoning": "The speaker transitions to a more definitive statement about how emotions influence what one receives. His tone becomes more assertive and declarative (\"In other words...\"). His posture is straight, and his gaze is direct, reinforcing the confidence and certainty of his statement.",
+    "summary_reasoning": "Assertive tone, direct gaze, declarative statement."
+  },
+  {
+    "timestamp": 43.639,
+    "emotion": "challenging",
+    "detailed_reasoning": "The speaker shifts from making statements to directly questioning the audience's follow-through on their intentions (\"But do we do them?\"). His tone takes on a challenging quality, and he uses a rhetorical question to prompt self-reflection from the listeners. His facial expression becomes more serious and questioning.",
+    "summary_reasoning": "Challenging tone, rhetorical question, serious expression."
+  },
+  {
+    "timestamp": 56.7,
+    "emotion": "critical",
+    "detailed_reasoning": "To illustrate the gap between intention and action, the speaker provides examples of dusty workout equipment and unused gym memberships. His tone becomes critical and slightly cynical as he describes these common human failings. His delivery is pointed and serves to underscore the problem he is highlighting before likely offering a solution.",
+    "summary_reasoning": "Critical tone, cynical examples, pointed delivery."
+  }
+]

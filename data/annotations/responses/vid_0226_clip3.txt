@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 1.733,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins with a very deliberate and measured tone. Her facial expression is focused and serious, and her hand gestures are controlled and used for emphasis. The content of her speech, about being 'really careful,' sets a serious and thoughtful precedent for the topic she is introducing.",
+    "summary_reasoning": "Deliberate tone, focused expression, serious words."
+  },
+  {
+    "timestamp": 11.827,
+    "emotion": "confident",
+    "detailed_reasoning": "After laying out her initial premise, her tone becomes more assertive and certain. When she says, 'another version of this story also exists. It always does,' her delivery is firm, and she gives a slight, knowing nod. This conveys a strong sense of professional conviction based on her experience.",
+    "summary_reasoning": "Assertive tone, definitive statement, slight nod."
+  },
+  {
+    "timestamp": 19.697,
+    "emotion": "assertive",
+    "detailed_reasoning": "She is delivering the core thesis of this section of her talk. Her tone is firm, her gaze is direct and unwavering towards the audience, and she places clear emphasis on the key phrase 'unreliable narrators.' The delivery is impactful and presents her professional insight as a fundamental truth.",
+    "summary_reasoning": "Firm tone, direct gaze, emphasis on key words."
+  },
+  {
+    "timestamp": 23.655,
+    "emotion": "engaging",
+    "detailed_reasoning": "The speaker's energy shifts to be more inclusive and direct. She uses gestures to point to herself ('I am') and then opens her hands towards the audience ('You are'). The use of short, punchy, declarative sentences creates a rhythm that directly involves the listeners, making the point personal.",
+    "summary_reasoning": "Inclusive gestures, direct address, rhythmic speech."
+  },
+  {
+    "timestamp": 29.301,
+    "emotion": "amused",
+    "detailed_reasoning": "There is a distinct break in the serious tone here. The speaker's facial expression lightens into a slight smile, and her vocal tone becomes playful and self-deprecating. The content itself is a joke intended to build rapport with the audience by acknowledging the provocative nature of her claims.",
+    "summary_reasoning": "Slight smile, lightened tone, self-deprecating joke."
+  },
+  {
+    "timestamp": 32.817,
+    "emotion": "reassuring",
+    "detailed_reasoning": "Following the joke, her demeanor immediately shifts back to being serious and explanatory. She says 'Look' to signal a clarification. Her tone becomes earnest as she clarifies that she doesn't mean people 'purposely mislead,' which serves to reassure the audience and add nuance to her argument.",
+    "summary_reasoning": "Earnest tone, clarifying words, serious expression."
+  },
+  {
+    "timestamp": 40.854,
+    "emotion": "emphatic",
+    "detailed_reasoning": "The speaker uses a highly rhythmic and parallel structure in her speech ('what they emphasize or minimize, what they leave in, what they leave out'). This cadence is matched by her rhythmic hand gestures. This combination creates an emphatic and persuasive delivery that highlights the complexity of storytelling.",
+    "summary_reasoning": "Rhythmic speech, parallel hand gestures, focused delivery."
+  },
+  {
+    "timestamp": 50.515,
+    "emotion": "scholarly",
+    "detailed_reasoning": "The speaker shifts her tone to be more formal and academic as she introduces a quote from 'The psychologist Jerome Bruner.' By citing an expert, she is grounding her argument in established theory. Her delivery of the quote is measured and respectful, lending a scholarly weight to her concluding point.",
+    "summary_reasoning": "Citing an expert, formal tone, measured delivery."
+  }
+]

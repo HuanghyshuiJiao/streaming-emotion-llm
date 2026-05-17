@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 1.694,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker begins with a calm and direct tone, looking straight at the camera. His facial expression is neutral and his speech is evenly paced, establishing an informative and educational mood as he sets up the topic.",
+    "summary_reasoning": "Calm tone, direct gaze, neutral expression."
+  },
+  {
+    "timestamp": 11.649,
+    "emotion": "concerned",
+    "detailed_reasoning": "The speaker lists a series of potential problems with self-tapes ('bad lighting', 'shaky', 'selfie self-tape'). His tone becomes more cautionary, and he uses a rhythmic, list-like intonation to emphasize these negative points, reflecting concern for the viewer's potential mistakes.",
+    "summary_reasoning": "Cautionary tone, lists negative examples."
+  },
+  {
+    "timestamp": 17.638,
+    "emotion": "emphatic",
+    "detailed_reasoning": "The speaker's tone shifts to become more firm and direct. He states a consequence ('they don't finish watching your tape'), and his facial expression becomes more serious, with slightly widened eyes, to emphasize the severity of the mistakes he just listed.",
+    "summary_reasoning": "Firm tone, serious expression, direct statement."
+  },
+  {
+    "timestamp": 24.789,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker repeats the word 'wonky' to describe sound and light issues. His tone carries a sense of exasperation, and his facial expression tightens slightly, conveying frustration with the common, easily avoidable errors he is describing.",
+    "summary_reasoning": "Exasperated tone, uses 'wonky', tense expression."
+  },
+  {
+    "timestamp": 28.589,
+    "emotion": "dismissive",
+    "detailed_reasoning": "The speaker makes a sharp 'whoop' sound and says 'Next' with a quick, definitive tone. This mimics the quick rejection a casting director would have for a flawed tape. The abruptness and the sound effect convey a dismissive and final attitude.",
+    "summary_reasoning": "Abrupt sound, sharp tone, dismissive word choice."
+  },
+  {
+    "timestamp": 33.696,
+    "emotion": "motivational",
+    "detailed_reasoning": "After highlighting the problems, the speaker's tone shifts to be more constructive and encouraging. He says, 'you've got to figure out how to do it right,' with a forward-leaning posture and a more intense, focused expression, motivating the viewer to take action.",
+    "summary_reasoning": "Constructive tone, focused expression, encouraging words."
+  },
+  {
+    "timestamp": 42.406,
+    "emotion": "enthusiastic",
+    "detailed_reasoning": "The speaker introduces a new piece of information he describes as 'really great.' His tone becomes lighter and more upbeat, his eyebrows raise, and a slight smile appears, conveying genuine enthusiasm for the tip he is about to share.",
+    "summary_reasoning": "Upbeat tone, raised eyebrows, slight smile."
+  },
+  {
+    "timestamp": 58.49,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker concludes by describing the standard process for submitting commercial self-tapes. His tone returns to a neutral, factual delivery, and his hand gestures are measured and illustrative. His expression is calm and focused, reinforcing the informative nature of this final section.",
+    "summary_reasoning": "Neutral tone, factual content, calm expression."
+  }
+]

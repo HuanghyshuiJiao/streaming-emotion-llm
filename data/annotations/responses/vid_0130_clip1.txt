@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "serious",
+    "detailed_reasoning": "The video starts with a dark screen and the speaker's voice is slow, measured, and has a low, even pitch. She is reciting a definition, which gives the opening a formal and serious tone, setting a contemplative mood for the topic of fear.",
+    "summary_reasoning": "Slow, low-pitched, measured voice."
+  },
+  {
+    "timestamp": 12.63,
+    "emotion": "declarative",
+    "detailed_reasoning": "The speaker's tone shifts from a neutral, definitional style to a more assertive and direct one. By stating, \"fear is the belief that God is not with you,\" her voice gains a sense of conviction, as if she is making a profound, faith-based declaration rather than simply defining a word. The lighting begins to increase, making her more visible.",
+    "summary_reasoning": "Assertive, convicted tone."
+  },
+  {
+    "timestamp": 17.881,
+    "emotion": "challenging",
+    "detailed_reasoning": "The speaker directly addresses the listener with the phrase \"you of little faith.\" Her tone becomes pointed and her delivery is more forceful, shifting from a general declaration to a direct, personal challenge. The lighting now clearly shows her focused and intense facial expression.",
+    "summary_reasoning": "Pointed tone, direct address, focused expression."
+  },
+  {
+    "timestamp": 25.157,
+    "emotion": "confident",
+    "detailed_reasoning": "After describing fear as a constant presence, the speaker's tone dramatically shifts. She delivers the line \"fear is a choice\" with a significant increase in volume, clarity, and conviction. This powerful, assertive delivery marks a turning point in her speech, conveying strong confidence in her central message.",
+    "summary_reasoning": "Increased volume, assertive tone, strong conviction."
+  },
+  {
+    "timestamp": 30.068,
+    "emotion": "passionate",
+    "detailed_reasoning": "As she begins to explain the two sides of the choice, her speech takes on a more rhythmic, poetic cadence. Her voice rises and falls with emotion, and her hand gestures become more expressive. This shift into a spoken-word style indicates a deeper level of passion for the subject matter she is discussing.",
+    "summary_reasoning": "Rhythmic cadence, expressive gestures, emotional tone."
+  },
+  {
+    "timestamp": 46.949,
+    "emotion": "disappointed",
+    "detailed_reasoning": "The speaker's tone shifts to one of disappointment or somber reflection as she describes how people act like they have \"nine lives.\" Her vocal energy dips, and her pace slows, conveying a sense of sadness about the human tendency to procrastinate on being brave.",
+    "summary_reasoning": "Slower pace, somber tone, lowered vocal energy."
+  },
+  {
+    "timestamp": 52.803,
+    "emotion": "impassioned",
+    "detailed_reasoning": "In the final line, the speaker's voice swells with emotion and her volume increases significantly. She asks the final question, \"why are we never brave enough for today?\" as a powerful, heartfelt plea. Her arms are spread wide in a gesture of appeal, and her facial expression is full of earnestness, creating an impassioned climax to her speech.",
+    "summary_reasoning": "Increased volume, pleading tone, wide arm gestures."
+  }
+]

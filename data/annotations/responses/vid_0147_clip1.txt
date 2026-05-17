@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 1.833,
+    "emotion": "happy",
+    "detailed_reasoning": "The speaker introduces herself with a bright, wide smile and a cheerful, friendly tone of voice. Her head is slightly tilted, which is a common cue for friendliness and openness.",
+    "summary_reasoning": "Smiling, cheerful tone, friendly posture."
+  },
+  {
+    "timestamp": 9.223,
+    "emotion": "playful",
+    "detailed_reasoning": "After a pause, her expression shifts from a neutral smile to a more mischievous one. Her eyes seem to sparkle, and her tone becomes slightly conspiratorial as she says, \"I have an idea,\" suggesting she's about to propose something fun or cheeky.",
+    "summary_reasoning": "Mischievous smile, conspiratorial tone."
+  },
+  {
+    "timestamp": 12.827,
+    "emotion": "coy",
+    "detailed_reasoning": "The speaker acknowledges her idea might be \"a bit forward.\" Her tone is soft and slightly hesitant, and she has a self-aware, slight smile. This combination of verbal caution with a playful facial expression comes across as coy.",
+    "summary_reasoning": "Soft hesitant tone, self-aware smile."
+  },
+  {
+    "timestamp": 20.657,
+    "emotion": "reassuring",
+    "detailed_reasoning": "She offers an out, saying he can just say no. Her tone becomes very gentle and understanding, and her facial expression is soft and open. This is a clear attempt to make the other person comfortable and shows empathy.",
+    "summary_reasoning": "Gentle tone, understanding expression."
+  },
+  {
+    "timestamp": 30.136,
+    "emotion": "intense",
+    "detailed_reasoning": "The speaker's demeanor shifts significantly. Her voice drops in volume and becomes more serious as she says, \"Look at me.\" She leans forward slightly, and her gaze is fixed and direct, creating a moment of intense focus before her final proposal.",
+    "summary_reasoning": "Serious low tone, direct gaze, forward lean."
+  },
+  {
+    "timestamp": 39.204,
+    "emotion": "excited",
+    "detailed_reasoning": "Upon revealing her idea is to \"pierce your ears,\" her entire demeanor explodes with excitement. Her eyes go wide, her voice pitch rises sharply, and she breaks into a huge, eager smile. Her speech also becomes faster.",
+    "summary_reasoning": "Wide eyes, high-pitched voice, huge smile."
+  },
+  {
+    "timestamp": 49.354,
+    "emotion": "ecstatic",
+    "detailed_reasoning": "Reacting to an apparent agreement, her excitement escalates to ecstasy. She gasps, her eyes widen even more with joyful disbelief as she says, \"Really?\" followed by \"Oh my gosh.\" Her smile is huge, and her body language is full of unrestrained joy.",
+    "summary_reasoning": "Gasp, wide-eyed joy, huge smile."
+  },
+  {
+    "timestamp": 55.299,
+    "emotion": "giddy",
+    "detailed_reasoning": "Her ecstasy transforms into giddy action. With a laugh in her voice, she says she's going to get her needles and quickly turns to run off-screen. Her movements are quick and uncontrolled, reflecting pure, giddy excitement.",
+    "summary_reasoning": "Laughing tone, quick excited movement."
+  }
+]

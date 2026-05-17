@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 2.414,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his talk with a slow, deliberate pace and a soft, even vocal tone. His posture is relaxed, and the overall atmosphere is one of calm instruction. He is setting a composed and thoughtful mood for his speech.",
+    "summary_reasoning": "Slow pace, soft tone, relaxed posture."
+  },
+  {
+    "timestamp": 11.827,
+    "emotion": "illustrative",
+    "detailed_reasoning": "The speaker's tone shifts as he introduces the Geiger counter metaphor. His voice becomes more descriptive and his pacing varies to paint a picture for the audience. This change indicates a move from a general statement to a specific, illustrative example to make his point clearer.",
+    "summary_reasoning": "Descriptive tone, metaphor usage."
+  },
+  {
+    "timestamp": 25.104,
+    "emotion": "encouraging",
+    "detailed_reasoning": "The speaker's vocal tone becomes warmer and more persuasive as he directly advises the audience to trust their feelings. His speech pattern is smooth and reassuring, aiming to build confidence in the listener. This shift is from explaining a concept to offering direct, positive guidance.",
+    "summary_reasoning": "Warmer persuasive tone, direct advice."
+  },
+  {
+    "timestamp": 37.047,
+    "emotion": "emphatic",
+    "detailed_reasoning": "The speaker's tone becomes much stronger and more assertive. He uses the words \"never, ever\" with significant vocal stress to highlight a critical distinction he is making. His delivery is forceful and direct, intended to make a powerful impact on the audience and emphasize the importance of his message.",
+    "summary_reasoning": "Strong assertive tone, vocal stress."
+  },
+  {
+    "timestamp": 53.122,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's tone shifts to a more somber and serious one as he discusses the concept of confronting oneself. The pace slows slightly, and the pitch of his voice lowers, reflecting the gravity of the topic. This change conveys the weight and importance of self-confrontation in personal growth.",
+    "summary_reasoning": "Somber tone, slower pace, lower pitch."
+  }
+]

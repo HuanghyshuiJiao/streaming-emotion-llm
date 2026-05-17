@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins with a slow, deliberate pace and a firm, serious tone. His facial expression is stern and focused, and his posture is formal. He is setting a serious and disciplinary tone from the very beginning with the maxim, 'If you can't do the little things right, you'll never be able to do the big things right.'",
+    "summary_reasoning": "Deliberate pace, firm tone, serious expression."
+  },
+  {
+    "timestamp": 13.774,
+    "emotion": "encouraging",
+    "detailed_reasoning": "After describing a 'miserable day,' the speaker's tone shifts to be more uplifting and hopeful. He looks up at the audience, and his voice softens slightly as he says that a made bed 'gives you encouragement that tomorrow will be better.' This marks a transition from a stern lesson to a message of hope and resilience.",
+    "summary_reasoning": "Uplifting tone, hopeful words, direct eye contact."
+  },
+  {
+    "timestamp": 17.781,
+    "emotion": "determined",
+    "detailed_reasoning": "The speaker's tone becomes more declarative and powerful as he delivers the central thesis of his point. His voice gains a bit of volume, and his gaze is direct and unwavering when he says, 'So if you want to change the world, start off by making your bed.' This shift conveys strong conviction and determination.",
+    "summary_reasoning": "Declarative tone, increased volume, direct gaze."
+  },
+  {
+    "timestamp": 23.63,
+    "emotion": "informative",
+    "detailed_reasoning": "Transitioning to a new anecdote about SEAL training, the speaker's demeanor becomes more neutral and factual. He looks down at his notes, and his tone is calm and descriptive, setting the scene for the story. He is now in a narrative mode, providing background information to the audience.",
+    "summary_reasoning": "Neutral tone, narrative style, factual content."
+  },
+  {
+    "timestamp": 43.015,
+    "emotion": "grave",
+    "detailed_reasoning": "When describing the winter surf off San Diego, the speaker's tone becomes noticeably more serious and grave. He slows his pace and lowers his pitch to emphasize the danger, particularly on the words 'eight to 10 feet high.' His expression is stern, conveying the immense difficulty and seriousness of the challenge he is describing.",
+    "summary_reasoning": "Slower pace, lower pitch, serious expression."
+  },
+  {
+    "timestamp": 54.048,
+    "emotion": "authoritative",
+    "detailed_reasoning": "Following the description of the difficult challenge, the speaker's voice becomes firm and authoritative. He delivers the final line, 'Every paddle must be synchronized to the stroke count of the coxswain,' as an absolute, non-negotiable rule. His clear, emphatic delivery asserts his expertise and the importance of this principle.",
+    "summary_reasoning": "Firm tone, emphatic delivery, declarative statement."
+  }
+]

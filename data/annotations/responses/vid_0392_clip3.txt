@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 5.9,
+    "emotion": "sadness",
+    "detailed_reasoning": "The speaker begins by listing a series of animal deaths with a somber and matter-of-fact tone. His facial expression is neutral to slightly downcast, and his posture is relaxed and somewhat slumped. The content itself is about death, which, combined with the low-key delivery, suggests an underlying feeling of sadness or resignation about the events he is recounting.",
+    "summary_reasoning": "Somber tone, neutral expression, morbid content."
+  },
+  {
+    "timestamp": 10.627,
+    "emotion": "amusement",
+    "detailed_reasoning": "The speaker's tone shifts from somber recounting to a more explanatory and slightly ironic one as he describes the 'lesson' learned from the animal deaths. His facial expression becomes more animated, and he uses gestures to illustrate carrying the animals in plastic bags. This shift towards dark humor suggests he finds the absurdity of the situation amusing in retrospect.",
+    "summary_reasoning": "Ironic tone, animated expression, dark humor."
+  },
+  {
+    "timestamp": 18.359,
+    "emotion": "disdain",
+    "detailed_reasoning": "When talking about the tropical fish, the speaker's tone becomes dismissive, and he shakes his head slightly. He says 'we expected those to die' and 'that's no surprise' with a sense of exasperation, as if the outcome was obvious and not worth much thought. This indicates a feeling of disdain for the situation's predictability.",
+    "summary_reasoning": "Dismissive tone, head shake, exasperated words."
+  },
+  {
+    "timestamp": 24.389,
+    "emotion": "disdain",
+    "detailed_reasoning": "Continuing on the topic of the fish, the speaker's tone remains dismissive and slightly contemptuous. He describes them 'belly up on the surface' with a gesture that reinforces the sense of inevitability and worthlessness. This maintains the previously established emotion of disdain.",
+    "summary_reasoning": "Dismissive tone, contemptuous description."
+  },
+  {
+    "timestamp": 35.148,
+    "emotion": "serious",
+    "detailed_reasoning": "After a long pause, the speaker shifts topics to a puppy. His tone becomes more serious and deliberate, and he repeats the phrase 'We weren't even supposed to have...' for emphasis. His facial expression is somber, and his wide arm gestures suggest a sense of fate or lack of control, creating a serious and slightly dramatic mood.",
+    "summary_reasoning": "Serious tone, deliberate speech, somber expression."
+  },
+  {
+    "timestamp": 43.132,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker transitions into a narrative mode to explain how the puppy was found. His voice is calm and his tone is neutral as he recounts the details of the 'Murdock girl' finding the puppy. He is focused on setting the scene for the story, and his emotional state appears to be calm and controlled.",
+    "summary_reasoning": "Calm voice, neutral tone, narrative mode."
+  },
+  {
+    "timestamp": 53.163,
+    "emotion": "dread",
+    "detailed_reasoning": "The speaker's emotion shifts dramatically upon describing his reaction to seeing the puppy. His voice drops, his pace slows, and he says 'oh no' with a tone of heavy resignation. His facial expression shows worry, and he clenches his fists slightly. This combination of vocal and visual cues conveys a strong sense of dread and a negative premonition about the puppy's fate.",
+    "summary_reasoning": "Resigned tone, worried expression, slow pace."
+  }
+]

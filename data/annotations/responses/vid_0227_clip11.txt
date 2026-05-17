@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 7.059,
+    "emotion": "determined",
+    "detailed_reasoning": "The speaker's tone shifts from informative to assertive. She emphasizes the words 'our job' and 'use this science,' conveying a strong sense of purpose and responsibility. Her hand gestures become more pointed and definite, reinforcing her determined stance on the role of doctors in prevention and treatment.",
+    "summary_reasoning": "Assertive tone, emphatic words, pointed gestures."
+  },
+  {
+    "timestamp": 15.068,
+    "emotion": "purposeful",
+    "detailed_reasoning": "After establishing the responsibility of doctors, she now talks about a specific action: 'we created the Center for Youth Wellness.' Her tone is proactive and confident. She is no longer just talking about an abstract duty but a concrete accomplishment, which gives her a purposeful and proud demeanor.",
+    "summary_reasoning": "Proactive tone, confident demeanor, describing a concrete action."
+  },
+  {
+    "timestamp": 24.324,
+    "emotion": "methodical",
+    "detailed_reasoning": "The speaker's tone becomes very practical and explanatory as she details the process they implemented, 'simply with routine screening.' Her delivery is calm and measured, indicating a logical and systematic approach to the problem. Her facial expression is neutral and focused, emphasizing the procedural nature of her description.",
+    "summary_reasoning": "Practical tone, calm delivery, neutral expression."
+  },
+  {
+    "timestamp": 32.693,
+    "emotion": "concerned",
+    "detailed_reasoning": "There is a significant shift in emotion as the speaker begins to cite statistics. Her tone becomes graver and more serious, her pace slows for emphasis, and her facial expression shows deep concern. She is transitioning from explaining a process to illustrating the life-or-death stakes involved, which is reflected in her worried tone.",
+    "summary_reasoning": "Grave tone, serious expression, citing alarming statistics."
+  },
+  {
+    "timestamp": 41.662,
+    "emotion": "alarmed",
+    "detailed_reasoning": "The speaker's emotion intensifies as she delivers the most shocking statistic about suicide risk. Her voice gains intensity and volume, and her eyes widen slightly to convey a sense of alarm and urgency. The gravity of the number '12 times' is matched by the intensity in her voice and facial expression, highlighting the severity of the issue.",
+    "summary_reasoning": "Intense voice, widened eyes, shocking statistic."
+  },
+  {
+    "timestamp": 47.728,
+    "emotion": "resolute",
+    "detailed_reasoning": "The speaker's tone becomes firm and grounded. After presenting the alarming statistics, she says 'I know that' with conviction. Her gaze is direct and unwavering, and her speech is deliberate. This conveys a sense of resolute certainty and deep personal conviction based on her experience as a doctor.",
+    "summary_reasoning": "Firm tone, direct gaze, deliberate speech."
+  }
+]

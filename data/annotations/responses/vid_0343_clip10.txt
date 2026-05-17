@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 2.394,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his presentation with a calm and composed demeanor. His tone is steady and conversational, his facial expression is neutral with a slight, gentle smile, and his hand gestures are open and relaxed. This combination of cues establishes a baseline of calmness and confidence as he introduces his topic.",
+    "summary_reasoning": "Steady tone, relaxed expression, open gestures."
+  },
+  {
+    "timestamp": 10.384,
+    "emotion": "pleased",
+    "detailed_reasoning": "When delivering the positive finding that people in happy relationships felt happy despite physical pain, the speaker's tone becomes slightly lighter and his pitch rises. He gives a subtle, confirming nod and a gentle smile, indicating he is pleased to share this uplifting piece of information from the study.",
+    "summary_reasoning": "Lighter tone, slight smile, positive words."
+  },
+  {
+    "timestamp": 13.048,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's tone shifts to a more serious and somber quality as he introduces the contrasting point about unhappy relationships. His facial expression becomes more neutral, losing the previous smile, and his pace slows slightly, signaling a shift to a more grave topic.",
+    "summary_reasoning": "Somber tone, neutral expression, topic shift."
+  },
+  {
+    "timestamp": 22.161,
+    "emotion": "engaged",
+    "detailed_reasoning": "Transitioning to his third point, the speaker's energy lifts. His voice becomes more animated and his pace picks up. He uses a clear hand gesture to enumerate the point, re-engaging the audience with a forward-moving, informative tone.",
+    "summary_reasoning": "Animated voice, hand gesture, topic transition."
+  },
+  {
+    "timestamp": 29.712,
+    "emotion": "confident",
+    "detailed_reasoning": "After pausing for effect, the speaker delivers the key phrase \"they protect our brains.\" His voice is firm and assertive, and he makes a definitive hand gesture. His direct eye contact and confident smile underscore his conviction in this important finding.",
+    "summary_reasoning": "Firm voice, assertive gesture, confident smile."
+  },
+  {
+    "timestamp": 41.875,
+    "emotion": "positive",
+    "detailed_reasoning": "Describing people who feel they can count on their partners, the speaker's voice becomes warmer and softer. His facial expression is gentle, and he uses reassuring hand gestures. This combination conveys a positive and heartfelt emotion associated with the security of good relationships.",
+    "summary_reasoning": "Warm tone, gentle expression, positive words."
+  },
+  {
+    "timestamp": 51.186,
+    "emotion": "serious",
+    "detailed_reasoning": "To present the contrasting scenario, the speaker's demeanor shifts back to being serious. His eyebrows furrow slightly, the corners of his mouth turn down, and his tone becomes more grave and measured. This clearly marks the transition to the negative consequences of unreliable relationships.",
+    "summary_reasoning": "Furrowed brow, downturned mouth, grave tone."
+  },
+  {
+    "timestamp": 56.624,
+    "emotion": "concerned",
+    "detailed_reasoning": "Delivering the final line about \"earlier memory decline,\" the speaker's voice is low and somber. His facial expression is grave, and he holds eye contact with the audience to emphasize the seriousness of the point. The overall mood is one of concern for the negative health outcome he is describing.",
+    "summary_reasoning": "Low, somber voice, grave expression, serious words."
+  }
+]

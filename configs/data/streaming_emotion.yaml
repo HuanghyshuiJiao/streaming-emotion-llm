@@ -1,0 +1,28 @@
+dataset:
+  name: streaming_emotion
+  train_manifest: data/manifests/feature_subset/train.jsonl
+  val_manifest: data/manifests/feature_subset/val.jsonl
+  test_manifest: data/manifests/feature_subset/test.jsonl
+  feature_dir: data/processed/features/siglip_large_384_2fps_1plus3x3
+
+video:
+  decode_backend: opencv
+  frame_rate: 2
+  frame_size: 224
+
+audio:
+  enabled: false
+  sample_rate: 16000
+
+labels:
+  label_map: data/annotations/emotion_label_map.json
+  scheme: open_vocabulary
+  include_reasoning_text: false
+  include_response_text: false
+
+streaming:
+  supervision_style: ego4d_like
+  feature_mode: event_stream_window
+  max_num_frames: 120
+  window_size_sec: null
+  stride_sec: null

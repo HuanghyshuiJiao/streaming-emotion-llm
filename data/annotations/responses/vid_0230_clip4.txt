@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "curious",
+    "detailed_reasoning": "The speaker begins with a rhetorical question, tilting her head slightly and using an open, inquisitive tone. Her facial expression is neutral but engaged, and her hand gestures are minimal, suggesting a state of thoughtful inquiry.",
+    "summary_reasoning": "Inquisitive tone, rhetorical question, neutral expression."
+  },
+  {
+    "timestamp": 7.339,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker's tone becomes more introspective as she describes her different internal 'selves'. Her gaze is slightly unfocused, and she uses gentle hand gestures, indicating she is reflecting on her own personality traits.",
+    "summary_reasoning": "Introspective tone, unfocused gaze, gentle gestures."
+  },
+  {
+    "timestamp": 13.085,
+    "emotion": "amused",
+    "detailed_reasoning": "When mentioning that her internal 'selves' argue, her tone becomes lighter, and a slight smile appears. This indicates she finds the internal conflict amusing and is sharing it in a lighthearted way.",
+    "summary_reasoning": "Lighthearted tone, slight smile."
+  },
+  {
+    "timestamp": 15.728,
+    "emotion": "joyful",
+    "detailed_reasoning": "As the speaker says she \"loves being on stage,\" her facial expression transforms into a wide, genuine smile. Her voice becomes more energetic and higher in pitch, and her arms spread wide in an open, enthusiastic gesture, clearly conveying joy.",
+    "summary_reasoning": "Wide smile, energetic voice, open posture."
+  },
+  {
+    "timestamp": 19.352,
+    "emotion": "anxious",
+    "detailed_reasoning": "There is a stark shift in her demeanor. Her smile disappears, her posture becomes more closed with her hands clasped, and her voice drops in pitch and volume. Her expression becomes tense, reflecting the word \"shaky\" and conveying vulnerability or anxiety.",
+    "summary_reasoning": "Tense expression, closed posture, lower voice."
+  },
+  {
+    "timestamp": 27.132,
+    "emotion": "calm",
+    "detailed_reasoning": "Her tone shifts to be more explanatory and calm as she addresses the audience directly. Her posture relaxes slightly, and her facial expression becomes neutral and reassuring, aiming to connect with the audience on a shared experience.",
+    "summary_reasoning": "Explanatory tone, neutral expression, reassuring."
+  },
+  {
+    "timestamp": 36.507,
+    "emotion": "relatable",
+    "detailed_reasoning": "While giving examples of conflicting feelings, her tone is very conversational and she uses inclusive language. Her expressions are open and she nods slightly, as if sharing a common, universal truth with the audience, making the content relatable.",
+    "summary_reasoning": "Conversational tone, open expression, nodding."
+  },
+  {
+    "timestamp": 46.904,
+    "emotion": "serious",
+    "detailed_reasoning": "The example shifts to betrayal, and her entire demeanor changes. Her face becomes stern, her voice loses its lightheartedness and becomes graver, and her gaze is direct and intense. This conveys the seriousness of the topic.",
+    "summary_reasoning": "Stern face, grave tone, intense gaze."
+  },
+  {
+    "timestamp": 50.77,
+    "emotion": "reassuring",
+    "detailed_reasoning": "After the serious example, her expression softens and her tone becomes gentle and rational. She is reassuring the audience that these complex, conflicting feelings are common and that they are not 'crazy' for experiencing them.",
+    "summary_reasoning": "Soft expression, gentle tone, rational."
+  },
+  {
+    "timestamp": 55.478,
+    "emotion": "happy",
+    "detailed_reasoning": "She ends with a humorous and relatable example about camping. A broad, genuine smile returns to her face, her eyes light up, and her tone becomes cheerful, ending the segment on a light and happy note that elicits laughter.",
+    "summary_reasoning": "Broad smile, cheerful tone, humorous example."
+  }
+]

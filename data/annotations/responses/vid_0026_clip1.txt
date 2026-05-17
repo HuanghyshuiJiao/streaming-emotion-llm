@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 2.297,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his response with a calm and thoughtful tone. His facial expression is neutral, and his speech is measured as he sets up his story, indicating a composed state of mind.",
+    "summary_reasoning": "Calm tone, neutral expression."
+  },
+  {
+    "timestamp": 14.708,
+    "emotion": "pleased",
+    "detailed_reasoning": "The speaker's tone becomes more positive and appreciative as he describes how the program helped each person individually. A slight smile appears, and his eyes light up, suggesting he is pleased with this aspect of the experience.",
+    "summary_reasoning": "Positive tone, slight smile."
+  },
+  {
+    "timestamp": 20.22,
+    "emotion": "confident",
+    "detailed_reasoning": "When listing the practical skills he learned (interviews, resumes, show business), the speaker's tone is factual and assured. He speaks clearly and directly, indicating confidence in the knowledge he has gained.",
+    "summary_reasoning": "Assured tone, clear speech."
+  },
+  {
+    "timestamp": 30.41,
+    "emotion": "focused",
+    "detailed_reasoning": "Describing the final performance in front of agents, the speaker's expression becomes more serious and focused. His tone conveys the importance of the moment, showing concentration and a sense of purpose.",
+    "summary_reasoning": "Serious expression, purposeful tone."
+  },
+  {
+    "timestamp": 35.754,
+    "emotion": "confident",
+    "detailed_reasoning": "In response to the interviewer's question, he answers 'Yeah, much more' with a firm, quick nod and a genuine smile. His tone is decisive and positive, clearly communicating a strong sense of self-confidence.",
+    "summary_reasoning": "Firm nod, genuine smile, decisive tone."
+  },
+  {
+    "timestamp": 43.902,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker describes his past self as just 'okay.' His tone becomes flat and his expression neutral, mimicking his previous lack of confidence. This shows him reflecting on his personal growth.",
+    "summary_reasoning": "Flat tone, neutral expression."
+  },
+  {
+    "timestamp": 49.007,
+    "emotion": "grateful",
+    "detailed_reasoning": "He explicitly thanks the instructor, saying 'You really helped me.' His tone becomes soft and sincere, and his facial expression shows genuine appreciation, indicating a feeling of gratitude.",
+    "summary_reasoning": "Sincere tone, soft expression."
+  },
+  {
+    "timestamp": 53.612,
+    "emotion": "proud",
+    "detailed_reasoning": "Concluding his thought, he says his performance developed into something worthy of being on TV. He delivers the final line with a wide, bright smile and an upward inflection, expressing pride in his accomplishment.",
+    "summary_reasoning": "Wide smile, upward inflection."
+  }
+]

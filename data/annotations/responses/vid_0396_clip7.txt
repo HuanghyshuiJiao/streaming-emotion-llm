@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 5.504,
+    "emotion": "neutral",
+    "detailed_reasoning": "The speaker begins his topic on dopamine. His tone is informative and his facial expression is neutral. He is in a typical presenter mode, calmly introducing a new subject after a transition.",
+    "summary_reasoning": "Informative tone, neutral expression."
+  },
+  {
+    "timestamp": 11.559,
+    "emotion": "positive",
+    "detailed_reasoning": "While listing the positive effects of dopamine (focus, motivation, memory), the speaker's tone becomes slightly more upbeat and encouraging. He uses hand gestures to emphasize the benefits, indicating a positive sentiment towards the subject matter.",
+    "summary_reasoning": "Upbeat tone, positive words, hand gestures."
+  },
+  {
+    "timestamp": 17.292,
+    "emotion": "engaging",
+    "detailed_reasoning": "The speaker transitions from listing facts to telling a story. He poses a rhetorical question, \"what does dopamine feel like?\" and pauses, looking directly at the audience to draw them in. His tone shifts from purely informative to narrative and engaging.",
+    "summary_reasoning": "Rhetorical question, direct eye contact, narrative tone."
+  },
+  {
+    "timestamp": 27.838,
+    "emotion": "proud",
+    "detailed_reasoning": "Recounting the phone call where a prestigious company praised him as a \"perfect pick,\" the speaker's voice takes on a slightly higher pitch and a more animated tone. He is reliving a moment of validation, and his expression conveys a sense of pride and satisfaction from this memory.",
+    "summary_reasoning": "Animated tone, recalling positive memory."
+  },
+  {
+    "timestamp": 39.36,
+    "emotion": "pleased",
+    "detailed_reasoning": "The speaker recounts his own reaction to the offer, saying \"wow, I'm honored.\" His vocal delivery of \"wow\" is filled with genuine pleasure and excitement. His facial expression softens into a smile, clearly showing how happy he was at that moment.",
+    "summary_reasoning": "Excited vocal tone, smiling, positive words."
+  },
+  {
+    "timestamp": 45.994,
+    "emotion": "anticipatory",
+    "detailed_reasoning": "As he describes arriving at the office in Stockholm, the speaker's pace slows down slightly, and his tone becomes more descriptive. He is building suspense in his story, leading the audience toward the moment he enters the meeting, creating a feeling of anticipation.",
+    "summary_reasoning": "Slower pace, descriptive tone, building suspense."
+  },
+  {
+    "timestamp": 51.901,
+    "emotion": "ironic",
+    "detailed_reasoning": "There is a dramatic shift in tone as the speaker reveals the meeting was one of the \"absolute worst\" of his life. He emphasizes the word \"worst\" and adopts a grimacing facial expression, creating a strong sense of dramatic irony that contrasts with his previous excitement. The humor comes from this contrast.",
+    "summary_reasoning": "Dramatic tone shift, negative words, grimace."
+  },
+  {
+    "timestamp": 56.322,
+    "emotion": "amused",
+    "detailed_reasoning": "After the ironic reveal, the speaker says, \"But I don't know that yet, so it's okay.\" He breaks into a clear, genuine smile and looks at the audience. His tone is light and humorous, showing that he is amused by his own past ignorance and is sharing this joke with the audience.",
+    "summary_reasoning": "Genuine smile, light tone, humorous words."
+  }
+]

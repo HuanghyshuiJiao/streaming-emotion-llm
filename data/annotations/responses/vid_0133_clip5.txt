@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 8.764,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's tone is measured and direct. He makes eye contact with the audience, and his facial expression is neutral. He is setting up a premise, and his demeanor is serious to create a contrast for the upcoming joke.",
+    "summary_reasoning": "Measured tone, neutral expression, direct eye contact."
+  },
+  {
+    "timestamp": 13.891,
+    "emotion": "desirous",
+    "detailed_reasoning": "The speaker's voice becomes softer and more earnest. He leans forward slightly, and his facial expression shifts to one of pleading or intense desire. This change is deliberate to build comedic tension, as the audience begins to laugh in anticipation.",
+    "summary_reasoning": "Soft, earnest tone, pleading expression, forward lean."
+  },
+  {
+    "timestamp": 22.324,
+    "emotion": "mischievous",
+    "detailed_reasoning": "He delivers the punchline \"to fertilize that bush right here\" with a slightly suggestive and mischievous tone. His eyes widen, and a slight smirk appears, indicating he knows the line is provocative. The audience erupts in laughter, confirming the comedic success.",
+    "summary_reasoning": "Suggestive tone, wide eyes, slight smirk."
+  },
+  {
+    "timestamp": 28.318,
+    "emotion": "agitated",
+    "detailed_reasoning": "The speaker's volume increases, and his tone becomes more frantic and agitated. He gestures emphatically with his hands and his facial expression is one of mock desperation as he repeats the line, trying to 'correct' the misinterpretation for comedic effect.",
+    "summary_reasoning": "Loud, frantic tone, emphatic gestures, mock desperation."
+  },
+  {
+    "timestamp": 35.733,
+    "emotion": "intense",
+    "detailed_reasoning": "He clarifies that he means \"manure.\" His delivery becomes very intense and aggressive as he shouts the follow-up punchline, \"I'm going to shit on your company.\" His face is contorted with comedic rage, and his body language is aggressive to maximize the shock humor.",
+    "summary_reasoning": "Intense, aggressive tone, shouting, comedic rage expression."
+  },
+  {
+    "timestamp": 38.9,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "After the aggressive outburst, his tone shifts to one of feigned disappointment and sarcasm. He says, \"you missed a great opportunity,\" with a sigh and a shake of his head, as if the other person is the one who has lost out, which is ironically humorous given the absurd proposition.",
+    "summary_reasoning": "Sarcastic tone, feigned disappointment, head shake."
+  },
+  {
+    "timestamp": 45.313,
+    "emotion": "amused",
+    "detailed_reasoning": "His tone softens and becomes amused as he delivers the final line. He breaks character slightly with a smile, acknowledging the absurdity of the entire scenario he has just described. He starts to walk away, laughing to himself.",
+    "summary_reasoning": "Amused tone, smile, laughing."
+  }
+]

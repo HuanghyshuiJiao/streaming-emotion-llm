@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker begins by describing a sad event. Her vocal tone is low and melancholic, and she closes her eyes and adopts a sorrowful facial expression to match the word 'sadly'. This combination of verbal and non-verbal cues strongly conveys a feeling of sadness.",
+    "summary_reasoning": "Sad words, sorrowful tone, sad facial expression."
+  },
+  {
+    "timestamp": 3.174,
+    "emotion": "pleading",
+    "detailed_reasoning": "The speaker transitions into the voice of the woodsman character. The pitch of her voice becomes higher and has a pleading, almost whiny quality. Visually, she shakes her head 'no' and her eyes are wide, reinforcing the character's desperate refusal.",
+    "summary_reasoning": "High-pitched pleading tone, head shake, wide eyes."
+  },
+  {
+    "timestamp": 7.338,
+    "emotion": "engaged",
+    "detailed_reasoning": "The speaker shifts back to the role of the narrator. Her voice becomes more energetic and louder, adopting a clear storytelling tone. Her facial expression becomes animated, with wide eyes, and she uses a distinct hand gesture to illustrate the action of diving, showing she is actively engaged in telling the story.",
+    "summary_reasoning": "Energetic narrative tone, animated gestures, wide eyes."
+  },
+  {
+    "timestamp": 15.165,
+    "emotion": "inquisitive",
+    "detailed_reasoning": "The speaker changes her persona to the spirit. Her voice becomes deeper and she uses a rising, questioning intonation. Her eyebrows are raised and her gaze is direct, as if she is genuinely asking the question, which aligns with the inquisitive nature of the dialogue.",
+    "summary_reasoning": "Deeper voice, questioning tone, raised eyebrows."
+  },
+  {
+    "timestamp": 19.209,
+    "emotion": "disappointed",
+    "detailed_reasoning": "The speaker reverts to the woodsman's character. Her voice returns to a high-pitched, sorrowful tone, expressing disappointment. She shakes her head and her facial expression is downcast, visually representing the character's sadness at being presented with the wrong axe again.",
+    "summary_reasoning": "High-pitched sorrowful tone, head shake, downcast expression."
+  },
+  {
+    "timestamp": 24.454,
+    "emotion": "engaged",
+    "detailed_reasoning": "Switching back to the narrator, the speaker's energy level rises again. Her voice becomes louder and more dynamic. She uses a broad, sweeping hand gesture to depict the spirit diving into the river, showing her active involvement and engagement in the narrative.",
+    "summary_reasoning": "Dynamic tone, sweeping hand gesture."
+  },
+  {
+    "timestamp": 35.16,
+    "emotion": "happy",
+    "detailed_reasoning": "The speaker's entire demeanor shifts dramatically to portray the woodsman's happiness. A large, genuine smile appears on her face, and her eyes crinkle. Her voice becomes bright, cheerful, and filled with palpable relief, perfectly matching the explicit text 'sighed happily'.",
+    "summary_reasoning": "Wide smile, bright tone, happy words."
+  },
+  {
+    "timestamp": 38.788,
+    "emotion": "grateful",
+    "detailed_reasoning": "Continuing the happy emotion, the speaker expresses gratitude. Her voice is high and enthusiastic while repeating 'thank you'. She clasps her hands together and nods, a clear non-verbal cue for thankfulness, which reinforces the spoken words.",
+    "summary_reasoning": "Enthusiastic tone, clasped hands, smiling."
+  },
+  {
+    "timestamp": 43.036,
+    "emotion": "surprised",
+    "detailed_reasoning": "The speaker's expression and tone change to convey the spirit's surprise. Her eyes widen, her eyebrows raise high, and her hands open up in a gesture of astonishment. Her voice becomes more measured and filled with a sense of awe, directly reflecting the narrative content.",
+    "summary_reasoning": "Wide eyes, raised eyebrows, surprised tone."
+  },
+  {
+    "timestamp": 46.764,
+    "emotion": "admiring",
+    "detailed_reasoning": "Portraying the spirit again, the speaker's voice deepens and slows down, taking on a tone of sincere admiration and respect. Her facial expression is serious and approving, and she makes a thumbs-up gesture to emphasize the positive judgment of the woodsman's character.",
+    "summary_reasoning": "Deep, slow voice, thumbs-up gesture, approving expression."
+  },
+  {
+    "timestamp": 51.294,
+    "emotion": "generous",
+    "detailed_reasoning": "To conclude the story, the speaker maintains the spirit's deep and authoritative voice, but adds a benevolent and giving quality to it. She makes a sweeping gesture while holding up two fingers to signify the gift of the two axes, conveying a sense of magnanimity and generosity.",
+    "summary_reasoning": "Deep voice, benevolent tone, offering gesture."
+  }
+]

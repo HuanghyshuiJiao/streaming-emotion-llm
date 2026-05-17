@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 2.173,
+    "emotion": "nostalgic",
+    "detailed_reasoning": "The speaker begins by describing a dress from her past. Her tone is soft and even, and her facial expression is neutral with a slight softness in her eyes. The content about a 'sparkly' dress like 'pink diamonds' evokes a sense of looking back on a special memory.",
+    "summary_reasoning": "Soft tone, reminiscent content, neutral expression."
+  },
+  {
+    "timestamp": 11.141,
+    "emotion": "happy",
+    "detailed_reasoning": "The speaker explicitly states, 'I felt like a princess for the whole ride there.' While her facial expression remains calm and her tone is still gentle, the words themselves convey a clear state of happiness and feeling special during that moment in the past. This is a peak positive moment in her story.",
+    "summary_reasoning": "Explicit positive statement, gentle tone."
+  },
+  {
+    "timestamp": 14.905,
+    "emotion": "sad",
+    "detailed_reasoning": "A sharp shift in emotion occurs here. The speaker says, 'I should have just turned and gone home because that was the best part.' Her tone becomes more somber and her pace slows down slightly. This contrast with the previous happy memory introduces a feeling of regret and sadness, foreshadowing a negative event.",
+    "summary_reasoning": "Somber tone, slower pace, regretful words."
+  },
+  {
+    "timestamp": 20.09,
+    "emotion": "hurt",
+    "detailed_reasoning": "The speaker describes being bullied, stating, 'The boys at the dance said so many mean things to me. They laughed at me.' Her voice is flat and devoid of positive emotion, and her expression is stoic. The content is explicitly about a painful experience, and her delivery conveys the deep hurt she felt.",
+    "summary_reasoning": "Flat tone, stoic expression, describing painful event."
+  },
+  {
+    "timestamp": 24.153,
+    "emotion": "resigned",
+    "detailed_reasoning": "She explains her reaction to being laughed at: 'I laughed too... I wanted to be the joke.' This indicates a coping mechanism of accepting the ridicule to mask her pain. Her tone is melancholic and her expression is downcast, showing a sense of resignation to the painful situation.",
+    "summary_reasoning": "Melancholic tone, downcast expression, describing coping mechanism."
+  },
+  {
+    "timestamp": 32.206,
+    "emotion": "fond",
+    "detailed_reasoning": "The speaker's topic and tone shift as she begins talking about her foster mother, 'Mama Nell was the best foster mother I ever had.' Her voice becomes slightly warmer and softer, and there's a subtle, fond look in her eyes. This marks a transition from a painful memory to a cherished one.",
+    "summary_reasoning": "Warmer tone, fond content, soft expression."
+  },
+  {
+    "timestamp": 36.051,
+    "emotion": "sad",
+    "detailed_reasoning": "The positive memory is immediately followed by a sad turn: 'until she got sick. Too sick for me to take care of anymore.' The speaker's tone drops and becomes heavy with sadness. Her expression is somber, reflecting the pain of her foster mother's illness and their separation.",
+    "summary_reasoning": "Tone drops, sad content, somber expression."
+  },
+  {
+    "timestamp": 42.039,
+    "emotion": "longing",
+    "detailed_reasoning": "The speaker expresses regret and a deep wish to have been there for her foster mother, saying 'I wish they would have let me try a little longer. I wanted to be there for her like she was for me.' Her voice is quiet and filled with a sense of longing and helplessness. Her gaze is distant, adding to the feeling of wistfulness.",
+    "summary_reasoning": "Quiet voice, wistful words, distant gaze."
+  },
+  {
+    "timestamp": 45.824,
+    "emotion": "calm",
+    "detailed_reasoning": "After the series of sad memories, her tone shifts slightly. When she says, 'But I sure know how to take care of animals,' her voice becomes a bit more stable and grounded. It's a statement of fact and capability, suggesting that this is a source of stability for her, bringing her to a more calm emotional state.",
+    "summary_reasoning": "Stable tone, statement of capability."
+  },
+  {
+    "timestamp": 56.498,
+    "emotion": "hopeful",
+    "detailed_reasoning": "In her final statement, she expresses a desire to be a saint so that 'all this suffering would be worthwhile.' Her tone is earnest and sincere, and her facial expression is open and pleading. She is looking for meaning in her past pain, which conveys a sense of hope for redemption and purpose.",
+    "summary_reasoning": "Earnest tone, sincere expression, words of purpose-seeking."
+  }
+]

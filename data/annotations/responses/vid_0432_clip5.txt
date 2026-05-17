@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her story with a very measured and calm tone. Her facial expression is neutral and composed as she recounts the events. She is speaking about a past medical issue from a present state of calmness, setting a factual, narrative tone.",
+    "summary_reasoning": "Calm tone, neutral expression, narrative style."
+  },
+  {
+    "timestamp": 21.909,
+    "emotion": "serious",
+    "detailed_reasoning": "When she says, 'It definitely feels like having a stroke,' her eyes widen slightly and she raises her eyebrows for emphasis. Her tone becomes more intense to convey the gravity of the feeling she experienced. This shifts from a purely calm narration to a more serious and impactful description of the event.",
+    "summary_reasoning": "Eyes widen, emphatic tone."
+  },
+  {
+    "timestamp": 27.055,
+    "emotion": "relieved",
+    "detailed_reasoning": "The speaker's tone softens and the pace of her speech relaxes as she explains that her body was able to 'resolve it pretty quickly.' Her facial muscles appear less tense, indicating a sense of relief as she describes the positive resolution of the immediate scary event.",
+    "summary_reasoning": "Soft tone, relaxed face."
+  },
+  {
+    "timestamp": 36.206,
+    "emotion": "grateful",
+    "detailed_reasoning": "The speaker explicitly states she felt 'thankful and grateful.' Her tone becomes softer and more emotive, and her facial expression softens, reflecting the genuine feeling of gratitude she is describing. It's a clear shift to a positive, reflective emotion.",
+    "summary_reasoning": "States gratitude, soft tone, soft expression."
+  },
+  {
+    "timestamp": 42.093,
+    "emotion": "serious",
+    "detailed_reasoning": "After expressing relief, she uses the word 'but' to introduce a complication revealed by her scans. Her expression becomes more focused and serious, her brow slightly furrows, and her tone shifts back to a more clinical and concerned one, reflecting the negative news from the scans.",
+    "summary_reasoning": "Word choice ('but'), serious expression, clinical tone."
+  },
+  {
+    "timestamp": 49.322,
+    "emotion": "scared",
+    "detailed_reasoning": "The speaker explicitly labels the experience as 'really, really scary.' Her vocal tone emphasizes the words, her eyes widen slightly, and she gives a small, subtle head shake, all of which work together to convey the fear she felt during the ordeal.",
+    "summary_reasoning": "States fear, emphatic tone, wide eyes."
+  },
+  {
+    "timestamp": 50.349,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker transitions to describing the procedural part of her hospital stay ('when I was in the emergency room'). Her tone returns to a more neutral, factual, and narrative style. Her expression is calm again as she recounts the events that followed the initial scary moment.",
+    "summary_reasoning": "Neutral tone, factual narration, calm expression."
+  }
+]

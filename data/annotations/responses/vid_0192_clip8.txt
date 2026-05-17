@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 1.634,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins by listing negative emotions like \"frustrated\" and \"angered.\" His tone is grave and measured, his eyebrows are slightly furrowed, and his hands are held up in a contained, somewhat tense posture. This combination of verbal and non-verbal cues establishes a serious and concerned mood from the outset.",
+    "summary_reasoning": "Grave tone, furrowed brows, tense posture."
+  },
+  {
+    "timestamp": 9.872,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker's tone shifts from descriptive to prescriptive, using the emphatic phrase \"You have to be willing.\" His voice becomes more forceful and deliberate, and he uses hand gestures to punctuate his words. This indicates a shift to a more passionate and instructional emotional state, trying to instill a sense of importance in the audience.",
+    "summary_reasoning": "Forceful tone, emphatic gestures."
+  },
+  {
+    "timestamp": 17.06,
+    "emotion": "insistent",
+    "detailed_reasoning": "He repeats the phrase \"examine it\" multiple times for its \"meaning\" and \"purpose.\" His speaking pace is deliberate and his tone becomes more insistent and commanding. His forward-leaning posture and direct eye contact intensify the feeling that he is trying to impress a crucial point upon the listener.",
+    "summary_reasoning": "Repetitive phrasing, commanding tone, direct gaze."
+  },
+  {
+    "timestamp": 28.494,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker transitions to his personal experience with \"In my practice...\" His tone becomes assured and authoritative, like an expert sharing wisdom. His posture is upright and his gestures are open, conveying a sense of confidence and credibility in the advice he is about to give.",
+    "summary_reasoning": "Authoritative tone, upright posture, open gestures."
+  },
+  {
+    "timestamp": 41.83,
+    "emotion": "assertive",
+    "detailed_reasoning": "He delivers a series of direct commands: \"Don't wait... Truly listen. Don't just see... Look.\" His voice is strong, clear, and unwavering. The sentences are short and punchy. This assertive delivery style reinforces his expertise and the confidence he projects, leaving no room for doubt.",
+    "summary_reasoning": "Strong voice, direct commands, crisp delivery."
+  },
+  {
+    "timestamp": 48.8,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker's tone shifts to a more explanatory and analytical one as he distinguishes between \"hearing\" and \"perceiving.\" His pace slows slightly, and he uses a more metaphorical language (\"white noise,\" \"debris\"). This change suggests a shift into a more thoughtful and reflective state as he breaks down a complex idea for the audience.",
+    "summary_reasoning": "Explanatory tone, slower pace, metaphorical language."
+  }
+]

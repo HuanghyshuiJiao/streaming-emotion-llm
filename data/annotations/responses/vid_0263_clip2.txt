@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 3.375,
+    "emotion": "love",
+    "detailed_reasoning": "The speaker begins with a soft, melancholic tone and her hand over her heart. Her facial expression is one of deep sincerity. The words themselves express a selfless wish for the subject's happiness, which, combined with the gentle delivery and heartfelt body language, conveys a profound sense of love, tinged with the sadness of it being unrequited.",
+    "summary_reasoning": "Soft tone, hand on heart, sincere expression."
+  },
+  {
+    "timestamp": 7.761,
+    "emotion": "hopeful",
+    "detailed_reasoning": "Her tone remains gentle and soft, almost like a prayer or a blessing. She looks upwards slightly, as if in deep thought or prayer. The content of her speech is a series of hopes for the person's well-being, creating an atmosphere of sincere and hopeful well-wishing.",
+    "summary_reasoning": "Prayerful tone, upward gaze, hopeful words."
+  },
+  {
+    "timestamp": 11.446,
+    "emotion": "empathy",
+    "detailed_reasoning": "The speaker's voice becomes more intimate and vulnerable as she speaks about sharing uncomfortable things. Her facial expression, with slightly furrowed brows, shows a deep understanding and concern for the subject's emotional safety, indicating strong empathy for their need for a safe space.",
+    "summary_reasoning": "Vulnerable tone, concerned expression, empathetic words."
+  },
+  {
+    "timestamp": 19.997,
+    "emotion": "longing",
+    "detailed_reasoning": "When she speaks of him having children, her voice becomes wistful and she closes her eyes, visualizing the scene. A fleeting, sad smile appears as she says \"a little boy and girl.\" This combination of a wistful tone and bittersweet expression reveals her own personal longing to be a part of that future, which she is now giving up on.",
+    "summary_reasoning": "Wistful tone, closed eyes, sad smile."
+  },
+  {
+    "timestamp": 24.217,
+    "emotion": "fondness",
+    "detailed_reasoning": "The speaker's tone lifts and becomes warmer, and a small, genuine smile appears as she lists simple, happy wishes like favorite foods and movies. This change suggests she is recalling specific, positive memories or details about the person, evoking a feeling of warm fondness.",
+    "summary_reasoning": "Warmer tone, smiling, happy memories."
+  },
+  {
+    "timestamp": 28.125,
+    "emotion": "earnest",
+    "detailed_reasoning": "Her expression becomes serious again, and her tone drops, becoming more emphatic. She speaks about the importance of feeling safe, and her direct gaze and serious delivery convey the deep importance of this wish, highlighting her earnestness.",
+    "summary_reasoning": "Serious expression, emphatic tone, direct gaze."
+  },
+  {
+    "timestamp": 38.425,
+    "emotion": "sincere",
+    "detailed_reasoning": "The speaker's voice becomes exceptionally tender and she brings her hand back to her chest, a recurring gesture of sincerity. The words focus on the ultimate form of unconditional love—being loved for one's existence. This combination of tender vocal delivery, heartfelt gesture, and profound words marks a peak of sincerity in her message.",
+    "summary_reasoning": "Tender voice, hand on chest, profound words."
+  },
+  {
+    "timestamp": 42.284,
+    "emotion": "sadness",
+    "detailed_reasoning": "Her voice is filled with a soft melancholy, and her eyes convey a deep sadness. The line about \"wondering what being in love feels like\" is delivered with a palpable sense of sorrow and empathy for the person's past loneliness, making this a clear moment of sadness.",
+    "summary_reasoning": "Melancholy tone, sad eyes, sorrowful words."
+  },
+  {
+    "timestamp": 54.222,
+    "emotion": "pain",
+    "detailed_reasoning": "This is the emotional climax of the performance. Her voice becomes strained and thick with emotion, almost breaking. Her facial expression is contorted in pain, and her eyes appear to well up. She repeats her core wish for him, but this time it is filtered through her own visible heartbreak and pain.",
+    "summary_reasoning": "Strained voice, pained expression, near tears."
+  },
+  {
+    "timestamp": 59.552,
+    "emotion": "resolute",
+    "detailed_reasoning": "After the peak of her emotional pain, she takes a breath and her voice, while still heavy with emotion, becomes steadier. By stating, \"this is not a new confession,\" she concludes with a sense of firmness and certainty. Her expression becomes resolved, affirming the long-standing and unwavering nature of her feelings, ending on a note of sad, resolute sincerity.",
+    "summary_reasoning": "Steadying voice, firm tone, resolved expression."
+  }
+]

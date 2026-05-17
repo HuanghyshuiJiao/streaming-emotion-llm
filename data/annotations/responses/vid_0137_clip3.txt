@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 10.038,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his address with a steady and measured tone. His facial expression is neutral and composed, and his posture is formal, fitting for a graduation ceremony. He is setting a calm and authoritative tone for his speech.",
+    "summary_reasoning": "Steady tone, neutral expression, formal posture."
+  },
+  {
+    "timestamp": 16.708,
+    "emotion": "reminiscent",
+    "detailed_reasoning": "The speaker transitions into a personal anecdote about his own graduation. His tone softens slightly, and he gestures towards the audience, indicating where he once sat. This shift in content and body language suggests he is fondly looking back at the past.",
+    "summary_reasoning": "Personal anecdote, softer tone, gesturing."
+  },
+  {
+    "timestamp": 25.201,
+    "emotion": "proud",
+    "detailed_reasoning": "As he mentions the football star Desmond Howard winning the Heisman Trophy, his voice gains a bit more energy and warmth. He smiles subtly, conveying a sense of pride in his university and his fellow classmate's achievement.",
+    "summary_reasoning": "Increased vocal energy, subtle smile, proud topic."
+  },
+  {
+    "timestamp": 30.869,
+    "emotion": "excited",
+    "detailed_reasoning": "The speaker's energy level noticeably increases as he describes the dramatic moment in the graduation ceremony. His speech pace quickens, his eyes widen, and he uses hand gestures to emphasize the action of Desmond Howard striking the Heisman pose. This combination of vocal and visual cues indicates excitement and vivid recollection.",
+    "summary_reasoning": "Faster speech, wider eyes, energetic gestures."
+  },
+  {
+    "timestamp": 40.04,
+    "emotion": "inspired",
+    "detailed_reasoning": "Following the exciting anecdote, the speaker's tone becomes more personal and heartfelt. He explicitly states, \"I love being part of Michigan,\" and his facial expression softens, conveying sincerity and a sense of inspiration drawn from witnessing his classmate's excellence. The energy is less about excitement and more about a deeper, positive feeling.",
+    "summary_reasoning": "Heartfelt tone, sincere expression, positive words."
+  },
+  {
+    "timestamp": 47.402,
+    "emotion": "amazed",
+    "detailed_reasoning": "The speaker contrasts his past self with his present self, gesturing from the audience to the podium. His tone shifts to one of wonder and disbelief as he says the journey \"defies all logic.\" His facial expression is one of awe, reflecting on the improbability of his own path. This conveys a sense of amazement at how life has unfolded.",
+    "summary_reasoning": "Tone of wonder, awe-filled expression, words of disbelief."
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "timestamp": 5.131,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker's facial expression is downcast, with slightly furrowed brows and a neutral to downturned mouth. Her tone of voice is low, slow, and lacks positive inflection, conveying a sense of melancholy despite the somewhat neutral words about friendships starting.",
+    "summary_reasoning": "Downcast expression, slow melancholic tone."
+  },
+  {
+    "timestamp": 10.215,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker's attempt to sound positive by saying she looks forward to hanging out is contradicted by her consistently sad facial expression and flat vocal tone. Her eyes appear watery, and the delivery of the word \"buddy\" sounds forced, highlighting the underlying sadness.",
+    "summary_reasoning": "Sad face, flat tone, watery eyes."
+  },
+  {
+    "timestamp": 13.018,
+    "emotion": "sad",
+    "detailed_reasoning": "The suggestions to meet up for a football game or go to Hooters are delivered with the same flat, melancholic tone. There is no genuine enthusiasm in her voice, and her facial expression remains consistently sad, indicating she is just going through the motions of a conversation while feeling deep sadness.",
+    "summary_reasoning": "Flat tone, no enthusiasm, sad face."
+  },
+  {
+    "timestamp": 18.042,
+    "emotion": "resigned",
+    "detailed_reasoning": "When the speaker says, \"That would be great,\" there is a stark contrast between the positive words and the delivery. Her tone is completely flat and devoid of emotion, and her expression is one of sad resignation, suggesting she has no hope or belief in what she is saying.",
+    "summary_reasoning": "Positive words, flat tone, sad expression."
+  },
+  {
+    "timestamp": 27.13,
+    "emotion": "defensive",
+    "detailed_reasoning": "After a long pause, the speaker responds to an unheard question. Her tone in \"Upset? No.\" shifts from sadness to a quiet defensiveness. Her denial is not convincing and her facial expression shows hurt, as if she has been accused of something that is true but that she doesn't want to admit.",
+    "summary_reasoning": "Questioning tone, unconvincing denial, hurt expression."
+  },
+  {
+    "timestamp": 29.312,
+    "emotion": "distressed",
+    "detailed_reasoning": "The speaker's denial escalates. Her voice begins to waver as she says, \"I'm not upset.\" Her eyes are visibly teary and her eyebrows are drawn together, indicating growing emotional distress. She is actively trying to suppress her feelings, but they are starting to overwhelm her.",
+    "summary_reasoning": "Wavering voice, teary eyes, distressed expression."
+  },
+  {
+    "timestamp": 37.362,
+    "emotion": "anguished",
+    "detailed_reasoning": "The speaker explicitly denies crying, but a tear is now visible on her cheek and her voice is choked with emotion. The verbal denial in the face of clear visual and auditory evidence of crying shows a deep level of anguish and a losing battle to maintain composure.",
+    "summary_reasoning": "Visible tear, choked voice, verbal denial."
+  },
+  {
+    "timestamp": 41.211,
+    "emotion": "anguished",
+    "detailed_reasoning": "She repeats her denial, \"I said I'm not crying,\" but her voice cracks and becomes higher-pitched. Her face is now contorted with the effort of speaking while actively crying. The repetition and broken delivery signal an escalation of her anguish and complete loss of emotional control.",
+    "summary_reasoning": "Cracked voice, crying, pained expression."
+  },
+  {
+    "timestamp": 45.601,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker's emotion shifts as she says, \"I don't want your pity.\" The tone becomes sharper and slightly louder, laced with frustration. She is no longer just sad but is now angrily pushing back against the other person's perceived pity.",
+    "summary_reasoning": "Sharp tone, louder voice, pushing back."
+  },
+  {
+    "timestamp": 49.25,
+    "emotion": "desperate",
+    "detailed_reasoning": "Her plea to \"be left alone\" is delivered with a tone of desperation. While still frustrated, the primary emotion is a desperate need for withdrawal and to escape the emotional exposure of the conversation. Her voice is firm but still heavy with unshed tears.",
+    "summary_reasoning": "Pleading tone, wanting withdrawal, voice heavy with tears."
+  },
+  {
+    "timestamp": 52.237,
+    "emotion": "exasperated",
+    "detailed_reasoning": "Her voice rises in volume and intensity as she asks, \"Don't you get it?\" This conveys strong exasperation with the other person for not understanding her need to end the conversation. The repetition of \"I want to be alone\" becomes more of a demand than a plea.",
+    "summary_reasoning": "Louder, intense voice, demanding tone."
+  },
+  {
+    "timestamp": 57.268,
+    "emotion": "hopeless",
+    "detailed_reasoning": "In her final words, \"always wanted to be alone,\" the speaker's tone deflates completely. The previous frustration and exasperation fade away, replaced by a tone of profound, resigned hopelessness. Her expression is one of utter despair, as if she has given up entirely.",
+    "summary_reasoning": "Deflated tone, resigned expression, despair."
+  }
+]

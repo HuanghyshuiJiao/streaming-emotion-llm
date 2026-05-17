@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 1.153,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins with a neutral and instructional tone, calmly explaining a scenario. His facial expression is not fully visible, but his voice is steady and measured.",
+    "summary_reasoning": "Neutral instructional tone, steady voice."
+  },
+  {
+    "timestamp": 6.22,
+    "emotion": "dramatic",
+    "detailed_reasoning": "There is a sudden and drastic shift in vocal delivery. The speaker's voice becomes high-pitched, strained, and loud as he acts out being hit in the eye. Visually, he brings his hand to his face, covering his eye in a theatrical manner, simulating pain and distress for comedic or instructional effect.",
+    "summary_reasoning": "High-pitched strained voice, theatrical gesture."
+  },
+  {
+    "timestamp": 11.207,
+    "emotion": "amused",
+    "detailed_reasoning": "After the dramatic outburst, the speaker's tone shifts to one of amusement and self-awareness. He talks about his tendency to \"overact\" with a slight chuckle in his voice, indicating he finds his own behavior funny. The pace of his speech is relaxed and conversational.",
+    "summary_reasoning": "Self-aware tone, relaxed speech, verbal content."
+  },
+  {
+    "timestamp": 22.164,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker transitions into a standard vlogger outro. His tone becomes purely informative and direct as he asks for questions in the comments. The emotion is neutral and focused on conveying information to the audience.",
+    "summary_reasoning": "Direct tone, neutral expression, informational content."
+  },
+  {
+    "timestamp": 29.206,
+    "emotion": "persuasive",
+    "detailed_reasoning": "His tone becomes more encouraging and persuasive as he asks viewers to subscribe to the channel. The word \"please\" is emphasized, and his vocal pitch rises slightly, adopting a friendly, call-to-action style common in online videos.",
+    "summary_reasoning": "Encouraging tone, emphasized words, call-to-action."
+  },
+  {
+    "timestamp": 44.045,
+    "emotion": "enthusiastic",
+    "detailed_reasoning": "The speaker exclaims \"yay!\" with a sharp, high-pitched, and cheerful tone. This verbal cue clearly indicates a moment of enthusiasm and positive energy as he concludes his video.",
+    "summary_reasoning": "Enthusiastic exclamation, cheerful tone."
+  },
+  {
+    "timestamp": 45.709,
+    "emotion": "affectionate",
+    "detailed_reasoning": "The speaker's tone softens significantly as he turns to someone off-camera (presumably a child) and says, \"Say bye-bye.\" The pace slows, and his voice becomes gentle and warm, indicating a shift from addressing the audience to a personal, affectionate interaction.",
+    "summary_reasoning": "Soft, gentle voice, shift in address."
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 1.133,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins with a very direct and serious tone. Her facial expression is neutral, and her gaze is fixed on the camera. The content is heavy, discussing homeless kids, which sets a somber and serious mood from the start.",
+    "summary_reasoning": "Direct tone, neutral expression, serious topic."
+  },
+  {
+    "timestamp": 8.083,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker's tone shifts to a slightly more melancholic quality as she explains the reasons for youth homelessness, such as parents dying or leaving them. Her expression becomes more somber, with a slight downturn of her lips, conveying a sense of sadness about the situation.",
+    "summary_reasoning": "Melancholic tone, somber expression."
+  },
+  {
+    "timestamp": 11.688,
+    "emotion": "cynical",
+    "detailed_reasoning": "When mentioning foster homes, her tone becomes slightly dismissive and her facial expression shows skepticism, particularly with the phrase 'Oh sure.' This suggests a cynical view of the foster care system based on her own experiences, which she immediately elaborates on.",
+    "summary_reasoning": "Dismissive tone, skeptical expression."
+  },
+  {
+    "timestamp": 17.677,
+    "emotion": "hurt",
+    "detailed_reasoning": "The speaker's tone becomes more pointed and questioning, reflecting a sense of personal injury. The rhetorical question 'why do they keep getting rid of me?' is delivered with a tone that implies repeated rejection and emotional pain, and her expression is pained.",
+    "summary_reasoning": "Pointed tone, questioning words, pained expression."
+  },
+  {
+    "timestamp": 23.305,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker's pace slows, and her tone becomes more introspective as she begins to share her personal experience of being on the streets. Her gaze shifts slightly, as if recalling memories, indicating a move into a reflective state.",
+    "summary_reasoning": "Slower pace, introspective tone, shifting gaze."
+  },
+  {
+    "timestamp": 25.228,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "The speaker says 'surprise!' with an exaggerated, upbeat tone and a slight, wry smile. This is in stark contrast to the grim reality of being homeless. The sarcasm highlights the unexpected prevalence of other homeless kids, using a cheerful word to describe a sad situation.",
+    "summary_reasoning": "Exaggerated tone, wry smile, ironic word choice."
+  },
+  {
+    "timestamp": 37.352,
+    "emotion": "amused",
+    "detailed_reasoning": "When talking about getting a 'five-finger discount,' the speaker's tone becomes lighter, and she smiles genuinely. This indicates a sense of amusement or dark humor in recalling the ways she and other kids had to survive, including shoplifting.",
+    "summary_reasoning": "Lighter tone, genuine smile, dark humor."
+  },
+  {
+    "timestamp": 42.982,
+    "emotion": "resigned",
+    "detailed_reasoning": "The speaker's brief amusement fades as she says, 'That's how I got caught.' Her tone becomes flat and matter-of-fact, and her smile disappears. This suggests a sense of resignation to the consequences of her actions and the difficult path she was on.",
+    "summary_reasoning": "Flat tone, smile disappears, matter-of-fact delivery."
+  },
+  {
+    "timestamp": 51.597,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker's tone becomes more measured and her expression softens as she talks about other kids learning to survive. She seems to be thoughtfully considering the difference between her own experience and that of others who remained on the streets longer.",
+    "summary_reasoning": "Measured tone, softened expression, contemplative content."
+  },
+  {
+    "timestamp": 54.582,
+    "emotion": "sad",
+    "detailed_reasoning": "Following her reflection on others' survival, she states 'I didn't' with a definitive and slightly somber tone. Her expression is serious again, conveying a sense of sadness and perhaps a feeling of failure or vulnerability from that time in her life.",
+    "summary_reasoning": "Somber tone, serious expression, statement of failure."
+  }
+]

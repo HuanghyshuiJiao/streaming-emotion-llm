@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 1.373,
+    "emotion": "agitated",
+    "detailed_reasoning": "The video begins with the speaker moving erratically and shouting directly at the camera with wide eyes. His tone is loud, high-pitched, and strained, conveying a sense of urgent distress or agitation.",
+    "summary_reasoning": "Shouting, erratic movement, wide eyes, strained tone."
+  },
+  {
+    "timestamp": 3.776,
+    "emotion": "frustrated",
+    "detailed_reasoning": "He repeats his need for detention with increased emphasis, shaking his head and looking upwards in a gesture of exasperation. His tone remains loud and pleading, but now carries a clear note of frustration with his situation.",
+    "summary_reasoning": "Repeated plea, head shaking, upward gaze, exasperated tone."
+  },
+  {
+    "timestamp": 6.701,
+    "emotion": "defensive",
+    "detailed_reasoning": "The speaker's volume drops and he raises his hands in a pacifying gesture while saying \"No, no, no.\" This shift in body language and tone from shouting to a more controlled, anticipatory explanation suggests he is becoming defensive, expecting the listener to be skeptical.",
+    "summary_reasoning": "Lower volume, raised hands, pacifying gesture."
+  },
+  {
+    "timestamp": 9.044,
+    "emotion": "earnest",
+    "detailed_reasoning": "He leans forward slightly and uses hand gestures to emphasize his words \"listen, listen.\" His tone shifts from defensive to earnest and sincere as he tries to convince the audience that this situation is unique, saying \"This one's different. She's special.\"",
+    "summary_reasoning": "Leaning forward, emphatic hand gestures, sincere tone."
+  },
+  {
+    "timestamp": 13.01,
+    "emotion": "infatuated",
+    "detailed_reasoning": "After a pause, he reveals the girl's name. His entire demeanor changes. His facial expression softens, his eyes get a dreamy, unfocused look, and his head tilts to the side with a faint, fond smile. This dramatic shift in non-verbal cues clearly indicates he is infatuated.",
+    "summary_reasoning": "Softened expression, dreamy eyes, head tilt, fond smile."
+  },
+  {
+    "timestamp": 24.546,
+    "emotion": "charmed",
+    "detailed_reasoning": "After a long, dreamy pause, he reveals her nickname. His tone becomes lighter and more playful. He smiles and makes direct eye contact, asking \"It's cute, right?\", clearly charmed by the nickname and seeking agreement.",
+    "summary_reasoning": "Playful tone, smiling, direct eye contact."
+  },
+  {
+    "timestamp": 28.772,
+    "emotion": "playful",
+    "detailed_reasoning": "The speaker makes a pun on her nickname \"Harm.\" He points at the camera, his eyes widen playfully, and a grin spreads across his face. His tone is suggestive and teasing, indicating a playful and flirtatious mood.",
+    "summary_reasoning": "Pointing at camera, wide eyes, grin, teasing tone."
+  },
+  {
+    "timestamp": 34.209,
+    "emotion": "resigned",
+    "detailed_reasoning": "After the playful pun, there's a long pause. His expression then becomes more somber and he admits that she has harmed him. His tone is serious, and he nods slowly as he says \"But I deserved it,\" showing a sense of resignation and acceptance of the consequences.",
+    "summary_reasoning": "Somber expression, serious tone, slow nod, self-blame."
+  },
+  {
+    "timestamp": 42.123,
+    "emotion": "defensive",
+    "detailed_reasoning": "Anticipating a negative interpretation of \"I touched her,\" he quickly becomes defensive again, putting his hands up and rushing to clarify with \"No, no, no... Nowhere bad.\" His speech is fast and his expression is urgent as he tries to prevent misjudgment.",
+    "summary_reasoning": "Raised hands, rapid speech, urgent expression."
+  },
+  {
+    "timestamp": 47.453,
+    "emotion": "shocked",
+    "detailed_reasoning": "In the final moment, as he delivers the punchline \"she broke my fingers,\" his eyes are wide and his face freezes in an expression of complete shock and disbelief. This dramatic facial cue powerfully conveys the unexpected and extreme outcome of his action.",
+    "summary_reasoning": "Wide eyes, frozen expression, disbelief."
+  }
+]

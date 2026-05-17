@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 3.415,
+    "emotion": "skeptical",
+    "detailed_reasoning": "The woman's eyes widen and her head tilts slightly. Her tone is questioning and filled with disbelief as she says \"No?\", reacting to the unseen speaker's statement. This combination of visual and vocal cues suggests she is skeptical of what she is hearing.",
+    "summary_reasoning": "Wide eyes, questioning tone."
+  },
+  {
+    "timestamp": 11.506,
+    "emotion": "incredulous",
+    "detailed_reasoning": "Her tone becomes sharp and questioning as she repeats the word \"Appropriate?\". Her facial expression shifts from skepticism to incredulity, with a slight head turn and a look of disbelief, as if she cannot believe the accusation being made against her.",
+    "summary_reasoning": "Sharp tone, disbelieving expression."
+  },
+  {
+    "timestamp": 22.821,
+    "emotion": "defensive",
+    "detailed_reasoning": "After the unseen speaker makes a serious accusation, her expression becomes very serious and her eyes are fixed. She begins to defend herself by making a counter-accusation, her tone firm and her face showing the strain of the conversation. This indicates a shift to a defensive emotional state.",
+    "summary_reasoning": "Serious expression, firm tone, counter-accusation."
+  },
+  {
+    "timestamp": 27.286,
+    "emotion": "hurt",
+    "detailed_reasoning": "Her voice softens and her expression shows pain and confusion. The question \"Why would you say such a thing?\" is delivered with a tone of genuine hurt, indicating the unseen speaker's words have had a significant emotional impact on her.",
+    "summary_reasoning": "Softened voice, pained expression."
+  },
+  {
+    "timestamp": 32.647,
+    "emotion": "shocked",
+    "detailed_reasoning": "In response to being called a liar, her eyes widen dramatically and her mouth opens slightly in shock. Her face freezes for a moment, capturing a clear state of being stunned and appalled by the accusation.",
+    "summary_reasoning": "Wide eyes, open mouth, frozen expression."
+  },
+  {
+    "timestamp": 34.41,
+    "emotion": "desperate",
+    "detailed_reasoning": "Her voice cracks slightly and takes on a pleading quality as she asks, \"Why would I lie to you?\". Her facial expression is a mixture of hurt and desperation, as she tries to make the other person believe her. Her eyebrows are furrowed in a distressed manner.",
+    "summary_reasoning": "Cracked voice, pleading tone, distressed expression."
+  },
+  {
+    "timestamp": 40.36,
+    "emotion": "frustrated",
+    "detailed_reasoning": "Her expression shifts from hurt to frustration. Her voice becomes more forceful and her words, \"Can't you see?\", are clipped and direct. She is trying to make the other person understand her perspective but is clearly frustrated by their inability to do so.",
+    "summary_reasoning": "Forceful tone, clipped words, tense face."
+  },
+  {
+    "timestamp": 48.052,
+    "emotion": "indignant",
+    "detailed_reasoning": "Her voice rises in pitch and volume as she repeats the insult, \"I'm beneath him?\". Her face shows clear indignation and disbelief. Her eyebrows are raised, and her eyes are wide with outrage, signaling she finds the comment deeply offensive.",
+    "summary_reasoning": "Raised voice, outraged expression, repeating insult."
+  },
+  {
+    "timestamp": 52.039,
+    "emotion": "angry",
+    "detailed_reasoning": "Her emotion escalates to clear anger. Her speech becomes rapid and confrontational (\"What? What? Tell me.\"). She leans forward slightly, her eyes narrow, and her tone is sharp and demanding, challenging the other speaker directly.",
+    "summary_reasoning": "Rapid speech, confrontational tone, narrowed eyes."
+  }
+]

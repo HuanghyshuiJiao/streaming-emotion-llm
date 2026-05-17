@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "neutral",
+    "detailed_reasoning": "The speaker begins her story with a neutral, narrative tone. Her facial expression is calm and she uses standard hand gestures for storytelling, setting a baseline for the emotional arc of her anecdote.",
+    "summary_reasoning": "Narrative tone, calm expression."
+  },
+  {
+    "timestamp": 6.94,
+    "emotion": "dramatic",
+    "detailed_reasoning": "The speaker shifts her tone to imitate a child's voice, raising her pitch and speaking with a pointed, slightly accusatory intonation. Her facial expression becomes more animated and serious to portray the child's comment, adding a dramatic flair to her storytelling.",
+    "summary_reasoning": "Imitates child's voice, animated expression."
+  },
+  {
+    "timestamp": 9.883,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker says the word \"Shit\" with a sharp, comedic timing. Her eyes widen and she touches her head in a gesture of mock panic and forgetfulness, clearly signaling to the audience that this is a humorous, self-deprecating moment. Her expression is one of amusement at her own mistake.",
+    "summary_reasoning": "Comedic timing, widened eyes, mock panic gesture."
+  },
+  {
+    "timestamp": 12.346,
+    "emotion": "confident",
+    "detailed_reasoning": "After the moment of panic, her tone becomes more assertive and self-assured. She explains her attempt to salvage the situation using her improv skills, and her confident tone and hand gestures convey a sense of capability and quick thinking.",
+    "summary_reasoning": "Assertive tone, confident gestures."
+  },
+  {
+    "timestamp": 17.393,
+    "emotion": "playful",
+    "detailed_reasoning": "She adopts a higher-pitched, slightly saccharine voice to act out her improvised line to the child. Her facial expression is open and smiling, conveying the playful and theatrical nature of her attempt to stay in character as Elsa.",
+    "summary_reasoning": "High-pitched voice, smiling expression."
+  },
+  {
+    "timestamp": 21.017,
+    "emotion": "annoyed",
+    "detailed_reasoning": "Her tone shifts abruptly from playful to annoyed as she refers to the child as a \"brat.\" Her lips purse, and her voice becomes sharper and more pointed, comedically conveying her character's (and her own) frustration with the child's persistent heckling.",
+    "summary_reasoning": "Sharp tone, pursed lips, frustrated words."
+  },
+  {
+    "timestamp": 24.301,
+    "emotion": "exasperated",
+    "detailed_reasoning": "The speaker's volume increases significantly as she shouts the word \"fake!\" to mimic the child. She points an accusatory finger, and her facial expression is one of exaggerated anger. This theatrical outburst conveys her growing exasperation in a humorous way.",
+    "summary_reasoning": "Increased volume, pointing gesture, exaggerated anger."
+  },
+  {
+    "timestamp": 29.444,
+    "emotion": "frustrated",
+    "detailed_reasoning": "Her voice drops into a more intimate, pleading tone as she describes her internal monologue. She gestures with open hands and has a weary expression, directly communicating her feeling of frustration and asking for a break.",
+    "summary_reasoning": "Pleading tone, weary expression, open hand gestures."
+  },
+  {
+    "timestamp": 37.0,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "The speaker launches into a rant about the inconveniences she endured. Her speech becomes faster, her pitch rises, and her tone is laden with sarcasm and comedic self-pity, especially in the punchline about looking like a \"glittery prostitute.\" Her gestures become more expansive and agitated.",
+    "summary_reasoning": "Fast speech, sarcastic tone, agitated gestures."
+  },
+  {
+    "timestamp": 49.627,
+    "emotion": "mocking",
+    "detailed_reasoning": "The speaker's tone shifts to one of mocking condescension as she comments on the child's finger painting. Her head tilts and her facial expression feigns uncertainty and disdain, humorously belittling the child's artwork to further emphasize her frustration.",
+    "summary_reasoning": "Condescending tone, mocking facial expression."
+  },
+  {
+    "timestamp": 55.258,
+    "emotion": "disgusted",
+    "detailed_reasoning": "For the final punchline, her facial expression twists into one of clear disgust. The delivery of the word \"poo\" is emphasized with this expression, maximizing the gross-out humor of the line and ending her rant on a shocking and comedic note.",
+    "summary_reasoning": "Disgusted facial expression, shocking punchline."
+  }
+]

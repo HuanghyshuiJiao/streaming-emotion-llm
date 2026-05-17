@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 0.732,
+    "emotion": "humorous",
+    "detailed_reasoning": "The speaker begins with a self-critical admission, \"I was judging her.\" However, her wide-eyed expression, playful tone, and the comedic timing of the self-deprecating punchline, \"at least one of me is a jerk,\" are all geared towards creating a humorous and relatable moment with the audience, which is confirmed by their laughter.",
+    "summary_reasoning": "Self-deprecating words, playful tone, expressive face."
+  },
+  {
+    "timestamp": 11.164,
+    "emotion": "reluctant",
+    "detailed_reasoning": "There is a distinct shift in mood. The humor fades completely, replaced by a serious facial expression. Her vocal tone becomes lower and more somber as she describes the conflict between what she \"needed to do\" and what she \"didn't want to.\" This combination of visual and vocal cues conveys a strong sense of internal resistance and reluctance.",
+    "summary_reasoning": "Serious expression, somber tone, words of conflict."
+  },
+  {
+    "timestamp": 14.508,
+    "emotion": "judgmental",
+    "detailed_reasoning": "The speaker's emotion hardens from simple reluctance to a more definitive negative stance. She states plainly, \"I didn't like her. I didn't respect her.\" The tone is flat and declarative, without apology, and her direct gaze reinforces the strength and finality of her judgment at that time.",
+    "summary_reasoning": "Blunt words, flat tone, direct gaze."
+  },
+  {
+    "timestamp": 20.394,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker's tone takes on an exasperated quality as she describes the project requirements that forced her into this unwanted interaction. The emphasis on having to spend \"hours\" and the way she gestures with her hands conveys a sense of being burdened and frustrated by the situation she was in.",
+    "summary_reasoning": "Exasperated tone, words of obligation, emphatic gestures."
+  },
+  {
+    "timestamp": 25.0,
+    "emotion": "contemplative",
+    "detailed_reasoning": "As she lists the deeper human qualities she was required to learn about the other person—\"what she values, what she believes, where she finds strength\"—her pace slows and her voice softens. The shift from focusing on her own frustration to the other person's inner world gives her a more thoughtful and contemplative demeanor.",
+    "summary_reasoning": "Slower pace, softer voice, reflective words."
+  },
+  {
+    "timestamp": 33.649,
+    "emotion": "playful",
+    "detailed_reasoning": "The speaker breaks the serious mood by setting up a new story. Her tone lightens, a slight smile reappears, and she uses the colloquial and slightly dramatic phrase \"get out the big guns.\" This signals a shift back towards a more playful, narrative-driven tone, similar to her opening.",
+    "summary_reasoning": "Lighter tone, humorous idiom, slight smile."
+  },
+  {
+    "timestamp": 37.958,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker's tone is now openly self-mocking as she describes her \"New Age visualization skills.\" The comedic, parenthetical addition of \"secondhand smoke and all\" is a clear punchline, indicating that she finds her own past actions and the absurdity of the situation amusing.",
+    "summary_reasoning": "Self-mocking tone, comedic details, wry expression."
+  },
+  {
+    "timestamp": 42.106,
+    "emotion": "serene",
+    "detailed_reasoning": "Describing her visualization, the speaker's entire demeanor changes. Her voice becomes very soft, slow, and almost dream-like. Her eyes close and her hands gently mime the creation of a \"shiny soap bubble.\" This performance creates a serene and calm atmosphere, directly reflecting the mental state she is describing.",
+    "summary_reasoning": "Soft slow voice, closed eyes, gentle gestures."
+  },
+  {
+    "timestamp": 51.724,
+    "emotion": "adamant",
+    "detailed_reasoning": "The serene mood is broken with a sudden intensity. To clarify the concept of \"welcome,\" she firmly states what it is not: \"not tolerance, not even compassion.\" Her voice becomes stronger, deliberate, and her gaze is fixed and serious. This emphatic delivery shows she is making a crucial distinction and is adamant about her point.",
+    "summary_reasoning": "Intense gaze, firm deliberate tone, emphatic words."
+  }
+]

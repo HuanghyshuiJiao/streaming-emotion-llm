@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "happy",
+    "detailed_reasoning": "The speaker begins the video by waving directly at the camera with a wide, open-mouthed smile. Her tone of voice is cheerful and high-pitched as she introduces herself, indicating a friendly and happy emotional state.",
+    "summary_reasoning": "Waving, smiling, cheerful tone."
+  },
+  {
+    "timestamp": 2.955,
+    "emotion": "calm",
+    "detailed_reasoning": "After the cheerful introduction, her smile fades to a more neutral expression as she announces the name of the monologue. Her tone becomes more informative and her energy level settles down, suggesting a shift to a calm and focused state before beginning her performance.",
+    "summary_reasoning": "Smile fades, neutral expression, informative tone."
+  },
+  {
+    "timestamp": 4.937,
+    "emotion": "serious",
+    "detailed_reasoning": "The performance starts with an abrupt change in demeanor. She turns her head to the side, her facial expression becomes stern and serious, and her tone shifts to a commanding and cautionary one. This marks the transition into character and a serious emotional state.",
+    "summary_reasoning": "Turns head, stern expression, commanding tone."
+  },
+  {
+    "timestamp": 8.722,
+    "emotion": "worried",
+    "detailed_reasoning": "The speaker's expression conveys a deep sense of worry. Her eyes are wide and her tone is filled with dread as she speaks of \"doom and gloom.\" This intensifies the serious mood into one of active concern and worry about an impending negative event.",
+    "summary_reasoning": "Wide eyes, tone of dread."
+  },
+  {
+    "timestamp": 15.431,
+    "emotion": "frustrated",
+    "detailed_reasoning": "After repeating the word \"doom\" with no effect, her tone shifts dramatically to one of clear frustration. She looks around the room and her voice becomes strained as she asks, \"why is nobody listening to me?\" This demonstrates her exasperation with the situation.",
+    "summary_reasoning": "Sharp tone shift, strained voice, exasperated question."
+  },
+  {
+    "timestamp": 20.378,
+    "emotion": "hopeful",
+    "detailed_reasoning": "Her frustrated expression softens as she looks upwards, as if seeing or hearing something new. Her tone becomes softer and questioning when she says \"Apollo?\", indicating a sudden shift from frustration to a sense of curiosity and hope for intervention.",
+    "summary_reasoning": "Expression softens, looks up, questioning tone."
+  },
+  {
+    "timestamp": 23.782,
+    "emotion": "angry",
+    "detailed_reasoning": "The brief moment of hope vanishes, replaced by anger. Her tone becomes sharp and demanding as she says \"Get over here.\" She gestures forcefully, and her facial expression is stern and confrontational, clearly showing anger towards the entity she is addressing.",
+    "summary_reasoning": "Sharp demanding tone, forceful gesture, stern expression."
+  },
+  {
+    "timestamp": 33.589,
+    "emotion": "exasperated",
+    "detailed_reasoning": "While still rooted in anger, the emotion evolves into exasperation. Her voice rises in pitch and desperation as she complains that \"nobody's listening to me.\" Her wide-eyed expression and helpless hand gestures underscore her feeling of being utterly fed up and powerless.",
+    "summary_reasoning": "Voice rises, desperate tone, helpless gestures."
+  },
+  {
+    "timestamp": 39.365,
+    "emotion": "anguished",
+    "detailed_reasoning": "Her exasperation deepens into anguish as she describes seeing the walls of Troy fall. Her voice is filled with pain and torment, and her gestures become larger and more dramatic, conveying the immense suffering she feels from her unheeded prophecies.",
+    "summary_reasoning": "Pained expression, tormented voice, dramatic gestures."
+  },
+  {
+    "timestamp": 48.008,
+    "emotion": "confused",
+    "detailed_reasoning": "There is an abrupt shift from anguish to confusion. Her face registers surprise and disbelief, and her head tilts. Her tone becomes incredulous and questioning as she repeats the words \"Fine print?\", signaling that she has heard something unexpected and confusing.",
+    "summary_reasoning": "Abrupt shift, surprised expression, incredulous tone."
+  },
+  {
+    "timestamp": 50.735,
+    "emotion": "indignant",
+    "detailed_reasoning": "The confusion rapidly transforms into indignation. Her final line, \"What fine print?\", is delivered with a sharp, rising inflection. Her eyes are wide with shocked disbelief, conveying a sense of outrage at the unfairness of her predicament.",
+    "summary_reasoning": "Sharp rising tone, wide eyes, outraged expression."
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 0.171,
+    "emotion": "happy",
+    "detailed_reasoning": "The speaker begins with a bright, open smile and a friendly, cheerful vocal tone as she introduces herself. Her overall demeanor is welcoming and positive, indicating happiness.",
+    "summary_reasoning": "Smiling, cheerful voice, friendly introduction."
+  },
+  {
+    "timestamp": 8.741,
+    "emotion": "neutral",
+    "detailed_reasoning": "The speaker's smile softens and her tone becomes more informative as she states she will show her profiles. Her body language is now focused on the procedural task of turning for the camera, indicating a shift from a personal greeting to a more neutral, task-oriented state.",
+    "summary_reasoning": "Informative tone, procedural body language."
+  },
+  {
+    "timestamp": 15.909,
+    "emotion": "playful",
+    "detailed_reasoning": "Her expression becomes more engaging, with a knowing smile and raised eyebrows as she introduces a 'fun fact.' Her vocal tone becomes lighter and more conspiratorial, as if sharing a secret, which creates a playful and intriguing mood.",
+    "summary_reasoning": "Engaging tone, knowing smile, raised eyebrows."
+  },
+  {
+    "timestamp": 21.676,
+    "emotion": "affectionate",
+    "detailed_reasoning": "When describing time with her father, her entire demeanor softens. Her voice becomes gentler and higher-pitched, her pace slows, and she adopts a soft, reminiscent smile. This shift in vocal and facial cues conveys a feeling of affection and warmth.",
+    "summary_reasoning": "Gentle voice, soft smile, describing father."
+  },
+  {
+    "timestamp": 25.921,
+    "emotion": "childlike",
+    "detailed_reasoning": "The speaker actively performs the persona she is describing. Her voice becomes noticeably higher-pitched with a cutesy, childlike intonation. Her facial expression is wide-eyed and innocent, effectively acting out the role of a 'naive daddy's girl.'",
+    "summary_reasoning": "High-pitched childlike voice, innocent expression."
+  },
+  {
+    "timestamp": 30.44,
+    "emotion": "focused",
+    "detailed_reasoning": "Marked by the word 'But', the speaker's demeanor undergoes a complete transformation. Her voice drops significantly in pitch, becoming firm and serious. Her previously childlike facial expression is replaced by a focused, intense gaze, indicating a shift to a mature and professional personality.",
+    "summary_reasoning": "Lower-pitched serious voice, intense gaze."
+  },
+  {
+    "timestamp": 37.291,
+    "emotion": "confident",
+    "detailed_reasoning": "While describing her 'mature' self, the speaker's tone remains low and steady, projecting self-assurance. She maintains direct eye contact and a firm, unwavering expression, which together convey a strong sense of confidence in this persona.",
+    "summary_reasoning": "Low steady voice, firm expression, direct eye contact."
+  },
+  {
+    "timestamp": 44.062,
+    "emotion": "happy",
+    "detailed_reasoning": "The speaker relaxes out of the 'mature' character. A casual, friendly smile returns to her face, and her vocal tone shifts back to the light, conversational pitch from the beginning. This signifies a return to her natural, happy state after finishing the anecdote.",
+    "summary_reasoning": "Relaxed face, smiling, friendly conversational tone."
+  },
+  {
+    "timestamp": 46.185,
+    "emotion": "neutral",
+    "detailed_reasoning": "Announcing the start of her monologue, the speaker's smile fades and her expression becomes neutral and focused. Her tone is purely informative. This change signifies a transition out of her personal introduction and into a state of preparation for the performance.",
+    "summary_reasoning": "Smile fades, informative tone, preparing to perform."
+  },
+  {
+    "timestamp": 54.739,
+    "emotion": "earnest",
+    "detailed_reasoning": "The speaker begins her monologue, shifting into a new character. Her facial expression becomes serious and intent. Her vocal delivery is deliberate, lower-pitched, and carries a persuasive and earnest tone, indicating she is now embodying the emotion of the character.",
+    "summary_reasoning": "Serious expression, lower-pitched persuasive voice, in-character."
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 2.173,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins his anecdote with a formal and serious tone, fitting for a military officer addressing an audience. His posture is upright, his facial expression is neutral to stern, and his speech is deliberate and measured as he sets the scene of a military inspection.",
+    "summary_reasoning": "Formal tone, stern expression, deliberate speech."
+  },
+  {
+    "timestamp": 6.137,
+    "emotion": "stern",
+    "detailed_reasoning": "The speaker's tone becomes more intense and firm as he emphasizes the thoroughness of the inspection. He uses the word \"exceptionally\" with force, and his gaze is direct and unwavering, conveying the strictness and unforgiving nature of the process he is describing.",
+    "summary_reasoning": "Intense tone, direct gaze, forceful word emphasis."
+  },
+  {
+    "timestamp": 15.667,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker's tone shifts slightly from stern instruction to a more narrative and reflective quality. He is describing the futility of the students' efforts, and his pace slows down as if he is recalling the feeling of the situation. This introduces a sense of irony and foreshadows the negative outcome.",
+    "summary_reasoning": "Narrative tone, slower pace, foreshadowing."
+  },
+  {
+    "timestamp": 26.722,
+    "emotion": "grave",
+    "detailed_reasoning": "The emotion shifts to grave as the speaker describes the punishment for failing the inspection. His tone becomes lower and more somber, and his expression remains serious, effectively communicating the severity and harshness of the consequence.",
+    "summary_reasoning": "Low tone, somber, serious expression."
+  },
+  {
+    "timestamp": 39.581,
+    "emotion": "deadpan",
+    "detailed_reasoning": "The speaker delivers the term \"sugar cookie\" with a completely straight, serious face and a flat, factual tone. The stark contrast between the playful-sounding name and the brutal punishment it describes creates a moment of deadpan, dark humor, emphasizing the absurdity and harshness of the training environment.",
+    "summary_reasoning": "Contrasting language, flat tone, serious expression."
+  },
+  {
+    "timestamp": 48.253,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker's focus shifts to the psychological impact on the students who couldn't endure the training. His tone becomes more somber and pensive, and his pace slows slightly, reflecting on the human cost of such demanding standards. He is no longer just describing a process but its emotional and mental consequences.",
+    "summary_reasoning": "Slower pace, pensive tone, focus on failure."
+  },
+  {
+    "timestamp": 59.039,
+    "emotion": "conclusive",
+    "detailed_reasoning": "The speaker delivers the final line of his anecdote with a tone of finality and certainty. His voice is firm and his statement is direct, leaving no room for ambiguity. This serves as the concluding moral of the story, emphasizing the harsh reality that not everyone is suited for this level of training.",
+    "summary_reasoning": "Firm tone, direct statement, finality."
+  }
+]

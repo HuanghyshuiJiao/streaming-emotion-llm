@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 2.715,
+    "emotion": "sad",
+    "detailed_reasoning": "The video starts with a close-up on the subject's face. There is a visible tear track on his left cheek, and his eyes are watery. His facial expression is somber, with a downturned mouth. His vocal tone is low, slow, and shaky as he speaks the first line, indicating a state of sadness or grief from the very beginning.",
+    "summary_reasoning": "Tear on cheek, watery eyes, somber expression, shaky voice."
+  },
+  {
+    "timestamp": 13.071,
+    "emotion": "grief",
+    "detailed_reasoning": "The speaker is recalling a specific memory, describing a black and white picture of someone. His voice is very soft, almost a whisper, and filled with sorrow. He pauses for a long time after this sentence, looking down and away, which deepens the initial sadness into a more profound sense of grief and painful remembrance.",
+    "summary_reasoning": "Soft sorrowful voice, long pause, looking down."
+  },
+  {
+    "timestamp": 25.009,
+    "emotion": "melancholy",
+    "detailed_reasoning": "While describing the picture, his tone remains consistently low and mournful. He's lost in the memory, and the specific details he recalls suggest a deep sense of loss. The emotion isn't actively pained at this exact moment, but rather a settled, deep-seated melancholy as he reflects on the past.",
+    "summary_reasoning": "Low mournful tone, reflective state, describing a memory."
+  },
+  {
+    "timestamp": 40.649,
+    "emotion": "confused",
+    "detailed_reasoning": "The speaker introduces a conflicting detail about the memory, stating that the person in the picture looked 'suspicious' despite smiling. His brow furrows slightly, and his eyes shift as if trying to reconcile these two ideas. This adds a layer of confusion and unease on top of his underlying sadness.",
+    "summary_reasoning": "Conflicting description, furrowed brow, shifting eyes."
+  },
+  {
+    "timestamp": 49.467,
+    "emotion": "vulnerable",
+    "detailed_reasoning": "He breaks from the narrative to question why he is sharing this story. His voice remains low, but there's a sense of helplessness in his tone. He wipes under his eye, a clear sign of emotional distress and vulnerability. He seems to be overwhelmed by the act of remembering and sharing.",
+    "summary_reasoning": "Questions sharing, helpless tone, wipes eye."
+  },
+  {
+    "timestamp": 59.468,
+    "emotion": "despair",
+    "detailed_reasoning": "He repeats the phrase \"she was fine\" with a tone of finality and disbelief. His voice cracks slightly on the last word. His expression is one of utter devastation, as if confronting a painful, unchangeable reality. The repetition emphasizes his feeling of despair and the tragic nature of the memory.",
+    "summary_reasoning": "Repetitive phrase, cracking voice, devastated expression."
+  }
+]

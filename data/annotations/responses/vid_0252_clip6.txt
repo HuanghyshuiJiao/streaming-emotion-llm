@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 8.101,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker starts by explaining a medical condition. His tone is grave and his pace is deliberate. His facial expression is somber, with a slight downturn of the mouth, conveying the seriousness of the topic he is introducing to the audience.",
+    "summary_reasoning": "Grave tone, deliberate pace, somber expression."
+  },
+  {
+    "timestamp": 13.868,
+    "emotion": "concerned",
+    "detailed_reasoning": "The speaker is describing a personal health crisis where his body is attacking itself. The topic is inherently worrying. His vocal tone remains low and serious, but his eyebrows are slightly furrowed and his expression is one of deep concern, reflecting the gravity of the situation he is recounting.",
+    "summary_reasoning": "Worrying topic, furrowed brow, serious tone."
+  },
+  {
+    "timestamp": 22.097,
+    "emotion": "sad",
+    "detailed_reasoning": "He is recalling a moment of devastating news from his doctor. As he quotes her uncertain words, \"maybe not,\" his voice becomes softer and his facial expression turns to one of profound sadness and remembered pain. He looks down slightly, and his face clearly conveys the deep disappointment he felt.",
+    "summary_reasoning": "Softer voice, sad expression, recalling bad news."
+  },
+  {
+    "timestamp": 28.485,
+    "emotion": "pained",
+    "detailed_reasoning": "The speaker uses a powerful, painful metaphor (\"hit me in the head with a hammer\") to describe the emotional impact of the doctor's words. His voice gains a slight tremor and he delivers the line with a pained expression, emphasizing the remembered anguish and deep hurt he experienced.",
+    "summary_reasoning": "Painful metaphor, vocal tremor, pained expression."
+  },
+  {
+    "timestamp": 38.437,
+    "emotion": "dejected",
+    "detailed_reasoning": "He recounts a second instance of receiving a hopeless prognosis from his doctor, this time about playing his saxophone. The repetition of the negative outlook (\"Maybe not\") combined with his somber, downward-looking expression conveys a feeling of being utterly defeated and dejected.",
+    "summary_reasoning": "Recounting repeated bad news, somber expression, defeated tone."
+  },
+  {
+    "timestamp": 49.682,
+    "emotion": "disappointed",
+    "detailed_reasoning": "This marks the climax of his disappointment. He describes his failure to make a sound with his saxophone. His voice is low and quiet, his head is slightly bowed, and the pause that follows is heavy with the weight of that failure, expressing deep sadness and loss.",
+    "summary_reasoning": "Low quiet voice, head bowed, describing failure."
+  },
+  {
+    "timestamp": 55.134,
+    "emotion": "hopeful",
+    "detailed_reasoning": "This is the narrative's turning point. The speaker's language shifts to metaphors of stability and faith (\"the anchor of my soul\"). His vocal tone begins to rise from its previous low, sad state, and his posture straightens. This indicates a shift from despair towards newfound hope and reliance on his faith.",
+    "summary_reasoning": "Metaphor of hope, rising tone, straightening posture."
+  },
+  {
+    "timestamp": 57.679,
+    "emotion": "faithful",
+    "detailed_reasoning": "He explicitly names his source of strength, \"The Word of God,\" while physically lifting the Bible. This powerful and symbolic gesture, combined with a now strong, clear, and confident vocal tone, demonstrates a complete shift from despair to a state of profound faith and conviction.",
+    "summary_reasoning": "Strong voice, confident expression, lifting the Bible."
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "calm",
+    "detailed_reasoning": "The video starts with a graphic, and the speaker's voice is introduced. Her tone is very steady, measured, and has a gentle, even quality. She is introducing her topic with a metaphor in a calm, educational manner, establishing a composed and informative atmosphere from the outset.",
+    "summary_reasoning": "Steady and measured vocal tone."
+  },
+  {
+    "timestamp": 18.052,
+    "emotion": "positive",
+    "detailed_reasoning": "After speaking in a neutral, informative tone, the speaker's voice shifts subtly. When she says \"amazing hearing,\" her pitch rises slightly and her tone becomes warmer, emphasizing the positive aspect of the autistic trait she is describing. This indicates a deliberate shift to frame the characteristic in an appreciative and positive light.",
+    "summary_reasoning": "Warmer tone, vocal emphasis on \"amazing\"."
+  },
+  {
+    "timestamp": 27.608,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker uses the word \"But\" to pivot from the positive examples to the challenges. Her vocal tone immediately becomes more somber and her pace slows down slightly as she explains the struggle with processing sounds. This shift conveys the gravity of the difficulties faced, moving from a positive to a serious and slightly concerned tone.",
+    "summary_reasoning": "Transitional word \"But\", somber tone."
+  },
+  {
+    "timestamp": 31.841,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker transitions to a new topic, \"social communication.\" Her voice returns to the neutral, clear, and steady cadence she used at the beginning of the talk. This change marks a move back to a baseline educational tone, focusing on defining a concept without the emotional coloring of the previous examples.",
+    "summary_reasoning": "Neutral, clear tone, introducing a new topic."
+  },
+  {
+    "timestamp": 52.524,
+    "emotion": "illustrative",
+    "detailed_reasoning": "To explain the concept of taking things literally, the speaker's tone changes to embody the perspective she is describing. When she asks, \"because how can the human heart exist outside of the body,\" her voice takes on a genuinely questioning and slightly perplexed quality, with a rising inflection. This performative shift is used to illustrate the logical but literal thinking process, making the abstract concept more concrete for the audience.",
+    "summary_reasoning": "Questioning tone, rising inflection, performative delivery."
+  }
+]

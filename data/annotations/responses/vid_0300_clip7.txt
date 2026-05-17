@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 10.527,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker maintains a steady and composed tone of voice while reflecting on her monologue choice. Her facial expression is neutral, and her body language is relaxed, indicating a state of calmness as she explains her thought process.",
+    "summary_reasoning": "Steady voice, neutral expression, relaxed posture."
+  },
+  {
+    "timestamp": 17.517,
+    "emotion": "enthusiastic",
+    "detailed_reasoning": "The speaker's tone becomes more animated and her pitch slightly higher as she expresses her interest in the play. She also smiles subtly and her eyes widen, suggesting a genuine enthusiasm for the material she is discussing.",
+    "summary_reasoning": "Animated tone, higher pitch, slight smile."
+  },
+  {
+    "timestamp": 28.345,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker's tone shifts to a more direct and informative one as she recommends the play to the viewers. Her hand gestures become more purposeful, and her facial expression is open and engaging, indicating her intention to share valuable information.",
+    "summary_reasoning": "Direct tone, purposeful gestures, open expression."
+  },
+  {
+    "timestamp": 36.538,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker's pace slows down, and her tone becomes more introspective as she reflects on her past monologue choices. She looks slightly away from the camera, as if searching her memory, which suggests a thoughtful and reflective state of mind.",
+    "summary_reasoning": "Slower pace, introspective tone, diverted gaze."
+  },
+  {
+    "timestamp": 47.074,
+    "emotion": "content",
+    "detailed_reasoning": "A gentle smile appears on the speaker's face, and her tone becomes warmer as she talks about learning from her experiences. This shift indicates a sense of contentment and self-acceptance regarding her journey and the lessons learned.",
+    "summary_reasoning": "Gentle smile, warm tone."
+  },
+  {
+    "timestamp": 55.506,
+    "emotion": "positive",
+    "detailed_reasoning": "The speaker's voice becomes more upbeat and encouraging as she concludes her thoughts. Her facial expression is bright, and she uses open hand gestures, conveying a positive and optimistic outlook on the process of choosing and working on creative projects.",
+    "summary_reasoning": "Upbeat voice, bright expression, open gestures."
+  }
+]

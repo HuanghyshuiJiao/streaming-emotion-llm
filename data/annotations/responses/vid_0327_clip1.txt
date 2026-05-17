@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1.673,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker begins with a soft, pleading tone. Her facial expression is downcast, with her eyes looking away and eyebrows slightly furrowed, indicating a sense of sadness and feeling unheard.",
+    "summary_reasoning": "Soft tone, downcast expression."
+  },
+  {
+    "timestamp": 8.3,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker's voice gains a slight edge of frustration and desperation. She says she is tired of 'always trying so hard,' and her face shows more tension, expressing her exhaustion with the situation.",
+    "summary_reasoning": "Desperate tone, facial tension."
+  },
+  {
+    "timestamp": 16.589,
+    "emotion": "hurt",
+    "detailed_reasoning": "Her tone becomes more accusatory and pained as she says, 'You're never satisfied.' Her eyes begin to water, and her expression clearly communicates a feeling of being hurt and unappreciated.",
+    "summary_reasoning": "Pained tone, teary eyes."
+  },
+  {
+    "timestamp": 23.617,
+    "emotion": "desperate",
+    "detailed_reasoning": "The statement 'you never once told me you're proud of me' is delivered with a voice that is on the verge of breaking. Her expression is one of deep sadness and desperation for approval, highlighting her emotional pain.",
+    "summary_reasoning": "Voice breaking, deep sadness in expression."
+  },
+  {
+    "timestamp": 26.26,
+    "emotion": "angry",
+    "detailed_reasoning": "There is a sharp shift in emotion. Her voice becomes louder and more forceful as she interrupts, saying 'No, stop. Let me speak.' This sudden assertiveness, combined with the direct command, signals a burst of anger and frustration.",
+    "summary_reasoning": "Loud, forceful tone, assertive words."
+  },
+  {
+    "timestamp": 34.031,
+    "emotion": "overwhelmed",
+    "detailed_reasoning": "After her outburst, her energy deflates. Her voice returns to a softer, more defeated tone as she repeats 'I'm tired of everything.' Her slumped posture and sad expression suggest she feels completely overwhelmed.",
+    "summary_reasoning": "Defeated tone, slumped posture."
+  },
+  {
+    "timestamp": 41.884,
+    "emotion": "pained",
+    "detailed_reasoning": "The speaker's voice becomes very soft and vulnerable as she describes a 'hole in my heart.' She places her hand over her chest, a physical manifestation of her emotional pain and deep-seated hurt.",
+    "summary_reasoning": "Vulnerable tone, hand on chest."
+  },
+  {
+    "timestamp": 52.462,
+    "emotion": "resigned",
+    "detailed_reasoning": "Her tone shifts to one of bitter realization and resignation. As she concludes that the other person will 'never be proud,' her expression becomes flat and her voice loses its pleading quality, suggesting a painful acceptance of her situation.",
+    "summary_reasoning": "Bitter tone, flat expression."
+  },
+  {
+    "timestamp": 59.974,
+    "emotion": "suffocated",
+    "detailed_reasoning": "In the final line, her voice is strained and quiet, conveying a sense of being trapped. The words 'not letting me breathe' are matched by a look of despair, as if she is being crushed by the weight of expectations.",
+    "summary_reasoning": "Strained voice, despairing look."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 2.836,
+    "emotion": "performative",
+    "detailed_reasoning": "The speaker begins with a steady, rhythmic, and slightly theatrical tone. His facial expression is neutral but focused. He is clearly in a performance mode, setting up a spoken word piece. The listing of disorders is delivered in a sing-song manner, suggesting a planned, artistic delivery rather than a simple statement.",
+    "summary_reasoning": "Rhythmic tone, theatrical delivery."
+  },
+  {
+    "timestamp": 18.586,
+    "emotion": "playful",
+    "detailed_reasoning": "After the rapid, alphabetical delivery of disorders, the speaker's tone shifts completely. He says, \"Oh my God, I'm doing it again,\" with a lighter, almost amused inflection. This is immediately followed by a genuine smile and a chuckle as he says \"that was so fun,\" breaking the serious facade and revealing the playful nature of the opening.",
+    "summary_reasoning": "Amused tone, smile, chuckle."
+  },
+  {
+    "timestamp": 27.819,
+    "emotion": "anxious",
+    "detailed_reasoning": "The tone shifts dramatically from playful to serious and troubled. The speaker's pace quickens, and he repeats the phrase \"Am I disabled?\" with increasing intensity and a higher pitch. His facial expression becomes more tense, and his eyes widen slightly, conveying a sense of anxiety and internal conflict as he grapples with the label.",
+    "summary_reasoning": "Fast pace, repetitive questioning, tense face."
+  },
+  {
+    "timestamp": 36.928,
+    "emotion": "pleased",
+    "detailed_reasoning": "After delivering a clever rhyme that gets a strong, positive reaction from the audience, the speaker breaks character for a moment. He looks down and to the side with a wide, genuine smile, clearly pleased and slightly bashful about the audience's applause and laughter. This indicates a moment of positive self-satisfaction as a performer.",
+    "summary_reasoning": "Smiling, breaking character, reacting to audience."
+  },
+  {
+    "timestamp": 44.396,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "The speaker questions whether he's bipolar or just funny because others are laughing. His tone becomes pointedly mocking as he says \"ha ha ha, hilarious.\" The laughter is forced and his expression is a sarcastic smirk, indicating that he finds no real humor in the situation and is using sarcasm to critique those who laugh at his expense.",
+    "summary_reasoning": "Forced laugh, sarcastic tone, smirk."
+  },
+  {
+    "timestamp": 50.102,
+    "emotion": "somber",
+    "detailed_reasoning": "Following the sarcastic moment, the mood shifts abruptly to a serious and painful memory. He says, \"Laughing because mom was in the hospital and I forgot to take my medicine.\" His voice drops, his pace slows, and his facial expression becomes serious and pained, losing all traces of humor or sarcasm. This introduces a somber and vulnerable tone to the performance.",
+    "summary_reasoning": "Lowered voice, slower pace, serious expression."
+  }
+]

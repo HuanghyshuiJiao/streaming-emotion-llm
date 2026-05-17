@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 1.493,
+    "emotion": "nervous",
+    "detailed_reasoning": "The speaker begins by explicitly stating he was \"worried.\" His tone is slightly hesitant and his gaze is directed downwards towards his notes, not at the camera. His facial expression is neutral but shows a slight tension, which combined with the text, indicates a state of nervousness or concern as he begins his story.",
+    "summary_reasoning": "States \"worried\", hesitant tone, looks down."
+  },
+  {
+    "timestamp": 14.688,
+    "emotion": "anxious",
+    "detailed_reasoning": "The speaker continues his thought with long pauses, looking down at his notes as if trying to recall the exact wording or feeling of the moment he's describing. The content about \"licking too many pencils\" is unusual, contributing to a sense of recalling an awkward or anxious memory. His tone remains flat and slightly strained, consistent with recounting an anxious experience.",
+    "summary_reasoning": "Long pauses, looks down, flat tone, anxious memory."
+  },
+  {
+    "timestamp": 26.682,
+    "emotion": "intrigued",
+    "detailed_reasoning": "After a long pause where he is focused on his notes, he looks up at the camera. His tone of voice shifts significantly when he says \"But then I heard her voice.\" The word \"But\" signals a change in the narrative. His tone becomes softer and more engaging, and his facial expression loses some of the previous tension, marking a transition from recalling internal anxiety to focusing on an external, intriguing event.",
+    "summary_reasoning": "Looks up, tone softens, face relaxes, narrative shift."
+  },
+  {
+    "timestamp": 32.701,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker is now narrating the story of another character. His tone becomes gentle and empathetic as he describes the character's misfortune (\"fallen and couldn't get back home\"). His facial expression is soft and shows concern, reflecting the sad nature of what he is recounting. The focus is entirely on the character's difficult situation.",
+    "summary_reasoning": "Empathetic tone, concerned expression, sad story."
+  },
+  {
+    "timestamp": 45.754,
+    "emotion": "curious",
+    "detailed_reasoning": "After describing the character's injuries, he pauses and then asks a direct question from his own perspective within the story: \"are you an angel?\" His vocal tone shifts from a sad, narrative quality to one of direct, innocent inquiry. His eyes look up slightly, conveying a sense of wonder and curiosity about this new character.",
+    "summary_reasoning": "Tone shifts to inquiry, upward gaze, expresses wonder."
+  },
+  {
+    "timestamp": 50.947,
+    "emotion": "gentle",
+    "detailed_reasoning": "He explains his reaction within the story. His tone is soft and matter-of-fact as he says he \"told her she could stay.\" This statement, combined with his calm and pleasant facial expression, conveys a sense of gentleness and acceptance towards the angel character. He is offering comfort and safety.",
+    "summary_reasoning": "Soft tone, pleasant expression, offering comfort."
+  },
+  {
+    "timestamp": 57.283,
+    "emotion": "hopeful",
+    "detailed_reasoning": "The speaker reveals his personal motivation for asking the angel to stay, mentioning his loneliness (\"I don't have many people here\"). However, his tone lifts and his expression brightens when he says \"she could hang out with me.\" This shift indicates a feeling of hope and happy anticipation at the prospect of having a new friend.",
+    "summary_reasoning": "Tone lifts, expression brightens, anticipates friendship."
+  },
+  {
+    "timestamp": 59.468,
+    "emotion": "happy",
+    "detailed_reasoning": "The story reaches its positive conclusion with the line \"And she said yes.\" The speaker delivers this with a small, genuine smile and a soft, content tone. His facial expression is relaxed and pleased, clearly indicating happiness at the outcome of his story.",
+    "summary_reasoning": "Gentle smile, content tone, positive conclusion."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 5.997,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins with a serious topic about one's lifelong career. Her tone is very measured and even, and her facial expression is neutral and focused. This combination of verbal and non-verbal cues indicates a calm and serious demeanor as she introduces her point.",
+    "summary_reasoning": "Measured tone, neutral expression, serious topic."
+  },
+  {
+    "timestamp": 16.367,
+    "emotion": "earnest",
+    "detailed_reasoning": "The speaker is listing the significant investments (time, money, effort) required for a career. Her tone becomes more emphatic and deliberate to stress the importance of these sacrifices. Her focused eye contact and serious expression reinforce the gravity of her message, conveying an earnest and persuasive mood.",
+    "summary_reasoning": "Emphatic tone, deliberate pace, serious expression."
+  },
+  {
+    "timestamp": 22.993,
+    "emotion": "reassuring",
+    "detailed_reasoning": "After highlighting the challenges, the speaker offers a solution. Her tone becomes confident and helpful. She nods while saying 'it definitely does,' which reinforces her point and provides reassurance to the viewer. Her expression also softens slightly, making her advice seem more approachable.",
+    "summary_reasoning": "Confident tone, head nod, softened expression."
+  },
+  {
+    "timestamp": 34.971,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker signals a shift in topic with 'Now lastly.' She brings her hands together and pauses, adopting a more contemplative posture. Her tone is thoughtful as she introduces a more complex idea about receiving advice from others. This combination of cues suggests she is in a reflective mood, preparing to share a personal insight.",
+    "summary_reasoning": "Contemplative posture, thoughtful tone, pause."
+  },
+  {
+    "timestamp": 51.112,
+    "emotion": "pragmatic",
+    "detailed_reasoning": "The speaker is giving cautionary advice about how to interpret others' opinions. Her tone is very balanced and rational, and her delivery is steady. She explains that everyone has negatives to share and that one must be objective. This logical and realistic approach suggests a pragmatic and advisory emotion.",
+    "summary_reasoning": "Balanced tone, rational content, steady delivery."
+  },
+  {
+    "timestamp": 58.168,
+    "emotion": "cautionary",
+    "detailed_reasoning": "To illustrate her point, the speaker gives a specific example of what a doctor might say. She slightly alters her tone to mimic a discouraging voice, emphasizing the words 'too long' and 'too hard.' This role-playing serves to caution the viewer about the kind of negative feedback they might encounter, reinforcing her earlier pragmatic advice.",
+    "summary_reasoning": "Illustrative tone, cautionary example, emphasized negative words."
+  }
+]

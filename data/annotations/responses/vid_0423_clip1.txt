@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": 4.54,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker introduces himself with a steady and composed tone of voice. His facial expression is neutral and his body language is relaxed, with gentle, controlled hand gestures. This combination of cues indicates a calm and professional demeanor as he begins his explanation.",
+    "summary_reasoning": "Steady tone, neutral expression, relaxed posture."
+  },
+  {
+    "timestamp": 16.944,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker transitions into the main explanation. His tone becomes more narrative and engaging as he explains the origin of the term 'keynote.' He uses more deliberate hand gestures to illustrate the concept, and his facial expression shows focus, indicating a shift from a simple introduction to an informative and educational mode.",
+    "summary_reasoning": "Narrative tone, deliberate gestures, focused expression."
+  },
+  {
+    "timestamp": 30.67,
+    "emotion": "confident",
+    "detailed_reasoning": "After explaining the musical origin, the speaker says 'Therefore' and directly applies the analogy to public speaking. His tone becomes more assertive and definitive, and his pace slows for emphasis. His direct eye contact and clear, declarative statements project a strong sense of confidence in the definition he is providing.",
+    "summary_reasoning": "Assertive tone, direct eye contact, definitive statements."
+  },
+  {
+    "timestamp": 45.829,
+    "emotion": "authoritative",
+    "detailed_reasoning": "Building on his definition, the speaker states, 'you cannot have a keynote speech in the middle of an event.' His tone becomes firm and unequivocal, and he uses a subtle head shake to emphasize the negative. This strong, rule-based statement, combined with a serious expression, conveys a sense of authority on the subject.",
+    "summary_reasoning": "Firm tone, unequivocal language, serious expression."
+  }
+]

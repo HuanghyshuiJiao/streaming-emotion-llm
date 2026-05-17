@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "sentimental",
+    "detailed_reasoning": "The speaker begins by singing in a soft, melodic, and slightly melancholic tone. His eyes are looking upwards and his hands are clasped, suggesting a reflective and emotional state. The lyrics, 'Love is this feeling my heart gets when I'm being held close by you,' reinforce this sentimental and tender mood.",
+    "summary_reasoning": "Singing, soft tone, reflective posture, sentimental lyrics."
+  },
+  {
+    "timestamp": 11.152,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker transitions from singing to speaking. His tone becomes narrative and conversational, and his facial expression is neutral as he begins to tell a story. This marks a shift from a performative, emotional state to a more composed, storytelling mode.",
+    "summary_reasoning": "Stops singing, conversational tone, neutral expression."
+  },
+  {
+    "timestamp": 17.519,
+    "emotion": "happy",
+    "detailed_reasoning": "When mentioning the character is 'getting married,' the speaker's tone becomes lighter and more cheerful. A subtle smile appears, and his hand gestures are gentle and expressive, conveying positive and happy feelings associated with the event in his story.",
+    "summary_reasoning": "Lighter tone, subtle smile, positive content."
+  },
+  {
+    "timestamp": 27.49,
+    "emotion": "wistful",
+    "detailed_reasoning": "As the speaker describes the character 'waves goodbye to this time in her life,' his tone becomes softer and more poignant, and he performs a slow waving gesture. This combination of words and delivery evokes a bittersweet feeling of nostalgia and fondness for a passing moment.",
+    "summary_reasoning": "Softer tone, slow wave gesture, bittersweet content."
+  },
+  {
+    "timestamp": 34.157,
+    "emotion": "tender",
+    "detailed_reasoning": "Describing how loved ones 'each take a moment to hold her,' the speaker's voice softens significantly, becoming very gentle and filled with warmth. He physically enacts a hug by holding his own arm, which visually and audibly communicates a deep sense of tenderness and affection.",
+    "summary_reasoning": "Soft voice, warm tone, hugging gesture."
+  },
+  {
+    "timestamp": 44.805,
+    "emotion": "somber",
+    "detailed_reasoning": "The mood shifts dramatically as the speaker says, 'In a world that seems to keep getting colder.' His tone becomes lower and more serious, his facial expression turns grave, and his arms spread wide in a gesture of emphasis. This contrast creates a somber and serious atmosphere.",
+    "summary_reasoning": "Lower tone, serious expression, contrasting negative content."
+  },
+  {
+    "timestamp": 49.883,
+    "emotion": "grateful",
+    "detailed_reasoning": "Immediately following the somber line, the speaker's tone lifts and becomes warm again as he says, 'she has been blessed with a warm family and friends.' His facial expression softens into a smile and his arms open wide, conveying a strong sense of relief, warmth, and gratitude.",
+    "summary_reasoning": "Lifted tone, smile, open arm gesture, positive contrast."
+  },
+  {
+    "timestamp": 55.966,
+    "emotion": "serene",
+    "detailed_reasoning": "Concluding the narrative, the speaker's voice is calm and final. He brings his hands together in a gentle, prayer-like gesture, and his expression is peaceful. This conveys the character's sense of certainty and inner peace, leaving the audience in a serene state.",
+    "summary_reasoning": "Calm voice, finality, peaceful expression."
+  }
+]

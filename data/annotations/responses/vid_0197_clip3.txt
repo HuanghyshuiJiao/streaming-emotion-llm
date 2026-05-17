@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 3.494,
+    "emotion": "angry",
+    "detailed_reasoning": "The speaker's voice is loud, high-pitched, and forceful, delivering a command. Visually, their facial expression is tense, with wide eyes and an open mouth, and they are pointing assertively. This combination of vocal and visual cues strongly conveys anger.",
+    "summary_reasoning": "Loud forceful voice, tense face, pointing."
+  },
+  {
+    "timestamp": 7.297,
+    "emotion": "calm",
+    "detailed_reasoning": "There is a distinct shift from the previous angry tone. The speaker's voice becomes much softer, slower, and adopts a narrative quality. Their facial expression relaxes, and they look down, transitioning from portraying a character to telling a story. This indicates a shift to a calm, narrative mood.",
+    "summary_reasoning": "Soft slow voice, relaxed face, narrative tone."
+  },
+  {
+    "timestamp": 12.742,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker's voice remains calm but takes on a more contemplative tone. Visually, they close their eyes and bow their head slightly, with hands clasped, suggesting a state of reflection or seriousness, aligning with the character in the story who is thinking about his son's request.",
+    "summary_reasoning": "Contemplative tone, closed eyes, bowed head."
+  },
+  {
+    "timestamp": 24.091,
+    "emotion": "gentle",
+    "detailed_reasoning": "The speaker begins to portray the father character. They mimic knocking on a door and their voice becomes significantly softer and lower-pitched, as if speaking to a sleeping child. The facial expression is soft and questioning, conveying a gentle and caring emotion.",
+    "summary_reasoning": "Soft low-pitched voice, gentle facial expression, miming knocking."
+  },
+  {
+    "timestamp": 35.553,
+    "emotion": "regretful",
+    "detailed_reasoning": "Continuing as the father, the speaker's tone is apologetic and their pace is slow. The words \"I was too hard on you\" express remorse. Visually, their facial expression is somber, with slightly furrowed brows, indicating a feeling of regret for their earlier anger.",
+    "summary_reasoning": "Apologetic tone, slow pace, somber expression."
+  },
+  {
+    "timestamp": 41.166,
+    "emotion": "kind",
+    "detailed_reasoning": "The speaker's tone becomes warm and giving as they say \"Here's the terry gate.\" They extend a hand as if offering something, and their facial expression softens into a gentle smile. This combination of voice, gesture, and expression conveys kindness and reconciliation.",
+    "summary_reasoning": "Warm tone, offering gesture, gentle smile."
+  },
+  {
+    "timestamp": 45.236,
+    "emotion": "joyful",
+    "detailed_reasoning": "The speaker's demeanor shifts dramatically to portray the boy's reaction. Their voice becomes high-pitched and excited, and their face breaks into a wide, beaming smile. The narration says the boy \"smiled and yelled,\" and the performance perfectly captures this outburst of joy.",
+    "summary_reasoning": "High-pitched excited voice, wide smile."
+  },
+  {
+    "timestamp": 48.463,
+    "emotion": "grateful",
+    "detailed_reasoning": "The speaker's voice is filled with happiness and relief while saying \"thank you, dad.\" Their smile continues, and they perform a small, affectionate gesture. The explicit words of gratitude combined with the joyful expression clearly show this emotion.",
+    "summary_reasoning": "Happy relieved voice, smiling, thankful words."
+  },
+  {
+    "timestamp": 53.375,
+    "emotion": "excited",
+    "detailed_reasoning": "The speaker transitions back to narration but maintains an energetic and slightly breathless pace. They use their hands to mime the action of pulling out bills from under a pillow. This quick, purposeful action, following a moment of joy, conveys the boy's excitement.",
+    "summary_reasoning": "Energetic pace, miming actions, breathless tone."
+  }
+]

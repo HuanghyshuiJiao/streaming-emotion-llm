@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 4.405,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker's tone becomes lighthearted as she reflects on the previous statement. She breaks into a wide smile and lets out a small laugh while saying 'I mean,' which prompts laughter from the audience. This indicates she finds the quoted dilemma humorous and is sharing that amusement with the audience.",
+    "summary_reasoning": "Smiling, lighthearted tone, audience laughter."
+  },
+  {
+    "timestamp": 9.447,
+    "emotion": "inquisitive",
+    "detailed_reasoning": "The speaker's emotion shifts from amusement to curiosity. Her facial expression becomes more serious and focused, her eyebrows raise, and she tilts her head as she poses a rhetorical question to the audience. Her tone is questioning and earnest, aiming to make the audience think.",
+    "summary_reasoning": "Serious expression, raised eyebrows, questioning tone."
+  },
+  {
+    "timestamp": 14.131,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker transitions into an explanatory mode. Her tone becomes more somber and deliberate, and her facial expression is neutral and serious as she introduces the concept of 'loss' associated with change. This marks a shift to a more thoughtful and grave part of her talk.",
+    "summary_reasoning": "Somber tone, deliberate speech, serious expression."
+  },
+  {
+    "timestamp": 29.565,
+    "emotion": "playful",
+    "detailed_reasoning": "The speaker's emotion changes to playful as she begins to act out a common, recurring argument. She adopts a conversational, slightly nagging tone for the first line, then a defensive one for the second, using mimicry and a more animated facial expression to create a humorous and relatable scenario.",
+    "summary_reasoning": "Mimicking voices, animated expression, humorous tone."
+  },
+  {
+    "timestamp": 33.989,
+    "emotion": "comforted",
+    "detailed_reasoning": "After the playful enactment, the speaker's tone becomes softer and more reflective. She uses the phrase 'oddly comforting' and her facial expression shows a gentle, knowing smile. This conveys a sense of the strange comfort found in predictability, even when it's negative.",
+    "summary_reasoning": "Soft tone, gentle smile, reflective words."
+  },
+  {
+    "timestamp": 41.26,
+    "emotion": "apprehensive",
+    "detailed_reasoning": "The speaker's emotion shifts to apprehension as she describes venturing into the 'unknown.' Her tone becomes more dramatic and slightly tense, her eyes widen, and her speech slows for emphasis. This builds a feeling of suspense and fear related to facing a 'blank page.'",
+    "summary_reasoning": "Tense tone, widened eyes, slower speech."
+  },
+  {
+    "timestamp": 50.172,
+    "emotion": "optimistic",
+    "detailed_reasoning": "The speaker's emotion makes a clear turn towards optimism. She begins with 'But here's the thing,' signaling a change in direction. Her tone becomes brighter and more encouraging, her facial expression opens up, and she smiles, conveying a sense of hope and reassurance that the difficulty can be overcome.",
+    "summary_reasoning": "Bright tone, smiling, encouraging words."
+  }
+]

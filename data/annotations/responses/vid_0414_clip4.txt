@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 5.299,
+    "emotion": "grief",
+    "detailed_reasoning": "The speaker begins with a sorrowful facial expression, watery eyes, and a slow, soft vocal tone. The words 'I wish I somehow knew how deep he would fall off in his belief' convey a deep sense of regret and sadness about a past event, setting a tone of grief and loss from the very beginning.",
+    "summary_reasoning": "Sorrowful face, watery eyes, soft tone, regretful words."
+  },
+  {
+    "timestamp": 14.413,
+    "emotion": "grief",
+    "detailed_reasoning": "The speaker explicitly states, 'I will miss him very much.' This direct expression of loss, combined with his consistently pained and sorrowful facial expression and sad vocal tone, strongly indicates a feeling of grief. His eyes remain watery and his face shows emotional pain.",
+    "summary_reasoning": "Explicitly states 'miss him', pained expression, sad tone."
+  },
+  {
+    "timestamp": 18.88,
+    "emotion": "grief",
+    "detailed_reasoning": "He refers to the person as a 'dear friend' and a 'talented artist'. The combination of endearing terms with the established sad context reinforces the depth of his personal loss and grief. His facial expression remains consistently sad and mournful.",
+    "summary_reasoning": "Endearing words, sad context, mournful expression."
+  },
+  {
+    "timestamp": 22.165,
+    "emotion": "grief",
+    "detailed_reasoning": "The speaker's emotion intensifies as he says the world has been 'robbed of his contribution'. The strong word 'robbed' implies a tragic and unjust loss. His expression of sorrow deepens, showing the pain of what he perceives as a great loss to humanity, which is a hallmark of profound grief.",
+    "summary_reasoning": "Intensified sadness, strong negative words ('robbed'), pained expression."
+  },
+  {
+    "timestamp": 31.03,
+    "emotion": "pain",
+    "detailed_reasoning": "Following a long, emotional pause, the speaker simply says, 'It hurts.' This is a direct and raw expression of emotional pain. His facial expression is contorted with sadness, and the vocal delivery is strained, clearly communicating his suffering and deepening the overall feeling of grief.",
+    "summary_reasoning": "Explicitly states 'It hurts', pained expression, strained voice."
+  },
+  {
+    "timestamp": 37.13,
+    "emotion": "sadness",
+    "detailed_reasoning": "After another pause, he explicitly labels his emotion by saying, 'It's sad.' This direct confirmation, delivered with a voice heavy with sorrow and a deeply pained facial expression, summarizes his emotional state. He looks utterly dejected.",
+    "summary_reasoning": "Explicitly states 'It's sad', sorrowful voice, pained expression."
+  },
+  {
+    "timestamp": 39.606,
+    "emotion": "despair",
+    "detailed_reasoning": "The speaker concludes with the phrase, 'It didn't have to happen this way.' This statement introduces a feeling of helplessness and tragic finality. The emotion shifts from pure sadness to a sense of despair over an avoidable tragedy, reflected in his look of utter resignation and sorrow.",
+    "summary_reasoning": "Words of helplessness, resigned expression, finality in tone."
+  }
+]

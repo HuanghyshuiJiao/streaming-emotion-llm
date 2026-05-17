@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 2.275,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins his performance by listing people in his life. His tone is rhythmic and performative, but his facial expression is very serious and focused. His eyebrows are slightly furrowed, and he maintains direct eye contact, establishing a serious and determined mood from the outset.",
+    "summary_reasoning": "Serious facial expression, rhythmic tone, focused gaze."
+  },
+  {
+    "timestamp": 8.906,
+    "emotion": "somber",
+    "detailed_reasoning": "After stating he became a \"statistic,\" his pace slows down significantly. The tone of his voice drops, becoming more grave and somber, reflecting the weight and negative connotation of the word. His expression remains serious, conveying the gravity of this personal revelation.",
+    "summary_reasoning": "Slower pace, lower tone, serious expression."
+  },
+  {
+    "timestamp": 12.332,
+    "emotion": "impassioned",
+    "detailed_reasoning": "The speaker's delivery of the statistic \"one in every four boys\" is marked by an increase in volume and a more forceful, rhythmic cadence. He uses a hand gesture for emphasis. This shift indicates he is moving from personal reflection to a more impassioned presentation of a wider societal issue.",
+    "summary_reasoning": "Louder volume, forceful tone, hand gesture."
+  },
+  {
+    "timestamp": 21.508,
+    "emotion": "indignant",
+    "detailed_reasoning": "When mentioning that the medicine is classified with \"cocaine and meth,\" his tone becomes sharp and critical. His eyes widen slightly as he delivers the line, expressing shock and indignation at the comparison. The delivery is designed to provoke a strong reaction from the audience.",
+    "summary_reasoning": "Sharp tone, wide eyes, critical words."
+  },
+  {
+    "timestamp": 27.996,
+    "emotion": "urgent",
+    "detailed_reasoning": "The speaker's pace accelerates as he lists more statistics about children on \"mind-altering drugs.\" His voice is loud and forceful, creating a sense of urgency. He is rapidly presenting evidence to highlight the scale and severity of the problem, making the tone feel more frantic and urgent.",
+    "summary_reasoning": "Fast pace, loud and forceful voice."
+  },
+  {
+    "timestamp": 32.045,
+    "emotion": "alarmed",
+    "detailed_reasoning": "His voice takes on a more concerned and alarmed quality when he states that antidepressants are \"linked to thoughts of death.\" The delivery is deliberate and heavy, emphasizing the life-threatening consequences he is describing. His serious expression underscores this sense of alarm.",
+    "summary_reasoning": "Concerned tone, deliberate pace, serious expression."
+  },
+  {
+    "timestamp": 40.783,
+    "emotion": "frustrated",
+    "detailed_reasoning": "While delivering another statistic about misdiagnosed boys, his voice rises in pitch and intensity. The repetition of the word \"medication\" three times is delivered with increasing frustration, as if exasperated by the situation he is describing. His facial expression is tense, showing his frustration with the overuse of medication.",
+    "summary_reasoning": "Rising pitch, repetitive and forceful words, tense expression."
+  },
+  {
+    "timestamp": 45.012,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker abruptly breaks character and shifts his tone completely. He asks, \"Are we there yet?\" with a smile and a light, conversational tone. This is a clear attempt at humor, breaking the tension of his serious topic and showing amusement as he references a well-known movie.",
+    "summary_reasoning": "Sudden smile, light tone, humorous reference."
+  },
+  {
+    "timestamp": 51.345,
+    "emotion": "focused",
+    "detailed_reasoning": "After the humorous aside, the speaker's expression becomes more neutral, and he explicitly tells himself to \"Stay on task.\" His tone is self-correcting and firm. This marks a conscious effort to refocus his attention and return to the serious subject matter of his speech.",
+    "summary_reasoning": "Self-correcting tone, neutral expression, direct statement."
+  }
+]

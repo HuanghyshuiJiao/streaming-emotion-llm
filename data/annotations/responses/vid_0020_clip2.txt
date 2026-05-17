@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 1.233,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker begins her monologue with the words 'bitterness of absence.' Her tone is somber and her facial expression is pained, with slightly furrowed brows and a downturned mouth, clearly establishing a sad and melancholic mood from the start.",
+    "summary_reasoning": "Sad words, somber tone, pained face."
+  },
+  {
+    "timestamp": 9.165,
+    "emotion": "anxious",
+    "detailed_reasoning": "The introduction of the phrase 'jealous thought' shifts the emotion from pure sadness to anxiety. Her voice takes on a more questioning and worried quality, and her eyes widen as she looks from side to side, suggesting internal turmoil and suspicion.",
+    "summary_reasoning": "Word \"jealous,\" worried tone, wide eyes."
+  },
+  {
+    "timestamp": 17.257,
+    "emotion": "dejected",
+    "detailed_reasoning": "The speaker describes herself as a 'sad slave.' Her vocal energy drops, her tone becomes one of resignation, and her posture slightly slumps. This conveys a feeling of hopelessness and submission to her fate.",
+    "summary_reasoning": "Word \"slave,\" resigned tone, slumping posture."
+  },
+  {
+    "timestamp": 30.619,
+    "emotion": "bitter",
+    "detailed_reasoning": "The line 'So true a fool is love' marks a change in tone to one of bitter self-realization. Her expression hardens, and she delivers the line with a cynical edge, reflecting on the foolishness of her devotion.",
+    "summary_reasoning": "Cynical words, bitter tone, hardened face."
+  },
+  {
+    "timestamp": 47.675,
+    "emotion": "defiant",
+    "detailed_reasoning": "There is a sudden and dramatic shift in the performance. The character is now responding to a direct, audible threat. Her voice becomes loud, sharp, and commanding ('Sir, spare your threats'). Her body tenses, and she takes a step forward, displaying clear defiance and anger.",
+    "summary_reasoning": "Sudden loud voice, sharp tone, tense posture."
+  },
+  {
+    "timestamp": 53.48,
+    "emotion": "desperate",
+    "detailed_reasoning": "Her defiance transitions into desperation. She declares she seeks the very thing she is being threatened with ('The bog which you would fright me with I seek'). Her voice remains strong but is now laced with a sense of finality and utter hopelessness, as she states that life has no value to her.",
+    "summary_reasoning": "Resolved tone, hopeless words, finality."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 1.273,
+    "emotion": "contemptuous",
+    "detailed_reasoning": "The speaker starts with a rhetorical question, delivered with a condescending tone and a slight sneer in her facial expression. Her words, \"You thought you were gonna be hot shit, didn't you?\" are clearly meant to belittle the person she is speaking to, indicating a feeling of contempt.",
+    "summary_reasoning": "Condescending tone, belittling words, slight sneer."
+  },
+  {
+    "timestamp": 4.837,
+    "emotion": "disappointed",
+    "detailed_reasoning": "After the other person's confused reply, her tone shifts slightly from pure contempt to one of disappointment. Her eyes are wide and her head is slightly tilted as she says, \"You thought that you were gonna be somebody.\" It sounds less like an attack and more like a lamentation of his failed potential, indicating disappointment.",
+    "summary_reasoning": "Lamenting tone, wide eyes, critical words."
+  },
+  {
+    "timestamp": 14.35,
+    "emotion": "scornful",
+    "detailed_reasoning": "The speaker's delivery becomes slow and deliberate. She says, \"Overreaching without ambition,\" as if delivering a clinical, damning diagnosis. Her expression is hard and her tone is filled with scorn, showing a deep lack of respect for the other person's character.",
+    "summary_reasoning": "Slow deliberate speech, hard expression, scornful tone."
+  },
+  {
+    "timestamp": 28.249,
+    "emotion": "angry",
+    "detailed_reasoning": "The emotion intensifies here. Her voice becomes sharper and more forceful as she explains her previous statement. The line \"It means you weren't brave enough to be better\" is delivered with a clear edge of anger in her voice, and her facial expression is stern and unforgiving.",
+    "summary_reasoning": "Sharp tone, forceful voice, stern expression."
+  },
+  {
+    "timestamp": 33.316,
+    "emotion": "disgusted",
+    "detailed_reasoning": "The intensity continues to build. The choice of words, \"deliberately impotent,\" is harsh and designed to wound. Her lip curls slightly in disgust as she speaks, and her tone is laced with revulsion, clearly showing she is disgusted by his perceived weakness.",
+    "summary_reasoning": "Harsh words, disgusted facial expression, revolted tone."
+  },
+  {
+    "timestamp": 43.407,
+    "emotion": "contemptuous",
+    "detailed_reasoning": "She pauses for a long time, holding his gaze, before delivering the final blow of her assessment. She says his full name and then labels him \"mediocre.\" The delivery is slow, quiet, and filled with utter contempt, as if this is the worst possible thing she could call him.",
+    "summary_reasoning": "Long pause, direct gaze, quiet and contemptuous tone."
+  },
+  {
+    "timestamp": 53.459,
+    "emotion": "furious",
+    "detailed_reasoning": "Her demeanor shifts from cold contempt to hot rage. After asking, \"You want to fail me?\" her voice becomes a low, threatening growl as she says, \"I fucking dare you.\" Her eyes are narrowed and her entire body language is confrontational and aggressive, indicating she is now furious.",
+    "summary_reasoning": "Low threatening tone, narrowed eyes, aggressive body language."
+  },
+  {
+    "timestamp": 58.405,
+    "emotion": "commanding",
+    "detailed_reasoning": "In her final statement, her fury transforms into a commanding tone. While the anger is still present, the primary emotion is one of issuing an ultimatum. Her voice is firm, her gaze is unwavering, and she says, \"But you better make it mean something to you,\" leaving no room for argument. This is a command, not a suggestion.",
+    "summary_reasoning": "Firm voice, unwavering gaze, ultimatum-like statement."
+  }
+]

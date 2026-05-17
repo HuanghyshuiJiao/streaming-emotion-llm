@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp": 3.996,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker begins with a defeated and melancholic tone, expressing that no one like her crush has ever paid attention to her. Her facial expression is downcast, with slightly furrowed brows and a pleading look in her eyes, indicating feelings of sadness and hopelessness.",
+    "summary_reasoning": "Melancholic tone, pleading expression, negative words."
+  },
+  {
+    "timestamp": 4.657,
+    "emotion": "confused",
+    "detailed_reasoning": "After expressing her sadness, her tone shifts to one of genuine confusion as she asks, \"What am I doing wrong?\" Her pitch rises with the question, and her facial expression shows a mix of frustration and bewilderment, as if she truly cannot understand her situation.",
+    "summary_reasoning": "Questioning tone, high pitch, bewildered face."
+  },
+  {
+    "timestamp": 8.803,
+    "emotion": "defensive",
+    "detailed_reasoning": "The speaker's tone becomes defensive as she lists her good qualities, such as being nice and not making fun of anyone. She is justifying her character, and her speech pattern is rapid, as if she is pleading her case against an unspoken accusation.",
+    "summary_reasoning": "Justifying words, rapid speech, pleading tone."
+  },
+  {
+    "timestamp": 14.251,
+    "emotion": "frustrated",
+    "detailed_reasoning": "Her frustration peaks as she asks, \"why can't I say it?\" Her voice cracks slightly, and her tone is filled with exasperation. Her eyes widen in a pleading manner, showing her deep frustration with the social rules she doesn't understand.",
+    "summary_reasoning": "Voice crack, exasperated tone, pleading eyes."
+  },
+  {
+    "timestamp": 20.84,
+    "emotion": "dejected",
+    "detailed_reasoning": "The speaker delivers the punchline, \"nobody asks me to the prom,\" with a sense of finality and dejection. Her voice drops, her pace slows, and her shoulders slump slightly, conveying a feeling of resignation and deep sadness about her social isolation.",
+    "summary_reasoning": "Voice drops, slow pace, slumping shoulders."
+  },
+  {
+    "timestamp": 23.083,
+    "emotion": "compliant",
+    "detailed_reasoning": "Her tone shifts as she addresses an unseen person directly, stating, \"I did exactly what you told me to.\" Her voice is factual and her expression is serious, indicating she is reporting back on her compliance with advice she was given, with an underlying tone of challenge.",
+    "summary_reasoning": "Direct address, factual tone, serious expression."
+  },
+  {
+    "timestamp": 30.018,
+    "emotion": "ashamed",
+    "detailed_reasoning": "While recounting how she dumbed herself down for her crush, her voice becomes softer and she slightly averts her gaze. The act of admitting she let him explain something incorrectly, even though she knew better, brings a sense of shame to her expression and tone.",
+    "summary_reasoning": "Soft voice, averted gaze, self-deprecating words."
+  },
+  {
+    "timestamp": 39.109,
+    "emotion": "enthusiastic",
+    "detailed_reasoning": "The speaker describes cheering for her crush at his practice. Despite the transcript error ('sheared'), the audio clearly says 'cheered'. Her tone momentarily becomes more animated and her face brightens, reflecting the feigned enthusiasm she was trying to project at that moment to get his attention.",
+    "summary_reasoning": "Animated tone, brightened face, enthusiastic words (from audio)."
+  },
+  {
+    "timestamp": 41.512,
+    "emotion": "embarrassed",
+    "detailed_reasoning": "The brief moment of enthusiasm vanishes as she recalls hearing other girls making fun of her. Her face falls, her voice becomes quiet and trails off, and she looks down, clearly showing feelings of embarrassment and humiliation.",
+    "summary_reasoning": "Face falls, quiet voice, downward gaze."
+  },
+  {
+    "timestamp": 47.138,
+    "emotion": "determined",
+    "detailed_reasoning": "She describes her internal monologue, telling herself that only Tommy matters. Her expression becomes focused and her voice takes on a firm, resolved quality. This shows her determination to ignore the mockery for the sake of her goal.",
+    "summary_reasoning": "Focused expression, firm tone, resolute words."
+  },
+  {
+    "timestamp": 56.009,
+    "emotion": "elated",
+    "detailed_reasoning": "Her entire demeanor shifts dramatically at the end. As she says, \"he walked me home,\" her face breaks into a wide, joyful smile, her eyes light up, and her voice lifts with happiness and excitement. This is the positive outcome she was hoping for, and her emotion is one of pure elation and relief.",
+    "summary_reasoning": "Wide smile, bright eyes, excited tone."
+  }
+]

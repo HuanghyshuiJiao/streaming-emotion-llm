@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 2.234,
+    "emotion": "grief",
+    "detailed_reasoning": "The video starts with the speaker already in a state of extreme emotional distress. Her face is contorted with sadness, her eyes are squinted as if fighting back tears, and her voice is already thick with emotion. The content of her words, \"She was dying while I was dancing,\" immediately establishes a narrative of tragic irony and loss, setting a strong tone of grief and sorrow from the very beginning.",
+    "summary_reasoning": "Pained facial expression, emotional voice, tragic words."
+  },
+  {
+    "timestamp": 7.862,
+    "emotion": "regret",
+    "detailed_reasoning": "The speaker explicitly says, \"I'm sorry. I'm sorry,\" while actively crying and covering her mouth. Her voice cracks and is filled with anguish. The repetition of the apology, combined with the raw visual and vocal cues of crying, points to a profound sense of regret for being mad at the person who was dying.",
+    "summary_reasoning": "Repeated apologies, crying, cracking voice."
+  },
+  {
+    "timestamp": 15.172,
+    "emotion": "guilt",
+    "detailed_reasoning": "Her statement, \"that's what makes it so bad,\" is delivered with a tone of self-condemnation. She understands the other person's selfless intentions (\"She just wanted to be there for me\"), which intensifies her own feeling of culpability. Her facial expression shifts from pure sadness to one that includes self-blame and guilt over her past actions.",
+    "summary_reasoning": "Self-condemning tone, words express culpability."
+  },
+  {
+    "timestamp": 28.57,
+    "emotion": "remorse",
+    "detailed_reasoning": "The speaker recounts her selfish ambition to be a \"prima ballerina,\" stating, \"I didn't care if it took all of our money and all of her spare time.\" Her tone is flat and filled with self-loathing as she describes her past behavior. This reflection on her own selfishness, at the expense of her loved one, is a clear expression of deep remorse.",
+    "summary_reasoning": "Self-loathing tone, describes selfish past actions."
+  },
+  {
+    "timestamp": 36.105,
+    "emotion": "despair",
+    "detailed_reasoning": "This is the emotional climax of her confession. She labels her own ambitions as \"my stupid audition and my stupid dream\" with venom in her voice, directing anger at herself. The line culminates in the devastating statement, \"and it killed her,\" where her voice breaks completely. The combination of self-directed anger and the finality of her conclusion conveys a feeling of utter despair and hopelessness over the irreversible outcome.",
+    "summary_reasoning": "Self-directed anger, voice breaks, devastating words."
+  },
+  {
+    "timestamp": 42.559,
+    "emotion": "sorrow",
+    "detailed_reasoning": "After the peak of her despair, her energy subsides into a state of profound sorrow. She concludes by stating that all the other person wanted was for her dream to come true. This highlights the tragic irony of the situation. Her voice is soft and heavy with the weight of this realization, and her facial expression is one of deep, lingering sadness and loss.",
+    "summary_reasoning": "Subdued energy, soft and heavy voice, sad expression."
+  }
+]

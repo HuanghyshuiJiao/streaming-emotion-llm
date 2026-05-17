@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins his speech with a composed and serious demeanor. His facial expression is neutral to stern, and his vocal tone is measured and formal, setting a grave atmosphere from the start.",
+    "summary_reasoning": "Composed demeanor, serious facial expression, measured tone."
+  },
+  {
+    "timestamp": 18.455,
+    "emotion": "determined",
+    "detailed_reasoning": "The speaker transitions from describing hardships to delivering his core message. His tone becomes more firm and direct, and he uses the conditional phrase \"If you want to change the world,\" which signals a shift to a more motivational and determined emotional state.",
+    "summary_reasoning": "Firm tone, direct address, motivational content."
+  },
+  {
+    "timestamp": 20.959,
+    "emotion": "emphatic",
+    "detailed_reasoning": "The speaker powerfully delivers the line, \"don't ever, ever ring the bell.\" He emphasizes the word \"ever\" through repetition and a forceful, lowered tone. His facial expression becomes more intense, underscoring the critical importance of this piece of advice.",
+    "summary_reasoning": "Forceful tone, repeated words, intense expression."
+  },
+  {
+    "timestamp": 25.425,
+    "emotion": "encouraging",
+    "detailed_reasoning": "The speaker's focus shifts as he directly addresses the graduating class of 2014. His tone softens slightly, moving from a general warning to a more personal and encouraging message about their impending graduation and future journey.",
+    "summary_reasoning": "Direct address to graduates, softer tone, positive framing."
+  },
+  {
+    "timestamp": 32.465,
+    "emotion": "inspirational",
+    "detailed_reasoning": "The speaker's message becomes highly aspirational, focusing on the graduates' potential to \"change the world for the better.\" His vocal delivery builds in intensity and conviction, aiming to inspire the audience with a sense of purpose and capability.",
+    "summary_reasoning": "Aspirational language, increased vocal intensity, convicted tone."
+  },
+  {
+    "timestamp": 35.995,
+    "emotion": "sober",
+    "detailed_reasoning": "After the inspirational high, the speaker interjects a note of realism with the phrase, \"It will not be easy.\" His tone becomes more grounded and serious, serving as a sober warning to temper the previous inspirational message with reality.",
+    "summary_reasoning": "Grounded tone, realistic language, serious expression."
+  },
+  {
+    "timestamp": 37.84,
+    "emotion": "confident",
+    "detailed_reasoning": "Pivoting immediately from the sober warning, the speaker reaffirms his belief in the graduates. His voice regains its strength and conviction as he tells them they are the class that can have a massive impact, projecting a strong sense of confidence in their abilities.",
+    "summary_reasoning": "Strong vocal conviction, reaffirming language, uplifting message."
+  },
+  {
+    "timestamp": 43.716,
+    "emotion": "instructive",
+    "detailed_reasoning": "The speaker's tone shifts to one of giving direct, practical advice. He begins listing clear actions like \"Start each day with a task completed.\" His delivery is clear, deliberate, and authoritative, consistent with an instructive or mentoring emotional state.",
+    "summary_reasoning": "Direct advice, clear tone, authoritative delivery."
+  },
+  {
+    "timestamp": 49.953,
+    "emotion": "serious",
+    "detailed_reasoning": "For his final piece of advice, the speaker's tone becomes very serious and direct again. He delivers the hard truth that \"life is not fair and that you will fail often.\" The flat, unembellished delivery emphasizes the gravity of this final, realistic lesson.",
+    "summary_reasoning": "Grave tone, direct delivery, realistic and harsh content."
+  }
+]

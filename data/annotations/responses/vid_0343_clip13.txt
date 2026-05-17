@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 5.039,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins with a calm and measured tone. His facial expression is neutral and his body language is relaxed. He is offering gentle suggestions, and his delivery reflects this advisory and non-confrontational approach.",
+    "summary_reasoning": "Calm tone, neutral expression, relaxed posture."
+  },
+  {
+    "timestamp": 12.211,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "After suggesting date nights, the speaker pauses and looks slightly to the side, as if contemplating the next point. His tone remains calm, but the pause and gaze shift introduce a more thoughtful and deliberate quality to his speech.",
+    "summary_reasoning": "Pause, sideways glance, deliberate tone."
+  },
+  {
+    "timestamp": 21.305,
+    "emotion": "serious",
+    "detailed_reasoning": "The topic shifts to family feuds. The speaker's tone becomes more grave, his eyebrows furrow slightly, and he uses the words \"terrible toll.\" This combination of vocal and facial cues indicates a shift to a more serious emotional state to match the gravity of the subject.",
+    "summary_reasoning": "Grave tone, furrowed brows, serious words."
+  },
+  {
+    "timestamp": 29.155,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker signals a shift in his talk by saying, \"I'd like to close...\" He pauses, and his tone softens as he prepares to introduce a quote. This transition marks a move from giving advice to a more reflective and conclusive part of his speech.",
+    "summary_reasoning": "Transitional phrase, softened tone, pause."
+  },
+  {
+    "timestamp": 39.494,
+    "emotion": "sentimental",
+    "detailed_reasoning": "As he begins to recite the Mark Twain quote, \"There isn't time...\", his voice takes on a more wistful and sentimental quality. The content of the quote itself is about the brevity of life, and his delivery becomes more emotive and less instructional, reflecting the quote's poignant nature.",
+    "summary_reasoning": "Wistful tone, emotive delivery, poignant quote."
+  },
+  {
+    "timestamp": 52.839,
+    "emotion": "impassioned",
+    "detailed_reasoning": "The speaker's voice swells with emotion on the word \"loving.\" He emphasizes the word, and his facial expression becomes more earnest. This marks the emotional peak of the quote, where the sentiment shifts from regret over wasted time to a passionate affirmation of what truly matters.",
+    "summary_reasoning": "Vocal emphasis, earnest expression, emotional peak of quote."
+  },
+  {
+    "timestamp": 57.207,
+    "emotion": "content",
+    "detailed_reasoning": "Concluding the quote, the speaker's face relaxes into a gentle, content smile. His voice is soft and warm. The combination of the emotional quote, the visual of the elderly couple on the screen, and his final expression creates a feeling of peaceful contentment.",
+    "summary_reasoning": "Gentle smile, soft tone, peaceful conclusion."
+  }
+]

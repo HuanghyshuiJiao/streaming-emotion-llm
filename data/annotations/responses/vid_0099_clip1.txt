@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 0.712,
+    "emotion": "angry",
+    "detailed_reasoning": "The video starts with the speaker abruptly shouting the word 'Screwballs!' in a high-pitched, frustrated tone. His facial expression is tense and his body language is agitated as he throws his hands up, immediately establishing a feeling of anger and exasperation.",
+    "summary_reasoning": "Shouting, frustrated tone, tense expression."
+  },
+  {
+    "timestamp": 13.147,
+    "emotion": "annoyed",
+    "detailed_reasoning": "The speaker's tone shifts from explosive anger to a more sustained annoyance. He recounts 20 years of predictable interactions, and his voice carries a weary, complaining quality. His facial expressions are serious and his gestures are emphatic, underscoring his long-held frustration with the other person's lack of spontaneity.",
+    "summary_reasoning": "Complaining tone, serious expression, emphatic gestures."
+  },
+  {
+    "timestamp": 22.439,
+    "emotion": "determined",
+    "detailed_reasoning": "The speaker's emotion intensifies as he makes a definitive statement: 'I'm leaving you forever.' His voice becomes louder and firmer, and his eyes are wide with conviction. The previous annoyance has now solidified into a resolute and serious determination to leave.",
+    "summary_reasoning": "Loud firm voice, wide eyes, serious declaration."
+  },
+  {
+    "timestamp": 32.573,
+    "emotion": "accusatory",
+    "detailed_reasoning": "The speaker's tone becomes more pointed and confrontational as he asks the rhetorical question, 'And you know why I'm going, Screwballs, don't you?'. He leans forward slightly and his expression is challenging, directly accusing the other person of understanding the reasons for his departure.",
+    "summary_reasoning": "Pointed tone, challenging expression, rhetorical question."
+  },
+  {
+    "timestamp": 39.185,
+    "emotion": "indignant",
+    "detailed_reasoning": "The speaker's anger peaks as he explains the core of his frustration. His voice rises sharply in pitch and volume when he exclaims, 'you treat me like I'm five!'. This outburst is filled with indignation and a sense of being belittled, showing his deep resentment.",
+    "summary_reasoning": "High-pitched shout, angry expression, feeling belittled."
+  },
+  {
+    "timestamp": 47.762,
+    "emotion": "resentful",
+    "detailed_reasoning": "The speaker's anger takes on a resentful edge as he brings up a financial disparity, asking incredulously, 'And you pay Madge more than you pay me?'. His tone conveys a sense of unfairness and bitterness, adding another layer to his overall frustration.",
+    "summary_reasoning": "Incredulous tone, perceived unfairness."
+  },
+  {
+    "timestamp": 56.238,
+    "emotion": "disappointed",
+    "detailed_reasoning": "The speaker's energy shifts from overt anger to a more subdued emotion. His voice lowers and softens as he says, 'we embarrass each other.' His facial expression becomes pained, reflecting a deep-seated disappointment and sadness about the state of their relationship, which he sees as the ultimate problem.",
+    "summary_reasoning": "Lowered voice, pained expression, sad realization."
+  }
+]

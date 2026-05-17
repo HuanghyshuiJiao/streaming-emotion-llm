@@ -1,0 +1,8 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "somber",
+    "detailed_reasoning": "The video opens with a wide, static shot of a vast, open field under a dusky sky. A solitary, large oak tree dominates the frame. A slow, melancholic orchestral score begins immediately, setting a deeply sad and reflective tone. A man is seen walking slowly and deliberately toward the tree, under which a gravestone is visible. The combination of the mournful music, the muted colors of the sunset, the isolation of the character, and the presence of a grave establishes a somber and grieving atmosphere from the very first moment. The single spoken word \"So\" is uttered in a quiet, almost inaudible tone that sounds more like a heavy sigh or the beginning of a difficult conversation, reinforcing the heavy, sorrowful mood.",
+    "summary_reasoning": "Melancholic music, dusky lighting, solitary figure, gravestone."
+  }
+]

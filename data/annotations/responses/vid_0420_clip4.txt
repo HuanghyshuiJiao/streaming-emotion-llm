@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker begins his talk by recounting a serious memory. His tone is low and measured, his pace is deliberate, and his facial expression is serious. He clasps his hands in front of him, adopting a closed-off, self-contained posture, all of which suggests a somber and reflective mood as he prepares to share a difficult story.",
+    "summary_reasoning": "Low tone, slow pace, serious expression, clasped hands."
+  },
+  {
+    "timestamp": 15.468,
+    "emotion": "pained",
+    "detailed_reasoning": "After a long pause, the speaker delivers the word 'incarcerated.' The content itself is heavy, and his delivery is slow and deliberate, indicating the difficulty of recounting this memory. The word marks the first major revelation of hardship, and his tone carries the weight of a child first learning about this painful reality.",
+    "summary_reasoning": "Significant pause, slow delivery, heavy content."
+  },
+  {
+    "timestamp": 22.195,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker shifts to another traumatic memory, beginning with the same somber cadence, 'Like the day...'. He talks about his grandmother taking over, eviction, and his mother's addiction. The accumulation of these painful life events, delivered in a consistently low and mournful tone, shifts the emotion from somber reflection to a more pronounced sadness.",
+    "summary_reasoning": "Recounting multiple traumas, low mournful tone."
+  },
+  {
+    "timestamp": 36.368,
+    "emotion": "grief-stricken",
+    "detailed_reasoning": "The narrative reaches its most tragic point as he describes his father being 'jumped in a prison fight' and becoming 'brain dead'. His voice becomes quieter and laden with sorrow, especially on the words 'brain dead'. The pacing slows down significantly, and his facial expression shows deep pain, reflecting the profound grief of the memory.",
+    "summary_reasoning": "Quiet sorrowful voice, slow pace, pained expression, tragic content."
+  },
+  {
+    "timestamp": 49.087,
+    "emotion": "resigned",
+    "detailed_reasoning": "The speaker moves to yet another difficult memory of visiting his mother in jail. While the sadness is still present in his tone and expression, there's a sense of weary resignation. He describes the 'hazy plexiglass window' with a tone that suggests this pain is a recurring and accepted part of his life, not a sharp, shocking event like his father's death, but a chronic sorrow.",
+    "summary_reasoning": "Weary tone, recounting recurring pain, somber expression."
+  }
+]

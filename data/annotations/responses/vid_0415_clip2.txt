@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 4.72,
+    "emotion": "sincere",
+    "detailed_reasoning": "The speaker begins with a disclaimer, stating she is not trying to discourage anyone. Her tone is gentle and her facial expression is earnest, with slightly raised eyebrows and a soft gaze. Her hands are clasped, which can indicate sincerity and thoughtfulness in this context. This combination of verbal and non-verbal cues suggests a genuine and sincere intent.",
+    "summary_reasoning": "Gentle tone, earnest expression, disclaimer."
+  },
+  {
+    "timestamp": 12.054,
+    "emotion": "empathetic",
+    "detailed_reasoning": "The speaker explains that many people might be in the position she was in. Her tone remains soft and her gaze is direct, creating a sense of connection with the viewer. She is speaking about a shared experience, and her calm, understanding demeanor conveys empathy for those who might be feeling the same way.",
+    "summary_reasoning": "Soft tone, direct gaze, relatable content."
+  },
+  {
+    "timestamp": 24.335,
+    "emotion": "reflective",
+    "detailed_reasoning": "When talking about other career paths that might be more suited to someone's interests, her pace slows slightly and her gaze shifts upwards briefly, as if in thought. The content is about self-discovery and finding the right fit, which adds to the reflective mood. Her expression is contemplative, indicating she's thinking back on her own journey.",
+    "summary_reasoning": "Slowed pace, upward gaze, contemplative expression."
+  },
+  {
+    "timestamp": 36.748,
+    "emotion": "reassuring",
+    "detailed_reasoning": "The speaker repeats her disclaimer, adding the word \"please\" and bringing her hands together in a prayer-like gesture. This gesture, combined with her direct eye contact and earnest tone, strongly emphasizes her intention not to discourage viewers. The emotion shifts from reflective to more actively reassuring.",
+    "summary_reasoning": "Hands clasped, earnest tone, use of \"please\"."
+  },
+  {
+    "timestamp": 42.013,
+    "emotion": "appreciative",
+    "detailed_reasoning": "The speaker says \"Medicine is awesome. My dad's a doctor.\" with a genuine smile and a more upbeat, positive tone. This is a clear shift from the previous cautionary and reassuring tone to one of appreciation for the field and her father's profession.",
+    "summary_reasoning": "Genuine smile, upbeat tone, positive words."
+  },
+  {
+    "timestamp": 51.51,
+    "emotion": "nostalgic",
+    "detailed_reasoning": "As she begins to recount her backstory from high school, her tone becomes lighter and a subtle, pleasant expression appears on her face. She mentions being \"super interested in biology\" and calls it her \"favorite subject,\" conveying a fond memory and a sense of positive nostalgia.",
+    "summary_reasoning": "Light tone, pleasant expression, recalling past interests."
+  }
+]

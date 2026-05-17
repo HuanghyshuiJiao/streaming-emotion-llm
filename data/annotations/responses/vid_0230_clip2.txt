@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 5.939,
+    "emotion": "humorous",
+    "detailed_reasoning": "The speaker begins by listing stereotypical characters in a focus group. Her tone is light and playful, and her facial expression is relaxed with a slight smile. The content itself is comedic, setting a humorous tone for the opening of her talk.",
+    "summary_reasoning": "Playful tone, smile, humorous content."
+  },
+  {
+    "timestamp": 16.154,
+    "emotion": "humorous",
+    "detailed_reasoning": "Continuing with her list of humorous stereotypes, the speaker describes an 'ex-military guy.' She adopts a slightly suspicious and conspiratorial tone when mentioning the 'two-way mirror,' and her facial expression mimics this suspicion, which is clearly intended for comedic effect, as confirmed by the audience's laughter.",
+    "summary_reasoning": "Conspiratorial tone, comedic expression, audience laughter."
+  },
+  {
+    "timestamp": 20.66,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker's tone shifts from humorous to informative. Her pace is steady, her voice is clear, and her facial expression becomes more neutral and serious. She is transitioning from the funny introduction to the main premise of her talk, establishing a more formal and calm atmosphere.",
+    "summary_reasoning": "Tone shift to informative, neutral expression, steady pace."
+  },
+  {
+    "timestamp": 28.952,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker defines her role as 'the moderator.' Her tone becomes more assertive and authoritative. Her posture is straight, and she speaks with clarity and conviction, conveying confidence in her professional role and expertise.",
+    "summary_reasoning": "Assertive tone, clear delivery, defined professional role."
+  },
+  {
+    "timestamp": 35.653,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker begins to define what her work is *not* ('it's not group therapy'). Her pace slows down, and her tone becomes more measured and contemplative. This signals a shift to a more thoughtful and analytical part of her speech, as she carefully makes distinctions for the audience.",
+    "summary_reasoning": "Slower pace, measured tone, analytical content."
+  },
+  {
+    "timestamp": 44.597,
+    "emotion": "amused",
+    "detailed_reasoning": "After a more serious point about her work not being a 'spiritual experience,' she adds a self-deprecating aside, 'I mean, no one else.' Her tone becomes light, she breaks into a smile, and the audience laughs. This is a brief, intentional break in seriousness to show amusement and reconnect with the audience through humor.",
+    "summary_reasoning": "Light tone, smile, comedic aside, audience laughter."
+  },
+  {
+    "timestamp": 47.245,
+    "emotion": "sincere",
+    "detailed_reasoning": "The speaker's tone shifts to become very earnest and heartfelt as she begins to share the personal impact of her work. She speaks about what moderating 'taught me,' and her facial expression becomes open and vulnerable, conveying the sincerity of her personal revelation.",
+    "summary_reasoning": "Earnest tone, personal revelation, vulnerable expression."
+  },
+  {
+    "timestamp": 55.969,
+    "emotion": "assured",
+    "detailed_reasoning": "The speaker concludes her profound personal statement with the short, emphatic phrase, 'No kidding.' She delivers it with a firm tone and a small, knowing smile. This acts as a final assertion, reinforcing the truth and sincerity of what she just shared with a sense of quiet confidence.",
+    "summary_reasoning": "Firm tone, knowing smile, emphatic closing."
+  }
+]

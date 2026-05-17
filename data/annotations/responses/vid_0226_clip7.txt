@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 3.415,
+    "emotion": "empathetic",
+    "detailed_reasoning": "The speaker begins by describing a letter from a woman who feels trapped. Her tone of voice is serious and soft, her facial expression is concerned with slightly furrowed brows, and her hand gestures are gentle and open. This combination of cues conveys a sense of empathy for the woman's situation.",
+    "summary_reasoning": "Soft tone, concerned expression, gentle gestures."
+  },
+  {
+    "timestamp": 11.885,
+    "emotion": "engaging",
+    "detailed_reasoning": "The speaker transitions from the sad story to introducing a cartoon as a 'perfect example.' Her tone becomes more upbeat and illustrative, and her facial expression lightens. She is shifting from recounting a problem to explaining a concept, actively engaging the audience's interest.",
+    "summary_reasoning": "Upbeat tone, lighter expression, introduces example."
+  },
+  {
+    "timestamp": 18.913,
+    "emotion": "illustrative",
+    "detailed_reasoning": "The camera cuts away from the speaker to show the cartoon she is describing. Her voiceover is purely descriptive and narrative, explaining the visual of the prisoner trying to get out. The emotion is tied to the act of illustrating her point through storytelling.",
+    "summary_reasoning": "Voiceover, narrative tone, describing cartoon."
+  },
+  {
+    "timestamp": 27.385,
+    "emotion": "introspective",
+    "detailed_reasoning": "After revealing the punchline of the cartoon (the cage is open), the speaker connects it directly to the audience by saying, 'That's most of us.' Her tone becomes more somber and inclusive, and her facial expression is serious. She is prompting the audience to look inward.",
+    "summary_reasoning": "Somber tone, serious expression, inclusive language ('us')."
+  },
+  {
+    "timestamp": 36.325,
+    "emotion": "assertive",
+    "detailed_reasoning": "The speaker makes a definitive statement: 'Freedom comes with responsibility.' She delivers this line with a strong, clear, and steady voice, looking directly forward. Her tone is firm and confident, emphasizing the importance of this central message.",
+    "summary_reasoning": "Strong, clear voice, direct gaze, firm tone."
+  },
+  {
+    "timestamp": 43.602,
+    "emotion": "challenging",
+    "detailed_reasoning": "The speaker suggests that taking responsibility means we 'might just have to change.' Her tone is thought-provoking, and she uses a slight pause before the word 'change' to add weight. She is presenting a difficult but necessary truth to the audience, challenging them to reflect.",
+    "summary_reasoning": "Thought-provoking tone, deliberate pause, presenting difficult idea."
+  },
+  {
+    "timestamp": 50.858,
+    "emotion": "illustrative",
+    "detailed_reasoning": "The speaker is setting up her final point by quoting a hypothetical person who says 'I want to change.' She adopts a slightly higher-pitched, more generalized tone to indicate she is speaking as this person, illustrating a common sentiment.",
+    "summary_reasoning": "Adopts character voice, higher pitch, setting up an example."
+  },
+  {
+    "timestamp": 56.11,
+    "emotion": "knowing",
+    "detailed_reasoning": "The speaker reveals the true meaning behind the desire for change: wanting someone else to change. She delivers this punchline with a wry, knowing smile and a conclusive tone. Her facial expression and demeanor suggest she is sharing a common, unspoken human truth.",
+    "summary_reasoning": "Wry smile, conclusive tone, sharing a final insight."
+  }
+]

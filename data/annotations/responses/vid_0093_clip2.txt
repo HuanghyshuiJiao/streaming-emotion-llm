@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 5.718,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker maintains a steady and even vocal tone throughout the initial sentences. His facial expression is neutral and his posture appears relaxed as he explains the concept of expressing emotions without real-world consequences. This combination of verbal and non-verbal cues projects an overall sense of calm and sincerity.",
+    "summary_reasoning": "Steady tone, neutral expression."
+  },
+  {
+    "timestamp": 18.013,
+    "emotion": "assertive",
+    "detailed_reasoning": "The speaker's tone shifts as he contrasts the ideal safe space with the 'real world.' His voice becomes slightly firmer and more direct when he states, 'this is not the case.' This change in vocal emphasis indicates a move towards a more assertive and declarative emotional state, highlighting the contrast he is making.",
+    "summary_reasoning": "Firmer tone, direct emphasis."
+  },
+  {
+    "timestamp": 25.282,
+    "emotion": "amused",
+    "detailed_reasoning": "Immediately after quoting the cliché 'all is fair in love and war,' the speaker's demeanor changes completely. He breaks into a smile, shakes his head slightly, and explicitly calls his own statement 'so corny.' This verbal self-deprecation combined with the clear shift in facial expression indicates he is amused by what he just said.",
+    "summary_reasoning": "Smiling, self-deprecating comment."
+  },
+  {
+    "timestamp": 32.975,
+    "emotion": "confident",
+    "detailed_reasoning": "After the moment of amusement, the speaker's tone becomes more forceful and his message more direct as he introduces his next point: 'to trust your perspective.' His eye contact becomes more focused and his overall delivery exudes a renewed sense of seriousness and confidence in the importance of his message.",
+    "summary_reasoning": "Forceful tone, direct message."
+  },
+  {
+    "timestamp": 47.301,
+    "emotion": "assertive",
+    "detailed_reasoning": "The speaker's delivery becomes highly emphatic and personal. He uses his own name ('Micah') and strong, declarative statements like 'I'm always going to see it how Micah sees it.' His hand gestures become more defined and his tone is unwavering, reinforcing the assertive and deeply held nature of his belief about individual perspective.",
+    "summary_reasoning": "Emphatic tone, personal statement."
+  },
+  {
+    "timestamp": 58.066,
+    "emotion": "resolute",
+    "detailed_reasoning": "As he delivers his concluding thought, the speaker's pace slows down and his tone becomes very deliberate and final. He places strong emphasis on the words 'fundamental' and 'never change,' which, combined with the slower cadence, conveys a strong sense of finality and unwavering conviction in his point, indicating a resolute state.",
+    "summary_reasoning": "Slow pace, deliberate tone."
+  }
+]

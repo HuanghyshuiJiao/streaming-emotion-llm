@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "amused",
+    "detailed_reasoning": "The video starts with the man smiling broadly and chuckling while saying \"no.\" His facial expression, particularly the crinkling around his eyes and wide smile, combined with the lighthearted, laughing tone of his voice, clearly indicates amusement.",
+    "summary_reasoning": "Smiling, chuckling, lighthearted tone."
+  },
+  {
+    "timestamp": 13.272,
+    "emotion": "serious",
+    "detailed_reasoning": "The man's entire demeanor shifts. His smile completely vanishes, his eyebrows lower slightly, and his facial muscles become tense. The previously amused tone is replaced by a flat, serious delivery of the word \"no,\" indicating a significant change in his emotional state from amusement to seriousness.",
+    "summary_reasoning": "Smile vanishes, tense face, flat tone."
+  },
+  {
+    "timestamp": 16.396,
+    "emotion": "annoyed",
+    "detailed_reasoning": "The man's expression hardens further. He furrows his brow, his lips are pressed together, and he crosses his arms in a defensive posture. His utterance of \"no\" is more forceful and clipped, conveying a growing sense of annoyance or disapproval.",
+    "summary_reasoning": "Furrowed brow, crossed arms, forceful tone."
+  },
+  {
+    "timestamp": 19.541,
+    "emotion": "shocked",
+    "detailed_reasoning": "His eyes widen significantly and his mouth drops open slightly. The transition is abrupt, moving from annoyance to a state of shock or disbelief. His body language becomes more rigid, and the word \"no\" is spoken with a breathy, surprised quality.",
+    "summary_reasoning": "Eyes widen, mouth open, surprised tone."
+  },
+  {
+    "timestamp": 22.886,
+    "emotion": "scared",
+    "detailed_reasoning": "The man's expression of shock turns into fear. He raises his hands with palms facing forward in a defensive, warding-off gesture. His eyes are wide with alarm, and his voice when he says \"no\" is higher-pitched and strained, clearly indicating fear or panic.",
+    "summary_reasoning": "Raised hands, wide eyes, panicked voice."
+  },
+  {
+    "timestamp": 30.625,
+    "emotion": "angry",
+    "detailed_reasoning": "The emotion escalates from fear to intense anger. His facial expression becomes contorted with rage, his eyebrows are drawn down, and he bares his teeth. He clenches his fists and shouts \"No!\" with significant force and a low, guttural tone, demonstrating a complete shift into an angry and defiant state.",
+    "summary_reasoning": "Shouting, clenched fists, enraged facial expression."
+  }
+]

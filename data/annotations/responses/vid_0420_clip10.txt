@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "contemplative",
+    "detailed_reasoning": "The speaker begins with a philosophical statement, delivered in a slow, measured tone. His body language is still, and he uses a deliberate pointing gesture when referring to the future ('tomorrow'). This combination of thoughtful words, calm delivery, and controlled movement suggests a contemplative and serious mood.",
+    "summary_reasoning": "Slow measured tone, philosophical words, deliberate gestures."
+  },
+  {
+    "timestamp": 16.651,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker shifts to discussing his past ('at a young age'). His tone remains calm but becomes more narrative and reflective as he sets the stage for a personal story. His hands are clasped, and his gaze is steady, indicating he is recalling and sharing a memory.",
+    "summary_reasoning": "Narrative tone, discussing the past, steady gaze."
+  },
+  {
+    "timestamp": 26.844,
+    "emotion": "confident",
+    "detailed_reasoning": "There is a noticeable shift in energy. The speaker's voice becomes more firm and assertive as he states, 'I was laying the foundation of resilience.' He emphasizes the word 'resilience' and later points to his head when saying 'my mind,' showing strong conviction and self-assurance in his past actions, even if he didn't understand them at the time.",
+    "summary_reasoning": "Firm assertive voice, strong emphasis, confident gestures."
+  },
+  {
+    "timestamp": 42.884,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker's tone softens and becomes more melancholic as he introduces the metaphor of the 'bad luck truck dropping boxes of trauma.' The content is inherently negative, and his delivery reflects this shift, conveying a sense of sadness and hardship from his past.",
+    "summary_reasoning": "Soft melancholic tone, negative metaphor, sad content."
+  },
+  {
+    "timestamp": 55.307,
+    "emotion": "resigned",
+    "detailed_reasoning": "After talking about his childhood trauma, the speaker delivers the line 'life doesn't adhere to any delivery windows' with a wry and slightly weary tone. This suggests a sense of cynical acceptance of life's unpredictable hardships. It's not defeated, but rather a pragmatic and resigned acknowledgment of reality.",
+    "summary_reasoning": "Wry weary tone, cynical acceptance of hardship."
+  }
+]

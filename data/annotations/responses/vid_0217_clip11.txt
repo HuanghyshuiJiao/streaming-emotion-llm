@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 5.297,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker introduces his poem with a calm and steady voice. His posture is relaxed and he gives a slight, polite smile to the audience, indicating he is at ease and ready to begin his performance.",
+    "summary_reasoning": "Calm voice, relaxed posture, slight smile."
+  },
+  {
+    "timestamp": 10.703,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker's voice shifts from a calm introduction to a more performative and narrative tone. He begins his poem with increased vocal modulation, emphasizing certain words to draw the audience into the story. His facial expression becomes more engaged, reflecting the heartfelt nature of the poem's opening lines about a father's pride.",
+    "summary_reasoning": "Performative tone, vocal modulation, engaged expression."
+  },
+  {
+    "timestamp": 21.876,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's tone becomes more somber and serious as the poem delves into the character's struggles. His vocal pace slows slightly, and his facial expression turns more pensive, with a slight furrow in his brow, conveying the weight of the words about hiding one's brightness.",
+    "summary_reasoning": "Somber tone, slower pace, pensive expression."
+  },
+  {
+    "timestamp": 32.867,
+    "emotion": "intense",
+    "detailed_reasoning": "The speaker's delivery intensifies as he describes the unique nature of the character. His voice becomes stronger and more emphatic, and his hand gestures become more pronounced, though still controlled. This builds a sense of drama and importance around the character's special quality.",
+    "summary_reasoning": "Stronger voice, emphatic tone, hand gestures."
+  },
+  {
+    "timestamp": 43.732,
+    "emotion": "dramatic",
+    "detailed_reasoning": "The emotion shifts to a more dramatic and slightly troubled tone. The speaker references the story of Joseph, introducing themes of jealousy and conflict. His facial expression becomes more strained, and his voice carries a heavier, more serious weight, foreshadowing the challenges the character will face.",
+    "summary_reasoning": "Troubled tone, strained expression, serious voice."
+  },
+  {
+    "timestamp": 57.342,
+    "emotion": "tense",
+    "detailed_reasoning": "The speaker's performance becomes tense as he introduces the antagonists, the 'shadow people.' His voice takes on a slightly harsher, more confrontational edge. His gaze is fixed and intense, and his body language becomes more rigid, effectively conveying the animosity and danger presented by these characters.",
+    "summary_reasoning": "Harsh tone, intense gaze, rigid body language."
+  }
+]

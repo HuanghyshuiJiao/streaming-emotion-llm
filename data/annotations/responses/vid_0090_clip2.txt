@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "defiant",
+    "detailed_reasoning": "The speaker begins with a series of declarative statements about his future success without a specific person. His tone is firm and his facial expression is set, suggesting a sense of defiance and a determination to prove his independence.",
+    "summary_reasoning": "Firm tone, determined expression, declarative statements."
+  },
+  {
+    "timestamp": 10.184,
+    "emotion": "angry",
+    "detailed_reasoning": "The speaker's emotion shifts from defiance to overt anger. When he says he'll be a \"better father,\" his voice becomes louder and harsher, and he starts gesturing more forcefully with his finger. His facial expression tightens with furrowed brows, indicating his resentment and anger towards the person he is talking about.",
+    "summary_reasoning": "Louder harsher voice, forceful gestures, tight facial expression."
+  },
+  {
+    "timestamp": 14.249,
+    "emotion": "furious",
+    "detailed_reasoning": "The anger intensifies into fury. The speaker's voice crescendos, and his delivery of \"ain't a damn thing\" is spat out with venom. His eyes are wide and his face is contorted in rage, emphasizing his complete rejection of the other person's influence, especially on the topic of love and fatherhood.",
+    "summary_reasoning": "Venomous tone, contorted face, loud volume."
+  },
+  {
+    "timestamp": 18.500,
+    "emotion": "sad",
+    "detailed_reasoning": "Following the outburst of fury, there is a long pause where the speaker's entire demeanor changes. The anger drains away, and his face begins to crumple. His eyes well up, his mouth turns down, and he looks down, unable to maintain his aggressive posture. This non-verbal transition clearly shows the underlying sadness and hurt that was fueling his anger.",
+    "summary_reasoning": "Crumpling face, welling eyes, downward gaze."
+  },
+  {
+    "timestamp": 24.422,
+    "emotion": "desperate",
+    "detailed_reasoning": "The speaker's sadness culminates in a moment of pure desperation and vulnerability. He looks up with a tear-streaked face and asks in a broken, pleading voice, \"How come you don't want me, man?\". The question reveals the deep-seated pain of rejection, and his tone is one of a child pleading for an answer.",
+    "summary_reasoning": "Broken pleading voice, tearful face, direct question of rejection."
+  }
+]

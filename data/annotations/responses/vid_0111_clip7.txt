@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her speech with a calm and steady narrative tone. Her facial expression is neutral and composed as she sets the scene for her story, indicating a controlled and relaxed start.",
+    "summary_reasoning": "Calm tone, neutral expression."
+  },
+  {
+    "timestamp": 7.2,
+    "emotion": "amused",
+    "detailed_reasoning": "When quoting her mother's punchline, the speaker's facial expression breaks into a slight, wry smile. Her tone becomes lighter and more playful, conveying her amusement at her mother's observation.",
+    "summary_reasoning": "Wry smile, light tone."
+  },
+  {
+    "timestamp": 12.666,
+    "emotion": "defensive",
+    "detailed_reasoning": "The speaker's tone becomes more animated and her pace quickens as she describes her reaction. She uses hand gestures and a slightly indignant but humorous tone to act out her defensiveness, engaging the audience with the story.",
+    "summary_reasoning": "Animated tone, quickened pace, hand gestures."
+  },
+  {
+    "timestamp": 23.72,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker's demeanor shifts significantly. Her pace slows down, her vocal pitch lowers, and her facial expression becomes serious and thoughtful. This transition marks a shift from the humorous anecdote to a moment of serious self-realization.",
+    "summary_reasoning": "Slower pace, lower pitch, serious expression."
+  },
+  {
+    "timestamp": 37.824,
+    "emotion": "determined",
+    "detailed_reasoning": "As she states her personal conviction, her voice becomes stronger and more resolute. Her facial expression is firm and her gaze is steady, conveying a strong sense of determination and sincerity about not wanting to be oblivious to life.",
+    "summary_reasoning": "Strong voice, firm expression."
+  },
+  {
+    "timestamp": 45.473,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker transitions from her personal story to a more academic point. Her tone becomes more neutral, measured, and didactic, similar to a lecturer presenting research findings. Her expression is focused and serious.",
+    "summary_reasoning": "Neutral tone, didactic delivery."
+  },
+  {
+    "timestamp": 55.242,
+    "emotion": "assertive",
+    "detailed_reasoning": "To deliver her final, strong statement, the speaker's tone becomes very firm and assertive. She slows her pace for emphasis and speaks with conviction, looking directly at the audience to drive her point home with authority.",
+    "summary_reasoning": "Firm tone, slow pace, direct gaze."
+  }
+]

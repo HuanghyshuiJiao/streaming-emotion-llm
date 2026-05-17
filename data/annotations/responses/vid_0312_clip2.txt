@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 2.916,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker begins her talk with a clear, steady voice and open, relaxed body language. She gestures with her hands to emphasize her points and has a slight smile, conveying a sense of confidence and ease as she sets the scene about her fast-paced life.",
+    "summary_reasoning": "Steady voice, open posture, slight smile."
+  },
+  {
+    "timestamp": 8.547,
+    "emotion": "joyful",
+    "detailed_reasoning": "The speaker's tone becomes more energetic and positive, especially as she says the word \"loved.\" Her facial expression brightens with a genuine smile, reflecting the happiness and satisfaction she felt about her life at that time.",
+    "summary_reasoning": "Energetic positive tone, bright smile."
+  },
+  {
+    "timestamp": 16.141,
+    "emotion": "empowered",
+    "detailed_reasoning": "Her vocal tone becomes stronger and more declarative when she says, \"I felt immortal.\" Her posture is upright and she makes direct eye contact, projecting a powerful sense of invincibility and self-assurance about her past self.",
+    "summary_reasoning": "Strong declarative tone, upright posture."
+  },
+  {
+    "timestamp": 19.808,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's demeanor shifts significantly. The smile disappears, her facial expression becomes neutral, and her tone drops, taking on a more somber quality. This change in vocal and facial cues signals a turn in the narrative, introducing a serious and foreshadowing element.",
+    "summary_reasoning": "Smile disappears, tone drops, serious expression."
+  },
+  {
+    "timestamp": 27.505,
+    "emotion": "reflective",
+    "detailed_reasoning": "Her tone becomes more introspective and her pace slows down as she describes her realization of not being present. Her gaze shifts slightly, suggesting she is deep in thought, conveying a reflective state of mind.",
+    "summary_reasoning": "Introspective tone, slower pace, shifting gaze."
+  },
+  {
+    "timestamp": 35.198,
+    "emotion": "uneasy",
+    "detailed_reasoning": "The speaker's delivery speeds up slightly as she lists her constant activities, mirroring the rushed feeling she's describing. The explicit mention of being \"always stressed\" combined with the faster pace creates a sense of underlying tension and unease about her past state.",
+    "summary_reasoning": "Faster speech pace, mentions stress."
+  },
+  {
+    "timestamp": 44.614,
+    "emotion": "regretful",
+    "detailed_reasoning": "Her voice softens and takes on a melancholic quality, particularly when she says she was \"never really satisfied.\" Her facial expression matches this tone, conveying a sense of sadness and regret for not appreciating the present moment in her past.",
+    "summary_reasoning": "Soft, melancholic voice, sad expression."
+  },
+  {
+    "timestamp": 49.362,
+    "emotion": "analytical",
+    "detailed_reasoning": "The speaker delivers this concluding thought about her past with a clear, deliberate tone. Her expression is serious and her hands are clasped, indicating a moment of sober self-analysis and conclusion about how she defined her self-worth through achievements.",
+    "summary_reasoning": "Deliberate tone, serious expression, clasped hands."
+  }
+]

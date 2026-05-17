@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 2.295,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins a story with a grave tone. He is recounting a conversation with his mother who believed she was dying. His facial expression is serious and his speaking pace is deliberate, setting a somber mood for the narrative.",
+    "summary_reasoning": "Grave tone, serious expression, deliberate pace."
+  },
+  {
+    "timestamp": 6.541,
+    "emotion": "emphatic",
+    "detailed_reasoning": "After telling his mother she has to \"choose to live,\" the speaker shifts his tone to be more emphatic and instructional. He stresses the word \"choose\" and uses hand gestures to highlight the importance of this concept, engaging the audience in a more philosophical point.",
+    "summary_reasoning": "Emphatic tone, hand gestures, stressed words."
+  },
+  {
+    "timestamp": 17.258,
+    "emotion": "tense",
+    "detailed_reasoning": "The story's mood shifts to become more tense as he describes the chaotic hospital scene. He mentions a doctor throwing him against the wall and his mother being rushed to the emergency room. His vocal tone becomes slightly strained and his pace quickens, conveying the urgency and stress of the moment.",
+    "summary_reasoning": "Strained tone, faster pace, dramatic content."
+  },
+  {
+    "timestamp": 26.833,
+    "emotion": "apprehensive",
+    "detailed_reasoning": "The speaker describes the moment the doctor walks towards his father. He explicitly states he was expecting to hear the time of death announced. His voice softens and slows, and his facial expression is filled with a look of dread, perfectly capturing the apprehension of that moment.",
+    "summary_reasoning": "Soft, slow voice, dreadful expression, anticipating bad news."
+  },
+  {
+    "timestamp": 33.082,
+    "emotion": "astonished",
+    "detailed_reasoning": "This is the turning point of the story. The speaker relays the doctor's perplexing news. His eyebrows are raised, his eyes are wide, and his voice carries a tone of disbelief and wonder as he quotes the doctor calling it a \"miracle of God.\" The shift from apprehension to astonishment is stark and immediate.",
+    "summary_reasoning": "Raised eyebrows, wide eyes, tone of disbelief."
+  },
+  {
+    "timestamp": 43.217,
+    "emotion": "awed",
+    "detailed_reasoning": "Reflecting on hearing the doctor's words, the speaker's emotion transitions from astonishment to pure awe. He looks upwards as if reliving the moment of divine realization. His voice is filled with wonder when he says, \"You've got to be kidding me. You're real?\" This conveys a profound, life-changing experience.",
+    "summary_reasoning": "Looks upward, voice filled with wonder, recounts profound realization."
+  },
+  {
+    "timestamp": 51.922,
+    "emotion": "reverent",
+    "detailed_reasoning": "The speaker concludes his story by describing his spiritual encounter. His pace slows down significantly, his voice becomes softer and more reverent. His facial expression is calm and introspective as he describes the exact spot where he had an \"encounter with Jesus,\" ending the clip on a deeply spiritual and peaceful note.",
+    "summary_reasoning": "Slow pace, soft reverent voice, calm expression."
+  }
+]

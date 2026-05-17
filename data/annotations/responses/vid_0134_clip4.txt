@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 7.57,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker begins his story in a very theatrical and sing-song manner. His tone is light and playful, and his facial expressions are animated and exaggerated as he sets the scene of asking a policeman for directions. This performative style suggests he is telling a humorous or entertaining story.",
+    "summary_reasoning": "Theatrical, sing-song tone, animated facial expressions."
+  },
+  {
+    "timestamp": 16.352,
+    "emotion": "intrigued",
+    "detailed_reasoning": "The narrative shifts with the introduction of a new character: \"Then I saw her.\" The speaker's tone becomes slightly more focused and dramatic, and his eyes widen as he describes seeing her. This indicates a shift in the story's focus to something more captivating and interesting.",
+    "summary_reasoning": "Focused tone, widened eyes, narrative shift."
+  },
+  {
+    "timestamp": 26.426,
+    "emotion": "charmed",
+    "detailed_reasoning": "As he describes the woman's revealing attire, his voice becomes softer and more suggestive. His facial expression conveys a sense of playful shock and admiration. He is clearly charmed by the character he is describing, adding a flirtatious and humorous layer to the story.",
+    "summary_reasoning": "Soft, suggestive voice, playful expression."
+  },
+  {
+    "timestamp": 34.837,
+    "emotion": "delighted",
+    "detailed_reasoning": "The speaker's face breaks into a broad smile as he recounts the woman smiling and giving him a flower. His tone is light and happy, reflecting the pleasant and amusing turn of events in his narrative. He appears genuinely delighted by this part of the story.",
+    "summary_reasoning": "Broad smile, light and happy tone."
+  },
+  {
+    "timestamp": 45.592,
+    "emotion": "humorous",
+    "detailed_reasoning": "The speaker delivers the punchline about strolling casually at \"seventy miles an hour.\" His eyes are wide with mock disbelief, and he has a clear, humorous grin on his face. The absurdity of the statement is delivered with perfect comedic timing and expression, indicating peak amusement.",
+    "summary_reasoning": "Comedic delivery, wide eyes, humorous grin."
+  },
+  {
+    "timestamp": 49.647,
+    "emotion": "suspenseful",
+    "detailed_reasoning": "At the very end of the clip, the speaker slows his speech and looks directly at the audience with a knowing and slightly mischievous expression. He is building suspense for the next part of the story, leaving the audience hanging with a playful sense of anticipation.",
+    "summary_reasoning": "Slowed speech, direct gaze, mischievous expression."
+  }
+]

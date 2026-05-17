@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp": 1.693,
+    "emotion": "engaged",
+    "detailed_reasoning": "The speaker begins his story with a clear, steady, and slightly dramatic tone. His facial expression is focused, and he is setting a scene for the audience, trying to draw them into his narrative.",
+    "summary_reasoning": "Narrative tone, focused expression."
+  },
+  {
+    "timestamp": 4.177,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker's tone shifts to one of light mockery or amusement when he mentions \"X Factor.\" His voice has a slight lilt, and he makes a playful facial expression, suggesting he finds the topic humorous and is sharing a joke with the audience about the triviality of the chatter.",
+    "summary_reasoning": "Mocking tone, playful expression."
+  },
+  {
+    "timestamp": 9.065,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker's pace slows, and his tone becomes more declarative and pensive. He is transitioning from a lighthearted anecdote to the central theme or moral of his story, signaled by the more serious and deliberate delivery of this line.",
+    "summary_reasoning": "Slower pace, declarative tone."
+  },
+  {
+    "timestamp": 13.752,
+    "emotion": "playful",
+    "detailed_reasoning": "He adopts a more character-driven, narrative tone, describing one character talking about another. The specific phrase \"stuck-up 60\" and his slightly conspiratorial delivery give his storytelling a playful and engaging quality as he embodies the characters.",
+    "summary_reasoning": "Narrative tone, character voice."
+  },
+  {
+    "timestamp": 18.278,
+    "emotion": "tender",
+    "detailed_reasoning": "The speaker's voice becomes softer and the pace slows down as he describes a moment of vulnerability and romance ('He blushed and told her of his crush'). His facial expression softens as well, reflecting the tender and heartfelt nature of the character's confession.",
+    "summary_reasoning": "Softer voice, slower pace, gentle expression."
+  },
+  {
+    "timestamp": 23.546,
+    "emotion": "clever",
+    "detailed_reasoning": "He shifts from pure storytelling to directly engaging the audience with the phrase \"was clever, see?\". His tone is knowing and his eyebrows are raised, as if sharing a smart observation or a secret with the listeners, inviting them to appreciate the cleverness of the character.",
+    "summary_reasoning": "Direct address to audience, knowing tone, raised eyebrows."
+  },
+  {
+    "timestamp": 29.587,
+    "emotion": "heartfelt",
+    "detailed_reasoning": "The speaker delivers this key line with a warm, tender, and sincere tone, embodying the character's clever and heartfelt declaration of love. His expression is soft, and the line itself is the emotional climax of this part of the story, delivered with conviction.",
+    "summary_reasoning": "Warm and sincere tone, soft expression, conviction."
+  },
+  {
+    "timestamp": 36.956,
+    "emotion": "sentimental",
+    "detailed_reasoning": "His voice softens significantly, and his pace slows as he describes the character's emotional reaction ('59 had tears in his eyes'). His own facial expression becomes more sentimental and his eyes look upwards, showing empathy for the character's feelings and conveying the deep emotion of the moment.",
+    "summary_reasoning": "Soft voice, slow pace, empathetic expression."
+  },
+  {
+    "timestamp": 41.702,
+    "emotion": "profound",
+    "detailed_reasoning": "The tone shifts from storytelling to one of deep meaning and explanation. He delivers the line about the 'definition of being prime' with a sense of gravity and significance, looking up as if in deep thought, revealing the central metaphor of his poem.",
+    "summary_reasoning": "Grave tone, significant delivery, thoughtful expression."
+  },
+  {
+    "timestamp": 55.8,
+    "emotion": "satisfied",
+    "detailed_reasoning": "The speaker delivers the final line of his poem, the punchline, with a tone of quiet triumph and satisfaction. It's the culmination of his narrative and metaphor. A small, knowing smile appears on his face, indicating the successful conclusion of his performance.",
+    "summary_reasoning": "Triumphant tone, small smile, finality."
+  },
+  {
+    "timestamp": 57.845,
+    "emotion": "grateful",
+    "detailed_reasoning": "After pausing to let the story land and receive applause, the speaker says \"Cheers\" with a genuine, warm smile directed at the audience. This is a clear expression of gratitude for their attention and positive reception.",
+    "summary_reasoning": "Warm smile, appreciative tone."
+  }
+]

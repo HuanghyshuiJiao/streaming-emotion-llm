@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 4.121,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins her story with a serious and focused demeanor. Her tone is steady and her facial expression is neutral but engaged, conveying the gravity of the topic she was researching.",
+    "summary_reasoning": "Steady tone, focused expression."
+  },
+  {
+    "timestamp": 15.428,
+    "emotion": "curious",
+    "detailed_reasoning": "Her tone shifts as she quotes her colleague. She adopts a slightly higher pitch and a more inquisitive expression, leaning forward slightly to mimic the colleague's urgent curiosity in asking the question, \"have you seen this?\".",
+    "summary_reasoning": "Higher pitch, inquisitive tone, quoting."
+  },
+  {
+    "timestamp": 26.959,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker's tone becomes more profound and deliberate as she states, \"That day changed my clinical practice and ultimately my career.\" Her pace slows, and her gaze is steady, indicating a moment of deep reflection on a pivotal point in her life.",
+    "summary_reasoning": "Slower pace, profound tone, steady gaze."
+  },
+  {
+    "timestamp": 37.827,
+    "emotion": "passionate",
+    "detailed_reasoning": "Her voice gains intensity and conviction as she says the study is something \"everybody needs to know about.\" She uses hand gestures for emphasis and her facial expression becomes more animated, showing her passion and the importance she places on this information.",
+    "summary_reasoning": "Intense voice, emphatic gestures, animated expression."
+  },
+  {
+    "timestamp": 46.446,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker transitions to a more factual and informative tone as she details the origins of the study, mentioning the researchers and the number of participants. Her delivery is clear and direct, aimed at educating the audience about the study's background.",
+    "summary_reasoning": "Factual tone, clear delivery."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 1.072,
+    "emotion": "sad",
+    "detailed_reasoning": "The video begins with the speaker already in a state of distress. Her face is visibly tear-streaked, her expression is contorted with pain, and her voice cracks on the first words she speaks. The initial emotion is clearly profound sadness or grief.",
+    "summary_reasoning": "Tear-streaked face, pained expression, cracking voice."
+  },
+  {
+    "timestamp": 11.947,
+    "emotion": "distraught",
+    "detailed_reasoning": "Continuing from her initial sadness, the speaker's vocal delivery becomes more unstable. She sobs audibly, and her words are interspersed with gasps for air. Her facial expression shows deep anguish as she recounts a traumatic memory, indicating an escalation of her emotional distress.",
+    "summary_reasoning": "Audible sobbing, gasping breath, anguished expression."
+  },
+  {
+    "timestamp": 23.523,
+    "emotion": "desperate",
+    "detailed_reasoning": "The speaker's tone shifts as she asks a rhetorical question, \"Why them?\". Her voice becomes higher in pitch and carries a pleading quality. This change suggests a move from pure sorrow to a more desperate and questioning state of grief, searching for an explanation for her loss.",
+    "summary_reasoning": "Pleading tone, high-pitched voice, rhetorical questioning."
+  },
+  {
+    "timestamp": 32.274,
+    "emotion": "anguished",
+    "detailed_reasoning": "After stating that the victims were young while she has lived a long life, her crying intensifies significantly. Her voice breaks completely, and she is overwhelmed by sobs. This moment represents a peak of her anguish and survivor's guilt, as the full weight of the perceived injustice hits her.",
+    "summary_reasoning": "Intense crying, breaking voice, expressing survivor's guilt."
+  },
+  {
+    "timestamp": 52.979,
+    "emotion": "defensive",
+    "detailed_reasoning": "After a long, emotional pause, there is a stark shift in her demeanor. The intense crying ceases, and her voice drops to a low, steady, and almost conspiratorial tone. Her facial expression hardens, and she looks directly at the camera, anticipating judgment. This marks a transition from raw grief to a defensive posture.",
+    "summary_reasoning": "Crying stops, voice lowers, steady tone, direct stare."
+  },
+  {
+    "timestamp": 55.502,
+    "emotion": "confrontational",
+    "detailed_reasoning": "In the final line, \"You think I'm crazy,\" her tone becomes explicitly confrontational. Her eyes are wide, and she holds a direct, challenging gaze with the camera. The previous defensiveness now has a slight edge of accusation, as if she is directly calling out the viewer's unspoken thoughts.",
+    "summary_reasoning": "Accusatory tone, wide eyes, challenging gaze."
+  }
+]

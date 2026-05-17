@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her talk with a steady and composed vocal tone. Her facial expression is neutral and she appears relaxed, establishing a calm and informative demeanor from the outset.",
+    "summary_reasoning": "Steady tone, neutral expression."
+  },
+  {
+    "timestamp": 2.835,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker's emotion shifts as she uses the strong word 'hate.' Her vocal tone becomes firmer and her brows furrow slightly. This combination of verbal and non-verbal cues indicates a clear frustration with the labels she is about to discuss.",
+    "summary_reasoning": "Firm tone, furrowed brow, strong word choice."
+  },
+  {
+    "timestamp": 8.341,
+    "emotion": "concerned",
+    "detailed_reasoning": "After expressing her frustration, the speaker's tone shifts to one of serious concern. She emphasizes the words 'misunderstood' and 'misused,' and her facial expression is grave, highlighting her concern about the negative impact and incorrect application of these functioning labels.",
+    "summary_reasoning": "Serious tone, emphasis on key words."
+  },
+  {
+    "timestamp": 16.412,
+    "emotion": "assertive",
+    "detailed_reasoning": "The speaker's demeanor becomes more assertive as she begins to correct a common misconception. Her tone is clear and direct, and she uses the definitive phrase 'simply means' to confidently state the factual definition of 'high functioning,' aiming to educate the audience.",
+    "summary_reasoning": "Assertive tone, factual language."
+  },
+  {
+    "timestamp": 35.739,
+    "emotion": "earnest",
+    "detailed_reasoning": "Using the phrase 'But the truth is,' the speaker signals a shift to a more profound point. Her vocal delivery becomes more earnest and sincere as she prepares to dismantle the simplistic definitions she just provided, aiming to convey a deeper, more personal truth.",
+    "summary_reasoning": "Sincere tone, transition phrase."
+  },
+  {
+    "timestamp": 45.373,
+    "emotion": "impassioned",
+    "detailed_reasoning": "The speaker's emotion intensifies as she uses her own life as an example. When stating 'my autism is not mild,' her voice gains a passionate force, her eyes widen, and she subtly shakes her head, conveying a strong, heartfelt conviction against the assumptions made about her.",
+    "summary_reasoning": "Intense tone, personal anecdote, forceful expression."
+  },
+  {
+    "timestamp": 51.575,
+    "emotion": "reflective",
+    "detailed_reasoning": "Following her impassioned statement, the speaker's tone softens as she poses a rhetorical question. Her pace slows, and her expression becomes more contemplative, inviting the audience to join her in a moment of reflection about the lived experience of autism.",
+    "summary_reasoning": "Soft tone, slow pace, rhetorical question."
+  },
+  {
+    "timestamp": 55.346,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker concludes with the single word 'anxiety.' Her delivery is quiet yet heavy, and her facial expression is serious and somber. This creates a powerful and weighty final impression, defining her entire experience with a single, somber concept.",
+    "summary_reasoning": "Quiet tone, serious expression, impactful word."
+  }
+]

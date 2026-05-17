@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 3.796,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker begins with a rapid, rhythmic, and performative vocal delivery, characteristic of slam poetry. His tone is energetic and engaged, and he uses descriptive, stylized language to paint a picture of a character. This intense and focused delivery indicates a strong passion for the story he is telling.",
+    "summary_reasoning": "Fast, rhythmic, performative tone."
+  },
+  {
+    "timestamp": 8.503,
+    "emotion": "confident",
+    "detailed_reasoning": "Continuing the poetic rhythm, the speaker uses confident and assertive language like \"Unimprovable\" and \"super cool.\" His vocal tone is steady and self-assured, projecting an air of confidence that matches the cool demeanor of the character he is describing.",
+    "summary_reasoning": "Assertive words, steady tone."
+  },
+  {
+    "timestamp": 12.428,
+    "emotion": "tender",
+    "detailed_reasoning": "The pace of his speech slows down, and the topic shifts from a description of the character's coolness to his internal feelings (\"wanted to tell her that he knew her favorite flower\"). The speaker's vocal tone becomes softer and more gentle, conveying a sense of tenderness and vulnerability.",
+    "summary_reasoning": "Slower pace, softer tone, romantic words."
+  },
+  {
+    "timestamp": 17.295,
+    "emotion": "sad",
+    "detailed_reasoning": "After building up the character's deep feelings, the speaker's tone drops significantly in pitch and volume on the words \"but... he knew it wouldn't work.\" This sudden shift, combined with a slower pace, introduces a clear feeling of sadness and hopelessness into the narrative.",
+    "summary_reasoning": "Lower pitch, slower pace, negative words."
+  },
+  {
+    "timestamp": 26.528,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker introduces a new character, \"60,\" and after a perfectly timed comedic pause, he delivers the line \"thought 59 was... odd.\" His slight smirk and the playful, slightly drawn-out delivery of the word \"odd\" shifts the mood from sad to humorous, indicating amusement.",
+    "summary_reasoning": "Comedic pause, playful tone, slight smirk."
+  },
+  {
+    "timestamp": 41.305,
+    "emotion": "romantic",
+    "detailed_reasoning": "The narrative shifts back to the male character's perspective. The speaker's voice becomes softer and takes on a more dreamy quality as he says, \"He romanticized the idea they were star-crossed lovers.\" This change in vocal delivery reflects the character's idealistic and romantic feelings.",
+    "summary_reasoning": "Softer, dreamy tone, romantic words."
+  },
+  {
+    "timestamp": 48.093,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker contrasts the man's romanticism with the woman's pragmatism, taught by her mother. When quoting the mother's reasoning that \"separate could not be equal,\" his tone becomes firmer, more direct, and loses its previous dreamy quality. This shift to a more declarative and stern tone conveys seriousness.",
+    "summary_reasoning": "Firmer tone, direct delivery, serious words."
+  },
+  {
+    "timestamp": 53.059,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker describes the character's feelings of helplessness, emphasizing the words \"stupid and dumb\" and \"stupid mama.\" His vocal tone gains a distinct edge and a slightly harsher quality, expressing the character's frustration with the situation.",
+    "summary_reasoning": "Harsher tone, emphasized negative words."
+  },
+  {
+    "timestamp": 57.645,
+    "emotion": "hopeful",
+    "detailed_reasoning": "In the final line, the speaker's tone softens and becomes more gentle and thoughtful. He delivers the punchline, \"take 59 away from 60 and you're left with the one,\" with a sense of quiet revelation. This shift from frustration to a calm, positive conclusion suggests a feeling of hope.",
+    "summary_reasoning": "Soft, gentle tone, positive resolution."
+  }
+]

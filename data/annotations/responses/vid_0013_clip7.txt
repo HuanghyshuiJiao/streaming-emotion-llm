@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 2.016,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker begins by talking about past decisions. His tone is calm and even, and his facial expression is neutral with slightly furrowed brows, suggesting he is thinking back and recalling his feelings at the time. The pace of his speech is measured and deliberate.",
+    "summary_reasoning": "Calm tone, thoughtful expression, measured pace."
+  },
+  {
+    "timestamp": 5.364,
+    "emotion": "determined",
+    "detailed_reasoning": "After posing a rhetorical question about being ready, the speaker's tone shifts to become more assertive and forward-driving. He says he started hitting the gym \"hard,\" emphasizing the last word. His expression becomes more focused, indicating a sense of resolve and commitment to the action he's describing.",
+    "summary_reasoning": "Assertive tone, focused expression, emphatic speech."
+  },
+  {
+    "timestamp": 7.469,
+    "emotion": "self-deprecating",
+    "detailed_reasoning": "The speaker's tone softens and becomes slightly sheepish as he admits, \"I didn't know really much of what I was doing.\" His eyes shift away slightly, a common cue for recalling something with a hint of embarrassment or humility. This indicates a self-aware and slightly critical look at his past self.",
+    "summary_reasoning": "Soft tone, sheepish expression, averted gaze."
+  },
+  {
+    "timestamp": 13.345,
+    "emotion": "neutral",
+    "detailed_reasoning": "The speaker transitions into describing his specific workout routine. His tone becomes very factual and descriptive, without any significant emotional inflection. His facial expression is neutral as he lists the number of days and the type of exercise, indicating he is simply relaying information.",
+    "summary_reasoning": "Factual tone, neutral expression, descriptive language."
+  },
+  {
+    "timestamp": 19.854,
+    "emotion": "pragmatic",
+    "detailed_reasoning": "Explaining his choice of the elliptical machine, the speaker's tone conveys a sense of practical reasoning. He states it was something he was \"able to get through\" and that it was still a \"really hard workout.\" This justification shows a logical, problem-solving mindset rather than an emotional one.",
+    "summary_reasoning": "Justifying tone, logical explanation."
+  },
+  {
+    "timestamp": 24.561,
+    "emotion": "amused",
+    "detailed_reasoning": "When talking about his dislike for running, the speaker's tone becomes lighter and he shows a slight, wry smile. His admission, \"I still don't,\" followed by his theory about being heavier, is delivered with a sense of humorous self-awareness, as if he finds his past reasoning funny in retrospect.",
+    "summary_reasoning": "Light tone, wry smile, humorous self-awareness."
+  },
+  {
+    "timestamp": 39.653,
+    "emotion": "humorous",
+    "detailed_reasoning": "The speaker's tone becomes more playful and he almost chuckles as he explains why he focused on arm exercises. The rhetorical question, \"who doesn't want muscly arms when you're a guy?\" is delivered with a knowing look and a smile, clearly intended to be a relatable and funny stereotype.",
+    "summary_reasoning": "Playful tone, smile, rhetorical question."
+  },
+  {
+    "timestamp": 46.389,
+    "emotion": "informative",
+    "detailed_reasoning": "The topic shifts to tracking calories, and the speaker's demeanor becomes more serious and educational. He clearly states that he started tracking his calories and downloaded a specific app. The tone is straightforward and focused on conveying a key piece of information about his journey.",
+    "summary_reasoning": "Serious tone, direct speech, conveying facts."
+  },
+  {
+    "timestamp": 56.394,
+    "emotion": "joking",
+    "detailed_reasoning": "After stating the year was 2011, the speaker mentions his age and immediately follows it with a self-conscious laugh and a smile, saying \"I swear I'm not that old.\" His tone is lighthearted, and his facial expression is clearly amused, indicating he is making a joke about his age for the audience.",
+    "summary_reasoning": "Laughing, smiling, self-conscious disclaimer."
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 4.316,
+    "emotion": "sadness",
+    "detailed_reasoning": "The speaker begins his monologue with a slow, deliberate pace and a soft, melancholic tone. His facial expression is downcast, and his eyes convey a sense of weariness and introspection, setting an initial mood of sadness as he recounts a seemingly mundane yet significant event.",
+    "summary_reasoning": "Slow pace, melancholic tone, downcast expression."
+  },
+  {
+    "timestamp": 6.778,
+    "emotion": "serious",
+    "detailed_reasoning": "There is a distinct shift in energy. The speaker's voice becomes slightly more assertive and he leans forward, directly addressing the audience with \"you hear me?\". This break from the narrative flow and the direct engagement creates a more serious and intense atmosphere, demanding the audience's attention.",
+    "summary_reasoning": "Assertive voice, direct audience address."
+  },
+  {
+    "timestamp": 11.744,
+    "emotion": "intense",
+    "detailed_reasoning": "The speaker repeats his direct address, \"Do you hear this?\", but with significantly more volume and force. His facial expression is more strained, and his eyes are wide, signaling an escalation from seriousness to a more urgent and intense emotional state. He is now pleading for the audience to understand the gravity of his experience.",
+    "summary_reasoning": "Increased volume, forceful tone, wide eyes."
+  },
+  {
+    "timestamp": 17.73,
+    "emotion": "contemplative",
+    "detailed_reasoning": "Following the intense outburst, the speaker's demeanor softens dramatically. His voice drops in volume, becoming almost a whisper, and his pace slows. He describes the moment he stopped and looked up, and his gaze drifts as if he is reliving the memory. This transition indicates a shift to a contemplative and reflective state.",
+    "summary_reasoning": "Soft voice, slow pace, distant gaze."
+  },
+  {
+    "timestamp": 22.876,
+    "emotion": "wonder",
+    "detailed_reasoning": "As he says \"the sky,\" his voice is filled with awe, and he makes a broad, open gesture with his arm, pointing upwards. His facial expression softens into one of profound realization and wonder. The camera cuts to the audience, but his tone carries the emotion clearly.",
+    "summary_reasoning": "Awestruck tone, upward gesture."
+  },
+  {
+    "timestamp": 27.861,
+    "emotion": "longing",
+    "detailed_reasoning": "The speaker's tone becomes deeply sentimental and soft as he lists the simple things he loves in the world, such as \"the work\" and \"the food.\" The way he speaks these words conveys a powerful sense of longing for a simpler, more authentic life that he feels disconnected from.",
+    "summary_reasoning": "Sentimental tone, soft voice, reflective content."
+  },
+  {
+    "timestamp": 41.416,
+    "emotion": "frustration",
+    "detailed_reasoning": "The mood shifts abruptly from nostalgic longing to sharp self-criticism. His voice rises in volume and gains a harsh, frustrated edge as he asks himself, \"what the hell am I grabbing this for?\". The use of an expletive and the aggressive questioning show his mounting frustration with his own actions.",
+    "summary_reasoning": "Harsh tone, raised volume, self-critical question."
+  },
+  {
+    "timestamp": 46.669,
+    "emotion": "desperation",
+    "detailed_reasoning": "The speaker's frustration evolves into desperation. His voice cracks slightly as he asks, \"Why am I trying to become what I don't want to be?\". He spreads his hands in a gesture of helplessness, and his facial expression is pained, conveying a deep sense of internal conflict and desperation.",
+    "summary_reasoning": "Pained voice, helpless gesture, internal conflict."
+  },
+  {
+    "timestamp": 53.284,
+    "emotion": "anguish",
+    "detailed_reasoning": "The emotion intensifies to anguish. He describes himself as a \"contemptuous, begging fool,\" and his voice is filled with self-loathing and pain. The words are delivered with a heightened sense of drama and emotional turmoil, showing the peak of his distress.",
+    "summary_reasoning": "Pained tone, self-loathing words, heightened drama."
+  },
+  {
+    "timestamp": 57.915,
+    "emotion": "hope",
+    "detailed_reasoning": "In the final lines, there is a sudden and powerful shift. After hitting a low point of anguish, his voice becomes clear and strong. He gestures emphatically towards an unseen horizon, symbolizing a future he can claim. The mention of everything he wants \"waiting for me\" transforms the tone from despair to one of sudden, powerful hope and self-realization.",
+    "summary_reasoning": "Strong voice, emphatic gesture, hopeful words."
+  }
+]

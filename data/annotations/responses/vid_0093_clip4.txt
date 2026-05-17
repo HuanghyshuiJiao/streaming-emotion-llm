@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 7.124,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker begins with an energetic and engaged tone, using expressive hand gestures to emphasize his point. His voice is raised and his speech is paced quickly, conveying a strong sense of passion for the topic of acting and conveying authenticity.",
+    "summary_reasoning": "Energetic tone, expressive gestures, fast pace."
+  },
+  {
+    "timestamp": 12.253,
+    "emotion": "emphatic",
+    "detailed_reasoning": "He repeats the phrase \"And that's what makes it...\" three times, with increasing vocal intensity and a conclusive tone on the word \"great.\" This repetition and vocal stress strongly emphasize the importance of the point he is making, shifting from general passion to specific emphasis.",
+    "summary_reasoning": "Repetitive phrasing, increasing vocal intensity."
+  },
+  {
+    "timestamp": 18.52,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker transitions to his next point, \"you have to understand the motive.\" His tone becomes more direct and instructional, his pace slows slightly, and he uses a pointed finger gesture. This indicates a shift to a more serious, instructive mood, moving from a general statement to a specific command for the listener.",
+    "summary_reasoning": "Direct tone, slower pace, pointed gesture."
+  },
+  {
+    "timestamp": 28.731,
+    "emotion": "cautionary",
+    "detailed_reasoning": "When explaining the negative consequence of not understanding the motive, the speaker's tone becomes cautionary. He says \"you'll miss the whole thing\" with a sense of warning. His facial expression is serious and his hand gestures are more contained, reinforcing the gravity of the potential mistake.",
+    "summary_reasoning": "Warning tone, serious expression."
+  },
+  {
+    "timestamp": 34.558,
+    "emotion": "earnest",
+    "detailed_reasoning": "The speaker shifts to a personal example, explaining his own motive for speaking. His tone softens and becomes more personal and sincere. He makes direct eye contact with the camera, creating a sense of earnest connection with the viewer as he shares his personal intention.",
+    "summary_reasoning": "Softened tone, direct eye contact, personal example."
+  },
+  {
+    "timestamp": 49.376,
+    "emotion": "analytical",
+    "detailed_reasoning": "He breaks down how his motive affects his delivery, listing specific elements like \"the pace I speak, the beats I take, the words I choose.\" His tone becomes more measured and analytical, and his hand gestures are used to delineate each point, reflecting a more thoughtful and deconstructive mindset.",
+    "summary_reasoning": "Measured tone, listing examples, analytical hand gestures."
+  },
+  {
+    "timestamp": 58.236,
+    "emotion": "instructive",
+    "detailed_reasoning": "In the final sentences, he directly tells the audience what to do when acting (\"You read the character... you look at their actions.\"). His tone is clear and instructive, and he uses definitive hand gestures to command attention. The emotion shifts back to a teacher-like, guiding mode, providing a clear takeaway.",
+    "summary_reasoning": "Direct commands, clear tone, guiding gestures."
+  }
+]

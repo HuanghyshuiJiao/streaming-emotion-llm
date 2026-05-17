@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 2.814,
+    "emotion": "neutral",
+    "detailed_reasoning": "The speaker begins with a standard friendly greeting to his audience. His tone is even, his facial expression is relaxed and open, and he uses simple hand gestures as he introduces the topic for the video. This establishes a baseline neutral and engaging emotional state.",
+    "summary_reasoning": "Even tone, relaxed face, introductory content."
+  },
+  {
+    "timestamp": 11.285,
+    "emotion": "amused",
+    "detailed_reasoning": "After explaining the video concept, the speaker suggests it might be funny. His tone lightens, his pace quickens slightly, and a subtle smile appears, indicating he finds the idea genuinely amusing and lighthearted.",
+    "summary_reasoning": "Lighter tone, slight smile, word 'funny'."
+  },
+  {
+    "timestamp": 16.351,
+    "emotion": "self-deprecating",
+    "detailed_reasoning": "There is a sharp shift in tone and content. After proposing the idea in a positive light, he abruptly calls it a 'terrible idea.' His eyes widen slightly and his tone becomes more dramatic and negative, signaling a turn towards self-criticism and rejection of his own initial concept.",
+    "summary_reasoning": "Sudden negative tone, widened eyes, contradictory words."
+  },
+  {
+    "timestamp": 18.453,
+    "emotion": "cynical",
+    "detailed_reasoning": "The speaker elaborates on why the idea is bad, using strong negative words like 'narcissistic' and 'pretentious'. His facial expression is serious and slightly strained, and his tone is emphatic, conveying a cynical and critical view of the proposed video format.",
+    "summary_reasoning": "Serious expression, emphatic tone, strong negative words."
+  },
+  {
+    "timestamp": 27.846,
+    "emotion": "resigned",
+    "detailed_reasoning": "After explaining his self-criticism, he concludes that he can't take himself seriously. He says this with a slight, wry smile and a subtle shake of his head, indicating a sense of humorous resignation to his own nature.",
+    "summary_reasoning": "Wry smile, head shake, self-aware statement."
+  },
+  {
+    "timestamp": 32.252,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker shifts back to his dilemma of finding a video topic. After a long, silent pause where he is clearly thinking, he says 'Nope. Nothing.' with a flat, defeated tone and a blank expression. This combination of silence and blunt negativity conveys his frustration and lack of ideas.",
+    "summary_reasoning": "Long pause, flat tone, blank expression."
+  },
+  {
+    "timestamp": 39.562,
+    "emotion": "playful",
+    "detailed_reasoning": "Having failed to find a serious idea, his mood shifts. He decides to find 'unironically cheesy ukulele music'. His tone becomes lighter and more mischievous, and a smile emerges as he leans into a more comedic and less serious approach, indicating a playful shift.",
+    "summary_reasoning": "Lighter tone, smile, comedic word choice."
+  },
+  {
+    "timestamp": 47.653,
+    "emotion": "enthusiastic",
+    "detailed_reasoning": "With the cheesy music now playing, the speaker claps his hands together and says, 'Okay, let's do some roleplaying.' His voice is louder, more energetic, and his expression is bright and engaged, showing enthusiasm for starting the comedic segment of the video.",
+    "summary_reasoning": "Energetic tone, bright expression, declarative statement."
+  },
+  {
+    "timestamp": 50.875,
+    "emotion": "confused",
+    "detailed_reasoning": "The speaker looks down, presumably at a title card he just created, and immediately questions it by saying 'Why did I put that?'. His eyebrows furrow slightly, and his tone shifts from enthusiastic to questioning and confused, as he realizes he's made a mistake.",
+    "summary_reasoning": "Furrowed eyebrows, questioning tone, self-correcting words."
+  },
+  {
+    "timestamp": 52.706,
+    "emotion": "exasperated",
+    "detailed_reasoning": "Continuing to correct himself, he exclaims that it's a 'bloody video,' not a letter. His tone is comically exasperated, and his facial expression shows humorous frustration with his own silly mistake, ending the clip on a final note of lighthearted self-deprecation.",
+    "summary_reasoning": "Exasperated tone, comedic frustration, strong word choice."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 5.718,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his speech with a calm and measured tone. He is delivering a story or a lesson, and his voice is steady, his posture is composed, and his facial expression is neutral. This establishes a baseline of a calm, authoritative speaker addressing an audience formally.",
+    "summary_reasoning": "Calm tone, steady voice, neutral expression."
+  },
+  {
+    "timestamp": 17.352,
+    "emotion": "inspirational",
+    "detailed_reasoning": "The speaker's tone shifts as he describes the action of confronting the shark. His voice becomes more forceful and energetic, particularly on the words \"summons up all your strength and punch him in the snout.\" This change, combined with the empowering language, is designed to inspire and motivate the audience.",
+    "summary_reasoning": "Forceful tone, energetic delivery, empowering words."
+  },
+  {
+    "timestamp": 22.217,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "After the dramatic peak of punching the shark, the speaker's tone softens and becomes more reflective. He delivers the line, \"There are a lot of sharks in the world,\" with a slower pace and a more contemplative tone, transitioning the specific story into a broader life metaphor.",
+    "summary_reasoning": "Softer tone, slower pace, reflective delivery."
+  },
+  {
+    "timestamp": 31.864,
+    "emotion": "determined",
+    "detailed_reasoning": "This is the climax of the metaphor. The speaker's voice becomes firm and resolute as he delivers the core message: \"don't back down from the sharks.\" His pace is deliberate and his tone is filled with conviction, conveying a strong sense of determination and encouragement to the audience.",
+    "summary_reasoning": "Firm voice, resolute tone, deliberate pace."
+  },
+  {
+    "timestamp": 37.075,
+    "emotion": "proud",
+    "detailed_reasoning": "The speaker transitions to talking about his own experience as a Navy SEAL. His tone becomes slightly more personal and carries a sense of pride and authority. He describes the difficult missions they conduct, and his voice is steady and confident, reflecting pride in his profession and the skills of his colleagues.",
+    "summary_reasoning": "Authoritative tone, confident delivery, personal context."
+  },
+  {
+    "timestamp": 50.344,
+    "emotion": "serious",
+    "detailed_reasoning": "As he describes the specifics of the underwater mission—swimming over two miles with minimal equipment—his tone becomes more serious and grave. He is emphasizing the immense difficulty and danger of the task. The detailed, factual description is delivered with a serious demeanor to convey the gravity of the situation.",
+    "summary_reasoning": "Grave tone, factual description, serious demeanor."
+  }
+]

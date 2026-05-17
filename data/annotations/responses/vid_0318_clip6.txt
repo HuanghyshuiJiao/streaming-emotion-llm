@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "concerned",
+    "detailed_reasoning": "The speaker begins by describing a scenario of economic hardship: people losing union jobs and competing for low-wage work. His facial expression is serious, with a slightly furrowed brow, and his vocal tone is somber and measured. This combination of verbal content and non-verbal cues indicates a feeling of concern for the people he is describing.",
+    "summary_reasoning": "Serious expression, somber tone, hardship narrative."
+  },
+  {
+    "timestamp": 9.768,
+    "emotion": "empathetic",
+    "detailed_reasoning": "He shifts to a personal and emotional anecdote about a father worried about his son's medical bills. His voice softens and slows down, adopting a more storytelling, empathetic tone. His facial expression also softens, reflecting the sadness of the story he's recounting. The content itself is designed to evoke empathy, and his delivery matches this intent.",
+    "summary_reasoning": "Soft, slow voice, sad personal story, empathetic expression."
+  },
+  {
+    "timestamp": 22.897,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker moves to another story of thwarted potential, this time about a student unable to afford college. He lists her positive qualities ('grades,' 'drive,' 'will') with a rising, rhythmic cadence and increased vocal intensity. This builds a sense of righteous passion about the injustice of her situation, moving beyond simple empathy to a call for attention and action.",
+    "summary_reasoning": "Rising vocal intensity, rhythmic cadence, story of injustice."
+  },
+  {
+    "timestamp": 33.57,
+    "emotion": "reassuring",
+    "detailed_reasoning": "The speaker makes a rhetorical shift with the phrase 'Now, don't get me wrong.' His tone becomes more direct and conversational, and he uses reassuring hand gestures. He is clarifying a core principle: that the people he speaks of are hard-working and self-reliant. This projects a sense of being grounded and reassuring the audience of their shared values.",
+    "summary_reasoning": "Direct tone, reassuring gesture, stating shared values."
+  },
+  {
+    "timestamp": 44.363,
+    "emotion": "confident",
+    "detailed_reasoning": "Building on the previous point, the speaker strongly affirms the work ethic of the people. His voice becomes firm and assertive, and he nods his head for emphasis. The definitive statement, 'and they want to,' delivered with conviction, projects confidence in his understanding of and connection with the electorate.",
+    "summary_reasoning": "Firm, assertive voice, head nod, statement of conviction."
+  },
+  {
+    "timestamp": 48.293,
+    "emotion": "impassioned",
+    "detailed_reasoning": "In the final section, the speaker's energy peaks. He uses a broad gesture and his voice builds in volume and forcefulness, creating a crescendo. By citing a specific example of not wanting 'tax money wasted,' he taps into a powerful, shared sentiment. The delivery becomes highly impassioned, designed to energize and unite the audience.",
+    "summary_reasoning": "Rising volume, forceful tone, broad gesture, populist appeal."
+  }
+]

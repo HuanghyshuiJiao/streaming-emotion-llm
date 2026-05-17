@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 3.536,
+    "emotion": "admiring",
+    "detailed_reasoning": "The speaker begins with a calm but slightly elevated tone. When he says the word \"brilliant,\" his voice takes on a distinctly admiring quality, his eyebrows raise slightly, and he looks up, as if in fond remembrance of the person he's describing. The context of calling someone \"one in a septillion\" builds this sense of awe and admiration.",
+    "summary_reasoning": "Admiring tone, raised eyebrows, upward gaze."
+  },
+  {
+    "timestamp": 7.080,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker's delivery speeds up, becoming more rhythmic and performative. His vocal intensity increases, and he uses hand gestures to emphasize the words \"billions,\" showing a clear shift from simple admiration to a more passionate and energetic delivery of the spoken word poetry.",
+    "summary_reasoning": "Faster rhythmic speech, increased vocal intensity, hand gestures."
+  },
+  {
+    "timestamp": 11.346,
+    "emotion": "inspired",
+    "detailed_reasoning": "After the passionate burst, his tone softens slightly on the word \"resilience.\" He delivers the line with a sense of conviction and inspiration, as if sharing a profound lesson he learned. His facial expression is serious and focused, conveying the importance of the message.",
+    "summary_reasoning": "Convicted tone, serious focused expression."
+  },
+  {
+    "timestamp": 20.177,
+    "emotion": "defiant",
+    "detailed_reasoning": "The speaker's tone shifts dramatically to become challenging and defiant. He increases his volume and puts a hard emphasis on the phrase \"how the hell could they handle your light?\" His facial expression becomes intense, with a slight snarl, and his body tenses, directly challenging an unseen adversary.",
+    "summary_reasoning": "Challenging tone, increased volume, intense expression."
+  },
+  {
+    "timestamp": 24.543,
+    "emotion": "empowering",
+    "detailed_reasoning": "Following the defiant tone, the emotion shifts to one of empowerment. His voice becomes strong and commanding as he says \"silence the critics by burning.\" He makes a powerful, sweeping hand gesture, and his expression is one of fierce determination, aiming to inspire and empower the audience.",
+    "summary_reasoning": "Commanding voice, powerful gesture, determined expression."
+  },
+  {
+    "timestamp": 29.010,
+    "emotion": "tender",
+    "detailed_reasoning": "The speaker's entire demeanor softens. His voice becomes gentler and more melodic as he delivers the metaphorical line about letting the \"sunshine through the hurting.\" His facial expression relaxes, and he closes his eyes briefly, conveying a sense of tenderness and empathy.",
+    "summary_reasoning": "Soft melodic voice, relaxed face, closed eyes."
+  },
+  {
+    "timestamp": 35.396,
+    "emotion": "nostalgic",
+    "detailed_reasoning": "The speaker's pace slows down, and his tone becomes more reflective and wistful, especially on the line \"the memories would last forever.\" He looks up and away from the audience, a common gesture associated with recalling past events, indicating a nostalgic state.",
+    "summary_reasoning": "Reflective tone, upward gaze, slowed pace."
+  },
+  {
+    "timestamp": 39.840,
+    "emotion": "confident",
+    "detailed_reasoning": "His tone shifts from nostalgic to confident and reassuring. He delivers the line \"the kid could still shine\" with a firm voice and a subtle, knowing smile. His posture is upright, and he seems certain of the statement, projecting confidence.",
+    "summary_reasoning": "Firm voice, subtle smile, upright posture."
+  },
+  {
+    "timestamp": 45.466,
+    "emotion": "intense",
+    "detailed_reasoning": "The speaker's voice crescendos in volume and speed. The word \"savagely\" is delivered with a visceral intensity, and his facial expression becomes fierce, with gritted teeth. His whole body is engaged in the performance, conveying a powerful, burning intensity that matches the words.",
+    "summary_reasoning": "Loud fast voice, fierce expression, gritted teeth."
+  },
+  {
+    "timestamp": 52.953,
+    "emotion": "grateful",
+    "detailed_reasoning": "After the intense peak of the poem, the speaker's performance concludes. His body relaxes, a soft smile appears on his face, and his tone becomes calm and sincere as he says \"Thank you very much.\" He makes eye contact with the audience, expressing genuine gratitude.",
+    "summary_reasoning": "Relaxed body, soft smile, sincere tone."
+  }
+]

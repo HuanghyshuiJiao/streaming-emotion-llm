@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 3.636,
+    "emotion": "sad",
+    "detailed_reasoning": "The video starts with the speaker in a dark room, sitting with a slumped posture and looking down. His initial words, \"That's what it did,\" are delivered in a low, flat, and resigned tone. His facial expression is somber, and he shows no positive affect, setting a clear mood of sadness or melancholy from the very beginning.",
+    "summary_reasoning": "Low flat tone, slumped posture, somber expression."
+  },
+  {
+    "timestamp": 14.167,
+    "emotion": "melancholy",
+    "detailed_reasoning": "The speaker is recounting a story about a Korean orphan his class sponsored. The topic itself is somber. His vocal tone remains consistently low and monotonous, and his gaze is directed downwards and to the side. This sustained lack of energy and sad subject matter points to a state of melancholy reflection.",
+    "summary_reasoning": "Low monotonous tone, downward gaze, sad topic."
+  },
+  {
+    "timestamp": 31.624,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker explicitly states, \"It was an unfortunate thing.\" This verbal confirmation of the negative outcome is delivered with the same low, mournful tone and somber expression. The context has now shifted from sponsoring a child to an unfortunate event involving that child, deepening the initial sadness.",
+    "summary_reasoning": "Explicit sad words, mournful tone, somber expression."
+  },
+  {
+    "timestamp": 33.852,
+    "emotion": "helpless",
+    "detailed_reasoning": "The speaker says, \"I don't know how he died,\" while spreading his hands wide in a gesture of uncertainty and helplessness. His tone is filled with sorrowful confusion, and his facial expression conveys a deep sense of loss and inability to comprehend the situation. The combination of his words, tone, and gesture strongly indicates a feeling of helplessness on top of his sadness.",
+    "summary_reasoning": "Questioning tone, open-handed gesture, sad expression."
+  },
+  {
+    "timestamp": 49.259,
+    "emotion": "dejected",
+    "detailed_reasoning": "After explaining that the organization suggested they adopt another child, the speaker says, \"But we didn't have the heart.\" This is a powerful statement of emotional exhaustion and grief. His voice is very low and soft, his posture remains slumped, and his gaze is fixed on the floor. The combination of these cues points to a feeling of being completely dejected and emotionally unable to move on.",
+    "summary_reasoning": "Soft low voice, slumped posture, downward gaze, sad words."
+  },
+  {
+    "timestamp": 53.747,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker describes the class's reaction, stating they \"took it pretty rough.\" His tone is heavy, and he puts his hands on his hips, a posture that can indicate feeling burdened. He is reflecting on the shared grief of the group, and his overall demeanor is deeply somber and serious as he concludes the story.",
+    "summary_reasoning": "Heavy tone, burdened posture, reflecting on group grief."
+  }
+]

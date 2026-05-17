@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins her statement with a very focused and grave facial expression. Her tone is measured and clinical, and her eyebrows are slightly furrowed, indicating she is discussing a serious topic concerning patient care.",
+    "summary_reasoning": "Focused expression, measured tone, serious topic."
+  },
+  {
+    "timestamp": 10.047,
+    "emotion": "determined",
+    "detailed_reasoning": "As she lists the various best practices, her tone becomes more resolute and her hand gestures are precise and enumerative. This shift suggests a sense of determination and confidence in the comprehensive, multi-faceted approach she is describing.",
+    "summary_reasoning": "Resolute tone, precise hand gestures."
+  },
+  {
+    "timestamp": 20.203,
+    "emotion": "assertive",
+    "detailed_reasoning": "The speaker says \"yes, medication\" with a distinct nod and emphasis. This delivery is assertive, directly addressing a potentially controversial aspect of treatment and showing conviction in the decision-making process of the medical team.",
+    "summary_reasoning": "Emphasis on \"yes\", assertive nod."
+  },
+  {
+    "timestamp": 23.408,
+    "emotion": "emphatic",
+    "detailed_reasoning": "The speaker shifts her focus to educating parents. Her tone becomes more emphatic and she uses a slight head tilt and more open hand gestures. This change highlights the importance of this aspect of their work, moving beyond just clinical treatment to proactive education.",
+    "summary_reasoning": "Emphatic tone, open gestures."
+  },
+  {
+    "timestamp": 33.464,
+    "emotion": "authoritative",
+    "detailed_reasoning": "When explaining how they tailor care for specific conditions like asthma and diabetes, her voice becomes very clear and authoritative. She speaks with the confidence of an expert, reinforcing the credibility and thoroughness of their medical approach.",
+    "summary_reasoning": "Clear, confident tone, expert delivery."
+  },
+  {
+    "timestamp": 46.284,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker's tone softens slightly and becomes more reflective as she begins to talk about the personal impact of understanding the science. She is transitioning from explaining the 'what' to explaining the 'why' and the feeling it evokes.",
+    "summary_reasoning": "Softened tone, personal content."
+  },
+  {
+    "timestamp": 50.873,
+    "emotion": "passionate",
+    "detailed_reasoning": "There is a dramatic shift in emotion here. The speaker's volume and pitch increase significantly, her eyes widen, and her gestures become large and expansive as she says she wants to \"shout it from the rooftops.\" This conveys a deep sense of passion and urgency about the message she is spreading.",
+    "summary_reasoning": "Increased volume, wide eyes, expansive gestures."
+  }
+]

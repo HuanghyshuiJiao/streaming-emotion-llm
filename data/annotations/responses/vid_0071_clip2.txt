@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 4.138,
+    "emotion": "nostalgic",
+    "detailed_reasoning": "The speaker is recounting a past memory. His tone is soft and his gaze is directed away from the camera, looking upwards as if recalling a specific moment. The content of his speech, reminiscing about something his ex-partner found funny, combined with this distant look, suggests a sense of nostalgia.",
+    "summary_reasoning": "Recalling memory, soft tone, distant gaze."
+  },
+  {
+    "timestamp": 8.965,
+    "emotion": "sad",
+    "detailed_reasoning": "The word \"But\" marks a clear tonal shift in the narrative. His facial expression becomes more somber, his eyebrows slightly furrow, and he looks down. The positive nostalgia from the previous sentences shifts to a more melancholic reflection on what came after, indicating sadness about the relationship's turn.",
+    "summary_reasoning": "Tonal shift, somber expression, downward gaze."
+  },
+  {
+    "timestamp": 16.017,
+    "emotion": "confused",
+    "detailed_reasoning": "The speaker's eyes widen, and he has a slightly bewildered expression as he says \"I'm not sure what.\" His tone is flat and questioning. He is describing a point of disconnection in the relationship that he doesn't understand, and his visual and vocal cues convey this sense of confusion.",
+    "summary_reasoning": "Wide eyes, bewildered expression, questioning tone."
+  },
+  {
+    "timestamp": 29.191,
+    "emotion": "resigned",
+    "detailed_reasoning": "After describing the growing distance, his tone becomes even more flat and his pace slows. He looks down, and his facial expression is one of defeat. He is about to describe the end of the relationship, and his demeanor suggests he has accepted the inevitable outcome, indicating resignation.",
+    "summary_reasoning": "Flat tone, slow pace, downward gaze, defeated expression."
+  },
+  {
+    "timestamp": 45.523,
+    "emotion": "bittersweet",
+    "detailed_reasoning": "The speaker describes his ex-partner giving him a smile. As he says this, a very slight, faint smile appears on his own face, but it doesn't reach his eyes, which remain sad. This contrast between the word \"smile\" and his melancholic expression suggests the memory is both pleasant and painful, creating a bittersweet feeling.",
+    "summary_reasoning": "Slight smile, sad eyes, contrasting words and expression."
+  }
+]

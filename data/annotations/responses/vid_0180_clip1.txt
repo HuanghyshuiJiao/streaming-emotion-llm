@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 1.273,
+    "emotion": "sad",
+    "detailed_reasoning": "The video begins with the speaker already in a state of distress. Her eyes are red and welled up with tears, and her face is tear-streaked. Her initial words, 'That's all you want, isn't it?', are delivered with a trembling, high-pitched voice, indicating deep sadness and hurt.",
+    "summary_reasoning": "Crying, tear-streaked face, trembling voice."
+  },
+  {
+    "timestamp": 6.339,
+    "emotion": "accusatory",
+    "detailed_reasoning": "The speaker's tone shifts from pure sadness to a more accusatory and frustrated one. As she says, 'It's why you're always creating drama in this family,' her voice becomes slightly louder and more forceful, and her brows furrow slightly, directly blaming the other person.",
+    "summary_reasoning": "Forceful tone, furrowed brows, blaming words."
+  },
+  {
+    "timestamp": 12.146,
+    "emotion": "frustrated",
+    "detailed_reasoning": "Her expression becomes more exasperated as she says, 'You're just never happy, are you?' The slight head shake and the direct, frustrated tone of the question suggest she feels hopeless about the situation and is frustrated with the other person's perceived constant unhappiness.",
+    "summary_reasoning": "Exasperated expression, frustrated tone, hopeless words."
+  },
+  {
+    "timestamp": 24.382,
+    "emotion": "angry",
+    "detailed_reasoning": "There is a clear escalation in emotion to anger. She explicitly states, 'and I'm getting sick of this,' with a much harsher, louder tone. Her facial expression tightens, her eyes narrow, and she looks directly at the camera, conveying strong anger and resentment.",
+    "summary_reasoning": "Harsh tone, louder voice, tightened facial expression."
+  },
+  {
+    "timestamp": 34.128,
+    "emotion": "disgusted",
+    "detailed_reasoning": "The speaker's anger evolves into disgust and contempt. The question, 'Why are you so sick in the head?', is delivered with a sharp, biting tone. Her face contorts in a way that shows revulsion, moving beyond simple anger to a state of disgust at the other person's behavior.",
+    "summary_reasoning": "Biting tone, contemptuous words, facial expression of revulsion."
+  },
+  {
+    "timestamp": 41.746,
+    "emotion": "pleading",
+    "detailed_reasoning": "Her tone softens significantly from the previous anger and disgust. As she suggests, 'There are better things you could do for people to think of you,' her voice takes on a pleading quality. Her expression also softens, indicating a shift from attack to a desperate appeal for change.",
+    "summary_reasoning": "Softened tone, pleading voice, desperate appeal in words."
+  },
+  {
+    "timestamp": 53.152,
+    "emotion": "hopeful",
+    "detailed_reasoning": "After suggesting a positive alternative, her voice becomes lighter and more hopeful. When she says, 'you'll also feel good about yourself,' her expression opens up slightly, and there's a hint of a genuine, albeit tearful, appeal, suggesting she holds out some hope for the person to change.",
+    "summary_reasoning": "Lighter tone, open expression, suggesting positive outcome."
+  },
+  {
+    "timestamp": 56.079,
+    "emotion": "desperate",
+    "detailed_reasoning": "In her final question, 'Don't you want that?', her voice is soft, high-pitched, and trembling again. Her wide, tearful eyes look directly forward, conveying a final, desperate plea. The hope has faded into a raw expression of desperation for a positive response.",
+    "summary_reasoning": "Soft, trembling voice, wide tearful eyes, pleading question."
+  }
+]

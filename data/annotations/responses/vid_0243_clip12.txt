@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 6.303,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker's delivery is measured and her tone is even. Her facial expression is neutral and her body language is relaxed, indicating a calm and reflective state as she introduces her topic.",
+    "summary_reasoning": "Even tone, neutral expression, relaxed posture."
+  },
+  {
+    "timestamp": 16.359,
+    "emotion": "frustrated",
+    "detailed_reasoning": "There is a subtle shift in her tone, which becomes slightly more forceful and carries a hint of frustration. This change aligns with the content of her speech, as she describes how natural behaviors are deemed socially unacceptable.",
+    "summary_reasoning": "Forceful tone, critical content."
+  },
+  {
+    "timestamp": 25.954,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker's voice gains intensity and conviction as she emphasizes the word \"crucial.\" Her facial expression becomes more animated, and her gaze is direct, conveying a passionate belief in the importance of stimming.",
+    "summary_reasoning": "Intense voice, animated expression, direct gaze."
+  },
+  {
+    "timestamp": 34.313,
+    "emotion": "happy",
+    "detailed_reasoning": "Her tone becomes lighter and more melodic when she describes flapping her hands when she is happy and excited. A slight smile appears on her face, and her body language opens up, reflecting a joyful emotion.",
+    "summary_reasoning": "Light tone, slight smile, open body language."
+  },
+  {
+    "timestamp": 43.656,
+    "emotion": "focused",
+    "detailed_reasoning": "The speaker's tone becomes more serious and focused as she explains the practical function of her stimming for blocking sensory input. Her gaze intensifies and her hand gestures become more deliberate, indicating deep concentration and a desire to convey the importance of this coping mechanism.",
+    "summary_reasoning": "Serious tone, intense gaze, deliberate gestures."
+  },
+  {
+    "timestamp": 58.135,
+    "emotion": "sad",
+    "detailed_reasoning": "Her voice drops in pitch and volume, and her pace slows down. Her facial expression becomes somber and her eyes look down, conveying a sense of sadness and resignation as she describes having to hide her true self.",
+    "summary_reasoning": "Lowered voice, slower pace, somber expression."
+  }
+]

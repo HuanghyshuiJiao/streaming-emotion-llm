@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 9.78,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker's tone shifts from a neutral, narrative style to a more definitive and slightly sarcastic one. He delivers the punchline \"No bustling\" with a slight smirk and a conclusive downward inflection, which contrasts with the common phrase \"bustling port.\" This comedic delivery, confirmed by the audience's laughter, indicates amusement.",
+    "summary_reasoning": "Sarcastic tone, smirk, audience laughter."
+  },
+  {
+    "timestamp": 13.203,
+    "emotion": "serious",
+    "detailed_reasoning": "Following the joke, the speaker's tone becomes more serious and explanatory. He shifts his body language to be more direct and uses factual statements like \"the containers aren't coming in.\" This change in vocal tone and the shift to factual content indicates a move to a more serious emotional state.",
+    "summary_reasoning": "Serious tone, factual statements, direct body language."
+  },
+  {
+    "timestamp": 21.651,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "The speaker delivers a punchline comparing the bare shelves at Walmart to its shoppers. His tone is mock-serious, and he has a clear smirk on his face as he says the line, indicating a sarcastic and satirical intent. The strong audience laughter reinforces the comedic nature of the statement.",
+    "summary_reasoning": "Mock-serious tone, smirk, audience laughter."
+  },
+  {
+    "timestamp": 29.177,
+    "emotion": "playful",
+    "detailed_reasoning": "After making a joke at the expense of Walmart shoppers, the speaker immediately softens his stance. He says, \"I kid the Walmart shoppers,\" with a lighthearted tone, a smile, and relaxed body language, gesturing openly. This indicates a playful retreat from the sharp edge of the previous joke.",
+    "summary_reasoning": "Lighthearted tone, smile, relaxed gesture."
+  },
+  {
+    "timestamp": 35.027,
+    "emotion": "critical",
+    "detailed_reasoning": "The speaker's demeanor changes when he mentions Donald Trump. His tone becomes more pointed and his facial expression tightens into one of disdain. The statement \"he only doubles down\" is delivered with a sense of frustration and serves as a direct criticism, shifting the mood from playful to critical.",
+    "summary_reasoning": "Pointed tone, disdainful expression, critical words."
+  },
+  {
+    "timestamp": 41.529,
+    "emotion": "concerned",
+    "detailed_reasoning": "The speaker discusses the potential impact of trade issues on Christmas toys from China. His tone becomes more serious and explanatory, and his facial expression shows concern as he lays out the statistic that \"80% of the toys come from China.\" This narrative turn indicates a concerned emotional state about the real-world consequences.",
+    "summary_reasoning": "Serious tone, concerned facial expression, factual statement."
+  },
+  {
+    "timestamp": 48.834,
+    "emotion": "mocking",
+    "detailed_reasoning": "When quoting Trump's alleged response, the speaker adopts a dismissive and sarcastic tone. He alters his voice to mimic what he perceives as a cavalier attitude, saying children might get \"$2 instead of $30.\" This vocal shift, combined with a look of incredulity, is clearly intended to mock the statement.",
+    "summary_reasoning": "Mocking tone, dismissive cadence, incredulous expression."
+  }
+]

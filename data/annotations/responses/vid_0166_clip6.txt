@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 4.442,
+    "emotion": "confused",
+    "detailed_reasoning": "The speaker begins with a single word, \"What?\", delivered with a questioning tone and a facial expression of confusion. His eyebrows are slightly furrowed and his head is tilted, indicating he doesn't understand what is being asked of him.",
+    "summary_reasoning": "Questioning tone, furrowed brow."
+  },
+  {
+    "timestamp": 6.829,
+    "emotion": "skeptical",
+    "detailed_reasoning": "Following the initial confusion, the speaker repeats the instruction he seemingly received: \"Burn the letter?\" His eyebrows raise in disbelief and his tone is incredulous. This shows he not only questions the instruction but is also doubtful of its validity or purpose.",
+    "summary_reasoning": "Raised eyebrows, incredulous tone."
+  },
+  {
+    "timestamp": 12.724,
+    "emotion": "resigned",
+    "detailed_reasoning": "After questioning the instruction twice (\"Why?\", \"Will that work?\"), the speaker's tone shifts. He says, \"If you say so,\" with a slight sigh and a subtle shrug. His facial expression softens from skepticism to one of reluctant acceptance, suggesting he has given in despite his doubts.",
+    "summary_reasoning": "Tone shift, sigh, reluctant phrasing."
+  },
+  {
+    "timestamp": 36.557,
+    "emotion": "pleased",
+    "detailed_reasoning": "After a long pause, the speaker's entire demeanor changes. He introduces a new topic and holds up an object, saying \"I got this from Motel 6.\" His voice is lighter, and a small, proud smile appears on his face, indicating he is pleased with this item.",
+    "summary_reasoning": "Lighter tone, proud smile, new topic."
+  },
+  {
+    "timestamp": 38.6,
+    "emotion": "happy",
+    "detailed_reasoning": "The speaker's pleasure grows into clear happiness. He asks, \"It's nice, huh?\" with a broad, genuine smile and a cheerful, engaging tone. He is actively seeking validation for his positive feelings about the object.",
+    "summary_reasoning": "Broad smile, cheerful tone."
+  },
+  {
+    "timestamp": 43.449,
+    "emotion": "nostalgic",
+    "detailed_reasoning": "The speaker's mood shifts to a more reflective one as he explains the origin of his collection. When he says, \"Every time Grandpa used to take me somewhere, I'd get one,\" his smile softens and his gaze becomes slightly distant, suggesting he is fondly recalling past memories.",
+    "summary_reasoning": "Soft smile, distant gaze, recalling memory."
+  },
+  {
+    "timestamp": 45.513,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker's expression becomes more mischievous as he says, \"No, they're free.\" He delivers the line with a knowing look and a light, almost conspiratorial tone, as if sharing a clever secret. This suggests he finds the act of collecting free items amusing.",
+    "summary_reasoning": "Mischievous expression, knowing look."
+  },
+  {
+    "timestamp": 52.465,
+    "emotion": "playful",
+    "detailed_reasoning": "While listing the free items he collects, his amusement turns more playful. After mentioning \"pins\" and \"notepads,\" he adds \"and towels\" with a slight widening of his eyes and a smirk, implying that taking towels is more audacious. This ends the clip on a mischievous and playful note.",
+    "summary_reasoning": "Widened eyes, smirk, mischievous tone."
+  }
+]

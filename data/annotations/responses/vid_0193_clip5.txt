@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": 5.138,
+    "emotion": "vulnerable",
+    "detailed_reasoning": "The speaker looks upwards with wide, searching eyes. His tone is soft and questioning as he asks, 'Do I deserve it?'. This combination of upward gaze, strained facial expression, and pleading tone conveys a sense of vulnerability and uncertainty, as if he is seeking validation or answers from an external source.",
+    "summary_reasoning": "Upward gaze, wide eyes, pleading tone."
+  },
+  {
+    "timestamp": 14.45,
+    "emotion": "pleading",
+    "detailed_reasoning": "After a long pause maintaining his vulnerable expression, he asks, 'Could you hold my hand?'. The question itself is a direct appeal for comfort and connection. He begins to slowly raise his hand, a physical manifestation of his plea. His voice is soft and gentle, reinforcing the pleading nature of his request.",
+    "summary_reasoning": "Direct appeal for comfort, raises hand, soft voice."
+  },
+  {
+    "timestamp": 20.858,
+    "emotion": "hopeful",
+    "detailed_reasoning": "The speaker's facial expression shifts dramatically. His eyes, which were wide with uncertainty, now soften. A gentle, relieved smile forms as he says, 'I guess I won't be so lonely after all.' His tone becomes lighter and imbued with a sense of relief and newfound hope, signaling a positive emotional resolution.",
+    "summary_reasoning": "Facial expression softens, gentle smile, lighter tone."
+  }
+]

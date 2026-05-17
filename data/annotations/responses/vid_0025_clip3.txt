@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 2.995,
+    "emotion": "distressed",
+    "detailed_reasoning": "The video begins with the speaker already in a state of emotional turmoil. Her face is contorted with sadness, her eyebrows are furrowed, and her voice is strained as she speaks of being punished for past wrongs. This establishes a baseline of distress and sadness.",
+    "summary_reasoning": "Sad facial expression, strained voice, distressing words."
+  },
+  {
+    "timestamp": 7.342,
+    "emotion": "anguished",
+    "detailed_reasoning": "Her rhetorical question, \"What did I do in my life to deserve this?\" is delivered with a higher pitch and a cracking voice. Her facial expression shows deep pain and confusion, moving from general distress to a more specific feeling of anguish and pleading for an answer.",
+    "summary_reasoning": "Pleading tone, cracking voice, pained expression."
+  },
+  {
+    "timestamp": 11.007,
+    "emotion": "desperate",
+    "detailed_reasoning": "The speaker continues her line of questioning, asking if she's paying for the sins of her parents. Her eyes are wide and searching, and her tone is increasingly desperate, as if she is running out of explanations for her suffering.",
+    "summary_reasoning": "Desperate tone, wide searching eyes, questioning words."
+  },
+  {
+    "timestamp": 17.577,
+    "emotion": "confrontational",
+    "detailed_reasoning": "Her gaze becomes more direct and intense as she asks, \"Am I your sin?\". The question is pointed, and her tone shifts from one of desperate questioning to a more direct, almost confrontational plea, as if challenging the person she is speaking to.",
+    "summary_reasoning": "Direct gaze, intense tone, pointed question."
+  },
+  {
+    "timestamp": 30.659,
+    "emotion": "dejected",
+    "detailed_reasoning": "The speaker's focus shifts inward. She describes herself as a \"disappointment that just keeps disappointing.\" Her voice loses its confrontational edge and becomes softer, filled with self-loathing. Her eyes start to look down, indicating a feeling of dejection and shame.",
+    "summary_reasoning": "Self-deprecating words, softer voice, downward gaze."
+  },
+  {
+    "timestamp": 38.332,
+    "emotion": "resigned",
+    "detailed_reasoning": "The statement \"I will never be my sister\" is delivered with a sense of finality and hopelessness. Her voice is low, her expression is one of pained acceptance, and she shakes her head slightly in defeat, conveying a feeling of resignation to her perceived failure.",
+    "summary_reasoning": "Hopeless tone, finality in words, defeated expression."
+  },
+  {
+    "timestamp": 43.441,
+    "emotion": "resentful",
+    "detailed_reasoning": "A flash of anger and bitterness surfaces as she says, \"I hate everything about her.\" Her voice becomes louder and harsher, and her face tenses up, revealing a deep-seated resentment towards her sister, which contrasts with the previous sadness.",
+    "summary_reasoning": "Harsher tone, tense face, angry words."
+  },
+  {
+    "timestamp": 50.212,
+    "emotion": "hopeless",
+    "detailed_reasoning": "After the outburst of resentment, the emotion immediately recedes back into profound sadness with the words, \"But I don't want to be me either.\" Her voice breaks, and her expression crumples, showing that her anger was a fleeting cover for a deeper sense of hopelessness and self-rejection.",
+    "summary_reasoning": "Voice break, crumbling facial expression, words of self-rejection."
+  },
+  {
+    "timestamp": 56.363,
+    "emotion": "despairing",
+    "detailed_reasoning": "In the final lines, her voice drops to almost a whisper. She expresses a desire to \"fade away\" and \"become a shadow.\" Her gaze is downcast, and her energy seems to have completely drained, signifying ultimate despair and a wish to cease existing.",
+    "summary_reasoning": "Whispery voice, downcast gaze, words of wanting to disappear."
+  }
+]

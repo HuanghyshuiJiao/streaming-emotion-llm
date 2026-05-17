@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 0.832,
+    "emotion": "curious",
+    "detailed_reasoning": "The speaker begins by posing a series of questions ('how and why... what could I do about it?'). Her tone is earnest and inquisitive, and her facial expression is focused and serious, conveying a sense of genuine inquiry and a desire for answers.",
+    "summary_reasoning": "Questioning tone, serious expression."
+  },
+  {
+    "timestamp": 7.42,
+    "emotion": "hopeful",
+    "detailed_reasoning": "After stating she did research, the speaker's tone shifts to become more positive and slightly uplifted as she describes finding 'a lot of great information.' A subtle smile appears, and her voice gains a hint of optimism, suggesting she found a promising path forward.",
+    "summary_reasoning": "Positive tone, slight smile."
+  },
+  {
+    "timestamp": 10.504,
+    "emotion": "amused",
+    "detailed_reasoning": "When mentioning 'bad information,' her tone becomes lighthearted, she gives a wry smile, and a slight chuckle is audible in her voice. The phrase 'but that's another talk' is delivered with a dismissive and humorous cadence, indicating amusement at the absurdity of some of the information she found.",
+    "summary_reasoning": "Wry smile, lighthearted tone, dismissive cadence."
+  },
+  {
+    "timestamp": 13.748,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker's tone becomes more emphatic and earnest as she lists valuable resources like websites and podcasts. Her body language is open, and she uses hand gestures to emphasize the availability of 'good information,' showing her passion for the topic and for helping others.",
+    "summary_reasoning": "Emphatic tone, open body language, hand gestures."
+  },
+  {
+    "timestamp": 26.603,
+    "emotion": "self-aware",
+    "detailed_reasoning": "The speaker corrects herself mid-sentence, from saying 'normal' to 'neurotypical brains.' This is accompanied by a small, knowing smile and a slight chuckle. This self-correction and the accompanying lighthearted demeanor show a moment of self-awareness and a humorous acknowledgment of the complexities of the topic.",
+    "summary_reasoning": "Self-correction, knowing smile, lighthearted tone."
+  },
+  {
+    "timestamp": 32.072,
+    "emotion": "frustrated",
+    "detailed_reasoning": "Describing the information she found, the speaker's tone becomes more critical and her facial expression tightens slightly. She emphasizes 'super technical' and 'deal with ADHD kids' with a slightly exasperated cadence, conveying her frustration with the lack of resources directly aimed at adults with ADHD.",
+    "summary_reasoning": "Critical tone, tight expression, exasperated cadence."
+  },
+  {
+    "timestamp": 39.726,
+    "emotion": "disappointed",
+    "detailed_reasoning": "Her voice takes on a more somber and direct tone as she explains the lack of resources for 'us.' She gestures towards herself when saying 'us,' and her facial expression is serious, clearly communicating her disappointment and the feeling of being overlooked by the existing literature.",
+    "summary_reasoning": "Somber tone, direct gaze, self-referential gesture."
+  },
+  {
+    "timestamp": 45.557,
+    "emotion": "determined",
+    "detailed_reasoning": "Following the expression of disappointment, her tone shifts to be proactive and resolute. She says 'So I started a YouTube channel' with a clear, firm voice and a determined look, signaling her decision to take matters into her own hands and fill the gap she identified.",
+    "summary_reasoning": "Proactive tone, firm voice, determined expression."
+  },
+  {
+    "timestamp": 49.505,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker smiles and uses a self-deprecating tone when admitting she had 'no idea' how to start a channel. The contrast between her lack of knowledge and her decisive action ('but I started a YouTube channel') is delivered humorously, showing amusement at her own audacity.",
+    "summary_reasoning": "Smile, self-deprecating tone, humorous delivery."
+  },
+  {
+    "timestamp": 57.179,
+    "emotion": "appreciative",
+    "detailed_reasoning": "Her tone softens significantly, and a warm, genuine smile appears as she mentions her boyfriend, Edward. Her expression becomes fond, indicating her appreciation for his advice and support. The overall feeling is one of warmth and gratitude.",
+    "summary_reasoning": "Soft tone, warm smile, fond expression."
+  }
+]

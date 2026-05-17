@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 4.817,
+    "emotion": "confused",
+    "detailed_reasoning": "The character begins by stating she left no ring, then immediately questions the meaning behind the lady's actions. Her facial expression is one of puzzlement, with a tilted head and questioning eyes. Her tone of voice is inquisitive and uncertain as she asks, 'What means this lady?'.",
+    "summary_reasoning": "Questioning tone, puzzled expression, tilted head."
+  },
+  {
+    "timestamp": 10.583,
+    "emotion": "worried",
+    "detailed_reasoning": "After questioning the lady's motives, her expression shifts to one of concern. She looks down and away, and her voice takes on a more anxious and fearful tone as she says, 'Fortune forbid my outside hath not charmed her.' This indicates a fear that her physical appearance, her disguise, is the source of the affection.",
+    "summary_reasoning": "Anxious tone, concerned expression, averted gaze."
+  },
+  {
+    "timestamp": 21.496,
+    "emotion": "reflective",
+    "detailed_reasoning": "The character recalls the interaction, noting how the lady looked at her and spoke 'in starts, distractedly.' Her pace slows, and her gaze becomes distant as if she is replaying the memory in her mind. Her tone is contemplative and analytical, trying to piece together the meaning of the other person's behavior.",
+    "summary_reasoning": "Slow pace, distant gaze, contemplative tone."
+  },
+  {
+    "timestamp": 26.562,
+    "emotion": "realization",
+    "detailed_reasoning": "After reflecting on the lady's distracted speech, the character comes to a sudden conclusion. Her eyes widen slightly and her tone becomes more certain and filled with dawning comprehension as she states, 'She loves me, sure.' The shift from reflection to a firm statement indicates a moment of realization.",
+    "summary_reasoning": "Eyes widen, certain tone, declarative statement."
+  },
+  {
+    "timestamp": 38.289,
+    "emotion": "confident",
+    "detailed_reasoning": "Having concluded that the lady loves her, the character's demeanor changes. She stands taller, her expression becomes more resolute, and she points to herself with a definitive gesture. Her voice is firm and confident as she declares, 'I am the man.' This marks a shift from realization to an assertion of her new-found role in the situation.",
+    "summary_reasoning": "Firm voice, resolute expression, assertive gesture."
+  },
+  {
+    "timestamp": 44.241,
+    "emotion": "sympathetic",
+    "detailed_reasoning": "The character's confidence gives way to pity for the lady who has fallen for her disguise. Her expression softens, her tone becomes gentler, and she shakes her head slightly in a gesture of sympathy as she says, 'poor lady, she would better love a dream.' This demonstrates a shift from self-focus to empathy for the other person's unfortunate situation.",
+    "summary_reasoning": "Soft expression, gentle tone, sympathetic words."
+  },
+  {
+    "timestamp": 49.982,
+    "emotion": "disgusted",
+    "detailed_reasoning": "The character's sympathy turns to a bitter reflection on the nature of her disguise. Her face contorts into an expression of distaste, and her tone becomes sharp and cynical as she calls her disguise a 'wickedness.' This change indicates a newfound disgust with the deception she is perpetrating.",
+    "summary_reasoning": "Sharp tone, expression of distaste, cynical words."
+  },
+  {
+    "timestamp": 55.603,
+    "emotion": "cynical",
+    "detailed_reasoning": "Concluding her monologue, the character's tone is filled with world-weary cynicism. She speaks about how easily women's hearts are deceived ('women's waxen hearts'). Her expression is somber and her delivery is resigned, reflecting a bleak outlook on the situation and on human nature, brought about by her own deception.",
+    "summary_reasoning": "Cynical tone, somber expression, resigned delivery."
+  }
+]

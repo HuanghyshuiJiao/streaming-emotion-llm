@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 2.754,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker begins with a melancholic tone and a somber facial expression, conveying a sense of sadness as she speaks about human frailty.",
+    "summary_reasoning": "Melancholic tone, somber expression."
+  },
+  {
+    "timestamp": 11.603,
+    "emotion": "anxious",
+    "detailed_reasoning": "The speaker's tone shifts to one of worry and frustration. She asks, \"How will this fudge?\" while furrowing her brow and adjusting her hat, indicating a state of anxiety about the situation.",
+    "summary_reasoning": "Worried tone, frustrated gesture."
+  },
+  {
+    "timestamp": 21.553,
+    "emotion": "confused",
+    "detailed_reasoning": "Her tone becomes more bewildered as she describes the complicated love triangle. Her facial expression is one of helplessness and confusion, as if she is lost in the complexity of the relationships.",
+    "summary_reasoning": "Bewildered tone, helpless expression."
+  },
+  {
+    "timestamp": 27.359,
+    "emotion": "desperate",
+    "detailed_reasoning": "The speaker explicitly states that her state is \"desperate.\" Her voice is low and filled with despair, and her eyes are downcast, reinforcing the feeling of hopelessness.",
+    "summary_reasoning": "Low voice, downcast eyes."
+  },
+  {
+    "timestamp": 32.236,
+    "emotion": "sorrowful",
+    "detailed_reasoning": "When she says, \"now alas the day,\" her voice is filled with sorrow. Her facial expression is pained, and her tone conveys a deep sense of regret and sadness about her circumstances as a woman.",
+    "summary_reasoning": "Sorrowful voice, pained expression."
+  },
+  {
+    "timestamp": 40.863,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker's voice rises in frustration as she addresses \"time,\" expressing her inability to solve the complex situation. Her hand gestures become more emphatic, showing her exasperation.",
+    "summary_reasoning": "Rising vocal tone, emphatic gestures."
+  },
+  {
+    "timestamp": 49.531,
+    "emotion": "somber",
+    "detailed_reasoning": "The scene abruptly changes, and a new, male voiceover begins. The tone is deep, slow, and serious, creating a somber and reflective mood as he speaks of the end of the revels.",
+    "summary_reasoning": "New speaker, deep and slow voice."
+  }
+]

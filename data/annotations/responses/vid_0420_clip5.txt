@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": 5.359,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker begins with a serious topic about physical and emotional separation. His tone is low and his pace is slow and deliberate. Visually, his facial expression is serious and his hand gestures are measured, contributing to a somber and reflective mood.",
+    "summary_reasoning": "Slow pace, low tone, serious expression."
+  },
+  {
+    "timestamp": 14.072,
+    "emotion": "pained",
+    "detailed_reasoning": "The speaker closes his eyes slightly and pauses before listing a series of negative emotions. His voice remains low and heavy as he says \"I felt the pain.\" The act of closing his eyes and the weight in his voice suggest he is deeply recalling a painful past experience, intensifying the somber mood into one of clear emotional pain.",
+    "summary_reasoning": "Eyes closed, heavy tone, mentions \"pain\"."
+  },
+  {
+    "timestamp": 33.275,
+    "emotion": "hopeful",
+    "detailed_reasoning": "The speaker uses the transitional word \"Yet,\" which signals a shift in the narrative from despair to something else. His tone lifts slightly, and he physically opens his eyes after having them closed in reflection. This combination of verbal and non-verbal cues indicates a turn towards hope and resilience, moving away from the previously described pain.",
+    "summary_reasoning": "Transitional word \"Yet\", tone lifts, opens eyes."
+  },
+  {
+    "timestamp": 40.43,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker's tone becomes markedly stronger and more assertive as he declares that the \"worst of life couldn't take out the best of me.\" His posture is upright, his arms are crossed in a stance of defiance and self-assurance, and his vocal delivery is firm. This demonstrates a clear shift to confidence and triumph over adversity.",
+    "summary_reasoning": "Strong assertive tone, defiant posture."
+  }
+]

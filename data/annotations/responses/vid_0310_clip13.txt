@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins with a direct and informative tone, looking straight at the camera with a neutral, focused expression. He is introducing a topic with a cautionary example, establishing a serious mood from the outset.",
+    "summary_reasoning": "Direct gaze, informative tone, neutral expression."
+  },
+  {
+    "timestamp": 8.206,
+    "emotion": "neutral",
+    "detailed_reasoning": "The video cuts to a poor-quality, handheld, and badly lit example clip. The actor in the clip speaks in a flat, monotone voice while introducing himself. The lack of vocal inflection and the poor technical quality create a neutral, unengaging, and unprofessional feeling, which is the point of the example.",
+    "summary_reasoning": "Monotone voice, poor video quality, flat delivery."
+  },
+  {
+    "timestamp": 28.145,
+    "emotion": "critical",
+    "detailed_reasoning": "The speaker returns to the screen and immediately begins critiquing the example tape. His tone is pointed and analytical, and he has a slightly disapproving facial expression as he lists the technical and performance flaws. The rhetorical question \"right?\" engages the viewer in this critical assessment.",
+    "summary_reasoning": "Critical tone, disapproving expression, listing flaws."
+  },
+  {
+    "timestamp": 36.963,
+    "emotion": "warning",
+    "detailed_reasoning": "The speaker's critique intensifies. He uses the strong negative term \"god-awful\" and his tone becomes more forceful and cautionary. The direct command \"Never turn in a tape like this,\" combined with a slight head shake, emphasizes the seriousness of the advice, shifting from critique to a direct warning.",
+    "summary_reasoning": "Forceful tone, strong negative words, direct command."
+  },
+  {
+    "timestamp": 44.238,
+    "emotion": "dismissive",
+    "detailed_reasoning": "The speaker begins to role-play the reaction of a casting director. He adopts a weary and dismissive tone, particularly on \"oh...\", and his facial expression mimics disappointment. His voice becomes clipped and final when he quotes the director, conveying the harsh and dismissive judgment that will result from a bad audition tape.",
+    "summary_reasoning": "Role-playing, dismissive tone, weary expression."
+  },
+  {
+    "timestamp": 50.62,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker explains the negative long-term consequences of submitting a bad tape. His tone becomes more intense and carries a sense of frustration as he explains the casting director's perspective. The emphasis on \"same crap over and over\" highlights the exasperation with receiving low-quality work, conveying a frustrated and somewhat cynical outlook.",
+    "summary_reasoning": "Intense tone, emphasis on negative words, explaining consequences."
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 3.495,
+    "emotion": "hurt",
+    "detailed_reasoning": "The speaker begins with a heavy, downward tone. His eyes are narrowed and his brows are slightly furrowed, expressing a sense of long-standing pain and resentment as he says, \"Always quitting on me. My whole life.\"",
+    "summary_reasoning": "Downward tone, narrowed eyes, resentful words."
+  },
+  {
+    "timestamp": 8.94,
+    "emotion": "frustrated",
+    "detailed_reasoning": "His tone becomes more forceful and slightly aggressive. He emphasizes the words \"I'm loyal. I stay,\" and points downwards with conviction, contrasting his own behavior with others. This shift indicates frustration with the disloyalty he perceives from everyone else.",
+    "summary_reasoning": "Forceful tone, pointing gesture, contrasting words."
+  },
+  {
+    "timestamp": 14.266,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker's voice softens and his expression becomes more pained as he recounts his father leaving. The topic is clearly a source of deep-seated sadness, which is reflected in his subdued delivery and somber facial expression.",
+    "summary_reasoning": "Softened voice, pained expression, sad topic."
+  },
+  {
+    "timestamp": 21.433,
+    "emotion": "disappointed",
+    "detailed_reasoning": "When talking about his mother, his tone carries a sense of disappointment and emotional emptiness. He describes her as having \"quit caring and quit feeling anything,\" and his facial expression is flat and resigned, reflecting this emotional abandonment.",
+    "summary_reasoning": "Empty tone, flat expression, words of abandonment."
+  },
+  {
+    "timestamp": 29.713,
+    "emotion": "pained",
+    "detailed_reasoning": "The speaker's voice becomes heavy with self-blame as he says, \"I always felt like I failed them and drove them away.\" His eyes are downcast and his expression is one of genuine pain and introspection, suggesting he has carried this burden for a long time.",
+    "summary_reasoning": "Heavy tone, downcast eyes, self-blaming words."
+  },
+  {
+    "timestamp": 34.617,
+    "emotion": "hopeful",
+    "detailed_reasoning": "A significant shift occurs here. His tone lightens and his facial expression softens as he begins to talk about finding a place where he belongs. The mention of finding \"a place where I could be a part of something\" introduces the first note of hope in his monologue.",
+    "summary_reasoning": "Lighter tone, softened expression, hopeful words."
+  },
+  {
+    "timestamp": 39.081,
+    "emotion": "grateful",
+    "detailed_reasoning": "His voice becomes warmer and more sincere as he calls the recent time the \"best days of my life.\" A slight, genuine smile appears, and his eyes seem to well up slightly, indicating a deep sense of gratitude and happiness.",
+    "summary_reasoning": "Warm tone, slight smile, emotional eyes, words of happiness."
+  },
+  {
+    "timestamp": 46.787,
+    "emotion": "joyful",
+    "detailed_reasoning": "His expression becomes visibly happier and his tone is filled with joy as he talks about playing music with others. He is animated, and his voice has a melodic, uplifted quality, clearly conveying the happiness this activity brings him.",
+    "summary_reasoning": "Happy expression, joyful tone, animated delivery."
+  },
+  {
+    "timestamp": 52.612,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker's delivery becomes more intense and passionate. He talks about having \"something to live for\" and dragging his \"lazy carcass out of bed.\" His gestures become more expansive and his voice is filled with energy and purpose, showing a newfound passion for life.",
+    "summary_reasoning": "Intense delivery, energetic voice, expansive gestures."
+  },
+  {
+    "timestamp": 58.203,
+    "emotion": "fulfilled",
+    "detailed_reasoning": "In his final statement, \"it's more than just living,\" his voice is full of deep emotion and conviction. His eyes are wide and his expression is one of profound fulfillment and meaning. He has found something that transcends mere existence, and this sense of purpose is palpable.",
+    "summary_reasoning": "Convicted tone, profound expression, meaningful words."
+  }
+]

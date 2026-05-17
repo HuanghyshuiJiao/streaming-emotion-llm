@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 2.794,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his presentation with a neutral and even-paced tone. His body language is relaxed, and he uses gentle hand gestures to set the scene for the story he is about to tell. This initial demeanor suggests a state of calmness as he eases into his talk.",
+    "summary_reasoning": "Neutral tone, relaxed posture."
+  },
+  {
+    "timestamp": 6.739,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker's tone shifts to a more engaging, storytelling mode. He uses the word \"magical\" twice and a slight smile appears on his face, indicating that he finds the situation he's describing to be humorous and is building anticipation for a punchline. His expression becomes more animated.",
+    "summary_reasoning": "Smiling, storytelling tone."
+  },
+  {
+    "timestamp": 12.706,
+    "emotion": "playful",
+    "detailed_reasoning": "The speaker's amusement grows into a more playful state as he delivers the punchline about the \"granny\" appearing. His smile widens, and his vocal tone has a clear comedic timing, designed to entertain the audience. The entire setup points to a lighthearted and playful anecdote.",
+    "summary_reasoning": "Comedic timing, wider smile."
+  },
+  {
+    "timestamp": 19.233,
+    "emotion": "humorous",
+    "detailed_reasoning": "The speaker actively impersonates the character of the \"granny,\" adopting a different, slightly higher-pitched and more opinionated tone. This shift into character performance is a clear attempt at humor, meant to make the audience laugh by stereotyping the figure he's describing.",
+    "summary_reasoning": "Character impersonation, tonal shift."
+  },
+  {
+    "timestamp": 27.01,
+    "emotion": "neutral",
+    "detailed_reasoning": "After the humorous anecdote, the speaker signals a shift by saying, \"Let's pause for a brief moment here.\" His performative tone disappears, and his voice becomes flat and direct. His facial expression also becomes serious, indicating a transition from entertainment to a more serious part of his presentation.",
+    "summary_reasoning": "Direct tone, serious expression."
+  },
+  {
+    "timestamp": 35.051,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker now connects the story to his own life as a medical doctor and psychotherapist. His tone is sober and reflective, and his expression is serious. The content of his speech has become personal and professional, signaling a shift to a more serious and contemplative mood.",
+    "summary_reasoning": "Sober tone, reflective content."
+  },
+  {
+    "timestamp": 44.656,
+    "emotion": "focused",
+    "detailed_reasoning": "He introduces a \"myth\" about doctors needing to distance themselves from patients. His tone becomes more emphatic, and he uses deliberate hand gestures to illustrate the concept of creating distance. His eyebrows are slightly furrowed, showing deep concentration on the point he is making.",
+    "summary_reasoning": "Emphatic tone, deliberate gestures."
+  },
+  {
+    "timestamp": 52.116,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker concludes his point by stating that the myth is \"not quite true.\" He delivers this line with a firm, definitive tone and a slight, knowing smile. This combination of vocal certainty and a confident facial expression shows that he is sure of his position and is about to elaborate on why the common belief is wrong.",
+    "summary_reasoning": "Firm tone, knowing smile."
+  }
+]

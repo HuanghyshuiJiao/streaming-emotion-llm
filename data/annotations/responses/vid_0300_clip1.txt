@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 0.331,
+    "emotion": "joyful",
+    "detailed_reasoning": "The speaker begins the video with a warm, open-mouthed smile and a friendly wave to the camera. Her tone is high-pitched, light, and welcoming as she delivers a standard greeting, indicating happiness and a positive disposition.",
+    "summary_reasoning": "Smiling, waving, high-pitched tone."
+  },
+  {
+    "timestamp": 4.336,
+    "emotion": "enthusiastic",
+    "detailed_reasoning": "Continuing from the friendly greeting, the speaker maintains her smile and makes direct eye contact. Her vocal tone is upbeat and engaging as she introduces the video's topic, suggesting she is excited and happy to be sharing the content.",
+    "summary_reasoning": "Upbeat tone, smiling, direct eye contact."
+  },
+  {
+    "timestamp": 8.281,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker's broad smile softens into a more subtle, neutral expression. Her tone becomes more measured and even-paced as she begins to explain the specific context of the video (part two, drama school auditions). This shift suggests a transition from a warm greeting to a more factual, explanatory mode.",
+    "summary_reasoning": "Smile softens, measured tone, factual content."
+  },
+  {
+    "timestamp": 14.548,
+    "emotion": "apologetic",
+    "detailed_reasoning": "The speaker's expression becomes more neutral as she explains that she doesn't have as many contemporary monologues. Her tone is slightly self-deprecating and her gaze shifts slightly, suggesting a mild sense of apology or a desire to manage the audience's expectations.",
+    "summary_reasoning": "Neutral expression, self-deprecating tone, shifting gaze."
+  },
+  {
+    "timestamp": 24.522,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker's energy level visibly increases. Her speaking pace quickens, her vocal tone becomes more animated and varied, and she begins using more expressive hand gestures to emphasize her point about the wide variety of contemporary pieces. This indicates she is speaking about a topic she feels strongly about.",
+    "summary_reasoning": "Increased pace, animated tone, expressive gestures."
+  },
+  {
+    "timestamp": 34.101,
+    "emotion": "humble",
+    "detailed_reasoning": "While still engaged, the speaker's tone softens as she expresses that she doesn't feel qualified to give a definitive opinion. She shakes her head slightly and has a serious, thoughtful expression, conveying a sense of humility and self-awareness about the subjective nature of the topic.",
+    "summary_reasoning": "Softened tone, serious expression, self-deprecating words."
+  },
+  {
+    "timestamp": 41.307,
+    "emotion": "sincere",
+    "detailed_reasoning": "The speaker's expression becomes very earnest, and she makes direct, sustained eye contact with the camera. Her tone is genuine and her hand gestures are open, reinforcing the personal and individual nature of choosing a monologue. This conveys a sense of sincerity in her advice.",
+    "summary_reasoning": "Earnest expression, direct eye contact, genuine tone."
+  },
+  {
+    "timestamp": 50.37,
+    "emotion": "encouraging",
+    "detailed_reasoning": "The speaker maintains a warm and supportive tone while discussing how an actor can bring their own \"flavor\" to a piece. Her expression is open and friendly, and her gestures are fluid, creating a positive and encouraging atmosphere for the viewer.",
+    "summary_reasoning": "Warm tone, open expression, supportive words."
+  },
+  {
+    "timestamp": 53.758,
+    "emotion": "neutral",
+    "detailed_reasoning": "The speaker's tone becomes more declarative and her energy level settles. She is no longer giving advice but is now stating the purpose of the video. Her body language becomes less expressive as she transitions to the main content, indicating a shift to a neutral, informative state.",
+    "summary_reasoning": "Declarative tone, settled energy, less expressive."
+  },
+  {
+    "timestamp": 56.405,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker concludes her introduction with a self-deprecating comment. A small, wry smile appears, her eyes crinkle slightly, and her tone becomes lighthearted. This indicates she is amused by her own past choices and is sharing a moment of relatable imperfection with the audience.",
+    "summary_reasoning": "Wry smile, lighthearted tone, self-deprecating comment."
+  }
+]

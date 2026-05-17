@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 4.216,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her talk with a calm and welcoming tone. Her voice is steady, her posture is relaxed, and she has a gentle, neutral expression. She is establishing a connection with the audience in a non-threatening, peaceful manner.",
+    "summary_reasoning": "Steady voice, relaxed posture, gentle expression."
+  },
+  {
+    "timestamp": 10.083,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker's tone shifts to be more deliberate and introspective as she asks the audience to reflect. Her pace slows down, and her facial expression becomes more focused, encouraging the audience to think along with her. The emotion is still calm but has an added layer of contemplation.",
+    "summary_reasoning": "Deliberate tone, slower pace, focused expression."
+  },
+  {
+    "timestamp": 17.071,
+    "emotion": "inspirational",
+    "detailed_reasoning": "As she lists the unique talents of the audience members, her voice takes on a more positive and affirming quality. There is a slight rise in pitch and a soft, encouraging smile appears on her face, intended to uplift and inspire the listeners.",
+    "summary_reasoning": "Positive tone, rising pitch, encouraging smile."
+  },
+  {
+    "timestamp": 30.500,
+    "emotion": "serious",
+    "detailed_reasoning": "There is a distinct shift in the atmosphere. The speaker's tone becomes graver, her pace slows significantly, and her facial expression turns serious. She is introducing a challenging concept, and her demeanor reflects the weight of the topic.",
+    "summary_reasoning": "Grave tone, slow pace, serious expression."
+  },
+  {
+    "timestamp": 42.111,
+    "emotion": "somber",
+    "detailed_reasoning": "Continuing the serious mood, her voice becomes softer and carries a melancholic undertone. She describes a group of people whose diversity is hidden, and her empathetic expression and somber voice convey a sense of sadness for their situation.",
+    "summary_reasoning": "Soft voice, melancholic tone, empathetic expression."
+  },
+  {
+    "timestamp": 51.857,
+    "emotion": "sincere",
+    "detailed_reasoning": "In her final statement, she makes a personal confession. Her voice is quiet but firm, and her direct eye contact and vulnerable expression convey deep sincerity. This reveals her personal connection to the topic, making the moment feel authentic and heartfelt.",
+    "summary_reasoning": "Quiet but firm voice, direct eye contact, vulnerable expression."
+  }
+]

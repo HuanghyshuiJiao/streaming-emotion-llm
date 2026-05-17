@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his presentation with a clear and steady voice. His tone is neutral and informative as he introduces 'Exhibit A'. His facial expression is composed, and his body language is controlled, indicating a calm and practiced start to his speech.",
+    "summary_reasoning": "Steady voice, neutral expression, practiced delivery."
+  },
+  {
+    "timestamp": 12.153,
+    "emotion": "purposeful",
+    "detailed_reasoning": "After establishing a pattern of comparing modern and old items (phone, car), the speaker moves to his main point: the classroom. His tone becomes more deliberate and focused. He is no longer just presenting examples but is now guiding the audience towards his central argument, making his delivery feel more purposeful.",
+    "summary_reasoning": "Deliberate tone, guiding audience, focused expression."
+  },
+  {
+    "timestamp": 19.258,
+    "emotion": "critical",
+    "detailed_reasoning": "The speaker's tone shifts significantly after showing the similarity between the classrooms. He uses the word 'shame' and his voice takes on a more serious and slightly frustrated quality. The pace of his speech slows down for emphasis, highlighting his critical stance on the lack of change in education.",
+    "summary_reasoning": "Serious tone, critical words, emphatic pace."
+  },
+  {
+    "timestamp": 27.366,
+    "emotion": "accusatory",
+    "detailed_reasoning": "The speaker's emotion escalates as he directly addresses the education system with a rhetorical question. His tone becomes challenging and accusatory. His hand gestures become more pronounced, and his facial expression is more intense, as if he is prosecuting a case.",
+    "summary_reasoning": "Challenging tone, rhetorical question, intense expression."
+  },
+  {
+    "timestamp": 35.455,
+    "emotion": "disdainful",
+    "detailed_reasoning": "As the speaker lists the rigid, factory-like rules of the school system ('sit in straight rows,' 'sit still'), his tone becomes dismissive. The speed of his delivery increases slightly, and there's a clear sense of disdain in his voice for the practices he is describing.",
+    "summary_reasoning": "Dismissive tone, faster pace, listing negative traits."
+  },
+  {
+    "timestamp": 45.271,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "The speaker's disdain turns into sarcasm when he discusses the grading system. He compares students to 'grade A of meat,' and his tone is mocking. His facial expression conveys disbelief and contempt for a system that he believes commodifies students.",
+    "summary_reasoning": "Sarcastic tone, derogatory comparison, contemptuous expression."
+  },
+  {
+    "timestamp": 50.067,
+    "emotion": "understanding",
+    "detailed_reasoning": "There is a noticeable shift in tone here. The speaker softens his voice and slows his pace, saying 'I get it. Back then, times were different.' He acknowledges the historical context, momentarily moving from attack to a more reflective and understanding tone before delivering his final point.",
+    "summary_reasoning": "Softer voice, slower pace, acknowledging context."
+  },
+  {
+    "timestamp": 53.72,
+    "emotion": "passionate",
+    "detailed_reasoning": "Beginning with 'But today,' the speaker's energy rises sharply. His voice becomes louder and more passionate as he delivers his concluding statement. He uses strong, evocative language like 'robot zombies' to emphasize his point, and his tone is urgent and motivational.",
+    "summary_reasoning": "Louder voice, urgent tone, strong language."
+  }
+]

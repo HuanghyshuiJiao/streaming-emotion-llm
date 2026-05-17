@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "hopeful",
+    "detailed_reasoning": "The speaker begins by embodying a character, Opus. The tone of voice is light, slightly high-pitched, and filled with childlike optimism as he talks about getting new wings from Santa. His facial expression is soft and expectant, and his posture is leaned forward in anticipation.",
+    "summary_reasoning": "High-pitched optimistic tone, soft facial expression, forward posture."
+  },
+  {
+    "timestamp": 7.44,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker transitions from the character's hopeful thoughts back to a neutral narrator. His tone becomes matter-of-fact, his facial expression neutral, and he physically moves from a sitting to a standing position, signaling a shift in the story's perspective. This change establishes a calm, narrative baseline.",
+    "summary_reasoning": "Neutral tone, neutral expression, physical transition."
+  },
+  {
+    "timestamp": 14.649,
+    "emotion": "playful",
+    "detailed_reasoning": "The speaker begins to mimic the character sleeping, making exaggerated snoring and dreaming sounds. His body is slumped in the chair, and the sounds are clearly intended to be humorous and illustrative of a character in a deep, dream-filled sleep. This is a playful shift to engage the audience.",
+    "summary_reasoning": "Exaggerated sleeping sounds, slumped posture, humorous tone."
+  },
+  {
+    "timestamp": 20.356,
+    "emotion": "anxious",
+    "detailed_reasoning": "The narrative tone shifts as the character is awoken suddenly. The speaker's voice becomes slightly faster and more tense, and his eyes widen to convey the surprise and abruptness of the awakening. The description of a duck bursting into the room builds a sense of sudden anxiety and tension.",
+    "summary_reasoning": "Faster tense voice, widened eyes, startling words."
+  },
+  {
+    "timestamp": 26.221,
+    "emotion": "panicked",
+    "detailed_reasoning": "The speaker fully embodies the duck character, emitting loud, frantic, and garbled quacking sounds. His physical movements become sharp and agitated. He then translates the duck's sounds into words like \"catastrophe\" and \"calamity,\" delivered in a high-pitched, rushed, and panicked tone, reflecting extreme distress.",
+    "summary_reasoning": "Frantic vocalizations, agitated movements, high-pitched panicked tone."
+  },
+  {
+    "timestamp": 32.071,
+    "emotion": "urgent",
+    "detailed_reasoning": "The duck character's voice, while still panicked, shifts to a tone of direct pleading and urgency with the words \"follow me.\" The speaker then transitions back to the narrator, maintaining a quick pace and forward-moving energy as he describes the characters running to the lake, conveying a strong sense of urgency.",
+    "summary_reasoning": "Pleading tone, quick narrative pace, forward movement."
+  },
+  {
+    "timestamp": 37.861,
+    "emotion": "shocked",
+    "detailed_reasoning": "The speaker's voice drops slightly in volume but is filled with a sense of dawning horror and disbelief as the character describes the scene on the water. His eyes are wide, and his face shows shock as he pieces together that he is looking at Santa's crashed sleigh. The pace slows to emphasize the gravity of the realization.",
+    "summary_reasoning": "Wide eyes, slow pace, voice filled with disbelief."
+  },
+  {
+    "timestamp": 45.795,
+    "emotion": "determined",
+    "detailed_reasoning": "Upon realizing Santa is in trouble, the character's emotion shifts instantly from shock to action. The speaker shouts \"I'm coming, Santa!\" in a loud, projective, and resolute voice. He begins running in place with vigorous arm movements, visually and vocally embodying a surge of determination to rescue Santa.",
+    "summary_reasoning": "Loud resolute voice, running in place, vigorous gestures."
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 2.257,
+    "emotion": "annoyed",
+    "detailed_reasoning": "The speaker starts with a classic complaint, crossing her arms slightly. Her tone is whiny and her facial expression shows clear annoyance at being told she has to tidy her room.",
+    "summary_reasoning": "Whiny tone, annoyed expression, complaint."
+  },
+  {
+    "timestamp": 6.427,
+    "emotion": "defensive",
+    "detailed_reasoning": "Her tone shifts to a more pleading and defensive one as she directly addresses her 'mum'. She uses a classic teenager's defense, downplaying the messiness of her room, with a corresponding facial expression of exasperation.",
+    "summary_reasoning": "Pleading tone, exasperated expression, downplaying mess."
+  },
+  {
+    "timestamp": 10.277,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "After admitting there are clothes on the floor, her tone becomes sarcastic. She uses vocal fry and a slight smirk, looking to the side as if making a joke. This indicates she is now using humor to deal with the situation.",
+    "summary_reasoning": "Sarcastic tone, smirk, vocal fry."
+  },
+  {
+    "timestamp": 14.126,
+    "emotion": "amused",
+    "detailed_reasoning": "She continues the humorous exaggeration by claiming not to know the color of her carpet. Her facial expression is one of feigned thoughtfulness which, combined with the context, signals self-amusement and a performance for the audience.",
+    "summary_reasoning": "Humorous exaggeration, feigned thoughtful expression."
+  },
+  {
+    "timestamp": 20.571,
+    "emotion": "dismissive",
+    "detailed_reasoning": "After the humorous pause about the carpet color, she says 'it's fine' with a dismissive hand gesture and a shrug. Her tone is light and brushes off the previous point, reinforcing her casual attitude towards the mess.",
+    "summary_reasoning": "Dismissive gesture, shrug, light tone."
+  },
+  {
+    "timestamp": 25.098,
+    "emotion": "defiant",
+    "detailed_reasoning": "She openly admits to having '16 empty mugs' on her table. She says this with a challenging look and a slight smile, indicating a defiant pride in her messiness and her love for tea. The specificity of the number is for comedic effect, but the underlying emotion is defiance.",
+    "summary_reasoning": "Challenging look, slight smile, comedic admission."
+  },
+  {
+    "timestamp": 34.594,
+    "emotion": "incredulous",
+    "detailed_reasoning": "She ends her monologue with a rhetorical question, asking if she's expected to wash a mug every time. Her tone is incredulous and her arms are spread wide in a gesture of disbelief, sarcastically highlighting the absurdity of the expectation from her perspective.",
+    "summary_reasoning": "Incredulous tone, rhetorical question, wide arm gesture."
+  }
+]

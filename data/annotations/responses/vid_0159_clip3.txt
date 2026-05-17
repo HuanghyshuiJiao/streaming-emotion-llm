@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": 1.793,
+    "emotion": "confident",
+    "detailed_reasoning": "The character looks directly into the camera with a defiant smirk. Her makeup is smudged, suggesting a recent struggle, but her tone is low, steady, and assertive as she says 'I'm better.' This combination of visual and auditory cues projects a strong sense of confidence and superiority.",
+    "summary_reasoning": "Direct gaze, defiant smirk, assertive tone."
+  },
+  {
+    "timestamp": 8.37,
+    "emotion": "vengeful",
+    "detailed_reasoning": "The character's expression hardens slightly. After saying 'Mustache,' her eyes narrow, and her tone becomes darker and more serious. The preceding context of feeling 'better' now channels into a clear, stated purpose of vengeance, indicating a determined and vengeful state.",
+    "summary_reasoning": "Hardened expression, dark tone, vengeful words."
+  },
+  {
+    "timestamp": 23.205,
+    "emotion": "sad",
+    "detailed_reasoning": "After a long, contemplative pause, the character's entire demeanor shifts. Her previously hard expression softens dramatically, her eyes well up with tears, and her voice becomes gentle and filled with sorrow as she says, 'But I do love you.' This is a stark contrast to her previous vengeful state, revealing underlying sadness and vulnerability.",
+    "summary_reasoning": "Facial expression softens, eyes teary, sorrowful tone."
+  },
+  {
+    "timestamp": 28.958,
+    "emotion": "melancholy",
+    "detailed_reasoning": "Continuing from the previous moment of sadness, her final word 'Always' is delivered with a sad, soft chuckle. Her face is filled with sorrow and resignation, and the slight, pained smile confirms a deep sense of melancholy and heartbreak.",
+    "summary_reasoning": "Sad chuckle, sorrowful expression, resigned tone."
+  }
+]

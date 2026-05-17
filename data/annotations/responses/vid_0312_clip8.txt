@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 5.343,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her talk with a reflective tone, discussing the physical and mental changes she has experienced. Her voice is steady and her pace is measured. Visually, she stands with a relaxed but engaged posture, and her facial expression is neutral. This combination of audio and visual cues indicates a state of calmness as she sets the stage for her story.",
+    "summary_reasoning": "Reflective tone, steady voice, neutral expression."
+  },
+  {
+    "timestamp": 10.956,
+    "emotion": "determined",
+    "detailed_reasoning": "The speaker's tone shifts as she declares the start of her \"healing journey.\" The pace of her speech quickens slightly, and her voice gains a more forward-driving quality. This suggests a transition from reflection to a more action-oriented and determined mindset.",
+    "summary_reasoning": "Quicker pace, forward-driving tone."
+  },
+  {
+    "timestamp": 22.355,
+    "emotion": "disciplined",
+    "detailed_reasoning": "She describes her rigorous fitness routine with specific details (\"four to five times a week, focusing on heavy lifting\"). Her tone is factual and confident, and her hand gestures are precise. This conveys a sense of discipline and commitment to her new lifestyle.",
+    "summary_reasoning": "Factual tone, specific details, confident posture."
+  },
+  {
+    "timestamp": 29.764,
+    "emotion": "proud",
+    "detailed_reasoning": "The speaker lists the unhealthy foods she eliminated from her diet. Her delivery is rapid and emphatic, particularly on the word \"No.\" There's an undertone of pride and accomplishment in her voice for adhering to such a strict regimen, showcasing her strong self-control.",
+    "summary_reasoning": "Emphatic tone, strong delivery, listing accomplishments."
+  },
+  {
+    "timestamp": 37.053,
+    "emotion": "content",
+    "detailed_reasoning": "When mentioning her new favorite foods, a slight smile appears on her face and her tone becomes lighter and more positive. This shift indicates that she not only accepted her new diet but found genuine enjoyment and contentment in it.",
+    "summary_reasoning": "Slight smile, lighter tone."
+  },
+  {
+    "timestamp": 40.317,
+    "emotion": "reflective",
+    "detailed_reasoning": "The topic changes to meditation and spirituality. A still image of the speaker meditating is shown. Her voice becomes softer and more introspective, mirroring the calm nature of the practices she is describing. This creates a reflective and serene mood.",
+    "summary_reasoning": "Softer voice, introspective tone, meditating visual."
+  },
+  {
+    "timestamp": 47.807,
+    "emotion": "impassioned",
+    "detailed_reasoning": "The speaker's emotional intensity rises significantly as she says, \"through my strong will to live.\" Her voice becomes louder, more forceful, and her pace slows for emphasis. Her facial expression is one of intense determination, conveying a deep, impassioned feeling about her survival.",
+    "summary_reasoning": "Louder forceful voice, intense expression, powerful words."
+  },
+  {
+    "timestamp": 57.932,
+    "emotion": "empowered",
+    "detailed_reasoning": "Concluding the clip, the speaker's tone becomes uplifting and optimistic as she talks about focusing on \"possibilities instead of obstacles.\" Her facial expression is open and bright, and her hand gestures are expansive. This combination of cues conveys a strong sense of empowerment and hope.",
+    "summary_reasoning": "Uplifting tone, bright expression, expansive gestures."
+  }
+]

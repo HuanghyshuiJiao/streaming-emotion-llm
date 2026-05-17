@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 5.1,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker begins with a calm, deliberate, and slightly somber tone. Her facial expression is serious and her hand gestures are measured as she introduces the topic of fear and procrastination. This sets a reflective and thoughtful mood for her spoken word performance.",
+    "summary_reasoning": "Calm tone, serious expression, measured gestures."
+  },
+  {
+    "timestamp": 9.588,
+    "emotion": "serious",
+    "detailed_reasoning": "Her tone gains a bit of intensity and urgency when she says, \"tomorrow isn't even promised and that's where we've all gone wrong.\" The pitch of her voice rises slightly, and the pace quickens, shifting the mood from purely thoughtful to one of serious warning or admonition.",
+    "summary_reasoning": "Increased vocal intensity, rising pitch, faster pace."
+  },
+  {
+    "timestamp": 12.494,
+    "emotion": "passionate",
+    "detailed_reasoning": "There is a significant shift in energy here. The speaker's voice becomes much stronger, louder, and more motivational as she exclaims, \"He wants us to be brave today, brave right now.\" Her facial expression becomes more determined, and she uses a pointing gesture for emphasis, conveying a passionate and inspirational feeling.",
+    "summary_reasoning": "Stronger voice, determined expression, emphatic gestures."
+  },
+  {
+    "timestamp": 22.835,
+    "emotion": "confident",
+    "detailed_reasoning": "After the passionate call to action, her tone shifts to a more declarative and instructive one. As she explains the relationship between fear and bravery, her delivery is firm and steady. This change suggests she is confidently laying out a core principle for the audience to understand.",
+    "summary_reasoning": "Declarative tone, firm and steady delivery."
+  },
+  {
+    "timestamp": 31.849,
+    "emotion": "tense",
+    "detailed_reasoning": "The speaker transitions into a storytelling mode, recounting the story of Peter. Her voice becomes more dramatic and varies in pace to build narrative tension. As she describes the \"waves of fear,\" her tone conveys the anxiety and doubt of the character, creating a tense atmosphere.",
+    "summary_reasoning": "Storytelling tone, dramatic vocal pacing, anxious delivery."
+  },
+  {
+    "timestamp": 40.041,
+    "emotion": "solemn",
+    "detailed_reasoning": "At the story's climax, her voice drops in pitch and volume on the word \"sunk.\" The phrase \"and fear won\" is delivered with a tone of finality and disappointment. This shift evokes a solemn and somber feeling, marking the tragic outcome of the story.",
+    "summary_reasoning": "Lowered pitch and volume, disappointed tone, finality."
+  },
+  {
+    "timestamp": 43.386,
+    "emotion": "stern",
+    "detailed_reasoning": "Quoting scripture, the speaker's tone becomes stern and admonishing on the line, \"You of little faith.\" The directness and gravity of her delivery serve as a powerful, corrective lesson drawn from the preceding story.",
+    "summary_reasoning": "Admonishing tone, direct and grave delivery."
+  },
+  {
+    "timestamp": 51.368,
+    "emotion": "hopeful",
+    "detailed_reasoning": "In her concluding statement, her voice becomes warmer and her pitch lifts. She explains that bravery is an \"exchange of fear for faith\" with a tone of gentle conviction and encouragement. Her facial expression softens, leaving the audience with a final, hopeful message of resolution.",
+    "summary_reasoning": "Warm and encouraging tone, rising pitch, soft expression."
+  }
+]

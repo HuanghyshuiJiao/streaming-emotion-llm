@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 5.557,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins with a steady and composed tone of voice. Her facial expression is neutral and thoughtful, and her body language is relaxed. She is delivering her opening lines in a measured and deliberate way, creating a calm and authoritative atmosphere.",
+    "summary_reasoning": "Steady voice, neutral expression, relaxed posture."
+  },
+  {
+    "timestamp": 16.308,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker shifts to a personal anecdote. Her tone becomes slightly softer and more introspective. She makes a small, self-aware smile as she mentions it took her years to learn this lesson for herself, indicating a reflective and slightly vulnerable state.",
+    "summary_reasoning": "Softer tone, slight smile, introspective content."
+  },
+  {
+    "timestamp": 23.876,
+    "emotion": "troubled",
+    "detailed_reasoning": "Her tone becomes more serious and her pace slows down as she describes the negative inner voice. She lists adjectives like \"afraid and angry,\" and her facial expression becomes more strained, with a slight furrow in her brow, reflecting the difficult emotions she's describing.",
+    "summary_reasoning": "Serious tone, slower pace, strained expression."
+  },
+  {
+    "timestamp": 33.073,
+    "emotion": "despair",
+    "detailed_reasoning": "The speaker's voice drops in pitch and volume, conveying a sense of hopelessness. She describes her inner voice wanting to \"get out of here.\" Her eyes look down, and her expression is one of deep sadness and weariness, accurately reflecting a state of despair.",
+    "summary_reasoning": "Lowered voice, sad expression, downward gaze."
+  },
+  {
+    "timestamp": 42.046,
+    "emotion": "frustrated",
+    "detailed_reasoning": "Her voice gains a sharp edge of frustration as she describes begging her inner voice to \"shut up.\" Her facial expression is tense, and her hands are held in a slightly clenched position, indicating her internal struggle and exasperation with the relentless inner critic.",
+    "summary_reasoning": "Sharp tone, tense expression, clenched hands."
+  },
+  {
+    "timestamp": 50.155,
+    "emotion": "serene",
+    "detailed_reasoning": "The speaker's entire demeanor shifts. Her tone becomes soft and calm, her facial muscles relax, and she takes a visible deep breath. She speaks about an \"epiphany,\" and her expression turns into one of peaceful realization, signaling a shift from conflict to serenity.",
+    "summary_reasoning": "Soft tone, relaxed face, deep breath."
+  },
+  {
+    "timestamp": 55.857,
+    "emotion": "empowered",
+    "detailed_reasoning": "In her final statement, her voice becomes firm and confident. She concludes with the powerful statement, \"I became my own moderator.\" Her posture is upright, her expression is clear and direct, and she ends with a subtle, confident smile, conveying a sense of empowerment and control.",
+    "summary_reasoning": "Firm voice, confident posture, direct gaze, slight smile."
+  }
+]

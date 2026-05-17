@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp": 1.553,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker begins with a high-pitched, whiny tone, looking upwards and exclaiming, \"God, this is so unfair.\" Her facial expression shows clear discontent with furrowed brows and a downturned mouth, indicating a strong sense of frustration.",
+    "summary_reasoning": "High-pitched tone, facial expression of discontent."
+  },
+  {
+    "timestamp": 2.994,
+    "emotion": "angry",
+    "detailed_reasoning": "Her voice becomes more forceful and direct as she says, \"I hate you.\" The shift from a whiny to a more accusatory tone, combined with a direct, though off-camera, gaze, suggests her frustration is escalating into anger.",
+    "summary_reasoning": "Forceful tone, direct gaze, accusatory words."
+  },
+  {
+    "timestamp": 5.077,
+    "emotion": "anxious",
+    "detailed_reasoning": "The speaker's voice trembles slightly, and her pace quickens as she says, \"You're going to ruin me socially.\" This, along with her wide-eyed expression and tense posture, conveys a sense of anxiety and desperation about her social standing.",
+    "summary_reasoning": "Trembling voice, quick pace, wide eyes, tense posture."
+  },
+  {
+    "timestamp": 17.01,
+    "emotion": "excited",
+    "detailed_reasoning": "Her tone shifts to a more animated and higher pitch as she describes how the popular girls started talking to her. Her eyes widen and she gestures with her hands, reflecting a newfound excitement and hopefulness about her social situation.",
+    "summary_reasoning": "Animated high-pitched tone, wide eyes, hand gestures."
+  },
+  {
+    "timestamp": 24.718,
+    "emotion": "proud",
+    "detailed_reasoning": "When recounting being asked if she's 16, her voice takes on a slightly boastful and confident tone. She puffs her chest out slightly and her expression becomes more self-assured, indicating pride in being old enough to drive her new friends.",
+    "summary_reasoning": "Boastful tone, confident posture, self-assured expression."
+  },
+  {
+    "timestamp": 33.023,
+    "emotion": "happy",
+    "detailed_reasoning": "A genuine smile appears on her face, and her voice is filled with enthusiasm as she says, \"They're all so excited.\" Her body language relaxes, and she looks genuinely pleased, showing happiness about her social success.",
+    "summary_reasoning": "Genuine smile, enthusiastic voice, relaxed body language."
+  },
+  {
+    "timestamp": 40.19,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker's happy demeanor vanishes. Her tone becomes flat and annoyed as she explains the original plan for her parents to be at the gala. Her facial expression turns sour, and she gestures dismissively, showing her frustration with the situation.",
+    "summary_reasoning": "Flat and annoyed tone, sour facial expression, dismissive gesture."
+  },
+  {
+    "timestamp": 44.174,
+    "emotion": "angry",
+    "detailed_reasoning": "Her voice rises in pitch and volume, becoming accusatory as she blames her father, saying, \"You weren't supposed to get a stupid fever and get stuck at home.\" Her eyes flash with anger, and her gestures become more emphatic and pointed.",
+    "summary_reasoning": "Loud, high-pitched, accusatory tone, angry eyes, emphatic gestures."
+  },
+  {
+    "timestamp": 51.201,
+    "emotion": "desperate",
+    "detailed_reasoning": "Her voice cracks and takes on a pleading, desperate quality as she talks about the consequences of not picking up her friends. Her eyes are wide with panic, and she wrings her hands, conveying a deep sense of desperation and fear of social ruin.",
+    "summary_reasoning": "Cracked, pleading voice, panicked eyes, hand-wringing."
+  },
+  {
+    "timestamp": 55.165,
+    "emotion": "resigned",
+    "detailed_reasoning": "Her shoulders slump, and her voice drops to a lower, more defeated tone as she says, \"Or I might as well be.\" Her expression becomes one of resignation, as if accepting a terrible fate, which contrasts with her previous desperation.",
+    "summary_reasoning": "Slumped shoulders, defeated tone, resigned expression."
+  },
+  {
+    "timestamp": 59.67,
+    "emotion": "fearful",
+    "detailed_reasoning": "In the final line, her voice is low and filled with dread as she says, \"They will make it their life's work to ruin me.\" Her eyes are wide with fear, and her body is tense, showing a genuine fear of the social repercussions.",
+    "summary_reasoning": "Low, dreadful voice, wide eyes, tense body."
+  }
+]

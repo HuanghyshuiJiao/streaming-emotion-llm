@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 1.573,
+    "emotion": "happy",
+    "detailed_reasoning": "The speaker starts with a wide, genuine smile and an enthusiastic, high-pitched tone as she introduces herself and the piece she is about to perform. Her body language is open and welcoming, conveying a sense of happiness and excitement before beginning her monologue.",
+    "summary_reasoning": "Smiling, enthusiastic tone."
+  },
+  {
+    "timestamp": 6.800,
+    "emotion": "serious",
+    "detailed_reasoning": "There is an abrupt shift in demeanor as the performance begins. The speaker's smile vanishes, her facial expression becomes somber and intense, and her vocal tone drops significantly in pitch and pace. This transition marks a clear change from a happy introduction to a serious and dramatic tone for the monologue.",
+    "summary_reasoning": "Smile disappears, tone drops."
+  },
+  {
+    "timestamp": 13.169,
+    "emotion": "pained",
+    "detailed_reasoning": "The speaker's facial expression shifts to show clear emotional pain. Her eyebrows are furrowed, her eyes appear watery, and her voice takes on a softer, more vulnerable quality, especially as she says \"take that hurt.\" This conveys a sense of deep hurt and suffering.",
+    "summary_reasoning": "Furrowed brows, vulnerable voice."
+  },
+  {
+    "timestamp": 20.119,
+    "emotion": "accusatory",
+    "detailed_reasoning": "The emotion intensifies from just pain to a more accusatory anger. Her voice gains a harder edge, and she makes direct, intense eye contact with the camera. Her delivery of the lines \"You're hurting, so you hurt\" is pointed and direct, suggesting she is blaming someone.",
+    "summary_reasoning": "Harder vocal tone, direct eye contact."
+  },
+  {
+    "timestamp": 33.922,
+    "emotion": "angry",
+    "detailed_reasoning": "The speaker's anger escalates. Her volume increases, her eyes widen, and her facial muscles tense up, particularly as she says \"so you cause pain in me.\" The delivery is forceful and almost trembling with rage, indicating a peak in her anger.",
+    "summary_reasoning": "Increased volume, tense face."
+  },
+  {
+    "timestamp": 40.194,
+    "emotion": "determined",
+    "detailed_reasoning": "Following the peak of her anger, there is a distinct shift in tone. Her voice becomes firm and resolute on the line \"It has to stop.\" Her gaze is steady and unwavering, and her posture straightens, conveying a newfound sense of resolve and determination to end the cycle of pain.",
+    "summary_reasoning": "Firm voice, steady gaze."
+  },
+  {
+    "timestamp": 55.043,
+    "emotion": "anguished",
+    "detailed_reasoning": "While still determined, a wave of anguish washes over her expression. Her face contorts in pain, her eyes squint as if fighting back tears, and her voice cracks with emotion on the word \"never.\" This shows the deep emotional cost of her decision.",
+    "summary_reasoning": "Pained expression, voice cracks."
+  },
+  {
+    "timestamp": 58.851,
+    "emotion": "resolved",
+    "detailed_reasoning": "For the final line, \"And I must do it,\" her expression hardens again. The anguish recedes, replaced by a look of grim finality. Her voice, though strained, is firm, emphasizing her commitment to her decision. This concludes the performance on a note of powerful, albeit painful, resolution.",
+    "summary_reasoning": "Hard expression, firm final words."
+  }
+]

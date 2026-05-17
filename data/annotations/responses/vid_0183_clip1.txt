@@ -1,0 +1,74 @@
+[
+  {
+    "timestamp": 1.493,
+    "emotion": "happy",
+    "detailed_reasoning": "The user begins by introducing himself with a bright, open facial expression and an enthusiastic, high-pitched vocal tone. He is smiling and seems cheerful as he states his name.",
+    "summary_reasoning": "Smiling, enthusiastic tone."
+  },
+  {
+    "timestamp": 7.542,
+    "emotion": "playful",
+    "detailed_reasoning": "After listing his interests, he adds a playful caveat about long walks on the beach, specifying 'not in the dark.' His tone is lighthearted, and he has a slight, mischievous smile, indicating he is being playful.",
+    "summary_reasoning": "Lighthearted tone, mischievous smile."
+  },
+  {
+    "timestamp": 11.448,
+    "emotion": "serious",
+    "detailed_reasoning": "He pauses and his facial expression becomes more neutral and serious as he admits his fear of the dark. His vocal tone drops slightly, and the playful energy from the previous statement dissipates, replaced by a more earnest demeanor.",
+    "summary_reasoning": "Neutral expression, earnest tone."
+  },
+  {
+    "timestamp": 17.637,
+    "emotion": "confused",
+    "detailed_reasoning": "After a long pause where his expression is contemplative, he suddenly looks up and asks, 'Where are my corn pops?'. His tone is questioning and his eyebrows are slightly raised, indicating confusion and a sudden shift in thought.",
+    "summary_reasoning": "Questioning tone, raised eyebrows."
+  },
+  {
+    "timestamp": 20.861,
+    "emotion": "annoyed",
+    "detailed_reasoning": "His tone becomes more forceful and clipped as he states that they are out of his cereal. His eyes widen slightly and his mouth is set in a firm line, showing his annoyance and disbelief.",
+    "summary_reasoning": "Forceful tone, wide eyes."
+  },
+  {
+    "timestamp": 24.727,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The user's voice rises in pitch and volume as he exclaims, 'How could you?'. His facial expression is one of disbelief and frustration, with his brow furrowed and his head tilted in exasperation. This shows an escalation from annoyance to frustration.",
+    "summary_reasoning": "Louder, higher-pitched voice, furrowed brow."
+  },
+  {
+    "timestamp": 31.025,
+    "emotion": "longing",
+    "detailed_reasoning": "His tone of voice becomes dreamy and wistful as he describes the cereal, saying 'All that crunch. All that sweet popcorn.' He looks up and his eyes have a distant look, conveying a sense of longing for the cereal.",
+    "summary_reasoning": "Wistful tone, distant gaze."
+  },
+  {
+    "timestamp": 33.928,
+    "emotion": "desperate",
+    "detailed_reasoning": "His voice cracks with emotion, and he leans forward with a pained expression as he says, 'I want them, and I can't have them.' The combination of his whining tone, desperate facial expression, and body language conveys a feeling of desperation.",
+    "summary_reasoning": "Voice crack, pained expression, whining tone."
+  },
+  {
+    "timestamp": 37.511,
+    "emotion": "agitated",
+    "detailed_reasoning": "He becomes physically agitated, clenching his fists and shaking his head as he repeats, 'I gotta have my pops.' His voice is strained and loud, and his body is tense, showing his growing agitation and inability to control his frustration.",
+    "summary_reasoning": "Clenched fists, strained voice, tense body."
+  },
+  {
+    "timestamp": 49.402,
+    "emotion": "exasperated",
+    "detailed_reasoning": "After a long pause, his demeanor shifts completely. He now speaks about his mom with a sigh in his voice and a look of exasperation. His tone is resigned and slightly annoyed as he claims his mom's ambition is to embarrass him.",
+    "summary_reasoning": "Sigh, resigned tone, annoyed expression."
+  },
+  {
+    "timestamp": 56.228,
+    "emotion": "embarrassed",
+    "detailed_reasoning": "His eyes widen and he speaks in a hushed, almost conspiratorial tone as he describes his mom coming to school in a clown costume. His facial expression shows clear embarrassment and disbelief at the memory.",
+    "summary_reasoning": "Wide eyes, hushed tone, embarrassed expression."
+  },
+  {
+    "timestamp": 58.995,
+    "emotion": "outraged",
+    "detailed_reasoning": "He leans into the camera with a look of pure outrage, his voice rising in pitch and volume as he delivers the punchline about his mom inviting people to his birthday party. His expression is a mixture of shock and indignation.",
+    "summary_reasoning": "Leans forward, voice rises, shocked expression."
+  }
+]

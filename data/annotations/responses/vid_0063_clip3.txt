@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp": 3.074,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker begins by recounting a difficult childhood memory. His tone is subdued, his facial expression is pained with downturned lips and slightly furrowed brows, and he's touching his forehead, a common sign of distress or painful recollection. This combination suggests an emotion of sadness.",
+    "summary_reasoning": "Subdued tone, pained expression, recounting sad memory."
+  },
+  {
+    "timestamp": 9.8,
+    "emotion": "resigned",
+    "detailed_reasoning": "After pausing, the speaker says \"That's who I am.\" His tone shifts from sad to one of flat resignation. His facial expression is weary, and he seems to be making a statement of fact about his identity born from his past trauma, indicating a sense of helplessness or resignation.",
+    "summary_reasoning": "Flat tone, weary expression, statement of identity."
+  },
+  {
+    "timestamp": 14.604,
+    "emotion": "disgusted",
+    "detailed_reasoning": "The speaker's expression shifts to a sneer as he mutters \"Fucking bullshit.\" His tone is filled with contempt and his face shows clear disgust, indicating a strong negative reaction to his own self-pitying explanation.",
+    "summary_reasoning": "Sneering expression, contemptuous tone, profanity."
+  },
+  {
+    "timestamp": 22.551,
+    "emotion": "defiant",
+    "detailed_reasoning": "The speaker's voice becomes louder and more forceful. He states, \"I will not apologize for who I am,\" with a firm, challenging tone and a tense facial expression. This marks a clear shift from disgust to active defiance.",
+    "summary_reasoning": "Louder forceful voice, tense face, defiant words."
+  },
+  {
+    "timestamp": 26.435,
+    "emotion": "demanding",
+    "detailed_reasoning": "Continuing his defiant statements, his voice gains a more demanding quality on the word \"need.\" His head tilts slightly and his expression intensifies, showing that he is not just defending himself but making a demand for his needs to be acknowledged.",
+    "summary_reasoning": "Demanding tone, intensified expression."
+  },
+  {
+    "timestamp": 30.038,
+    "emotion": "enraged",
+    "detailed_reasoning": "The speaker's emotion peaks here. He shouts the word \"want!\" with maximum volume and force. His entire face is contorted in rage, with wide eyes and a tense jaw, representing a culmination of his frustration and anger.",
+    "summary_reasoning": "Shouting, high volume, enraged facial expression."
+  },
+  {
+    "timestamp": 32.961,
+    "emotion": "calm",
+    "detailed_reasoning": "There is an abrupt and dramatic shift in emotion. After his outburst, he says \"Okay\" in a completely calm and controlled voice. His facial expression softens, and he looks down, as if collecting himself or switching to a completely different persona.",
+    "summary_reasoning": "Sudden shift to calm voice, soft expression."
+  },
+  {
+    "timestamp": 36.731,
+    "emotion": "authoritative",
+    "detailed_reasoning": "The speaker's tone is now that of an instructor or leader. He gives a clear, polite command (\"go to page 18... please?\"). His voice is steady and his expression is neutral, suggesting he has taken on an authoritative and controlled role, leaving the previous emotional turmoil behind.",
+    "summary_reasoning": "Instructional tone, neutral expression, giving command."
+  },
+  {
+    "timestamp": 43.467,
+    "emotion": "enraged",
+    "detailed_reasoning": "The facade of calmness breaks completely. He screams \"It's fucking bullshit!\" again, throwing his hand forward. His face is once again contorted with rage, showing that the underlying anger was not resolved and has erupted again, this time with more physical expression.",
+    "summary_reasoning": "Screaming, physical gesture, enraged expression."
+  },
+  {
+    "timestamp": 54.333,
+    "emotion": "frustrated",
+    "detailed_reasoning": "After a long pause where he's visibly struggling with his emotions, he speaks again. His voice is strained and shaky as he tries to give another instruction. His expression is one of deep frustration and weariness, as if fighting to regain control but failing.",
+    "summary_reasoning": "Strained voice, weary expression, struggling to speak."
+  },
+  {
+    "timestamp": 57.882,
+    "emotion": "annoyed",
+    "detailed_reasoning": "In his final line, his voice is clipped and sharp. He is still trying to give instructions but the tone is laced with annoyance and impatience, showing that the frustration from the previous moment has now settled into a low-level irritation.",
+    "summary_reasoning": "Clipped sharp tone, impatient speech."
+  }
+]

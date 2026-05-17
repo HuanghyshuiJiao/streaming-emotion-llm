@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 1.213,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her presentation with a calm and measured tone. Although her face is not visible at the start (a slide is shown), her voice is steady and clear, establishing a neutral, informative baseline for her talk. There are no signs of nervousness or strong emotion in her speech pattern.",
+    "summary_reasoning": "Calm, measured tone."
+  },
+  {
+    "timestamp": 16.332,
+    "emotion": "focused",
+    "detailed_reasoning": "The camera now shows the speaker on stage. She is holding notes and maintains a stable posture. Her vocal tone remains consistent and her facial expression is neutral and concentrated. This indicates she is focused on delivering the specific details of the research accurately.",
+    "summary_reasoning": "Stable posture, neutral expression, consistent tone."
+  },
+  {
+    "timestamp": 25.785,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker continues to detail the study's context and findings. Her delivery is very factual and she maintains a consistent, informative tone. Her gaze alternates between her notes and the audience, reinforcing the role of an educator or presenter sharing information without adding personal emotional color.",
+    "summary_reasoning": "Factual content, steady tone, presenter's gaze."
+  },
+  {
+    "timestamp": 36.444,
+    "emotion": "neutral",
+    "detailed_reasoning": "When describing the participatory aspect of the storytelling, the speaker's demeanor remains unchanged. She makes a small, subtle gesture with her hand but her vocal pitch, pace, and facial expression stay neutral. This shows she is simply continuing to present the facts of the study in a straightforward manner.",
+    "summary_reasoning": "Neutral tone, neutral expression, steady pace."
+  },
+  {
+    "timestamp": 47.123,
+    "emotion": "calm",
+    "detailed_reasoning": "As she reaches the conclusion of her point about Jackson's research, her tone remains calm and conclusive. She delivers the final sentence with the same measured pace and neutral intonation used throughout the clip, ending the informational segment without any emotional escalation or change.",
+    "summary_reasoning": "Calm tone, measured pace, neutral intonation."
+  }
+]

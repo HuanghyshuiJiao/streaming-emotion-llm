@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 4.417,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her talk with a steady and measured tone. Her facial expression is neutral and her posture is relaxed. She lists concepts like 'order' and 'honesty' in a calm, informative manner, establishing a composed presence from the start.",
+    "summary_reasoning": "Steady tone, neutral expression, relaxed posture."
+  },
+  {
+    "timestamp": 9.344,
+    "emotion": "grateful",
+    "detailed_reasoning": "The speaker's tone softens and becomes warmer as she says the word 'gratitude.' She also exhibits a slight, genuine smile, and her eyes soften. This combination of vocal and facial cues clearly indicates a shift to a feeling of gratitude.",
+    "summary_reasoning": "Softened tone, slight smile."
+  },
+  {
+    "timestamp": 14.631,
+    "emotion": "amused",
+    "detailed_reasoning": "When describing her internal voices as potentially 'bonkers or twisted,' the speaker's tone becomes lighter, and a subtle, wry smile appears on her face. Her head tilts slightly, suggesting a sense of lighthearted self-awareness and amusement at her own internal complexity.",
+    "summary_reasoning": "Lighter tone, wry smile, head tilt."
+  },
+  {
+    "timestamp": 22.982,
+    "emotion": "inspired",
+    "detailed_reasoning": "The speaker's energy lifts as she introduces the metaphor of a 'prism.' Her eyes widen slightly, her eyebrows raise, and her tone becomes more expansive and positive. This shift suggests she feels inspired by this re-framing of her internal self, moving from a negative (broken mirror) to a positive (prism) image.",
+    "summary_reasoning": "Energized tone, widened eyes, positive metaphor."
+  },
+  {
+    "timestamp": 27.919,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker makes a definitive statement: 'Today, there isn't a voice in my head that I don't welcome.' Her tone becomes firm and resolute, her pace is deliberate, and she makes direct eye contact. This delivery conveys a strong sense of self-assurance and confidence in her state of mind.",
+    "summary_reasoning": "Firm tone, deliberate pace, direct eye contact."
+  },
+  {
+    "timestamp": 33.152,
+    "emotion": "compassionate",
+    "detailed_reasoning": "When talking about her 'whiny, shamey voice,' the speaker's facial expression softens into a gentle, knowing smile. Her tone is understanding and empathetic, not judgmental. This indicates a feeling of compassion and acceptance towards the more difficult parts of herself.",
+    "summary_reasoning": "Soft expression, gentle smile, empathetic tone."
+  },
+  {
+    "timestamp": 40.249,
+    "emotion": "calm",
+    "detailed_reasoning": "After explaining how she interacts with her inner voice, her demeanor returns to a state of calm assurance. Her voice is gentle yet clear, and her facial expression is composed. She is describing a positive outcome, and her emotion reflects the peace that this internal communication brings her.",
+    "summary_reasoning": "Gentle voice, composed expression."
+  },
+  {
+    "timestamp": 50.173,
+    "emotion": "serene",
+    "detailed_reasoning": "In her final statement, the speaker's delivery becomes very deliberate and her tone is soft and peaceful. She speaks about accepting her inner voice 'exactly as she is in the moment,' and her calm, almost serene facial expression matches this profound statement of self-acceptance. It's a concluding thought delivered with a sense of inner peace.",
+    "summary_reasoning": "Deliberate, soft tone, peaceful expression."
+  }
+]

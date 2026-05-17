@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 6.359,
+    "emotion": "determined",
+    "detailed_reasoning": "The speaker's tone intensifies and her pace quickens as she introduces a metaphor of fighting. Her facial expression becomes more serious and focused, and her hand gestures become more deliberate, signaling a shift from a simple statement to a determined declaration of an internal struggle.",
+    "summary_reasoning": "Intensified tone, serious expression, fighting metaphor."
+  },
+  {
+    "timestamp": 12.147,
+    "emotion": "defiant",
+    "detailed_reasoning": "The speaker's volume increases and she makes a powerful, declarative statement, \"I have been fighting her for control of our house for years.\" Her body language is expansive, with arms open, and her chin is lifted, conveying a sense of defiance against this internal adversary she has been battling.",
+    "summary_reasoning": "Increased volume, expansive posture, defiant words."
+  },
+  {
+    "timestamp": 19.356,
+    "emotion": "anxious",
+    "detailed_reasoning": "The speaker's delivery becomes clipped and rapid as she lists a series of self-commands: \"stop rocking, don't shake, breathe.\" This internal monologue, spoken aloud, combined with a tense posture and wide-eyed stare, reveals a state of high anxiety and a desperate attempt to maintain composure.",
+    "summary_reasoning": "Rapid speech, self-commands, tense posture."
+  },
+  {
+    "timestamp": 27.827,
+    "emotion": "resigned",
+    "detailed_reasoning": "After a pause, the speaker's tone becomes flatter and more explanatory. She delivers the line about a \"threesome\" with a sense of weary, almost cynical self-awareness. Her slight shrug and the downward cast of her eyes suggest resignation to the complexities of her relationships.",
+    "summary_reasoning": "Flat tone, cynical metaphor, weary expression."
+  },
+  {
+    "timestamp": 33.43,
+    "emotion": "empathetic",
+    "detailed_reasoning": "The speaker's voice softens considerably, and she places a hand over her heart as she says, \"I understand. I know how hard it is to live with both of us.\" This gesture and vocal shift indicate a move from her own frustration to empathy for how her internal conflict affects others.",
+    "summary_reasoning": "Softened voice, hand on heart, empathetic words."
+  },
+  {
+    "timestamp": 41.242,
+    "emotion": "overwhelmed",
+    "detailed_reasoning": "The pace of her speech accelerates significantly as she describes her overthinking process. The words \"repeated and deconstructed and analyzed\" are delivered in a rush, mirroring the chaotic mental state she is describing. Her gestures become larger and more agitated, reflecting a feeling of being overwhelmed.",
+    "summary_reasoning": "Accelerated pace, agitated gestures, chaotic words."
+  },
+  {
+    "timestamp": 52.56,
+    "emotion": "confrontational",
+    "detailed_reasoning": "The speaker's tone becomes sharp and direct. She physically points towards herself and then towards the imagined other person, creating a confrontational dynamic. The statement \"I have to fight with her before I can fight with you\" is delivered as a stark, non-negotiable fact.",
+    "summary_reasoning": "Sharp tone, pointing gestures, confrontational statement."
+  },
+  {
+    "timestamp": 56.987,
+    "emotion": "hopeless",
+    "detailed_reasoning": "In the final two lines, the speaker's energy completely dissipates. Her voice drops in pitch and volume, her shoulders slump slightly, and her facial expression conveys exhaustion and defeat. The final word, \"cannot,\" is uttered with a sense of finality and hopelessness.",
+    "summary_reasoning": "Voice drops, slumped posture, defeated expression."
+  }
+]

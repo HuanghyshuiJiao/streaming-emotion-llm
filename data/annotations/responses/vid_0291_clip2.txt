@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "humorous",
+    "detailed_reasoning": "The speaker starts his monologue by setting up a political joke. He poses a rhetorical question about immigration policy in a mocking tone and then impersonates Donald Trump with a silly, exaggerated explanation for his actions. His slight smirk and the comedic structure of the sentence clearly indicate a humorous and satirical intent.",
+    "summary_reasoning": "Mocking tone, joke setup, satirical content."
+  },
+  {
+    "timestamp": 15.546,
+    "emotion": "neutral",
+    "detailed_reasoning": "Following the punchline and audience laughter, the speaker's demeanor shifts. His tone becomes declarative and his expression neutralizes. He is no longer telling a joke but is now acting as the host, setting the agenda for the show by stating what will be discussed. This is a standard transitional statement.",
+    "summary_reasoning": "Declarative tone, neutral expression, hosting."
+  },
+  {
+    "timestamp": 20.271,
+    "emotion": "scornful",
+    "detailed_reasoning": "The speaker's tone sharpens significantly as he delivers a direct and insulting message. He repeats the word \"losers\" for emphasis and tells them to \"look in the mirror.\" His facial expression becomes stern and his eye contact is direct, conveying a strong sense of scorn and condescension towards the group he is addressing.",
+    "summary_reasoning": "Sharp tone, stern expression, condescending words."
+  },
+  {
+    "timestamp": 26.947,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "After a brief pause where the audience has a mixed reaction, the speaker says, \"Well, maybe you should. Sorry.\" The word \"Sorry\" is delivered with a dismissive and insincere tone, accompanied by a slight, challenging smirk. This indicates his apology is not genuine but is instead a sarcastic jab at the audience's reaction.",
+    "summary_reasoning": "Dismissive tone, sarcastic apology, challenging smirk."
+  },
+  {
+    "timestamp": 30.474,
+    "emotion": "assertive",
+    "detailed_reasoning": "He repeats his earlier point, \"Losers look in the mirror, okay?\", but with a more forceful and definitive tone. The addition of \"okay?\" acts as a rhetorical device to demand agreement. He is no longer just being scornful but is now firmly and aggressively asserting his opinion as an undeniable fact.",
+    "summary_reasoning": "Forceful tone, firm expression, emphatic repetition."
+  },
+  {
+    "timestamp": 40.374,
+    "emotion": "exasperated",
+    "detailed_reasoning": "The speaker shifts topics, now describing the mindset of Democrats. He mimics their supposed question, \"how is this even close?\" in a tone of voice that conveys bewilderment and frustration. His open-handed gestures and incredulous facial expression are meant to channel a sense of exasperation.",
+    "summary_reasoning": "Incredulous tone, bewildered expression, mimicking gestures."
+  },
+  {
+    "timestamp": 44.302,
+    "emotion": "cynical",
+    "detailed_reasoning": "After setting up the Democrats' confusion, he delivers a stark punchline: \"And they're right. It wasn't.\" The line \"It wasn't\" is spoken in a flat, deadpan manner, which creates a moment of dark, cynical humor. His grimly satisfied expression underscores the pessimistic and cynical nature of the joke's resolution.",
+    "summary_reasoning": "Deadpan delivery, grim expression, dark punchline."
+  },
+  {
+    "timestamp": 54.757,
+    "emotion": "admonishing",
+    "detailed_reasoning": "In his concluding statement, the speaker's tone becomes serious and judgmental. He states that people \"could not conceive of a second Trump-ter, but they should have.\" The phrase \"they should have\" is delivered with a scolding quality, functioning as a final, critical admonishment for their lack of foresight.",
+    "summary_reasoning": "Serious tone, scolding words, critical judgment."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 1.474,
+    "emotion": "intense",
+    "detailed_reasoning": "The speaker begins the story with a very animated and dramatic tone. His eyes are wide, he is looking upwards as if recounting a grand event, and his hands are raised. The content, describing the 'entire NYPD' chasing him, immediately establishes a high-stakes, intense narrative.",
+    "summary_reasoning": "Animated tone, wide eyes, raised hands, dramatic words."
+  },
+  {
+    "timestamp": 13.539,
+    "emotion": "exhilarated",
+    "detailed_reasoning": "After describing a chaotic police chase, his tone shifts as he says, 'I felt like the Pope.' This is a humorous and grandiose comparison. His voice lifts, and he has a slight, triumphant smile, suggesting a feeling of exhilaration and power from the memory of the event.",
+    "summary_reasoning": "Grandiose words, lifted tone, slight smile."
+  },
+  {
+    "timestamp": 16.284,
+    "emotion": "urgent",
+    "detailed_reasoning": "The narrative's tension escalates again as he describes the tunnel 'caving in behind me.' His voice becomes louder, his speaking pace quickens, and his expression turns more serious and wide-eyed, conveying the urgency and danger of the situation in his story.",
+    "summary_reasoning": "Louder voice, faster pace, urgent words."
+  },
+  {
+    "timestamp": 26.792,
+    "emotion": "awestruck",
+    "detailed_reasoning": "There's a significant shift in tone from chaos to reverence. He begins a biblical metaphor, 'as if the waters parted,' and his arms spread wide in a grand gesture. His voice becomes more measured and filled with wonder, and his facial expression is one of awe, reflecting the miraculous imagery he's creating.",
+    "summary_reasoning": "Reverent tone, grand arm gesture, awe expression."
+  },
+  {
+    "timestamp": 33.271,
+    "emotion": "triumphant",
+    "detailed_reasoning": "He delivers the climax of his metaphor: 'I was Moses.' His expression is calm yet supremely confident, and his tone is declarative and triumphant. He presents himself as the chosen one who has successfully led his people to safety, embodying a sense of victory.",
+    "summary_reasoning": "Confident expression, declarative tone, triumphant words."
+  },
+  {
+    "timestamp": 37.143,
+    "emotion": "sincere",
+    "detailed_reasoning": "The speaker breaks the narrative frame and addresses the audience directly with 'True story.' His dramatic tone disappears, replaced by a more grounded, matter-of-fact delivery. His direct gaze and slight head tilt convey a sense of sincerity, attempting to convince the listener of his unbelievable tale.",
+    "summary_reasoning": "Direct address, grounded tone, direct gaze."
+  }
+]

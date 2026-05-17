@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 8.664,
+    "emotion": "critical",
+    "detailed_reasoning": "The speaker's tone is firm and slightly accusatory as she labels the pressure to be positive a \"tyranny.\" Her facial expression is serious, with a slight frown and pursed lips, reinforcing her critical stance on the subject. The preceding context about being told to \"stop being so angry\" sets up this critical assessment.",
+    "summary_reasoning": "Firm tone, serious expression, critical words."
+  },
+  {
+    "timestamp": 11.829,
+    "emotion": "passionate",
+    "detailed_reasoning": "Her voice gains intensity and emphasis on the words \"tyranny of positivity.\" Her eyes are wide and her expression is focused, conveying a strong, passionate belief in the point she is making. She is no longer just stating a fact but delivering a powerful, emotionally charged statement.",
+    "summary_reasoning": "Intense voice, focused expression, strong emphasis."
+  },
+  {
+    "timestamp": 19.942,
+    "emotion": "emphatic",
+    "detailed_reasoning": "The speaker's delivery becomes very deliberate and forceful. She enunciates each word—\"cruel, unkind, and ineffective\"—with pauses in between, giving them significant weight. Her head nods slightly with each word, and her facial expression is stern, emphasizing her strong condemnation of forced positivity.",
+    "summary_reasoning": "Forceful tone, deliberate pauses, stern expression."
+  },
+  {
+    "timestamp": 32.414,
+    "emotion": "analytical",
+    "detailed_reasoning": "After listing negative coping mechanisms, her tone shifts to a more analytical and summarizing one. She uses hand gestures to seemingly categorize these concepts—\"brooding, bottling, or forced positivity.\" Her facial expression is neutral and focused, indicating a shift from emotional condemnation to intellectual analysis.",
+    "summary_reasoning": "Analytical tone, neutral expression, summarizing gestures."
+  },
+  {
+    "timestamp": 36.282,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker delivers the line \"They are all rigid responses\" with a confident and definitive tone. Her posture is straight, and she makes direct eye contact with the audience. The statement itself is a strong, summary judgment, and her delivery matches this certainty.",
+    "summary_reasoning": "Confident tone, definitive statement, direct eye contact."
+  },
+  {
+    "timestamp": 42.035,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's tone becomes graver and more serious as she brings up the \"inevitable fall of apartheid.\" This is a significant shift in topic to a very serious historical event, and her somber facial expression and slower, more deliberate vocal pace reflect the weight of the subject matter.",
+    "summary_reasoning": "Serious tone, somber expression, grave topic."
+  },
+  {
+    "timestamp": 45.622,
+    "emotion": "convinced",
+    "detailed_reasoning": "She delivers the core message, \"rigid denial doesn't work,\" with strong conviction. Her voice is firm, her gaze is steady, and she uses a slight hand gesture for emphasis. The lesson she draws from the apartheid analogy is presented as an undeniable truth, and her entire demeanor projects this conviction.",
+    "summary_reasoning": "Firm voice, steady gaze, strong conviction."
+  },
+  {
+    "timestamp": 53.359,
+    "emotion": "concerned",
+    "detailed_reasoning": "In her concluding statement, the speaker's tone becomes more concerned and cautionary as she lists the domains where this denial is \"unsustainable\": individuals, families, and societies. Her vocal pitch drops slightly, and her expression is serious, conveying the broad and worrying implications of her argument.",
+    "summary_reasoning": "Concerned tone, serious expression, cautionary words."
+  }
+]

@@ -1,0 +1,14 @@
+benchmark:
+  name: emotion_streaming
+  manifest: data/manifests/feature_subset/test.jsonl
+
+metrics:
+  emotion_token_exact_match: true
+  emotion_token_normalized_match: true
+  generation_latency: true
+  generation_quality: false
+
+streaming:
+  mode: event_stream_window
+  max_num_frames: 120
+  fps: 2.0

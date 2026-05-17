@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 2.914,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins his performance with a serious and focused demeanor. His tone is measured and deliberate, and his facial expression is intense and without any hint of a smile. The words 'evil plan' establish a heavy and serious context right from the start.",
+    "summary_reasoning": "Serious tone, intense expression, negative words."
+  },
+  {
+    "timestamp": 8.821,
+    "emotion": "hurt",
+    "detailed_reasoning": "The speaker's tone shifts to one of recounting a painful experience. While maintaining a rhythmic, poetic delivery, the words 'made fun of' and 'words were gunshots' convey a sense of being attacked. His facial expression becomes more pained, reflecting the emotional impact of the bullying he's describing.",
+    "summary_reasoning": "Pained tone, negative narrative, pained expression."
+  },
+  {
+    "timestamp": 17.971,
+    "emotion": "sad",
+    "detailed_reasoning": "The narrative continues to describe feelings of worthlessness ('he came from nothing and that was what he was worth'). The speaker's delivery becomes slightly more resigned and mournful, and his posture seems to slump slightly. The camera pulls back, showing him alone on stage, which visually emphasizes the theme of isolation and sadness.",
+    "summary_reasoning": "Mournful tone, theme of worthlessness, isolating visuals."
+  },
+  {
+    "timestamp": 26.14,
+    "emotion": "pained",
+    "detailed_reasoning": "The speaker's voice gains a sharper, more bitter edge when he uses the wordplay 'first degree burns'. His expression is tight and conveys deep emotional pain. The content describes physical and emotional harm, and his delivery makes this pain palpable.",
+    "summary_reasoning": "Bitter tone, tight expression, painful words."
+  },
+  {
+    "timestamp": 31.39,
+    "emotion": "distressed",
+    "detailed_reasoning": "The pace of his speech quickens slightly, and his tone conveys a sense of inner turmoil and confusion. The line 'His judgment became clouded' explicitly states a state of distress, which is mirrored in his tense facial expression and slightly more frantic hand gestures.",
+    "summary_reasoning": "Faster pace, tense expression, words describing confusion."
+  },
+  {
+    "timestamp": 35.396,
+    "emotion": "sad",
+    "detailed_reasoning": "The emotion shifts to a profound sadness. The metaphor 'The sun started to cry' is delivered in a softer, more mournful tone. His facial expression softens into one of deep sorrow, and he appears to be holding back tears, fully embodying the grief in the narrative.",
+    "summary_reasoning": "Soft, mournful tone, sorrowful expression, sad metaphor."
+  },
+  {
+    "timestamp": 42.627,
+    "emotion": "anguished",
+    "detailed_reasoning": "The intensity dramatically increases. Words like 'burnt savagely' and 'hurt' are spoken with force and a guttural quality. His facial expression is a mask of anguish, combining pain and anger. The description of having his soul torn apart is delivered with maximum emotional weight.",
+    "summary_reasoning": "Forceful, guttural voice, pained expression, violent words."
+  },
+  {
+    "timestamp": 50.419,
+    "emotion": "despair",
+    "detailed_reasoning": "Following the peak of anguish, the speaker's energy subsides into a state of despair. His voice becomes lower and slower as he says 'his spark darkened.' His facial expression becomes empty and his gaze is distant, reflecting a sense of hopelessness and emotional exhaustion.",
+    "summary_reasoning": "Low, slow voice, empty expression, hopeless words."
+  },
+  {
+    "timestamp": 58.708,
+    "emotion": "bitter",
+    "detailed_reasoning": "The final lines are delivered with a sense of bitter resignation. The speaker's tone is cynical, especially on the last line, 'She had terrible aims.' There's a slight, wry twist to his mouth, indicating a final, bitter acceptance of the pain described throughout the poem.",
+    "summary_reasoning": "Cynical tone, wry expression, ironic words."
+  }
+]

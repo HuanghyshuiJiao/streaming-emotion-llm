@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 1.153,
+    "emotion": "sad",
+    "detailed_reasoning": "The user begins with self-deprecating language (\"leftover failures\"). Her facial expression is downcast, her brows are slightly furrowed, and her tone is low and melancholic, all of which point to an initial state of sadness and low self-worth.",
+    "summary_reasoning": "Self-deprecating words, sad expression, low tone."
+  },
+  {
+    "timestamp": 3.377,
+    "emotion": "dejected",
+    "detailed_reasoning": "Continuing the self-deprecating theme, she compares herself to \"fatty waste.\" Her eyes are wide and staring, her expression is one of utter defeat, and her voice is flat. The combination suggests a deeper level of dejection and hopelessness.",
+    "summary_reasoning": "Negative words, defeated expression, flat tone."
+  },
+  {
+    "timestamp": 7.624,
+    "emotion": "distressed",
+    "detailed_reasoning": "The user explicitly states, \"Everyone hates me.\" Her face crumples slightly, her eyebrows furrow intensely, and her lips tremble as if she's about to cry. Her voice also wavers, indicating a shift from resigned sadness to active emotional distress.",
+    "summary_reasoning": "Face crumples, voice wavers, explicit negative statement."
+  },
+  {
+    "timestamp": 12.953,
+    "emotion": "despair",
+    "detailed_reasoning": "She asks, \"Why does everyone think I'm so horrible?\" Her voice cracks with emotion, her eyes look upward as if searching for an answer, and her expression is one of complete anguish. This represents a peak of her emotional pain, moving into a state of despair.",
+    "summary_reasoning": "Voice cracks, anguished expression, pleading question."
+  },
+  {
+    "timestamp": 25.515,
+    "emotion": "resigned",
+    "detailed_reasoning": "After a long pause, she answers her own question with \"Probably because I am.\" Her tone is flat and defeated, and her gaze shifts to the side. This indicates a shift from questioning despair to a quiet, sad resignation and self-blame.",
+    "summary_reasoning": "Flat tone, defeated words, averted gaze."
+  },
+  {
+    "timestamp": 32.623,
+    "emotion": "pained",
+    "detailed_reasoning": "The user labels herself a \"Horrible creature.\" Her expression is one of deep self-loathing, with narrowed eyes and a downturned mouth. Her voice is low and filled with pain, reinforcing the feeling of self-inflicted emotional suffering.",
+    "summary_reasoning": "Self-loathing words, pained expression, low voice."
+  },
+  {
+    "timestamp": 41.173,
+    "emotion": "bitter",
+    "detailed_reasoning": "She says she is \"Doomed to walk this earth and suffer for you,\" and a slight, bitter smile appears on her face. Her tone becomes slightly mocking. This is a complex shift from pure sadness to a bitter, almost sarcastic acceptance of her perceived fate.",
+    "summary_reasoning": "Bitter smile, mocking tone, sarcastic words."
+  },
+  {
+    "timestamp": 51.265,
+    "emotion": "pained",
+    "detailed_reasoning": "The bitter smile fades as she says, \"I'm hurting.\" Her face is now contorted in clear pain, her eyebrows are drawn together, and her voice is strained. She has dropped the sarcastic facade and is expressing raw emotional pain.",
+    "summary_reasoning": "Pained expression, strained voice, direct statement of pain."
+  },
+  {
+    "timestamp": 54.188,
+    "emotion": "anguished",
+    "detailed_reasoning": "She emphasizes her pain by saying, \"I'm hurting so bad inside.\" Her face is now fully crumpled in anguish, and she looks like she is on the verge of tears. Her voice is trembling, showing a peak of emotional suffering.",
+    "summary_reasoning": "Anguished expression, trembling voice, intense words."
+  },
+  {
+    "timestamp": 58.033,
+    "emotion": "hopeless",
+    "detailed_reasoning": "The video ends with her saying she is \"Cut off from everybody.\" Her eyes are downcast, her expression is one of utter hopelessness, and her voice is barely a whisper. This conveys a feeling of complete isolation and despair.",
+    "summary_reasoning": "Downcast eyes, hopeless expression, whispered voice."
+  }
+]

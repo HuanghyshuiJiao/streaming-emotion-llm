@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 2.774,
+    "emotion": "desperate",
+    "detailed_reasoning": "The user starts the video with their head down, hands clasped tightly in front of their face, and eyes closed. Their initial words, \"Don't remember. Please,\" are spoken in a pleading and strained tone. This combination of distressed body language and pleading vocal delivery clearly indicates a state of desperation.",
+    "summary_reasoning": "Pleading tone, distressed posture, strained voice."
+  },
+  {
+    "timestamp": 7.619,
+    "emotion": "fearful",
+    "detailed_reasoning": "The user's tone shifts to one of urgency and fear as they say, \"We can't. Or we'll be trapped here.\" Their eyes widen slightly, and their facial expression becomes more tense, reinforcing the sense of being trapped and afraid of the consequences of remembering.",
+    "summary_reasoning": "Urgent tone, tense face, fearful words."
+  },
+  {
+    "timestamp": 11.303,
+    "emotion": "pained",
+    "detailed_reasoning": "After stating, \"Guilt is a form of memory,\" the user's expression becomes more introspective and pained. They look upwards as if searching for an answer, and their voice is filled with a sense of confusion and suffering as they ask, \"Why do I feel this way?\" This indicates the internal pain caused by their guilt and memories.",
+    "summary_reasoning": "Introspective look, pained vocal tone, confused words."
+  },
+  {
+    "timestamp": 13.965,
+    "emotion": "anguished",
+    "detailed_reasoning": "The emotion escalates to anguish. The user's plea, \"Make it stop,\" is delivered with a surge of desperation. Visually, there is a sudden, sharp movement as if they are hitting something off-screen, and their face is contorted in pain. This physical and vocal outburst signifies intense suffering.",
+    "summary_reasoning": "Desperate plea, pained expression, sharp movement."
+  },
+  {
+    "timestamp": 28.48,
+    "emotion": "defeated",
+    "detailed_reasoning": "Following the outburst, the user's energy subsides into a state of defeat. They look down, and their voice becomes low and heavy as they say, \"I don't seem to be able to do anything. My memories are like a weight...\" This verbal and non-verbal communication suggests they feel powerless and crushed by their situation.",
+    "summary_reasoning": "Low energy, downward gaze, heavy voice."
+  },
+  {
+    "timestamp": 37.777,
+    "emotion": "hopeless",
+    "detailed_reasoning": "The user's expression becomes one of complete resignation. Their voice is soft and lacks any energy as they state, \"And they'll destroy me.\" They look up with a vacant expression, conveying a sense of giving up. This points to a feeling of hopelessness about their future.",
+    "summary_reasoning": "Resigned tone, vacant expression, words of defeat."
+  },
+  {
+    "timestamp": 40.99,
+    "emotion": "resigned",
+    "detailed_reasoning": "In the final moment, the user's tone is flat and final as they say, \"Keep me here forever.\" Their eyes look empty, and their posture is completely still, as if they have accepted their fate. This combination of a monotone voice and accepting, defeated body language indicates resignation.",
+    "summary_reasoning": "Flat tone, empty eyes, accepting words."
+  }
+]

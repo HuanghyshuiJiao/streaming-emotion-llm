@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 6.718,
+    "emotion": "inquisitive",
+    "detailed_reasoning": "The speaker poses a direct and slightly challenging question to the audience, \"what are you waiting for?\". Her tone shifts from a neutral statement to a more engaging, questioning intonation. Her facial expression becomes more focused and her eyebrows are slightly raised, visually reinforcing the inquisitive nature of her speech.",
+    "summary_reasoning": "Direct question, focused expression, questioning tone."
+  },
+  {
+    "timestamp": 11.342,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker's tone becomes more measured and philosophical as she says, \"There's rarely a good time or the right time to make big changes in life.\" Her gaze is steady and her expression is serious, suggesting she is speaking from experience and contemplation. The pace of her speech slows down, adding to the reflective mood.",
+    "summary_reasoning": "Philosophical words, serious expression, slower pace."
+  },
+  {
+    "timestamp": 19.77,
+    "emotion": "inspirational",
+    "detailed_reasoning": "There is a distinct shift in tone to one of encouragement and passion. As she says \"go out and live with your heart full of love, gratitude, and peace,\" her voice becomes warmer and more emotive. Her facial expression softens and she begins to use more open hand gestures, visually signaling a shift to an inspirational and uplifting message.",
+    "summary_reasoning": "Encouraging words, warm tone, open gestures."
+  },
+  {
+    "timestamp": 25.956,
+    "emotion": "sincere",
+    "detailed_reasoning": "The speaker's advice becomes more personal and intimate with the words, \"Tell your children you love them every day.\" Her tone is gentle and heartfelt, and her facial expression is soft and genuine, conveying a deep sense of sincerity and earnestness in her message.",
+    "summary_reasoning": "Personal advice, gentle tone, soft expression."
+  },
+  {
+    "timestamp": 35.111,
+    "emotion": "empowering",
+    "detailed_reasoning": "The speaker's tone gains strength and conviction as she says, \"and dare to choose the life that you want to live.\" The use of the word \"dare\" combined with her more forceful and determined vocal delivery creates an empowering and motivational feeling, urging the audience to take control of their lives.",
+    "summary_reasoning": "Strong words, determined vocal tone."
+  },
+  {
+    "timestamp": 43.328,
+    "emotion": "somber",
+    "detailed_reasoning": "The mood shifts dramatically as the speaker begins to talk about her personal health struggles. Her voice lowers, and the pace becomes more deliberate and serious. The content about chemotherapy immediately changes the atmosphere to a more somber and grave one, reflecting the seriousness of her situation.",
+    "summary_reasoning": "Serious topic, lowered voice, deliberate pace."
+  },
+  {
+    "timestamp": 50.122,
+    "emotion": "resolute",
+    "detailed_reasoning": "Despite revealing she has tried everything and is now in a second clinical trial, the speaker's tone is not one of defeat. She states the facts about her treatment at \"Karolinska\" in a clear, steady, and matter-of-fact voice. Her posture remains upright and her expression is composed, conveying a sense of resolve and acceptance of her reality.",
+    "summary_reasoning": "Factual tone, steady voice, composed expression."
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 6.361,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his talk with a slow, deliberate pace and a soft, even vocal tone. His facial expression is neutral and his body language is still and composed. This combination of cues establishes a calm and thoughtful atmosphere as he introduces his central metaphor about the highs and lows of life.",
+    "summary_reasoning": "Slow pace, soft tone, neutral expression."
+  },
+  {
+    "timestamp": 13.814,
+    "emotion": "serious",
+    "detailed_reasoning": "As the speaker transitions to the idea of rejecting life due to fear, his vocal tone becomes more grave and cautionary. While maintaining a slow pace, his words carry more weight. His facial expression intensifies, with a slight furrow of his brow, emphasizing the seriousness of the warning he is issuing.",
+    "summary_reasoning": "Grave tone, focused expression, cautionary words."
+  },
+  {
+    "timestamp": 21.246,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker delivers the lines \"your heart stops beating... And your story's dead\" in a flat, low-pitched, and declarative tone. His expression is unsmiling and stern, and the deliberate pause between sentences adds to the somber and impactful nature of the statement, highlighting the gravity of a life unlived.",
+    "summary_reasoning": "Flat tone, low pitch, stern expression."
+  },
+  {
+    "timestamp": 25.639,
+    "emotion": "encouraging",
+    "detailed_reasoning": "Following the somber point, there is a distinct shift in energy. The speaker's vocal tone becomes higher and more energetic, his pace quickens, and he offers a direct, positive suggestion: \"do something fun.\" A slight smile appears, and his overall demeanor softens, clearly aiming to uplift and encourage the audience.",
+    "summary_reasoning": "Energetic tone, faster pace, slight smile."
+  },
+  {
+    "timestamp": 33.689,
+    "emotion": "reassuring",
+    "detailed_reasoning": "The speaker adopts a light, conversational, and almost conspiratorial tone. By placing personal embarrassments in the grand scale of the universe (\"in a thousand years\"), he minimizes their importance. His relaxed posture and slight smile work together to reassure the audience that their small failures are insignificant and okay.",
+    "summary_reasoning": "Light tone, conversational pace, slight smile."
+  },
+  {
+    "timestamp": 41.599,
+    "emotion": "humorous",
+    "detailed_reasoning": "The speaker's delivery becomes more animated and playful as he lists very specific, relatable, and slightly awkward scenarios like a growling stomach in a quiet class. His tone and the nature of the examples are designed to evoke laughter and create a lighthearted, humorous connection with the audience over shared human experiences.",
+    "summary_reasoning": "Playful tone, animated expression, relatable examples."
+  },
+  {
+    "timestamp": 49.449,
+    "emotion": "passionate",
+    "detailed_reasoning": "In his concluding statement, the speaker's energy peaks. His voice rises significantly in volume and pitch, becoming passionate and emphatic. He uses the powerful metaphor of a heart monitor \"going crazy\" to equate life's volatility with being fully alive. His expression is filled with conviction as he makes his final, triumphant point about living life to the fullest.",
+    "summary_reasoning": "Emphatic tone, increased volume, convicted expression."
+  }
+]

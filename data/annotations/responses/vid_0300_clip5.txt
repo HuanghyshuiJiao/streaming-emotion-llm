@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 8.92,
+    "emotion": "neutral",
+    "detailed_reasoning": "The speaker begins by offering advice. Her tone is calm and measured, her facial expression is neutral, and her hand gestures are open and illustrative. She is in a clear, instructional mode without displaying any strong personal emotion.",
+    "summary_reasoning": "Calm tone, neutral expression, instructional."
+  },
+  {
+    "timestamp": 15.407,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's tone becomes more direct and slightly more serious as she gives a piece of advice. She uses the word \"daunting\" and follows it up with the direct instruction \"so make sure you do research.\" Her expression becomes more focused, and her brow furrows slightly, emphasizing the importance of her point.",
+    "summary_reasoning": "Direct tone, focused expression, cautionary words."
+  },
+  {
+    "timestamp": 25.718,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker pauses and her expression softens as she considers a counterpoint. She says something could \"play to your favour,\" suggesting a moment of reflection. Her head tilts slightly, and her tone becomes less instructional and more contemplative.",
+    "summary_reasoning": "Softened expression, contemplative tone, head tilt."
+  },
+  {
+    "timestamp": 33.853,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker shifts back to a clear, informative mode as she introduces a specific example. She names the play and the author with a neutral, factual tone. Her expression is again neutral and focused, aimed at clearly conveying information to the viewer.",
+    "summary_reasoning": "Factual tone, neutral expression, giving information."
+  },
+  {
+    "timestamp": 44.563,
+    "emotion": "expressive",
+    "detailed_reasoning": "When quoting from the play, the speaker's delivery becomes more animated. Her voice takes on a slightly more character-like quality, and her facial expressions become more active, especially her eyes and mouth, as she recites the lines. This indicates a shift from merely informing to performing or expressing a character's words.",
+    "summary_reasoning": "Animated voice, active facial expressions, quoting a character."
+  },
+  {
+    "timestamp": 49.697,
+    "emotion": "pleased",
+    "detailed_reasoning": "The speaker's expression softens and she smiles subtly when describing the monologue as \"quite feisty\" and having a \"nice dynamic.\" Her tone also becomes lighter and more positive, indicating her personal appreciation for the piece of writing she is recommending.",
+    "summary_reasoning": "Subtle smile, lighter tone, positive words."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 2.455,
+    "emotion": "happy",
+    "detailed_reasoning": "The speaker begins with a fond memory of her father. Her facial expression is bright, with a wide smile and sparkling eyes. Her vocal tone is warm and affectionate, and she uses animated hand gestures, all of which convey a strong sense of happiness and adoration as she describes him as a \"wonderful man.\"",
+    "summary_reasoning": "Smiling face, warm tone, fond words."
+  },
+  {
+    "timestamp": 10.066,
+    "emotion": "amused",
+    "detailed_reasoning": "Recalling a joke her mother used to make, the speaker's smile widens into a playful grin. Her tone becomes light and teasing, and she even sticks her tongue out slightly and laughs at the end of the sentence. This shift from simple happiness to a more specific, playful recollection indicates amusement.",
+    "summary_reasoning": "Wide smile, laughing tone, playful expression."
+  },
+  {
+    "timestamp": 15.714,
+    "emotion": "disappointed",
+    "detailed_reasoning": "The emotion shifts dramatically as the speaker contrasts her expectations with reality. Her smile completely vanishes, her eyebrows furrow slightly, and her gaze shifts downwards and to the side. Her vocal tone becomes flat and somber. The lighting also changes, casting a shadow on her as she turns her head, visually underscoring the feeling of disappointment when she mentions finding \"Frank\" instead of a man like her father.",
+    "summary_reasoning": "Smile fades, downward gaze, somber tone."
+  },
+  {
+    "timestamp": 24.267,
+    "emotion": "angry",
+    "detailed_reasoning": "The speaker's face contorts with anger and disgust as she says the name \"Frank.\" Her lips purse, her chin juts forward, and her eyes narrow. The word is spoken with a sharp, almost guttural tone, indicating a strong negative feeling of anger or contempt associated with this person.",
+    "summary_reasoning": "Face contorts, sharp tone, narrowed eyes."
+  },
+  {
+    "timestamp": 30.875,
+    "emotion": "frustrated",
+    "detailed_reasoning": "Describing the non-reciprocal nature of the relationship, the speaker's expression becomes one of weary frustration. Her mouth is downturned, and her voice is flat and resentful as she recounts giving back rubs she never received in return. This conveys a sense of being taken for granted and ongoing frustration.",
+    "summary_reasoning": "Flat tone, resentful expression, negative words."
+  },
+  {
+    "timestamp": 38.511,
+    "emotion": "annoyed",
+    "detailed_reasoning": "The frustration escalates to clear annoyance. The speaker's face scrunches up, her voice takes on a sharp, incredulous edge, and she gestures with her hand as if dismissing the absurdity of the situation. The specific detail of only getting \"30 seconds\" after begging highlights the unfairness, fueling her annoyance.",
+    "summary_reasoning": "Scrunched face, sharp tone, incredulous words."
+  },
+  {
+    "timestamp": 42.48,
+    "emotion": "shocked",
+    "detailed_reasoning": "Recalling the memory of breaking both her arms, the speaker's expression shifts to one of shock and disbelief. Her eyes widen significantly, her eyebrows raise, and her mouth hangs open. The vocal delivery becomes more dramatic and emphatic, conveying the severity and shock of the past event.",
+    "summary_reasoning": "Wide eyes, open mouth, dramatic tone."
+  },
+  {
+    "timestamp": 57.679,
+    "emotion": "pained",
+    "detailed_reasoning": "Concluding her story, the speaker's entire demeanor conveys deep emotional pain and hurt. Her face is filled with anguish, her eyes are closed as if reliving the pain, and her voice is strained and full of despair. She describes the doctor's warning and the prospect of \"unbearable shooting pains for the rest of my life,\" and her expression and tone reflect the gravity and lasting trauma of this experience.",
+    "summary_reasoning": "Anguished face, pained voice, describing trauma."
+  }
+]

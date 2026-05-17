@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 1.353,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker begins her presentation by listing the primary characteristics of ADHD. Her tone is neutral, clear, and steady, and her facial expression is composed. She is in a mode of delivering factual information to the audience.",
+    "summary_reasoning": "Neutral tone, listing facts."
+  },
+  {
+    "timestamp": 4.598,
+    "emotion": "understated",
+    "detailed_reasoning": "The speaker's tone becomes more conversational and she offers a personal opinion. Her slight, knowing smile and casual tone when saying the symptoms \"don't sound all that serious\" suggest she's downplaying them to make a larger point, creating a sense of understatement.",
+    "summary_reasoning": "Conversational tone, slight smile."
+  },
+  {
+    "timestamp": 8.483,
+    "emotion": "serious",
+    "detailed_reasoning": "There is a distinct shift in tone, visuals, and content. The speaker's facial expression becomes stern, her voice lowers in pitch, and the pace of her speech slows for emphasis as she lists severe real-life consequences. This combination conveys the gravity of the topic.",
+    "summary_reasoning": "Stern expression, lower tone, serious content."
+  },
+  {
+    "timestamp": 20.22,
+    "emotion": "informative",
+    "detailed_reasoning": "After listing the serious consequences, the speaker transitions to a new point. Her tone lightens slightly from serious to educational, and her expression softens as she prepares to explain a new concept to the audience.",
+    "summary_reasoning": "Lighter tone, softer expression."
+  },
+  {
+    "timestamp": 22.724,
+    "emotion": "engaging",
+    "detailed_reasoning": "The speaker's emotion shifts to be interactive and engaging. She smiles warmly, makes direct eye contact with the audience, and uses an inclusive gesture while asking a rhetorical question to build rapport. Her tone is friendly and inviting.",
+    "summary_reasoning": "Warm smile, direct question, friendly tone."
+  },
+  {
+    "timestamp": 28.983,
+    "emotion": "humorous",
+    "detailed_reasoning": "Following her engaging question, the speaker delivers a punchline. Her wide smile, playful expression, and lighthearted, joking tone clearly indicate a shift to humor, designed to elicit a laugh from the audience.",
+    "summary_reasoning": "Wide smile, playful tone, punchline."
+  },
+  {
+    "timestamp": 33.387,
+    "emotion": "clarifying",
+    "detailed_reasoning": "The humor subsides and the speaker's demeanor becomes serious and focused again. Her tone is deliberate and her expression is earnest as she makes a critical distinction between common experiences and a clinical diagnosis, aiming to clarify a common misconception.",
+    "summary_reasoning": "Serious expression, deliberate tone."
+  },
+  {
+    "timestamp": 44.938,
+    "emotion": "patient",
+    "detailed_reasoning": "The speaker uses an analogy to help the audience understand a complex point. Her tone is calm and patient, and her hand gestures are open and explanatory. This suggests she is carefully guiding the audience's understanding.",
+    "summary_reasoning": "Calm tone, explanatory gestures, analogy."
+  },
+  {
+    "timestamp": 55.193,
+    "emotion": "wry",
+    "detailed_reasoning": "The speaker introduces a new, counterintuitive idea. A wry smile appears, and her tone becomes slightly ironic as she states that \"ADHD is a terrible name for ADHD.\" This signals a shift to a more critical and subtly humorous observation.",
+    "summary_reasoning": "Wry smile, ironic tone."
+  },
+  {
+    "timestamp": 58.502,
+    "emotion": "frustrated",
+    "detailed_reasoning": "Concluding her point about the name, the speaker's expression becomes more earnest and her tone is emphatic. The way she says \"creates a lot of confusion\" conveys a sense of exasperation with the current terminology, indicating frustration.",
+    "summary_reasoning": "Emphatic tone, earnest expression."
+  }
+]

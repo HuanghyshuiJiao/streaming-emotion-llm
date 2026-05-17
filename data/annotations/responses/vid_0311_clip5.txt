@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 4.721,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker starts her talk with a personal anecdote about suppressing her passions. Her tone is steady and measured, and her facial expression is serious and thoughtful. She clasps her hands in front of her, a common gesture when one is in a state of contemplation. The content of her speech is introspective, which supports the emotion.",
+    "summary_reasoning": "Measured tone, serious expression, clasped hands, introspective content."
+  },
+  {
+    "timestamp": 23.116,
+    "emotion": "uneasy",
+    "detailed_reasoning": "The speaker explicitly states she felt a 'growing sense of unease.' Her vocal tone drops slightly on the word 'unease,' and her facial expression becomes more troubled, with a slight frown. This combination of verbal content and subtle non-verbal cues indicates a shift to a state of discomfort and anxiety.",
+    "summary_reasoning": "States 'unease', lower tone, troubled expression."
+  },
+  {
+    "timestamp": 29.622,
+    "emotion": "fearful",
+    "detailed_reasoning": "The speaker uses the strong emotional word 'terrified.' Her voice becomes softer and more vulnerable, and her eyes widen slightly as she says the word. She also briefly breaks eye contact with the audience, looking down and away, which is a common cue for recalling a difficult or shameful memory associated with fear.",
+    "summary_reasoning": "States 'terrified', softer voice, wider eyes, breaks eye contact."
+  },
+  {
+    "timestamp": 33.485,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker explicitly uses the word 'sadly' to frame her statement. Her vocal tone becomes lower and has a melancholic quality. Her facial expression shows clear disappointment, with the corners of her mouth turned down slightly. This combination of verbal cue and non-verbal expression points to a feeling of sadness and regret.",
+    "summary_reasoning": "States 'sadly', melancholic tone, disappointed expression."
+  },
+  {
+    "timestamp": 49.858,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker describes a contradiction: her actions didn't increase her self-worth, yet she 'still tried really hard to be perfect.' Her tone carries a sense of resignation and weariness. Her facial expression is strained, reflecting the internal conflict and the futile effort she's describing, indicating frustration.",
+    "summary_reasoning": "Resigned tone, strained expression, describes futile effort."
+  },
+  {
+    "timestamp": 53.86,
+    "emotion": "ashamed",
+    "detailed_reasoning": "The speaker explicitly identifies the emotion as 'intense shame.' Her delivery becomes very personal and pained: her voice drops in volume, her eyes close briefly as if recalling the painful feeling, and she gestures toward her core when describing the feeling 'bubbled up inside.' These multimodal cues strongly convey a deep sense of shame.",
+    "summary_reasoning": "States 'intense shame', quiet voice, eyes close, gestures to core."
+  }
+]

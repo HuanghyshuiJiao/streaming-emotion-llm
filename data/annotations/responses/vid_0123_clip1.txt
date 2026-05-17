@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 0.792,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker begins her monologue with a self-deprecating joke about her initial costume idea. Her tone is light and playful, and she has a slight smile, indicating she's telling a humorous story to warm up the crowd.",
+    "summary_reasoning": "Self-deprecating joke, playful tone, smiling."
+  },
+  {
+    "timestamp": 9.505,
+    "emotion": "happy",
+    "detailed_reasoning": "The speaker's tone softens and becomes more personal and warm as she shifts from her opening joke to directly addressing her grandmother. She smiles genuinely and waves, conveying a sense of affection and happiness.",
+    "summary_reasoning": "Soft tone, genuine smile, waving gesture."
+  },
+  {
+    "timestamp": 14.552,
+    "emotion": "amused",
+    "detailed_reasoning": "She transitions back into a joking tone, humorously explaining her grandmother's misunderstanding of the show she's on. Her expression is playful and teasing, and the content is clearly meant to be funny, which is confirmed by the audience's laughter.",
+    "summary_reasoning": "Joking tone, playful expression, humorous content."
+  },
+  {
+    "timestamp": 22.724,
+    "emotion": "grateful",
+    "detailed_reasoning": "Her tone becomes sincere and heartfelt as she says \"I love you\" and dedicates the performance to her grandma. She then reflects on having a \"really cool year,\" and her warm, slightly subdued smile suggests a feeling of gratitude for her recent successes.",
+    "summary_reasoning": "Sincere tone, reflective words, warm smile."
+  },
+  {
+    "timestamp": 27.691,
+    "emotion": "proud",
+    "detailed_reasoning": "The speaker announces her role in the major film \"Crazy Rich Asians,\" which is met with loud applause. She pauses, smiles broadly, and looks at the audience, her posture confident. Her reaction to the enthusiastic audience response clearly indicates a moment of pride and joy in her accomplishment.",
+    "summary_reasoning": "Announcing achievement, broad smile, acknowledging applause."
+  },
+  {
+    "timestamp": 36.897,
+    "emotion": "humorous",
+    "detailed_reasoning": "She shifts back to self-deprecating humor, describing her career path as a \"very stereotypical\" progression. Her delivery is comedic, with a wry smile and a light, playful tone, intended to get a laugh from the audience by leaning into a stereotype.",
+    "summary_reasoning": "Self-deprecating joke, comedic tone, wry smile."
+  },
+  {
+    "timestamp": 46.504,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker continues her humorous anecdote by mimicking her friends' excited, exaggerated reactions to her being in movies. Her tone is mocking and playful, and her facial expressions are animated, showing she is amused by their assumptions about her newfound wealth.",
+    "summary_reasoning": "Mimicking voice, exaggerated tone, animated expression."
+  },
+  {
+    "timestamp": 53.984,
+    "emotion": "humorous",
+    "detailed_reasoning": "She delivers the punchline to her joke, contrasting the film's title with her own reality as a \"rebuilding my credit Asian.\" Her tone is self-deprecating and her smile is knowing, creating a humorous and relatable moment that is met with significant audience laughter.",
+    "summary_reasoning": "Punchline delivery, self-deprecating tone, audience laughter."
+  }
+]

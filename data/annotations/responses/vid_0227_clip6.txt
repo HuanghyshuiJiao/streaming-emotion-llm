@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 1.573,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins by listing severe types of childhood trauma. Her tone is sober and measured, her facial expression is neutral and focused, and her hand gestures are precise and deliberate. This combination conveys the gravity of the subject matter in a serious and informative way.",
+    "summary_reasoning": "Sober tone, focused expression, lists traumatic events."
+  },
+  {
+    "timestamp": 16.928,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker shifts from listing types of trauma to explaining the ACE scoring mechanism. Her tone becomes more explanatory and direct, as if teaching a concept. Her head tilts slightly, and her cadence is very clear, indicating a shift to an informative mode of communication.",
+    "summary_reasoning": "Explanatory tone, direct address, clear cadence."
+  },
+  {
+    "timestamp": 29.073,
+    "emotion": "dramatic",
+    "detailed_reasoning": "The speaker pauses after saying \"what they found\" and then delivers the word \"striking\" with significant emphasis and a serious, slightly widened-eye expression. This creates a moment of suspense and highlights the importance of the findings she is about to share, shifting the mood to be more dramatic.",
+    "summary_reasoning": "Vocal emphasis, pause for effect, serious expression."
+  },
+  {
+    "timestamp": 35.723,
+    "emotion": "concerned",
+    "detailed_reasoning": "After stating that ACEs are \"incredibly common,\" the speaker presents a startling statistic (\"67 percent\"). Her tone carries a weight of concern, her eyes are wide, and she maintains direct eye contact with the audience to emphasize the shocking and concerning prevalence of these experiences.",
+    "summary_reasoning": "Emphatic tone, wide eyes, concerning statistic."
+  },
+  {
+    "timestamp": 52.903,
+    "emotion": "analytical",
+    "detailed_reasoning": "The speaker introduces the technical term \"dose-response relationship.\" Her tone becomes more analytical and academic. She uses a precise hand gesture, moving her hands apart, to visually represent this scientific concept. This indicates a shift to a more analytical and explanatory phase of her talk.",
+    "summary_reasoning": "Technical language, analytical tone, illustrative hand gesture."
+  }
+]

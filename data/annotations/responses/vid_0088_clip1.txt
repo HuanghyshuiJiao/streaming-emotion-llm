@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker starts the video by looking directly into the camera with a neutral but focused facial expression. His tone of voice is measured, clear, and steady. The content of his speech, stating the video's purpose, is formal and informative, which all together establishes a serious mood from the beginning.",
+    "summary_reasoning": "Measured tone, focused gaze, formal language."
+  },
+  {
+    "timestamp": 6.541,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker's topic shifts to the passing of his mother. A noticeable change occurs in his vocal tone, which becomes softer and slightly lower in pitch. His facial expression softens, and his eyes convey a sense of melancholy and remembrance, indicating a shift from a serious, informative mood to one of personal sadness.",
+    "summary_reasoning": "Sad topic, softer tone, melancholic expression."
+  },
+  {
+    "timestamp": 14.795,
+    "emotion": "reflective",
+    "detailed_reasoning": "Transitioning from the fact of his mother's death to the details of her illness, the speaker's emotion becomes more reflective. While still somber, his tone is more descriptive and his gaze remains steady as he recounts the past events. This suggests a shift from immediate sadness to a more distant, thoughtful recollection of a difficult time.",
+    "summary_reasoning": "Descriptive tone, steady gaze, recounting past events."
+  },
+  {
+    "timestamp": 20.664,
+    "emotion": "concerned",
+    "detailed_reasoning": "The speaker shifts from his personal story to giving direct advice to the audience. His tone becomes more emphatic and urgent, particularly on the words \"seek help.\" His direct gaze and serious expression underscore the importance of his message, conveying a sense of concern for others who might be in a similar situation.",
+    "summary_reasoning": "Emphatic tone, direct advice, serious expression."
+  },
+  {
+    "timestamp": 27.312,
+    "emotion": "empathetic",
+    "detailed_reasoning": "The speaker explains that the video's purpose is to help the viewer anticipate and cope with dementia. His vocal tone is calm and reassuring, and the language is focused on the viewer's needs. This combination of gentle delivery and supportive words creates a feeling of empathy and a desire to help.",
+    "summary_reasoning": "Calm tone, supportive language, reassuring demeanor."
+  },
+  {
+    "timestamp": 30.5,
+    "emotion": "distressed",
+    "detailed_reasoning": "Immediately after finishing his sentence, the speaker's entire demeanor collapses. He drops his head, his posture slumps, and he lets out a long, heavy sigh. The subsequent long silence is filled only with the sound of his labored breathing, indicating that recounting the experience has left him emotionally overwhelmed and distressed.",
+    "summary_reasoning": "Head drops, heavy sigh, labored breathing, silence."
+  },
+  {
+    "timestamp": 58.925,
+    "emotion": "startled",
+    "detailed_reasoning": "After a prolonged period of silence and apparent inner turmoil, the speaker's head snaps up suddenly. His eyes are wide and darting as if searching for an unexpected sound. The abruptness of his movement and the sharp, questioning tone of his voice when he speaks indicate he has been startled and is now in a state of alarm.",
+    "summary_reasoning": "Head snaps up, wide eyes, sharp tone, abrupt question."
+  }
+]

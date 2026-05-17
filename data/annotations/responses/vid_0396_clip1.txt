@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 6.018,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his presentation with a calm and steady narrative tone. His facial expressions are neutral, and his body language is relaxed as he sets the stage for the story he is about to tell. He is simply introducing the main character and the year the story takes place in.",
+    "summary_reasoning": "Calm tone, neutral expression, relaxed posture."
+  },
+  {
+    "timestamp": 8.501,
+    "emotion": "curious",
+    "detailed_reasoning": "The speaker's emotion shifts as he poses the central question of the experiment. His tone becomes more inquisitive, and his eyebrows are slightly raised. He looks upward as if in thought, vocally and visually signaling a shift from storytelling to posing a question to spark curiosity in the audience.",
+    "summary_reasoning": "Inquisitive tone, raised eyebrows."
+  },
+  {
+    "timestamp": 17.831,
+    "emotion": "neutral",
+    "detailed_reasoning": "At this point, the camera cuts to a wide shot, so facial expressions are no longer visible. The speaker's tone becomes purely informational and matter-of-fact as he describes the methodical process of buying 200 objects on eBay. The delivery is straightforward and devoid of emotional inflection.",
+    "summary_reasoning": "Informational tone, matter-of-fact delivery."
+  },
+  {
+    "timestamp": 26.619,
+    "emotion": "engaged",
+    "detailed_reasoning": "The speaker's tone becomes more animated as he describes the next step of contacting the authors. He uses hand gestures, raising his hand as if making a phone call, to act out the story. This shift in vocal energy and body language indicates a higher level of engagement with the narrative he is recounting.",
+    "summary_reasoning": "Animated tone, hand gestures."
+  },
+  {
+    "timestamp": 37.382,
+    "emotion": "pleased",
+    "detailed_reasoning": "When revealing that all 200 authors agreed to participate, the speaker's tone takes on a positive and pleased quality. There is a slight, subtle smile on his face and an upward inflection in his voice on the word \"yes,\" conveying the success of this step in the experiment.",
+    "summary_reasoning": "Positive tone, subtle smile, upward inflection."
+  },
+  {
+    "timestamp": 44.417,
+    "emotion": "suspenseful",
+    "detailed_reasoning": "To build tension, the speaker's voice becomes lower and more dramatic, and his pacing slows as he says the words \"nail-biting anticipation.\" He is intentionally creating a suspenseful atmosphere, mirroring the feeling the experimenter likely had and building anticipation for the audience about the outcome.",
+    "summary_reasoning": "Lower voice, slower pace, dramatic tone."
+  },
+  {
+    "timestamp": 51.132,
+    "emotion": "anticipatory",
+    "detailed_reasoning": "The speaker poses the climactic questions, \"Would there be a difference? Would there be a change?\". His pitch rises, and his eyes widen as he looks directly at the audience, creating a strong sense of anticipation. He is pulling the audience into the final moment of the experiment, making them wait for the result.",
+    "summary_reasoning": "Rising pitch, wide eyes, direct address to audience."
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 8.032,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker maintains a calm and steady tone of voice as he sets up a hypothetical scenario. His facial expression is neutral and his posture is relaxed, indicating a composed and informative demeanor.",
+    "summary_reasoning": "Calm tone, neutral expression."
+  },
+  {
+    "timestamp": 16.518,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's tone becomes more serious and slightly more emphatic as he describes the agent's process. His eyebrows furrow slightly, and he leans forward a little, suggesting the information is important and should be taken seriously.",
+    "summary_reasoning": "Serious tone, furrowed brows."
+  },
+  {
+    "timestamp": 25.869,
+    "emotion": "emphatic",
+    "detailed_reasoning": "The speaker's delivery becomes more punctuated and he repeats the phrase \"at noon\" to stress the importance of the deadline. His facial expression is firm and he uses a sharp hand gesture, adding emphasis to his point.",
+    "summary_reasoning": "Punctuated speech, repetition, firm expression."
+  },
+  {
+    "timestamp": 43.338,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker's tone shifts to a more explanatory and informative one as he details the agent's perspective on the number of auditions. He speaks clearly and at a measured pace, aiming to convey information effectively.",
+    "summary_reasoning": "Explanatory tone, measured pace."
+  },
+  {
+    "timestamp": 53.233,
+    "emotion": "concerned",
+    "detailed_reasoning": "The speaker's tone becomes more cautionary and his facial expression shifts to one of concern as he explains the negative consequences of submitting close to the deadline. He slows his speech and makes direct eye contact to emphasize the warning.",
+    "summary_reasoning": "Cautionary tone, concerned expression, slower speech."
+  }
+]

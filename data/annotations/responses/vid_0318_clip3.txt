@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 4.716,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker begins with a calm, measured tone and a focused facial expression. He uses a precise hand gesture, suggesting he is carefully choosing his words to set a scene. The content of his speech is about his parents' aspirations, indicating a moment of reflection on his past.",
+    "summary_reasoning": "Calm tone, focused expression, retrospective content."
+  },
+  {
+    "timestamp": 12.003,
+    "emotion": "inspired",
+    "detailed_reasoning": "The speaker's tone begins to rise in pitch and volume as he transitions from his personal story to a broader, idealistic statement about America. His facial expression becomes more open and he looks out at the audience, conveying a sense of inspiration and hope. The phrase \"achieve your potential\" is delivered with conviction.",
+    "summary_reasoning": "Rising tone, idealistic words, open expression."
+  },
+  {
+    "timestamp": 17.509,
+    "emotion": "sad",
+    "detailed_reasoning": "There is a distinct shift in emotional tone. The speaker's voice becomes softer and lower in pitch, and his pace slows down. His facial expression turns somber, and he briefly glances down, which aligns with the sad content of his words about his parents having passed away.",
+    "summary_reasoning": "Softer and lower voice, somber expression, sad content."
+  },
+  {
+    "timestamp": 24.076,
+    "emotion": "proud",
+    "detailed_reasoning": "Following the moment of sadness, the speaker's affect lifts entirely. He looks up and a warm, slight smile appears. His voice regains strength and warmth as he speaks of his parents looking down with \"great pride.\" This combination of visual and vocal cues indicates he is channeling their pride and feeling it himself.",
+    "summary_reasoning": "Upward glance, warm smile, stronger tone."
+  },
+  {
+    "timestamp": 30.472,
+    "emotion": "grateful",
+    "detailed_reasoning": "The speaker's focus returns to the present moment. His tone becomes earnest and sincere, particularly emphasizing the word \"grateful.\" His open hand gestures and direct address to the audience reinforce the feeling of thankfulness for his heritage that he explicitly states.",
+    "summary_reasoning": "Sincere tone, emphasized \"grateful\", open gestures."
+  },
+  {
+    "timestamp": 35.265,
+    "emotion": "loving",
+    "detailed_reasoning": "When mentioning his daughters, the speaker's entire demeanor softens. A gentle, loving smile spreads across his face, and his voice becomes tender and quieter. The use of the words \"precious daughters\" combined with the soft vocal delivery and facial expression clearly indicates a feeling of love and tenderness.",
+    "summary_reasoning": "Soft smile, tender voice, affectionate words."
+  },
+  {
+    "timestamp": 41.282,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker shifts from a personal, tender emotion to a broader, more powerful stance. His volume increases, his posture becomes more assertive, and his tone is declarative. By connecting \"my story\" to \"the larger American story,\" he projects confidence and a sense of purpose.",
+    "summary_reasoning": "Increased volume, assertive posture, declarative tone."
+  },
+  {
+    "timestamp": 48.702,
+    "emotion": "impassioned",
+    "detailed_reasoning": "This is the climax of his statement. His voice reaches its peak in volume and intensity. He uses strong, emphatic gestures and a resolute facial expression. The words \"in no other country on Earth\" are delivered with powerful conviction, creating an impassioned and patriotic conclusion.",
+    "summary_reasoning": "Peak volume, emphatic gestures, strong conviction."
+  }
+]

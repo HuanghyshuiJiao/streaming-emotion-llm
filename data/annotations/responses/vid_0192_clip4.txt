@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 1.693,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins his presentation with a serious and declarative tone. His facial expression is neutral but focused, and his posture is upright and formal. He is setting an academic and instructional tone by introducing the concept of the 'laws of attraction' and how they are 'misapplied'.",
+    "summary_reasoning": "Serious tone, focused expression, formal posture."
+  },
+  {
+    "timestamp": 14.288,
+    "emotion": "engaging",
+    "detailed_reasoning": "The speaker shifts from making a statement to asking a direct, rhetorical question to the audience: 'how do you stop that?'. His pitch rises slightly, and his facial expression becomes more open, directly engaging with the audience to draw them into the problem he is about to solve.",
+    "summary_reasoning": "Rhetorical question, rising pitch, direct engagement."
+  },
+  {
+    "timestamp": 18.073,
+    "emotion": "confident",
+    "detailed_reasoning": "After a brief pause, the speaker provides a clear, simple solution ('monitor what you feel'). His tone becomes very direct, firm, and assured. He uses a definitive hand gesture and maintains steady eye contact, projecting strong confidence in the advice he is giving.",
+    "summary_reasoning": "Direct tone, firm delivery, definitive hand gesture."
+  },
+  {
+    "timestamp": 27.773,
+    "emotion": "illustrative",
+    "detailed_reasoning": "The speaker's vocal tone and rhythm change as he begins to impersonate someone engaging in negative self-talk ('my luck is never... everybody gets it but me'). He is acting out the part to illustrate his point, making his speech more dynamic and relatable for the audience.",
+    "summary_reasoning": "Vocal tone change, impersonation, rhythmic speech."
+  },
+  {
+    "timestamp": 42.699,
+    "emotion": "emphatic",
+    "detailed_reasoning": "Continuing his examples, the speaker's tone becomes more forceful and emphatic. He uses a rhetorical question-and-answer structure ('what do you end up with? more pink slips, more bills') to drive home the negative consequences of the thought patterns he is describing, stressing the cause-and-effect relationship.",
+    "summary_reasoning": "Forceful tone, rhetorical question, emphasizes consequences."
+  },
+  {
+    "timestamp": 55.949,
+    "emotion": "determined",
+    "detailed_reasoning": "In his final example, the speaker's tone is determined and resolute. He lists common personal struggles ('lose some of these bad habits') with a steady, firm voice. This delivery serves to strongly reinforce his central message about the power of thought just before the clip ends, showing his determination to make the point clear.",
+    "summary_reasoning": "Determined tone, firm voice, reinforcing message."
+  }
+]

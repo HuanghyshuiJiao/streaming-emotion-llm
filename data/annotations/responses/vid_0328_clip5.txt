@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 4.737,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker begins recounting a difficult memory. His tone of voice is low and his pace is slow. His facial expression is serious and his gaze is directed downward towards his notes, indicating he is recalling a moment of distress and apology.",
+    "summary_reasoning": "Low tone, slow pace, downward gaze."
+  },
+  {
+    "timestamp": 8.721,
+    "emotion": "defeated",
+    "detailed_reasoning": "The speaker explicitly states, \"I cannot finish this book.\" His vocal tone is flat and resigned, his shoulders are slightly slumped, and his facial expression is strained, conveying a strong sense of having given up.",
+    "summary_reasoning": "Resigned tone, strained expression, negative words."
+  },
+  {
+    "timestamp": 27.093,
+    "emotion": "hopeful",
+    "detailed_reasoning": "The speaker's tone shifts as he begins to quote the encouraging words of the company owner, Mr. Baker. There is a slight lift in his pitch and a more narrative quality to his voice, suggesting a turning point in the story from despair to hope.",
+    "summary_reasoning": "Lifting tone, narrative shift."
+  },
+  {
+    "timestamp": 33.6,
+    "emotion": "relieved",
+    "detailed_reasoning": "As he finishes quoting the publisher's supportive words, \"we want that book,\" the speaker's voice carries a tone of profound relief and gratitude. The tension in his face visibly lessens, reflecting the weight that was lifted from him in that moment.",
+    "summary_reasoning": "Grateful tone, facial tension release."
+  },
+  {
+    "timestamp": 45.751,
+    "emotion": "moved",
+    "detailed_reasoning": "Following a long pause where the audience applauds, the speaker is visibly emotional. His voice is thick with emotion as he says he \"agonized\" over the book. He appears to be fighting back tears, indicating that the memory and the audience's supportive reaction have deeply affected him.",
+    "summary_reasoning": "Thick voice, fighting back tears."
+  },
+  {
+    "timestamp": 51.777,
+    "emotion": "accomplished",
+    "detailed_reasoning": "The speaker concludes his story with the words, \"I finally finished it.\" His tone shifts from being moved to a more definitive and slightly uplifted one. This, combined with a concluding nod, conveys a sense of closure and accomplishment after a long struggle.",
+    "summary_reasoning": "Definitive tone, concluding nod."
+  }
+]

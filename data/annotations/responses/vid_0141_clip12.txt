@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her talk with a very composed and steady vocal tone. Her posture is upright and her facial expression is neutral yet focused, indicating a sense of calm and control as she introduces her topic. Her hand gestures are minimal and controlled, reinforcing this initial state.",
+    "summary_reasoning": "Steady voice, composed posture, neutral expression."
+  },
+  {
+    "timestamp": 7.384,
+    "emotion": "passionate",
+    "detailed_reasoning": "There is a noticeable shift in vocal energy. The speaker's tone becomes more expressive and warmer, with more melodic variation. She emphasizes words like \"masterfully\" and uses more fluid, open hand gestures. This change suggests she is moving from a simple statement to expressing a deeply held belief, indicating passion for the subject.",
+    "summary_reasoning": "Expressive tone, warmer voice, fluid gestures."
+  },
+  {
+    "timestamp": 15.739,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker's pace quickens slightly and her tone becomes more assertive and persuasive. She is building an argument, and her vocal delivery, combined with a steady gaze and purposeful gestures, conveys a strong sense of confidence in the point she is making. The way she structures the sentence to lead the listener implies certainty.",
+    "summary_reasoning": "Assertive tone, quicker pace, purposeful gestures."
+  },
+  {
+    "timestamp": 24.736,
+    "emotion": "authoritative",
+    "detailed_reasoning": "The speaker pauses and then slows down her delivery for the line \"stories are more than stories.\" Her tone becomes more declarative and profound. This deliberate shift in pacing and tone, combined with a serious expression, gives her words weight and establishes an authoritative presence, as if stating a fundamental truth.",
+    "summary_reasoning": "Slower pace, declarative tone, serious expression."
+  },
+  {
+    "timestamp": 35.191,
+    "emotion": "enthusiastic",
+    "detailed_reasoning": "When quoting the audience's reaction (\"it's about time\"), the speaker adopts a higher-pitched, more enthusiastic tone. A smile appears on her face, and her body language becomes more animated. This shift portrays the positive and eager reaction she is describing, imbuing her speech with enthusiasm and positivity.",
+    "summary_reasoning": "Higher pitch, smiling, animated body language."
+  },
+  {
+    "timestamp": 45.386,
+    "emotion": "inspirational",
+    "detailed_reasoning": "This marks a peak in the speaker's energy. Her volume increases, and her tone becomes powerfully motivational. She uses strong, imperative verbs like \"ask, invite, propose, shout.\" Her gestures become large, open, and emphatic, particularly when she says \"shout it from the rooftops.\" The combination of vocal power and expansive body language is clearly intended to be inspirational.",
+    "summary_reasoning": "Increased volume, motivational tone, expansive gestures."
+  },
+  {
+    "timestamp": 50.993,
+    "emotion": "reassuring",
+    "detailed_reasoning": "Following the inspirational peak, the speaker's energy softens. Her vocal volume returns to a more conversational level, her pace slows, and her tone becomes gentle and reassuring. Her facial expression is soft, with a slight smile, conveying a sense of positive outcome and ease. She is concluding her point by reassuring the audience of the successful result of their actions.",
+    "summary_reasoning": "Softer tone, slower pace, conversational volume."
+  }
+]

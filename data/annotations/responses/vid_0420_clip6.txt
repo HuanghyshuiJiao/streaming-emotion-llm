@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 2.854,
+    "emotion": "determined",
+    "detailed_reasoning": "The speaker opens by acknowledging past hardship with the words \"truly disadvantaged.\" However, his vocal tone is steady and his posture is upright and confident. He doesn't sound sad or victimized; instead, the combination of his words and his calm, strong delivery suggests a sense of resolve and determination to tell a story of overcoming obstacles.",
+    "summary_reasoning": "Steady tone, upright posture, contrasting words."
+  },
+  {
+    "timestamp": 10.583,
+    "emotion": "proud",
+    "detailed_reasoning": "The speaker lists his significant life achievements, stating he was the \"first in my family to graduate college.\" His tone becomes slightly more assertive and carries a clear sense of accomplishment. This is a classic expression of pride, recounting milestones that were clearly difficult to achieve and are now a source of self-worth.",
+    "summary_reasoning": "Assertive tone, recounting achievements."
+  },
+  {
+    "timestamp": 17.071,
+    "emotion": "confident",
+    "detailed_reasoning": "Continuing to list his accomplishments, he mentions a \"nearly two decade corporate career.\" His delivery is smooth and unwavering, projecting a strong sense of self-assurance and confidence in his professional journey and capabilities. The emotion of pride has evolved into a more general state of confidence.",
+    "summary_reasoning": "Smooth delivery, unwavering tone."
+  },
+  {
+    "timestamp": 24.299,
+    "emotion": "accomplished",
+    "detailed_reasoning": "The speaker uses a powerful juxtaposition, \"from the projects to exploring a couple dozen countries.\" He emphasizes this with a wide, sweeping gesture with his arms, visually representing the vastness of his journey. His tone is expansive and full, reflecting a deep sense of accomplishment and the scale of his transformation.",
+    "summary_reasoning": "Expansive tone, wide arm gestures, contrasting words."
+  },
+  {
+    "timestamp": 37.254,
+    "emotion": "triumphant",
+    "detailed_reasoning": "The speaker builds to a climax with the phrase \"From tragedy to triumph.\" He delivers the word \"triumph\" with significant vocal emphasis and a forceful, downward pointing gesture. This combination of powerful language and decisive body language conveys a peak emotional state of having decisively won against adversity.",
+    "summary_reasoning": "Vocal emphasis, forceful gesture, powerful words."
+  },
+  {
+    "timestamp": 44.186,
+    "emotion": "engaging",
+    "detailed_reasoning": "After declaring his success, his tone shifts dramatically. He says \"Now,\" and his voice becomes softer and more conversational. He physically relaxes his posture slightly, moving from a declarative stance to one that seems to invite the audience into a new line of thought. This marks a transition from stating facts to engaging the audience in a narrative.",
+    "summary_reasoning": "Softer tone, conversational pace, relaxed posture."
+  },
+  {
+    "timestamp": 52.18,
+    "emotion": "inquisitive",
+    "detailed_reasoning": "The speaker's tone becomes more serious and deliberate as he dismisses the \"how\" of his story as less important than a \"different question.\" He leans forward slightly, his expression becomes more focused, and he creates suspense. This entire setup is designed to make the audience curious and thoughtful, mirroring his own inquisitive posture.",
+    "summary_reasoning": "Serious tone, focused expression, building suspense."
+  },
+  {
+    "timestamp": 54.203,
+    "emotion": "challenging",
+    "detailed_reasoning": "He ends the segment with a single, powerful word: \"Why?\" Delivered after a significant pause, with a direct gaze and a firm, questioning tone, the word is not just inquisitive but also a direct challenge to the audience. It shifts the focus from his story to a universal question, compelling the audience to reflect and engage with the deeper meaning of his talk.",
+    "summary_reasoning": "Direct gaze, long pause, firm tone."
+  }
+]

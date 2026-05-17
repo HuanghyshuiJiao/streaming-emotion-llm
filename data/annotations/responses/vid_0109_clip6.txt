@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 3.495,
+    "emotion": "dramatic",
+    "detailed_reasoning": "The speaker begins by quoting a question in a high-pitched, theatrical voice. Her facial expression is exaggeratedly intense, with wide eyes and a strained look, and her body language is poised for a performance. This combination of vocal and visual cues points to a dramatic or performative state.",
+    "summary_reasoning": "High-pitched voice, exaggerated facial expression, theatrical pose."
+  },
+  {
+    "timestamp": 8.200,
+    "emotion": "playful",
+    "detailed_reasoning": "The speaker transitions from a character's voice to a narrator's voice, but her performance remains highly animated and comical. She physically enacts the scene of Amelia Bedelia staring at the chicken with an expression of intense, humorous concentration. This physical comedy and animated narration create a playful and engaging mood.",
+    "summary_reasoning": "Animated narration, physical comedy, humorous facial expression."
+  },
+  {
+    "timestamp": 21.516,
+    "emotion": "curious",
+    "detailed_reasoning": "During a long pause in the narration, the speaker uses exaggerated body language and facial expressions to convey a sense of deep, comical thought and curiosity. She mimes looking into an icebox, with her eyes wide and eyebrows raised, perfectly portraying the character's inquisitive and slightly clueless state of mind before she voices her thought.",
+    "summary_reasoning": "Exaggerated mime, wide eyes, raised eyebrows."
+  },
+  {
+    "timestamp": 24.099,
+    "emotion": "innocent",
+    "detailed_reasoning": "The speaker reverts to the high-pitched, naive character voice of Amelia Bedelia. Her facial expression is one of wide-eyed, simple wonder as she poses a silly question. The combination of the childlike tone and the earnest, tilted-head expression conveys a sense of innocence and literal-mindedness.",
+    "summary_reasoning": "High-pitched character voice, wide-eyed expression, naive tone."
+  },
+  {
+    "timestamp": 29.565,
+    "emotion": "mischievous",
+    "detailed_reasoning": "Shifting back to the narrator, the speaker's voice takes on a gleeful, knowing tone. This is matched by a bright, mischievous smile and dainty hand gestures as she describes Amelia Bedelia dressing the chicken. The performance conveys the character's misguided but cheerful intent, creating a mischievous and humorous atmosphere.",
+    "summary_reasoning": "Gleeful tone, bright smile, dainty gestures."
+  },
+  {
+    "timestamp": 33.989,
+    "emotion": "proud",
+    "detailed_reasoning": "After humming a cheerful tune while miming her task, the speaker announces, \"My pie, it's done.\" Her voice is filled with satisfaction, and her facial expression as she looks at the imaginary pie is one of pure pride and accomplishment. The broad smile and triumphant tone clearly indicate this emotion.",
+    "summary_reasoning": "Satisfied tone, broad smile, triumphant declaration."
+  },
+  {
+    "timestamp": 45.191,
+    "emotion": "joyful",
+    "detailed_reasoning": "The speaker exclaims \"It's perfect!\" in a breathy, excited voice. Visually, her face is illuminated by a massive, beaming smile, and she clasps her hands together in pure delight. Her body language, including a slight bounce, radiates overwhelming joy and satisfaction with her accomplishment.",
+    "summary_reasoning": "Beaming smile, excited tone, clasped hands."
+  },
+  {
+    "timestamp": 55.711,
+    "emotion": "surprised",
+    "detailed_reasoning": "The speaker's joyful demeanor instantly disappears. Her voice becomes hushed and urgent, her eyes widen, and her body tenses as she looks off-stage. This abrupt change in vocal tone and body language clearly signals a sudden realization or surprise, as she announces the arrival of \"the folks.\"",
+    "summary_reasoning": "Abrupt shift in tone, widened eyes, tense posture."
+  }
+]

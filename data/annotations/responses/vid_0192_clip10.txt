@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 1.934,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his presentation with a calm and measured tone. His voice is steady, his pace is deliberate, and his body language is composed as he stands at the center of the stage. He is setting a thoughtful and authoritative tone for his talk.",
+    "summary_reasoning": "Calm tone, steady pace, composed posture."
+  },
+  {
+    "timestamp": 7.142,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker's tone shifts slightly as he introduces the central question of his talk: 'why?'. He pauses before and after the question, encouraging the audience to reflect. His facial expression becomes more contemplative, and his vocal delivery is more deliberate, indicating a shift from a simple statement of fact to a more profound, thought-provoking idea.",
+    "summary_reasoning": "Deliberate pace, pauses for emphasis, contemplative tone."
+  },
+  {
+    "timestamp": 12.55,
+    "emotion": "engaging",
+    "detailed_reasoning": "To make his point more relatable, the speaker switches to a direct, conversational tone. He uses the example of dating and directly addresses the 'ladies' in the audience. This change in topic and direct address, combined with a slightly lighter tone, is designed to engage the audience on a personal level.",
+    "summary_reasoning": "Conversational tone, direct address to audience, relatable example."
+  },
+  {
+    "timestamp": 18.323,
+    "emotion": "inquisitive",
+    "detailed_reasoning": "The speaker's tone becomes more direct and inquisitive as he poses rhetorical questions. He is acting out a scenario, and his voice takes on a questioning quality. His body language is open, and he uses hand gestures to emphasize the questions, making the tone feel more like a direct inquiry.",
+    "summary_reasoning": "Questioning tone, rhetorical questions, open body language."
+  },
+  {
+    "timestamp": 25.292,
+    "emotion": "instructional",
+    "detailed_reasoning": "The speaker transitions from the specific example back to a broader, more universal point. His tone becomes more serious and declarative, similar to the beginning of the talk. He is now instructing the audience on how to apply this 'why' question to other areas of their lives, such as their careers.",
+    "summary_reasoning": "Serious tone, declarative statements, generalizing the message."
+  },
+  {
+    "timestamp": 30.278,
+    "emotion": "sincere",
+    "detailed_reasoning": "The speaker's delivery becomes more introspective and earnest. He encourages the audience to 'Ask yourself,' and his pace slows down significantly. The questions he poses are deeply personal, and his tone conveys sincerity and encourages self-reflection from the listener. His facial expression is serious and focused.",
+    "summary_reasoning": "Slow pace, introspective tone, serious expression."
+  },
+  {
+    "timestamp": 38.248,
+    "emotion": "reassuring",
+    "detailed_reasoning": "After posing a series of difficult questions, the speaker's tone shifts to become reassuring and guiding. He tells the audience they 'do not have to wait for an answer.' His voice is calm and steady, offering a sense of comfort and a solution to the self-doubt he just introduced. The slide changes to reinforce this message, providing a clear path forward.",
+    "summary_reasoning": "Calm voice, steady tone, offering a solution."
+  },
+  {
+    "timestamp": 46.657,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker's tone becomes very soft and calm as he instructs the audience to find a 'quiet space' and 'meditate.' His pace is slow and his volume is lower, creating a soothing and almost meditative atmosphere himself. He is guiding the audience towards a state of quiet reflection.",
+    "summary_reasoning": "Soft, low-volume voice, slow pace, soothing tone."
+  },
+  {
+    "timestamp": 50.456,
+    "emotion": "lighthearted",
+    "detailed_reasoning": "The speaker injects a moment of lightheartedness to clarify his meaning of 'meditate.' He dismisses the stereotypical image of meditation with a slightly humorous tone and a brief, casual 'um' sound. This breaks the very serious mood and makes his advice feel more accessible and less intimidating.",
+    "summary_reasoning": "Humorous tone, casual sound, clarifying a stereotype."
+  },
+  {
+    "timestamp": 55.24,
+    "emotion": "emphatic",
+    "detailed_reasoning": "For his final point in the clip, the speaker's tone becomes very deliberate and emphatic. He clearly defines what he means by meditation: 'taking the time to be quiet.' He slows down and stresses these words to ensure the core message is understood clearly and sincerely, leaving a lasting impression.",
+    "summary_reasoning": "Deliberate pace, stressed words, sincere tone."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 1.393,
+    "emotion": "nervous",
+    "detailed_reasoning": "The speaker explicitly states her heart is beating fast from nervousness and adrenaline. Although her voice is strong, there's a slight tremor, and her facial expression is intense and focused rather than relaxed. The content of her speech directly points to her emotional state.",
+    "summary_reasoning": "States nervousness, mentions adrenaline, intense expression."
+  },
+  {
+    "timestamp": 13.506,
+    "emotion": "grateful",
+    "detailed_reasoning": "The speaker's tone shifts as she begins listing positive life experiences. Her voice becomes warmer, and her facial expression softens slightly. The words \"laugh,\" \"love,\" and \"amazing thing called life\" indicate a shift from acknowledging her physical state of nervousness to appreciating the fact that she is alive and able to feel.",
+    "summary_reasoning": "Warmer tone, softer expression, positive words."
+  },
+  {
+    "timestamp": 21.335,
+    "emotion": "connected",
+    "detailed_reasoning": "The speaker's focus shifts directly to the audience with the words \"with you.\" Her gaze is direct, and her tone becomes more intimate and emphatic, especially on the words \"Right here. Right now.\" This creates a sense of shared experience and connection with the listeners.",
+    "summary_reasoning": "Direct gaze, emphatic tone, inclusive words."
+  },
+  {
+    "timestamp": 30.514,
+    "emotion": "inspirational",
+    "detailed_reasoning": "The speaker's tone becomes more declarative and philosophical. She is no longer just sharing her personal feelings but is now imparting a lesson or a core message. Her posture is confident and her delivery is steady, aiming to inspire the audience to consider how they live their own lives.",
+    "summary_reasoning": "Declarative tone, confident posture, philosophical message."
+  },
+  {
+    "timestamp": 47.373,
+    "emotion": "empowering",
+    "detailed_reasoning": "The speaker's energy rises significantly. Her voice becomes more urgent and commanding as she delivers a direct call to action: \"Don't wait anymore.\" This is followed by the powerful statement, \"The time is now.\" Her expression is encouraging, and the overall delivery is meant to empower the audience to take action.",
+    "summary_reasoning": "Urgent tone, commanding voice, direct call to action."
+  },
+  {
+    "timestamp": 57.196,
+    "emotion": "happy",
+    "detailed_reasoning": "After delivering her final, powerful line, the speaker's demeanor completely softens. She breaks into a genuine, warm smile and nods to the audience as she says \"Thank you.\" This is a clear shift from the intense, empowering tone to one of relief, happiness, and gratitude for the audience's attention.",
+    "summary_reasoning": "Genuine smile, soft expression, relieved tone."
+  }
+]

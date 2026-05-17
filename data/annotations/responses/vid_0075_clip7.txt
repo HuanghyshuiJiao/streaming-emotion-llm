@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 2.394,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker begins his speech with a clear and steady voice, making direct eye contact with the audience. He has a slight, confident smile and his posture is upright. He is delivering a numbered point, which suggests a structured and well-prepared speech, contributing to his confident demeanor.",
+    "summary_reasoning": "Clear voice, direct eye contact, confident smile."
+  },
+  {
+    "timestamp": 6.459,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker's emotion shifts from confident to amused as he tells a well-known, slightly vulgar joke comparing opinions to assholes. His smile becomes more pronounced and genuine, his eyes crinkle, and his tone becomes lighter and more playful, clearly indicating his amusement and intent to entertain the audience.",
+    "summary_reasoning": "Smiling, lighthearted tone, telling a joke."
+  },
+  {
+    "timestamp": 16.251,
+    "emotion": "playful",
+    "detailed_reasoning": "Following the audience's laughter from his joke, the speaker's amusement turns into a more playful interaction. He pauses, smiles broadly, and then makes an ad-libbed comment about conducting exams in the hall, calling it \"revenge.\" His expression is very relaxed and mirthful, showing he is enjoying the moment and playfully engaging with the audience's reaction.",
+    "summary_reasoning": "Smiling at audience reaction, making ad-libbed joke."
+  },
+  {
+    "timestamp": 32.398,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's emotion transitions from playful back to serious. The smile fades from his face, replaced by a more neutral, focused expression. His tone becomes more measured and assertive as he delivers the core message of his point: the importance of critical thinking. This shift marks a return from humorous anecdote to the main, instructive part of his speech.",
+    "summary_reasoning": "Smile fades, focused expression, assertive tone."
+  },
+  {
+    "timestamp": 39.274,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker's seriousness intensifies into passion as he uses a strong, vivid metaphor about hitting one's beliefs with a cricket bat. His vocal delivery becomes more forceful and emphatic, and he uses a determined facial expression to underscore the importance of being intellectually rigorous. The powerful imagery combined with the energetic delivery conveys a strong sense of conviction.",
+    "summary_reasoning": "Forceful tone, emphatic delivery, strong metaphor."
+  },
+  {
+    "timestamp": 49.477,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "After the passionate delivery, the speaker's emotion becomes more thoughtful and analytical. He discusses societal arguments and the failure to acknowledge nuance. His pace slows, his tone becomes more contemplative, and his facial expression is serious and focused. He is presenting a complex idea that requires careful consideration from both him and the audience.",
+    "summary_reasoning": "Slower pace, contemplative tone, serious expression."
+  }
+]

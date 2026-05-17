@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 1.192,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker starts his presentation with a very measured and steady tone. His body language is still and his posture is composed, with his hands held in front of him. This indicates a calm and focused state as he begins to set the scene for his story.",
+    "summary_reasoning": "Measured tone, still posture."
+  },
+  {
+    "timestamp": 7.399,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker's choice of words shifts to \"traumatic yet vivid moments.\" His vocal tone, while still controlled, becomes lower and more serious, reflecting the heavy subject matter of his mother's addiction. The mood shifts from a neutral, calm introduction to a more somber and serious recollection.",
+    "summary_reasoning": "Lower tone, serious words."
+  },
+  {
+    "timestamp": 19.133,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker's tone softens and he becomes more introspective as he describes the clarity of his memories. He says, \"When I close my eyes,\" and his gaze drifts slightly, suggesting he is turning inward to access these memories. This indicates a shift into a deeply reflective state.",
+    "summary_reasoning": "Softened tone, introspective words."
+  },
+  {
+    "timestamp": 28.836,
+    "emotion": "pained",
+    "detailed_reasoning": "The speaker begins to narrate a specific and highly traumatic event. His pace slows down, and his voice takes on a graver, more pained quality as he describes discovering his mother's boyfriend after an overdose. The gravity of the content combined with the change in vocal delivery conveys a sense of deep, remembered pain.",
+    "summary_reasoning": "Slower pace, grave tone, traumatic content."
+  },
+  {
+    "timestamp": 42.015,
+    "emotion": "fearful",
+    "detailed_reasoning": "The speaker explicitly states that the discovery \"initially paralyzed me in fear.\" His voice remains low and tense, mirroring the feeling of being frozen. His description of the body being \"motionless at my feet\" while he himself was paralyzed creates a strong sense of remembered terror and helplessness.",
+    "summary_reasoning": "Explicitly states \"fear\", tense tone, describes paralysis."
+  }
+]

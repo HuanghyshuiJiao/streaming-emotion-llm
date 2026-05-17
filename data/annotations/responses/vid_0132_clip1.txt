@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 3.696,
+    "emotion": "pleading",
+    "detailed_reasoning": "The speaker begins with a calm but urgent tone, holding his hands up in a placating gesture. His words, \"before you punch me, there's something you should know,\" establish a tense context where he is trying to de-escalate a potential physical confrontation by reasoning with the unseen person. His facial expression is serious and earnest.",
+    "summary_reasoning": "Placating gesture, urgent tone, serious expression."
+  },
+  {
+    "timestamp": 19.776,
+    "emotion": "defiant",
+    "detailed_reasoning": "After a long, tense pause, the speaker's demeanor shifts dramatically. His volume increases, his eyes widen, and he begins to gesture more forcefully. His statement, \"if I'm gonna die, I want the world to know how great she is,\" shows a change from pleading to a defiant acceptance of the consequences. He is no longer trying to avoid the fight but is now driven to make his point regardless of the outcome.",
+    "summary_reasoning": "Louder volume, forceful gestures, accepting consequences."
+  },
+  {
+    "timestamp": 26.645,
+    "emotion": "mocking",
+    "detailed_reasoning": "The speaker's tone becomes sarcastic and taunting. He leans in and tilts his head with a challenging expression, asking, \"Why you want me to shut up, huh? You afraid?\" This shifts the emotion from pure defiance to actively mocking the other person's perceived fear and attempting to provoke them.",
+    "summary_reasoning": "Sarcastic tone, challenging expression, provocative words."
+  },
+  {
+    "timestamp": 41.133,
+    "emotion": "determined",
+    "detailed_reasoning": "While still defiant, the speaker's emotion shifts from active taunting to a state of determined resignation. His voice lowers slightly but remains intense as he says, \"punch me all you want when I'm done.\" He is making a concession about the inevitable physical altercation, but only on his own terms, showing his determination to speak his mind first.",
+    "summary_reasoning": "Resigned but intense tone, setting conditions."
+  },
+  {
+    "timestamp": 46.559,
+    "emotion": "passionate",
+    "detailed_reasoning": "There is a complete emotional shift as the speaker's focus turns to the woman he loves. All aggression vanishes from his face and voice. His expression softens, his eyes become wistful, and his tone becomes gentle and reverent as he says, \"let me say how I feel. For her.\" This reveals the deep, sincere passion that is motivating his defiance.",
+    "summary_reasoning": "Soft expression, gentle reverent tone, focus on 'her'."
+  },
+  {
+    "timestamp": 56.329,
+    "emotion": "earnest",
+    "detailed_reasoning": "Continuing from his passionate state, the speaker now tries to make the other person understand the depth of his feelings on an intellectual level by asking, \"Do you know about serendipity?\" His expression is sincere and searching, indicating an earnest attempt to connect and explain the significance of his relationship.",
+    "summary_reasoning": "Sincere expression, questioning tone, intellectual appeal."
+  },
+  {
+    "timestamp": 58.031,
+    "emotion": "condescending",
+    "detailed_reasoning": "When his earnest question is presumably met with silence or confusion, the speaker's face immediately contorts into a condescending smirk. His tone shifts back to being mocking as he belittles the other person's intelligence with the question, \"Huh? Word too big for you?\" This abrupt change shows his frustration and reverts back to an aggressive, superior stance.",
+    "summary_reasoning": "Condescending smirk, mocking tone, belittling words."
+  }
+]

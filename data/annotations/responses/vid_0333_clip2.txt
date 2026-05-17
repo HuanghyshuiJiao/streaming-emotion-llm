@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 3.717,
+    "emotion": "longing",
+    "detailed_reasoning": "The speaker's initial expression is neutral and contemplative. At this point, she turns her gaze forward, making eye contact, and asks a direct, vulnerable question, \"miss me?\". Her tone is soft and questioning, with a slight upward inflection, conveying a sense of hope and desire for a specific answer.",
+    "summary_reasoning": "Direct gaze, questioning tone, vulnerable words."
+  },
+  {
+    "timestamp": 6.722,
+    "emotion": "playful",
+    "detailed_reasoning": "Following her question, her expression immediately softens into a subtle, knowing smile. She closes her eyes for a moment as if savoring a pleasant thought. Her tone becomes more intimate and slightly teasing as she says, \"But if you do, you'd make me wish a sin.\" This combination of a soft smile, intimate tone, and mischievous words indicates a shift to a playful and flirtatious mood.",
+    "summary_reasoning": "Subtle smile, intimate tone, mischievous words."
+  },
+  {
+    "timestamp": 12.091,
+    "emotion": "amused",
+    "detailed_reasoning": "Her expression breaks into a wide, genuine smile, and she lets out a light, almost-laughing sound. Her tone is bright and teasing as she exclaims, \"Beshrew your eyes.\" The sudden shift from a subtle, playful mood to open amusement is marked by the broad facial expression and the cheerful, affectionate delivery of the line.",
+    "summary_reasoning": "Wide smile, light laugh, teasing tone."
+  },
+  {
+    "timestamp": 14.596,
+    "emotion": "passionate",
+    "detailed_reasoning": "The amusement fades, and her expression becomes intense and captivated. Her eyes widen as she speaks of being \"overlooked\" and \"divided.\" Her voice takes on a more serious, breathy, and emphatic tone, conveying a sense of being completely overwhelmed and consumed by her feelings. This dramatic shift in vocal delivery and facial intensity points to a deep sense of passion.",
+    "summary_reasoning": "Intense expression, wide eyes, emphatic breathy tone."
+  },
+  {
+    "timestamp": 25.614,
+    "emotion": "loving",
+    "detailed_reasoning": "After a long, contemplative pause where she closes her eyes, she opens them and looks up with a soft, adoring expression. She delivers the final word, \"yours,\" with a gentle, definitive tone and a tender smile. The previous intensity has melted away, replaced by a clear feeling of love and surrender.",
+    "summary_reasoning": "Long pause, soft adoring gaze, tender smile."
+  },
+  {
+    "timestamp": 29.665,
+    "emotion": "flustered",
+    "detailed_reasoning": "She attempts to correct her previous statement, saying, \"Mine own, I would say...\" Her speech becomes slightly hesitant, and she has a charmingly confused expression as she tries to articulate her complex feelings. This verbal stumbling and conflicted look suggest a moment of happy confusion or being endearingly flustered by the depth of her emotions.",
+    "summary_reasoning": "Hesitant speech, confused expression, self-correction."
+  },
+  {
+    "timestamp": 39.577,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The mood shifts abruptly. She exclaims, \"Oh,\" with a tone of exasperation. Her facial expression changes from loving to pained, and she furrows her brow slightly. Her voice carries a clear sense of complaint and sadness as she laments the \"naughty times\" that create separation. The change in vocal tone and disappointed facial expression clearly indicate frustration.",
+    "summary_reasoning": "Exasperated tone, pained expression, complaining words."
+  },
+  {
+    "timestamp": 51.752,
+    "emotion": "defiant",
+    "detailed_reasoning": "After a pause, her demeanor hardens. She looks forward with a determined gaze, her chin slightly lifted. Her voice becomes firm and challenging as she says, \"Prove it so.\" This is reinforced by her next line, \"Let fortune go to hell for it, not I.\" The shift from frustration to a more proactive, challenging stance is evident in her strong tone and resolute expression.",
+    "summary_reasoning": "Firm tone, determined gaze, challenging words."
+  },
+  {
+    "timestamp": 58.942,
+    "emotion": "self-aware",
+    "detailed_reasoning": "The intense, defiant mood breaks completely. Her expression softens, and a slight, self-deprecating smile appears. Her tone becomes light and conversational as she comments on her own long-windedness, \"I speak too long.\" This shift indicates she is breaking character, becoming aware of her own performance, and ending on a lighter, more self-conscious note.",
+    "summary_reasoning": "Softened expression, slight smile, light conversational tone."
+  }
+]

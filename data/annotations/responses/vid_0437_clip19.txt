@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 2.053,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins by introducing her nonprofit. Her tone is steady, her pace is measured, and her facial expression is neutral and focused as she looks at her notes. This combination of cues indicates a calm and informative start to her speech.",
+    "summary_reasoning": "Steady tone, measured pace, neutral expression."
+  },
+  {
+    "timestamp": 5.457,
+    "emotion": "hopeful",
+    "detailed_reasoning": "When the speaker mentions having 'big dreams,' she looks up at the audience, her facial expression softens, and her tone becomes warmer and more aspirational. This shift from a purely informative tone to one filled with positive ambition suggests a feeling of hope.",
+    "summary_reasoning": "Warmer tone, softer expression, looks at audience."
+  },
+  {
+    "timestamp": 15.328,
+    "emotion": "passionate",
+    "detailed_reasoning": "As she lists the various initiatives of her trust, such as organizing workshops, her voice gains energy and emphasis. Her delivery is earnest and heartfelt, conveying a deep personal commitment and passion for the work she is describing.",
+    "summary_reasoning": "Energetic voice, earnest tone, heartfelt delivery."
+  },
+  {
+    "timestamp": 22.255,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's demeanor shifts significantly here. She makes direct eye contact with the audience, her expression becomes firm, and her tone becomes more profound and assertive. The repetition of 'Stories matter' is delivered with gravity, indicating she is making a core, serious point.",
+    "summary_reasoning": "Firm expression, assertive tone, direct eye contact."
+  },
+  {
+    "timestamp": 27.258,
+    "emotion": "concerned",
+    "detailed_reasoning": "When speaking about stories being used to 'dispossess and to malign,' her tone becomes somber and her expression grave. This change reflects the negative and weighty nature of the words, conveying a sense of concern about the destructive power of stories.",
+    "summary_reasoning": "Somber tone, grave expression."
+  },
+  {
+    "timestamp": 31.726,
+    "emotion": "empowered",
+    "detailed_reasoning": "Contrasting the previous point, her tone immediately lifts and becomes stronger and more inspiring as she says stories can be used to 'empower'. Her pitch rises slightly, and her facial expression shows conviction, reflecting the uplifting and powerful nature of her message.",
+    "summary_reasoning": "Uplifting tone, convicted expression, rising pitch."
+  },
+  {
+    "timestamp": 35.092,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's tone becomes grave again as she states that stories can 'break the dignity of a people.' Her facial expression is intense and serious, emphasizing the profound negative impact she is describing.",
+    "summary_reasoning": "Grave tone, intense expression."
+  },
+  {
+    "timestamp": 38.298,
+    "emotion": "determined",
+    "detailed_reasoning": "Following the previous somber point, her tone shifts to one of strength and resolution when she says stories can 'repair that broken dignity.' Her voice is firm and filled with conviction, suggesting a determined belief in the restorative power of storytelling.",
+    "summary_reasoning": "Strong tone, firm voice, convicted expression."
+  },
+  {
+    "timestamp": 42.045,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker transitions from her powerful, declarative statements to telling an anecdote about Alice Walker. Her voice softens, her pace becomes more narrative, and she looks down at her notes. This shift indicates a move to a calmer, more reflective and illustrative mode of speaking.",
+    "summary_reasoning": "Softer voice, narrative pace, reflective."
+  }
+]

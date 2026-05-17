@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 8.382,
+    "emotion": "tender",
+    "detailed_reasoning": "The speaker begins by singing a song. His vocal tone is soft, gentle, and melodic. He has his hands clasped over his heart, a gesture often associated with deep, heartfelt emotion. The content of the lyrics, 'love is real simple and true,' further reinforces this tender and affectionate feeling.",
+    "summary_reasoning": "Singing softly, hands on heart, gentle lyrics."
+  },
+  {
+    "timestamp": 19.557,
+    "emotion": "nostalgic",
+    "detailed_reasoning": "The speaker continues his song, describing a personal, warm memory: 'this feeling my heart gets when I'm being held close by you.' His voice remains soft and melodic, creating a reflective and nostalgic atmosphere. Although the camera cuts to the audience, his vocal delivery maintains this tender, reminiscent quality.",
+    "summary_reasoning": "Soft tone, reflective lyrics, memory description."
+  },
+  {
+    "timestamp": 28.148,
+    "emotion": "somber",
+    "detailed_reasoning": "There is a distinct shift in the narrative and tone. The speaker stops singing and begins telling a story. His voice becomes more serious and lower in pitch as he introduces a character facing hardship, stating, 'no one told her it got crazy like this.' This transition from a sweet song to a difficult story creates a somber mood.",
+    "summary_reasoning": "Tone shift, serious content, lower pitch."
+  },
+  {
+    "timestamp": 44.483,
+    "emotion": "empathetic",
+    "detailed_reasoning": "The speaker details the struggles of the woman in his story: working multiple jobs, attending night school, and caring for a crying child with a bruised knee. His vocal delivery is filled with a soft, concerned quality that conveys deep empathy and compassion for the character's difficult situation. He is painting a picture of hardship to elicit a feeling of sympathy.",
+    "summary_reasoning": "Concerned tone, describing hardship, compassionate voice."
+  },
+  {
+    "timestamp": 53.672,
+    "emotion": "loving",
+    "detailed_reasoning": "The tone lifts as the narrative reaches a heartwarming moment. When describing the mother holding her crying child, the speaker's voice becomes warmer and more expressive, especially on the phrase 'that old magic lights up in her heart.' He brings his hands back to his chest, mirroring the action of holding someone close, which visually reinforces the loving and magical feeling of the moment.",
+    "summary_reasoning": "Warmer tone, expressive voice, hand-to-heart gesture."
+  },
+  {
+    "timestamp": 59.991,
+    "emotion": "peaceful",
+    "detailed_reasoning": "The speaker concludes the narrative vignette with the image of the child laying her head on her mother's shoulder. His vocal delivery for this final line is exceptionally soft, slow, and gentle. This creates a powerful sense of calm, resolution, and peace, leaving the audience with a tranquil and heartwarming image.",
+    "summary_reasoning": "Soft, slow voice, tranquil narrative conclusion."
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "intense",
+    "detailed_reasoning": "The speaker begins with a rapid pace and a serious, forceful tone. His facial expression is focused and intense, and the dramatic red lighting adds to the mood. He is immediately setting a scene of high emotional stakes and drama.",
+    "summary_reasoning": "Rapid pace, forceful tone, intense expression."
+  },
+  {
+    "timestamp": 6.3,
+    "emotion": "anguished",
+    "detailed_reasoning": "The description of the character crying and his phone blowing up with jokes and threats is delivered with a tone of palpable pain. The speaker's voice conveys the character's suffering, and his facial expression is one of deep anguish, reflecting the story's content.",
+    "summary_reasoning": "Pained tone, pained expression, distressing narrative."
+  },
+  {
+    "timestamp": 10.165,
+    "emotion": "desperate",
+    "detailed_reasoning": "The speaker's voice rises in volume and intensity on the word 'scream,' mimicking the action described. His facial expression becomes more strained, conveying a sense of desperation and the character's profound suffering and desire for release.",
+    "summary_reasoning": "Increased volume, strained expression, mimics screaming."
+  },
+  {
+    "timestamp": 15.132,
+    "emotion": "hopeless",
+    "detailed_reasoning": "After describing the character's constant suffering, the speaker's tone shifts. The line 'he was always alone' is delivered with a slower pace and a drop in pitch, conveying a deep sense of resignation, finality, and hopelessness.",
+    "summary_reasoning": "Slower pace, lower pitch, tone of resignation."
+  },
+  {
+    "timestamp": 18.397,
+    "emotion": "yearning",
+    "detailed_reasoning": "The speaker's voice becomes much softer, almost a whisper. The pace slows down significantly, and his expression is one of utter weariness. The tone communicates a deep, desperate longing for the character to find peace and quiet from his torment.",
+    "summary_reasoning": "Whispery tone, slow pace, weary expression."
+  },
+  {
+    "timestamp": 20.9,
+    "emotion": "somber",
+    "detailed_reasoning": "The narrative takes a dark turn as the character searches his dad's drawer. The speaker's tone becomes low, steady, and filled with suspense. His facial expression is grim and serious, building a somber and ominous atmosphere leading to the tragic reveal.",
+    "summary_reasoning": "Low suspenseful tone, grim expression, ominous narrative."
+  },
+  {
+    "timestamp": 26.929,
+    "emotion": "grief",
+    "detailed_reasoning": "The climax of the story, where 'everything just went silent,' is delivered with a heavy finality. The speaker makes a gun gesture to his head and then drops his hand, his face conveying the tragic finality of the act. The emotion is one of profound grief and shock.",
+    "summary_reasoning": "Finality in tone, illustrative gesture, sorrowful expression."
+  },
+  {
+    "timestamp": 30.625,
+    "emotion": "sorrowful",
+    "detailed_reasoning": "The speaker shifts from narrating a story to expressing his own personal loss. His voice becomes softer and carries a raw, personal sadness. He looks out at the audience with a vulnerable and pained expression, directly sharing his sorrow.",
+    "summary_reasoning": "Personal tone, raw sadness in voice, vulnerable expression."
+  },
+  {
+    "timestamp": 33.392,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker begins reminiscing about his friend Yaseen. His tone softens, becoming more contemplative and nostalgic. He looks up and to the side as he speaks, adopting a reflective posture and expression while remembering his friend's faith.",
+    "summary_reasoning": "Soft tone, nostalgic content, contemplative expression."
+  },
+  {
+    "timestamp": 45.362,
+    "emotion": "serious",
+    "detailed_reasoning": "The line 'until his faith had a cost' marks a significant shift. The reflective mood disappears, replaced by a serious and foreboding tone. His expression becomes grim again, signaling that the story is about to take a tragic turn.",
+    "summary_reasoning": "Foreboding tone, grim expression, ominous words."
+  },
+  {
+    "timestamp": 48.63,
+    "emotion": "angry",
+    "detailed_reasoning": "The speaker's delivery becomes sharp and clipped as he describes the events after a 'Trump rally' and a crash outside a 'mosque'. His tone is filled with indignation and anger at the injustice, and his facial expression hardens, reflecting this anger.",
+    "summary_reasoning": "Sharp tone, indignant voice, hardened expression."
+  },
+  {
+    "timestamp": 51.898,
+    "emotion": "pained",
+    "detailed_reasoning": "For the final line, the anger recedes and is replaced by a profound sense of pain and isolation. His voice carries the weight of being the 'last one,' and he looks directly at the audience with a vulnerable, sorrowful expression that conveys deep-seated pain.",
+    "summary_reasoning": "Pained tone, sorrowful expression, direct address to audience."
+  }
+]

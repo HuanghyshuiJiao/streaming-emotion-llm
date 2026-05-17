@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her talk with a steady and clear tone of voice. Her facial expression is neutral and her posture is relaxed as she introduces her topic, establishing a calm and deliberate presence on stage.",
+    "summary_reasoning": "Steady voice, neutral face, relaxed posture."
+  },
+  {
+    "timestamp": 6.538,
+    "emotion": "confident",
+    "detailed_reasoning": "When quoting a common saying, the speaker's tone becomes slightly more emphatic. She wears a small, knowing smile, suggesting she is confident in the counterargument she is about to present. This indicates she is in full control of her narrative.",
+    "summary_reasoning": "Emphatic tone, knowing smile."
+  },
+  {
+    "timestamp": 12.145,
+    "emotion": "candid",
+    "detailed_reasoning": "The speaker shares a personal admission, \"I loved everybody before I loved myself.\" Her tone becomes more open and she has a soft, self-aware smile. This combination of personal content and vulnerable expression creates a feeling of candor and builds a connection with the audience.",
+    "summary_reasoning": "Personal admission, open tone, self-aware smile."
+  },
+  {
+    "timestamp": 15.429,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker's delivery becomes more expansive and heartfelt as she describes the nature of love. Her vocal tone gains warmth and conviction, and she uses more open hand gestures, indicating a passionate belief in the message she is conveying.",
+    "summary_reasoning": "Heartfelt tone, open gestures, vocal conviction."
+  },
+  {
+    "timestamp": 23.478,
+    "emotion": "joyful",
+    "detailed_reasoning": "Concluding her point about unconditional love, the speaker's face breaks into a wide, genuine smile. Her tone is bright and uplifting, reflecting the positive and welcoming nature of her words, which evokes a sense of joy.",
+    "summary_reasoning": "Wide smile, bright tone, positive words."
+  },
+  {
+    "timestamp": 25.78,
+    "emotion": "humorous",
+    "detailed_reasoning": "The speaker makes an abrupt and unexpected transition from a philosophical point about love to a comment about focus group moderators. The sharp turn in topic, combined with her wry expression and a slight smirk, is clearly intended to be humorous and catches the audience by surprise.",
+    "summary_reasoning": "Abrupt topic change, wry expression, smirk."
+  },
+  {
+    "timestamp": 34.389,
+    "emotion": "amused",
+    "detailed_reasoning": "After the humorous pivot, the speaker's tone becomes light and conversational as she describes focus groups. Her expression is one of amusement, as if sharing an inside joke with the audience about this \"special cultural experience.\"",
+    "summary_reasoning": "Light tone, amused facial expression."
+  },
+  {
+    "timestamp": 41.101,
+    "emotion": "playful",
+    "detailed_reasoning": "While listing the different 'characters' in a focus group, the speaker's voice becomes more animated and she adopts subtly different intonations for each type. Her facial expressions become more dynamic, showing she is playfully acting out the roles for the audience.",
+    "summary_reasoning": "Animated voice, dynamic expressions, character descriptions."
+  },
+  {
+    "timestamp": 48.815,
+    "emotion": "humorous",
+    "detailed_reasoning": "Describing the final character, the 'excited mom,' the speaker's pitch rises and her expression becomes more exaggerated and enthusiastic. This clear caricature is performed with humorous intent, designed to get a laugh from the audience as she concludes her list.",
+    "summary_reasoning": "High pitch, exaggerated expression, character caricature."
+  }
+]

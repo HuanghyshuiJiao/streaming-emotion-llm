@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 6.339,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker begins his monologue with a grave statement. His facial expression is serious, with slightly furrowed brows and downcast eyes. His vocal tone is low, slow, and measured, conveying a sense of weight and seriousness as he recounts a difficult memory.",
+    "summary_reasoning": "Serious expression, low and slow tone."
+  },
+  {
+    "timestamp": 14.329,
+    "emotion": "grave",
+    "detailed_reasoning": "Continuing the violent and grim narrative, the speaker's tone remains low and deliberate. His eyebrows are slightly furrowed, and his gaze is distant, indicating deep reflection on the gravity of his past actions. The downward inflection in his voice emphasizes the weight of the event.",
+    "summary_reasoning": "Low deliberate tone, furrowed brows, distant gaze."
+  },
+  {
+    "timestamp": 20.036,
+    "emotion": "haunted",
+    "detailed_reasoning": "When quoting the king's words, \"burn them all,\" the speaker's voice becomes quieter and has a slightly strained quality. His eyes look down and away, as if replaying a traumatic scene in his mind. This combination of a hushed, intense tone and avoidant eye contact suggests he is haunted by the memory.",
+    "summary_reasoning": "Quiet strained tone, downward gaze."
+  },
+  {
+    "timestamp": 27.185,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker's tone shifts from recounting the event to analyzing the king's intentions. His pace is still slow, but the emotional intensity lessens slightly. His facial expression becomes more neutral and his gaze remains downcast as he contemplates the king's state of mind, indicating a shift to a more reflective mood.",
+    "summary_reasoning": "Less intense tone, neutral expression, downcast gaze."
+  },
+  {
+    "timestamp": 32.978,
+    "emotion": "disdainful",
+    "detailed_reasoning": "Describing the king's plan to be 'reborn a dragon,' the speaker's tone takes on a quality of disbelief and contempt. There's a slight, almost imperceptible shake of his head, and his lips tighten slightly, conveying his disdain for the king's madness and delusions of grandeur.",
+    "summary_reasoning": "Disbelieving tone, slight head shake, tightened lips."
+  },
+  {
+    "timestamp": 41.673,
+    "emotion": "resolute",
+    "detailed_reasoning": "The speaker's tone becomes cold and firm as he states, \"I slit his throat.\" His eyes, previously downcast, now look forward with a focused intensity. His jaw tenses slightly, and the pace of his speech is decisive, communicating a sense of grim determination and resolution in his action.",
+    "summary_reasoning": "Cold firm tone, focused eyes, tense jaw."
+  },
+  {
+    "timestamp": 52.853,
+    "emotion": "weary",
+    "detailed_reasoning": "In the final line, the speaker's vocal tone softens, and the tension in his face dissipates. His shoulders seem to drop slightly, and his gaze becomes distant again. This shift suggests a deep-seated weariness and resignation, reflecting the long-term burden of his actions and their consequences.",
+    "summary_reasoning": "Softened tone, relaxed facial tension, distant gaze."
+  }
+]

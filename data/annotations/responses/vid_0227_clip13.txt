@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 10.643,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker begins with a hopeful and energetic tone. Her speech is fast-paced, and she uses open, emphatic hand gestures to describe what she believed would happen. Her facial expression is engaged and earnest, conveying her initial passion and conviction about the topic.",
+    "summary_reasoning": "Energetic tone, fast pace, emphatic gestures."
+  },
+  {
+    "timestamp": 13.867,
+    "emotion": "disappointed",
+    "detailed_reasoning": "There is a distinct shift in her demeanor. Her tone becomes lower and more somber, her pace slows down, and she gives a wry, slight smile while shaking her head. This combination of cues, especially after her previous optimistic tone, clearly indicates a sense of disappointment and irony about the outcome.",
+    "summary_reasoning": "Lower tone, wry smile, head shake."
+  },
+  {
+    "timestamp": 17.511,
+    "emotion": "reflective",
+    "detailed_reasoning": "Following the statement about disappointment, her expression turns more serious and introspective. Her voice is calm and measured, and her hands come together in a contemplative gesture. This indicates she is reflecting on a significant personal lesson.",
+    "summary_reasoning": "Serious expression, calm voice, contemplative gesture."
+  },
+  {
+    "timestamp": 27.102,
+    "emotion": "convinced",
+    "detailed_reasoning": "Her tone gains strength and she speaks with more assertion. Her gaze is direct and her head movements are deliberate as she explains her newfound understanding. This change in vocal and physical presence shows she is speaking with strong conviction about this new perspective.",
+    "summary_reasoning": "Assertive tone, direct gaze, strong conviction."
+  },
+  {
+    "timestamp": 33.148,
+    "emotion": "serious",
+    "detailed_reasoning": "When quoting an authority figure, her tone becomes more formal and her posture straightens. She is delivering the information factually and with gravity, aiming to establish the seriousness of the issue she is about to describe.",
+    "summary_reasoning": "Formal tone, straight posture, factual delivery."
+  },
+  {
+    "timestamp": 43.042,
+    "emotion": "grave",
+    "detailed_reasoning": "As she delivers the powerful quote, her voice is slow, deliberate, and low in pitch. Her facial expression is intensely serious and concerned. This combination of cues underscores the immense weight and gravity of the public health threat she is describing.",
+    "summary_reasoning": "Slow deliberate voice, intense serious expression."
+  },
+  {
+    "timestamp": 47.689,
+    "emotion": "empathetic",
+    "detailed_reasoning": "Her tone softens and her facial expression shows understanding as she acknowledges that the information is 'terrifying.' This shift shows she is connecting with the audience's likely emotional reaction and displaying empathy for their feelings.",
+    "summary_reasoning": "Softened tone, understanding expression."
+  },
+  {
+    "timestamp": 56.582,
+    "emotion": "concerned",
+    "detailed_reasoning": "The speaker describes the 'overwhelming' nature of the problem with a softer voice and a concerned facial expression. Her hand gestures are open and wide, visually representing the large scope of the issue. Her demeanor conveys a shared sense of concern about the daunting scale of the problem.",
+    "summary_reasoning": "Soft voice, concerned expression, wide gestures."
+  },
+  {
+    "timestamp": 57.984,
+    "emotion": "determined",
+    "detailed_reasoning": "The clip ends with a sharp pivot. The word 'But' is followed by a forward lean and a more focused, determined expression. Her voice firms up, signaling a shift from discussing the problem to presenting her personal, more resolute perspective. This is a clear transition into a more determined emotional state.",
+    "summary_reasoning": "Sharp tone, forward lean, focused expression."
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 1.133,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins with a definition. Her tone is measured and informative, her facial expression is neutral and focused, and her posture is stable. This combination of cues establishes a serious and educational mood at the start of her talk.",
+    "summary_reasoning": "Measured tone, neutral expression, informative content."
+  },
+  {
+    "timestamp": 9.206,
+    "emotion": "assertive",
+    "detailed_reasoning": "After providing a definition, the speaker shifts to a more declarative statement: \"Autistic people need to stim.\" Her tone becomes firmer, her pace is deliberate, and she makes direct eye contact with the audience (as seen on the screen). This change indicates a move from a neutral, informative stance to a more forceful and assertive one, emphasizing the necessity of the behavior.",
+    "summary_reasoning": "Firmer tone, direct statement, deliberate pace."
+  },
+  {
+    "timestamp": 22.328,
+    "emotion": "concerned",
+    "detailed_reasoning": "The speaker's tone softens and her pace slows slightly as she mentions preventing a \"meltdown\" and anxiety. The content itself is emotionally charged, and her vocal delivery shifts from assertive to a more gentle and concerned tone, reflecting the seriousness and emotional weight of the topic.",
+    "summary_reasoning": "Softer tone, slower pace, emotionally charged words."
+  },
+  {
+    "timestamp": 33.728,
+    "emotion": "disappointed",
+    "detailed_reasoning": "When explaining that autistic children are \"taught to hide their autism,\" the speaker's vocal tone drops slightly in pitch and energy. Her facial expression appears more somber. This conveys a sense of disappointment or sadness about the societal pressures that lead to this outcome.",
+    "summary_reasoning": "Lower vocal pitch, somber expression, sad topic."
+  },
+  {
+    "timestamp": 41.423,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker's tone lightens momentarily when she says little girls are \"brilliant at observing.\" There's a subtle hint of admiration in her voice, but given the context that this skill is used for masking, the emotion feels more complex and reflective, acknowledging a strength born from a difficult situation.",
+    "summary_reasoning": "Lighter tone, bittersweet context."
+  },
+  {
+    "timestamp": 46.573,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker's voice returns to a lower, more serious pitch as she describes how autistic girls learn to \"hide\" and \"mask\" their autism. The repetition of these key terms and the gravity in her voice create a somber mood, emphasizing the negative consequence of their observational skills.",
+    "summary_reasoning": "Lower pitch, serious tone, repetition of negative words."
+  },
+  {
+    "timestamp": 52.444,
+    "emotion": "calm",
+    "detailed_reasoning": "In her final statement, the speaker's tone becomes very clear, steady, and definitive. She delivers the line \"Masking is not a conscious effort\" as a concluding fact. Her expression is neutral and her delivery is calm, ending the segment on a point of clarification rather than high emotion.",
+    "summary_reasoning": "Clear, steady tone, definitive statement."
+  }
+]

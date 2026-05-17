@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 1.113,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker's tone is measured and his delivery is slow and deliberate. His body is still, with hands clasped in front of him, and his facial expression is neutral. This combination of audio and visual cues indicates a calm and pensive emotional state as he begins his talk.",
+    "summary_reasoning": "Slow, measured tone. Still posture. Neutral expression."
+  },
+  {
+    "timestamp": 17.356,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's tone shifts to a more somber and serious register as he says, \"it gets hard.\" His gaze remains fixed, and the content of his speech turns to difficulty and struggle. While his demeanor is still calm, the shift in vocal tone and topic introduces a serious, empathetic quality.",
+    "summary_reasoning": "Somber tone. Fixed gaze. Serious topic."
+  },
+  {
+    "timestamp": 26.470,
+    "emotion": "hopeful",
+    "detailed_reasoning": "After describing weakness, the speaker's tone becomes slightly more uplifting and reassuring as he introduces a solution: finding strength. He begins to use more open hand gestures, moving away from his previously clasped hands. This transition from problem to solution creates a feeling of hope.",
+    "summary_reasoning": "Uplifting tone. Open hand gestures. Solution-oriented words."
+  },
+  {
+    "timestamp": 37.429,
+    "emotion": "vulnerable",
+    "detailed_reasoning": "The speaker's voice becomes softer and more gentle as he says, \"it's okay to acknowledge that I was a victim.\" He uses personal experience to connect with the audience, and the gentleness in his tone conveys a sense of vulnerability and acceptance, encouraging the audience to feel the same.",
+    "summary_reasoning": "Softer, gentle tone. Personal words. Reassuring message."
+  },
+  {
+    "timestamp": 44.840,
+    "emotion": "determined",
+    "detailed_reasoning": "A significant shift occurs as the speaker says, \"but refuse to own being a victim.\" His voice becomes firm and resolute, his posture straightens slightly, and he uses a subtle head nod for emphasis. This juxtaposition with the previous vulnerability projects a strong sense of determination and inner strength.",
+    "summary_reasoning": "Firm, resolute voice. Straight posture. Emphatic head nod."
+  },
+  {
+    "timestamp": 53.191,
+    "emotion": "insightful",
+    "detailed_reasoning": "The speaker's tone becomes more direct and instructive as he asks the audience a rhetorical question to explain his point. He is guiding them to an understanding, and his focused expression and clear articulation create an insightful and clarifying mood, as if he is sharing a profound realization.",
+    "summary_reasoning": "Direct, instructive tone. Focused expression. Rhetorical question."
+  },
+  {
+    "timestamp": 59.521,
+    "emotion": "empowered",
+    "detailed_reasoning": "For the final word, \"power,\" the speaker's voice rises in volume and conviction. He subtly clenches his hand and raises it slightly in a gesture of strength. This is the emotional climax of his statement, clearly conveying a feeling of empowerment and triumph.",
+    "summary_reasoning": "Louder, convicted voice. Clenched hand gesture."
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins by listing heavy societal issues like systemic segregation and discrimination. His tone is measured and grave, his hands are in his pockets, and his posture is still. This combination of somber topics and a controlled, serious delivery establishes a serious mood from the outset.",
+    "summary_reasoning": "Grave topic, measured tone, still posture."
+  },
+  {
+    "timestamp": 18.931,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker uses the phrase \"Against that backdrop,\" marking a transition from a general societal context to a more personal one. He pauses and looks down briefly, and his pace slows. This suggests he is shifting into a more introspective and reflective state as he prepares to share his personal history.",
+    "summary_reasoning": "Transitional phrase, pause, downward glance."
+  },
+  {
+    "timestamp": 23.035,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker reveals that his mother was an addict. Although his vocal tone remains steady, the deeply personal and painful nature of the content shifts the emotion to somber. His stoic facial expression in the face of this revelation suggests he is recounting a difficult memory with practiced composure.",
+    "summary_reasoning": "Painful personal content, steady voice, stoic expression."
+  },
+  {
+    "timestamp": 32.933,
+    "emotion": "vulnerable",
+    "detailed_reasoning": "The speaker reveals his father's occupation was a \"pimp.\" He delivers this shocking information in a very calm, factual tone, looking down slightly before saying the word. This contrast between the shocking content and his understated delivery creates a sense of vulnerability, as if he is laying bare a difficult truth without any emotional armor.",
+    "summary_reasoning": "Shocking content, calm delivery, downward glance."
+  },
+  {
+    "timestamp": 35.76,
+    "emotion": "empathetic",
+    "detailed_reasoning": "The speaker's tone softens as he qualifies his parents' actions, stating they were \"doing the best that they could.\" This shift from simply stating facts to offering an explanation shows empathy and understanding for his parents' difficult circumstances, changing the emotional tone from pure vulnerability to one of compassion.",
+    "summary_reasoning": "Softer tone, compassionate words."
+  },
+  {
+    "timestamp": 43.798,
+    "emotion": "sincere",
+    "detailed_reasoning": "The speaker's voice becomes distinctly warmer and more heartfelt as he states, \"I knew that my parents loved me to pieces, and I loved them to pieces.\" His direct gaze and the genuine emotion in his voice convey deep sincerity and love, creating a powerful contrast with the hardships he just described.",
+    "summary_reasoning": "Warm tone, heartfelt words, direct gaze."
+  },
+  {
+    "timestamp": 50.654,
+    "emotion": "calm",
+    "detailed_reasoning": "After the emotional peak of declaring his love for his parents, the speaker's tone returns to a more neutral, narrative style. He describes moving to the Acorn Housing Projects. This shift back to factual storytelling brings the emotional intensity down, concluding the segment on a calm, descriptive note.",
+    "summary_reasoning": "Neutral tone, factual narrative."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 3.49,
+    "emotion": "sad",
+    "detailed_reasoning": "The scene opens with somber, melancholic music. The character is shown in a dark, desolate setting. As the camera zooms in, her makeup is visibly smeared, suggesting she has been crying. Her facial expression is downcast and weary. Her voice, when she begins to speak, is low, slow, and tired. All of these multimodal cues (audio, visual, and vocal) combine to establish a clear initial emotion of sadness and emotional exhaustion.",
+    "summary_reasoning": "Somber music, smeared makeup, weary expression, slow tired voice."
+  },
+  {
+    "timestamp": 13.101,
+    "emotion": "anguished",
+    "detailed_reasoning": "The character reveals a deeply painful fact: 'My nemesis is my real mother.' The content of the words is shocking. Her vocal delivery is filled with pain, and she uses long, heavy pauses that convey the immense weight of this revelation. Her facial expression shows deep sorrow, and her eyes appear to be welling up with tears, indicating a shift from general sadness to a more acute state of anguish.",
+    "summary_reasoning": "Painful words, sorrowful face, pained voice, heavy pauses."
+  },
+  {
+    "timestamp": 19.629,
+    "emotion": "grief-stricken",
+    "detailed_reasoning": "She delivers the even more devastating line, 'And she killed my other mother.' Her voice is audibly strained and on the verge of breaking. Visually, her facial expression transforms into one of raw grief and shock, her eyes wide with pain. The tragic nature of the words, combined with the extreme emotionality in her voice and face, points to her being completely grief-stricken.",
+    "summary_reasoning": "Tragic words, strained voice, pained facial expression."
+  },
+  {
+    "timestamp": 27.418,
+    "emotion": "bitter",
+    "detailed_reasoning": "There is a distinct shift in her demeanor and tone. As she says, 'I guess you were always scared... that I'd be a psycho,' her expression changes from pure grief to a cynical, mocking half-smile. Her tone is no longer just sad but becomes sharp with a new, bitter understanding of her past. This indicates she is processing her grief by lashing out with bitterness.",
+    "summary_reasoning": "Bitter words, cynical expression, mocking tone."
+  },
+  {
+    "timestamp": 42.707,
+    "emotion": "cynical",
+    "detailed_reasoning": "Continuing her bitter realization, she mockingly quotes past advice: 'tone it down, try and fit in stuff.' Her voice is laced with sarcasm, and her facial expression hardens into one of grim, cynical acceptance. She now sees her entire upbringing through a new, painful, and untrusting lens. The emotion has evolved from a flare of bitterness to a more settled, cynical worldview.",
+    "summary_reasoning": "Sarcastic tone, grim acceptance, mocking quotes."
+  },
+  {
+    "timestamp": 49.576,
+    "emotion": "contemptuous",
+    "detailed_reasoning": "In her final statement, 'Love me into shape, I suppose, was the plan,' her voice drips with sarcasm and disdain. She sneers as she speaks, and her eyes show a clear disgust for the 'plan' she's describing. The word 'love' is spoken with particular scorn, showing her complete contempt for the disingenuousness she now perceives in her past.",
+    "summary_reasoning": "Sarcastic tone, sneer, scornful delivery."
+  }
+]

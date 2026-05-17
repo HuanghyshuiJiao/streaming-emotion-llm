@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his story with a calm and even vocal tone. His facial expression is neutral as he sets the scene, indicating a relaxed, narrative state.",
+    "summary_reasoning": "Calm tone, neutral expression."
+  },
+  {
+    "timestamp": 9.985,
+    "emotion": "amused",
+    "detailed_reasoning": "When saying the phrase 'just about killed Theo,' the speaker's tone becomes more playful and conspiratorial. A subtle smile appears on his face, and his eyes widen slightly, suggesting he finds this part of the story humorous and is enjoying the telling of it.",
+    "summary_reasoning": "Playful tone, slight smile."
+  },
+  {
+    "timestamp": 12.308,
+    "emotion": "serious",
+    "detailed_reasoning": "The amusement fades as the speaker starts explaining the context of the story. His tone becomes more factual and serious, and his eyebrows furrow slightly, indicating a shift from telling a funny anecdote to providing important background information.",
+    "summary_reasoning": "Factual tone, furrowed eyebrows."
+  },
+  {
+    "timestamp": 20.781,
+    "emotion": "annoyed",
+    "detailed_reasoning": "The speaker begins to impersonate his friend, Theo. His vocal tone becomes more clipped and frustrated to match the dialogue 'pissing me off.' His facial expression also becomes more tense, effectively conveying the annoyance of the character in his story.",
+    "summary_reasoning": "Impersonating character, tense voice, frustrated expression."
+  },
+  {
+    "timestamp": 25.688,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker shifts from impersonating his annoyed friend back to his own perspective. His voice becomes calm and measured as he recounts his own words in the story. His facial muscles relax, showing a return to his baseline narrative state.",
+    "summary_reasoning": "Relaxed face, measured tone."
+  },
+  {
+    "timestamp": 29.546,
+    "emotion": "intrigued",
+    "detailed_reasoning": "He again impersonates Theo, but this time with a tone of sudden realization ('oh, yo, you're right.'). His eyes look up and to the side, a common gesture for recalling a specific moment, and his delivery is lighter, showing his interest in this turning point of the story.",
+    "summary_reasoning": "Impersonating character, tone of realization, upward glance."
+  },
+  {
+    "timestamp": 35.939,
+    "emotion": "tense",
+    "detailed_reasoning": "As he describes the argument starting, his tone gains a slight edge and his pace quickens. His eyes widen as he says the word 'argue,' signaling a shift in the story toward conflict and building tension.",
+    "summary_reasoning": "Tense tone, widened eyes."
+  },
+  {
+    "timestamp": 38.264,
+    "emotion": "dramatic",
+    "detailed_reasoning": "To emphasize the escalating conflict, the speaker's vocal delivery becomes louder and more intense on the words 'louder and louder.' His facial expression matches this intensity, making the narrative more dramatic and engaging.",
+    "summary_reasoning": "Increased vocal volume, intense expression."
+  },
+  {
+    "timestamp": 41.43,
+    "emotion": "detached",
+    "detailed_reasoning": "After dramatically describing the argument, there is a sharp drop in his vocal energy and his tone becomes flat. He is verbally and non-verbally distancing himself from the conflict in the story, creating a sense of detachment.",
+    "summary_reasoning": "Drop in vocal energy, flat tone."
+  },
+  {
+    "timestamp": 52.932,
+    "emotion": "suspenseful",
+    "detailed_reasoning": "After a long pause where the speaker gathers his thoughts, he re-engages with a lower, slower vocal tone. His eyes are wide and fixed, building suspense as he prepares to deliver the climax of the story.",
+    "summary_reasoning": "Long pause, low slow tone, wide eyes."
+  },
+  {
+    "timestamp": 55.858,
+    "emotion": "shocked",
+    "detailed_reasoning": "The speaker's voice suddenly becomes loud and high-pitched as he says 'screams,' mimicking the sound. His eyes are wide and his facial expression is very animated, conveying the shock and abruptness of the event he is describing.",
+    "summary_reasoning": "Loud high-pitched voice, animated expression."
+  }
+]

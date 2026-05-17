@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 3.114,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins with a serious and reflective tone. His facial expression is neutral but focused, and his hand gestures are deliberate as he poses a rhetorical question. This sets a contemplative mood for the story he is about to tell.",
+    "summary_reasoning": "Reflective tone, focused expression, deliberate gestures."
+  },
+  {
+    "timestamp": 6.157,
+    "emotion": "urgent",
+    "detailed_reasoning": "The speaker's pace of speech accelerates as he lists a series of rapid actions ('ran out of my office, ran past Sharon, jumped into my car'). This, combined with his slightly wider eyes and more animated gestures, conveys a sense of urgency and panic.",
+    "summary_reasoning": "Fast-paced speech, wider eyes, animated gestures."
+  },
+  {
+    "timestamp": 12.904,
+    "emotion": "vulnerable",
+    "detailed_reasoning": "The speaker's tone softens and becomes more introspective when he describes talking to a 'God I did not know.' His facial expression becomes more earnest, and his gaze shifts slightly, indicating a moment of vulnerability and uncertainty.",
+    "summary_reasoning": "Softened tone, earnest expression, introspective."
+  },
+  {
+    "timestamp": 18.689,
+    "emotion": "desperate",
+    "detailed_reasoning": "The speaker's voice becomes louder and more strained as he recounts his simple, direct prayer: 'God, help.' His eyes widen, and his facial expression is one of raw appeal, clearly communicating a feeling of desperation and helplessness.",
+    "summary_reasoning": "Louder strained voice, wide eyes, pleading expression."
+  },
+  {
+    "timestamp": 26.477,
+    "emotion": "sincere",
+    "detailed_reasoning": "After the moment of desperation, his tone shifts to one of quiet sincerity. He slows his speech and makes direct eye contact, emphasizing the honesty of that moment. His expression is open and candid, reinforcing the feeling of sincerity.",
+    "summary_reasoning": "Slow speech, direct eye contact, candid expression."
+  },
+  {
+    "timestamp": 35.75,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker's tone drops, and his expression becomes heavy and sad as he contrasts the fine outward appearance of the house with the reality that his 'mom was dying.' The shift in vocal tone and facial expression conveys a deep sense of somberness and gravity.",
+    "summary_reasoning": "Lowered tone, sad expression, grave topic."
+  },
+  {
+    "timestamp": 44.185,
+    "emotion": "contemplative",
+    "detailed_reasoning": "He transitions from his personal story to a broader reflection on teenagers. His tone becomes more measured and contemplative, and he gestures thoughtfully. He poses a rhetorical question, inviting the audience to consider the hidden struggles of others, which shifts the mood to one of thoughtful reflection.",
+    "summary_reasoning": "Measured tone, thoughtful gestures, rhetorical question."
+  },
+  {
+    "timestamp": 50.64,
+    "emotion": "pained",
+    "detailed_reasoning": "The speaker's voice becomes softer and carries a pained quality as he describes his mother being 'barely alive.' His facial expression reflects this pain, with a slight furrowing of his brow and a somber set to his mouth. The description of her physical state creates a strong sense of pathos.",
+    "summary_reasoning": "Soft, pained voice, somber facial expression."
+  },
+  {
+    "timestamp": 56.534,
+    "emotion": "determined",
+    "detailed_reasoning": "As he describes taking his mother to the hospital, his narration becomes factual and his pace picks up slightly. His expression is focused and determined, reflecting his single-minded purpose in that moment to get her help. The emotion has shifted from pain to determined action.",
+    "summary_reasoning": "Factual tone, focused expression, action-oriented words."
+  },
+  {
+    "timestamp": 58.827,
+    "emotion": "anticipatory",
+    "detailed_reasoning": "The clip ends with the speaker pausing and looking to the side, as if recalling a significant moment. His expression is one of anticipation, leaving the audience in suspense about what his mother said or did next. The held gaze and slight parting of his lips create a feeling of anticipation for the rest of the story.",
+    "summary_reasoning": "Paused speech, held gaze, suspenseful expression."
+  }
+]

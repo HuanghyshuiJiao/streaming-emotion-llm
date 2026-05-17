@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1.633,
+    "emotion": "cynical",
+    "detailed_reasoning": "The speaker starts with a common misconception people have about him. His tone is slightly dismissive, and he looks down at his glass with a small, mirthless smile, suggesting a cynical attitude towards others' perceptions of his drinking.",
+    "summary_reasoning": "Dismissive tone, mirthless smile."
+  },
+  {
+    "timestamp": 8.644,
+    "emotion": "pained",
+    "detailed_reasoning": "After denying he drinks for fun, his voice becomes softer and more melancholic. He makes direct eye contact with the camera, and his expression is one of deep sadness and vulnerability as he explains he drinks to escape himself. The shift from a cynical to a pained tone is clear.",
+    "summary_reasoning": "Soft, melancholic voice, sad expression, direct eye contact."
+  },
+  {
+    "timestamp": 12.55,
+    "emotion": "haunted",
+    "detailed_reasoning": "The speaker's gaze intensifies and becomes fixed on the glass. He describes sobriety as the place where memories live, and his tone and focused, pained expression suggest he is being haunted by these memories, which he is trying to escape through alcohol.",
+    "summary_reasoning": "Intense gaze, pained expression, melancholic tone."
+  },
+  {
+    "timestamp": 18.178,
+    "emotion": "sad",
+    "detailed_reasoning": "He specifically recalls a painful memory of someone asking why he \"wasn't enough.\" His eyes look down and to the side, a common cue for recalling a memory, and his facial expression is one of pure sadness and hurt. His voice is soft and filled with sorrow.",
+    "summary_reasoning": "Downward gaze, soft sorrowful voice, pained expression."
+  },
+  {
+    "timestamp": 24.448,
+    "emotion": "regretful",
+    "detailed_reasoning": "Continuing on the theme of painful memories, he states he \"ruined the one good thing\" he had. His voice is low, his expression is somber, and he looks at the glass with a sense of deep regret and self-blame. The emotion shifts from general sadness to a more specific feeling of regret.",
+    "summary_reasoning": "Low voice, somber expression, look of self-blame."
+  },
+  {
+    "timestamp": 29.295,
+    "emotion": "scornful",
+    "detailed_reasoning": "The speaker's tone changes from introspective sadness to one of scorn or dismissal as he mentions people telling him to \"be strong.\" He delivers the line with a slight scoff and a look of contempt, indicating he finds this advice hollow or meaningless.",
+    "summary_reasoning": "Scornful tone, slight scoff, contemptuous look."
+  },
+  {
+    "timestamp": 37.212,
+    "emotion": "despairing",
+    "detailed_reasoning": "He describes a moment of choosing alcohol over suicide. He gestures to his temple as he says \"gun to my head,\" and his expression is one of utter despair and darkness. His voice is grave, and he holds intense, pained eye contact, revealing the depth of his past and present pain. He then brings the glass towards the camera in a toast-like gesture, signifying his choice.",
+    "summary_reasoning": "Gesture to head, despairing expression, grave tone."
+  },
+  {
+    "timestamp": 46.853,
+    "emotion": "resigned",
+    "detailed_reasoning": "After the intense confession, his tone shifts to one of weary resignation. He states he is not the villain or victim, but \"just the drunk.\" His shoulders are slightly slumped, and his facial expression is one of tired acceptance of his identity and situation, devoid of the earlier intense pain or scorn.",
+    "summary_reasoning": "Weary tone, tired expression, slumped posture."
+  },
+  {
+    "timestamp": 54.169,
+    "emotion": "hopeless",
+    "detailed_reasoning": "In his final line, he looks at the almost empty glass and says, \"Tonight, that's all I got left.\" His voice is quiet and filled with a sense of finality and hopelessness. His gaze is fixed on the glass, which represents his only remaining solace, highlighting his complete despair.",
+    "summary_reasoning": "Quiet voice, fixed gaze on glass, final tone."
+  }
+]

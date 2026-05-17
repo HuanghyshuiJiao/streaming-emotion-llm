@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his presentation by looking directly at the camera with a neutral facial expression. His vocal tone is steady, clear, and welcoming, establishing a calm and informative atmosphere as he introduces his show.",
+    "summary_reasoning": "Steady voice, neutral face, direct gaze."
+  },
+  {
+    "timestamp": 15.586,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker's emotion shifts as he begins to set up the joke for his performance. He mentions that the piece is a \"comedic dialogue\" and that he has invited \"celebrity friends.\" His tone becomes lighter and more playful, his eyebrows raise slightly, and a subtle smile appears, indicating his amusement and signaling the humorous nature of the upcoming reading.",
+    "summary_reasoning": "Playful tone, raised eyebrows, subtle smile."
+  },
+  {
+    "timestamp": 26.617,
+    "emotion": "performative",
+    "detailed_reasoning": "This marks a major shift as the speaker begins his impersonation. An on-screen caption identifies the character as \"IAN MCKELLEN.\" His voice drops to a deeper, more resonant, and theatrical register, and his facial expressions become grand and dramatic. He is no longer speaking as himself but has fully adopted a new persona for the performance.",
+    "summary_reasoning": "Deep theatrical voice, dramatic facial expressions, on-screen text."
+  }
+]

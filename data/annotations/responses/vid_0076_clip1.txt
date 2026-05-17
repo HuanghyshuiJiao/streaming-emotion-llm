@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 9.042,
+    "emotion": "amused",
+    "detailed_reasoning": "The video starts with the woman already smiling broadly and chuckling to herself. Her first word, \"Sure,\" is delivered with a light, airy tone, and her facial expression is one of clear amusement, suggesting she finds the preceding, unheard conversation funny.",
+    "summary_reasoning": "Broad smile, chuckling, light tone."
+  },
+  {
+    "timestamp": 16.03,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "While still smiling, her delivery of \"I'd love to be friends\" is theatrically drawn out, especially the word \"friends.\" Her smile becomes more fixed and less genuine, and her eyes seem to convey a mocking tone, indicating that her words are not sincere and are meant sarcastically.",
+    "summary_reasoning": "Theatrical tone, fixed smile, mocking eyes."
+  },
+  {
+    "timestamp": 21.597,
+    "emotion": "cynical",
+    "detailed_reasoning": "Her smile fades slightly, and her expression becomes more deadpan and matter-of-fact. The tone of her voice when saying \"That's the evolution of most relationships\" is knowing and slightly world-weary, suggesting a cynical view on the topic.",
+    "summary_reasoning": "Faded smile, deadpan expression, knowing tone."
+  },
+  {
+    "timestamp": 28.485,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "Her smile returns, but it's more of a smirk. She delivers the line \"You have a fling and then boom. Friends\" with a punchy and dismissive rhythm. The sharp emphasis on \"boom\" and the conclusive, almost triumphant way she says \"Friends\" reinforces her sarcastic and cynical viewpoint.",
+    "summary_reasoning": "Smirk, dismissive tone, sharp emphasis."
+  },
+  {
+    "timestamp": 38.214,
+    "emotion": "contemptuous",
+    "detailed_reasoning": "Her tone becomes overly sweet and insincere when she says, \"I'm sure that's how the best friendships... started.\" This, combined with a slight eye-roll and a facial expression that borders on a grimace, conveys a strong sense of contempt or disdain for the idea she's describing.",
+    "summary_reasoning": "Insincere sweet tone, slight eye-roll, grimace."
+  }
+]

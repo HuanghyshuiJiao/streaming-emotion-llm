@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 4.955,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker begins with a slow, low-pitched, and melancholic tone. His facial expression is serious and downcast, with the dramatic, shadowy lighting emphasizing a feeling of gravity and sadness. The words themselves, describing the burdens of a \"weary life,\" contribute to this somber mood.",
+    "summary_reasoning": "Slow low-pitched tone, serious expression, melancholic words."
+  },
+  {
+    "timestamp": 9.579,
+    "emotion": "fearful",
+    "detailed_reasoning": "The speaker's tone shifts as he mentions the \"dread of something after death.\" His vocal delivery becomes slightly more tense, and his eyes seem to widen subtly, conveying a sense of apprehension and fear. The focus of the text moves from the pain of life to the fear of the unknown in death.",
+    "summary_reasoning": "Tense tone, widened eyes, words about dread."
+  },
+  {
+    "timestamp": 16.365,
+    "emotion": "mysterious",
+    "detailed_reasoning": "When describing the afterlife as an \"undiscovered country from whose born no traveler returns,\" the speaker's voice drops to a more hushed and conspiratorial tone. This delivery, combined with the mysterious and evocative language, creates a sense of awe mixed with the underlying fear.",
+    "summary_reasoning": "Hushed tone, evocative words."
+  },
+  {
+    "timestamp": 18.728,
+    "emotion": "conflicted",
+    "detailed_reasoning": "The phrase \"puzzles the will\" is delivered with a deliberate pause and a slightly furrowed brow. The speaker's expression and slow pace suggest a sense of internal conflict and confusion, as if grappling with an unsolvable problem.",
+    "summary_reasoning": "Slow pace, furrowed brow, words about being puzzled."
+  },
+  {
+    "timestamp": 29.397,
+    "emotion": "resigned",
+    "detailed_reasoning": "The speaker's tone shifts to one of weary acceptance. He explains why people choose to \"bear those ills we have,\" and his voice loses some of its earlier tension, replaced by a sense of resignation to this difficult reality. His facial expression remains serious but seems less actively fearful.",
+    "summary_reasoning": "Weary tone, less tense expression, words of acceptance."
+  },
+  {
+    "timestamp": 40.521,
+    "emotion": "solemn",
+    "detailed_reasoning": "The speaker delivers the line \"conscience does make cowards of us all\" with a profound sense of gravity. His voice is firm and declarative, and he makes direct eye contact with the viewer. The emotion is one of solemn, sad realization rather than anger or despair.",
+    "summary_reasoning": "Grave tone, firm voice, direct eye contact."
+  },
+  {
+    "timestamp": 50.052,
+    "emotion": "despondent",
+    "detailed_reasoning": "In the final lines, the speaker's energy seems to fade. His voice becomes softer and has a melancholic, almost defeated quality as he talks about resolution being \"sickled over with the pale cast of thought.\" This conveys a sense of despondency and the ultimate triumph of fear over action.",
+    "summary_reasoning": "Soft, defeated tone, melancholic words."
+  }
+]

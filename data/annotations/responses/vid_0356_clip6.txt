@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 3.516,
+    "emotion": "critical",
+    "detailed_reasoning": "The speaker opens with a rhetorical question, challenging the starting point of a hypothetical story. His tone is questioning and slightly exasperated, and his facial expression is serious with a slight frown, indicating a critical stance on a common storytelling mistake.",
+    "summary_reasoning": "Critical tone, rhetorical question, serious expression."
+  },
+  {
+    "timestamp": 6.24,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker directly states, \"I have no idea what your story's about.\" His tone is blunt and expresses a clear sense of confusion and impatience, mirroring the frustration an audience would feel. His expression remains serious, reinforcing this feeling.",
+    "summary_reasoning": "Blunt tone, direct statement of confusion."
+  },
+  {
+    "timestamp": 11.128,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "The speaker uses a highly specific and exaggerated example of a grandmother from Bavaria in the 1830s. His tone shifts to be more illustrative but holds an undercurrent of mockery for overly long and irrelevant backstories. This humorous exaggeration serves a critical, sarcastic point.",
+    "summary_reasoning": "Exaggerated example, mocking tone."
+  },
+  {
+    "timestamp": 17.277,
+    "emotion": "instructive",
+    "detailed_reasoning": "After criticizing what not to do, the speaker's tone shifts significantly. It becomes calmer, slower, and more deliberate as he says, \"So let's begin at our beginning.\" This marks a transition from critique to providing clear, constructive advice.",
+    "summary_reasoning": "Calm tone, slower pace, giving advice."
+  },
+  {
+    "timestamp": 24.228,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker describes the ideal end of a story, stating that storytellers \"have a great closing line.\" His vocal tone is smooth and assured, and his hand gestures are purposeful, conveying confidence in the principle he is explaining.",
+    "summary_reasoning": "Smooth tone, assured delivery, purposeful gestures."
+  },
+  {
+    "timestamp": 33.266,
+    "emotion": "humorous",
+    "detailed_reasoning": "The speaker makes a pop culture reference to George Costanza from 'Seinfeld,' saying storytellers should have a moment of \"I'm out of here. Thanks, guys.\" He acts this out with a broad, dismissive gesture and a slight smile, which elicits laughter from the audience, clearly marking the moment as humorous.",
+    "summary_reasoning": "Pop culture reference, comedic gesture, smile."
+  },
+  {
+    "timestamp": 40.539,
+    "emotion": "disapproving",
+    "detailed_reasoning": "The speaker's tone shifts back to being critical as he describes what storytellers often do wrong. He adopts a slightly mocking, sing-song voice for the phrase, \"well, I guess the moral of the story is...\" This vocal choice, combined with a more serious expression, conveys his disapproval of this storytelling habit.",
+    "summary_reasoning": "Mocking tone, critical words, serious expression."
+  },
+  {
+    "timestamp": 46.911,
+    "emotion": "earnest",
+    "detailed_reasoning": "Transitioning back to giving advice, the speaker's tone becomes direct and sincere. He says, \"You've got to trust that your audience...\" emphasizing his words with pointed hand gestures. His serious facial expression and direct eye contact with the audience underscore the earnestness of his plea.",
+    "summary_reasoning": "Direct tone, sincere words, pointed gestures."
+  },
+  {
+    "timestamp": 54.104,
+    "emotion": "passionate",
+    "detailed_reasoning": "Delivering his final point, the speaker's voice becomes firmer and more resolute. He emphatically states, \"Don't rob them of that by telling them the moral of the story.\" The combination of his strong vocal delivery and determined expression shows his passion for letting the audience find their own meaning.",
+    "summary_reasoning": "Firm voice, resolute expression, strong concluding statement."
+  }
+]

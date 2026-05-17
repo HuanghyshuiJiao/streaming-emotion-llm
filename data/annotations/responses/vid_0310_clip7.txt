@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 1.582,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins with a firm and direct tone, looking straight at the camera. His facial expression is neutral to slightly stern, with his eyebrows a little furrowed. This establishes a serious and authoritative mood as he starts his argument.",
+    "summary_reasoning": "Firm tone, direct gaze, stern expression."
+  },
+  {
+    "timestamp": 5.785,
+    "emotion": "frustrated",
+    "detailed_reasoning": "When describing the act of complaining that the business is 'too hard,' the speaker's tone shifts to one of slight mockery and frustration. His pitch goes up slightly on the word 'hard,' and he shakes his head subtly, indicating his disapproval of this mindset.",
+    "summary_reasoning": "Mocking tone, head shake, pitch change."
+  },
+  {
+    "timestamp": 10.111,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker's tone becomes more factual and less emotional as he provides a history of self-tapes. He uses a steady pace and neutral expression to deliver information, signaling a shift from expressing an opinion to stating facts.",
+    "summary_reasoning": "Factual tone, steady pace, neutral expression."
+  },
+  {
+    "timestamp": 18.762,
+    "emotion": "assertive",
+    "detailed_reasoning": "The speaker's tone becomes more direct and assertive as he addresses the audience with 'So if you don't have it figured out by now...'. He leans slightly forward, and his vocal projection increases, emphasizing the importance of his point and challenging the viewer.",
+    "summary_reasoning": "Direct tone, forward lean, increased volume."
+  },
+  {
+    "timestamp": 27.032,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker transitions into a personal anecdote. His pace slows, his tone becomes more conversational and less intense. His facial expression softens as he recounts his recent experience, creating a calmer, more narrative moment.",
+    "summary_reasoning": "Slower pace, conversational tone, softer expression."
+  },
+  {
+    "timestamp": 35.732,
+    "emotion": "emphatic",
+    "detailed_reasoning": "When quoting what he was told, the speaker emphasizes the phrase 'a boatload of auditions' by raising his voice, widening his eyes, and using a hand gesture for effect. This highlights the large quantity and stresses the importance of this information.",
+    "summary_reasoning": "Raised voice, wide eyes, hand gesture."
+  },
+  {
+    "timestamp": 40.305,
+    "emotion": "explanatory",
+    "detailed_reasoning": "The speaker's tone shifts to be more explanatory and conspiratorial, as if sharing an inside tip. He says 'Listen, it saves them money' with a more hushed but clear voice, leaning in slightly to draw the viewer into his reasoning.",
+    "summary_reasoning": "Conspiratorial tone, leaning forward, direct address."
+  },
+  {
+    "timestamp": 42.611,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "The speaker's tone becomes sarcastic and slightly humorous when he uses the phrase '140 knuckleheads traipsing through their office.' His slight smile and dismissive tone indicate he is using hyperbole to make a point about the inconvenience of in-person auditions.",
+    "summary_reasoning": "Sarcastic tone, slight smile, dismissive phrasing."
+  },
+  {
+    "timestamp": 49.63,
+    "emotion": "urgent",
+    "detailed_reasoning": "The speaker's tone shifts to one of urgency and direct advice. He says 'Send your self-tapes in early' with a faster pace and a more commanding tone. His direct eye contact reinforces that he is giving a crucial instruction.",
+    "summary_reasoning": "Commanding tone, faster pace, direct eye contact."
+  },
+  {
+    "timestamp": 57.772,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's demeanor becomes very serious as he sets up his final point. He pauses, and his voice drops in pitch on the words 'If your tape is bad,'. His expression is grave, with fixed eye contact, creating suspense and signaling a warning.",
+    "summary_reasoning": "Lowered pitch, grave expression, deliberate pause."
+  }
+]

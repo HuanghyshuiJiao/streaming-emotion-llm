@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 2.293,
+    "emotion": "suspenseful",
+    "detailed_reasoning": "The speaker begins the story with a low, slow, and drawn-out vocal tone. Her body sways slowly and her hand gestures are wide and deliberate, creating a sense of foreboding and suspense as she describes the trees groaning.",
+    "summary_reasoning": "Low slow voice, deliberate swaying gestures."
+  },
+  {
+    "timestamp": 10.783,
+    "emotion": "dramatic",
+    "detailed_reasoning": "As Baba Yaga is introduced, the speaker's gestures become larger and more dramatic. She extends her arms wide and then turns her body to mimic the character flying in, adding a theatrical and impactful element to the narration. Her voice remains low and suspenseful.",
+    "summary_reasoning": "Large arm gestures, dramatic body turn."
+  },
+  {
+    "timestamp": 14.647,
+    "emotion": "fearful",
+    "detailed_reasoning": "The speaker's demeanor shifts to portray the character hiding. She physically crouches behind a chair, peering over it with wide eyes. This action, combined with the context of hiding from a witch, clearly depicts fear.",
+    "summary_reasoning": "Crouching, hiding, wide eyes."
+  },
+  {
+    "timestamp": 22.175,
+    "emotion": "menacing",
+    "detailed_reasoning": "To portray Baba Yaga, the speaker stands up and adopts a menacing persona. She puts her finger to her nose, mimics sniffing the air with an exaggerated, grotesque facial expression, and speaks in a raspy, witch-like voice. This combination of vocal and visual cues creates a threatening and sinister character.",
+    "summary_reasoning": "Raspy voice, exaggerated sniffing, grotesque face."
+  },
+  {
+    "timestamp": 36.067,
+    "emotion": "timid",
+    "detailed_reasoning": "The speaker's posture changes completely to portray the frightened child. She hunches her shoulders, looks down, and clasps her hands in front of her. Her voice becomes soft and higher-pitched, conveying timidity and fear in the presence of the witch.",
+    "summary_reasoning": "Hunched posture, soft high-pitched voice."
+  },
+  {
+    "timestamp": 48.022,
+    "emotion": "commanding",
+    "detailed_reasoning": "Switching back to Baba Yaga, the speaker's voice becomes harsh, loud, and demanding. She stands straight again, abandoning the timid posture. The tone clearly indicates a command and a threat, portraying a powerful and cruel character.",
+    "summary_reasoning": "Harsh, loud, demanding voice."
+  },
+  {
+    "timestamp": 58.995,
+    "emotion": "imperious",
+    "detailed_reasoning": "In the final line, portraying the witch again, the speaker leans back in the chair, stretching out her legs in a display of dominance and entitlement. This relaxed yet commanding posture reinforces the witch's imperious and demanding nature as she orders the child around.",
+    "summary_reasoning": "Dominant posture, leaning back, legs stretched."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 4.056,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker sets a very somber scene. His vocal tone is low and measured, his pace is slow and deliberate, and his facial expression is serious and stern. He uses a controlled hand gesture to emphasize the gravity of the words, creating a serious and impactful opening.",
+    "summary_reasoning": "Low tone, slow pace, serious expression."
+  },
+  {
+    "timestamp": 8.321,
+    "emotion": "solemn",
+    "detailed_reasoning": "When quoting his mother, the speaker's voice softens slightly but remains firm and slow. He looks down as if deeply recalling a poignant and heavy memory. The content of the quote is emotionally charged, and his delivery reflects the solemnity and life-changing weight of that moment.",
+    "summary_reasoning": "Soft firm voice, downward gaze, recalling memory."
+  },
+  {
+    "timestamp": 16.29,
+    "emotion": "pensive",
+    "detailed_reasoning": "The speaker delivers the line about his father waiting for him and then takes a very long, dramatic pause. During this pause, he looks down at the floor, his face filled with a contemplative and serious expression, as if he is reliving the anxiety and uncertainty of that moment.",
+    "summary_reasoning": "Long pause, downward gaze, contemplative expression."
+  },
+  {
+    "timestamp": 20.955,
+    "emotion": "amused",
+    "detailed_reasoning": "There is a distinct shift in mood. The speaker's vocal tone becomes lighter and more conversational, his pace quickens, and a slight smile appears on his face. This transition from the previous tension to a more relaxed and positive demeanor indicates amusement as he introduces a new, lighter aspect of his father.",
+    "summary_reasoning": "Lighter tone, quickened pace, slight smile."
+  },
+  {
+    "timestamp": 28.143,
+    "emotion": "humorous",
+    "detailed_reasoning": "After engaging the audience by asking them to raise their hands, the speaker delivers the punchline with a wide smile and animated, expansive gestures. His tone is playful and boastful, conveying clear humor and enjoyment, which is designed to make the audience laugh.",
+    "summary_reasoning": "Playful tone, wide smile, expansive gestures."
+  },
+  {
+    "timestamp": 33.838,
+    "emotion": "reassuring",
+    "detailed_reasoning": "The speaker's tone shifts to imitate his father's voice, becoming calm, gentle, and reassuring. His facial expression softens from the previous broad humor into a gentle, knowing look, effectively conveying the comforting nature of his father's words.",
+    "summary_reasoning": "Calm gentle tone, soft facial expression."
+  },
+  {
+    "timestamp": 40.419,
+    "emotion": "humorous",
+    "detailed_reasoning": "The speaker delivers the punchline with perfect comedic timing, causing the audience to erupt in laughter. His facial expression is mischievous, and his tone is light and teasing. The humor lies in the unexpected joke his father makes, deflecting blame onto the mother's side of the family.",
+    "summary_reasoning": "Comedic timing, mischievous expression, teasing tone."
+  },
+  {
+    "timestamp": 46.377,
+    "emotion": "determined",
+    "detailed_reasoning": "Following the joke, the speaker's tone, still mimicking his father, becomes firm, direct, and serious. The humor evaporates and is replaced by a purposeful command. His facial expression becomes more stern, reflecting the shift in the conversation from joking to a serious instruction.",
+    "summary_reasoning": "Firm tone, serious expression, direct command."
+  },
+  {
+    "timestamp": 51.955,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker's voice returns to a neutral, narrative tone. He is no longer playing a character but is simply recounting the events that followed. His expression is neutral, and his body language is relaxed as he walks across the stage, calmly setting the scene for the next part of his story.",
+    "summary_reasoning": "Neutral narrative tone, relaxed body language."
+  }
+]

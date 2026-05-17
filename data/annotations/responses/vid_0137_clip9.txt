@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 2.154,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his speech with a calm and measured tone. His facial expression is neutral, and his posture is relaxed as he starts to tell a story. He is setting the stage for his narrative in a composed manner.",
+    "summary_reasoning": "Calm tone, neutral expression, relaxed posture."
+  },
+  {
+    "timestamp": 8.262,
+    "emotion": "assertive",
+    "detailed_reasoning": "Delivering the punchline of his opening anecdote, the speaker's tone shifts from calm to firm and assertive. He raises his finger for emphasis, and his facial expression becomes more intense to convey the finality of his statement in the story.",
+    "summary_reasoning": "Firm tone, raised finger, intense expression."
+  },
+  {
+    "timestamp": 16.373,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker's tone softens and becomes more lighthearted as he recalls how he used to tell the story. He mentions 'laughing,' and a slight, reminiscent smile appears on his face, indicating he is reflecting on a past self with some amusement.",
+    "summary_reasoning": "Soft tone, slight smile, recalling past."
+  },
+  {
+    "timestamp": 20.338,
+    "emotion": "somber",
+    "detailed_reasoning": "A significant shift occurs here. The speaker's pace slows, his voice drops in pitch, and the slight smile vanishes, replaced by a serious and pensive expression. The use of the words 'But I need to admit here' signals a transition to a more serious and vulnerable confession.",
+    "summary_reasoning": "Slower pace, lower pitch, serious expression."
+  },
+  {
+    "timestamp": 23.643,
+    "emotion": "vulnerable",
+    "detailed_reasoning": "The speaker's emotion deepens as he admits the experience 'terrified' him. His voice carries more weight, and his eyes are fixed and wide, conveying a sense of genuine fear and vulnerability. The direct and powerful word choice enhances this feeling.",
+    "summary_reasoning": "Heavy tone, wide eyes, powerful word choice."
+  },
+  {
+    "timestamp": 27.388,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker's tone becomes melancholic as he discusses his father's lifelong financial struggles. His facial expression is pained, and he looks down slightly, reflecting the sadness of the memory and the fear it instilled in him.",
+    "summary_reasoning": "Melancholic tone, pained expression, downward gaze."
+  },
+  {
+    "timestamp": 34.261,
+    "emotion": "determined",
+    "detailed_reasoning": "The word 'But' marks another turning point. The speaker's energy level rises, his volume increases, and his tone shifts from sad to forceful. He begins to use more deliberate hand gestures, signaling a change from reflection to a statement of resolve and empowerment.",
+    "summary_reasoning": "Increased energy, louder volume, forceful tone."
+  },
+  {
+    "timestamp": 39.231,
+    "emotion": "impassioned",
+    "detailed_reasoning": "Building on his newfound determination, the speaker's delivery becomes impassioned. His voice is strong and resonant as he says the fear 'fueled' and 'drove' him. His fist is subtly clenched, and his expression is one of intense conviction, showing how he turned a negative into a positive.",
+    "summary_reasoning": "Strong voice, clenched fist, intense conviction."
+  },
+  {
+    "timestamp": 45.003,
+    "emotion": "proud",
+    "detailed_reasoning": "The speaker connects his personal story to the collective experience of the Michigan football team. His tone swells with pride and passion, especially on the phrase 'Michigan versus everybody.' He is now speaking with a powerful, rallying cry that engages the entire audience.",
+    "summary_reasoning": "Passionate tone, rallying cry, engaging audience."
+  },
+  {
+    "timestamp": 48.931,
+    "emotion": "defiant",
+    "detailed_reasoning": "Describing the adversity the team faced ('lost our coach'), the speaker's proud tone gains a defiant edge. His expression is fiercely determined, and his hand gestures are sharp, conveying a spirit of resilience and a refusal to be defeated, mirroring his own journey.",
+    "summary_reasoning": "Defiant tone, determined expression, sharp gestures."
+  }
+]

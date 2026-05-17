@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 8.54,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins by telling a story in a calm, narrative tone. His posture is relaxed, his facial expression is neutral, and his hand gestures are minimal and controlled. He is setting the scene for his main point, and his delivery is measured and steady.",
+    "summary_reasoning": "Narrative tone, relaxed posture, neutral expression."
+  },
+  {
+    "timestamp": 17.851,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker transitions from storytelling to defining a concept ('grit'). His tone becomes more assertive and his gestures become more defined, particularly the use of a soft fist to emphasize 'mental toughness'. This indicates a shift to a more passionate and emphatic delivery as he introduces a key theme.",
+    "summary_reasoning": "Assertive tone, emphatic hand gestures."
+  },
+  {
+    "timestamp": 27.321,
+    "emotion": "engaging",
+    "detailed_reasoning": "The speaker uses the phrase 'here's the twist,' a classic rhetorical device to capture attention. He raises his index finger and his eyebrows slightly, and his vocal tone shifts to be more intriguing and forward-leaning. This is a deliberate attempt to engage the audience and create a sense of anticipation.",
+    "summary_reasoning": "Rhetorical question, raised finger, intriguing tone."
+  },
+  {
+    "timestamp": 36.075,
+    "emotion": "authoritative",
+    "detailed_reasoning": "He now introduces the core scientific concept of his talk. His voice is firm and clear, and his posture remains stable. He presents the information as a factual statement ('the most powerful indicator to date is a protein'), establishing his authority on the subject. His delivery is confident and educational.",
+    "summary_reasoning": "Firm tone, factual delivery, stable posture."
+  },
+  {
+    "timestamp": 49.594,
+    "emotion": "passionate",
+    "detailed_reasoning": "To explain the complex concept of BDNF, the speaker uses an analogy, calling it 'fertilizer for your brain.' His hands become much more expressive and open, spreading wide to illustrate the concept of growth and nourishment. His tone is enthusiastic, showing his passion for making the science accessible and understandable.",
+    "summary_reasoning": "Enthusiastic tone, expressive open-hand gestures, analogy."
+  },
+  {
+    "timestamp": 59.063,
+    "emotion": "informative",
+    "detailed_reasoning": "Concluding the explanation of BDNF's function, the speaker's tone is clear and descriptive. His hands are still used to illustrate, but the gestures are more contained and precise as he lists the benefits for neurons. The overall demeanor is that of an expert calmly and clearly conveying complex information.",
+    "summary_reasoning": "Clear tone, descriptive language, precise gestures."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "somber",
+    "detailed_reasoning": "The video begins with a sepia tone, and the speaker's voice is low, slow, and almost a whisper. Her facial expression is serious and her gaze is distant. The topic of an 'apparition' and a 'dream' immediately establishes a mysterious and somber mood.",
+    "summary_reasoning": "Sepia tone, slow whispery voice, serious expression."
+  },
+  {
+    "timestamp": 5.66,
+    "emotion": "conflicted",
+    "detailed_reasoning": "When the speaker says 'betrayed them,' her tone shifts from purely somber to one with more dramatic weight and a hint of pain. Her eyes widen slightly and she makes more direct eye contact, suggesting an internal conflict or the memory of being misunderstood by her family.",
+    "summary_reasoning": "Dramatic tone, pained expression, direct eye contact."
+  },
+  {
+    "timestamp": 9.065,
+    "emotion": "contemplative",
+    "detailed_reasoning": "After a long pause, the speaker delivers the line 'Others had known her too' with a sense of quiet revelation. Her voice is soft and her gaze is downcast, as if she is reflecting on a profound realization. The mood becomes more introspective and mysterious.",
+    "summary_reasoning": "Long pause, quiet tone, downcast gaze, sense of revelation."
+  },
+  {
+    "timestamp": 17.078,
+    "emotion": "grave",
+    "detailed_reasoning": "Following another extended pause, the speaker's demeanor becomes very serious and deliberate as she says 'Mother had a vision.' Her tone is flat and factual, which lends a heavy, grave importance to the statement, indicating the seriousness of the family's connection to these events.",
+    "summary_reasoning": "Long pause, serious expression, deliberate and factual tone."
+  },
+  {
+    "timestamp": 25.24,
+    "emotion": "melancholy",
+    "detailed_reasoning": "The speaker's tone shifts to a narrative, storytelling quality as she begins to describe 'The old Indian woman.' Her voice is low and imbued with a sense of sadness, and her downward gaze suggests she is recounting a sorrowful history.",
+    "summary_reasoning": "Narrative tone, sad voice, downward gaze."
+  },
+  {
+    "timestamp": 37.054,
+    "emotion": "sad",
+    "detailed_reasoning": "The content becomes explicitly tragic as she describes how 'a girl died here.' Her voice becomes heavier and slower, filled with sorrow. Her expression is pained and her head is slightly bowed, conveying a deep sense of sadness for the event she is describing.",
+    "summary_reasoning": "Tragic words, sorrowful voice, pained expression."
+  },
+  {
+    "timestamp": 46.465,
+    "emotion": "grieving",
+    "detailed_reasoning": "The speaker's emotion intensifies as she repeats that 'the girl died.' Her tone is full of pain and finality. Her gaze is distant and unfocused, indicating she is lost in the tragic memory. The repetition of the death shifts the feeling from sadness to active grieving.",
+    "summary_reasoning": "Pained tone, distant gaze, repeating tragic words."
+  },
+  {
+    "timestamp": 55.415,
+    "emotion": "longing",
+    "detailed_reasoning": "In the final sentence, the speaker looks directly at the camera. Her voice becomes a soft, emotional whisper. Her facial expression is one of deep sorrow and desire, conveying a personal and heartfelt wish. The words 'I wish' explicitly state this feeling of longing.",
+    "summary_reasoning": "Direct gaze, soft emotional whisper, sorrowful expression."
+  }
+]

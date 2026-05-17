@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": 0.892,
+    "emotion": "neutral",
+    "detailed_reasoning": "The speaker starts her monologue with a neutral facial expression and a calm, even tone. She introduces her nickname without any strong emotional inflection, setting a baseline for the story.",
+    "summary_reasoning": "Neutral face, calm tone."
+  },
+  {
+    "timestamp": 6.298,
+    "emotion": "amused",
+    "detailed_reasoning": "As she begins to tell the story behind her nickname, a subtle smile appears and her eyes soften. The topic is slightly embarrassing (related to the movie Bambi as a child), but her expression suggests she finds the memory amusing and is comfortable sharing it.",
+    "summary_reasoning": "Subtle smile, soft eyes, telling amusing story."
+  },
+  {
+    "timestamp": 12.345,
+    "emotion": "happy",
+    "detailed_reasoning": "After revealing the embarrassing part of the story, her smile becomes more genuine and pronounced. Her tone shifts to one of clear fondness and happiness as she recalls her love for the character, indicating a positive nostalgic feeling.",
+    "summary_reasoning": "Genuine smile, fond tone, nostalgic words."
+  },
+  {
+    "timestamp": 19.614,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker transitions from the personal anecdote to a broader philosophical statement. Her smile fades, her expression becomes more serious and thoughtful, and her vocal tone becomes more earnest as she imparts a life lesson.",
+    "summary_reasoning": "Smile fades, serious expression, earnest tone."
+  }
+]

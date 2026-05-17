@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "solemn",
+    "detailed_reasoning": "The speaker begins his address by mentioning that two students are receiving posthumous degrees. The topic itself is inherently sad and serious. His vocal tone is measured, slow, and low-pitched, reflecting the gravity of the announcement. The camera shows a wide shot of the large graduation ceremony, emphasizing the formal and public nature of this solemn acknowledgment.",
+    "summary_reasoning": "Somber topic, slow and low-pitched tone."
+  },
+  {
+    "timestamp": 4.377,
+    "emotion": "empathetic",
+    "detailed_reasoning": "The speaker broadens the theme of loss to include the entire audience, stating that many have also lost parents and grandparents. His voice remains soft and his pace is deliberate, creating a tone of shared understanding and compassion. By doing this, he connects with the audience on a universal human experience of grief.",
+    "summary_reasoning": "Acknowledging shared loss, soft and deliberate tone."
+  },
+  {
+    "timestamp": 15.293,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker shifts from a general empathetic statement to a personal one, saying, \"I wish my parents were alive to see my kids today.\" This personal disclosure is delivered with a slightly heavier, more emotional tone, conveying his own personal sense of loss and longing. This moment of vulnerability makes the emotion more acute and personal.",
+    "summary_reasoning": "Personal admission of loss, emotional tone."
+  },
+  {
+    "timestamp": 22.404,
+    "emotion": "reflective",
+    "detailed_reasoning": "After sharing his personal grief, the speaker transitions to a broader life lesson: \"every person you encounter is battling something you can't see.\" The camera now shows a close-up of him, revealing a serious and thoughtful expression. His tone becomes more philosophical and instructive, shifting from personal sadness to a contemplative observation about the human condition.",
+    "summary_reasoning": "Philosophical statement, serious expression, instructive tone."
+  },
+  {
+    "timestamp": 28.33,
+    "emotion": "earnest",
+    "detailed_reasoning": "He offers a \"solution\" to this hidden suffering: empathy. His tone becomes more direct and sincere, and he speaks with a quiet conviction. He is no longer just reflecting but is now advocating for a specific moral stance, and the earnestness in his voice suggests a deep and genuine belief in his message.",
+    "summary_reasoning": "Offering a solution, direct and sincere tone."
+  },
+  {
+    "timestamp": 34.565,
+    "emotion": "hopeful",
+    "detailed_reasoning": "The speaker shares a comforting quote about receiving a hug that puts broken pieces back together. His voice softens and becomes more gentle, matching the warm and reassuring nature of the words. The content of the quote itself is optimistic, and his delivery enhances this feeling, offering a sense of hope and healing to the audience.",
+    "summary_reasoning": "Comforting quote, soft and gentle tone."
+  },
+  {
+    "timestamp": 41.601,
+    "emotion": "inspirational",
+    "detailed_reasoning": "The speaker's energy and volume rise significantly as he makes a direct appeal for more empathy, humility, and decency. He raises his finger for emphasis, and his tone becomes passionate and commanding. The phrase \"unleash your kindness\" is a powerful call to action, clearly intended to inspire the graduates.",
+    "summary_reasoning": "Increased volume and passion, call to action, emphatic gesture."
+  },
+  {
+    "timestamp": 50.803,
+    "emotion": "resolute",
+    "detailed_reasoning": "He acknowledges that his idea might sound \"naive,\" which could undercut his message. However, he immediately follows it with a powerful, determined statement: \"but it's an idea worth fighting for.\" His tone is firm and unwavering, demonstrating a self-aware yet resolute commitment to his ideals, ending his speech on a strong and convicted note.",
+    "summary_reasoning": "Acknowledging idealism, firm and determined tone."
+  }
+]

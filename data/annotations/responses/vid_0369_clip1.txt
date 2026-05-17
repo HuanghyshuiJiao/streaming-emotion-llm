@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 4.26,
+    "emotion": "formal",
+    "detailed_reasoning": "The speaker begins her speech by addressing the judges, teachers, and friends. Her posture is very upright with her hands behind her back, and her tone is polite and rehearsed. Her facial expression is neutral and focused, indicating a formal and prepared demeanor for the public speaking event.",
+    "summary_reasoning": "Formal address, upright posture, rehearsed tone."
+  },
+  {
+    "timestamp": 12.9,
+    "emotion": "calm",
+    "detailed_reasoning": "After introducing herself, the speaker transitions into her story. Her voice remains steady and clear, and her posture is still composed. She delivers the opening lines of the story in a calm, narrative tone, setting the scene for the audience.",
+    "summary_reasoning": "Steady voice, clear tone, composed posture."
+  },
+  {
+    "timestamp": 24.083,
+    "emotion": "engaged",
+    "detailed_reasoning": "The speaker's narration becomes more descriptive as she talks about the sports car. She then physically brings out a yellow toy car as a prop. This action, combined with her continued clear narration, shows a deeper level of engagement and performance in her storytelling.",
+    "summary_reasoning": "Using a prop, descriptive tone."
+  },
+  {
+    "timestamp": 35.966,
+    "emotion": "anticipatory",
+    "detailed_reasoning": "The speaker's tone shifts as she describes the graduation day approaching. Her pace quickens slightly, and her voice builds a subtle tension, conveying the young man's growing anticipation and hope for receiving the car as a gift. Her body language remains focused, channeling the energy into her vocal delivery.",
+    "summary_reasoning": "Quicker pace, building vocal tension."
+  },
+  {
+    "timestamp": 48.243,
+    "emotion": "gentle",
+    "detailed_reasoning": "The narrative shifts to the father speaking to his son. The speaker's tone softens significantly, becoming more gentle and warm. She slows her pace to deliver these lines, effectively conveying the father's pride and love for his son.",
+    "summary_reasoning": "Softer, warmer tone, slower pace."
+  },
+  {
+    "timestamp": 54.186,
+    "emotion": "loving",
+    "detailed_reasoning": "Concluding the clip, the speaker describes the father expressing his love. Her voice becomes even softer and more affectionate. She brings her hands to her chest in a gesture that visually represents love and sincerity, matching the emotional content of the words she is speaking.",
+    "summary_reasoning": "Soft, affectionate voice, hands on chest."
+  }
+]

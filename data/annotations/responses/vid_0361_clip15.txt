@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 4.435,
+    "emotion": "playful",
+    "detailed_reasoning": "The speaker's tone shifts from a simple statement to a more commanding and theatrical one. He addresses the audience directly with the term 'ungrateful,' but his smiling face and engaging tone indicate that he is being playful and humorous, not genuinely scolding.",
+    "summary_reasoning": "Playful tone, smiling face, humorous insult."
+  },
+  {
+    "timestamp": 10.121,
+    "emotion": "joyful",
+    "detailed_reasoning": "After asking the audience to clap, he enthusiastically yells 'Louder,' with a wide smile and a powerful, energetic tone. The camera shows him looking up triumphantly. This combination of vocal energy and positive facial expression conveys a sense of joy and enjoyment in the moment.",
+    "summary_reasoning": "Energetic voice, wide smile, triumphant gesture."
+  },
+  {
+    "timestamp": 24.796,
+    "emotion": "dramatic",
+    "detailed_reasoning": "The speaker's tone becomes hushed and conspiratorial as he announces he has a 'small confession to make.' His body language becomes more deliberate, and he looks around the stage, building suspense for his next statement. This theatrical shift is intended to be dramatic and capture the audience's full attention.",
+    "summary_reasoning": "Hushed tone, deliberate body language, suspenseful words."
+  },
+  {
+    "timestamp": 30.217,
+    "emotion": "confident",
+    "detailed_reasoning": "Following a dramatic pause, the speaker declares 'I am... superman' with a strong, unwavering voice and spreads his arms in a heroic pose. His facial expression is a wide, confident smile, projecting a sense of power and self-assurance in his theatrical statement.",
+    "summary_reasoning": "Strong voice, heroic pose, confident smile."
+  },
+  {
+    "timestamp": 36.849,
+    "emotion": "sincere",
+    "detailed_reasoning": "The speaker's demeanor shifts from the grand 'superman' pose to a more grounded one. He points to his arm and says 'I'm not kidding' with an earnest facial expression and a serious, convincing tone, as if he genuinely wants the audience to believe his claim.",
+    "summary_reasoning": "Earnest expression, serious tone, convincing words."
+  },
+  {
+    "timestamp": 41.317,
+    "emotion": "proud",
+    "detailed_reasoning": "The speaker explains his 'superpower' in Hindi, revealing that when he does a little, people think it's a lot. He says this with a knowing smile and a slightly smug tone, indicating he is proud of this unique advantage and the cleverness of his observation.",
+    "summary_reasoning": "Knowing smile, smug tone, self-congratulatory words."
+  },
+  {
+    "timestamp": 50.354,
+    "emotion": "joyful",
+    "detailed_reasoning": "The speaker's voice is full of energy as he describes the immense positive reaction he gets from the crowd, using a cricket analogy ('if I hit a six, people stand up'). His broad smile and animated gestures show that he is reveling in this adoration, expressing a clear sense of joy.",
+    "summary_reasoning": "Energetic voice, broad smile, celebratory words."
+  },
+  {
+    "timestamp": 56.565,
+    "emotion": "triumphant",
+    "detailed_reasoning": "He delivers the final punchline, stating that he gets the fame of a 15-minute performance in just 5 minutes. His tone is sharp and definitive, and his facial expression is one of ultimate satisfaction and victory. He is triumphant in having proven his point about his 'superpower.'",
+    "summary_reasoning": "Sharp tone, satisfied expression, final punchline."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 6.559,
+    "emotion": "emphatic",
+    "detailed_reasoning": "The speaker begins by giving advice in a direct and emphatic tone. His eyes are wide, and he uses his hands to gesture and emphasize his point about being prepared and respecting the reader's time. The overall demeanor is that of an instructor giving an important lesson.",
+    "summary_reasoning": "Direct tone, wide eyes, hand gestures."
+  },
+  {
+    "timestamp": 13.027,
+    "emotion": "concerned",
+    "detailed_reasoning": "The speaker's tone shifts to a more cautionary one as he describes a negative scenario. His facial expression becomes more serious, and he uses a hypothetical situation to illustrate a problem, suggesting a tone of concern about the consequences of being unprepared.",
+    "summary_reasoning": "Cautionary tone, serious expression."
+  },
+  {
+    "timestamp": 21.418,
+    "emotion": "displeased",
+    "detailed_reasoning": "He begins to impersonate the reader who is annoyed by the unprepared actor. His tone becomes slightly dismissive and sarcastic, and he looks away as if making an excuse. This mimics a feeling of displeasure and irritation.",
+    "summary_reasoning": "Dismissive tone, impersonation, averted gaze."
+  },
+  {
+    "timestamp": 25.343,
+    "emotion": "frustrated",
+    "detailed_reasoning": "Continuing his impersonation, the speaker's tone becomes more explicitly frustrated and critical, using the word \"knucklehead.\" His facial expression shows clear disapproval and annoyance, emphasizing the negative impact of being unprepared on the reading partner.",
+    "summary_reasoning": "Critical tone, disapproving expression."
+  },
+  {
+    "timestamp": 30.23,
+    "emotion": "authoritative",
+    "detailed_reasoning": "The speaker shifts back from impersonation to giving direct advice. His tone becomes firm and authoritative, instructing the viewer to \"Be prepared\" and \"Be polite.\" His direct gaze and clear, commanding voice reinforce this emotion.",
+    "summary_reasoning": "Firm tone, direct gaze, commanding voice."
+  },
+  {
+    "timestamp": 35.439,
+    "emotion": "encouraging",
+    "detailed_reasoning": "The speaker's tone softens as he offers a positive suggestion to show appreciation by sending a gift card. His expression becomes friendlier and his voice takes on a more encouraging and helpful quality, shifting from command to constructive advice.",
+    "summary_reasoning": "Softened tone, friendly expression, helpful suggestion."
+  },
+  {
+    "timestamp": 44.996,
+    "emotion": "warning",
+    "detailed_reasoning": "The speaker's tone becomes serious again as he outlines the negative consequences of not appreciating a reader. He says, \"Otherwise, you're going to lose readers,\" with a direct and cautionary tone, and a serious facial expression to emphasize the gravity of the warning.",
+    "summary_reasoning": "Serious tone, cautionary words, direct expression."
+  },
+  {
+    "timestamp": 51.521,
+    "emotion": "sincere",
+    "detailed_reasoning": "His tone becomes more sincere and earnest as he advises finding a trusted group of actors to read with. His facial expression is open and he speaks with a conviction that suggests he is sharing a core belief about building a supportive community.",
+    "summary_reasoning": "Earnest tone, open expression, conviction in voice."
+  },
+  {
+    "timestamp": 57.76,
+    "emotion": "emphatic",
+    "detailed_reasoning": "The speaker concludes with a final, strong piece of advice. His tone is emphatic and conclusive, using short, powerful phrases like \"be ready\" and \"be prepared.\" His direct gaze and determined expression reinforce the importance of his final message.",
+    "summary_reasoning": "Conclusive tone, direct gaze, determined expression."
+  }
+]

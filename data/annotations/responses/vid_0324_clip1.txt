@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "calm",
+    "detailed_reasoning": "The video starts with the actor looking directly at the camera. His facial expression is neutral and his head is slightly tilted. His initial words are spoken in a measured and even tone, establishing a baseline of calmness and control before he begins his monologue.",
+    "summary_reasoning": "Neutral expression, measured tone."
+  },
+  {
+    "timestamp": 3.916,
+    "emotion": "aggrieved",
+    "detailed_reasoning": "The actor begins to recount past mistreatment. His eyebrows lower slightly, and his eyes show a hint of pain. The tone of his voice, while still controlled, carries a heavier weight as he talks about being 'rated'. This shift indicates a feeling of being wronged and a simmering grievance.",
+    "summary_reasoning": "Lowered eyebrows, pained eyes, heavier tone."
+  },
+  {
+    "timestamp": 12.326,
+    "emotion": "resigned",
+    "detailed_reasoning": "The actor describes how he has endured the mistreatment. His facial expression softens into one of weary acceptance, and he performs a subtle shrug. The mention of 'patient shrug' and 'sufferance' is delivered in a somber, almost philosophical tone, conveying a sense of tired resignation to his fate.",
+    "summary_reasoning": "Weary expression, somber tone, speaks of suffering."
+  },
+  {
+    "timestamp": 20.457,
+    "emotion": "indignant",
+    "detailed_reasoning": "As the actor lists more severe insults like 'misbeliever' and 'cutthroat dog', his voice gains a harder, more bitter edge. His eyes narrow with focus, and his expression tightens, reflecting a growing indignation and resentment at the memory of these harsh words.",
+    "summary_reasoning": "Harder tone, narrowed eyes, listing insults."
+  },
+  {
+    "timestamp": 32.488,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "There is a distinct shift in demeanor after the word 'Well'. The actor's eyebrows raise, a faint, ironic smile plays on his lips, and his tone becomes one of mock politeness. This change in vocal and facial cues indicates he is now highlighting the hypocrisy of the situation with sarcasm.",
+    "summary_reasoning": "Ironic smile, raised eyebrows, mock-polite tone."
+  },
+  {
+    "timestamp": 38.739,
+    "emotion": "mocking",
+    "detailed_reasoning": "The sarcasm intensifies into open mockery as he imitates his oppressor's plea for money. His voice takes on a derisive quality, and his facial expression shows contemptuous amusement. He is now actively ridiculing the person who once mistreated him.",
+    "summary_reasoning": "Derisive tone, contemptuous expression, imitates the other's voice."
+  },
+  {
+    "timestamp": 47.115,
+    "emotion": "angry",
+    "detailed_reasoning": "The actor's suppressed feelings erupt into clear anger. His voice rises in pitch and volume, and his face tenses up as he describes the physical humiliation of being spat upon. The delivery is forceful and sharp, showing that the memory still evokes a powerful, visceral rage.",
+    "summary_reasoning": "Louder voice, tense face, forceful delivery."
+  },
+  {
+    "timestamp": 54.649,
+    "emotion": "contemptuous",
+    "detailed_reasoning": "After the outburst, his anger recedes into a cold, chilling contempt. His volume drops, and his tone becomes quiet and sharp. The final question, 'What should I say to you?', is delivered with a dismissive and superior air, asserting his newfound power in the situation.",
+    "summary_reasoning": "Cold tone, quiet volume, dismissive question."
+  }
+]

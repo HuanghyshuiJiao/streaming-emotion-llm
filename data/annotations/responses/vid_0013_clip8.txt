@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 8.064,
+    "emotion": "determined",
+    "detailed_reasoning": "The speaker is recalling his thought process at the beginning of his diet. His tone becomes firmer and his eyebrows furrow slightly as he states, \"sugars and starches are the worst.\" This combination of verbal emphasis and subtle facial expression indicates a strong sense of conviction and determination about what he needed to avoid.",
+    "summary_reasoning": "Firm tone, furrowed eyebrows."
+  },
+  {
+    "timestamp": 16.016,
+    "emotion": "satisfied",
+    "detailed_reasoning": "After describing his low-carb approach, the speaker says he was \"pretty successful with that.\" His vocal tone becomes slightly higher and more positive, and the corners of his mouth turn up in a subtle smile. This shift suggests a feeling of satisfaction and pride in his early achievements.",
+    "summary_reasoning": "Higher vocal tone, slight smile."
+  },
+  {
+    "timestamp": 24.827,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker transitions to giving advice, saying \"take as many measurements and metrics of your progress as possible.\" His speaking pace quickens slightly, his gaze becomes more direct and intense, and his tone shifts to one of enthusiastic instruction. This change indicates he is passionate about this particular piece of advice.",
+    "summary_reasoning": "Faster pace, intense gaze, enthusiastic tone."
+  },
+  {
+    "timestamp": 37.358,
+    "emotion": "enthusiastic",
+    "detailed_reasoning": "Continuing his point about tracking, the speaker says he's \"always really liked that data.\" His eyes widen slightly, and he delivers the line with a positive, upbeat inflection. This enthusiasm underscores his passion for using data to track progress, making things easier for himself.",
+    "summary_reasoning": "Wide eyes, positive vocal inflection."
+  },
+  {
+    "timestamp": 50.03,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker begins to recount the long timeline of his diet, from \"May 2011... all the way through about the beginning of 2013.\" His gaze shifts away from the camera, his pace slows down, and his tone becomes more neutral and narrative. This change suggests he is entering a reflective state, looking back on a significant period of his life.",
+    "summary_reasoning": "Averted gaze, slower pace, narrative tone."
+  }
+]

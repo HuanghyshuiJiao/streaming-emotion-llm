@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 1.613,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins by addressing the 'jury' with a formal and steady tone. Her facial expression is neutral and composed, and her gaze is direct. This combination of verbal and non-verbal cues establishes a serious and formal mood appropriate for a courtroom setting.",
+    "summary_reasoning": "Formal tone, steady voice, neutral expression."
+  },
+  {
+    "timestamp": 10.944,
+    "emotion": "indignant",
+    "detailed_reasoning": "When quoting the opposition who claims the testimony 'is nothing,' her voice takes on a slightly sharper, more contemptuous edge. There's a subtle narrowing of her eyes and a pause that conveys her disagreement and disbelief. This marks the first shift from a neutral, serious tone to one of personal, righteous anger.",
+    "summary_reasoning": "Sharp tone, narrowed eyes, strategic pause."
+  },
+  {
+    "timestamp": 16.251,
+    "emotion": "impassioned",
+    "detailed_reasoning": "While listing the victim's suffering ('raped... cut, bruised, terrorized'), her voice grows in intensity and her pace quickens. Her facial expression becomes more animated, showing pain and anger. She is no longer just recounting facts but is emotionally invested, aiming to convey the horror of the events to the jury.",
+    "summary_reasoning": "Intense voice, quickened pace, pained expression."
+  },
+  {
+    "timestamp": 26.663,
+    "emotion": "angry",
+    "detailed_reasoning": "Her voice rises in volume and pitch, especially on the words 'howling crowd.' Her expression is one of clear disgust. The indignation has now fully evolved into overt anger at the injustice and the public nature of the crime.",
+    "summary_reasoning": "Raised voice, disgusted expression."
+  },
+  {
+    "timestamp": 34.182,
+    "emotion": "contemptuous",
+    "detailed_reasoning": "When referring to 'Mr. Paulson,' her tone becomes dismissive and filled with scorn. She looks away briefly, as if the thought of him is distasteful. The anger is now more focused and directed, carrying a strong sense of contempt for the opposing counsel's argument.",
+    "summary_reasoning": "Dismissive tone, scornful expression, brief look away."
+  },
+  {
+    "timestamp": 36.628,
+    "emotion": "empathetic",
+    "detailed_reasoning": "Her voice softens and her expression shows sorrow and compassion as she says the victim's name, 'Sarah Tobias.' This contrasts sharply with the contemptuous tone used just moments before, highlighting her empathy for the victim.",
+    "summary_reasoning": "Softened voice, sorrowful expression."
+  },
+  {
+    "timestamp": 38.973,
+    "emotion": "determined",
+    "detailed_reasoning": "Making direct eye contact with the camera (the 'jury'), her voice becomes firm and resolute. Her expression is one of unwavering conviction as she appeals directly to them. This shows she is determined to make them see the gravity of the situation.",
+    "summary_reasoning": "Direct eye contact, firm voice, resolute expression."
+  },
+  {
+    "timestamp": 48.476,
+    "emotion": "disbelieving",
+    "detailed_reasoning": "As she recounts Mr. Paulson's argument that only one person knew a rape was occurring, her tone is laden with incredulity. Her eyebrows raise slightly and she has a look of sheer disbelief on her face, signaling that she finds the argument absurd.",
+    "summary_reasoning": "Incredulous tone, raised eyebrows, look of disbelief."
+  },
+  {
+    "timestamp": 50.741,
+    "emotion": "scornful",
+    "detailed_reasoning": "She repeats the phrase 'The only one' with a low, sharp tone filled with scorn. Her lips tighten, and she gives a minute shake of the head, dismissing the idea as not just unbelievable but worthy of contempt.",
+    "summary_reasoning": "Low sharp tone, tight lips, subtle head shake."
+  },
+  {
+    "timestamp": 57.477,
+    "emotion": "challenging",
+    "detailed_reasoning": "In her final lines, she addresses the jury directly again. Her tone is questioning, and her head is tilted in a challenging manner. Her steady, penetrating gaze is meant to provoke the jury into thinking critically about the witness and the opposition's claims.",
+    "summary_reasoning": "Questioning tone, tilted head, penetrating gaze."
+  }
+]

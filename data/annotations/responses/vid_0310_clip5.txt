@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 6.038,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker starts by listing a series of tasks in a neutral, informative tone. His facial expression is relaxed and his gestures are minimal, suggesting a calm and instructional demeanor as he sets up his point.",
+    "summary_reasoning": "Neutral tone, relaxed face, minimal gestures."
+  },
+  {
+    "timestamp": 17.091,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker says \"Listen,\" and his tone becomes more direct and firm. He leans slightly forward, and his eyebrows lower, signaling a shift from a general statement to a more serious, focused point about the attitude of casting offices.",
+    "summary_reasoning": "Direct tone, forward lean, lowered eyebrows."
+  },
+  {
+    "timestamp": 26.262,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker begins to channel the perspective of a casting director. His voice gains a sharper, more impatient edge as he says, \"if you don't have that down and have it figured out by now.\" His facial expression becomes more tense, conveying a sense of frustration.",
+    "summary_reasoning": "Sharp tone, tense facial expression."
+  },
+  {
+    "timestamp": 33.392,
+    "emotion": "stern",
+    "detailed_reasoning": "Continuing to voice the casting office's attitude, the speaker's tone becomes very stern and definitive when he says, \"That's their attitude. I'm telling you, I've talked to them.\" He makes direct eye contact and his expression is unyielding, emphasizing the harsh reality he is describing.",
+    "summary_reasoning": "Stern tone, direct eye contact, unyielding expression."
+  },
+  {
+    "timestamp": 40.708,
+    "emotion": "exasperated",
+    "detailed_reasoning": "The speaker's frustration peaks as he delivers the line, \"you're an idiot and go be an accountant.\" His voice is raised and has a harsh, exasperated quality. His eyes are wide, and he makes a dismissive gesture, fully embodying the unforgiving attitude he's describing.",
+    "summary_reasoning": "Raised harsh voice, wide eyes, dismissive gesture."
+  },
+  {
+    "timestamp": 47.241,
+    "emotion": "encouraging",
+    "detailed_reasoning": "After portraying the negative attitude, the speaker's entire demeanor shifts. His voice softens, and the pace of his speech becomes more measured and constructive. He says, \"Find a space,\" and his facial expression relaxes, indicating a transition to giving helpful, encouraging advice.",
+    "summary_reasoning": "Softened voice, slower pace, relaxed face."
+  },
+  {
+    "timestamp": 54.036,
+    "emotion": "authoritative",
+    "detailed_reasoning": "As he concludes his advice, the speaker's tone becomes more definitive and authoritative. He gestures with his hands to emphasize his final point about having a \"dedicated spot.\" This confident delivery reinforces the importance of his advice.",
+    "summary_reasoning": "Definitive tone, emphatic hand gestures."
+  }
+]

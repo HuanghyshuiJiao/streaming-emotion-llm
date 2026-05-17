@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 6.459,
+    "emotion": "proud",
+    "detailed_reasoning": "The speaker contrasts himself with the audience, labeling himself a 'limited edition piece' and them 'mass production.' His tone is confident and slightly boastful, with a subtle smile and upright posture, indicating a sense of pride and uniqueness.",
+    "summary_reasoning": "Boastful words, confident tone, slight smile."
+  },
+  {
+    "timestamp": 18.212,
+    "emotion": "humorous",
+    "detailed_reasoning": "After stating he is unique, the speaker transitions into a childhood anecdote about school punishments. His tone becomes lighter and more narrative, and his facial expression is amused, signaling a shift to a humorous storytelling style. He frames his punishments as a sign of his uniqueness, which is meant to be funny.",
+    "summary_reasoning": "Lighter tone, amused expression, anecdotal content."
+  },
+  {
+    "timestamp": 29.704,
+    "emotion": "playful",
+    "detailed_reasoning": "The speaker describes standing like a 'Buddhist monk' in the school assembly. He accompanies this with an exaggerated, funny gesture and a comical facial expression, which elicits laughter from the audience. This clearly indicates a playful and humorous emotion.",
+    "summary_reasoning": "Comical gesture, funny expression, audience laughter."
+  },
+  {
+    "timestamp": 33.95,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker explicitly says, 'Jokes apart,' signaling a deliberate shift in tone. His smile fades, his expression becomes neutral, and his voice loses its playful quality. This transition indicates he is about to discuss a more serious topic.",
+    "summary_reasoning": "Verbal cue, smile fades, neutral tone."
+  },
+  {
+    "timestamp": 38.356,
+    "emotion": "sad",
+    "detailed_reasoning": "Following the transition to a serious tone, the speaker says, 'Childhood was not easy.' His voice becomes softer and more somber, and his pace slows down. His facial expression reflects this shift, conveying a sense of sadness and difficult memories.",
+    "summary_reasoning": "Softer voice, slower pace, somber expression."
+  },
+  {
+    "timestamp": 45.707,
+    "emotion": "hurt",
+    "detailed_reasoning": "The speaker describes the unfiltered comments of children, stating, 'it used to hurt.' His voice becomes noticeably softer and more vulnerable, his gaze is slightly downcast, and his hand touches his chest, all of which strongly conveys a feeling of being hurt.",
+    "summary_reasoning": "Softer voice, vulnerable tone, downcast gaze."
+  },
+  {
+    "timestamp": 49.933,
+    "emotion": "angry",
+    "detailed_reasoning": "After describing his sadness and crying, the speaker's emotional state shifts as he says, 'I used to get very angry.' His tone becomes sharper and more intense, and his facial expression hardens, clearly indicating a transition from sadness to anger.",
+    "summary_reasoning": "Sharper tone, intense voice, hardened expression."
+  },
+  {
+    "timestamp": 56.824,
+    "emotion": "blaming",
+    "detailed_reasoning": "The speaker describes complaining to his parents, and then his focus shifts as he points forward and says accusingly, 'All this happened because of you.' His voice is filled with frustration, and his gesture is pointed and direct, conveying a strong sense of blame.",
+    "summary_reasoning": "Accusatory tone, pointed gesture, frustrated voice."
+  }
+]

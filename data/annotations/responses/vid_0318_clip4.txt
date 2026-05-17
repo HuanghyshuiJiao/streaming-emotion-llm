@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 2.294,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker begins his address with a clear, steady, and slightly elevated tone. His posture is upright and his facial expression is serious and focused, projecting a sense of confidence and purpose as he starts with a strong, unifying statement about the nation's greatness.",
+    "summary_reasoning": "Clear steady tone, upright posture, focused expression."
+  },
+  {
+    "timestamp": 12.409,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker shifts his tone to be more measured and deliberate. He uses a rhythmic cadence to list and dismiss common metrics of national strength, signaling to the audience that he is building a contrast and leading them towards a more profound and carefully considered point.",
+    "summary_reasoning": "Measured tone, deliberate pace, rhetorical contrast."
+  },
+  {
+    "timestamp": 16.095,
+    "emotion": "reverent",
+    "detailed_reasoning": "As he begins to reference a historical document, his pace slows significantly and his voice becomes slightly softer. This change creates a sense of anticipation and respect, indicating a reverent attitude toward the foundational text he is about to quote.",
+    "summary_reasoning": "Slow pace, soft voice, referencing history."
+  },
+  {
+    "timestamp": 20.802,
+    "emotion": "inspirational",
+    "detailed_reasoning": "The speaker's voice swells with power and conviction as he delivers the famous quote from the Declaration of Independence. His pitch rises, his articulation is sharp, and he uses open hand gestures, all combining to create a powerful and inspirational moment that elicits applause.",
+    "summary_reasoning": "Powerful voice, rising pitch, emphatic gestures."
+  },
+  {
+    "timestamp": 35.481,
+    "emotion": "proud",
+    "detailed_reasoning": "After the powerful quote, the speaker's tone shifts to one of warmth and appreciation. A slight, knowing smile appears on his face as he delivers the line, \"That is the true genius of America.\" This combination of a warm voice and a smile conveys a deep sense of pride.",
+    "summary_reasoning": "Warm voice, slight smile, appreciative tone."
+  },
+  {
+    "timestamp": 39.645,
+    "emotion": "hopeful",
+    "detailed_reasoning": "His tone becomes softer and more melodic as he translates the grand ideal into relatable concepts like \"simple dreams\" and \"small miracles.\" His facial expression is relaxed and optimistic, conveying a sense of hope that is accessible to everyone.",
+    "summary_reasoning": "Soft melodic tone, optimistic expression, relatable words."
+  },
+  {
+    "timestamp": 48.374,
+    "emotion": "caring",
+    "detailed_reasoning": "The speaker's voice becomes very soft and intimate as he describes the fundamental security of tucking children into bed. His facial expression is gentle and tender, and the content itself is deeply nurturing, which collectively project a strong emotion of care and empathy.",
+    "summary_reasoning": "Soft intimate voice, gentle expression, nurturing content."
+  }
+]

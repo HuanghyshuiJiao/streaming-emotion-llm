@@ -1,0 +1,86 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "focused",
+    "detailed_reasoning": "The speaker starts with a clear, direct statement, establishing the premise for his speech. His facial expression is neutral, and his gaze is fixed on the camera, indicating concentration and focus on setting up his piece. His tone is steady and deliberate.",
+    "summary_reasoning": "Direct tone, fixed gaze, neutral expression."
+  },
+  {
+    "timestamp": 2.013,
+    "emotion": "engaging",
+    "detailed_reasoning": "After stating he'd stick to simple words, he introduces a complex one, \"Serendipity.\" His tone shifts from a simple declaration to a more performative and engaging one, as if he's drawing the audience in to explain a concept. His eyes are wide and locked with the camera.",
+    "summary_reasoning": "Performative tone, direct eye contact, introduces key concept."
+  },
+  {
+    "timestamp": 4.295,
+    "emotion": "happy",
+    "detailed_reasoning": "As he defines \"serendipity\" with positive phrases like \"happy accident\" and \"pleasant surprise,\" his vocal tone becomes softer and warmer. A subtle smile starts to form on his face, aligning the visual and audio cues with the positive meaning of the words.",
+    "summary_reasoning": "Positive words, softer tone, slight smile."
+  },
+  {
+    "timestamp": 11.201,
+    "emotion": "earnest",
+    "detailed_reasoning": "The speaker's expression becomes more serious and his tone more deliberate as he gives a specific definition of the word. His eyebrows are slightly furrowed, and he emphasizes his words, conveying a sense of earnestness and gravity in his explanation.",
+    "summary_reasoning": "Serious expression, deliberate tone, furrowed brows."
+  },
+  {
+    "timestamp": 14.964,
+    "emotion": "tender",
+    "detailed_reasoning": "The speaker transitions from a general definition to a personal revelation about his love. His voice becomes noticeably softer and more gentle, and his gaze drifts slightly, suggesting he is lost in a fond memory. The pace slows, creating a tender and intimate feeling.",
+    "summary_reasoning": "Soft voice, reminiscing gaze, slower pace."
+  },
+  {
+    "timestamp": 23.112,
+    "emotion": "adoration",
+    "detailed_reasoning": "When he starts describing the person he loves with words like \"amazing\" and \"so good for me,\" his face completely transforms with a wide, genuine smile. His eyes light up, and his tone is filled with warmth and affection. This combination of visual and vocal cues strongly communicates a feeling of adoration.",
+    "summary_reasoning": "Wide smile, bright eyes, affectionate tone."
+  },
+  {
+    "timestamp": 26.715,
+    "emotion": "melancholy",
+    "detailed_reasoning": "The speaker contrasts his current happiness with his past. His smile disappears, his gaze lowers, and his facial expression turns somber. His voice drops in pitch and volume to describe his past as \"black and white,\" conveying a sense of past emptiness and melancholy.",
+    "summary_reasoning": "Smile fades, downward gaze, somber tone."
+  },
+  {
+    "timestamp": 31.148,
+    "emotion": "grateful",
+    "detailed_reasoning": "Directly following the description of his past, he describes the positive change she brought by bringing \"color\" to his world. His head lifts, a smile returns to his face, and his tone fills with warmth. This quick shift from melancholy to joy suggests a deep sense of gratitude.",
+    "summary_reasoning": "Head lifts, smile returns, warm tone."
+  },
+  {
+    "timestamp": 35.752,
+    "emotion": "amazed",
+    "detailed_reasoning": "The speaker's tone is filled with wonder and slight disbelief as he repeats the word \"miracle.\" His eyes widen, and his facial expression conveys a sense of awe and amazement, as if he still can't quite believe his good fortune that \"she chose me.\"",
+    "summary_reasoning": "Wonder in tone, widened eyes, repetition of \"miracle.\""
+  },
+  {
+    "timestamp": 42.579,
+    "emotion": "appreciative",
+    "detailed_reasoning": "Following the moment of amazement, his emotion settles into a warm appreciation. He shakes his head slightly with a soft smile, and his tone is gentle and full of genuine, heartfelt praise for her, showing deep appreciation as he calls her \"great\" and \"wonderful.\"",
+    "summary_reasoning": "Gentle tone, soft smile, slight head shake."
+  },
+  {
+    "timestamp": 44.921,
+    "emotion": "vulnerable",
+    "detailed_reasoning": "The speaker's volume drops significantly, and his tone becomes very soft and introspective. He looks away from the camera, and his expression reflects a sense of past insecurity and disbelief, making him appear vulnerable and humble as he admits he never thought she'd want him.",
+    "summary_reasoning": "Quiet voice, introspective tone, averted gaze."
+  },
+  {
+    "timestamp": 49.986,
+    "emotion": "content",
+    "detailed_reasoning": "After expressing his vulnerability, he states a simple fact with quiet confidence: \"But she does.\" He looks back at the camera with a small, firm smile. His tone is certain and filled with a deep, content joy about their mutual feelings.",
+    "summary_reasoning": "Confident tone, small smile, direct gaze."
+  },
+  {
+    "timestamp": 52.148,
+    "emotion": "playful",
+    "detailed_reasoning": "The speaker shifts to using endearing and creative metaphors (\"my princess to my papa\"). His smile broadens, his eyes crinkle, and his tone becomes lighter and more whimsical, indicating a playful and loving mood as he shares these intimate comparisons.",
+    "summary_reasoning": "Playful metaphors, broad smile, lighthearted tone."
+  },
+  {
+    "timestamp": 55.952,
+    "emotion": "loving",
+    "detailed_reasoning": "For his final line, he delivers a powerful, classic metaphor for partnership (\"A Batman to my Robin\"). He makes strong eye contact with the camera, his expression is a mix of a smile and seriousness, and his tone is firm but full of affection. It's a concluding statement of deep, loving partnership.",
+    "summary_reasoning": "Strong eye contact, affectionate tone, meaningful metaphor."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins with a low, measured tone and a serious facial expression. He is looking up and away, as if addressing a group before a serious event. The words themselves, about preventing 'knee knocking in my tent,' establish a no-nonsense, commanding presence from the start.",
+    "summary_reasoning": "Low measured tone, serious expression, commanding words."
+  },
+  {
+    "timestamp": 12.326,
+    "emotion": "determined",
+    "detailed_reasoning": "The speaker's tone remains low and serious, but now it's coupled with a sense of grim acceptance and resolve. As he lists the superior forces they are about to face ('boys bigger than ours and guns bigger than ours'), his steady delivery and unwavering gaze convey not fear, but a determined acknowledgement of the facts.",
+    "summary_reasoning": "Steady tone, unwavering gaze, grimly accepting words."
+  },
+  {
+    "timestamp": 26.803,
+    "emotion": "defiant",
+    "detailed_reasoning": "There is a distinct shift in energy. The speaker directly challenges his audience with the rhetorical question, 'Do I look afraid?' His tone becomes more assertive and confrontational, and his facial expression is challenging, with a furrowed brow. He is actively projecting an image of fearlessness.",
+    "summary_reasoning": "Assertive tone, direct question, challenging facial expression."
+  },
+  {
+    "timestamp": 29.545,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker begins to list their shared accomplishments and history. His voice swells with conviction and a hint of pride as he talks about riding 'through seven sovereign nations on eight continents.' He is building a case for their collective strength, which is reflected in his confident and resolute tone.",
+    "summary_reasoning": "Voice swells with conviction, recounting shared accomplishments."
+  },
+  {
+    "timestamp": 37.038,
+    "emotion": "impassioned",
+    "detailed_reasoning": "The speaker's energy escalates significantly. His volume increases as he recounts fighting through 'two wars and eight deaths.' He forcefully repeats the question 'Do I look afraid?', but this time it's more of an impassioned declaration of his own strength and resilience, meant to inspire or intimidate.",
+    "summary_reasoning": "Increased volume, forceful tone, repeated rhetorical question."
+  },
+  {
+    "timestamp": 43.99,
+    "emotion": "sincere",
+    "detailed_reasoning": "After the peak of his impassioned speech, his tone softens and becomes more intimate and personal. He says, 'I have seen you all at your best and I have seen you all at your worst,' which creates a sense of camaraderie and shared experience. The quieter, more personal delivery indicates a shift to sincerity.",
+    "summary_reasoning": "Softer, quieter tone, personal words, sense of camaraderie."
+  },
+  {
+    "timestamp": 50.341,
+    "emotion": "terrified",
+    "detailed_reasoning": "This is a dramatic reversal. After building up an image of fearlessness, the speaker's facade crumbles. His voice drops to a vulnerable, almost cracking whisper as he confesses, 'I am terrified.' His eyes widen, and his entire demeanor shifts from confidence to raw, genuine fear.",
+    "summary_reasoning": "Voice drops to a whisper, vulnerable tone, wide-eyed expression, direct confession of fear."
+  },
+  {
+    "timestamp": 58.154,
+    "emotion": "dread",
+    "detailed_reasoning": "Following his confession of terror, his final statement, 'I'm not gonna sleep tonight,' is delivered in a quiet, resigned tone. The terror has settled into a deep sense of dread about the coming events. His facial expression is one of hollowed-out worry.",
+    "summary_reasoning": "Quiet, resigned tone, statement of dread, worried expression."
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins with a very calm and measured tone. His facial expression is neutral and relaxed, and his speaking pace is slow and deliberate. He is introducing the topic in a straightforward, informative manner.",
+    "summary_reasoning": "Measured tone, neutral face, slow pace."
+  },
+  {
+    "timestamp": 8.083,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker transitions to explaining the structure of the acting school's first lesson. His tone remains calm but becomes more instructional and direct. He maintains steady eye contact with the camera, adopting the role of a teacher explaining a concept.",
+    "summary_reasoning": "Instructional tone, direct eye contact."
+  },
+  {
+    "timestamp": 18.238,
+    "emotion": "inquisitive",
+    "detailed_reasoning": "He poses a direct, rhetorical question: \"so why do you want to be an actor?\" His eyebrows raise slightly, and his tone shifts to be more questioning and engaging, directly addressing the viewer to provoke thought. The emotion is still calm but now has an inquisitive layer.",
+    "summary_reasoning": "Rhetorical question, raised eyebrows."
+  },
+  {
+    "timestamp": 21.703,
+    "emotion": "emphatic",
+    "detailed_reasoning": "The speaker emphasizes the importance of the question he just asked by repeating it in different forms. His tone becomes more deliberate and pointed, stressing the word \"why.\" This indicates he is making a crucial point in his lesson.",
+    "summary_reasoning": "Repetitive phrasing, deliberate tone."
+  },
+  {
+    "timestamp": 31.239,
+    "emotion": "serious",
+    "detailed_reasoning": "When giving advice about the desire for fame, his tone becomes more serious and cautionary. His pace remains slow, but the pitch of his voice drops slightly, and his facial expression is sober to convey the gravity of the warning about a \"long, hard road ahead.\"",
+    "summary_reasoning": "Cautionary words, lower pitch, sober expression."
+  },
+  {
+    "timestamp": 39.336,
+    "emotion": "passionate",
+    "detailed_reasoning": "A distinct shift occurs with the word \"But.\" His tone immediately becomes warmer, more expressive, and slightly faster. He describes someone who \"loves acting,\" and his face softens, conveying a genuine passion for the craft. The language used (\"loves,\" \"fun,\" \"therapeutic,\" \"excited\") reinforces this emotional shift.",
+    "summary_reasoning": "Warmer tone, expressive voice, positive language."
+  },
+  {
+    "timestamp": 53.505,
+    "emotion": "encouraging",
+    "detailed_reasoning": "Concluding his point, the speaker's tone becomes very positive and affirming. He says, \"that's great,\" with a slight smile and a nod. His voice is welcoming as he defines the kind of people he wants in the class, creating an encouraging and positive final impression.",
+    "summary_reasoning": "Affirming words, slight smile, welcoming tone."
+  }
+]

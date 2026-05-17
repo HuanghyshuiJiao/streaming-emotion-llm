@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 0.912,
+    "emotion": "sad",
+    "detailed_reasoning": "The video begins with a close-up on the speaker's face. Her expression is somber, her eyes are downcast and appear watery. Although her words are 'I'm fine with that,' her tone is low and lacks conviction, conveying a sense of sadness and resignation rather than genuine contentment.",
+    "summary_reasoning": "Sad facial expression, low tone, watery eyes."
+  },
+  {
+    "timestamp": 7.521,
+    "emotion": "desperate",
+    "detailed_reasoning": "The speaker's emotion shifts from sadness to desperation. Her voice cracks on the word 'please,' and her facial expression becomes more pained and pleading. Her eyes are squeezed shut for a moment, indicating deep emotional distress as she begs.",
+    "summary_reasoning": "Cracking voice, pained expression, pleading tone."
+  },
+  {
+    "timestamp": 12.187,
+    "emotion": "pleading",
+    "detailed_reasoning": "Continuing her plea, the speaker's tone is consistently shaky and high-pitched. She promises to 'keep buying you things,' which, combined with her tearful expression and trembling voice, shows a desperate attempt to bargain, a key aspect of pleading.",
+    "summary_reasoning": "Shaky voice, tearful expression, bargaining words."
+  },
+  {
+    "timestamp": 17.073,
+    "emotion": "anguished",
+    "detailed_reasoning": "The emotion intensifies to anguish. She says she'll keep loving him 'even though it hurts.' Her face is contorted in pain, she's openly crying, and her voice is filled with sorrow, reflecting a deep, painful torment.",
+    "summary_reasoning": "Pained facial expression, crying, sorrowful tone."
+  },
+  {
+    "timestamp": 24.543,
+    "emotion": "panicked",
+    "detailed_reasoning": "The emotion escalates to panic. She exclaims, 'No, I can't breathe without you.' Her voice becomes louder and more frantic, her eyes widen, and her breathing seems audibly strained, all classic indicators of a panic-like state.",
+    "summary_reasoning": "Loud frantic voice, wide eyes, strained breathing."
+  },
+  {
+    "timestamp": 29.329,
+    "emotion": "broken",
+    "detailed_reasoning": "Following her panicked outburst, her energy drops. She states 'I don't sleep. I don't eat.' in a monotone, defeated voice. Her face is streaked with tears and her expression is one of complete emotional exhaustion and brokenness.",
+    "summary_reasoning": "Monotone defeated voice, tear-streaked face, exhausted expression."
+  },
+  {
+    "timestamp": 37.363,
+    "emotion": "pleading",
+    "detailed_reasoning": "She returns to a state of intense pleading. She calls out the name 'Chris' directly, begging him not to leave. Her voice is desperate and her facial expression is raw with vulnerability and need, looking directly at the camera as if speaking to him.",
+    "summary_reasoning": "Direct plea, desperate voice, vulnerable expression."
+  },
+  {
+    "timestamp": 47.111,
+    "emotion": "resigned",
+    "detailed_reasoning": "There is a shift in her plea. She asks him to tell her he loves her 'even though you don't mean it.' This indicates a shift from hoping for genuine affection to a resigned acceptance of a lie. Her tone is softer, filled with a deep, hopeless sadness.",
+    "summary_reasoning": "Accepting a lie, softer tone, hopeless sadness."
+  },
+  {
+    "timestamp": 52.627,
+    "emotion": "heartbroken",
+    "detailed_reasoning": "She explicitly states, 'I'd rather live in a lie with you.' This statement, delivered with a completely heartbroken expression and a soft, sorrowful voice, encapsulates her profound sadness and the depth of her emotional pain. She seems to have given up on true happiness, settling for a painful illusion.",
+    "summary_reasoning": "Heartbroken expression, sorrowful voice, giving up."
+  },
+  {
+    "timestamp": 58.624,
+    "emotion": "resolved",
+    "detailed_reasoning": "In the final moment, her tone changes on the words 'face the truth without you.' While still sad, there is a hint of finality and resolve in her voice. Her facial expression, though still pained, firms up slightly, suggesting a painful acceptance of her reality and a decision to move forward, however difficult.",
+    "summary_reasoning": "Tone of finality, firm expression, painful acceptance."
+  }
+]

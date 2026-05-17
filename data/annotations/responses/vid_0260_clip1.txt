@@ -1,0 +1,74 @@
+[
+  {
+    "timestamp": 2.213,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins with a definitive and serious statement, \"I am not twins.\" Her tone is firm and declarative, her facial expression is neutral to stern, and her posture is straight, all of which indicate she is delivering important, non-joking information.",
+    "summary_reasoning": "Firm tone, serious expression, declarative statement."
+  },
+  {
+    "timestamp": 8.02,
+    "emotion": "accusatory",
+    "detailed_reasoning": "The speaker's tone shifts from a general statement to a direct accusation with the line, \"You're not shagging twins.\" While her tone remains serious, the focus has shifted to the other person's actions. Her slight head tilt and direct gaze suggest she is confronting someone.",
+    "summary_reasoning": "Direct statement, focused gaze, serious tone."
+  },
+  {
+    "timestamp": 12.164,
+    "emotion": "intense",
+    "detailed_reasoning": "This is the climax of her revelation. The line \"Both of the identical twins that you were shagging are me\" is delivered with a more intense and pointed tone. Her expression hardens slightly, emphasizing the gravity and shock value of what she is saying.",
+    "summary_reasoning": "Pointed tone, hardened expression, shocking statement."
+  },
+  {
+    "timestamp": 18.411,
+    "emotion": "resentful",
+    "detailed_reasoning": "The speaker's tone softens, but carries an undertone of bitterness and resentment as she explains her motivation: \"I had to create another me when you started to lose interest.\" Her facial expression shows a hint of sadness or disappointment, revealing the hurt behind her actions.",
+    "summary_reasoning": "Soft, bitter tone, sad expression, explaining motivation."
+  },
+  {
+    "timestamp": 25.178,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "When describing her alter ego \"Helen, with the good hair and the unusual music taste,\" the speaker's tone becomes lighter and slightly mocking. There's a sarcastic edge to her voice, as if she's making fun of the persona she had to adopt.",
+    "summary_reasoning": "Mocking tone, describing alter ego."
+  },
+  {
+    "timestamp": 32.243,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker reveals the absurdity of her deception by saying she was \"Full of Malibu. And a wig.\" Her tone is self-deprecating and amused, and she has a slight, wry smile. She seems to find the situation comical in retrospect.",
+    "summary_reasoning": "Self-deprecating tone, wry smile, comedic reveal."
+  },
+  {
+    "timestamp": 35.235,
+    "emotion": "challenging",
+    "detailed_reasoning": "After the comedic reveal, her tone shifts abruptly as she asks, \"You don't believe me?\" Her eyebrows are raised and her gaze is direct and challenging, daring the other person to doubt her story after her confession.",
+    "summary_reasoning": "Abrupt tone shift, raised eyebrows, direct question."
+  },
+  {
+    "timestamp": 39.536,
+    "emotion": "enthusiastic",
+    "detailed_reasoning": "To prove her point, the speaker suddenly adopts an overly enthusiastic and high-pitched voice, exclaiming, \"Oh my God, I love Mick Hucknall.\" Her facial expression becomes wide-eyed and animated, mimicking the persona of \"Helen\" to demonstrate how convincing she could be.",
+    "summary_reasoning": "High-pitched, animated voice, wide-eyed expression, impersonation."
+  },
+  {
+    "timestamp": 43.528,
+    "emotion": "disappointed",
+    "detailed_reasoning": "Dropping the act, her tone becomes one of mock disappointment as she says, \"Yes, I'm amazed you didn't realise either, Derek.\" Her expression is chiding, as if she's scolding him for not seeing through her deception.",
+    "summary_reasoning": "Mocking tone, chiding expression, direct address."
+  },
+  {
+    "timestamp": 52.315,
+    "emotion": "accusatory",
+    "detailed_reasoning": "The speaker's emotion shifts to a clear accusation. She points out the other person's fault in the situation, stating \"you have been two-timing on the both of me.\" Her tone is firm again, and her body language becomes more assertive, pointing a finger to emphasize her point.",
+    "summary_reasoning": "Firm tone, assertive posture, pointing gesture."
+  },
+  {
+    "timestamp": 55.004,
+    "emotion": "mocking",
+    "detailed_reasoning": "Her accusation takes on a mocking quality with the line, \"You're being very unfaithful, Derek.\" The delivery is almost sing-song and patronizing, with a slight smile, indicating she's now openly making fun of his behavior.",
+    "summary_reasoning": "Patronizing tone, slight smile, sing-song delivery."
+  },
+  {
+    "timestamp": 58.354,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "She ends with a punchline dripping with sarcasm: \"And I'm seeing twice as much of you as I'd like.\" Her tone is dry, and a smirk plays on her lips, showing her witty and cynical take on the entire situation.",
+    "summary_reasoning": "Dry, witty tone, smirk, final punchline."
+  }
+]

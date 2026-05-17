@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 2.034,
+    "emotion": "humorous",
+    "detailed_reasoning": "The speaker opens with a relatable, self-deprecating question, asking if others get winded tying their shoes. His tone is light and conversational, and he looks directly at the camera, establishing a comedic and engaging atmosphere from the start.",
+    "summary_reasoning": "Self-deprecating question, light tone."
+  },
+  {
+    "timestamp": 6.84,
+    "emotion": "humorous",
+    "detailed_reasoning": "Continuing the self-deprecating theme, he calls himself \"Fatty McFat fat.\" The exaggerated name, combined with his slight smile and casual, welcoming gestures, clearly frames his commentary as humor rather than genuine self-pity.",
+    "summary_reasoning": "Exaggerated self-deprecation, smile."
+  },
+  {
+    "timestamp": 11.366,
+    "emotion": "performative",
+    "detailed_reasoning": "The speaker's delivery becomes rhythmic and stylized as he lists fast-food orders (\"supersized at the Mickey D's, crowned at the BK...\"). This shift to a more performative, spoken-word style enhances the comedic effect of his confession about his eating habits.",
+    "summary_reasoning": "Rhythmic, stylized speech."
+  },
+  {
+    "timestamp": 15.852,
+    "emotion": "cynical",
+    "detailed_reasoning": "The speaker's tone becomes more serious and his expression sobers as he uses the wordplay \"all American consumer, consumed by convenience.\" This shift indicates a move from simple self-deprecation to a more cynical social commentary on consumer culture, adding a layer of critique to the humor.",
+    "summary_reasoning": "Serious tone, wordplay, social critique."
+  },
+  {
+    "timestamp": 20.078,
+    "emotion": "frustrated",
+    "detailed_reasoning": "He directly blames \"them\" (the fast-food companies) for his habits. His tone becomes more pointed and accusatory, and he uses a hand gesture to push the blame away. This signals a shift from cynical observation to active, albeit humorous, frustration.",
+    "summary_reasoning": "Accusatory tone, blaming gesture."
+  },
+  {
+    "timestamp": 28.269,
+    "emotion": "contemplative",
+    "detailed_reasoning": "The speaker's tone softens and becomes more questioning as he wonders, \"if it's death by dollars though.\" He looks slightly down and away, a classic sign of introspection. The topic is dark, but the context keeps it within the realm of dark humor, making his mood contemplative.",
+    "summary_reasoning": "Questioning tone, introspective gaze."
+  },
+  {
+    "timestamp": 36.168,
+    "emotion": "frustrated",
+    "detailed_reasoning": "His voice rises in pitch and pace as he asks the rhetorical question, \"who can afford to eat right?\" This expresses a genuine-sounding frustration about the economic barrier to healthy eating, moving from personal contemplation to a broader societal complaint.",
+    "summary_reasoning": "Higher pitch, rhetorical question."
+  },
+  {
+    "timestamp": 40.8,
+    "emotion": "incredulous",
+    "detailed_reasoning": "Recounting the story of a \"$5 grilled cheese,\" his tone is filled with disbelief. His eyes widen and his head shakes slightly, emphasizing his shock and outrage at the price. The phrase \"you gotta be kidding me\" confirms this incredulous state.",
+    "summary_reasoning": "Disbelieving tone, widened eyes."
+  },
+  {
+    "timestamp": 49.081,
+    "emotion": "scheming",
+    "detailed_reasoning": "The speaker's mood shifts from frustration to a humorous, entrepreneurial idea. His tone becomes more animated and mischievous as he lays out his plan to sell cheaper sandwiches outside the expensive restaurant. This change presents a comedic, scheming solution to his problem.",
+    "summary_reasoning": "Animated tone, humorous business idea."
+  },
+  {
+    "timestamp": 54.716,
+    "emotion": "enthusiastic",
+    "detailed_reasoning": "He begins to act out his sales pitch, shouting \"Gourmet peanut butter and jelly sandwiches, $4!\" He cups his hands around his mouth as if yelling to a crowd, and his energy level spikes. This is a full commitment to the comedic performance, showing high enthusiasm.",
+    "summary_reasoning": "Shouting, high energy, performative gesture."
+  }
+]

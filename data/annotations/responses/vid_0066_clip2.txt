@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 1.816,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins with a neutral facial expression and a calm, even tone. The words \"we can have it all\" are delivered without any strong emotional inflection, establishing a baseline of calmness.",
+    "summary_reasoning": "Neutral expression, calm tone."
+  },
+  {
+    "timestamp": 7.972,
+    "emotion": "confused",
+    "detailed_reasoning": "The speaker's head tilts and their eyebrows raise slightly as they ask, \"Why can't we work out our differences?\" The tone shifts from calm to questioning and slightly bewildered, indicating confusion about the situation.",
+    "summary_reasoning": "Head tilt, raised eyebrows, questioning tone."
+  },
+  {
+    "timestamp": 12.485,
+    "emotion": "frustrated",
+    "detailed_reasoning": "After repeating the same question, the speaker's expression becomes more strained. Their eyes widen and their tone grows more insistent and shows a clear hint of frustration at the lack of a resolution.",
+    "summary_reasoning": "Strained expression, wider eyes, insistent tone."
+  },
+  {
+    "timestamp": 16.676,
+    "emotion": "pensive",
+    "detailed_reasoning": "The speaker's gaze drifts upward and their tone softens as they say, \"Little people.\" This shift suggests a moment of reflection or contemplation, as if they are pondering the nature of the conflict from a distance.",
+    "summary_reasoning": "Upward gaze, softened tone, reflective pause."
+  },
+  {
+    "timestamp": 21.87,
+    "emotion": "exasperated",
+    "detailed_reasoning": "In the final line, the speaker's voice takes on a sighing quality, and they raise their hands in a gesture of helplessness. This combination of vocal and physical cues conveys a sense of exasperation and resignation, as if they are giving up on finding a solution.",
+    "summary_reasoning": "Sighing tone, helpless hand gesture."
+  }
+]

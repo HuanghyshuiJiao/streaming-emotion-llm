@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 6.703,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins by narrating a story. He is looking down, likely reading from a script. His voice is measured, with a steady pace and neutral tone. His facial expression is relaxed and neutral, indicating a calm, narrative state.",
+    "summary_reasoning": "Narrative tone, steady pace, neutral expression."
+  },
+  {
+    "timestamp": 14.877,
+    "emotion": "calm",
+    "detailed_reasoning": "Continuing the narrative, the speaker's tone and pace remain consistent. He describes the Samaritan's actions factually without adding any strong emotional coloring to his voice. His head remains tilted down, and his expression is unchanged, maintaining a calm demeanor.",
+    "summary_reasoning": "Consistent tone, neutral expression, reading posture."
+  },
+  {
+    "timestamp": 24.874,
+    "emotion": "sincere",
+    "detailed_reasoning": "The speaker's pace slows slightly, and there's a subtle increase in vocal earnestness as he describes the Samaritan giving away all his money. While still calm, the delivery takes on a more heartfelt, sincere quality, emphasizing the selflessness of the act.",
+    "summary_reasoning": "Slower pace, earnest tone."
+  },
+  {
+    "timestamp": 30.902,
+    "emotion": "emphatic",
+    "detailed_reasoning": "The speaker looks up toward the camera for the first time, breaking from his script. His voice becomes slightly louder and more forceful as he says, \"simply because the man was his neighbor.\" The direct gaze and change in vocal dynamics add emphasis and a sense of conviction.",
+    "summary_reasoning": "Looks up, direct gaze, forceful tone."
+  },
+  {
+    "timestamp": 41.49,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker shifts from telling the story to personal reflection. His tone becomes softer and more introspective as he says, \"I always thought I was the Samaritan in that story.\" His eyes look up and away, a common cue for accessing personal memories or thoughts, indicating a shift to a reflective state.",
+    "summary_reasoning": "Softer tone, introspective gaze, personal language."
+  },
+  {
+    "timestamp": 45.62,
+    "emotion": "wry",
+    "detailed_reasoning": "After a pause, the speaker looks directly at the camera. He says, \"It's funny, isn't it,\" with a slight, mirthless smile and a cynical tone. The combination of the faint smile and the questioning, slightly bitter tone suggests a wry or ironic emotion.",
+    "summary_reasoning": "Direct gaze, mirthless smile, cynical tone."
+  },
+  {
+    "timestamp": 50.714,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker's wry expression fades, replaced by a more serious and somber look. His tone loses its ironic edge and becomes more grave as he delivers the line about men being \"deceived by their own true nature.\" This change reflects the weight of his realization.",
+    "summary_reasoning": "Serious expression, grave tone."
+  },
+  {
+    "timestamp": 55.165,
+    "emotion": "regretful",
+    "detailed_reasoning": "In the final line, the speaker's pace is slow and deliberate. He looks down, and his voice is low and filled with a sense of finality and sadness. The statement \"I am not the Samaritan\" is delivered with a tone of quiet resignation and regret, concluding his reflection on a somber note.",
+    "summary_reasoning": "Slow pace, downward gaze, sad tone."
+  }
+]

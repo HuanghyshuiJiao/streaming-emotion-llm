@@ -1,0 +1,74 @@
+[
+  {
+    "timestamp": 1.092,
+    "emotion": "happy",
+    "detailed_reasoning": "The speaker begins her talk with a lighthearted and positive tone, smiling and using the words 'Things were going great'. Her body language is open and her facial expression is bright, indicating a state of happiness or contentment as she sets up her story.",
+    "summary_reasoning": "Smiling, positive words, light tone."
+  },
+  {
+    "timestamp": 2.774,
+    "emotion": "serious",
+    "detailed_reasoning": "There is a distinct shift in tone and expression as she says 'until they weren't.' Her smile disappears, her gaze becomes more focused and intense, and her voice takes on a more dramatic and serious quality, signaling a turning point in her narrative from positive to negative.",
+    "summary_reasoning": "Smile fades, dramatic tone, negative words."
+  },
+  {
+    "timestamp": 6.338,
+    "emotion": "anxious",
+    "detailed_reasoning": "The speaker is describing a period of difficulty. Her facial expression is now neutral-to-concerned, and her tone is narrative but conveys an underlying stress. The content of her speech, 'having trouble making it to class on time,' points to a feeling of anxiety and struggle.",
+    "summary_reasoning": "Negative words, concerned expression, stressed tone."
+  },
+  {
+    "timestamp": 12.505,
+    "emotion": "frustrated",
+    "detailed_reasoning": "She describes acing a course but failing to get credit due to a mistake. Her tone conveys frustration at this outcome. Her expression is one of slight annoyance or disappointment with her past self for the oversight.",
+    "summary_reasoning": "Frustrated tone, disappointed expression, describing failure."
+  },
+  {
+    "timestamp": 18.672,
+    "emotion": "regretful",
+    "detailed_reasoning": "When talking about helping her boyfriend at the expense of her own career ('I completely lost sight of mine'), her voice becomes softer and has a tone of regret. Her eyes briefly look down and away, which can indicate sadness or introspection about a past mistake.",
+    "summary_reasoning": "Softer voice, downward gaze, self-deprecating words."
+  },
+  {
+    "timestamp": 23.057,
+    "emotion": "disappointed",
+    "detailed_reasoning": "The speaker's face is not visible as a picture of a university is shown, but her voiceover states 'I never made it to USC.' The statement is delivered with a flat, definitive tone that communicates a sense of finality and disappointment over a significant failed goal.",
+    "summary_reasoning": "Flat tone, statement of failure."
+  },
+  {
+    "timestamp": 26.4,
+    "emotion": "sad",
+    "detailed_reasoning": "Her voice begins to tremble and crack slightly as she says she 'dropped out of college.' Her facial expression is visibly pained and she looks downwards, avoiding eye contact with the audience. This combination of vocal and visual cues strongly indicates sadness.",
+    "summary_reasoning": "Voice cracks, pained expression, downward gaze."
+  },
+  {
+    "timestamp": 34.864,
+    "emotion": "overwhelmed",
+    "detailed_reasoning": "She recounts a long list of failures in a short period ('started and quit, or was fired from, 15 jobs'). Her voice is strained and her pace quickens slightly, suggesting a feeling of being overwhelmed by the sheer number of negative experiences.",
+    "summary_reasoning": "Strained voice, recounting numerous failures."
+  },
+  {
+    "timestamp": 38.408,
+    "emotion": "sorrowful",
+    "detailed_reasoning": "Describing her marriage and divorce, her voice becomes heavy with emotion, and she looks down again. The pace is slow, and her facial expression is clearly one of pain and deep sadness, reflecting on another significant personal hardship.",
+    "summary_reasoning": "Heavy sorrowful voice, pained expression, downward gaze."
+  },
+  {
+    "timestamp": 47.34,
+    "emotion": "lost",
+    "detailed_reasoning": "The speaker explicitly states her feeling of confusion with the words, 'I had no idea what I was doing with my life.' Her tone is one of helplessness, and she uses open-handed gestures that emphasize her lack of direction and feeling of being lost.",
+    "summary_reasoning": "Explicit words of confusion, helpless tone, uncertain gestures."
+  },
+  {
+    "timestamp": 54.729,
+    "emotion": "bewildered",
+    "detailed_reasoning": "She asks a rhetorical question, 'What happened to all that potential?' with a tone of genuine bewilderment and sadness. She looks out at the audience as if searching for an answer, reflecting her confusion about how her life turned out.",
+    "summary_reasoning": "Questioning tone, sad expression, rhetorical question."
+  },
+  {
+    "timestamp": 58.995,
+    "emotion": "determined",
+    "detailed_reasoning": "After refuting the idea that she wasn't trying, she concludes with the line 'I worked harder.' Her tone shifts dramatically to become strong, firm, and emphatic. Her expression is resolute, signaling a shift from recounting past pain to asserting her resilience and determination.",
+    "summary_reasoning": "Strong emphatic voice, determined expression."
+  }
+]

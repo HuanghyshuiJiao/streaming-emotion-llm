@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp": 2.175,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her talk with a common question she receives. Her tone is even and conversational, her facial expression is neutral, and her posture is relaxed and open. This combination of cues indicates a calm and composed emotional state as she sets the stage for her topic.",
+    "summary_reasoning": "Even tone, neutral expression, relaxed posture."
+  },
+  {
+    "timestamp": 3.297,
+    "emotion": "confident",
+    "detailed_reasoning": "In direct response to the question of whether she regrets her career, she states, \"I don't.\" Her tone becomes firm and decisive, her lips press together slightly in a look of conviction, and she gives a small, affirmative nod. This shift from a neutral, questioning tone to a firm, declarative one signifies confidence.",
+    "summary_reasoning": "Firm tone, affirmative nod, convicted expression."
+  },
+  {
+    "timestamp": 6.382,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker's emotional state shifts as she describes what she loves about her job. Her voice becomes warmer and more expressive, a genuine smile appears, and she uses the highly positive and personal words \"nerdy left brain love of science.\" This change in vocal quality, facial expression, and word choice indicates a feeling of passion.",
+    "summary_reasoning": "Warmer voice, genuine smile, positive language."
+  },
+  {
+    "timestamp": 10.369,
+    "emotion": "sincere",
+    "detailed_reasoning": "When stating that her work is part of what makes her \"authentically me,\" her tone becomes more earnest and her smile softens. Her gaze is steady and direct, connecting with the audience. This combination conveys a deep sense of sincerity and self-acceptance.",
+    "summary_reasoning": "Earnest tone, soft smile, direct gaze."
+  },
+  {
+    "timestamp": 13.414,
+    "emotion": "proud",
+    "detailed_reasoning": "The speaker's energy level rises as she talks about launching her own company. Her gestures become more expansive, her smile widens, and her voice takes on an upbeat, energetic quality. This enthusiastic delivery while discussing her personal accomplishments indicates pride.",
+    "summary_reasoning": "Upbeat tone, wide smile, expansive gestures."
+  },
+  {
+    "timestamp": 21.523,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's demeanor changes significantly as she transitions to discussing mental health diagnoses. Her smile fades completely, her brow furrows slightly with concern, and her vocal tone becomes graver and more measured. The topic shift to \"terrible brain diseases\" is clearly marked by this turn to a serious emotional state.",
+    "summary_reasoning": "Smile fades, brow furrows, grave tone."
+  },
+  {
+    "timestamp": 29.19,
+    "emotion": "empathetic",
+    "detailed_reasoning": "While maintaining a serious expression, the speaker's tone softens as she validates the reality of these conditions. She says, \"I don't deny that they are real conditions,\" speaking deliberately to show she is considering the audience's perspective. This careful, validating language indicates empathy.",
+    "summary_reasoning": "Softened, deliberate tone, validating words."
+  },
+  {
+    "timestamp": 34.555,
+    "emotion": "contemplative",
+    "detailed_reasoning": "Introducing her personal theory, she says, \"But I believe...\" Her tone becomes more introspective, her pace slows, and her gaze shifts slightly as if in thought. She touches her chest when mentioning the \"authentic self,\" adding a personal, heartfelt layer. This indicates a contemplative mood.",
+    "summary_reasoning": "Introspective tone, slower pace, thoughtful gaze."
+  },
+  {
+    "timestamp": 40.881,
+    "emotion": "concerned",
+    "detailed_reasoning": "Describing the loss of connection, her voice becomes softer and more gentle, and her facial expression fills with empathy. She uses strong, emotional language like \"power to choose stripped away\" and \"feel so bad.\" The combination of a gentle, caring tone and somber words conveys deep concern.",
+    "summary_reasoning": "Gentle tone, empathetic expression, somber words."
+  },
+  {
+    "timestamp": 50.564,
+    "emotion": "frustrated",
+    "detailed_reasoning": "Reflecting on her past, her tone shifts as she says she \"wasted so much time and energy.\" There's a clear note of exasperation in her voice, she gives a slight, rueful shake of her head, and her expression is one of mild annoyance at her past self. This points to a feeling of frustration.",
+    "summary_reasoning": "Exasperated tone, rueful head shake."
+  },
+  {
+    "timestamp": 56.325,
+    "emotion": "resolved",
+    "detailed_reasoning": "The speaker's emotion shifts to one of finality and clarity. She says, \"But I realize...\" with a firm, decisive tone. She makes a small, dismissive hand gesture and her expression becomes clear and confident, showing she has moved past the previous struggle. This indicates a resolved emotional state.",
+    "summary_reasoning": "Decisive tone, confident expression, dismissive gesture."
+  }
+]

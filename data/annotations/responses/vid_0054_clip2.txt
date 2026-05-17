@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 7.741,
+    "emotion": "defiant",
+    "detailed_reasoning": "The speaker's initial tone is challenging and confrontational. Her facial expression is serious, her eyebrows are slightly furrowed, and her words, such as 'go ahead and test me' and 'I am not the one who's going to be walking away,' directly challenge the person she is speaking to. This combination indicates a strong sense of defiance.",
+    "summary_reasoning": "Challenging tone, serious expression, confrontational words."
+  },
+  {
+    "timestamp": 13.368,
+    "emotion": "resolved",
+    "detailed_reasoning": "After her initial defiance, her tone softens slightly but remains firm. She acknowledges a potential future weakness ('I don't know if I can take it for forever') but immediately counters it with a statement of current strength ('But I can take it for tonight'). Her steady gaze and firm jaw suggest a sense of determination and resolve in the present moment.",
+    "summary_reasoning": "Firm tone, steady gaze, determined expression."
+  },
+  {
+    "timestamp": 18.896,
+    "emotion": "vulnerable",
+    "detailed_reasoning": "While continuing to assert her strength for the near future, her voice quavers slightly and her pace slows when she says, 'I may be a little shaky.' Her eyes also look down for a moment, breaking her previously steady gaze. This brief shift reveals an underlying vulnerability despite her overall resolved attitude.",
+    "summary_reasoning": "Quavering voice, slowed pace, downward glance."
+  },
+  {
+    "timestamp": 26.005,
+    "emotion": "proud",
+    "detailed_reasoning": "A significant shift occurs as the speaker's tone becomes brighter and more empowered. She makes the definitive statement, 'I feel so good about myself,' with a rising inflection. Her eyes widen and she looks directly forward, conveying a newfound sense of self-worth and pride.",
+    "summary_reasoning": "Brighter tone, rising inflection, wide eyes."
+  },
+  {
+    "timestamp": 43.395,
+    "emotion": "empowered",
+    "detailed_reasoning": "Building on her feeling of pride, the speaker recounts past moments of fear and inadequacy, contrasting them with her current strength. The repetition of 'Better than I felt' combined with a strong, steady vocal delivery and a confident, unwavering expression demonstrates a feeling of empowerment and having overcome past struggles.",
+    "summary_reasoning": "Strong voice, steady delivery, confident expression."
+  },
+  {
+    "timestamp": 47.295,
+    "emotion": "exuberant",
+    "detailed_reasoning": "Her energy peaks as she exclaims, 'I am wonderful!' Her volume increases, her eyes are wide and bright, and a smile forms. The delivery is forceful and full of positive energy, moving beyond simple confidence to a state of exuberance and joyous self-acceptance.",
+    "summary_reasoning": "Loud volume, wide eyes, smiling, forceful delivery."
+  },
+  {
+    "timestamp": 50.513,
+    "emotion": "triumphant",
+    "detailed_reasoning": "Following her peak exuberance, her tone becomes almost taunting and victorious. She declares, 'I am nuts about me,' and then directly addresses the other person with a challenge. Her expression is a mix of a smirk and wide-eyed confidence. The combination of her words ('if you are stupid enough to throw someone sensational like me away') and her confident, almost mocking delivery creates a triumphant emotional state.",
+    "summary_reasoning": "Taunting tone, smirking expression, challenging words."
+  }
+]

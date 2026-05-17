@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "demanding",
+    "detailed_reasoning": "The speaker begins by portraying a character. Her body language is relaxed yet entitled, with her feet propped up. Her vocal tone is high-pitched, loud, and insistent, especially on the words 'Come' and 'hungry,' clearly indicating a demanding and imperious attitude from the character she is playing.",
+    "summary_reasoning": "Loud insistent voice, entitled posture."
+  },
+  {
+    "timestamp": 7.52,
+    "emotion": "neutral",
+    "detailed_reasoning": "The speaker transitions from playing the character to being a narrator. She stands up, her facial expression becomes neutral, and her vocal tone shifts to a calm, descriptive storytelling voice. This change marks a move from character portrayal to narration.",
+    "summary_reasoning": "Shift to narrator, neutral voice, neutral expression."
+  },
+  {
+    "timestamp": 16.832,
+    "emotion": "voracious",
+    "detailed_reasoning": "While narrating, the speaker's tone becomes more intense and dramatic when describing the witch eating. She emphasizes the words 'ate it all' with a louder, more guttural delivery and a dramatic, sweeping hand gesture, mimicking the witch's gluttony and voracious appetite.",
+    "summary_reasoning": "Guttural voice, dramatic tone, hand gesture."
+  },
+  {
+    "timestamp": 23.58,
+    "emotion": "annoyed",
+    "detailed_reasoning": "The speaker transitions back into the witch character. She sits down, leans back into the previous entitled posture, and adopts a sharp, snappy vocal tone. Her facial expression is one of irritation, and the words 'snappishly' and 'why do you say nothing' confirm the character's annoyed and impatient state.",
+    "summary_reasoning": "Sharp snappy voice, irritated expression, entitled posture."
+  },
+  {
+    "timestamp": 31.705,
+    "emotion": "timid",
+    "detailed_reasoning": "The speaker shifts to a different character. She stands up, clasps her hands in front of her, and adopts a more reserved posture. Her voice becomes softer, higher-pitched, and more hesitant, conveying a sense of timidity and deference in response to the witch's aggressive questioning.",
+    "summary_reasoning": "Soft hesitant voice, reserved posture, clasped hands."
+  },
+  {
+    "timestamp": 42.848,
+    "emotion": "ominous",
+    "detailed_reasoning": "The speaker once again embodies the witch. She returns to the chair, leaning back with a look of smug superiority. Her voice takes on a sing-song, cautionary quality that sounds menacing. The dialogue, warning that questions do not 'lead to good' and that knowing too much is dangerous, contributes to an ominous and threatening emotion.",
+    "summary_reasoning": "Menacing sing-song voice, smug expression, warning words."
+  },
+  {
+    "timestamp": 55.695,
+    "emotion": "curious",
+    "detailed_reasoning": "The speaker switches back to the timid character's perspective. She stands straight again with a neutral, slightly concerned expression. Her voice is calm and steady as she asks a question about the 'three riders.' The emotion is one of genuine, straightforward curiosity, seeking information after being granted permission to ask.",
+    "summary_reasoning": "Calm questioning voice, neutral expression, direct question."
+  }
+]

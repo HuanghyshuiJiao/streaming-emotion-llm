@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker introduces herself and the monologue she is about to perform. Her voice is steady, her tone is pleasant and she maintains direct eye contact with a slight smile. Her posture is relaxed, indicating a calm and prepared state before the performance begins.",
+    "summary_reasoning": "Steady voice, pleasant expression, relaxed posture."
+  },
+  {
+    "timestamp": 13.671,
+    "emotion": "angry",
+    "detailed_reasoning": "The performance begins with a dramatic shift in demeanor. Her tone becomes sharp and confrontational. Her facial expression is intense, with wide eyes and a hardened mouth. The direct and aggressive delivery of the line 'You're wrong' immediately establishes an angry and defiant emotion.",
+    "summary_reasoning": "Sharp tone, intense facial expression, confrontational words."
+  },
+  {
+    "timestamp": 17.096,
+    "emotion": "fearful",
+    "detailed_reasoning": "A sudden and stark emotional shift occurs. Her voice softens and becomes shaky, losing all its previous anger. She breaks eye contact, looking down and away, and her facial expression turns to one of vulnerability and worry. The words 'I'm scared' are congruent with this sudden display of fear.",
+    "summary_reasoning": "Soft, shaky voice, broken eye contact, vulnerable expression."
+  },
+  {
+    "timestamp": 23.234,
+    "emotion": "defiant",
+    "detailed_reasoning": "The fear transitions into a determined defiance. Her voice becomes louder and more forceful. She uses a pointing gesture to emphasize her words, and her facial expression hardens once again. The words 'that's your own damn fault' are delivered with renewed anger and resolve.",
+    "summary_reasoning": "Louder voice, forceful tone, hardened expression."
+  },
+  {
+    "timestamp": 33.509,
+    "emotion": "frustrated",
+    "detailed_reasoning": "Her anger is now tinged with frustration. Her voice wavers slightly, conveying exasperation. Her facial expression shows pain and disbelief that the other person does not understand her motivations, particularly when she mentions her family.",
+    "summary_reasoning": "Wavering voice, pained expression, exasperated tone."
+  },
+  {
+    "timestamp": 37.274,
+    "emotion": "anguished",
+    "detailed_reasoning": "The frustration deepens into anguish as she describes her difficult circumstances. Her tone is heavy with sadness and desperation. Her eyes convey a deep sense of pain, and her gestures become more pleading, reflecting the weight of her situation.",
+    "summary_reasoning": "Sad and desperate tone, pained eyes, pleading gestures."
+  },
+  {
+    "timestamp": 45.947,
+    "emotion": "sad",
+    "detailed_reasoning": "As she lists the specific struggles of her family members, the emotion shifts to pure sadness. Her voice is strained and filled with pain. Her facial expression softens and crumples, clearly showing her sorrow and the emotional toll of her family's reality.",
+    "summary_reasoning": "Strained voice, pained facial expression, sorrowful content."
+  },
+  {
+    "timestamp": 58.605,
+    "emotion": "determined",
+    "detailed_reasoning": "In the final moment, the sadness is replaced by a powerful and resolute determination. She lifts her head, her eyes become focused and intense, and her voice, while not loud, is filled with unwavering conviction. This final statement is a declaration of strength and resolve.",
+    "summary_reasoning": "Resolute tone, lifted head, intense gaze."
+  }
+]

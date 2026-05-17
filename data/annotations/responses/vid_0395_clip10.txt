@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 2.154,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker begins with a disclaimer, \"don't get me wrong, I'm not anti-happiness.\" Her tone is light, and she has a slight, self-aware smile as she says this. This suggests she is amused by the potential misinterpretation of her upcoming message and is setting the stage in a friendly, approachable manner.",
+    "summary_reasoning": "Light tone, slight smile."
+  },
+  {
+    "timestamp": 6.14,
+    "emotion": "happy",
+    "detailed_reasoning": "Following her disclaimer, she says, \"I'm a pretty happy person.\" Her tone becomes more cheerful and her smile widens, appearing genuine. Her open body language and pleasant vocal quality reinforce a state of happiness and contentment, directly aligning with her words.",
+    "summary_reasoning": "Cheerful tone, genuine smile."
+  },
+  {
+    "timestamp": 8.764,
+    "emotion": "serious",
+    "detailed_reasoning": "The word \"But\" signals a significant shift in tone. Her smile disappears, her facial expression becomes focused and concerned, and her vocal pitch drops. She is transitioning from a light-hearted introduction to the core, more critical part of her argument, indicating a serious mood.",
+    "summary_reasoning": "Smile disappears, tone drops."
+  },
+  {
+    "timestamp": 14.874,
+    "emotion": "assertive",
+    "detailed_reasoning": "As she explains the negative consequences of false positivity, her tone becomes more firm and deliberate. She uses pointed hand gestures to emphasize her words, and her expression is one of conviction. This shows she is not just serious, but assertive in making her point.",
+    "summary_reasoning": "Firm tone, emphatic gestures."
+  },
+  {
+    "timestamp": 23.768,
+    "emotion": "empathetic",
+    "detailed_reasoning": "The speaker shifts from a general argument to a personal anecdote about what \"hundreds of people\" have told her. Her tone softens, and her expression becomes more gentle and understanding. She is now speaking from a place of shared experience and empathy for the people she's describing.",
+    "summary_reasoning": "Softer tone, gentle expression."
+  },
+  {
+    "timestamp": 29.475,
+    "emotion": "sympathetic",
+    "detailed_reasoning": "When quoting someone saying, \"I don't want to try because I don't want to feel disappointed,\" her voice mimics a sense of hesitation and her facial expression is filled with sympathy. She is channeling the vulnerability of the person she's quoting, showing deep understanding of their fear.",
+    "summary_reasoning": "Mimicking tone, sympathetic face."
+  },
+  {
+    "timestamp": 40.693,
+    "emotion": "compassionate",
+    "detailed_reasoning": "Responding to the hypothetical quotes, she says, \"I understand, I say to them.\" Her voice becomes very soft and reassuring, and her facial expression is kind. This is a direct expression of compassion and validation for the difficult emotions she has just described.",
+    "summary_reasoning": "Soft voice, kind expression."
+  },
+  {
+    "timestamp": 42.679,
+    "emotion": "blunt",
+    "detailed_reasoning": "The final statement, \"But you have dead people's goals,\" is delivered with a dramatic shift. Her compassionate tone vanishes and is replaced by a sharp, direct, and almost shocking delivery. Her expression becomes intensely serious. This abrupt change is intended to be blunt and provocative, to jolt the audience into a new perspective.",
+    "summary_reasoning": "Sharp tone, intense expression."
+  }
+]

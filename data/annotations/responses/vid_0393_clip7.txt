@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 6.78,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his talk with a steady and measured tone. His facial expression is neutral and his body language is composed. He is presenting factual information in a clear, straightforward manner, which suggests a calm and informative state.",
+    "summary_reasoning": "Steady tone, neutral expression, factual content."
+  },
+  {
+    "timestamp": 14.651,
+    "emotion": "serious",
+    "detailed_reasoning": "When delivering the key scientific finding about BDNF levels, the speaker's tone becomes more deliberate and he places emphasis on the words \"highest levels\" and \"ever measured.\" His focused expression and the significance of the data he's presenting create a serious and impactful mood.",
+    "summary_reasoning": "Vocal emphasis, focused expression, significant information."
+  },
+  {
+    "timestamp": 23.963,
+    "emotion": "engaged",
+    "detailed_reasoning": "The speaker transitions from reporting past findings to discussing his own current research. By mentioning \"I'm designing a study\" and introducing a specific individual, Daniel, his delivery becomes more personalized and purposeful. This indicates a direct and active engagement with the topic.",
+    "summary_reasoning": "Discussing personal work, introducing a specific person, direct tone."
+  },
+  {
+    "timestamp": 39.506,
+    "emotion": "concerned",
+    "detailed_reasoning": "The speaker's tone shifts to a more grave and somber quality as he describes Daniel's rare and extremely painful condition, CRPS. He uses impactful words like \"infamous\" and \"most painful,\" and his vocal delivery slows slightly, conveying a sense of concern and gravity for the subject's suffering.",
+    "summary_reasoning": "Somber tone, grave language, slow pace."
+  },
+  {
+    "timestamp": 50.794,
+    "emotion": "empathetic",
+    "detailed_reasoning": "To illustrate the severity of the pain, the speaker delivers a direct quote from a patient. His voice remains low and serious, and his delivery of the visceral phrase \"feels like hot lead\" is measured and impactful. This act of voicing the patient's experience demonstrates a clear sense of empathy.",
+    "summary_reasoning": "Delivering patient quote, impactful tone, visceral language."
+  }
+]

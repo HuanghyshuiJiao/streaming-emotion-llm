@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 2.714,
+    "emotion": "angry",
+    "detailed_reasoning": "The speaker's voice is loud, sharp, and confrontational. Her facial expression is tense, with wide eyes and a downturned mouth, clearly indicating anger and frustration as she speaks the line 'I know what you can and can't do.'",
+    "summary_reasoning": "Loud sharp voice, tense face."
+  },
+  {
+    "timestamp": 5.196,
+    "emotion": "angry",
+    "detailed_reasoning": "Her command 'Go on, get out now!' is delivered with increased volume and a forceful, dismissive hand gesture. The emotion remains anger, but the intensity has escalated to a point of command and exasperation.",
+    "summary_reasoning": "Louder voice, forceful gesture."
+  },
+  {
+    "timestamp": 13.725,
+    "emotion": "sad",
+    "detailed_reasoning": "After a long pause where her expression softens and her posture droops, her voice becomes quiet and resigned as she says 'No one cares.' The shift from loud anger to this quiet statement indicates a change to sadness and hopelessness.",
+    "summary_reasoning": "Quiet resigned voice, drooping posture."
+  },
+  {
+    "timestamp": 16.708,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "Her tone becomes mocking and incredulous when she says 'No one really cares, do they?' Her head tilts and her expression is one of cynical disbelief, indicating a sarcastic and challenging emotion rather than pure sadness.",
+    "summary_reasoning": "Mocking tone, cynical expression."
+  },
+  {
+    "timestamp": 21.793,
+    "emotion": "defiant",
+    "detailed_reasoning": "The speaker's tone shifts to become confrontational and challenging again. She directly questions the other person with 'You think you can help me?', her expression becoming more aggressive and her body language more forward, showing defiance.",
+    "summary_reasoning": "Confrontational tone, aggressive expression."
+  },
+  {
+    "timestamp": 27.338,
+    "emotion": "dismissive",
+    "detailed_reasoning": "She makes a declarative, generalizing statement 'People should only fix what's broken' with a shrug and a slight head shake. Her tone and body language are dismissive, as if ending the argument with a supposed universal truth.",
+    "summary_reasoning": "Declarative tone, shrug."
+  },
+  {
+    "timestamp": 31.892,
+    "emotion": "frustrated",
+    "detailed_reasoning": "Her voice becomes louder and more strained as she yells, 'I said I don't want to talk to anyone.' The repetition and increased volume, along with a pained facial expression, show a high level of frustration and desperation.",
+    "summary_reasoning": "Loud strained voice, pained expression."
+  },
+  {
+    "timestamp": 37.727,
+    "emotion": "indignant",
+    "detailed_reasoning": "Her tone is indignant and she emphasizes the words 'I'm not a little kid.' She clenches her fist and her expression is one of offense, as if she is being patronized, leading to a feeling of indignant anger.",
+    "summary_reasoning": "Indignant tone, clenched fist."
+  },
+  {
+    "timestamp": 40.7,
+    "emotion": "overwhelmed",
+    "detailed_reasoning": "Following her outburst, there is a period of silence where she collapses onto the couch, visibly distressed. Her body language, dropping her head into her hands, signifies a state of being completely overwhelmed by her emotions.",
+    "summary_reasoning": "Collapsing on couch, head in hands."
+  },
+  {
+    "timestamp": 52.988,
+    "emotion": "despairing",
+    "detailed_reasoning": "After a moment of being overwhelmed, she looks up with a tearful, broken expression. Her voice is a near-whisper, full of sorrow and resignation as she says 'There is so much you don't know.' This combination of visual and vocal cues points to a deep sense of despair.",
+    "summary_reasoning": "Whispering voice, tearful broken expression."
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 3.376,
+    "emotion": "authoritative",
+    "detailed_reasoning": "The speaker's initial words, \"Welcome to manhood. I'm here to make you all men,\" are delivered with a loud, deep, and forceful voice. His posture is confrontational, leaning slightly forward with an intense and serious facial expression, establishing a clear sense of authority and command from the very beginning, much like a drill sergeant.",
+    "summary_reasoning": "Loud commanding tone, confrontational posture, intense expression."
+  },
+  {
+    "timestamp": 10.085,
+    "emotion": "domineering",
+    "detailed_reasoning": "The speaker issues a direct, harsh command, \"You're gonna have to check your tear ducts at the door.\" This statement, combined with his unwavering loud and forceful tone and intense, unsmiling expression, shifts the emotion from simply authoritative to domineering. He is not just leading, but aggressively imposing a strict, stereotypical rule of masculinity.",
+    "summary_reasoning": "Harsh command, loud forceful tone, intense expression."
+  },
+  {
+    "timestamp": 14.411,
+    "emotion": "contemptuous",
+    "detailed_reasoning": "The emotion shifts to contemptuous as the speaker makes a provocative and crude gesture, pointing towards his crotch while saying, \"take your brain, place it right here.\" His tone gains a mocking quality, and the statement itself expresses contempt for intellectual decision-making, sarcastically suggesting that base instincts should rule a man's world.",
+    "summary_reasoning": "Provocative gesture, mocking tone, contemptuous statement."
+  },
+  {
+    "timestamp": 20.96,
+    "emotion": "assertive",
+    "detailed_reasoning": "The speaker's delivery becomes a rapid-fire list of declarations about what a man should no longer know, such as matching clothes or understanding colors. This is delivered with a tone of absolute certainty and conviction in the persona he is portraying. His direct and unblinking eye contact reinforces the assertive nature of these new rules.",
+    "summary_reasoning": "Rapid-fire declarations, certain tone, direct eye contact."
+  },
+  {
+    "timestamp": 25.708,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "A clear shift to sarcasm occurs as the speaker's facial expression changes to a slight sneer. His vocal tone becomes mocking as he delivers the punchline that the only colors a man knows are the ones \"ribbed for her pleasure.\" The satirical nature of the line combined with the sneer and mocking tone clearly indicates sarcasm.",
+    "summary_reasoning": "Sarcastic tone, facial sneer, satirical words."
+  },
+  {
+    "timestamp": 29.015,
+    "emotion": "authoritative",
+    "detailed_reasoning": "The speaker reverts to an authoritative stance, placing his hands on his hips. His vocal delivery returns to the loud, rapid, and commanding tone of a lecture. He is hammering home his points about men not being responsible for remembering special dates, re-establishing his role as the dominant instructor.",
+    "summary_reasoning": "Authoritative stance (hands on hips), loud rapid lecture."
+  },
+  {
+    "timestamp": 37.832,
+    "emotion": "triumphant",
+    "detailed_reasoning": "The speaker's voice becomes louder and more intense, filled with a sense of masculine pride as he talks about the necessity of using power tools to fix \"anything and everything.\" The absolute and grandiose nature of his claims, combined with the passionate delivery, creates a triumphant and celebratory tone regarding this stereotypical male capability.",
+    "summary_reasoning": "Louder proud tone, passionate voice, absolute statements."
+  },
+  {
+    "timestamp": 43.723,
+    "emotion": "disdain",
+    "detailed_reasoning": "The emotion becomes one of clear disdain as the speaker contrasts power tools with a \"broom and a dustpan.\" He physically shakes his head in disgust, his facial expression shows contempt, and he practically sneers the word \"housewife.\" This combination of verbal and non-verbal cues strongly conveys his disdain for anything he deems unmanly.",
+    "summary_reasoning": "Contemptuous tone, disgusted expression, head shake."
+  },
+  {
+    "timestamp": 52.262,
+    "emotion": "demanding",
+    "detailed_reasoning": "The speaker's tone becomes stern and unyielding as he lists automotive repairs a man must be able to perform. The instruction culminates in an absolute command: \"if you can't figure it out, you lift up the hood and keep looking at the engine until you do.\" His intense, focused expression and the non-negotiable nature of the command make the emotion demanding.",
+    "summary_reasoning": "Stern tone, unyielding command, serious expression."
+  },
+  {
+    "timestamp": 56.903,
+    "emotion": "confident",
+    "detailed_reasoning": "In his final statement, the speaker's chin is slightly raised, and his expression is one of ultimate self-assurance. He declares with a strong, unwavering voice that a man knows how to get anywhere without assistance. This body language and vocal finality project a powerful and conclusive sense of confidence, summarizing the self-reliant ideal of his lecture.",
+    "summary_reasoning": "Confident tone, chin up, unwavering gaze."
+  }
+]

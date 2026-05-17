@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp": 1.393,
+    "emotion": "impatient",
+    "detailed_reasoning": "The speaker begins with a direct and slightly accusatory question, 'Where have you all been?'. His tone is sharp, not welcoming, and his facial expression is tense with slightly furrowed brows. This combination of verbal and non-verbal cues indicates impatience and annoyance at having to wait.",
+    "summary_reasoning": "Sharp tone, tense face, accusatory question."
+  },
+  {
+    "timestamp": 4.218,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "His tone shifts to incredulous and sarcastic with the rhetorical question, 'The apocalypse?'. The use of a hyperbolic scenario, combined with a mocking rise in pitch, shows he is ridiculing the unseen person's reason for being late.",
+    "summary_reasoning": "Sarcastic tone, hyperbole, mocking pitch."
+  },
+  {
+    "timestamp": 6.261,
+    "emotion": "annoyed",
+    "detailed_reasoning": "He explicitly states the reason for his frustration, 'I've been here for 20 minutes.' He stresses the words '20 minutes' with a firm, factual tone and a stern facial expression, moving from sarcasm to direct annoyance.",
+    "summary_reasoning": "Stressed words, firm tone, stern expression."
+  },
+  {
+    "timestamp": 14.715,
+    "emotion": "exasperated",
+    "detailed_reasoning": "His volume and pitch rise as he asks a long, rhetorical question about equipment and disasters. His hand gestures become more pronounced and open, and he leans forward, indicating exasperation with the other's lack of foresight and planning.",
+    "summary_reasoning": "Rising volume, rhetorical question, exasperated gestures."
+  },
+  {
+    "timestamp": 18.582,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "There is a clear shift in demeanor. His tone becomes overly polite and slow ('I wouldn't want to interfere with your busy schedule'), which is a stark contrast to his previous anger. This verbal irony, combined with a slight, insincere smile, signals a return to sarcasm to mock the others.",
+    "summary_reasoning": "Overly polite tone, insincere smile, verbal irony."
+  },
+  {
+    "timestamp": 23.914,
+    "emotion": "mocking",
+    "detailed_reasoning": "He escalates the sarcasm by proposing an absurd scenario: 'Why don't I tell you when a disaster is coming a week in advance?'. His tone is overtly mocking, and his facial expression is one of challenging disbelief, actively making fun of their attitude.",
+    "summary_reasoning": "Mocking tone, absurd suggestion, challenging expression."
+  },
+  {
+    "timestamp": 30.27,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's demeanor changes abruptly. He drops the mocking tone, his voice becomes lower and grave as he says, 'But it's not going to happen.' His facial expression becomes intense and stern, signaling a shift from sarcasm to the serious reality of the situation.",
+    "summary_reasoning": "Tone drops, grave voice, stern expression."
+  },
+  {
+    "timestamp": 38.096,
+    "emotion": "urgent",
+    "detailed_reasoning": "Continuing his serious point, his tone becomes more firm and authoritative. He delivers the line 'And that's why we've got to be ready' with a strong emphasis and a resolute expression, conveying the urgency and importance of being prepared.",
+    "summary_reasoning": "Firm tone, authoritative voice, direct statement."
+  },
+  {
+    "timestamp": 40.161,
+    "emotion": "angry",
+    "detailed_reasoning": "His frustration boils over. He says 'Fine' in a clipped, sharp tone and throws his hands up slightly in a gesture of giving up. His instruction to 'go home' is not a suggestion but a loud, angry challenge, indicating he has lost his patience.",
+    "summary_reasoning": "Clipped tone, loud voice, angry challenge."
+  },
+  {
+    "timestamp": 51.744,
+    "emotion": "intense",
+    "detailed_reasoning": "He begins to describe a hypothetical disastrous scenario. His voice becomes deep, deliberate, and intense. He uses dramatic pauses and a grim expression to paint a vivid picture of the consequences of their inaction, aiming to instill a sense of gravity and shame.",
+    "summary_reasoning": "Intense tone, grim expression, describing dire consequences."
+  },
+  {
+    "timestamp": 54.49,
+    "emotion": "furious",
+    "detailed_reasoning": "This is the climax of his anger. He points aggressively at the camera and yells the command, 'I said go home.' His voice is loud and harsh, and his facial expression is contorted with rage, moving beyond simple anger into outright fury.",
+    "summary_reasoning": "Yelling, aggressive pointing, furious expression."
+  }
+]

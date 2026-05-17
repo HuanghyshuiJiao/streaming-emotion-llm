@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "pleased",
+    "detailed_reasoning": "The speaker starts by talking about a positive experience, receiving a part that is \"perfect\" for him. His tone is light and his facial expression is soft with a slight smile, indicating a feeling of pleasure and contentment with his acting opportunities.",
+    "summary_reasoning": "Positive content, light tone, soft smile."
+  },
+  {
+    "timestamp": 4.82,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker transitions to sharing his social media handles. His tone becomes neutral and factual, and his facial expression is focused. He is simply delivering information without any strong emotional inflection, appearing calm and composed.",
+    "summary_reasoning": "Neutral tone, factual content, focused expression."
+  },
+  {
+    "timestamp": 10.531,
+    "emotion": "happy",
+    "detailed_reasoning": "Reacting to the interviewer's positive feedback (\"Very cool\"), the speaker breaks into a wide, genuine smile. This direct and immediate visual cue shows that he is happy and appreciates the compliment.",
+    "summary_reasoning": "Wide smile, positive reaction to feedback."
+  },
+  {
+    "timestamp": 13.958,
+    "emotion": "content",
+    "detailed_reasoning": "In response to a question about social media being a good networking tool, he answers with a simple \"Yes\" accompanied by a nod and a soft, lingering smile. This indicates he is content and in agreement with the interviewer's assessment.",
+    "summary_reasoning": "Affirmative answer, nodding, soft smile."
+  },
+  {
+    "timestamp": 16.623,
+    "emotion": "excited",
+    "detailed_reasoning": "The speaker's energy level noticeably increases as he begins to talk about his future plans for a hosting show. His tone becomes more animated and enthusiastic, and his eyes are bright and engaged, conveying excitement about the prospect of interviewing famous actors and athletes.",
+    "summary_reasoning": "Increased energy, animated tone, bright eyes."
+  },
+  {
+    "timestamp": 24.84,
+    "emotion": "confident",
+    "detailed_reasoning": "He confidently promotes his website to the interviewer. His tone is clear and direct, and he maintains steady eye contact. This act of self-promotion, delivered with clarity, shows confidence in his professional endeavors.",
+    "summary_reasoning": "Clear direct tone, self-promotion."
+  },
+  {
+    "timestamp": 28.973,
+    "emotion": "enthusiastic",
+    "detailed_reasoning": "Following a scene cut, the speaker's entire demeanor shifts. He now addresses the camera directly with a much higher energy level. His voice is louder, his speech is more performative, and he uses the word \"awesome,\" all of which signal a strong sense of enthusiasm and excitement.",
+    "summary_reasoning": "High energy, loud performative voice, enthusiastic words."
+  },
+  {
+    "timestamp": 36.097,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker delivers a strong call to action, encouraging viewers to get a free session. He uses the phrase \"I guarantee it,\" which, combined with his assertive tone and direct eye contact, projects a high degree of confidence in the value of what he is promoting.",
+    "summary_reasoning": "Assertive tone, direct guarantee, strong eye contact."
+  },
+  {
+    "timestamp": 39.809,
+    "emotion": "playful",
+    "detailed_reasoning": "He concludes the video with a friendly sign-off, a bright smile, and a peace-sign gesture. His final words, \"Big fingers,\" are a humorous and self-aware comment on his gesture, adding a playful and lighthearted quality to his closing.",
+    "summary_reasoning": "Smile, hand gesture, humorous words."
+  }
+]

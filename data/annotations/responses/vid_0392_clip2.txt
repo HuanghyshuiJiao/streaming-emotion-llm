@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 7.446,
+    "emotion": "disappointed",
+    "detailed_reasoning": "The speaker begins by describing a series of failures. His tone is flat and his energy is low. His facial expression is neutral to slightly sad, and his posture is slumped as he recounts how the materials from the nursery and the soil were not good. This combination of verbal content, vocal tone, and body language points to a clear sense of disappointment.",
+    "summary_reasoning": "Flat tone, slumped posture, describing failure."
+  },
+  {
+    "timestamp": 14.473,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker's emotion shifts from passive disappointment to active frustration. He recounts the stark outcome: 30 kids planted trees, resulting in 30 dead trees. His vocal volume increases, his speech pace quickens, and he uses emphatic hand gestures when saying \"30 kids\" and \"30 dead trees.\" His facial expression tightens, showing clear exasperation at the complete failure.",
+    "summary_reasoning": "Louder emphatic voice, quick pace, annoyed expression."
+  },
+  {
+    "timestamp": 23.863,
+    "emotion": "sad",
+    "detailed_reasoning": "After conveying frustration, the speaker's mood softens to sadness. He describes the children looking at the dead trees, which he explicitly labels as \"depressing.\" His gaze drops downwards, his shoulders slump, and his voice becomes quieter and lower in pitch. The delivery of the word \"depressing\" is heavy, reflecting the somber mood of the scene he's describing.",
+    "summary_reasoning": "Downcast gaze, quiet low-pitched voice, describing a depressing scene."
+  },
+  {
+    "timestamp": 32.86,
+    "emotion": "wry",
+    "detailed_reasoning": "The speaker shifts to discussing another failure—the herb gardens—but his tone changes. When explaining that the children were \"very thorough,\" likely meaning they overwatered the plants, his voice takes on a lighter, almost humorous quality. A faint, wry smile appears, suggesting he finds a dark or ironic humor in the relentless, kid-induced failures. It's a coping mechanism, showing amusement in the face of disaster.",
+    "summary_reasoning": "Ironic word choice, slight smile, humorous tone."
+  },
+  {
+    "timestamp": 44.803,
+    "emotion": "uneasy",
+    "detailed_reasoning": "The mood shifts again as the speaker becomes hesitant and thoughtful. He uses filler words like \"well\" and \"I mean,\" and his speech slows down. He touches the back of his head, a common gesture of uncertainty or discomfort. This hesitation indicates he is about to voice a more serious or troubling thought that he is reluctant to articulate, creating a feeling of unease.",
+    "summary_reasoning": "Hesitant speech, filler words, touching head."
+  },
+  {
+    "timestamp": 51.857,
+    "emotion": "suspicious",
+    "detailed_reasoning": "Following his uneasy hesitation, the speaker leans in slightly and, after a dramatic pause, delivers the punchline: \"sabotaged.\" His tone becomes serious and conspiratorial. His facial expression is one of dawning realization, suggesting that a more sinister explanation for all the failures has occurred to them. This final word reframes the entire narrative from one of simple misfortune to potential foul play.",
+    "summary_reasoning": "Serious tone, dramatic pause, conspiratorial expression."
+  }
+]

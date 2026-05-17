@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 8.142,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker begins by calmly recounting his past successes. His tone is steady and reminiscent, and his facial expression is thoughtful as he lists his accomplishments like buying a house and developing a music career. This indicates a state of positive reflection on his life's journey up to this point.",
+    "summary_reasoning": "Calm tone, thoughtful expression, recounting past successes."
+  },
+  {
+    "timestamp": 13.57,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's demeanor shifts as he introduces a contrast with the word \"But.\" His tone becomes more deliberate, and his expression turns serious as he prepares to talk about a difficult period in his past when he was 20 years old. This signals a change from positive reflection to a more somber part of his story.",
+    "summary_reasoning": "Contrast word \"But\", deliberate tone, serious expression."
+  },
+  {
+    "timestamp": 19.358,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker emphasizes his past state of mind by saying he \"couldn't imagine\" his future. His voice becomes more emphatic, and his facial expression shows a sense of remembered helplessness and disbelief. This conveys the deep frustration and lack of hope he felt at that time.",
+    "summary_reasoning": "Emphatic voice, expression of helplessness, negative words."
+  },
+  {
+    "timestamp": 25.326,
+    "emotion": "somber",
+    "detailed_reasoning": "Describing living in a house with no running water, the speaker's tone becomes lower and more subdued. His expression is grave, reflecting the hardship of the memory. This creates a somber mood as he details the difficult living conditions he endured.",
+    "summary_reasoning": "Low subdued tone, grave expression, describing hardship."
+  },
+  {
+    "timestamp": 30.465,
+    "emotion": "anxious",
+    "detailed_reasoning": "The speaker describes the immense pressure and uncertainty he felt with a new baby and no sense of his own identity. His voice carries a tone of remembered worry, and his facial expression is pensive, reflecting the anxiety of being unsure about his future and his ability to provide.",
+    "summary_reasoning": "Worried tone, pensive expression, describing uncertainty."
+  },
+  {
+    "timestamp": 40.778,
+    "emotion": "grave",
+    "detailed_reasoning": "The speaker reveals a pivotal realization: he was surrounded by people whose lives were ending. His tone becomes significantly more serious and profound, and he uses wide, open-handed gestures to emphasize the gravity of this environment. This marks a shift to a deeply serious and impactful part of his narrative.",
+    "summary_reasoning": "Profound serious tone, wide gestures, impactful words."
+  },
+  {
+    "timestamp": 48.709,
+    "emotion": "empathetic",
+    "detailed_reasoning": "As he describes his daily tasks and interactions with the residents, the speaker's tone softens. His expression conveys a sense of connection and care for the people he was looking after. This shift from his internal struggle to his interactions with others reveals his empathy.",
+    "summary_reasoning": "Soft tone, caring expression, describing interactions."
+  },
+  {
+    "timestamp": 53.556,
+    "emotion": "insightful",
+    "detailed_reasoning": "The speaker explains the profound lesson he learned from observing the residents' lives. His tone is one of realization and clarity, and his expression is knowing. He is sharing an important insight he gained about the consequences of different life choices, making the emotion insightful.",
+    "summary_reasoning": "Tone of realization, knowing expression, sharing a lesson."
+  },
+  {
+    "timestamp": 57.111,
+    "emotion": "philosophical",
+    "detailed_reasoning": "Concluding his point, the speaker's tone becomes conclusive and reflective, summarizing the different life outcomes he witnessed. He looks off to the side thoughtfully, as if contemplating the deeper meaning of his experiences. This imparts a sense of wisdom and philosophical reflection on life and its endings.",
+    "summary_reasoning": "Conclusive tone, thoughtful gaze, summarizing life lessons."
+  }
+]

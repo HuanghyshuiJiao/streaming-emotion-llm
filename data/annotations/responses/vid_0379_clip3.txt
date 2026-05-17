@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 6.217,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker is telling a joke to start her monologue. Her delivery of the incorrectly named movie characters ('Schrock,' 'Munyans,' and 'Harry Porter') is done with a playful smirk and a lighthearted, comedic tone. Her confident eye contact with the audience shows she is in control of the joke and amused by it herself.",
+    "summary_reasoning": "Playful smirk, comedic tone, intentional mispronunciations."
+  },
+  {
+    "timestamp": 12.624,
+    "emotion": "exasperated",
+    "detailed_reasoning": "The speaker's tone shifts from amusement to mock exasperation. She discusses a viral TikTok video where a woman falsely claimed to be her nutritionist. Her facial expression becomes more serious, she shakes her head slightly, and her voice takes on a disbelieving but still comedic tone, emphasizing the absurdity of the claim.",
+    "summary_reasoning": "Serious expression, head shake, disbelieving tone."
+  },
+  {
+    "timestamp": 22.474,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "After listing legitimate reasons for being in shape ('I run, avoid sugar'), the speaker pauses dramatically before delivering the punchline 'and do Ozempic' with a completely straight, deadpan face. This delivery is intentionally timed for comedic effect, revealing a sarcastic and self-deprecating sense of humor, which is confirmed by the immediate audience laughter.",
+    "summary_reasoning": "Deadpan expression, comedic pause, punchline delivery."
+  },
+  {
+    "timestamp": 29.802,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's demeanor changes as she introduces what she calls the 'craziest rumor.' Her tone becomes more measured and her facial expression turns serious, as if she is about to address a genuine and hurtful rumor about having an affair with her co-star, Glen Powell. This shift sets a more somber mood to create a contrast for the upcoming jokes.",
+    "summary_reasoning": "Measured tone, serious facial expression, focused gaze."
+  },
+  {
+    "timestamp": 36.074,
+    "emotion": "sincere",
+    "detailed_reasoning": "In refuting the affair rumor, the speaker's tone softens and her expression becomes genuine and warm as she talks about her fiancé. She explains that he was a producer on the movie and present for the entire shoot, delivering this information with a sincere smile to convey the stability and reality of her relationship.",
+    "summary_reasoning": "Soft tone, genuine smile, warm expression."
+  },
+  {
+    "timestamp": 42.988,
+    "emotion": "affectionate",
+    "detailed_reasoning": "The speaker's smile widens and her voice fills with warmth and affection as she explicitly calls her fiancé 'the man of my dreams.' Her open body language and softened gaze towards the audience reinforce the genuine, loving emotion she is conveying about her partner.",
+    "summary_reasoning": "Wide smile, warm voice, softened gaze."
+  },
+  {
+    "timestamp": 49.1,
+    "emotion": "playful",
+    "detailed_reasoning": "The speaker's emotion shifts to playful excitement as she sets up a bit for the audience. She asks for the camera to cut to her fiancé with a broad, expectant smile and an engaging tone. This builds anticipation for what the audience assumes will be a heartfelt moment, but is actually the setup for a joke.",
+    "summary_reasoning": "Broad smile, expectant tone, gesturing to audience."
+  },
+  {
+    "timestamp": 57.136,
+    "emotion": "amused",
+    "detailed_reasoning": "After the camera jokingly shows her co-star Glen Powell instead of her fiancé, the speaker feigns exasperation, saying 'That's not my fiancé.' Her slight smile, combined with the shake of her head and pointing off-stage, indicates she is amused and enjoying the joke, sharing the comedic moment with the audience.",
+    "summary_reasoning": "Feigned exasperation, slight smile, playful gesture."
+  }
+]

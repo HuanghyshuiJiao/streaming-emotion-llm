@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 5.52,
+    "emotion": "contemplative",
+    "detailed_reasoning": "The speaker begins the monologue looking upwards and away from the camera, as if in deep thought or recollection. His tone is measured and somewhat lofty, matching the poetic nature of the words. His facial expression is neutral but his distant gaze suggests he is visualizing the scene he describes.",
+    "summary_reasoning": "Upward gaze, measured tone, poetic language."
+  },
+  {
+    "timestamp": 10.128,
+    "emotion": "engaging",
+    "detailed_reasoning": "The speaker's gaze shifts to look directly towards the camera, breaking from his initial contemplative state. His expression becomes more animated and he delivers the lines with a more direct and presentational tone, as if actively involving an audience in his grand vision.",
+    "summary_reasoning": "Direct gaze, animated expression, presentational tone."
+  },
+  {
+    "timestamp": 19.645,
+    "emotion": "intense",
+    "detailed_reasoning": "The speaker leans slightly forward and his eyes widen. His vocal delivery becomes more forceful and dramatic, particularly on the words \"warlike howdy.\" He is starting to embody the powerful character and scene he is describing, moving from narration to a more intense performance.",
+    "summary_reasoning": "Leans forward, wider eyes, forceful tone."
+  },
+  {
+    "timestamp": 26.608,
+    "emotion": "menacing",
+    "detailed_reasoning": "His tone drops and becomes harsher, almost like a growl, especially on the word \"hounds.\" His facial expression becomes more severe, with a slight frown. He is now embodying the threatening imagery of famine, sword, and fire, creating a sense of danger and menace.",
+    "summary_reasoning": "Harsh tone, severe facial expression."
+  },
+  {
+    "timestamp": 33.719,
+    "emotion": "apologetic",
+    "detailed_reasoning": "There is an abrupt shift in his entire demeanor. His voice softens significantly, his facial muscles relax, and he adopts a gentle, almost pleading expression. He breaks character to address the audience directly with a humble and apologetic tone.",
+    "summary_reasoning": "Soft voice, relaxed face, pleading expression."
+  },
+  {
+    "timestamp": 47.66,
+    "emotion": "incredulous",
+    "detailed_reasoning": "His voice rises in pitch and takes on a questioning, almost self-mocking tone. His eyebrows are raised and his eyes are wide, expressing a sense of disbelief and highlighting the absurdity of trying to contain the vast fields of France within a small stage or \"cockpit.\"",
+    "summary_reasoning": "High-pitched voice, raised eyebrows, questioning tone."
+  },
+  {
+    "timestamp": 55.182,
+    "emotion": "ecstatic",
+    "detailed_reasoning": "The speaker's face breaks into a sudden, wide, almost manic grin. His eyes are wide with excitement, and his delivery of the final line is filled with a burst of energetic, almost crazed joy, celebrating the power of theatrical imagination.",
+    "summary_reasoning": "Wide manic grin, energetic tone, excited eyes."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 2.233,
+    "emotion": "amused",
+    "detailed_reasoning": "At the beginning of his story, the speaker has a gentle smile and a soft, slightly high-pitched tone. His facial expression and vocal delivery suggest he is amused and is setting a lighthearted, narrative mood for the audience.",
+    "summary_reasoning": "Gentle smile, soft tone."
+  },
+  {
+    "timestamp": 5.417,
+    "emotion": "playful",
+    "detailed_reasoning": "The speaker's emotion shifts as he introduces a condition. While his tone remains calm, he raises his index finger for emphasis when saying \"But,\" and his smile becomes more of a knowing, slightly mischievous one. This suggests a playful shift, as if a wise master is about to impart a lesson in an unconventional way.",
+    "summary_reasoning": "Knowing smile, hand gesture, change in vocal intonation."
+  },
+  {
+    "timestamp": 13.125,
+    "emotion": "curious",
+    "detailed_reasoning": "Here, the speaker is voicing the student monk. He briefly closes his eyes and adopts a softer, more inquisitive tone, with a slight upward inflection to portray the student's curiosity and deference to his master's request. The emotion shifts to reflect the character he is portraying.",
+    "summary_reasoning": "Portraying character, inquisitive tone, soft expression."
+  },
+  {
+    "timestamp": 17.11,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker returns to a neutral, narrative role. His expression is focused, and his voice is steady and descriptive as he explains the master's actions. He mimes holding a spoon, indicating he is simply setting the scene for the story's main event, and his emotion is calm and neutral.",
+    "summary_reasoning": "Neutral expression, steady narrative voice."
+  },
+  {
+    "timestamp": 22.656,
+    "emotion": "authoritative",
+    "detailed_reasoning": "When delivering the master monk's instructions, the speaker's tone becomes firm and instructive, particularly on the words \"you must.\" He points his finger forward to add emphasis, and his facial expression becomes more serious, conveying the gentle authority of the master giving a command.",
+    "summary_reasoning": "Firm tone, pointing gesture, serious expression."
+  },
+  {
+    "timestamp": 31.515,
+    "emotion": "playful",
+    "detailed_reasoning": "The emotion shifts back to being playful as the speaker reveals the challenge. He says \"here's the trick\" with a knowing smile and a slight conspiratorial dip in his voice, creating a sense of lighthearted intrigue before revealing the serious condition of the task.",
+    "summary_reasoning": "Knowing smile, conspiratorial tone."
+  },
+  {
+    "timestamp": 33.399,
+    "emotion": "serious",
+    "detailed_reasoning": "Immediately after the playful reveal of the \"trick,\" the speaker's demeanor becomes serious and emphatic. He delivers the line \"must never spill a single drop\" with a firm, deliberate tone and a stern facial expression to underscore the gravity and difficulty of the condition.",
+    "summary_reasoning": "Firm tone, stern expression, deliberate pace."
+  },
+  {
+    "timestamp": 38.952,
+    "emotion": "encouraging",
+    "detailed_reasoning": "After stating the difficult condition, the speaker's emotion softens as he explains the reward. His tone becomes gentle and reassuring, his facial expression relaxes into a soft smile, and he uses an open-handed gesture, all of which combine to create an encouraging and hopeful mood.",
+    "summary_reasoning": "Soft tone, gentle smile, open-handed gesture."
+  },
+  {
+    "timestamp": 42.56,
+    "emotion": "hopeful",
+    "detailed_reasoning": "The speaker now describes the student monk's internal thoughts. His tone becomes narrative, and he adopts a slightly wide-eyed, smiling expression to convey the student's hope and eagerness to succeed in order to finally leave. The slight emphasis on \"weird request\" also hints at the student's perspective.",
+    "summary_reasoning": "Narrating character's thoughts, smiling expression, hopeful tone."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 2.634,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker begins by recounting a significant past event. His tone is calm, steady, and narrative, without strong emotional inflections. His facial expression is neutral as he looks down at his notes, indicating a composed and reflective state as he sets the context for his story.",
+    "summary_reasoning": "Calm narrative tone, neutral expression."
+  },
+  {
+    "timestamp": 11.806,
+    "emotion": "happy",
+    "detailed_reasoning": "When mentioning his \"wonderful family,\" the speaker's tone softens and his pace slows slightly. He looks up from his notes and a subtle smile appears on his face, conveying a sense of personal happiness and warmth. This is a clear shift from the previous factual recounting of his career.",
+    "summary_reasoning": "Soft tone, slight smile, positive words."
+  },
+  {
+    "timestamp": 18.414,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker describes the experience of being fired as \"awful-tasting medicine.\" His tone becomes more serious and his pace slows down, reflecting on the difficulty of the moment. His expression is serious, and he looks down, conveying the gravity and unpleasantness of the memory.",
+    "summary_reasoning": "Serious tone, slow pace, serious expression."
+  },
+  {
+    "timestamp": 24.562,
+    "emotion": "emphatic",
+    "detailed_reasoning": "Transitioning to a more direct, advisory tone, the speaker uses the metaphor \"life's going to hit you in the head with a brick.\" He delivers this line with more force and a slightly louder volume to emphasize the harsh realities of life, shifting from personal reflection to a powerful, generalized lesson.",
+    "summary_reasoning": "Forceful tone, louder volume, strong metaphor."
+  },
+  {
+    "timestamp": 30.186,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker's voice gains intensity and conviction as he says, \"the only thing that kept me going was that I loved what I did.\" He places strong emphasis on the word \"loved,\" and his gaze becomes more focused. This indicates a deep, personal passion for his work, which he presents as his core motivation.",
+    "summary_reasoning": "Intense voice, strong emphasis, focused gaze."
+  },
+  {
+    "timestamp": 41.872,
+    "emotion": "inspirational",
+    "detailed_reasoning": "The speaker's tone becomes more expansive and motivational as he offers direct advice to the audience. He speaks about finding what you love to be \"truly satisfied,\" using a steady, clear, and encouraging voice. He looks up at the audience more, connecting with them and aiming to inspire.",
+    "summary_reasoning": "Encouraging tone, direct eye contact, advisory words."
+  },
+  {
+    "timestamp": 51.353,
+    "emotion": "encouraging",
+    "detailed_reasoning": "In his final lines, the speaker's tone is firm yet encouraging. The phrases \"keep looking\" and \"don't settle\" are delivered as direct, motivational commands. He looks directly at the audience with a determined expression, reinforcing his message of perseverance and hope.",
+    "summary_reasoning": "Firm tone, direct commands, determined expression."
+  },
+  {
+    "timestamp": 55.222,
+    "emotion": "reassuring",
+    "detailed_reasoning": "The speech concludes with a softer, more intimate tone as he says, \"you'll know when you find it.\" The pace slows, and his voice becomes gentle, offering a final piece of reassuring and hopeful advice. This creates a sense of comfort and closure after the previous emphatic statements.",
+    "summary_reasoning": "Soft, gentle tone, slow pace."
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 4.177,
+    "emotion": "determined",
+    "detailed_reasoning": "The speaker begins with a strong, declarative statement. Her tone of voice is firm and resolute, her pace is deliberate, and her upward-pointing finger gesture emphasizes her conviction. Her facial expression is focused and serious, conveying a sense of unwavering determination to achieve her goal, setting a powerful opening tone for the performance.",
+    "summary_reasoning": "Firm tone, pointed gesture, serious expression."
+  },
+  {
+    "timestamp": 13.89,
+    "emotion": "longing",
+    "detailed_reasoning": "The emotion shifts from pure determination to a sense of longing. The speaker's voice becomes more expressive and slightly wistful, especially as she says, 'I want to be well-read.' Her hands trace imaginary lines, and her eyes search the space, visually representing her deep desire for knowledge and the frustration of wanting it all at once.",
+    "summary_reasoning": "Wistful tone, searching eyes, expressive hands."
+  },
+  {
+    "timestamp": 17.134,
+    "emotion": "passionate",
+    "detailed_reasoning": "The longing intensifies into outright passion. Her voice crescendos in volume, and the repetition of 'I want' becomes a powerful, emphatic declaration. Her arms open wide on 'all the things,' a physical manifestation of her all-encompassing desire. The emotion is now more urgent and fervent.",
+    "summary_reasoning": "Louder voice, emphatic tone, open arm gesture."
+  },
+  {
+    "timestamp": 20.219,
+    "emotion": "urgent",
+    "detailed_reasoning": "The passion now has a sharp edge of urgency. The line 'I want to start now' is delivered with a clipped, forceful tone. Her facial expression is intense and her body language is tense, conveying an immediate and pressing need to begin her journey of self-improvement without delay.",
+    "summary_reasoning": "Forceful tone, intense expression, tense body."
+  },
+  {
+    "timestamp": 26.328,
+    "emotion": "aspirational",
+    "detailed_reasoning": "The emotion shifts from a general urgency to a more specific, aspirational dream. As she talks about playing the violin beautifully, her tone softens and becomes more melodic and dreamy. She mimes playing the instrument, physically embodying her aspiration. It's a moment of envisioning an idealized, artistic version of herself.",
+    "summary_reasoning": "Softer, dreamy tone, miming violin."
+  },
+  {
+    "timestamp": 34.061,
+    "emotion": "defiant",
+    "detailed_reasoning": "The aspiration takes on a defiant and confrontational edge. When she says, 'I want to see your jaw hit the floor,' she points directly at the audience. Her tone becomes sharp and challenging, and a confident smirk appears on her face. The goal is no longer just personal; it's about proving her talent to others in a defiant manner.",
+    "summary_reasoning": "Challenging tone, pointing at audience, confident smirk."
+  },
+  {
+    "timestamp": 38.007,
+    "emotion": "reflective",
+    "detailed_reasoning": "Following the defiant peak, there is a sudden shift to a quiet, reflective moment. Her voice becomes softer and her pace slows as she describes her 'fingers trembling rough with calluses.' She looks at her own hand, her expression turning inward as she contemplates the physical sacrifice required for her art, a brief moment of acknowledging the hard reality of her ambition.",
+    "summary_reasoning": "Soft, slow voice, inward gaze, contemplating sacrifice."
+  },
+  {
+    "timestamp": 41.453,
+    "emotion": "fanciful",
+    "detailed_reasoning": "The speaker immediately rejects the harsh reality of calluses with a complete change in demeanor. Her voice becomes soft, smooth, and alluring as she describes a romantic fantasy of having 'soft, smooth hands.' Her expression is gentle and her hand gestures are open, conveying a whimsical and fanciful desire for the reward (love and admiration) without the preceding labor.",
+    "summary_reasoning": "Soft, alluring voice, gentle expression, describing fantasy."
+  },
+  {
+    "timestamp": 48.046,
+    "emotion": "ambitious",
+    "detailed_reasoning": "The fanciful mood is shattered by a powerful declaration of ambition. Her voice becomes loud and commanding as she states her ultimate goal: 'first chair violinist.' Her posture straightens, her chin lifts, and she points upward, all non-verbal cues indicating a peak moment of ambition and self-confidence.",
+    "summary_reasoning": "Loud, commanding voice, confident posture, upward gesture."
+  },
+  {
+    "timestamp": 55.408,
+    "emotion": "zealous",
+    "detailed_reasoning": "The ambition transforms into a zealous, almost fanatical conviction. She declares she will achieve her grand goal simply by listening to YouTube videos. The absurdity of the method, delivered with the same powerful and unwavering tone as the goal itself, combined with a wide-eyed, slightly manic expression, suggests a zealous belief in an irrational path to success.",
+    "summary_reasoning": "Fanatical tone, manic expression, absurd statement."
+  }
+]

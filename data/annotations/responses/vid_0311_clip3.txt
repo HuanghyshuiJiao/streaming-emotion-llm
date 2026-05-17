@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 2.133,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her presentation with a steady and measured tone. Her posture is poised and her facial expression is neutral yet engaging, establishing a calm and informative atmosphere as she introduces the topic.",
+    "summary_reasoning": "Steady tone, poised posture, neutral expression."
+  },
+  {
+    "timestamp": 8.52,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker transitions from a general topic to a personal one about her father. Her vocal tone softens, her pace slows slightly, and she uses a gentle hand gesture, indicating a shift into a more personal and reflective state.",
+    "summary_reasoning": "Softer tone, slower pace, personal subject."
+  },
+  {
+    "timestamp": 17.669,
+    "emotion": "passionate",
+    "detailed_reasoning": "When discussing her natural passions for music and creative arts, her voice becomes more animated and her facial expression shows a subtle smile. This shift suggests a genuine passion and personal connection to the subject.",
+    "summary_reasoning": "Animated voice, subtle smile, personal connection."
+  },
+  {
+    "timestamp": 23.515,
+    "emotion": "disappointed",
+    "detailed_reasoning": "The mood shifts as she says her father discouraged her. Her smile fades, her tone becomes more serious and slightly lower in pitch, and her brow furrows slightly. This conveys a sense of past disappointment and conflict.",
+    "summary_reasoning": "Smile fades, serious tone, furrowed brow."
+  },
+  {
+    "timestamp": 30.303,
+    "emotion": "determined",
+    "detailed_reasoning": "Her tone changes to one of resolve as she describes working hard in school. Her voice becomes firmer, her speaking pace is deliberate, and her expression is focused, reflecting the determination she felt to please her dad while pursuing her passions.",
+    "summary_reasoning": "Firm voice, deliberate pace, focused expression."
+  },
+  {
+    "timestamp": 41.533,
+    "emotion": "liberated",
+    "detailed_reasoning": "Describing how theater and music allowed her to release emotions, her vocal delivery becomes more expressive and dynamic. Her gestures become more open and fluid, physically illustrating the feeling of release and liberation she is describing.",
+    "summary_reasoning": "Expressive voice, fluid gestures, theme of release."
+  },
+  {
+    "timestamp": 48.691,
+    "emotion": "joyful",
+    "detailed_reasoning": "As she recalls being told it was 'good to be seen' on stage, her face lights up with a genuine, bright smile. Her voice swells with positive emotion, becoming higher in pitch and warmer, clearly communicating a deep sense of joy and validation.",
+    "summary_reasoning": "Bright smile, warm and high-pitched voice."
+  }
+]

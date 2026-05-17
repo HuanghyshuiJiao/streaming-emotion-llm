@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 6.74,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker begins his monologue with a light, conversational tone, addressing the audience directly. His slight smile and relaxed posture suggest he is setting up a joke and is amused by the premise he's introducing.",
+    "summary_reasoning": "Conversational tone, slight smile."
+  },
+  {
+    "timestamp": 10.845,
+    "emotion": "playful",
+    "detailed_reasoning": "After delivering the first punchline (\"I made the last two up\"), his tone becomes more playful and conspiratorial. He smiles and uses hand gestures, engaging the audience in the joke as if sharing a secret.",
+    "summary_reasoning": "Smiling, conspiratorial tone, hand gestures."
+  },
+  {
+    "timestamp": 17.734,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "The speaker's tone shifts as he says the word \"nastier.\" His facial expression becomes slightly more serious, and he emphasizes the word to create a sarcastic effect, signaling a move into a more pointed part of his comedic narrative.",
+    "summary_reasoning": "Serious expression, emphasized word, tonal shift."
+  },
+  {
+    "timestamp": 21.499,
+    "emotion": "mocking",
+    "detailed_reasoning": "The speaker impersonates Donald Trump with a dismissive tone and a slight change in his facial expression to mimic him. This is a clear act of mockery for comedic effect, followed by a long pause to let the audience react.",
+    "summary_reasoning": "Impersonation, dismissive tone, comedic pause."
+  },
+  {
+    "timestamp": 30.988,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "When delivering the line about the \"Epstein files,\" the speaker's tone becomes more intense and his expression more serious to land the punchline. This serious delivery of a shocking and absurd claim is a form of sarcasm, heightening the political commentary of the joke.",
+    "summary_reasoning": "Intense tone, serious expression, shocking statement."
+  },
+  {
+    "timestamp": 39.473,
+    "emotion": "exaggerated",
+    "detailed_reasoning": "Describing the situation as a \"war that is going back and forth,\" the speaker's voice becomes more dramatic and his hand gestures become larger and more repetitive. This is a clear use of hyperbole to mock the absurdity of the feud he is describing.",
+    "summary_reasoning": "Dramatic tone, repetitive hand gestures, hyperbole."
+  },
+  {
+    "timestamp": 45.31,
+    "emotion": "deadpan",
+    "detailed_reasoning": "The speaker delivers the final, absurd punchline (\"the winner faces Blake Lively\") with a completely straight, serious face. This deadpan delivery, contrasting with the ridiculousness of the statement, is the ultimate comedic punch of the segment.",
+    "summary_reasoning": "Serious face, absurd statement, flat tone."
+  }
+]

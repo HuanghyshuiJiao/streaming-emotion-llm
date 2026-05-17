@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 7.914,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's tone becomes more direct and he emphasizes the word 'never'. His facial expression is focused, and he uses a pointed hand gesture, indicating he's making a serious, important point about acting.",
+    "summary_reasoning": "Direct tone, focused expression, emphatic gesture."
+  },
+  {
+    "timestamp": 16.75,
+    "emotion": "engaged",
+    "detailed_reasoning": "The speaker is actively providing examples to illustrate his point. His tone varies as he mentions different emotions ('angry,' 'sad,' 'joyful'), and he uses hand gestures to complement his words. This demonstrates active engagement with the topic he is teaching.",
+    "summary_reasoning": "Varied tone, illustrative examples, hand gestures."
+  },
+  {
+    "timestamp": 28.182,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker's tone becomes more intense and he points towards the camera when saying 'the motive is on you.' This direct address and increased vocal energy show his passion for the subject and his desire to impress this key point upon the listener.",
+    "summary_reasoning": "Intense tone, points at camera, vocal energy increases."
+  },
+  {
+    "timestamp": 35.31,
+    "emotion": "inspiring",
+    "detailed_reasoning": "His tone shifts to a more uplifting and encouraging quality as he says 'bring it to life.' His hand gestures are open and expressive, visually reinforcing the idea of creation and inspiration. He is motivating the listener.",
+    "summary_reasoning": "Uplifting tone, open hand gestures, motivational words."
+  },
+  {
+    "timestamp": 39.479,
+    "emotion": "sincere",
+    "detailed_reasoning": "The speaker's pace slows, and his tone becomes earnest as he gives his final pieces of advice like 'trust yourself.' He clasps his hands in front of him, which, combined with his focused gaze and heartfelt vocal delivery, conveys a deep sincerity.",
+    "summary_reasoning": "Slow pace, earnest tone, clasped hands."
+  },
+  {
+    "timestamp": 51.074,
+    "emotion": "friendly",
+    "detailed_reasoning": "After delivering his main points with intensity, the speaker's demeanor shifts for the sign-off. His tone becomes lighter and more conversational as he introduces himself. He ends with a slight smile and a 'Peace' sign, concluding the video on a friendly and positive note.",
+    "summary_reasoning": "Lighter tone, smile, peace sign gesture."
+  }
+]

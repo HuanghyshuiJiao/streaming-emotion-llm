@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 3.094,
+    "emotion": "dramatic",
+    "detailed_reasoning": "The speaker begins her story with a highly expressive and dramatic tone. Her voice is projected, her words are enunciated clearly, and she uses hand gestures to paint a vivid picture of the apartment suddenly plunging into darkness. This suggests she is setting a scene for a story in a performative way.",
+    "summary_reasoning": "Projected voice, expressive gestures, storytelling tone."
+  },
+  {
+    "timestamp": 12.943,
+    "emotion": "tense",
+    "detailed_reasoning": "Continuing the narrative, the speaker describes the power being out across the whole neighborhood on a \"scorching summer day.\" Her tone remains dramatic, but the content of her speech introduces a sense of discomfort and uncertainty, creating a tense atmosphere.",
+    "summary_reasoning": "Dramatic tone, descriptive words of discomfort."
+  },
+  {
+    "timestamp": 20.29,
+    "emotion": "disappointed",
+    "detailed_reasoning": "The speaker's tone shifts to one of clear disappointment and frustration. After checking the electric company's website, she states flatly, \"No estimate on when the power will be back up.\" Her facial expression matches this feeling of letdown, and her vocal delivery is conclusive and negative.",
+    "summary_reasoning": "Flat tone, negative words, disappointed facial expression."
+  },
+  {
+    "timestamp": 33.301,
+    "emotion": "skeptical",
+    "detailed_reasoning": "The speaker's emotion changes as she mentions the common idea that blackouts can be \"fun or romantic.\" Her tone becomes slightly sarcastic and dismissive, accompanied by a subtle eye roll and a slight, disbelieving smile, indicating her skepticism toward this notion.",
+    "summary_reasoning": "Sarcastic tone, subtle eye roll, disbelieving smile."
+  },
+  {
+    "timestamp": 39.347,
+    "emotion": "uneasy",
+    "detailed_reasoning": "Her tone becomes more serious and somber as she directly describes the negative feelings in the apartment. She lowers her voice and speaks more slowly when mentioning \"disappointment\" and the \"sense of unease,\" and her facial expression becomes serious, reflecting the gravity of the emotions she's describing.",
+    "summary_reasoning": "Serious tone, slower speech, somber facial expression."
+  },
+  {
+    "timestamp": 45.394,
+    "emotion": "agitated",
+    "detailed_reasoning": "The speaker's frustration becomes more pronounced. She describes being unable to sleep because her partner is \"radiating heat.\" Her voice gains a noticeable edge of agitation, her speech quickens, and she uses a hand gesture to mimic pushing something away, physically expressing her discomfort and annoyance.",
+    "summary_reasoning": "Agitated voice, quickened speech, expressive gesture of discomfort."
+  },
+  {
+    "timestamp": 53.483,
+    "emotion": "reflective",
+    "detailed_reasoning": "There is a distinct shift in the speaker's demeanor from agitated to thoughtful. After expressing her frustration, she pauses and says, \"lying in the dark, I realize...\" Her pace slows down, her voice softens, and her expression becomes more introspective, signaling a moment of realization or epiphany.",
+    "summary_reasoning": "Slower pace, softer voice, introspective expression."
+  },
+  {
+    "timestamp": 58.388,
+    "emotion": "bewildered",
+    "detailed_reasoning": "The speaker concludes her story with a final realization that leaves her looking bewildered. Her eyes widen as she delivers the last line, \"I don't even know where my power comes from.\" Her tone is one of genuine surprise and slight confusion, as if this simple fact had never occurred to her before this moment.",
+    "summary_reasoning": "Wide-eyed expression, surprised tone, sense of confusion."
+  }
+]

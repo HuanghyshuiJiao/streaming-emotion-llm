@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1.533,
+    "emotion": "neutral",
+    "detailed_reasoning": "The speaker begins with a standard greeting. His vocal tone is even and his facial expression is neutral as he introduces himself, establishing a baseline for the video.",
+    "summary_reasoning": "Even tone, neutral expression."
+  },
+  {
+    "timestamp": 3.575,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker's tone remains neutral, but his purpose is clearly to inform the audience. He is reminding them about the 'Black Friday video contest' in a straightforward manner.",
+    "summary_reasoning": "Neutral tone, stating purpose."
+  },
+  {
+    "timestamp": 7.74,
+    "emotion": "encouraging",
+    "detailed_reasoning": "The speaker starts listing options for the contest. His tone is light and encouraging, and he uses open hand gestures to present the different possibilities to the audience, making them feel included.",
+    "summary_reasoning": "Light tone, open gestures."
+  },
+  {
+    "timestamp": 20.736,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker suggests a 'silly photograph or gif.' His tone becomes more playful, and a slight smile appears on his face as he describes the humorous option, indicating his own amusement with the idea.",
+    "summary_reasoning": "Playful tone, slight smile."
+  },
+  {
+    "timestamp": 27.532,
+    "emotion": "playful",
+    "detailed_reasoning": "He instructs the viewers to be 'as dramatic as possible, please.' His tone is exaggerated and playful, leaning into the comedic and theatrical nature of the contest he's promoting.",
+    "summary_reasoning": "Exaggerated tone, comedic instruction."
+  },
+  {
+    "timestamp": 33.41,
+    "emotion": "dramatic",
+    "detailed_reasoning": "The speaker attempts to perform a line himself, saying 'Those Black Friday sales are so brutal.' His voice becomes louder and more strained, and his facial expression is one of mock horror, demonstrating the dramatic style he's encouraging.",
+    "summary_reasoning": "Louder strained voice, mock horror expression."
+  },
+  {
+    "timestamp": 40.204,
+    "emotion": "amused",
+    "detailed_reasoning": "After his failed attempt at acting, he breaks character, laughs, and says, 'I can't do it. I'm sorry.' His laughter and smile show that he is amused by his own poor performance, engaging in self-deprecating humor.",
+    "summary_reasoning": "Laughter, smiling, self-deprecating words."
+  },
+  {
+    "timestamp": 45.635,
+    "emotion": "embarrassed",
+    "detailed_reasoning": "Continuing the self-deprecating humor, he states, 'I can't even perform my own scripts. It's embarrassing.' He smiles and shakes his head, conveying a sense of playful embarrassment at his lack of acting skills.",
+    "summary_reasoning": "Smiling, shaking head, self-deprecating words."
+  },
+  {
+    "timestamp": 50.886,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker's demeanor shifts back to being more neutral and informative as he begins to introduce the next topic, 'now we also have the December...'. The humorous and playful tone has subsided.",
+    "summary_reasoning": "Neutral tone, topic transition."
+  }
+]

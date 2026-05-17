@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 3.257,
+    "emotion": "disappointed",
+    "detailed_reasoning": "The video starts with a close-up on a man in period clothing, with dramatic, low-key lighting. He speaks slowly and pauses significantly after the word 'month'. His tone is low and his facial expression is somber, with downturned lips. He delivers the line 'she married' with a sense of finality and slight disbelief, indicating his disappointment and disapproval of this event.",
+    "summary_reasoning": "Slow speech, low tone, somber expression, context."
+  },
+  {
+    "timestamp": 7.725,
+    "emotion": "disgusted",
+    "detailed_reasoning": "After a long pause, the speaker's emotion intensifies. His eyes narrow, his lips purse in a sneer, and he spits out the words 'most wicked speed'. The vocal delivery becomes harsher and more contemptuous, clearly signaling his disgust at the haste of the marriage he previously mentioned.",
+    "summary_reasoning": "Narrowed eyes, sneer, harsh vocal tone."
+  },
+  {
+    "timestamp": 12.874,
+    "emotion": "scornful",
+    "detailed_reasoning": "The disgust continues and evolves into scorn. As he says 'with such dexterity to incestuous sheets,' his face contorts further in contempt. The word 'incestuous' is delivered with particular venom and a slight curling of the upper lip, showing his utter scorn for the act.",
+    "summary_reasoning": "Contemptuous facial expression, venomous tone."
+  },
+  {
+    "timestamp": 20.027,
+    "emotion": "resigned",
+    "detailed_reasoning": "Following the outburst of disgust, the speaker's energy subsides. He closes his eyes briefly, and his tone becomes quieter and more fatalistic. He says, 'It is not, no, it cannot come to good,' with a sense of hopeless resignation, as if he sees a terrible but inevitable outcome.",
+    "summary_reasoning": "Quieter tone, fatalistic delivery, lowered energy."
+  },
+  {
+    "timestamp": 25.517,
+    "emotion": "pained",
+    "detailed_reasoning": "The speaker's emotion shifts from a general sense of doom to a more personal, internal pain. As he says, 'But break my heart,' his expression becomes one of anguish. His brow furrows, and his voice carries a clear tone of suffering, revealing the deep personal hurt this situation is causing him.",
+    "summary_reasoning": "Anguished expression, pained vocal tone."
+  },
+  {
+    "timestamp": 28.182,
+    "emotion": "constrained",
+    "detailed_reasoning": "In the final moments, after expressing his heartbreak, he concludes with 'for I must hold my tongue.' His voice becomes very quiet and his posture seems to shrink slightly. His facial expression is one of pained suppression, showing that he is being forced to keep his intense feelings bottled up, leading to a feeling of being constrained.",
+    "summary_reasoning": "Quiet voice, suppressed expression, context of holding back."
+  }
+]

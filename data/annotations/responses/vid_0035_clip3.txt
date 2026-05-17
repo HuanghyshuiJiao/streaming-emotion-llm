@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 4.874,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker begins with a pained facial expression. Her eyebrows are furrowed, her mouth is turned down, and her eyes have a sorrowful look. Her vocal tone is soft and wavering, indicating sadness and emotional distress as she starts her story.",
+    "summary_reasoning": "Pained expression, wavering voice."
+  },
+  {
+    "timestamp": 9.581,
+    "emotion": "grieving",
+    "detailed_reasoning": "Her expression deepens into grief. She looks down as if recalling a painful memory, and her voice is filled with sorrow. The words \"she just looked asleep\" convey a sense of disbelief mixed with the deep sadness of the situation.",
+    "summary_reasoning": "Downward gaze, sorrowful tone."
+  },
+  {
+    "timestamp": 13.407,
+    "emotion": "shocked",
+    "detailed_reasoning": "There is a distinct shift in her expression as she describes the turning point. Her eyes widen slightly and her face tenses, conveying the shock and horror of the realization that something was terribly wrong. Her tone becomes more strained when she says the lips had \"gone blue.\"",
+    "summary_reasoning": "Widened eyes, strained tone."
+  },
+  {
+    "timestamp": 16.271,
+    "emotion": "devastated",
+    "detailed_reasoning": "After stating the fact of the death, her face crumples further. Her eyebrows are heavily furrowed, her eyes are filled with pain, and her mouth is tense. The directness of the word \"dead\" combined with this intense facial expression of pain indicates a feeling of utter devastation.",
+    "summary_reasoning": "Crumpled face, pained expression."
+  },
+  {
+    "timestamp": 19.876,
+    "emotion": "anguished",
+    "detailed_reasoning": "Her expression shifts to one of anguish and disbelief. Her head moves slightly, and her face contorts as she expresses the speed of the event. Her voice rises in pitch and volume, filled with a sense of frantic pain and confusion about how quickly the tragedy unfolded.",
+    "summary_reasoning": "Contorted face, frantic tone."
+  }
+]

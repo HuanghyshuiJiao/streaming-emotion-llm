@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 6.402,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker first appears on stage. His posture is relaxed, his hands are loosely held, and his tone is measured and calm as he introduces his role as an entrepreneur and mentor. His facial expression is neutral and his delivery is steady, establishing a composed baseline.",
+    "summary_reasoning": "Relaxed posture, calm tone, neutral expression."
+  },
+  {
+    "timestamp": 10.028,
+    "emotion": "purposeful",
+    "detailed_reasoning": "The speaker begins to describe his work. His tone shifts from a general introduction to a more focused, purposeful one. He uses deliberate hand gestures to emphasize his actions of going into schools and communities. This indicates a clear sense of mission and purpose behind his words.",
+    "summary_reasoning": "Focused tone, deliberate hand gestures."
+  },
+  {
+    "timestamp": 14.896,
+    "emotion": "serious",
+    "detailed_reasoning": "When he mentions \"the importance of safe space creation as well as emotional fluency,\" his tone becomes more serious and weighty. His brow furrows slightly and his speaking pace slows down to emphasize these key concepts, signaling the gravity of the topic.",
+    "summary_reasoning": "Weighty tone, slowed pace, furrowed brow."
+  },
+  {
+    "timestamp": 19.203,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker's emotional intensity increases as he states, \"Because what I believe is this...\". His voice gains volume and conviction, and his gestures become more expansive. This shift indicates he is now sharing a deeply held personal belief, moving from a serious explanation to a passionate declaration.",
+    "summary_reasoning": "Increased volume, convicted tone, expansive gestures."
+  },
+  {
+    "timestamp": 26.575,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker delivers a powerful concluding statement to his point, contrasting the internal and external worlds. His voice is strong and assertive, and he uses wide, open-arm gestures to project confidence and authority in his belief about shaping one's own world.",
+    "summary_reasoning": "Strong voice, assertive tone, open-arm gestures."
+  },
+  {
+    "timestamp": 34.452,
+    "emotion": "proud",
+    "detailed_reasoning": "The speaker announces the publication of his book. His tone softens slightly but carries an undercurrent of pride and accomplishment. He stands tall and delivers the information factually but with a clear sense of personal satisfaction, marking a shift from philosophical points to a tangible achievement.",
+    "summary_reasoning": "Accomplished tone, tall posture, sharing achievement."
+  },
+  {
+    "timestamp": 39.884,
+    "emotion": "sincere",
+    "detailed_reasoning": "When he defines love as the \"blueprint,\" his tone becomes notably more heartfelt and sincere. His speaking pace slows, and his vocal quality becomes softer and more gentle, conveying the deep, genuine meaning he attaches to the word in this context.",
+    "summary_reasoning": "Heartfelt tone, gentle voice, slow pace."
+  },
+  {
+    "timestamp": 45.728,
+    "emotion": "instructive",
+    "detailed_reasoning": "The speaker transitions back to an instructive and educational tone as he explains how to \"teach them the language of emotional fluency.\" He uses his hands to methodically list and explain concepts, and his tone is clear and guiding, as if he is directly teaching the audience.",
+    "summary_reasoning": "Instructive tone, clear delivery, guiding gestures."
+  },
+  {
+    "timestamp": 51.532,
+    "emotion": "emphatic",
+    "detailed_reasoning": "The speaker's energy rises sharply as he clarifies what his definition of love is *not*. His voice becomes louder and more forceful, and he uses a dismissive hand gesture. This emphatic delivery is intended to counteract common misconceptions and stress the unique importance of his perspective.",
+    "summary_reasoning": "Forceful voice, louder volume, dismissive gesture."
+  }
+]

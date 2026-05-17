@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 1.053,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker opens with the stark statement, 'I was supposed to be dead right now.' Her tone is serious and measured, her facial expression is neutral yet grave, and her posture is still. This combination of verbal and non-verbal cues immediately establishes a somber and serious mood.",
+    "summary_reasoning": "Serious words, grave expression, measured tone."
+  },
+  {
+    "timestamp": 16.965,
+    "emotion": "pensive",
+    "detailed_reasoning": "When saying 'a day that changed my life forever,' the speaker's tone deepens slightly, and she pauses, creating a moment of reflection. Her gaze appears distant, suggesting she is internally visualizing this significant memory, shifting the emotion from purely somber to pensive.",
+    "summary_reasoning": "Deep tone, pause, distant gaze."
+  },
+  {
+    "timestamp": 20.693,
+    "emotion": "nostalgic",
+    "detailed_reasoning": "A vibrant, happy photo of the speaker appears on screen as she says, 'This was me.' Her tone softens and gains a slightly wistful quality. This juxtaposition between the vibrant past (in the photo) and the serious present creates a feeling of nostalgia.",
+    "summary_reasoning": "Past photo, softened wistful tone."
+  },
+  {
+    "timestamp": 23.255,
+    "emotion": "happy",
+    "detailed_reasoning": "The speaker's tone becomes more animated and positive as she describes 'living my best life.' The content shifts to listing positive life events like planning a family and having a 'blooming career,' reflecting a clear state of happiness from that time.",
+    "summary_reasoning": "Animated tone, positive words."
+  },
+  {
+    "timestamp": 34.713,
+    "emotion": "proud",
+    "detailed_reasoning": "As she continues to list her accomplishments, including starting another business and feeling motivated, her vocal delivery becomes more assertive and confident. This reflects a sense of pride in her ambition and achievements during that period of her life.",
+    "summary_reasoning": "Assertive tone, confident delivery, listing achievements."
+  },
+  {
+    "timestamp": 44.449,
+    "emotion": "content",
+    "detailed_reasoning": "The speaker delivers the line, 'Life was finally falling into place,' with a softer, more resolved tone. There is a sense of peace and satisfaction in her voice, capturing a feeling of deep contentment with how her life was progressing at that moment.",
+    "summary_reasoning": "Soft tone, words of fulfillment, peaceful delivery."
+  },
+  {
+    "timestamp": 48.236,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker's pace quickens and her tone becomes more energetic as she lists her demanding fitness schedule ('coached group training... 10 hours a week, late nights, early mornings'). This shift conveys the high energy and passion she had for her work and her active lifestyle.",
+    "summary_reasoning": "Faster pace, energetic tone, describing dedication."
+  }
+]

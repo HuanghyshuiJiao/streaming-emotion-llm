@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 3.576,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker is telling a joke about the classic characters Bob Cratchit and Mr. Scrooge. He uses a playful and slightly sarcastic tone when he calls Bob Cratchit a 'bleeding-heart liberal'. His facial expression is lighthearted, and he has a slight smile, indicating he is amused by his own joke.",
+    "summary_reasoning": "Playful tone, smile."
+  },
+  {
+    "timestamp": 11.187,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker adopts a different, higher-pitched, and somewhat silly voice to impersonate a character speaking to Mr. Scrooge. This vocal shift, combined with the absurd request to 'join Al-Qaeda', is a clear comedic performance. His own amusement is evident in the playful delivery, which is designed to make the audience laugh.",
+    "summary_reasoning": "Silly voice, comedic impersonation."
+  },
+  {
+    "timestamp": 21.361,
+    "emotion": "humorous",
+    "detailed_reasoning": "After telling the provocative 'Al-Qaeda' joke and getting a big laugh, the speaker says 'That's wrong. It's wrong.' He says this with a smile and a light, self-deprecating tone, not a genuinely remorseful one. This is a common comedic device to acknowledge the edginess of a joke, indicating he is still in a humorous and performative state.",
+    "summary_reasoning": "Self-deprecating tone, smile."
+  },
+  {
+    "timestamp": 29.857,
+    "emotion": "admiring",
+    "detailed_reasoning": "The speaker's tone shifts completely as he introduces 'Ronald Neiman.' He describes him as an 'amazing man' and emphasizes his age, '94 years old.' His voice becomes more sincere and earnest, and his facial expression is one of genuine respect and admiration, moving away from the previous sarcastic humor.",
+    "summary_reasoning": "Sincere tone, respectful expression."
+  },
+  {
+    "timestamp": 36.104,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker is quoting Ronald Neiman's joke about retiring. He delivers the line, 'I'm thinking about retiring,' with a comedic pause and a knowing smile, clearly amused by the punchline he is about to share. His tone is light and appreciative of the 94-year-old's humor.",
+    "summary_reasoning": "Smiling, comedic timing."
+  },
+  {
+    "timestamp": 40.829,
+    "emotion": "humorous",
+    "detailed_reasoning": "The speaker makes an observational joke that 94 is the 'right age to get a Lifetime Achievement Award.' His tone is matter-of-fact but has a humorous inflection. He is stating a comedic truth, and his slight smile indicates he's still in a lighthearted, humorous mode, sharing this observation with the audience.",
+    "summary_reasoning": "Humorous tone, observational joke."
+  },
+  {
+    "timestamp": 45.454,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker makes a joke contrasting the 94-year-old award recipient with younger celebrities by saying he's not going to 'make a sex tape.' The absurdity of the image he's creating, combined with his wry smile and the audience's laughter, shows he is amused by this cynical and humorous comparison.",
+    "summary_reasoning": "Wry smile, absurd joke."
+  },
+  {
+    "timestamp": 49.199,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "After saying the 94-year-old won't make a sex tape, he immediately pivots to 'Tom Cruise, on the other hand, 43.' The contrast is delivered with a pointed, sarcastic tone and a mischievous look. The implication and the direct naming of a celebrity create a sarcastic and biting piece of humor.",
+    "summary_reasoning": "Pointed tone, mischievous look."
+  },
+  {
+    "timestamp": 54.101,
+    "emotion": "amused",
+    "detailed_reasoning": "Continuing the joke about Tom Cruise, the speaker adds, 'Actually, it probably has this year.' He says this with a broad smile and a cheerful, amused tone, enjoying the audience's reaction to his joke. His body language is relaxed and open as he concludes the humorous thought.",
+    "summary_reasoning": "Smiling, amused tone."
+  }
+]

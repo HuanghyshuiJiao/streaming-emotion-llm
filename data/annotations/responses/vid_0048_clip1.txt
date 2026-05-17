@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his story with a relaxed posture, a neutral facial expression, and a calm, even-paced vocal tone. He is setting a simple, everyday scene about hanging out with friends, which doesn't carry any strong emotional weight at the outset.",
+    "summary_reasoning": "Relaxed posture, neutral expression, calm tone."
+  },
+  {
+    "timestamp": 6.799,
+    "emotion": "interested",
+    "detailed_reasoning": "The speaker's eyes widen and his eyebrows lift slightly as he describes looking across the street. His tone becomes more directed and his pace quickens slightly as he names his friend, indicating a shift from general narration to a specific point of interest in the story.",
+    "summary_reasoning": "Widened eyes, raised eyebrows, directed tone."
+  },
+  {
+    "timestamp": 11.445,
+    "emotion": "excited",
+    "detailed_reasoning": "The speaker's facial expression becomes highly animated. He smiles broadly, his eyes light up, and he energetically reenacts shouting his friend's name. His vocal delivery becomes loud and enthusiastic, conveying a sense of genuine excitement and friendliness from the memory.",
+    "summary_reasoning": "Animated face, broad smile, loud energetic voice."
+  },
+  {
+    "timestamp": 17.752,
+    "emotion": "amused",
+    "detailed_reasoning": "Recounting his friend's friendly reply, the speaker's expression softens into an amused smile. He adopts a light, friendly tone to mimic his friend, showing his positive and happy recollection of the moment.",
+    "summary_reasoning": "Amused smile, light tone."
+  },
+  {
+    "timestamp": 20.976,
+    "emotion": "judgmental",
+    "detailed_reasoning": "A sudden shift occurs as the speaker explains he was nice because his friend's girlfriend was present. His face becomes serious, his brow furrows, and he looks away from the camera. This suggests a critical or judgmental thought about the social dynamic.",
+    "summary_reasoning": "Furrowed brow, serious face, avoidant gaze."
+  },
+  {
+    "timestamp": 24.801,
+    "emotion": "disapproving",
+    "detailed_reasoning": "The speaker's judgmental expression intensifies as he claims his friend ignored the girlfriend. He raises his eyebrows and looks to the side with a look of disapproval, conveying a negative assessment of his friend's behavior.",
+    "summary_reasoning": "Raised eyebrows, sideways glance, critical tone."
+  },
+  {
+    "timestamp": 32.661,
+    "emotion": "intrigued",
+    "detailed_reasoning": "The story shifts to a party invitation, and the speaker's demeanor lightens. His eyes widen and his eyebrows raise in anticipation. His tone becomes more engaged, reflecting his intrigue at the new, exciting prospect of crashing a party.",
+    "summary_reasoning": "Widened eyes, raised eyebrows, engaged tone."
+  },
+  {
+    "timestamp": 43.115,
+    "emotion": "surprised",
+    "detailed_reasoning": "When quoting his friend's shocking confession (\"I slept with him once\"), the speaker's eyes widen and his eyebrows shoot up. The content of the line itself is surprising, and his facial expression mirrors the unexpected nature of this revelation in the story.",
+    "summary_reasoning": "Widened eyes, raised eyebrows, shocking content."
+  },
+  {
+    "timestamp": 50.865,
+    "emotion": "skeptical",
+    "detailed_reasoning": "The speaker's expression shifts to one of doubt as he offers his own analysis. He looks down, his lips purse, and he delivers his theory in a knowing, slightly conspiratorial tone, indicating that he is skeptical of his friend's claim and is questioning her motives.",
+    "summary_reasoning": "Downward glance, pursed lips, conspiratorial tone."
+  }
+]

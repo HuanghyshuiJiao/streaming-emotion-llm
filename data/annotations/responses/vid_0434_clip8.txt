@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 4.156,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker begins by recounting the loss of two friends. His tone of voice is low and somber, his facial expression is serious, and his eyebrows are slightly furrowed. The words themselves, \"lost two friends gone way too soon,\" convey a deep sense of grief and sadness.",
+    "summary_reasoning": "Low somber tone, serious expression, sad words."
+  },
+  {
+    "timestamp": 8.061,
+    "emotion": "pensive",
+    "detailed_reasoning": "The speaker shifts from recounting a sad event to asking a rhetorical question about his own life. His tone becomes questioning and more introspective. His facial expression is earnest as he looks out at the audience, suggesting he is in a state of deep thought or reflection about his choices.",
+    "summary_reasoning": "Questioning tone, introspective words, earnest expression."
+  },
+  {
+    "timestamp": 14.87,
+    "emotion": "inspired",
+    "detailed_reasoning": "The speaker's emotional state changes as he talks about the positive influence of his friends. The word \"inspired\" is central, and his tone becomes warmer and more convicted. His facial expression softens, and the overall energy shifts from questioning to one of positive realization.",
+    "summary_reasoning": "Explicitly says \"inspired\", warmer tone, softer expression."
+  },
+  {
+    "timestamp": 18.275,
+    "emotion": "determined",
+    "detailed_reasoning": "Following the moment of inspiration, the speaker describes his decision as a \"turning point.\" His vocal delivery becomes stronger and more resolute, conveying a sense of decision and purpose. His posture is upright and his gaze is direct, reinforcing this determined state.",
+    "summary_reasoning": "Resolute tone, direct gaze, words of decision."
+  },
+  {
+    "timestamp": 27.186,
+    "emotion": "hopeful",
+    "detailed_reasoning": "The speaker contrasts his old identity (\"HD Seth\") with his true self (\"plain old Seth\"). As he says the latter phrase, his tone lightens significantly, and a slight smile appears. This change suggests a sense of relief and hopefulness associated with this personal liberation.",
+    "summary_reasoning": "Lighter tone, slight smile, words of liberation."
+  },
+  {
+    "timestamp": 32.137,
+    "emotion": "serious",
+    "detailed_reasoning": "The emotion shifts back to a more somber state as he introduces the difficult task of telling his family. The words \"But first, I had to tell...\" signal a challenge. His tone becomes lower and more deliberate, and his facial expression turns serious, reflecting the gravity of the conversation he is about to describe.",
+    "summary_reasoning": "Lower deliberate tone, serious expression, introduces a challenge."
+  },
+  {
+    "timestamp": 40.734,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker begins to recount the specific memory of telling his father. He uses the phrase \"I vividly remember,\" and his vocal pace slows down, becoming very deliberate. His eyes look slightly away as if accessing the memory, and his expression is deeply focused, indicating a state of intense reflection.",
+    "summary_reasoning": "Slow deliberate tone, focused expression, recalling a vivid memory."
+  },
+  {
+    "timestamp": 52.817,
+    "emotion": "anxious",
+    "detailed_reasoning": "The speaker builds tension by describing the \"long silence\" before his father speaks. In recounting this moment, he conveys the anxiety he felt. The father's direct questions, delivered by the speaker in a direct, slightly clipped tone, bring the tense and anxious feeling of that moment to the forefront.",
+    "summary_reasoning": "Describes \"long silence\", builds tension, recounts anxious moment."
+  }
+]

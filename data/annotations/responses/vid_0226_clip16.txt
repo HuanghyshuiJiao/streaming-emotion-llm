@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 5.018,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins with a steady and measured tone, maintaining a neutral facial expression and minimal hand gestures. She is laying out the premise of her talk in an informative and composed manner, establishing a calm baseline despite the serious subject matter of 'misery and stuckness.'",
+    "summary_reasoning": "Steady tone, neutral expression, informative delivery."
+  },
+  {
+    "timestamp": 12.628,
+    "emotion": "dramatic",
+    "detailed_reasoning": "There is a significant shift in her delivery. She pauses, then says 'we're all going to die' with a deliberately provocative and dramatic tone. Her facial expression is animated and she uses the line as a hook to surprise the audience, indicating a shift from a calm, explanatory style to one that is more theatrical and engaging.",
+    "summary_reasoning": "Provocative statement, animated expression, shift in tone."
+  },
+  {
+    "timestamp": 18.636,
+    "emotion": "amused",
+    "detailed_reasoning": "Immediately after her dramatic statement, her tone becomes lighthearted and a clear smile appears on her face. She makes a self-deprecating joke ('I'll bet you're really glad I'm not your therapist right now'), which confirms the humorous intent behind the previous dramatic line. This interaction with the audience shows she is amused by their reaction.",
+    "summary_reasoning": "Smiling, lighthearted tone, self-deprecating joke."
+  },
+  {
+    "timestamp": 25.264,
+    "emotion": "confident",
+    "detailed_reasoning": "After the humorous aside, her tone becomes more grounded and assertive. She says, 'But then I explain,' signaling a transition back to her main point. Her posture is straight, her expression is focused, and her voice is clear, demonstrating confidence and control over the narrative she is building.",
+    "summary_reasoning": "Assertive tone, focused expression, narrative control."
+  },
+  {
+    "timestamp": 31.152,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's tone becomes more somber and her pace slows down as she delivers the punchline, 'It's called an obituary.' Her previously amused or confident expression is replaced by a more serious and thoughtful one, marking a significant tonal shift to underscore the gravity of her point.",
+    "summary_reasoning": "Somber tone, slower pace, serious expression."
+  },
+  {
+    "timestamp": 39.691,
+    "emotion": "empowered",
+    "detailed_reasoning": "Her vocal tone lifts and becomes more inspirational and uplifting. She uses more expansive hand gestures when she says 'we get to shape these stories.' Her facial expression is bright and engaged, conveying a sense of agency and empowerment that she wants the audience to feel.",
+    "summary_reasoning": "Uplifting tone, expansive gestures, bright expression."
+  },
+  {
+    "timestamp": 47.448,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker's vocal intensity increases, and she speaks with greater force and conviction. Her statements 'We get to be the hero and not the victim' and 'We get to choose' are delivered with a passionate rhythm. Her gestures are decisive and her eye contact is strong, showing her deep belief in the message.",
+    "summary_reasoning": "Increased vocal intensity, passionate tone, decisive gestures."
+  },
+  {
+    "timestamp": 56.869,
+    "emotion": "hopeful",
+    "detailed_reasoning": "In her concluding sentence, her pace slows and her tone becomes encouraging and firm. She ends with the idea that the effort of revision is 'worth it.' Her delivery is calm yet resolute, leaving the audience with a final message of hope and the possibility of positive change.",
+    "summary_reasoning": "Encouraging tone, slower pace, resolute delivery."
+  }
+]

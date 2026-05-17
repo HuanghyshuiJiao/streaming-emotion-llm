@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": 1.152,
+    "emotion": "suffering",
+    "detailed_reasoning": "The video begins with the speaker's eyes rolled back into his head, his head tilted, and his speech slow and labored. The words 'Close my eyes' combined with these strong visual and vocal cues immediately establish a state of intense physical or emotional suffering and distress.",
+    "summary_reasoning": "Eyes rolled back, slow speech, somber words."
+  },
+  {
+    "timestamp": 8.3,
+    "emotion": "resigned",
+    "detailed_reasoning": "The speaker's physical state of suffering remains, but the content of his speech shifts to a more philosophical and contemplative tone. When he says, 'Some things you can only understand once you get there,' his delivery is weary and accepting, suggesting a shift from active suffering to a state of resignation about his condition.",
+    "summary_reasoning": "Philosophical words, weary tone."
+  },
+  {
+    "timestamp": 21.714,
+    "emotion": "despair",
+    "detailed_reasoning": "After clarifying 'I'm not dead,' the speaker delivers the line 'I'm just dying.' The emphasis on 'dying' as an ongoing, inescapable process, combined with the continued flat and exhausted vocal tone, shifts the emotion from simple resignation to a deeper sense of hopelessness and despair. The finality of the statement underscores this profound sadness.",
+    "summary_reasoning": "Final tone, hopeless words, exhausted delivery."
+  }
+]

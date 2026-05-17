@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 4.158,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins with a very calm and conversational tone. His body language is relaxed, and he uses inclusive language like 'we're together' and 'you understand me' to build a rapport with the audience. His facial expression is neutral and friendly, establishing a comfortable atmosphere.",
+    "summary_reasoning": "Conversational tone, relaxed body language, inclusive words."
+  },
+  {
+    "timestamp": 13.713,
+    "emotion": "engaging",
+    "detailed_reasoning": "The speaker's tone remains calm but becomes more directly engaging and instructive. He points towards the audience and uses direct address ('understand your audience'). The visual cut to a Mel Brooks quote reinforces his message about connecting with the audience without offending them, and his vocal delivery supports this advisory but friendly stance.",
+    "summary_reasoning": "Instructive tone, direct address, friendly expression."
+  },
+  {
+    "timestamp": 21.406,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's tone shifts to a more serious and cautionary one as he advises against making controversial statements. His previously relaxed facial expression becomes more neutral and focused, and his hand gestures become more deliberate to emphasize his point. This marks a change from general rapport-building to giving specific, serious advice.",
+    "summary_reasoning": "Cautionary tone, neutral expression, deliberate gestures."
+  },
+  {
+    "timestamp": 31.715,
+    "emotion": "humorous",
+    "detailed_reasoning": "The speaker's emotion shifts to humor as he uses a self-deprecating example about telling the audience they aren't funny. He makes a distinctively pained and funny facial expression, and his tone becomes lighthearted and self-mocking, intentionally breaking the serious mood to illustrate his point through comedy.",
+    "summary_reasoning": "Self-deprecating words, funny facial expression, lighthearted tone."
+  },
+  {
+    "timestamp": 41.306,
+    "emotion": "serious",
+    "detailed_reasoning": "After the humorous anecdote, the speaker's tone shifts back to being serious and advisory. He looks directly at the audience with a stern expression and states plainly, 'Don't offend your audience.' The humor has passed, and he is now reinforcing the key takeaway from his personal example in a direct, non-joking manner.",
+    "summary_reasoning": "Direct tone, stern expression, advisory words."
+  },
+  {
+    "timestamp": 47.114,
+    "emotion": "intrigued",
+    "detailed_reasoning": "The speaker signals a shift by saying he is about to reveal 'the most important one... the secret key.' His vocal pitch rises slightly, and his pace slows down to build suspense and intrigue. He is deliberately trying to capture the audience's full attention for his final, paradoxical point.",
+    "summary_reasoning": "Suspenseful tone, slower pace, intriguing words."
+  },
+  {
+    "timestamp": 53.261,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "After the reveal that all his rules should be broken (which elicits laughter), the speaker's demeanor becomes thoughtful and reflective. He explains the nuance behind the paradox with a slower, more deliberate cadence, concluding that 'Sometimes details are important. Sometimes morals are necessary.' His tone is no longer just advisory but philosophical, leaving the audience with a deeper message to consider.",
+    "summary_reasoning": "Reflective tone, slow pace, philosophical words."
+  }
+]

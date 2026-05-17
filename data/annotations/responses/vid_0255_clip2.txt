@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her monologue with a factual statement. Her tone is steady and her facial expression is neutral as she sets the scene, indicating a calm, narrative state.",
+    "summary_reasoning": "Steady tone, neutral expression, factual content."
+  },
+  {
+    "timestamp": 3.642,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's tone becomes more deliberate and somber as she introduces the central, tragic event of the story. While her expression is still largely neutral, the weight of the words and the slight drop in her vocal pitch convey a serious mood.",
+    "summary_reasoning": "Deliberate tone, somber content."
+  },
+  {
+    "timestamp": 7.709,
+    "emotion": "cynical",
+    "detailed_reasoning": "The speaker's tone shifts to a more cynical one. She uses a slight smirk and a slightly mocking inflection on the words 'miraculously freakishly lucky,' which, combined with the extreme improbability of the scenario she's describing, suggests a dark, cynical humor about the situation's hopelessness.",
+    "summary_reasoning": "Slight smirk, mocking tone, cynical words."
+  },
+  {
+    "timestamp": 13.097,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker's delivery becomes faster and more agitated. She uses self-deprecating language ('gormless idiot') and her tone conveys strong frustration and a sense of helpless inadequacy. Her facial expressions and gestures support this feeling of exasperation with herself.",
+    "summary_reasoning": "Fast, agitated tone, self-deprecating words, frustrated expression."
+  },
+  {
+    "timestamp": 21.291,
+    "emotion": "somber",
+    "detailed_reasoning": "There is a dramatic shift in her demeanor. Her voice becomes quiet, slow, and grave as she relays a horrific fact from the inquest. Her facial expression turns serious and grim, losing all previous animation, which conveys a deeply somber and heavy emotional state.",
+    "summary_reasoning": "Quiet, slow, grave tone, grim expression, horrific content."
+  },
+  {
+    "timestamp": 30.592,
+    "emotion": "troubled",
+    "detailed_reasoning": "The speaker shifts from relaying the fact to describing her own reaction to it. Her tone becomes detached and analytical, yet the content reveals an obsessive and troubled state of mind. Her facial expression is pained as she describes looking up the details of the fall, indicating she is deeply disturbed by what she found.",
+    "summary_reasoning": "Detached tone, obsessive content, pained expression."
+  },
+  {
+    "timestamp": 35.665,
+    "emotion": "sad",
+    "detailed_reasoning": "After revealing the result of her search, her tone becomes profoundly sad and soft. Her facial expression is pained and empathetic as she personalizes the tragedy by focusing on 'Sonny's mind.' The combination of the gentle, mournful audio and the specific, empathetic words conveys deep sadness.",
+    "summary_reasoning": "Soft, mournful tone, pained expression, empathetic words."
+  },
+  {
+    "timestamp": 41.501,
+    "emotion": "distressed",
+    "detailed_reasoning": "The speaker's focus turns inward to her own compulsive coping mechanism. Her voice becomes tense and strained, and her facial expression is intense and pained. The explicit admission of timing herself 'obsessively' reveals a state of deep psychological distress.",
+    "summary_reasoning": "Tense voice, intense expression, obsessive words."
+  },
+  {
+    "timestamp": 45.471,
+    "emotion": "desperate",
+    "detailed_reasoning": "The speaker's voice becomes faster and rises in pitch, conveying a sense of frantic energy. Her facial expression is one of helpless confusion, and her rhetorical question reveals the failure of her attempts to comprehend the situation. This combination of audio, visual, and textual cues indicates a state of desperation.",
+    "summary_reasoning": "Frantic tone, helpless expression, desperate question."
+  },
+  {
+    "timestamp": 53.192,
+    "emotion": "hysterical",
+    "detailed_reasoning": "Following a moment of desperation, the speaker's mood swings wildly and inappropriately to forced cheerfulness. She adopts a high-pitched, sing-song voice and a wide, manic smile while making a flippant comment. This jarring and unnatural shift from despair to forced joy is indicative of a hysterical emotional state, a coping mechanism for trauma that has become overwhelming.",
+    "summary_reasoning": "Manic smile, high-pitched false cheer, flippant words."
+  },
+  {
+    "timestamp": 55.177,
+    "emotion": "ashamed",
+    "detailed_reasoning": "The hysterical facade collapses instantly. Her manic smile vanishes, her voice becomes quiet and apologetic, and she breaks eye contact. This sudden return to a subdued state after an emotional outburst indicates she feels shame and regret for her previous words.",
+    "summary_reasoning": "Collapsed smile, quiet apology, broken eye contact."
+  }
+]

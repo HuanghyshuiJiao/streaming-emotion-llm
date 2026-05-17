@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 1.594,
+    "emotion": "angry",
+    "detailed_reasoning": "The video begins with the speaker displaying a hostile and aggressive demeanor. His facial expression is a clear snarl, with his teeth bared and his eyebrows furrowed. His vocal tone is harsh, loud, and confrontational as he addresses an unseen person as \"Devil,\" immediately establishing a tone of intense anger.",
+    "summary_reasoning": "Snarling face, harsh tone, confrontational words."
+  },
+  {
+    "timestamp": 11.15,
+    "emotion": "contemptuous",
+    "detailed_reasoning": "The speaker's anger transitions into a more specific emotion of contempt and disgust. He commands the other person to \"Be gone\" and refers to them as a \"vile insect.\" This dehumanizing language, combined with the continued snarl and commanding tone, shows a deep sense of superiority and disdain.",
+    "summary_reasoning": "Dehumanizing language, commanding tone, sneer."
+  },
+  {
+    "timestamp": 15.859,
+    "emotion": "furious",
+    "detailed_reasoning": "The emotion escalates from contempt to outright fury. The speaker changes his mind and says \"rather stay, that I may trample you to dust!\" This threat is delivered with increased volume and a more violent, guttural tone. His body language becomes more animated as he physically acts out the motion of trampling, indicating a loss of control and a surge of rage.",
+    "summary_reasoning": "Violent threat, increased volume, aggressive gesture."
+  },
+  {
+    "timestamp": 43.633,
+    "emotion": "resigned",
+    "detailed_reasoning": "After a long pause, the scene and the speaker's emotional state have completely changed. His previous fury has vanished, replaced by a sense of calm resignation. His facial expression is neutral and slightly downcast, and his voice is soft and even-toned. The line \"I expected this reception\" confirms his lack of surprise and acceptance of the hostile treatment, indicating resignation.",
+    "summary_reasoning": "Soft tone, downcast expression, accepting words."
+  },
+  {
+    "timestamp": 50.208,
+    "emotion": "miserable",
+    "detailed_reasoning": "The speaker's resignation deepens into profound misery and despair. He asks, \"How then must I be hated, who am miserable beyond all living things?\" His voice becomes filled with anguish and self-pity, and his facial expression conveys deep sadness. This rhetorical question highlights his feeling of being utterly wretched and hated by everyone.",
+    "summary_reasoning": "Anguished tone, sad expression, self-pitying words."
+  }
+]

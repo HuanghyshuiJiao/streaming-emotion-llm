@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 6.099,
+    "emotion": "defensive",
+    "detailed_reasoning": "The speaker is defending someone else's actions. His tone is firm and explanatory, and he looks away as if pleading for understanding from the person he's speaking to. He says 'she's being true to herself' in a way that suggests he's justifying her actions against criticism.",
+    "summary_reasoning": "Firm tone, justifying words, averted gaze."
+  },
+  {
+    "timestamp": 8.762,
+    "emotion": "allied",
+    "detailed_reasoning": "After stating that the other person is being true to herself, he explicitly states his support with 'and I'm with her on this'. His tone is resolute and his head nods slightly, reinforcing his solidarity with the person he is defending.",
+    "summary_reasoning": "Resolute tone, affirming words, slight head nod."
+  },
+  {
+    "timestamp": 12.146,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's tone becomes graver and more deliberate as he says 'we have a responsibility to that'. His expression is solemn, and he looks up, emphasizing the weight of the moral obligation he is describing.",
+    "summary_reasoning": "Grave tone, solemn expression, upward gaze."
+  },
+  {
+    "timestamp": 18.334,
+    "emotion": "exasperated",
+    "detailed_reasoning": "There is a significant shift in his emotional state. He raises his voice to call out 'Cheryl' and his question 'do you understand' is delivered with a sharp, impatient tone. His head moves more emphatically, and his facial expression shows clear frustration with the listener's perceived lack of understanding.",
+    "summary_reasoning": "Raised voice, sharp tone, frustrated expression."
+  },
+  {
+    "timestamp": 21.017,
+    "emotion": "defiant",
+    "detailed_reasoning": "Following his outburst of frustration, his tone becomes defiant as he repeats 'I'm with her'. He looks away again, but this time it's not pleading; it's a statement of unwavering position, almost a challenge to the listener.",
+    "summary_reasoning": "Defiant tone, unwavering gaze, challenging statement."
+  },
+  {
+    "timestamp": 28.526,
+    "emotion": "resolved",
+    "detailed_reasoning": "The speaker's energy shifts from outward frustration to an internal decision. His voice becomes lower and more self-focused as he says 'and we're gonna have to start looking out for myself too'. This indicates a moment of realization and a new, determined path for himself.",
+    "summary_reasoning": "Lowered voice, self-focused words, determined tone."
+  },
+  {
+    "timestamp": 31.756,
+    "emotion": "disappointed",
+    "detailed_reasoning": "His tone softens into one of disappointment and almost sadness when he speaks about 'what love means to you'. His expression is weary, suggesting that the conflict has taken a toll on him and his perception of their relationship.",
+    "summary_reasoning": "Soft, sad tone, weary expression."
+  },
+  {
+    "timestamp": 34.763,
+    "emotion": "weary",
+    "detailed_reasoning": "The final question 'You follow?' is delivered with a tired, almost resigned tone. His energy is depleted, and the question feels less like a genuine inquiry and more like a final, weary sigh after an emotionally draining conversation.",
+    "summary_reasoning": "Tired tone, depleted energy, resigned question."
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 4.298,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his story with a calm and reflective tone. His voice is steady, his posture is relaxed, and his facial expression is neutral. He is setting the scene of a past event, describing his thoughts as an 18-year-old in a straightforward, narrative manner without showing any strong emotion.",
+    "summary_reasoning": "Calm tone, relaxed posture, neutral expression."
+  },
+  {
+    "timestamp": 16.717,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's tone shifts as he recounts the doctor's words about \"progressive gangrene.\" His voice becomes lower and more measured, and his facial expression tightens slightly, losing its earlier neutrality. The content of his speech becomes medically grave, and his delivery matches this shift in mood, indicating the start of a serious turn in the narrative.",
+    "summary_reasoning": "Lower tone, tight expression, grave content."
+  },
+  {
+    "timestamp": 23.208,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker delivers the devastating line from the doctor, \"You may want to say your goodbyes.\" His pace slows down significantly, his pitch drops, and his tone becomes deeply somber. His gaze is directed downwards, and his expression is one of heavy sadness, reflecting the immense gravity of the moment he is describing.",
+    "summary_reasoning": "Slow pace, low pitch, downward gaze, sad expression."
+  },
+  {
+    "timestamp": 31.631,
+    "emotion": "sorrowful",
+    "detailed_reasoning": "The speaker uses the powerful metaphor of watching \"Superman literally disappear in a kryptonite bed.\" The use of \"Superman\" conveys deep admiration and the sense of losing a hero. His voice is filled with sorrow and a sense of profound loss. His facial expression is pained, and his hand gestures are slow and expressive, emphasizing the feeling of helplessness and grief.",
+    "summary_reasoning": "Sorrowful tone, pained expression, hero metaphor."
+  },
+  {
+    "timestamp": 39.102,
+    "emotion": "pained",
+    "detailed_reasoning": "The speaker explicitly identifies this moment as his \"emotional breaking point.\" His voice is heavy and laden with emotion, almost trembling. His eyes are downcast, and his facial muscles are tense, clearly conveying the memory of deep emotional pain. He is no longer just telling a story; he is reliving a moment of intense personal suffering.",
+    "summary_reasoning": "Heavy voice, downcast eyes, tense face, self-identifies pain."
+  },
+  {
+    "timestamp": 47.955,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker describes the consequences of his grief, stating he went into a \"deep depression.\" His tone remains low and consistently sad, and his pace is slow. His body language is subdued, with minimal movement. The content is explicitly about his mental health struggles, and his delivery reflects a deep, lingering sadness from that period of his life.",
+    "summary_reasoning": "Low tone, slow pace, subdued body language, describes depression."
+  },
+  {
+    "timestamp": 56.768,
+    "emotion": "resigned",
+    "detailed_reasoning": "The speaker concludes this part of his story by stating he \"dropped out after the first semester.\" His tone is flat and conclusive, lacking the emotional intensity of the previous statements. His posture is slightly slumped, and he makes a definitive, slightly downward gesture. This combination of vocal and physical cues suggests a sense of resignation to the negative outcome caused by his grief and anxiety.",
+    "summary_reasoning": "Flat tone, slumped posture, conclusive statement."
+  }
+]

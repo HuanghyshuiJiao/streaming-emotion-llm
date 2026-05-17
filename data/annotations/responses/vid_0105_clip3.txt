@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 1.432,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker's monologue begins with a tone of exasperation. Her facial expression is strained, her eyebrows are furrowed, and she speaks through clenched teeth, indicating a strong sense of frustration as she tries to maintain composure.",
+    "summary_reasoning": "Strained voice, tense facial expression."
+  },
+  {
+    "timestamp": 4.315,
+    "emotion": "shocked",
+    "detailed_reasoning": "There is an abrupt shift in her monologue. Her eyes widen and her head jerks as if reacting to an unexpected event. Her voice rises in pitch and volume on the word \"balloon,\" clearly indicating shock and disbelief at what just happened.",
+    "summary_reasoning": "Widened eyes, head jerk, high-pitched voice."
+  },
+  {
+    "timestamp": 8.54,
+    "emotion": "agitated",
+    "detailed_reasoning": "After the initial shock, she shifts into a state of internal turmoil. She begins quoting lines from \"Frozen\" in a tense, forced whisper. Her facial expression is a mask of strained control, and her body is rigid, showing a clear struggle to suppress her rising anger, resulting in agitation.",
+    "summary_reasoning": "Tense whisper, strained facial expression, rigid body."
+  },
+  {
+    "timestamp": 13.745,
+    "emotion": "furious",
+    "detailed_reasoning": "Her attempt at self-control fails completely. After the line \"Well, now they know,\" her face contorts with rage, her eyes are wide with fury, and she builds up to a full-throated scream. The suppressed agitation erupts into pure, unrestrained fury.",
+    "summary_reasoning": "Facial contortion, screaming, tense body."
+  },
+  {
+    "timestamp": 18.75,
+    "emotion": "threatening",
+    "detailed_reasoning": "The emotion shifts from a general explosion of rage to a more focused, direct threat. She stops screaming and her voice becomes sharp and aggressive. She points directly at her unseen target with a menacing glare, clearly intending to intimidate.",
+    "summary_reasoning": "Sharp aggressive tone, pointing gesture, menacing glare."
+  },
+  {
+    "timestamp": 24.957,
+    "emotion": "shocked",
+    "detailed_reasoning": "There is an instantaneous and dramatic shift in her demeanor upon saying \"Mrs. Phillips.\" Her aggressive expression vanishes, replaced by wide-eyed shock. Her body freezes mid-posture, and her mouth hangs slightly open, indicating she has been caught completely off guard by someone's arrival.",
+    "summary_reasoning": "Sudden change in expression, wide eyes, frozen posture."
+  },
+  {
+    "timestamp": 28.02,
+    "emotion": "embarrassed",
+    "detailed_reasoning": "Following the shock of being discovered, her emotion quickly turns to embarrassment. She starts stammering, her voice becomes quiet and uncertain, and she avoids eye contact. Her body language becomes smaller and more submissive as she struggles to explain her behavior.",
+    "summary_reasoning": "Stammering, quiet voice, averted gaze, submissive posture."
+  },
+  {
+    "timestamp": 32.317,
+    "emotion": "ashamed",
+    "detailed_reasoning": "Her embarrassment resolves into a feeling of shame and a desire to flee. Her voice is filled with resignation and she looks down at the floor. The final line, \"I'll show myself out,\" is an admission of inappropriate behavior and an attempt to escape the mortifying situation.",
+    "summary_reasoning": "Resigned tone, downward gaze, exiting posture."
+  }
+]

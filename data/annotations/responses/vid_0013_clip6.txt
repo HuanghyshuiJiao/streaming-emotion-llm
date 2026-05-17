@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 1.874,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker's tone is calm and measured as he recounts a past event. His facial expression is serious and thoughtful, with slightly furrowed brows, suggesting he is looking back on a significant moment of realization. The context is him setting up the story of a major life change.",
+    "summary_reasoning": "Calm tone, thoughtful expression, recounting past event."
+  },
+  {
+    "timestamp": 8.266,
+    "emotion": "determined",
+    "detailed_reasoning": "The speaker's tone shifts from reflective to more firm and resolute. He says he's going to go \"full force, zero to a hundred.\" Visually, his gaze becomes more intense and he gives a slight, affirmative nod, reinforcing the sense of a firm decision being made.",
+    "summary_reasoning": "Firm tone, intense gaze, resolute words."
+  },
+  {
+    "timestamp": 16.46,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker's emotion downshifts from the intensity of his determination to a more neutral, explanatory state. His tone becomes matter-of-fact as he describes the first concrete action he took. His facial expression is neutral and straightforward, indicating he is now simply conveying information.",
+    "summary_reasoning": "Matter-of-fact tone, neutral expression, explaining actions."
+  },
+  {
+    "timestamp": 26.613,
+    "emotion": "recollective",
+    "detailed_reasoning": "While still informative, the speaker's tone becomes more personal and slightly casual as he describes his past habits of drinking \"Mountain Dew and apple juice.\" His eyes shift slightly, a common cue for recalling a specific memory, giving the statement a more anecdotal and personal feel.",
+    "summary_reasoning": "Casual tone, personal anecdote, slight eye shift."
+  },
+  {
+    "timestamp": 31.822,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker explains the simple logic of his decision, and his tone becomes more assured. He raises his eyebrows and his pitch goes up when he asks the rhetorical question \"right?\", then his tone becomes firm again on \"So I did, and I stuck with that,\" showing his conviction in the action he took.",
+    "summary_reasoning": "Assured tone, rhetorical question, firm statement of action."
+  },
+  {
+    "timestamp": 43.858,
+    "emotion": "satisfied",
+    "detailed_reasoning": "After explaining his method, the speaker reveals the positive outcome. His tone brightens, and a subtle smile appears as he states, \"I dropped about 15 pounds in three months.\" This shift in vocal and facial cues clearly indicates his satisfaction and pride in the result.",
+    "summary_reasoning": "Brighter tone, subtle smile, stating positive result."
+  },
+  {
+    "timestamp": 49.939,
+    "emotion": "motivated",
+    "detailed_reasoning": "Building on his feeling of satisfaction, the speaker's tone becomes more energetic and forward-looking. He talks about deciding to go \"a little bit further\" and take the \"next steps.\" His eyebrows raise and his expression becomes more resolute, signaling a shift from satisfaction with the past to motivation for the future.",
+    "summary_reasoning": "Energetic tone, forward-looking words, resolute expression."
+  }
+]

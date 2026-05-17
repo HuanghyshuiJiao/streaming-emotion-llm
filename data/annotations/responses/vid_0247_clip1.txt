@@ -1,0 +1,74 @@
+[
+  {
+    "timestamp": 1.633,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker begins with a complaint, stating, 'No matter what I do, you're never happy.' Her facial expression is strained, with slightly furrowed brows and tense lips. Her tone is one of exasperation and resignation, indicating a history of failed attempts to please someone.",
+    "summary_reasoning": "Complaining words, strained face, exasperated tone."
+  },
+  {
+    "timestamp": 3.735,
+    "emotion": "pleading",
+    "detailed_reasoning": "Her tone shifts as she asks, 'What do you want from me?' Her pitch rises, and her eyes look upward searchingly. The direct question, combined with the vocal shift and helpless expression, conveys a sense of pleading for a clear answer.",
+    "summary_reasoning": "Questioning words, high-pitched tone, upward gaze."
+  },
+  {
+    "timestamp": 7.379,
+    "emotion": "desperate",
+    "detailed_reasoning": "The speaker's plea escalates as she asks if there is 'anything in this whole universe' that will please the other person. The hyperbolic language, coupled with a more strained and emotional tone, transforms the pleading into a feeling of desperation and hopelessness.",
+    "summary_reasoning": "Exaggerated words, strained voice, emotional tone."
+  },
+  {
+    "timestamp": 10.622,
+    "emotion": "defensive",
+    "detailed_reasoning": "The speaker's emotion shifts as she defends herself with the statement, 'I'm not a robot, you know?' Her tone becomes more assertive and slightly indignant. She delivers the line with a subtle head shake, reinforcing her rejection of being treated like an unfeeling object.",
+    "summary_reasoning": "Defensive words, assertive tone, head shake."
+  },
+  {
+    "timestamp": 14.426,
+    "emotion": "exasperated",
+    "detailed_reasoning": "Her frustration peaks as she says she's 'so sick of trying to be perfect all the time.' Her voice rises in volume and pitch, and she closes her eyes with a pained expression. This combination of verbal and non-verbal cues shows she has reached a breaking point of exasperation.",
+    "summary_reasoning": "Loud tone, pained expression, complaining words."
+  },
+  {
+    "timestamp": 18.15,
+    "emotion": "indignant",
+    "detailed_reasoning": "The speaker changes her tactic, beginning to compare herself to other kids who are 'on drugs' and 'drink all the time.' Her tone becomes sharp and factual, as if presenting evidence. This comparative justification signals indignation that her own good behavior is not being recognized.",
+    "summary_reasoning": "Contrasting words, sharp tone, defensive posture."
+  },
+  {
+    "timestamp": 25.037,
+    "emotion": "hurt",
+    "detailed_reasoning": "After listing the negative behaviors of others, she makes the simple, vulnerable statement, 'I am a good kid.' Her tone softens, and her eyes appear watery and pleading. This suggests she is hurt by the fact that she has to defend her own good character.",
+    "summary_reasoning": "Vulnerable words, soft tone, pleading eyes."
+  },
+  {
+    "timestamp": 30.018,
+    "emotion": "defiant",
+    "detailed_reasoning": "The speaker's tone shifts to one of defiance as she speculates about her future, saying, 'Maybe I won't be rich and brilliant like you, Mom.' She is challenging her mother's values. The statement is not apologetic but is delivered with a firm, almost challenging tone, suggesting she is prepared to disappoint.",
+    "summary_reasoning": "Challenging words, firm tone."
+  },
+  {
+    "timestamp": 39.068,
+    "emotion": "resolute",
+    "detailed_reasoning": "Her defiance solidifies into a firm, resolute declaration: 'I don't want to be you.' The statement is blunt and forceful. Her facial expression becomes set and determined, and her voice is strong, indicating she has reached a final, unshakeable conclusion about her own identity.",
+    "summary_reasoning": "Declarative words, strong voice, determined expression."
+  },
+  {
+    "timestamp": 40.449,
+    "emotion": "liberated",
+    "detailed_reasoning": "Immediately following her negative declaration, she makes a positive affirmation: 'I want to be me.' Her entire demeanor changes. A genuine smile appears, her face relaxes, and her tone becomes significantly lighter and happier. This shift suggests a feeling of release and liberation from the pressure to be someone else.",
+    "summary_reasoning": "Affirming words, smiling, light tone."
+  },
+  {
+    "timestamp": 49.7,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "After proudly listing things she likes about herself, her smile fades and her tone becomes sharp as she says, 'I'm sorry that's not good enough for you.' The apology is clearly not genuine; the flat, pointed delivery and the preceding context indicate sarcasm and a final dismissal of her mother's expectations.",
+    "summary_reasoning": "Contradictory words, sharp tone, faded smile."
+  },
+  {
+    "timestamp": 53.564,
+    "emotion": "determined",
+    "detailed_reasoning": "The speaker concludes her monologue with a statement of finality: 'I'm just not going to try and be what you want anymore.' Her emotional journey has ended, and she is now calm but firm. Her voice is steady and her expression is resolved, showing a quiet determination to stand by her decision.",
+    "summary_reasoning": "Final words, calm tone, resolved expression."
+  }
+]

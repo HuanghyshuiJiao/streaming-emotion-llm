@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her talk with a steady and even tone. Her facial expression is neutral and her posture is composed as she stands at the podium. She is setting the scene for her story in a straightforward, narrative manner, which suggests a calm and controlled emotional state.",
+    "summary_reasoning": "Steady tone, neutral expression, narrative delivery."
+  },
+  {
+    "timestamp": 10.28,
+    "emotion": "disappointed",
+    "detailed_reasoning": "After describing the success of other children in her group, the speaker's tone shifts on the words \"and yet.\" Her voice drops slightly in pitch, her pace slows, and she briefly looks down. This vocal and visual shift, contrasting the others' progress with her own, indicates a feeling of disappointment in her own perceived failure at the time.",
+    "summary_reasoning": "Tone drops, pace slows, downward glance."
+  },
+  {
+    "timestamp": 16.906,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker transitions from personal narrative to explaining a therapeutic concept. Her tone becomes more objective and didactic, and she maintains direct eye contact with the audience. This change in delivery suggests a shift from a personal, emotional recollection to a more informative and educational mode.",
+    "summary_reasoning": "Objective tone, didactic delivery, direct eye contact."
+  },
+  {
+    "timestamp": 21.631,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's tone becomes graver and more intense as she uses the powerful phrase \"cleansed by fear.\" Her delivery is deliberate, and her expression is serious, emphasizing the profound and challenging nature of the therapy she is describing. This conveys a deep seriousness about the topic.",
+    "summary_reasoning": "Grave tone, intense delivery, serious expression."
+  },
+  {
+    "timestamp": 30.305,
+    "emotion": "wry",
+    "detailed_reasoning": "There is a distinct shift in tone as the speaker makes a self-aware joke about her love for \"cleansing and washing.\" A brief, slight smile appears, and her tone lightens, introducing a moment of irony. This indicates a wry sense of humor about the contradiction between her compulsions and the therapeutic process.",
+    "summary_reasoning": "Lighter tone, slight smile, ironic content."
+  },
+  {
+    "timestamp": 35.218,
+    "emotion": "determined",
+    "detailed_reasoning": "Immediately following the moment of humor, the speaker's demeanor changes sharply. Her face becomes serious, her tone drops, and she delivers the line \"was not something that I was willing to submit to\" with firm emphasis. This rapid shift communicates a strong sense of past determination and resistance.",
+    "summary_reasoning": "Serious face, lower tone, firm emphasis."
+  },
+  {
+    "timestamp": 39.849,
+    "emotion": "defiant",
+    "detailed_reasoning": "The speaker's voice gains strength and her posture becomes more assertive as she says, \"I fought back.\" She lists the people she fought against with a conviction in her voice that conveys a sense of defiance and active resistance to the treatment she was undergoing.",
+    "summary_reasoning": "Stronger voice, assertive posture, convicted tone."
+  },
+  {
+    "timestamp": 45.243,
+    "emotion": "confessional",
+    "detailed_reasoning": "When describing her secret actions of \"cheating\" during therapy, the speaker's voice softens and her pace slows. She looks down as she speaks, a common non-verbal cue for shame or guilt. The overall delivery has a confessional quality, as if she is admitting to a past failing.",
+    "summary_reasoning": "Softer voice, slower pace, downward gaze."
+  },
+  {
+    "timestamp": 53.103,
+    "emotion": "regretful",
+    "detailed_reasoning": "In her concluding sentence, the speaker's tone becomes somber and her pace slows down significantly. Her facial expression is serious and tinged with sadness as she states that she \"prolonged the most difficult period\" of her life. This combination of vocal and facial cues conveys a deep sense of regret and the heavy weight of that realization.",
+    "summary_reasoning": "Somber tone, slow pace, sad expression."
+  }
+]

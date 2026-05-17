@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 5.977,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker's pace is slow and deliberate, with his eyes closed. His tone is contemplative as he reflects on whether being an INFJ is a curse or a blessing, suggesting he is deep in thought.",
+    "summary_reasoning": "Slow pace, closed eyes, contemplative tone."
+  },
+  {
+    "timestamp": 14.105,
+    "emotion": "weary",
+    "detailed_reasoning": "The speaker's voice becomes slightly strained and his pace remains slow as he describes the process of introspection. The repetition and the nature of the words convey a sense of a long, tiring process, leading to a feeling of weariness.",
+    "summary_reasoning": "Strained tone, slow pace, repetitive phrasing."
+  },
+  {
+    "timestamp": 30.904,
+    "emotion": "frustrated",
+    "detailed_reasoning": "After listing several methods of self-study, the speaker's tone drops and becomes more somber when he says the identity still \"eludes us.\" The drawn-out delivery of \"eludes\" and the downward inflection express a sense of frustration and disappointment with the lack of clear answers despite the effort.",
+    "summary_reasoning": "Tone drops, downward inflection, somber delivery."
+  },
+  {
+    "timestamp": 37.983,
+    "emotion": "resolute",
+    "detailed_reasoning": "There's a distinct shift in tone here. The speaker's voice becomes slightly louder and firmer on the word \"endures.\" This change, following the previous expression of frustration, indicates a turn towards something certain and unwavering, a resolute feeling about a core part of his identity.",
+    "summary_reasoning": "Louder, firmer tone on \"endures.\""
+  },
+  {
+    "timestamp": 45.764,
+    "emotion": "solemn",
+    "detailed_reasoning": "The speaker's voice becomes very soft, slow, and almost reverent as he describes the \"inexplicable knowing.\" His eyes remain closed, and the quiet, deliberate pace creates a very serious and solemn atmosphere, as if he's speaking about something profound.",
+    "summary_reasoning": "Soft, slow, reverent tone."
+  },
+  {
+    "timestamp": 51.84,
+    "emotion": "somber",
+    "detailed_reasoning": "The final words, \"suffering in this world,\" are delivered with a low, heavy tone. The context shifts to a global, empathetic concern, and his voice carries the weight of this subject, ending the clip on a deeply somber and sad note.",
+    "summary_reasoning": "Low, heavy tone, sad subject matter."
+  }
+]

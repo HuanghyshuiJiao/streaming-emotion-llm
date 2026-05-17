@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 6.312,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins with a serious and personal topic. Her tone is measured and deliberate, her facial expression is focused and neutral, and her posture is still. This combination of cues indicates a serious and composed emotional state as she sets the stage for her talk.",
+    "summary_reasoning": "Measured tone, neutral expression, serious topic."
+  },
+  {
+    "timestamp": 10.44,
+    "emotion": "determined",
+    "detailed_reasoning": "Continuing on the same topic, the speaker's tone remains steady and she makes strong, declarative statements like \"Masking hides our true self.\" Her unwavering gaze and clear, firm vocal delivery suggest a sense of conviction and determination to explain this concept clearly to the audience.",
+    "summary_reasoning": "Firm tone, declarative statements, steady gaze."
+  },
+  {
+    "timestamp": 21.319,
+    "emotion": "weary",
+    "detailed_reasoning": "The speaker's voice, while still controlled, conveys a sense of tiredness when she says, \"Masking is exhausting.\" The emphasis and slightly lower pitch on the word \"exhausting\" reflect the emotional and physical toll she is describing, introducing a feeling of weariness.",
+    "summary_reasoning": "Vocal emphasis, lower pitch, word choice \"exhausting\"."
+  },
+  {
+    "timestamp": 26.267,
+    "emotion": "vulnerable",
+    "detailed_reasoning": "The speaker makes a direct and personal admission: \"I am masking now, and I am masking all of the time when I'm with people.\" This act of self-disclosure, revealing her current state to the audience, creates a moment of vulnerability, even though her outward expression remains composed as part of the mask she is describing.",
+    "summary_reasoning": "Personal admission, self-disclosure."
+  },
+  {
+    "timestamp": 32.097,
+    "emotion": "concerned",
+    "detailed_reasoning": "The speaker shifts from personal admission to a broader warning. Her tone becomes more emphatic and grave as she states, \"I can't switch it off... and it is dangerous.\" The added emphasis conveys a sense of urgency and concern about the serious, uncontrollable nature of masking.",
+    "summary_reasoning": "Emphatic tone, word choice \"dangerous\"."
+  },
+  {
+    "timestamp": 40.557,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker's gaze drops slightly as she reflects on the past, saying, \"I learned to mask my autism... because I was taught to by my parents and my teachers and my friends.\" Her voice softens, taking on a more reflective and somber quality. This combination of a downward gaze and softer, reminiscent tone suggests sadness while recalling these painful memories.",
+    "summary_reasoning": "Downward gaze, soft voice, recalling past."
+  },
+  {
+    "timestamp": 52.929,
+    "emotion": "resigned",
+    "detailed_reasoning": "After explaining that her parents and teachers were unaware of the harm they were causing, she says, \"but I did it anyway.\" Her tone is matter-of-fact, lacking bitterness or anger. This, combined with her calm expression, suggests a feeling of resignation—an acceptance of a difficult past reality that she felt powerless to change at the time.",
+    "summary_reasoning": "Matter-of-fact tone, calm expression, accepting past."
+  },
+  {
+    "timestamp": 57.24,
+    "emotion": "somber",
+    "detailed_reasoning": "She concludes the clip by stating she \"didn't realize how dangerous that was going to be.\" Her speaking pace slows, and her tone becomes graver, adding significant weight to her final words. This deliberate, heavy delivery leaves the audience with a somber feeling, reflecting the gravity of the consequences she experienced.",
+    "summary_reasoning": "Slow pace, grave tone, serious words."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 2.134,
+    "emotion": "hurt",
+    "detailed_reasoning": "The speaker's initial words, \"it hurt to see how hurt I'd been,\" directly state the emotion. Her tone is somber, her facial expression is serious with slightly furrowed brows, and her hands are clasped in a self-soothing gesture, all of which support the feeling of hurt.",
+    "summary_reasoning": "Directly stated emotion, somber tone, pained expression."
+  },
+  {
+    "timestamp": 10.745,
+    "emotion": "determined",
+    "detailed_reasoning": "The speaker shifts from describing her feelings to narrating a specific plan. The words \"I waited for her on the bridge\" indicate a deliberate action. Her tone becomes more focused and narrative, and her gaze is steady, suggesting a sense of determination and resolve.",
+    "summary_reasoning": "Narrating a plan, focused tone, steady gaze."
+  },
+  {
+    "timestamp": 14.871,
+    "emotion": "resentful",
+    "detailed_reasoning": "When describing the other person as \"carefree and happy,\" the speaker's voice has a slightly strained, bitter undertone. This contrast with her own previously stated hurt creates a clear sense of resentment. Her lips tighten subtly as she says these words.",
+    "summary_reasoning": "Bitter tone, contrasting descriptions, tight lips."
+  },
+  {
+    "timestamp": 18.535,
+    "emotion": "angry",
+    "detailed_reasoning": "The speaker's internal monologue, \"I must wait. I'd shove myself away,\" reveals a building frustration. The word \"shove\" is aggressive, and her tone becomes lower and more intense. Her expression hardens, signaling a shift from resentment to active anger.",
+    "summary_reasoning": "Intense low tone, aggressive words, hardened expression."
+  },
+  {
+    "timestamp": 25.925,
+    "emotion": "disgusted",
+    "detailed_reasoning": "The speaker describes the dog as \"pathetic\" and wanting to \"kick it.\" Her voice is filled with contempt, and her face shows a clear expression of disgust, with her nose slightly wrinkled. The phrase \"trying so hard to be reasonable\" is said with immense strain, highlighting her disgust and frustration.",
+    "summary_reasoning": "Contemptuous tone, disgusted facial expression, strained words."
+  },
+  {
+    "timestamp": 33.894,
+    "emotion": "furious",
+    "detailed_reasoning": "The line \"Nobody does that\" is the clear trigger. Her voice drops to a low, menacing level, and her eyes widen with disbelief and rage. Her body tenses, indicating that her anger has escalated to fury and she is about to lose control.",
+    "summary_reasoning": "Menacing low voice, wide eyes, body tensing."
+  },
+  {
+    "timestamp": 40.221,
+    "emotion": "cold",
+    "detailed_reasoning": "As she describes the violent act of slamming her hand into the woman's back, her tone becomes flat and detached, losing the previous heat of her anger. Her facial expression becomes chillingly neutral, suggesting a cold, remorseless execution of the act.",
+    "summary_reasoning": "Detached tone, neutral expression during violent description."
+  },
+  {
+    "timestamp": 51.212,
+    "emotion": "satisfied",
+    "detailed_reasoning": "Describing the woman floating in the water, the speaker's voice becomes calm and observational. Her body visibly relaxes from its previous tension, and a slight, unsettling smile appears on her face. This combination of vocal and physical cues suggests a perverse sense of peace and satisfaction.",
+    "summary_reasoning": "Calm tone, relaxed body, slight smile."
+  }
+]

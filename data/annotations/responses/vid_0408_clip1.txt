@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 5.239,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker begins with a slow, deliberate pace and a low, consistent vocal tone. His facial expression is neutral and his eyes are mostly downcast in the dim lighting. The topic, 'Never meet your heroes,' combined with this delivery, establishes a serious and somber mood from the outset.",
+    "summary_reasoning": "Slow pace, low tone, serious topic."
+  },
+  {
+    "timestamp": 14.154,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker continues with the same low tone and slow pace, but the content becomes more analytical ('They are flawed, imperfect, and damaged like the rest of us'). This indicates a shift from a simple statement to a deeper reflection on the nature of heroes, while maintaining the somber base emotion.",
+    "summary_reasoning": "Analytical words, consistent somber tone."
+  },
+  {
+    "timestamp": 25.752,
+    "emotion": "philosophical",
+    "detailed_reasoning": "The speaker's explanation of how a hero's greatness 'evolves into a myth that we recite over and over' deepens the reflective tone into a more philosophical one. The pace remains steady, and the delivery is still very calm and serious, suggesting he is sharing a deeply considered viewpoint.",
+    "summary_reasoning": "Abstract concepts, calm serious delivery."
+  },
+  {
+    "timestamp": 30.532,
+    "emotion": "cynical",
+    "detailed_reasoning": "There is a slight but noticeable shift in tone when he states, 'The best heroes are the dead ones. They never disappoint us.' His voice becomes slightly more definitive and carries a hint of grim acceptance. This introduces a cynical or fatalistic layer to his philosophical musings.",
+    "summary_reasoning": "Grim statement, definitive tone."
+  },
+  {
+    "timestamp": 47.229,
+    "emotion": "poetic",
+    "detailed_reasoning": "The speaker's language becomes more metaphorical and descriptive ('Their glorious stories cement in our minds and the darkness of their lives fade into the dawn of our expectations'). While his tone remains low and somber, the elevated language suggests a more poetic and abstract form of expression.",
+    "summary_reasoning": "Metaphorical language, somber tone."
+  },
+  {
+    "timestamp": 56.278,
+    "emotion": "assertive",
+    "detailed_reasoning": "The speaker's statements become more direct and conclusive ('Heroes are never born. We create them. They spring from our minds...'). There is a subtle increase in vocal emphasis on key words like 'create' and 'minds', signaling a shift from poetic reflection to a more assertive and definitive declaration of his belief.",
+    "summary_reasoning": "Direct statements, increased vocal emphasis."
+  },
+  {
+    "timestamp": 58.978,
+    "emotion": "resigned",
+    "detailed_reasoning": "In the final sentence, 'A living hero is never what we need,' the speaker's voice returns to a lower, more subdued tone. The finality of the statement, combined with this drop in energy, conveys a sense of sad resignation, as if accepting an unfortunate truth. It serves as a somber conclusion to his monologue.",
+    "summary_reasoning": "Final statement, subdued tone."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his talk with a measured and even tone. His facial expression is neutral and his posture is relaxed as he poses a philosophical question to the audience. This establishes a calm and thoughtful initial state.",
+    "summary_reasoning": "Measured tone, neutral expression, relaxed posture."
+  },
+  {
+    "timestamp": 15.1,
+    "emotion": "sincere",
+    "detailed_reasoning": "The speaker shifts from a general question to a specific, narrative example about 'David.' His tone becomes more personal and earnest, and his eye contact with the audience is direct and engaging. This change suggests he is trying to build an emotional connection through storytelling.",
+    "summary_reasoning": "Narrative tone, personal example, direct eye contact."
+  },
+  {
+    "timestamp": 23.718,
+    "emotion": "earnest",
+    "detailed_reasoning": "The speaker turns the focus inward by saying 'even I need somebody there for me.' This moment of self-disclosure is delivered with a slightly softer, more vulnerable tone. His expression is serious and introspective, conveying a deep earnestness and personal connection to his message.",
+    "summary_reasoning": "Personal admission, softer tone, introspective expression."
+  },
+  {
+    "timestamp": 28.447,
+    "emotion": "hopeful",
+    "detailed_reasoning": "After sharing his own vulnerability, the speaker extends a wish to the audience by saying 'And I hope...'. His tone becomes warmer and more encouraging, and his facial expression softens slightly. This shift indicates a transition from personal reflection to a shared, hopeful sentiment for others.",
+    "summary_reasoning": "Warm tone, encouraging words, soft expression."
+  },
+  {
+    "timestamp": 35.261,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker delivers his core message, emphasizing the difference between understanding and feeling. He places strong emphasis on the word 'feels,' and his voice gains a quiet intensity and conviction. His direct gaze reinforces the passion behind his concluding point.",
+    "summary_reasoning": "Vocal emphasis, intense gaze, convicted tone."
+  },
+  {
+    "timestamp": 38.768,
+    "emotion": "grateful",
+    "detailed_reasoning": "Concluding his speech, the speaker says 'Thank you.' He brings his hands together and gives a slight bow, a clear non-verbal cue of gratitude and respect towards the audience. His facial expression is calm and appreciative.",
+    "summary_reasoning": "Hands together, slight bow, appreciative expression."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 3.877,
+    "emotion": "engaged",
+    "detailed_reasoning": "The speaker begins by posing a relatable question to the audience. Her tone is warm and inviting, her body language is open, and she smiles as she acknowledges the audience's affirmative response. This creates an atmosphere of connection and engagement.",
+    "summary_reasoning": "Warm tone, open body language, smiling, audience connection."
+  },
+  {
+    "timestamp": 9.927,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker's tone shifts as she recounts being told she might have ADD. Her expression becomes more serious, and her gaze is slightly distant, indicating she is reflecting on a past personal experience. The pace of her speech slows slightly as she introduces this new piece of her story.",
+    "summary_reasoning": "Serious expression, slower pace, sharing personal anecdote."
+  },
+  {
+    "timestamp": 12.471,
+    "emotion": "humorous",
+    "detailed_reasoning": "Following the mention of her third 'diagnosis,' the speaker's tone becomes light and ironic. She delivers the line with a wry smile, which elicits laughter from the audience, signaling a clear intent to be humorous about her past struggles.",
+    "summary_reasoning": "Ironic tone, wry smile, audience laughter."
+  },
+  {
+    "timestamp": 15.816,
+    "emotion": "somber",
+    "detailed_reasoning": "The mood shifts dramatically as the speaker discusses suppressing her authentic self. Her voice lowers in pitch, her pace slows, and the smile disappears from her face, replaced by a serious and pained expression. The content of her words is heavy, and her delivery matches this emotional weight.",
+    "summary_reasoning": "Lowered voice, serious expression, slow pace, heavy content."
+  },
+  {
+    "timestamp": 19.893,
+    "emotion": "determined",
+    "detailed_reasoning": "Describing how she reacted to the pressure, the speaker's demeanor changes to one of intensity. Her vocal tone becomes more forceful, her speech quickens, and her gestures become more pronounced and sharp. This conveys a sense of drive and aggressive determination.",
+    "summary_reasoning": "Forceful tone, quick pace, sharp gestures."
+  },
+  {
+    "timestamp": 29.782,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker breaks the intensity by sharing a family joke. Her tone becomes lighthearted, and she has a broad, genuine smile. This self-deprecating humor makes her seem amused by her past self's relentless pursuit of credentials, and the audience responds with laughter.",
+    "summary_reasoning": "Lighthearted tone, broad smile, self-deprecating joke."
+  },
+  {
+    "timestamp": 38.59,
+    "emotion": "disappointed",
+    "detailed_reasoning": "There is a stark shift in emotion as she reveals her achievements brought no joy. Her smile vanishes, her voice becomes low and slow, and her facial expression turns sorrowful. The contrast with the previous moment of amusement highlights a deep sense of disappointment and emptiness.",
+    "summary_reasoning": "Vanished smile, low/slow voice, sorrowful expression."
+  },
+  {
+    "timestamp": 47.598,
+    "emotion": "empty",
+    "detailed_reasoning": "Continuing on the theme of her unhappiness, her voice remains low and devoid of energy. She explicitly states she felt 'totally empty,' and her somber facial expression and subdued body language strongly reinforce this feeling of hollowness and despair.",
+    "summary_reasoning": "Low energy voice, somber expression, subdued posture."
+  },
+  {
+    "timestamp": 53.104,
+    "emotion": "resigned",
+    "detailed_reasoning": "The speaker describes her motivation as a 'sense of obligation.' Her tone is weary and flat, and her expression conveys a sense of exhaustion. This indicates a feeling of resignation to her circumstances, having to force herself through the 'daily grind' without any internal joy.",
+    "summary_reasoning": "Weary tone, flat delivery, exhausted expression."
+  }
+]

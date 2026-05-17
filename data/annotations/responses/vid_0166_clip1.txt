@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 14.854,
+    "emotion": "engaged",
+    "detailed_reasoning": "The speaker's tone shifts from a neutral, explanatory one to a more engaged and slightly dramatic tone. He says \"Oh yes\" with a higher pitch and a knowing look, leaning forward slightly. The words \"going nuts\" signal that he is about to provide a vivid and extreme example to illustrate his point, capturing the viewer's attention.",
+    "summary_reasoning": "Higher pitch, knowing look, dramatic words."
+  },
+  {
+    "timestamp": 18.181,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker transitions into telling a historical anecdote about Van Gogh. His tone becomes serious and factual, and his facial expression is focused as he recounts the dramatic event of lead poisoning and self-mutilation. He is presenting this information as a factual, albeit shocking, example.",
+    "summary_reasoning": "Serious tone, focused expression, historical anecdote."
+  },
+  {
+    "timestamp": 22.428,
+    "emotion": "theatrical",
+    "detailed_reasoning": "Immediately after mentioning Van Gogh cutting off his ear, the speaker exclaims \"Ouch!\" and makes a pained, wincing facial expression. This is a performative and empathetic reaction, designed to be humorous and to emphasize the absurdity of the situation he just described.",
+    "summary_reasoning": "Exclamation, pained expression, performative reaction."
+  },
+  {
+    "timestamp": 24.633,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker's tone lightens significantly as he makes a clever connection between the Van Gogh story and a famous line from Shakespeare. He delivers the line \"lend me your ear\" with a clear sense of amusement at his own pun, and a slight smile plays on his lips. The mood shifts from mock pain to intellectual humor.",
+    "summary_reasoning": "Light tone, slight smile, wordplay."
+  },
+  {
+    "timestamp": 49.238,
+    "emotion": "calm",
+    "detailed_reasoning": "After a long pause in speech, the speaker returns with a completely different topic, discussing the benefits of being \"dull.\" His tone is now calm, measured, and explanatory. His body language has also relaxed, signaling a shift back to a more neutral and informative demeanor.",
+    "summary_reasoning": "Calm tone, measured speech, relaxed posture."
+  }
+]

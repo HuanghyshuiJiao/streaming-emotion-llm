@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 2.916,
+    "emotion": "playful",
+    "detailed_reasoning": "The speaker begins with an animated and slightly high-pitched voice, adopting a character-like tone to deliver the opening line. His eyes are wide and his expression is engaged, suggesting a playful, storytelling mood as he sets up a fictional scenario.",
+    "summary_reasoning": "High-pitched, animated voice, wide eyes."
+  },
+  {
+    "timestamp": 6.783,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker's tone shifts dramatically. His voice becomes more strained, higher-pitched, and has a slightly whiny quality as he says, \"it doesn't work right.\" His facial expression changes from playful to showing slight annoyance, indicating frustration.",
+    "summary_reasoning": "Strained, high-pitched voice, annoyed expression."
+  },
+  {
+    "timestamp": 16.16,
+    "emotion": "analytical",
+    "detailed_reasoning": "The speaker's tone shifts from frustrated to instructional and analytical. His voice becomes calmer and more measured as he transitions to giving advice. He is no longer in character and is now breaking down a concept for the audience.",
+    "summary_reasoning": "Calm, measured voice, instructional tone."
+  },
+  {
+    "timestamp": 25.711,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker's pace slows down, and his tone becomes more contemplative as he discusses the difficulty of pantomime. He is presenting a challenge that requires consideration, giving his speech a thoughtful quality.",
+    "summary_reasoning": "Slow pace, contemplative tone."
+  },
+  {
+    "timestamp": 31.719,
+    "emotion": "assertive",
+    "detailed_reasoning": "The speaker's tone becomes firm and declarative as he states a rule: \"either you do all props or you do no props.\" He emphasizes his words and uses direct language, conveying a sense of conviction and assertiveness.",
+    "summary_reasoning": "Firm, declarative tone, direct language."
+  },
+  {
+    "timestamp": 36.024,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker's tone softens as he shifts to a personal anecdote about his own creative process. He talks about what he was \"going to think about doing,\" which gives his speech a more personal and reflective quality, as if looking back on a past idea.",
+    "summary_reasoning": "Soft tone, personal anecdote."
+  },
+  {
+    "timestamp": 41.231,
+    "emotion": "decisive",
+    "detailed_reasoning": "The speaker's tone shifts back to being instructional and direct. He tells the audience that this is \"something you have to decide,\" putting the onus on them. His voice is clear and firm, indicating a decisive moment in the instruction.",
+    "summary_reasoning": "Direct, firm, instructional tone."
+  },
+  {
+    "timestamp": 47.419,
+    "emotion": "emphatic",
+    "detailed_reasoning": "The speaker's tone becomes more emphatic as he lists the specific props one would need. He stresses the words \"Wii pad,\" \"cup,\" and \"shiny badge,\" using his hand to gesture and count them off. This adds emphasis to the commitment required for one of the options.",
+    "summary_reasoning": "Stressed words, hand gestures."
+  },
+  {
+    "timestamp": 52.381,
+    "emotion": "narrative",
+    "detailed_reasoning": "The speaker's tone changes to signal the start of a new segment. He says, \"Here we go,\" in an introductory manner, and then shifts into a descriptive, narrative voice to set the scene for the upcoming action, moving from instruction back to storytelling.",
+    "summary_reasoning": "Introductory phrase, descriptive tone."
+  }
+]

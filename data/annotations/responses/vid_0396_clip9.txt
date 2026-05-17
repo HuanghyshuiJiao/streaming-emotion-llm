@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 1.733,
+    "emotion": "amusement",
+    "detailed_reasoning": "The speaker starts with a rhetorical question, delivered with a slight smile and a light, almost ironic tone. His facial expression and vocal quality suggest he finds the topic he's introducing to be amusingly simple on the surface.",
+    "summary_reasoning": "Slight smile, ironic tone."
+  },
+  {
+    "timestamp": 8.283,
+    "emotion": "nervousness",
+    "detailed_reasoning": "The speaker begins telling a personal story. Although his present demeanor is calm, the content of his story explicitly describes feelings of anxiety, using phrases like \"sweat is coming down my palms\" and \"my heart is racing.\" He is embodying the nervousness of his past self for narrative effect.",
+    "summary_reasoning": "Narrative content describes anxiety."
+  },
+  {
+    "timestamp": 17.256,
+    "emotion": "incredulity",
+    "detailed_reasoning": "The speaker's tone shifts to one of disbelief and slight exasperation as he describes the woman in his story. His word choices, \"sadomasochistic\" and \"downright unintelligent,\" are strong and convey a sense of bewilderment at her actions, which he is reliving for the audience.",
+    "summary_reasoning": "Exasperated tone, strong word choice."
+  },
+  {
+    "timestamp": 33.643,
+    "emotion": "playfulness",
+    "detailed_reasoning": "After building suspense, the speaker intentionally stops the story and breaks the fourth wall to ask the audience, \"Is that annoying?\" He does this with a knowing smile and a playful, teasing tone, revealing that the suspense was a deliberate technique to engage them.",
+    "summary_reasoning": "Breaks fourth wall, knowing smile, teasing tone."
+  },
+  {
+    "timestamp": 43.865,
+    "emotion": "confidence",
+    "detailed_reasoning": "The speaker explains his previous action was a demonstration. His tone becomes explanatory and assured. He states his purpose clearly (\"I just wanted to prove to you...\"), indicating confidence in the point he is making about dopamine and focus.",
+    "summary_reasoning": "Explanatory, assured tone."
+  },
+  {
+    "timestamp": 47.953,
+    "emotion": "engagement",
+    "detailed_reasoning": "The speaker poses rhetorical questions directly to the audience (\"Would you say that your focus was increased?\"). His tone is persuasive, and his gaze sweeps across the crowd, actively trying to make them reflect on their own experience and agree with his conclusion.",
+    "summary_reasoning": "Rhetorical questions, persuasive tone, direct gaze."
+  },
+  {
+    "timestamp": 56.071,
+    "emotion": "satisfaction",
+    "detailed_reasoning": "The speaker concludes his point by summarizing the audience's likely mental state. He says \"correct?\" and points to the audience, his expression and tone conveying a sense of satisfaction and triumph that his demonstration was successful.",
+    "summary_reasoning": "Triumphant tone, direct pointing gesture."
+  }
+]

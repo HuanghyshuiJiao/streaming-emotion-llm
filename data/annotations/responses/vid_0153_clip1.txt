@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": 6.359,
+    "emotion": "aggressive",
+    "detailed_reasoning": "The video starts with the person already displaying an intensely angry facial expression. His eyebrows are furrowed, his eyes are wide and staring, and his mouth is set in a snarl, showing his teeth. His vocal tone is harsh, loud, and demanding as he says the initial lines, establishing a confrontational and aggressive mood from the very beginning.",
+    "summary_reasoning": "Intense snarl, harsh loud voice."
+  },
+  {
+    "timestamp": 12.121,
+    "emotion": "demanding",
+    "detailed_reasoning": "While maintaining the aggressive facial expression, the speaker's tone becomes slightly more focused and imperative. The words \"I simply need your handprint\" are spoken with a clipped, forceful delivery that emphasizes the non-negotiable nature of the command. The slight head tilt and unwavering eye contact add to the demanding and intimidating presence.",
+    "summary_reasoning": "Forceful tone, unwavering eye contact."
+  },
+  {
+    "timestamp": 23.651,
+    "emotion": "domineering",
+    "detailed_reasoning": "The speaker's explanation of the terms is delivered with a tone of absolute authority. The statement that the planet and all its resources now belong to \"us\" is said with a slight, contemptuous smile and a confident, almost condescending tone. This indicates a shift from a simple demand to an assertion of total control and ownership.",
+    "summary_reasoning": "Authoritative tone, contemptuous smile."
+  },
+  {
+    "timestamp": 39.471,
+    "emotion": "mocking",
+    "detailed_reasoning": "The speaker's emotion shifts dramatically here. His aggressive scowl is replaced by a wide, exaggerated, and insincere smile. His vocal tone becomes higher-pitched and superficially cheerful as he presents the \"shiny new GCC badge.\" This sharp contrast between the menacing context and the feigned friendliness creates a powerful mocking and sarcastic effect, belittling the value of the badge and the agreement.",
+    "summary_reasoning": "Exaggerated smile, cheerful tone."
+  }
+]

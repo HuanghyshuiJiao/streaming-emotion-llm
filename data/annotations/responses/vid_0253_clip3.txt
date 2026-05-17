@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 5.401,
+    "emotion": "playful",
+    "detailed_reasoning": "The speaker's tone is light and conversational. She has a subtle smile and a slightly teasing quality in her voice as she talks about men stepping down, suggesting she is being humorous and not entirely serious.",
+    "summary_reasoning": "Light tone, subtle smile, teasing quality."
+  },
+  {
+    "timestamp": 13.214,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker says \"Right,\" then pauses with a knowing smile before saying \"oh wait.\" Her tone becomes more conspiratorial and her facial expression shows clear amusement, as if she's sharing an inside joke with the audience about what the 'boys' might be thinking.",
+    "summary_reasoning": "Knowing smile, conspiratorial tone."
+  },
+  {
+    "timestamp": 19.946,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker's tone shifts to become declarative and bold as she introduces her answer. Her posture is straight and she pauses for dramatic effect, creating anticipation and conveying a strong sense of confidence in her upcoming point.",
+    "summary_reasoning": "Declarative tone, straight posture, dramatic pause."
+  },
+  {
+    "timestamp": 24.112,
+    "emotion": "amused",
+    "detailed_reasoning": "After revealing her answer is \"wild baboons,\" she repeats the phrase with a clear, wide smile, enjoying the audience's reaction and laughter. Her tone is light and humorous, showing she is amused by her own unusual example.",
+    "summary_reasoning": "Wide smile, light tone, audience laughter."
+  },
+  {
+    "timestamp": 31.3,
+    "emotion": "focused",
+    "detailed_reasoning": "The speaker's tone becomes more explanatory as she sets up the story about the baboons. Her expression is more neutral and focused, and her gestures are deliberate, indicating a shift from pure humor to storytelling to make her point.",
+    "summary_reasoning": "Explanatory tone, focused expression, deliberate gestures."
+  },
+  {
+    "timestamp": 39.31,
+    "emotion": "anticipatory",
+    "detailed_reasoning": "The speaker pauses before revealing the result of the male baboons' demise. Her eyes widen slightly, and her tone builds in a way that creates suspense for the punchline of her story. This engages the audience and makes them anticipate what's coming next.",
+    "summary_reasoning": "Pause for suspense, wide eyes, building tone."
+  },
+  {
+    "timestamp": 43.875,
+    "emotion": "pleased",
+    "detailed_reasoning": "The speaker describes the positive outcomes with a light, cheerful tone and a satisfied smile. The rhythm of her speech is upbeat as she lists the improvements, conveying a sense of pleasure and satisfaction with the result.",
+    "summary_reasoning": "Cheerful tone, satisfied smile, upbeat rhythm."
+  },
+  {
+    "timestamp": 53.346,
+    "emotion": "assertive",
+    "detailed_reasoning": "The speaker's tone shifts back to being direct and firm as she concludes her point, addressing the men in the audience. Her facial expression becomes more serious and she has a confident smirk, re-establishing the argument from her story.",
+    "summary_reasoning": "Direct tone, firm voice, confident smirk."
+  }
+]

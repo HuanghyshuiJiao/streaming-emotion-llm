@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 8.400,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker maintains a steady and measured tone, speaking with a neutral and composed facial expression. His delivery is formal and descriptive, fitting the setting of a formal speech. The content is about the comforting feeling of seeing light, and his calm demeanor reflects this sense of reassurance.",
+    "summary_reasoning": "Steady tone, composed expression."
+  },
+  {
+    "timestamp": 16.288,
+    "emotion": "serious",
+    "detailed_reasoning": "As the speaker describes the light beginning to fade, his tone becomes slightly more somber and his pace slows down. His facial expression becomes more focused and grave, signaling a shift in the narrative from a comforting situation to a more challenging one. This transition indicates a move to a more serious emotional state.",
+    "summary_reasoning": "Somber tone, slower pace."
+  },
+  {
+    "timestamp": 25.397,
+    "emotion": "grave",
+    "detailed_reasoning": "The speaker's tone deepens and he speaks with more deliberate emphasis as he lists all the sources of light being blocked. His repetition of the word \"blocks\" adds weight to his words. His facial expression is stern, conveying the complete and daunting nature of the darkness being described, creating a grave atmosphere.",
+    "summary_reasoning": "Deep tone, stern expression, repetition."
+  },
+  {
+    "timestamp": 33.420,
+    "emotion": "focused",
+    "detailed_reasoning": "The speaker is now describing the objective of the mission. His tone is clear and direct, and his gaze is fixed. He is no longer just telling a story but is stating a clear purpose. This shift in delivery from descriptive to instructional indicates a state of intense focus.",
+    "summary_reasoning": "Direct tone, fixed gaze."
+  },
+  {
+    "timestamp": 45.202,
+    "emotion": "solemn",
+    "detailed_reasoning": "The speaker's description of the environment under the keel—total darkness, deafening noise, and the risk of disorientation—is delivered with a low, heavy tone. His pace is slow and deliberate, emphasizing the extreme danger and difficulty of the situation. This creates a solemn and intense mood.",
+    "summary_reasoning": "Low tone, slow pace, serious content."
+  },
+  {
+    "timestamp": 52.455,
+    "emotion": "reflective",
+    "detailed_reasoning": "After describing the peak of the challenge, the speaker's tone shifts. He uses the phrase \"Every SEAL knows,\" which changes the perspective from a personal story to a shared, universal understanding within that group. His voice becomes slightly softer and more measured as he talks about the \"darkest moment,\" indicating a reflective and thoughtful state.",
+    "summary_reasoning": "Softer tone, collective phrasing."
+  },
+  {
+    "timestamp": 56.042,
+    "emotion": "calm",
+    "detailed_reasoning": "The final word, \"calm,\" is delivered with a steady, composed, and slightly softer voice. This concludes the narrative arc by presenting the key lesson learned from the intense experience. The speaker's demeanor mirrors the very emotion he is advocating for, bringing the clip to a calm and resolute end.",
+    "summary_reasoning": "Steady voice, concluding word."
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 1.553,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker starts with a wide smile and a light, almost cheerful tone while asking a question about the bathroom. His facial expression and vocal tone suggest he finds the situation amusing or is being playful.",
+    "summary_reasoning": "Smiling, light tone."
+  },
+  {
+    "timestamp": 3.936,
+    "emotion": "disgusted",
+    "detailed_reasoning": "Although he is still smiling, the speaker's words shift to describe a bad smell. His smile seems less genuine and more forced as he says \"it smelled like...\". The content of his speech introduces a strong element of disgust, even though his facial expression is not fully aligned with it, which could indicate the character's confused state.",
+    "summary_reasoning": "Negative words, forced smile."
+  },
+  {
+    "timestamp": 8.261,
+    "emotion": "gleeful",
+    "detailed_reasoning": "Immediately after saying \"It stinks,\" the speaker breaks into a prolonged, genuine-sounding laugh. His entire facial expression is one of glee and amusement, completely contradicting the negative statement he just made. This shows a complete shift to a joyful emotional state.",
+    "summary_reasoning": "Prolonged laughter, smiling."
+  },
+  {
+    "timestamp": 19.214,
+    "emotion": "mocking",
+    "detailed_reasoning": "The speaker's laughter subsides, and his expression becomes more serious, though a slight smile remains. He says he's going to call the police, but his calm, almost playful tone suggests he's not serious and is mocking the other person. The threat is delivered without any genuine anger or fear.",
+    "summary_reasoning": "Threatening words, calm smiling delivery."
+  },
+  {
+    "timestamp": 22.618,
+    "emotion": "challenging",
+    "detailed_reasoning": "The speaker leans forward slightly and raises his eyebrows while maintaining a smirk. His tone becomes more pointed and direct as he says \"Don't you think I won't?\", directly challenging the other person. The combination of his body language, facial expression, and assertive tone creates a challenging and confrontational emotion.",
+    "summary_reasoning": "Leans forward, raised eyebrows, assertive tone, smirk."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1.313,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins with a very focused and grave expression. Her tone is low and measured, and her words 'We need to really, really focus' establish a serious and important theme from the outset. Her hand gestures are open but controlled, adding to the gravity of her message.",
+    "summary_reasoning": "Focused expression, low tone, grave words."
+  },
+  {
+    "timestamp": 8.685,
+    "emotion": "critical",
+    "detailed_reasoning": "The speaker's tone shifts to be more critical and dismissive when she says, 'That's not treatment. That's a band-aid on a compound fracture.' Her head shakes slightly in negation, and her facial expression shows disapproval. The strong, negative metaphor reinforces this critical stance.",
+    "summary_reasoning": "Dismissive tone, head shake, strong negative metaphor."
+  },
+  {
+    "timestamp": 12.531,
+    "emotion": "determined",
+    "detailed_reasoning": "The speaker's tone becomes more intense and her language more evocative ('go down deep,' 'most terrified to face'). Her gaze is direct and unwavering, and her body language is grounded, conveying a strong sense of resolve and determination about the difficult but necessary path to healing.",
+    "summary_reasoning": "Intense tone, direct gaze, strong language."
+  },
+  {
+    "timestamp": 20.964,
+    "emotion": "somber",
+    "detailed_reasoning": "After describing the difficult path, the speaker's pace slows and her tone becomes more subdued. Her facial expression turns somber as she admits, 'And it's also the hardest way to get there,' acknowledging the immense difficulty of the healing process.",
+    "summary_reasoning": "Slower pace, subdued tone, somber expression."
+  },
+  {
+    "timestamp": 29.825,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker recounts her personal struggle, and her voice takes on a tone of sad resignation when she says, 'I only ended up high and alone.' Her facial expression droops slightly, conveying the pain and loneliness of that experience. The pause that follows adds weight to the feeling of despair.",
+    "summary_reasoning": "Resigned tone, sad expression, painful words."
+  },
+  {
+    "timestamp": 32.048,
+    "emotion": "convinced",
+    "detailed_reasoning": "The speaker's tone shifts from sadness to one of firm conviction. As she describes her realization, 'that nothing outside of ourselves can save us,' her voice becomes stronger and more assertive. Her posture straightens, and her expression is one of certainty, reflecting a core belief she has arrived at through hardship.",
+    "summary_reasoning": "Firm tone, assertive voice, certain expression."
+  },
+  {
+    "timestamp": 41.805,
+    "emotion": "empowered",
+    "detailed_reasoning": "The speaker's tone shifts to one of empowerment and agency. When she says, 'it was through the process of healing that I rewrote my story,' her voice is steady and confident. Her facial expression softens, indicating a sense of peace and control over her own narrative.",
+    "summary_reasoning": "Confident tone, soft expression, words of agency."
+  },
+  {
+    "timestamp": 43.788,
+    "emotion": "serene",
+    "detailed_reasoning": "The speaker's voice becomes very soft and gentle as she says, 'I let go, and I was carried.' Her facial expression is calm and peaceful, and her body language seems to relax, suggesting a sense of surrender and trust. This conveys a serene state of acceptance and relief.",
+    "summary_reasoning": "Soft voice, peaceful expression, relaxed posture."
+  },
+  {
+    "timestamp": 50.207,
+    "emotion": "confident",
+    "detailed_reasoning": "In her concluding statement, the speaker's voice is firm, clear, and full of conviction. She makes direct eye contact with the audience and has a slight, knowing smile as she delivers the paradoxical conclusion that addiction both almost killed her and saved her. This combination of vocal and facial cues projects strong confidence in her hard-won understanding.",
+    "summary_reasoning": "Firm voice, direct eye contact, knowing smile."
+  }
+]

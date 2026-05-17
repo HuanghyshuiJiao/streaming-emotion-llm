@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 2.175,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins with a slow, deliberate pace and a low, steady vocal tone. His facial expression is neutral and he maintains direct eye contact, establishing a serious and mysterious atmosphere with his opening line, 'I am not of your world, but I know everything about you.'",
+    "summary_reasoning": "Slow pace, low tone, neutral expression."
+  },
+  {
+    "timestamp": 7.124,
+    "emotion": "contemplative",
+    "detailed_reasoning": "The speaker continues in a similar serious tone, but the content of his speech becomes more philosophical ('everyone is the same'). His gaze remains steady and his expression is thoughtful, suggesting he is in a contemplative or reflective state, making a broad observation about the universe.",
+    "summary_reasoning": "Philosophical text, thoughtful expression, steady gaze."
+  },
+  {
+    "timestamp": 10.55,
+    "emotion": "hopeful",
+    "detailed_reasoning": "There is a subtle but clear shift in emotion. A slight, gentle smile appears, and his vocal tone softens as he mentions 'dreaming and wishing on stars.' He briefly looks upwards, which, combined with the softer tone and smile, conveys a sense of hope and empathy for the universal desires he is describing.",
+    "summary_reasoning": "Slight smile, softer tone, upward glance."
+  },
+  {
+    "timestamp": 17.422,
+    "emotion": "serious",
+    "detailed_reasoning": "The hopeful expression fades, and his face returns to a neutral, serious look. His tone becomes more declarative and grave as he introduces the concept of division ('And that's how the universe is divided'). This marks a return to the initial serious mood of the monologue.",
+    "summary_reasoning": "Hopeful expression fades, declarative tone."
+  },
+  {
+    "timestamp": 23.693,
+    "emotion": "inquisitive",
+    "detailed_reasoning": "The speaker's demeanor changes as he begins to directly question the audience. He leans forward slightly, raises his eyebrows, and his tone becomes pointed and interrogative ('What do you want?'). The shift from making statements to asking direct questions changes the emotion to one that is inquisitive and probing.",
+    "summary_reasoning": "Direct questions, raised eyebrows, interrogative tone."
+  },
+  {
+    "timestamp": 39.977,
+    "emotion": "authoritative",
+    "detailed_reasoning": "After posing a moral choice, the speaker's tone shifts from questioning to declarative. He speaks with a firm, resolute voice and nods for emphasis, stating 'We all choose.' This change in delivery from questioning to stating a definitive truth conveys a sense of authority and certainty.",
+    "summary_reasoning": "Firm tone, decisive nod, declarative statement."
+  },
+  {
+    "timestamp": 48.009,
+    "emotion": "mysterious",
+    "detailed_reasoning": "The speaker's tone softens and becomes more intimate and hushed as he talks about learning 'what is at the center of the universe.' His head tilts slightly and his expression conveys a sense of intrigue, building suspense and creating a mysterious atmosphere around the coming revelation.",
+    "summary_reasoning": "Softened tone, head tilt, intriguing expression."
+  },
+  {
+    "timestamp": 57.443,
+    "emotion": "wonder",
+    "detailed_reasoning": "In his final lines, the speaker's eyes widen, and his tone fills with a sense of awe and curiosity. He poses existential questions, leaving the audience with a profound thought rather than an answer. His expression is open and questioning, ending on a note of wonder about the 'incredible secret waiting for us.'",
+    "summary_reasoning": "Wide eyes, awe-filled tone, open-ended questions."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 21.184,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins his performance by making a strong, declarative statement about the world. His facial expression is neutral-to-serious, his tone is firm and even, and his posture is centered and stable. This combination of cues establishes a serious and thought-provoking tone for the opening of his piece.",
+    "summary_reasoning": "Serious face, firm tone, declarative statement."
+  },
+  {
+    "timestamp": 23.795,
+    "emotion": "calm",
+    "detailed_reasoning": "After his strong opening line, the speaker immediately softens his stance. He says, \"I'm not complaining, don't get me wrong.\" His tone becomes more conversational and less performative, and he uses a gentle, open-hand gesture. This shift clarifies that his perspective is one of calm observation rather than anger or complaint.",
+    "summary_reasoning": "Conversational tone, gentle gesture."
+  },
+  {
+    "timestamp": 29.883,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker's voice gains intensity and his pace quickens as he describes the constant, daily challenges. He uses the phrase \"From morning till night,\" which emphasizes the relentless nature of the issue. The content, combined with the slightly strained and more emphatic vocal delivery, conveys a sense of underlying frustration with the situation.",
+    "summary_reasoning": "Intense voice, quickened pace, frustrating content."
+  },
+  {
+    "timestamp": 36.271,
+    "emotion": "determined",
+    "detailed_reasoning": "This marks a significant pivot in the narrative. The speaker's tone shifts from describing a problem to stating his proactive response. The phrase \"I took it as a challenge\" is delivered with a firm, resolute voice and a more focused and confident facial expression, signaling a change from frustration to determination.",
+    "summary_reasoning": "Firm tone, confident expression, narrative pivot."
+  },
+  {
+    "timestamp": 38.834,
+    "emotion": "confident",
+    "detailed_reasoning": "Building on his newfound determination, the speaker makes a powerful declaration of intent. His voice is strong, his chin is slightly lifted, and he uses a definitive pointing gesture as he says \"I will do all those things.\" These cues project strong self-belief and confidence in his ability to overcome obstacles.",
+    "summary_reasoning": "Strong voice, lifted chin, pointing gesture."
+  },
+  {
+    "timestamp": 43.581,
+    "emotion": "playful",
+    "detailed_reasoning": "There is a sudden and deliberate break in the serious tone for comedic effect. After a powerful statement, he makes a self-deprecating joke about his own face, \"what a face I have!\" His expression breaks into a wide, amused smile, and his tone becomes light and theatrical, signaling to the audience that this is a moment of humor.",
+    "summary_reasoning": "Abrupt tonal shift, wide smile, self-deprecating joke."
+  },
+  {
+    "timestamp": 48.859,
+    "emotion": "earnest",
+    "detailed_reasoning": "The humor subsides, and the speaker's tone becomes earnest and sincere. When he says, \"I tried a lot. I learnt some difficult things,\" his pace slows, and his expression becomes more thoughtful. This shift conveys the genuine effort and struggle involved, moving from comedy back to the serious reality of his journey.",
+    "summary_reasoning": "Slower pace, sincere tone, thoughtful expression."
+  },
+  {
+    "timestamp": 50.568,
+    "emotion": "proud",
+    "detailed_reasoning": "The speaker begins listing his accomplishments. With each item, from tying laces to playing cricket, his voice builds in volume and confidence. A clear smile of pride emerges on his face, and his posture straightens, showcasing his achievements and the pride he takes in them.",
+    "summary_reasoning": "Confident tone, proud smile, listing achievements."
+  },
+  {
+    "timestamp": 55.411,
+    "emotion": "humorous",
+    "detailed_reasoning": "After building up a list of impressive feats, the speaker delivers an anticlimactic punchline: \"I can't do empiring\" (umpiring). The humor comes from the unexpected and mundane nature of this single limitation. His slightly exaggerated, deadpan delivery confirms the comedic intent of the line.",
+    "summary_reasoning": "Anticlimactic punchline, deadpan delivery."
+  }
+]

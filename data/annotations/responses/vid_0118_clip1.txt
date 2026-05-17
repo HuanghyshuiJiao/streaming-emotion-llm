@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 1.813,
+    "emotion": "confused",
+    "detailed_reasoning": "The video begins with the speaker looking distressed. At this point, her facial expression shifts to one of confusion. Her brow is furrowed, her eyes are squinted, and her tone becomes questioning as she says 'wait a minute,' indicating she is processing something that doesn't make sense.",
+    "summary_reasoning": "Furrowed brow, questioning tone."
+  },
+  {
+    "timestamp": 5.718,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The initial confusion turns into clear frustration. Her denial ('no, this isn't right') is spoken with a firmer, more assertive tone. Her facial muscles are tense, and she shakes her head slightly, signaling her growing agitation with the situation she is realizing.",
+    "summary_reasoning": "Firm tone, tense face, head shake."
+  },
+  {
+    "timestamp": 8.202,
+    "emotion": "angry",
+    "detailed_reasoning": "The emotion escalates from frustration to overt anger. This is evident in her choice of the word 'stupid,' which she delivers with a contemptuous tone. Her voice gets louder, her eyes widen, and her expression becomes one of indignation, directly blaming the 'town' for her misfortune.",
+    "summary_reasoning": "Loud voice, contemptuous tone, wide eyes."
+  },
+  {
+    "timestamp": 13.809,
+    "emotion": "shocked",
+    "detailed_reasoning": "While still angry, a layer of shock and disbelief is introduced as she reveals she was 'mugged'. Her voice cracks on the word, and her hands gesture towards her chest in a self-protective, shocked manner. Her eyes are wide, conveying the trauma of the event.",
+    "summary_reasoning": "Voice crack, wide eyes, hand gesture."
+  },
+  {
+    "timestamp": 19.056,
+    "emotion": "bitter",
+    "detailed_reasoning": "The anger and shock are now tinged with a bitter irony. When she states her 'life saving' was only 50 bucks, her tone is dripping with sarcasm and her mouth twists into a grimace. She finds the situation pathetic and absurd, leading to a bitter emotional state.",
+    "summary_reasoning": "Sarcastic tone, grimace."
+  },
+  {
+    "timestamp": 26.29,
+    "emotion": "desperate",
+    "detailed_reasoning": "The bitterness gives way to a sense of desperation and hopelessness. As she says her credit cards are 'maxed out,' she lets out a humorless laugh. This, combined with a slight shrug, indicates she feels her situation is so comically bad that she has no way out.",
+    "summary_reasoning": "Humorless laugh, helpless shrug."
+  },
+  {
+    "timestamp": 28.299,
+    "emotion": "vengeful",
+    "detailed_reasoning": "She abruptly shifts from desperation to a feeling of vengeful satisfaction. The sharp 'Ha!' and the declaration 'The joke's on you' are delivered with a fierce expression and a triumphant, albeit hollow, tone. She is trying to reclaim power by highlighting the thief's supposed failure.",
+    "summary_reasoning": "Sharp laugh, fierce expression, triumphant tone."
+  },
+  {
+    "timestamp": 33.643,
+    "emotion": "sad",
+    "detailed_reasoning": "Her aggressive and vengeful demeanor completely collapses into sadness and vulnerability. Her voice becomes soft and breaks slightly. Her face droops, her eyes look downcast, and her shoulders slump as she pleads for just her 'lucky keychain,' revealing her true sense of loss and despair.",
+    "summary_reasoning": "Soft, broken voice, drooping face, slumped shoulders."
+  }
+]

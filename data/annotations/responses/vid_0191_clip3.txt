@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 2.458,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins his talk by citing a formal source, the American College Health Association. His tone is measured and informative, and his facial expression is neutral and focused. The initial wide shot shows him standing calmly on stage, establishing a serious and academic tone for the start of his presentation.",
+    "summary_reasoning": "Formal source, measured tone, neutral expression."
+  },
+  {
+    "timestamp": 13.872,
+    "emotion": "concerned",
+    "detailed_reasoning": "After presenting the statistic about the significant increase in undergraduate anxiety from 50% to 62%, the speaker's tone remains serious, but the gravity of the statistic itself imparts a sense of concern. His steady gaze and the slight downward turn of his mouth underscore the troubling nature of the data he is presenting.",
+    "summary_reasoning": "Grave statistic, serious tone, steady gaze."
+  },
+  {
+    "timestamp": 19.33,
+    "emotion": "grave",
+    "detailed_reasoning": "The speaker transitions to an even more alarming statistic about a \"doubling of hospital admissions for suicidal teenagers.\" His vocal tone becomes lower and more somber, and he slows his pace slightly for emphasis. The content is extremely serious, and his delivery reflects the weight of this information, shifting the emotion from general concern to a graver, more somber mood.",
+    "summary_reasoning": "Alarming statistic, somber tone, slower pace."
+  },
+  {
+    "timestamp": 27.078,
+    "emotion": "vulnerable",
+    "detailed_reasoning": "The speaker makes the issue personal by saying, \"like me.\" This is a moment of self-disclosure. His voice softens slightly, and there's a brief, almost imperceptible pause that indicates a shift to a more personal and vulnerable emotional state. He connects his own experience to the grave statistics he just shared.",
+    "summary_reasoning": "Personal revelation, softened voice, slight pause."
+  },
+  {
+    "timestamp": 33.225,
+    "emotion": "earnest",
+    "detailed_reasoning": "The speaker begins to explain the nature of anxiety using a metaphor. His tone shifts from personal vulnerability to an earnest, explanatory quality. He wants the audience to understand the concept, and his voice carries a sense of sincere conviction as he describes anxiety as a \"snowball rolling down a hill.\"",
+    "summary_reasoning": "Explanatory metaphor, sincere vocal tone."
+  },
+  {
+    "timestamp": 40.112,
+    "emotion": "urgent",
+    "detailed_reasoning": "As the snowball metaphor culminates with the word \"unmanageable,\" the speaker's tone intensifies, conveying a sense of urgency and severity. His hands, which were previously still, begin to open up and gesture, adding emphasis to the escalating and overwhelming nature of the anxiety he is describing.",
+    "summary_reasoning": "Intensified tone, emphatic hand gestures."
+  },
+  {
+    "timestamp": 42.821,
+    "emotion": "determined",
+    "detailed_reasoning": "After describing the problem, the speaker asks, \"So what can we do to stop this?\" His tone shifts from descriptive to proactive. His voice becomes firmer, and his posture straightens, signaling a transition towards a solution and conveying a sense of determination to address the issue.",
+    "summary_reasoning": "Proactive question, firmer tone, straightened posture."
+  },
+  {
+    "timestamp": 49.005,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker presents his core proposal: \"emotional intelligence insight building classes in every high school across the nation.\" His delivery becomes more forceful and passionate. He speaks with conviction, his volume increases slightly, and he uses a sweeping hand gesture to emphasize \"across the nation,\" showing his strong belief in this solution.",
+    "summary_reasoning": "Forceful delivery, increased conviction, emphatic gestures."
+  },
+  {
+    "timestamp": 57.055,
+    "emotion": "somber",
+    "detailed_reasoning": "In his final words, the speaker brings back the life-or-death stakes of the issue, stating that unaddressed anxiety can \"even take their lives.\" His tone drops significantly, becoming quiet and somber. This final, impactful statement leaves the audience with a powerful and grave reminder of the importance of his message.",
+    "summary_reasoning": "Lowered tone, grave final words, impactful pause."
+  }
+]

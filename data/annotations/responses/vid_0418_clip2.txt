@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 5.422,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker begins with a slight smile which fades as she looks up and to the side. Her tone is even and her speech is paced deliberately, as if she is carefully considering her words and searching for the right explanation. This combination of visual and auditory cues suggests a state of deep thought.",
+    "summary_reasoning": "Upward gaze, even tone, deliberate speech."
+  },
+  {
+    "timestamp": 11.471,
+    "emotion": "serious",
+    "detailed_reasoning": "Her expression becomes more focused and her eyebrows furrow slightly. The content of her speech shifts to a serious, theological concept ('God is using me'). Her tone loses its conversational quality and becomes more declarative and grave, indicating the weight of the topic she is introducing.",
+    "summary_reasoning": "Furrowed brow, grave tone, serious words."
+  },
+  {
+    "timestamp": 21.166,
+    "emotion": "pained",
+    "detailed_reasoning": "While describing the disease, her eyes widen and she develops a strained expression, particularly when mentioning the disintegration of the body. Her tone remains steady but carries a heavier emotional weight, conveying the suffering inherent in the condition she's describing.",
+    "summary_reasoning": "Wide eyes, strained expression, heavy tone."
+  },
+  {
+    "timestamp": 27.576,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "There is a sudden and dramatic shift in her demeanor. She breaks into a wide, bright smile, tilts her head, and her tone becomes light and almost cheerful. This jarring contrast between the grim topic and her overly bright presentation suggests a sarcastic or ironic delivery, as if mocking the simplicity of calling it just a 'metaphor'.",
+    "summary_reasoning": "Sudden wide smile, light tone, contrasting grim topic."
+  },
+  {
+    "timestamp": 34.434,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The smile vanishes as quickly as it appeared, replaced by an intense, almost angry expression. Her brows furrow, she glares forward, and she enunciates 'materialistic culture' with a sharp, accusatory tone. This rapid change suggests an underlying frustration and anger with the societal issue she believes her illness represents.",
+    "summary_reasoning": "Smile vanishes, intense glare, sharp tone."
+  },
+  {
+    "timestamp": 41.448,
+    "emotion": "defiant",
+    "detailed_reasoning": "Her expression is now one of absolute, almost stubborn conviction. Her eyes are wide and unwavering, and her chin is slightly raised. Her voice is firm and declarative as she states there is 'no other explanation.' This posture and vocal tone communicate a defiant certainty in her conclusion.",
+    "summary_reasoning": "Unwavering eyes, raised chin, firm voice."
+  },
+  {
+    "timestamp": 49.985,
+    "emotion": "enlightened",
+    "detailed_reasoning": "After describing the horror of her physical state, her expression completely transforms into one of joyous, sudden realization. A genuine, wide-eyed smile spreads across her face as she delivers the line 'Because I'm not my body.' Her tone is filled with wonder and relief, signifying a profound epiphany.",
+    "summary_reasoning": "Sudden joyous smile, wide eyes, tone of wonder."
+  },
+  {
+    "timestamp": 58.081,
+    "emotion": "apologetic",
+    "detailed_reasoning": "Following the emotional peak of her epiphany, her face falls, the smile disappears, and her eyes look down. She seems to break character or come down from the intensity of the moment. Her final word, 'sorry,' is delivered in a soft, quiet voice, indicating embarrassment or regret for the emotional display.",
+    "summary_reasoning": "Face falls, downward gaze, soft voice."
+  }
+]

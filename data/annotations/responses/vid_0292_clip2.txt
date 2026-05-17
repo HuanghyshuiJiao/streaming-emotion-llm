@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 6.499,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker's initial tone is weary and slow-paced. The content of their speech, mentioning the tiresome process of editing photos to create a version of themselves that \"doesn't exist,\" combined with a visually strained expression while looking at a phone, suggests a sense of frustration and fatigue with maintaining a curated online persona.",
+    "summary_reasoning": "Weary tone, strained expression, negative words."
+  },
+  {
+    "timestamp": 12.487,
+    "emotion": "anxious",
+    "detailed_reasoning": "The emotion shifts from simple frustration to a more profound anxiety. The speaker's tone becomes more questioning and vulnerable, especially as they ask rhetorical questions like \"what's left of the real me?\" and \"am I supposed to just disappear?\". This vocal shift, coupled with them looking up from their phone with a worried expression, indicates a deeper fear of losing their identity.",
+    "summary_reasoning": "Questioning tone, worried expression, fearful words."
+  },
+  {
+    "timestamp": 21.178,
+    "emotion": "sad",
+    "detailed_reasoning": "A scene change to a darker, more somber setting with the person sitting pensively by a window marks a clear emotional shift. The voice becomes softer and more melancholic, expressing disappointment with \"perfect pictures\" and \"fake smiles.\" The combination of the sad visual context and the longing, quiet tone of voice strongly indicates an emotion of sadness.",
+    "summary_reasoning": "Somber scene, melancholic expression, soft quiet voice."
+  },
+  {
+    "timestamp": 31.260,
+    "emotion": "exasperated",
+    "detailed_reasoning": "While the sad visual context remains, the speaker's vocal delivery gains intensity and a clear edge of frustration. The statement \"I'm tired of feeling like I have to fit into this tiny idea of beauty just to matter\" is delivered with a build-up of force, conveying a sense of being completely fed up and emotionally exhausted by societal pressures. This points to a state of exasperation.",
+    "summary_reasoning": "Increased vocal intensity, tired tone, frustrated words."
+  },
+  {
+    "timestamp": 40.99,
+    "emotion": "determined",
+    "detailed_reasoning": "In the final segment, the scene changes to a direct close-up, and the speaker's tone shifts again. While still soft, there is a newfound firmness and resolve in their voice as they state their desire to \"look in the mirror and see me, not what they want me to be.\" This concluding declaration, combined with a direct and serious facial expression, signals a shift from despair to a quiet determination for self-acceptance.",
+    "summary_reasoning": "Firm tone, direct gaze, resolute words."
+  }
+]

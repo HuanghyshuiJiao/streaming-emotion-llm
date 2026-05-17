@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 7.099,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her talk with a very measured and steady vocal tone. Her facial expression is neutral and focused, and her posture is composed. She is laying the groundwork for her argument in a calm, declarative manner.",
+    "summary_reasoning": "Steady tone, neutral face, composed posture."
+  },
+  {
+    "timestamp": 12.885,
+    "emotion": "serious",
+    "detailed_reasoning": "When the speaker introduces the concept of \"power,\" her tone becomes more grave and her eyebrows furrow slightly. The pace of her speech is deliberate, emphasizing the weight of the word. This marks a shift from a general statement to a more profound and serious point.",
+    "summary_reasoning": "Grave tone, furrowed brow, deliberate pace."
+  },
+  {
+    "timestamp": 20.753,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker introduces an Igbo word, \"nkali.\" Her pace slows down, and her tone becomes more introspective and educational. She looks down as if recalling the concept, then looks up to share it with the audience, indicating she is sharing a deep, personal, and thoughtful idea.",
+    "summary_reasoning": "Slow pace, introspective tone, teaching manner."
+  },
+  {
+    "timestamp": 33.338,
+    "emotion": "passionate",
+    "detailed_reasoning": "After defining the word, she applies it to her main argument about stories. Her vocal energy increases, and her tone becomes more forceful and passionate. She is no longer just explaining a concept but is now making a powerful, heartfelt argument about its implications.",
+    "summary_reasoning": "Increased vocal energy, forceful tone."
+  },
+  {
+    "timestamp": 41.496,
+    "emotion": "assertive",
+    "detailed_reasoning": "The speaker lists the ways stories are dependent on power, using a rhythmic, emphatic delivery. Her voice is firm and confident, and she makes direct eye contact with the audience. This structured, forceful delivery makes her sound very assertive as she drives her point home.",
+    "summary_reasoning": "Rhythmic delivery, firm voice, direct eye contact."
+  },
+  {
+    "timestamp": 49.513,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker delivers her definition of power with a strong, unwavering voice. She emphasizes the word \"definitive,\" showing complete conviction in her statement. Her facial expression is resolute, conveying a high degree of confidence in her argument.",
+    "summary_reasoning": "Strong voice, word emphasis, resolute expression."
+  },
+  {
+    "timestamp": 55.165,
+    "emotion": "reflective",
+    "detailed_reasoning": "To conclude her point, she begins to quote a poet. Her tone softens, becoming more literary and narrative. This shift from making her own strong assertions to citing another's words creates a more contemplative and reflective mood.",
+    "summary_reasoning": "Softened tone, narrative quality."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 4.416,
+    "emotion": "arrogant",
+    "detailed_reasoning": "The speaker begins with a slow, deliberate tone, looking down on the scene. The words 'glittering assemblage' are delivered with a sense of superiority and a slight, condescending smile, suggesting she feels above the people she is addressing.",
+    "summary_reasoning": "Slow superior tone, condescending smile."
+  },
+  {
+    "timestamp": 11.404,
+    "emotion": "contemptuous",
+    "detailed_reasoning": "Her tone remains slow and dismissive as she lists the social classes: 'Royalty, nobility...'. Her facial expression is one of disdain, with a slight smirk, as if the people she is observing are beneath her notice.",
+    "summary_reasoning": "Dismissive tone, disdainful smirk."
+  },
+  {
+    "timestamp": 21.495,
+    "emotion": "mocking",
+    "detailed_reasoning": "The word 'quaint' is delivered with clear sarcasm. Her tone becomes slightly more amused, and her smile widens, indicating she is mocking the presence of the 'rebel'.",
+    "summary_reasoning": "Sarcastic word choice, amused tone."
+  },
+  {
+    "timestamp": 30.393,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "The speaker adopts a tone of feigned distress when mentioning not receiving an invitation. Her facial expression, a slight pout, is clearly insincere, and the overall delivery is passive-aggressive and sarcastic.",
+    "summary_reasoning": "Feigned distress in tone, insincere pout."
+  },
+  {
+    "timestamp": 33.44,
+    "emotion": "calm",
+    "detailed_reasoning": "In response to being told she is not welcome, the speaker remains completely unfazed. Her facial expression is neutral and composed, showing no sign of being affected by the direct confrontation.",
+    "summary_reasoning": "Neutral expression, unfazed reaction."
+  },
+  {
+    "timestamp": 40.796,
+    "emotion": "mocking",
+    "detailed_reasoning": "After a brief, dismissive laugh, she describes the situation as 'awkward'. Her tone is light and feigning sympathy, while her facial expression remains smug. This contrast indicates she is mocking the other person's discomfort.",
+    "summary_reasoning": "Dismissive laugh, feigned sympathetic tone, smug face."
+  },
+  {
+    "timestamp": 46.609,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "When asked if she is offended, she replies with an overly sweet and innocent 'Why, no'. Her wide-eyed expression and exaggeratedly polite tone are clearly sarcastic, designed to belittle the person she is speaking to.",
+    "summary_reasoning": "Overly sweet tone, mock innocent expression."
+  },
+  {
+    "timestamp": 54.907,
+    "emotion": "menacing",
+    "detailed_reasoning": "Her tone shifts to a smoother, almost sweet delivery as she says she bears 'no ill will'. However, her smile becomes wider and more fixed, and her eyes have a cold, threatening quality, suggesting her words are a veiled threat.",
+    "summary_reasoning": "Sweet tone, cold eyes, fixed smile."
+  }
+]

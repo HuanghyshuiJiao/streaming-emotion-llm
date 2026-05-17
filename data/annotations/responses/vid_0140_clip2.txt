@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 8.88,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins by introducing a series about bullying and the challenges of being a teenager. His tone is measured and his facial expression is neutral. The pacing of his speech is steady, and his body language is relaxed, indicating a calm and informative state as he sets the context for the monologue he is about to read.",
+    "summary_reasoning": "Measured tone, neutral expression, steady pace."
+  },
+  {
+    "timestamp": 27.238,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker's emotion shifts from calm to passionate as he describes the series as \"a great series.\" His vocal tone becomes more engaged and enthusiastic, and he adds emphasis to his words. This change suggests a personal connection to and belief in the material he is presenting, showing genuine enthusiasm.",
+    "summary_reasoning": "Engaged tone, enthusiastic emphasis."
+  },
+  {
+    "timestamp": 36.496,
+    "emotion": "focused",
+    "detailed_reasoning": "After recommending the series, the speaker transitions into a more focused state as he prepares to read the monologue. He announces the title, \"Bug-Eyed Creature,\" and the character's name, Luke. His gaze shifts slightly as he gets into character, and his tone becomes more deliberate, signaling a shift from conversational to performative mode.",
+    "summary_reasoning": "Deliberate tone, shifting gaze, preparing to perform."
+  },
+  {
+    "timestamp": 46.719,
+    "emotion": "melancholy",
+    "detailed_reasoning": "As the speaker begins reading the monologue, his emotion changes to melancholy to reflect the character's feelings of isolation. He describes being the new kid as discovering a \"new planet\" where everything is \"strange and confusing.\" His voice takes on a softer, more somber quality, and his delivery slows down, conveying a sense of sadness and alienation.",
+    "summary_reasoning": "Softer voice, somber tone, slower pace."
+  },
+  {
+    "timestamp": 57.342,
+    "emotion": "vulnerable",
+    "detailed_reasoning": "The speaker’s emotion deepens into vulnerability as he delivers the final lines of the monologue. The character is described as a \"gross, bug-eyed creature that's completely misunderstood.\" The speaker's voice becomes quieter and more expressive of the character's pain and feelings of being an outcast. This portrays a sense of deep-seated sadness and vulnerability.",
+    "summary_reasoning": "Quiet voice, pained expression, expressive tone."
+  }
+]

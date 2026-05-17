@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 6.097,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins with a neutral facial expression, a steady and even vocal tone, and a direct, composed gaze at the camera. Her posture is relaxed, and she is delivering her message in an instructional manner, all of which indicates a calm and controlled emotional state.",
+    "summary_reasoning": "Neutral expression, steady tone, instructional manner."
+  },
+  {
+    "timestamp": 13.825,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's vocal tone gains intensity and she places strong emphasis on the word \"really.\" Her eyebrows raise slightly for emphasis, and her gaze becomes more focused and direct. This shift indicates she is making a very serious and important point.",
+    "summary_reasoning": "Emphatic tone, raised eyebrows, focused gaze."
+  },
+  {
+    "timestamp": 23.435,
+    "emotion": "assertive",
+    "detailed_reasoning": "The speaker's tone becomes more forceful and direct, especially on the word \"completely.\" Her facial expression is firm and her eye contact is unwavering. She uses hand gestures to emphasize her words, conveying a strong, assertive instruction about the importance of being in the moment.",
+    "summary_reasoning": "Forceful tone, firm expression, assertive gestures."
+  },
+  {
+    "timestamp": 35.302,
+    "emotion": "emphatic",
+    "detailed_reasoning": "The speaker's tone shifts to be more explanatory and slightly dramatic. She shakes her head subtly to negate the behavior she's describing (\"inhuman,\" \"we don't do that\"). Her eyes widen on the word \"supernatural,\" adding emphasis and a sense of incredulity to her point, making her delivery very emphatic.",
+    "summary_reasoning": "Explanatory tone, head shake, wide eyes for emphasis."
+  },
+  {
+    "timestamp": 40.208,
+    "emotion": "determined",
+    "detailed_reasoning": "Returning to her central point, her vocal tone becomes firm and resolute again. She uses a head nod for emphasis, reinforcing her instruction. This combination of a firm tone and confirming body language shows her determination in conveying the message.",
+    "summary_reasoning": "Firm tone, head nod, resolute delivery."
+  },
+  {
+    "timestamp": 46.776,
+    "emotion": "engaged",
+    "detailed_reasoning": "The speaker's tone softens and becomes more conversational and inclusive, as if sharing a core insight. Her facial expression relaxes and her hand gestures become more fluid and open. This shift creates a feeling of being personally engaged with the listener and the concept she is explaining.",
+    "summary_reasoning": "Softened tone, relaxed face, fluid gestures."
+  },
+  {
+    "timestamp": 53.703,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker's gaze shifts to the side, a common cue for recalling information or reflecting. Her vocal pace slows, and a slight, knowing smile appears on her lips. The tone of her voice becomes lighter and more contemplative, suggesting she is reflecting on past experiences to illustrate her final point.",
+    "summary_reasoning": "Averted gaze, slight smile, lighter tone."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 5.258,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker starts with a somber metaphor about a storm and his ship. His tone is low, grave, and deliberate. His facial expression is stern and focused, matching the serious nature of his words. This establishes a serious and heavy atmosphere from the beginning.",
+    "summary_reasoning": "Grave tone, stern expression, serious metaphor."
+  },
+  {
+    "timestamp": 11.888,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker's words escalate to \"My life was hanging in the balance.\" His voice remains low and serious, but the content becomes more dire. His facial expression is pained and his delivery is slow, conveying a deep sense of somberness and the gravity of the life-threatening situation he is describing.",
+    "summary_reasoning": "Dire words, pained expression, slow delivery."
+  },
+  {
+    "timestamp": 19.498,
+    "emotion": "solemn",
+    "detailed_reasoning": "The speaker shifts to quoting a prayer he made, addressing a 'Father'. The tone becomes more personal and reverent, reflecting a conversation with a higher power. While still serious, the emotion shifts from describing a crisis to a solemn appeal, indicating a foundation of faith.",
+    "summary_reasoning": "Reverent tone, quoting a prayer."
+  },
+  {
+    "timestamp": 24.185,
+    "emotion": "distressed",
+    "detailed_reasoning": "The speaker recounts the shock of his affliction, stating it took him \"totally by surprise.\" His voice carries a tone of remembered pain and vulnerability. The shift from a solemn prayer to the raw emotion of being caught off guard indicates personal distress and helplessness.",
+    "summary_reasoning": "Words of shock, vulnerable tone."
+  },
+  {
+    "timestamp": 27.169,
+    "emotion": "trusting",
+    "detailed_reasoning": "A significant emotional shift occurs with the phrase \"but it didn't take you by surprise.\" The speaker's tone, which was distressed, becomes more stable and confident. This contrast signifies a move from his own fear to a reliance on a higher power's foresight, reflecting trust and faith.",
+    "summary_reasoning": "Contrast in words, confident tone shift."
+  },
+  {
+    "timestamp": 31.89,
+    "emotion": "accepting",
+    "detailed_reasoning": "Following the statement \"My future's in your hands,\" the speaker concludes his prayer with \"Thy will be done.\" This is delivered with a calm finality. The tone is one of complete surrender and acceptance of his fate, marking the culmination of his expression of faith.",
+    "summary_reasoning": "Words of surrender, calm and final tone."
+  },
+  {
+    "timestamp": 37.423,
+    "emotion": "grave",
+    "detailed_reasoning": "The speaker moves from his prayer to the doctor's diagnosis, describing the treatment as an \"atomic bomb.\" The language is stark and powerful. His voice becomes very factual and grave, without overt emotion, which serves to emphasize the immense severity and seriousness of the medical ordeal he faced.",
+    "summary_reasoning": "Stark language, factual and grave tone."
+  },
+  {
+    "timestamp": 46.866,
+    "emotion": "weary",
+    "detailed_reasoning": "The speaker begins to list the grueling schedule of his IV therapy, detailing the days and hours. His voice takes on a monotonous, almost rhythmic quality. This, combined with the content of a relentless, repetitive treatment, conveys a sense of exhaustion and weariness from the ordeal.",
+    "summary_reasoning": "Monotonous tone, describing a grueling schedule."
+  },
+  {
+    "timestamp": 55.266,
+    "emotion": "somber",
+    "detailed_reasoning": "The video ends with the speaker stating, \"July, 20 more hours.\" This final, stark statement about the continuation of the treatment is delivered in the same flat, factual tone. It leaves the listener with the heavy weight of the ongoing struggle, solidifying the somber and weary mood.",
+    "summary_reasoning": "Stark words, flat tone, unresolved struggle."
+  }
+]

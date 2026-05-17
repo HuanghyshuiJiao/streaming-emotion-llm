@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins with a calm and instructional tone. His facial expression is neutral and focused, and his delivery is steady as he lays out the foundational premise of his talk. The initial graphic of Don Rickles sets a slightly humorous stage, but the speaker's own demeanor is serious and composed.",
+    "summary_reasoning": "Instructional tone, neutral expression, steady delivery."
+  },
+  {
+    "timestamp": 4.656,
+    "emotion": "reassuring",
+    "detailed_reasoning": "The speaker softens his tone as he clarifies his point. By saying \"That doesn't mean that you can't show emotion, it's fine,\" he offers encouragement to the audience. His head nods slightly, and his expression becomes more open, reassuring the audience that showing vulnerability is acceptable.",
+    "summary_reasoning": "Softer tone, head nod, encouraging words."
+  },
+  {
+    "timestamp": 8.301,
+    "emotion": "amused",
+    "detailed_reasoning": "When sharing the statistic that \"75% of our winners... are the guys and girls that cry,\" a slight smile appears on the speaker's face. His tone becomes lighter, conveying a sense of knowing amusement at this counterintuitive fact, as if sharing an interesting secret.",
+    "summary_reasoning": "Slight smile, light tone, sharing anecdote."
+  },
+  {
+    "timestamp": 16.03,
+    "emotion": "assertive",
+    "detailed_reasoning": "The speaker's demeanor shifts significantly. His tone becomes firm and decisive as he states, \"But... it is not the audience's job to give you closure.\" He emphasizes the word \"not\" and uses a deliberate, downward hand gesture for emphasis, adopting a more commanding and assertive presence.",
+    "summary_reasoning": "Firm tone, hand gesture, emphasized words."
+  },
+  {
+    "timestamp": 22.378,
+    "emotion": "didactic",
+    "detailed_reasoning": "The speaker's focus is now on teaching a key distinction. He carefully contrasts sympathy and empathy, using a clear, instructional tone. His facial expression is serious and focused, indicating he is explaining an important concept for the audience to understand. The camera is on the audience, but his voice carries this didactic quality.",
+    "summary_reasoning": "Instructional tone, clear contrast, serious focus."
+  },
+  {
+    "timestamp": 34.123,
+    "emotion": "authoritative",
+    "detailed_reasoning": "He repeats his main point, \"Make peace with your story before you get on the stage,\" with a commanding and authoritative tone. His voice is strong and direct, leaving no room for ambiguity. This is delivered as a firm rule or a strong piece of advice from a position of expertise.",
+    "summary_reasoning": "Commanding tone, strong voice, direct statement."
+  },
+  {
+    "timestamp": 42.296,
+    "emotion": "direct",
+    "detailed_reasoning": "Following an image of Drake, the speaker delivers a very simple, fundamental instruction: \"Start at the beginning of your story and end at the end.\" His tone is straightforward and unadorned, matching the simplicity of the advice. He is being very direct and clear in his instruction.",
+    "summary_reasoning": "Simple words, straightforward tone, clear instruction."
+  },
+  {
+    "timestamp": 48.445,
+    "emotion": "engaged",
+    "detailed_reasoning": "The speaker's energy lifts as he begins to describe a common interaction. His tone becomes more narrative and animated as he illustrates his point with an anecdote about coaching others. He gestures more with his hands and leans slightly into the story, showing engagement with the material and a desire to connect with the audience through a shared experience.",
+    "summary_reasoning": "Narrative tone, animated gestures, illustrative story."
+  }
+]

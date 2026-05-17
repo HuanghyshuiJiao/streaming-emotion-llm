@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": 7.72,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker begins by talking about performing on stage. Her pace is slow, her eyes are looking up and to the side, and her tone is soft and thoughtful. This combination of visual and auditory cues suggests she is in a state of deep reflection, recalling the feeling of being on stage.",
+    "summary_reasoning": "Slow pace, upward gaze, soft tone."
+  },
+  {
+    "timestamp": 11.645,
+    "emotion": "passionate",
+    "detailed_reasoning": "After stating that performing makes her feel \"alive,\" her tone gains a bit more energy and warmth. She explicitly says \"I love being part of a story,\" and her facial expression becomes more engaged, with a slight smile forming. This indicates a shift from simple reflection to a more heartfelt, passionate feeling about her craft.",
+    "summary_reasoning": "Energetic tone, warm expression, explicit positive words."
+  },
+  {
+    "timestamp": 18.573,
+    "emotion": "dreamy",
+    "detailed_reasoning": "The speaker's language shifts to metaphors of escapism (\"escaping to some other reality\"). Her gaze drifts upward again, but this time her expression is more whimsical and less purely reflective. The tone becomes lighter, suggesting she is lost in the magical, imaginative aspect of acting.",
+    "summary_reasoning": "Escapist language, upward gaze, whimsical tone."
+  },
+  {
+    "timestamp": 28.225,
+    "emotion": "content",
+    "detailed_reasoning": "She repeats the phrase about going to a \"magical place where I can be someone else.\" Her delivery is very soft, her eyes are slightly closed, and her facial muscles are relaxed. This repetition, combined with the calm and gentle delivery, conveys a sense of peace and contentment with this escapism.",
+    "summary_reasoning": "Soft tone, relaxed face, repeated phrase."
+  }
+]

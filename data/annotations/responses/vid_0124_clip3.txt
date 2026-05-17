@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 8.76,
+    "emotion": "humorous",
+    "detailed_reasoning": "The speaker delivers the punchline 'math' after a self-deprecating joke about being a nerd. His slight smile, the pause before the word, and the subsequent laughter from the audience all point to a humorous intent. His tone is light and self-aware.",
+    "summary_reasoning": "Punchline delivery, slight smile, audience laughter."
+  },
+  {
+    "timestamp": 14.286,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's tone shifts from humorous to serious and didactic. His voice becomes more measured and earnest as he begins to talk about the principles of making friends, like respecting boundaries. His facial expression becomes more neutral and focused.",
+    "summary_reasoning": "Didactic tone, measured pace, neutral expression."
+  },
+  {
+    "timestamp": 23.156,
+    "emotion": "performative",
+    "detailed_reasoning": "The speaker transitions from his own voice to introducing a story. His tone becomes that of a narrator, clearly enunciating the title and author of a book. This marks a shift into a performance or storytelling mode.",
+    "summary_reasoning": "Narrator tone, introducing a story."
+  },
+  {
+    "timestamp": 28.261,
+    "emotion": "dramatic",
+    "detailed_reasoning": "He begins acting out the story, embodying a character. His voice deepens and he speaks slowly and with emphasis, creating a dramatic and slightly ominous tone as he says the name 'Penelope'. His posture changes as he sits down, fully entering the character.",
+    "summary_reasoning": "Deepened voice, slow pace, character embodiment."
+  },
+  {
+    "timestamp": 32.609,
+    "emotion": "stern",
+    "detailed_reasoning": "The speaker's voice changes again to portray a different character, likely an authority figure. The tone is scolding and firm, delivering a command ('we don't eat our classmates'). His facial expression is serious and his head is tilted in a disapproving manner.",
+    "summary_reasoning": "Scolding tone, firm voice, disapproving expression."
+  },
+  {
+    "timestamp": 42.136,
+    "emotion": "narrative",
+    "detailed_reasoning": "The speaker's voice returns to a storytelling or narrative mode. The pace is quick and the tone is descriptive, explaining the events of the story. He is no longer portraying a specific character's voice but is recounting the action.",
+    "summary_reasoning": "Storytelling tone, descriptive pace."
+  },
+  {
+    "timestamp": 47.472,
+    "emotion": "optimistic",
+    "detailed_reasoning": "While still in a narrative tone, the speaker's voice takes on a more hopeful and positive quality when describing Penelope's determination. The pitch slightly rises, and the pace is steady, conveying a sense of optimism for the character.",
+    "summary_reasoning": "Hopeful tone, rising pitch."
+  },
+  {
+    "timestamp": 49.578,
+    "emotion": "enthusiastic",
+    "detailed_reasoning": "For the final line, the speaker switches to a high-pitched, energetic, and cheerful voice to portray a child's excitement. His facial expression becomes wide-eyed and animated, and he makes an abrupt, enthusiastic gesture, perfectly capturing a burst of childlike energy.",
+    "summary_reasoning": "High-pitched voice, energetic tone, animated expression."
+  }
+]

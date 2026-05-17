@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 1.514,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins with a calm and even tone. His facial expression is neutral, and he is looking directly at the camera, setting a baseline for the tutorial he is about to give.",
+    "summary_reasoning": "Calm tone, neutral expression."
+  },
+  {
+    "timestamp": 8.711,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker explains the practical application of his tutorial, specifically for his work as a filmmaker. His tone remains steady and his expression is neutral, indicating he is in an explanatory or informative mode.",
+    "summary_reasoning": "Explanatory tone, neutral expression."
+  },
+  {
+    "timestamp": 19.853,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker presents a humorous, slightly cynical scenario (crying at weddings for people you don't care about). While his facial expression remains deadpan, the content of his words and a very subtle shift in his tone suggest an underlying amusement or sarcasm.",
+    "summary_reasoning": "Humorous content, deadpan delivery."
+  },
+  {
+    "timestamp": 27.264,
+    "emotion": "instructive",
+    "detailed_reasoning": "He transitions into the instructional part of the video. His tone becomes more direct and commanding as he gives the first step. His facial expression is serious and focused on delivering the instructions clearly.",
+    "summary_reasoning": "Direct tone, serious expression."
+  },
+  {
+    "timestamp": 37.219,
+    "emotion": "focused",
+    "detailed_reasoning": "The speaker begins the main part of the technique, which requires concentration. He explicitly states to keep his eyes open, and his own eyes widen as he demonstrates. His entire demeanor is now focused on the physical task at hand.",
+    "summary_reasoning": "Wide eyes, concentrating on task."
+  },
+  {
+    "timestamp": 40.023,
+    "emotion": "straining",
+    "detailed_reasoning": "He calls the action a 'test of endurance.' His eyes are held wide open, and the first signs of physical strain are visible. His expression is tense as he fights the natural urge to blink. His eyes begin to water.",
+    "summary_reasoning": "Tense expression, eyes watering."
+  },
+  {
+    "timestamp": 48.277,
+    "emotion": "pained",
+    "detailed_reasoning": "The physical strain intensifies dramatically. His brow is heavily furrowed, his mouth is contorted into a grimace, and his eyes are clearly tearing up. The expression is one of significant physical discomfort and pain from keeping his eyes open.",
+    "summary_reasoning": "Furrowed brow, contorted mouth, tearing up."
+  },
+  {
+    "timestamp": 52.765,
+    "emotion": "feigning",
+    "detailed_reasoning": "Despite his face being contorted in an expression of deep sadness or pain, the speaker explicitly states, 'I feel nothing right now I don't feel any sadness.' This verbal cue completely reframes the visual information, making it clear that the emotion is being performed or feigned, not genuinely felt.",
+    "summary_reasoning": "Verbal denial of emotion, crying facial expression."
+  }
+]

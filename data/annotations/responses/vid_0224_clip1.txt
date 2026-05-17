@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 0.351,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins with a reassuring tone, telling the listener not to worry. Her facial expression is neutral and her voice is soft and steady, which projects a sense of calm and control.",
+    "summary_reasoning": "Reassuring words, neutral face, soft voice."
+  },
+  {
+    "timestamp": 8.1,
+    "emotion": "condescending",
+    "detailed_reasoning": "The speaker's tone shifts slightly. When she says, \"it wasn't that bad,\" she squints slightly and has a subtle, dismissive smirk. This combination of verbal content and facial micro-expressions suggests she is downplaying the other person's experience in a condescending manner.",
+    "summary_reasoning": "Dismissive words, slight smirk, squint."
+  },
+  {
+    "timestamp": 15.108,
+    "emotion": "pitying",
+    "detailed_reasoning": "Her expression softens into one of faux sympathy. She says, \"You couldn't see very well,\" with a tone that implies pity. Her head is slightly tilted and her brows are subtly furrowed, which reinforces a patronizing, pitying attitude towards the person she's speaking to.",
+    "summary_reasoning": "Patronizing tone, faux-sympathetic expression."
+  },
+  {
+    "timestamp": 25.279,
+    "emotion": "smug",
+    "detailed_reasoning": "A clear shift occurs as she begins to smile. Her words, \"you only think that you're blind,\" are dismissive and invalidate the other person's perception. The wide, confident smile combined with the invalidating statement creates a strong sense of smugness and superiority.",
+    "summary_reasoning": "Smiling, dismissive words, confident expression."
+  },
+  {
+    "timestamp": 30.443,
+    "emotion": "deceptive",
+    "detailed_reasoning": "Although her words are comforting (\"I'll help you rest\"), her tone is overly sweet and her previous smug expression lingers. This contrast between the comforting words and the underlying manipulative demeanor suggests her reassurances are not genuine, but rather deceptive.",
+    "summary_reasoning": "Overly sweet tone, lingering smugness, comforting words."
+  },
+  {
+    "timestamp": 37.651,
+    "emotion": "threatening",
+    "detailed_reasoning": "There is an abrupt and dramatic change in her demeanor. Her face hardens, her eyes become cold, and her voice drops to a low, intense tone as she says, \"Touch him and I'll destroy you.\" The shift is from a deceptive sweetness to an overt, serious threat.",
+    "summary_reasoning": "Hard expression, cold eyes, low threatening voice."
+  },
+  {
+    "timestamp": 46.982,
+    "emotion": "determined",
+    "detailed_reasoning": "Following the direct threat, her expression remains intense and serious. Her voice is firm and unwavering as she states, \"I'm not finished with him.\" This conveys a sense of cold, resolute determination.",
+    "summary_reasoning": "Intense expression, firm voice, resolute statement."
+  },
+  {
+    "timestamp": 50.806,
+    "emotion": "vengeful",
+    "detailed_reasoning": "Her tone becomes filled with conviction as she says, \"It was the wrong choice and it shall be undone.\" Her eyes are wide and her expression is one of grim certainty. This suggests her determination is fueled by a desire for vengeance or to correct a perceived wrong.",
+    "summary_reasoning": "Convicted tone, grim expression, wide eyes."
+  },
+  {
+    "timestamp": 59.195,
+    "emotion": "sinister",
+    "detailed_reasoning": "The video ends with her uttering the word \"A sacrifice.\" Her eyes shift and a slight, unsettling smile plays on her lips. The way she delivers this final line, combined with her unnerving expression, gives it a deeply sinister and ominous quality.",
+    "summary_reasoning": "Unsettling smile, ominous tone, eye shift."
+  }
+]

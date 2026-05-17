@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 5.368,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her talk with a very calm and composed demeanor. Her voice is steady and measured, her facial expression is neutral, and her hands are gently clasped in front of her. This initial presentation sets a professional and thoughtful tone.",
+    "summary_reasoning": "Calm voice, neutral expression, composed posture."
+  },
+  {
+    "timestamp": 10.564,
+    "emotion": "serious",
+    "detailed_reasoning": "As she transitions into the core topic of her talk, her expression becomes more serious and her tone shifts to be more grave and deliberate. She uses a slight head nod to emphasize the importance of what she's about to say, signaling a shift from a general introduction to a more focused, serious discussion.",
+    "summary_reasoning": "Serious expression, deliberate tone, head nod emphasis."
+  },
+  {
+    "timestamp": 16.659,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker is now in an explanatory mode, detailing how adversity affects children. Her tone is purely informative, her gestures are open and illustrative, and her facial expression is focused on conveying information clearly. She is breaking down a complex scientific concept for the audience.",
+    "summary_reasoning": "Explanatory tone, illustrative gestures, focused expression."
+  },
+  {
+    "timestamp": 25.152,
+    "emotion": "authoritative",
+    "detailed_reasoning": "While explaining the function of the nucleus accumbens, the speaker's tone becomes more assertive and her hand gestures become more precise. She is stating a scientific fact with confidence, establishing her expertise on the subject. Her gaze is direct and unwavering.",
+    "summary_reasoning": "Assertive tone, precise gestures, direct gaze."
+  },
+  {
+    "timestamp": 34.206,
+    "emotion": "emphatic",
+    "detailed_reasoning": "When mentioning that the prefrontal cortex is a 'critical area for learning,' her voice gains a slight edge of emphasis. She uses subtle head movements and slightly wider eyes to stress the importance of this point to the audience, ensuring they grasp its significance.",
+    "summary_reasoning": "Emphatic tone, wider eyes, head movement for stress."
+  },
+  {
+    "timestamp": 41.911,
+    "emotion": "serious",
+    "detailed_reasoning": "Discussing the amygdala and the brain's fear response, the speaker's tone becomes more serious and slightly lower. Her facial expression is grave, reflecting the sobering nature of the information she is presenting about fear and its neurological basis.",
+    "summary_reasoning": "Serious tone, grave expression, discussing fear."
+  },
+  {
+    "timestamp": 54.591,
+    "emotion": "conclusive",
+    "detailed_reasoning": "In her final statement, the speaker's tone becomes firm and conclusive. She states that there are 'real neurologic reasons' for high-risk behavior and that this is 'important to know.' Her direct gaze, firm nod, and assertive vocal tone bring the point to a definitive and impactful close, leaving the audience with a clear takeaway message.",
+    "summary_reasoning": "Firm tone, direct gaze, assertive nod."
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker starts her story with a tone of exasperation. Her voice is high-pitched and she speaks quickly. Her facial expression is strained, with wide eyes and a tense mouth, as she describes the tedious task of blowing up balloons. The content of her words, about becoming 'light-headed' and almost passing out, reinforces this feeling of frustration with the situation.",
+    "summary_reasoning": "Exasperated tone, strained face, complaining words."
+  },
+  {
+    "timestamp": 8.418,
+    "emotion": "pleading",
+    "detailed_reasoning": "The speaker's emotion shifts from general frustration to a direct appeal. Her tone becomes pleading, with a notable rise in intonation on the word 'please'. Visually, her eyes are wide and her eyebrows raised, creating an expression of desperate appeal as she asks for a 'break'.",
+    "summary_reasoning": "Pleading tone, wide eyes, direct request."
+  },
+  {
+    "timestamp": 13.177,
+    "emotion": "alarmed",
+    "detailed_reasoning": "The narrative takes a turn, and the speaker's emotion shifts to alarm. She describes the situation escalating against her ('she's having none of it', 'rallied the troops'). Her voice becomes more dramatic and her pace quickens, building tension. Her facial expression is one of disbelief and alarm at how the children are turning on her.",
+    "summary_reasoning": "Dramatic tone, quickened pace, alarmed expression."
+  },
+  {
+    "timestamp": 18.325,
+    "emotion": "mocking",
+    "detailed_reasoning": "Here, the speaker is actively mimicking the children. She shouts 'fake, fake, fake!' in a high-pitched, childish, and accusatory tone. She points aggressively at the audience, and her face is contorted into a mock-angry expression to portray the bullying children. The emotion is one of mocking the situation she was in.",
+    "summary_reasoning": "Mimicking voice, pointing gesture, shouting."
+  },
+  {
+    "timestamp": 22.692,
+    "emotion": "dismayed",
+    "detailed_reasoning": "The speaker's focus shifts to the birthday girl crying, and her emotion changes to dismay. The mocking anger disappears, replaced by a narrative tone of exasperation. Visually, she gestures with her hands towards her own face to mime crying, and her expression is one of shocked disbelief that the situation has gotten even worse.",
+    "summary_reasoning": "Exasperated tone, crying gesture, shocked expression."
+  },
+  {
+    "timestamp": 25.877,
+    "emotion": "panicked",
+    "detailed_reasoning": "The speaker describes her internal thoughts, and the emotion becomes panic. Her eyes widen in fear as she considers the ultimate consequence: her mum walking in and her losing her job. Her voice becomes more rushed and her hands come to her chest in a classic gesture of sudden panic and dread.",
+    "summary_reasoning": "Wide eyes, rushed voice, hands on chest."
+  },
+  {
+    "timestamp": 31.706,
+    "emotion": "desperate",
+    "detailed_reasoning": "Faced with a disastrous situation, the speaker makes a sudden decision. Her emotion shifts to desperation. Her tone becomes resolute as she says 'I just start singing,' indicating this is a last-ditch effort. Her facial expression changes from outright panic to one of grim, desperate problem-solving, as if this is the only option left.",
+    "summary_reasoning": "Resolute tone, grim expression, sudden decision."
+  },
+  {
+    "timestamp": 37.094,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker explains the logic behind her desperate plan, and her emotion briefly shifts to confidence. Her tone becomes more assured and slightly smug as she talks about the 'power of Disney.' A small, knowing smile appears on her face, showing that she believes her plan is foolproof and will save the day.",
+    "summary_reasoning": "Confident tone, knowing smile, logical explanation."
+  },
+  {
+    "timestamp": 41.071,
+    "emotion": "theatrical",
+    "detailed_reasoning": "The speaker begins to enact her plan, shifting into a theatrical performance. She adopts a 'Disney princess' posture, widens her eyes innocently, and begins singing in a high, deliberately sweet and performative voice. This entire action is an act, showcasing a theatrical emotion to manipulate the children in her story.",
+    "summary_reasoning": "Singing, princess posture, performative expression."
+  },
+  {
+    "timestamp": 44.762,
+    "emotion": "disgusted",
+    "detailed_reasoning": "The performance is abruptly interrupted as the speaker's plan fails. Her emotion instantly sours to disgust. The sweet singing stops, her voice becomes clipped and annoyed, and her facial expression twists into one of revulsion as she describes the child getting 'orange dust' from 'Wotsits' all over her dress.",
+    "summary_reasoning": "Annoyed tone, disgusted facial expression, unpleasant description."
+  },
+  {
+    "timestamp": 53.125,
+    "emotion": "indignant",
+    "detailed_reasoning": "The focus shifts from the chaos of the party to a personal, financial worry, and the speaker's emotion becomes indignation. Her voice gets louder and firmer as she insists, 'I am not paying for the dry cleaners.' Her facial expression is one of anger and injustice, emphasizing her frustration with this final insult.",
+    "summary_reasoning": "Loud firm voice, angry expression, statement of refusal."
+  },
+  {
+    "timestamp": 56.996,
+    "emotion": "panicked",
+    "detailed_reasoning": "The speaker returns to singing the Disney song, but the underlying emotion is now clearly panic. While she is singing the words, her voice is strained and tense, not sweet like before. Her eyes are wide with fear, and her body language is stiff, showing that she is trying to maintain a calm facade while internally panicking about the escalating disaster.",
+    "summary_reasoning": "Strained singing, fearful eyes, tense body language."
+  }
+]

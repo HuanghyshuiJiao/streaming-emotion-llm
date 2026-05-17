@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 1.996,
+    "emotion": "determined",
+    "detailed_reasoning": "The speaker begins with a steady, firm tone and a serious facial expression. The words 'we can make the right choices and meet the challenges' convey a sense of resolve and purpose. His delivery is measured and deliberate, establishing a determined mood from the outset.",
+    "summary_reasoning": "Steady tone, serious expression, resolute words."
+  },
+  {
+    "timestamp": 4.281,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker's tone shifts as he directly addresses 'America.' His vocal energy increases, and he initiates a repetitive rhetorical structure ('if you feel the same...'). This, combined with more animated facial expressions and gestures, creates a passionate and engaging appeal to the audience.",
+    "summary_reasoning": "Increased vocal energy, direct address, rhetorical repetition."
+  },
+  {
+    "timestamp": 16.288,
+    "emotion": "urgent",
+    "detailed_reasoning": "After building momentum with repetition, the speaker's pace quickens and his vocal pitch rises on the words 'what we must do.' This change in delivery instills a sense of immediacy and necessity, shifting the emotion from passionate to urgent.",
+    "summary_reasoning": "Quicker pace, rising pitch, emphatic words."
+  },
+  {
+    "timestamp": 18.473,
+    "emotion": "confident",
+    "detailed_reasoning": "At the climax of his rhetorical build-up, the speaker declares 'I have no doubt' with a powerful and unwavering voice. His tone is strong, his posture is assertive, and he uses a definitive hand gesture, all of which project strong confidence and certainty in his message.",
+    "summary_reasoning": "Powerful voice, assertive posture, declarative statement."
+  },
+  {
+    "timestamp": 25.959,
+    "emotion": "hopeful",
+    "detailed_reasoning": "The speaker's tone becomes more uplifting and expansive as he talks about the people rising up across the nation. The content, combined with a broader, more open gesturing and a slightly softened, optimistic facial expression, conveys a strong sense of hope for the future.",
+    "summary_reasoning": "Uplifting tone, optimistic content, open gestures."
+  },
+  {
+    "timestamp": 28.704,
+    "emotion": "triumphant",
+    "detailed_reasoning": "The speaker's emotion escalates as he confidently predicts an election victory for 'John Kerry' and 'John Edwards.' His voice becomes loud and celebratory, with a clear triumphant tone, mirroring the cheers from the crowd. He is no longer just hoping but declaring an expected victory.",
+    "summary_reasoning": "Loud, celebratory voice, confident prediction."
+  },
+  {
+    "timestamp": 34.375,
+    "emotion": "inspirational",
+    "detailed_reasoning": "The speech reaches its emotional peak with poetic and aspirational language like 'reclaim its promise' and 'a brighter day will come.' The speaker's delivery takes on a powerful, almost reverent cadence, intended to inspire the audience with a profound vision for the country's future.",
+    "summary_reasoning": "Aspirational language, powerful cadence, reverent tone."
+  },
+  {
+    "timestamp": 40.207,
+    "emotion": "grateful",
+    "detailed_reasoning": "The intense, inspirational tone abruptly shifts as the speaker concludes. His voice softens, his facial expression relaxes into a warm smile, and he says 'Thank you.' His wave to the audience confirms this transition to a state of simple gratitude and appreciation.",
+    "summary_reasoning": "Softened voice, warm smile, direct words of thanks."
+  }
+]

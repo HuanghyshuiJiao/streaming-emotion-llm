@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 1.237,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her talk with a calm and composed demeanor. Her voice is steady, her facial expression is neutral with a slight, gentle smile, and her posture is relaxed. She is setting the stage for her story in a very measured way.",
+    "summary_reasoning": "Steady voice, composed demeanor, slight smile."
+  },
+  {
+    "timestamp": 5.036,
+    "emotion": "determined",
+    "detailed_reasoning": "As she describes her past self, her tone becomes more forceful and assertive. She emphasizes the words \"win\" and \"excel,\" and her hand gestures become more defined and purposeful, reflecting the competitive and driven mindset she's describing.",
+    "summary_reasoning": "Forceful tone, assertive words, purposeful gestures."
+  },
+  {
+    "timestamp": 10.51,
+    "emotion": "positive",
+    "detailed_reasoning": "The speaker's tone of voice lifts and becomes lighter as she says \"high on life.\" A clear smile appears on her face, and her eyes brighten, conveying a sense of happiness and nostalgia for that period of her life.",
+    "summary_reasoning": "Upbeat tone, clear smile, bright eyes."
+  },
+  {
+    "timestamp": 13.215,
+    "emotion": "serious",
+    "detailed_reasoning": "The emotion shifts as she introduces a problem. Her smile fades, and her tone becomes more factual and level. The topic changes from a \"high on life\" period to dealing with an \"annoying cough,\" and her demeanor becomes more serious to match the subject matter.",
+    "summary_reasoning": "Smile fades, tone becomes factual, serious topic."
+  },
+  {
+    "timestamp": 18.225,
+    "emotion": "unconcerned",
+    "detailed_reasoning": "Despite mentioning the cough, her tone immediately becomes bright and positive again when she says, \"I felt great.\" She uses a dismissive and light tone for \"didn't think much of it,\" accompanied by a slight head tilt and open hand gestures, indicating she wasn't worried at the time.",
+    "summary_reasoning": "Bright tone, dismissive phrasing, open gestures."
+  },
+  {
+    "timestamp": 33.038,
+    "emotion": "concerned",
+    "detailed_reasoning": "There is a distinct downward shift in her tone and expression. Her face becomes serious, her eyebrows furrow slightly, and her voice lowers as she says the cough \"got worse.\" This change conveys a growing sense of worry and concern, influenced by her family's urging.",
+    "summary_reasoning": "Serious expression, lowered tone, worrying words."
+  },
+  {
+    "timestamp": 39.497,
+    "emotion": "weary",
+    "detailed_reasoning": "When describing the \"series of different challenging examinations,\" her voice takes on a weary quality. The pace of her speech is deliberate, and her expression reflects the draining nature of the six-month-long medical investigation. The visual of a PET scan on screen reinforces the clinical and taxing context.",
+    "summary_reasoning": "Weary tone, deliberate pace, draining context."
+  },
+  {
+    "timestamp": 48.765,
+    "emotion": "apprehensive",
+    "detailed_reasoning": "The word \"finally\" indicates a culmination, but her tone remains serious and lacks any sense of relief. Her facial expression is tense and her body language is still, creating a feeling of suspense and apprehension about the impending news from the hospital.",
+    "summary_reasoning": "Serious tone, tense expression, suspenseful words."
+  }
+]

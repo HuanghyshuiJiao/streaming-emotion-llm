@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 7.14,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins with a very direct and intense gaze, a neutral but firm facial expression, and a slow, deliberate vocal pace. The black and white, high-contrast lighting adds to the dramatic and serious mood. The content of the words themselves establishes a somber and weighty topic.",
+    "summary_reasoning": "Intense gaze, deliberate pace, serious topic."
+  },
+  {
+    "timestamp": 11.606,
+    "emotion": "determined",
+    "detailed_reasoning": "When saying the word \"fight,\" the speaker's facial expression intensifies. He slightly grits his teeth and narrows his eyes, and his tone becomes more forceful and resolute. This shifts the emotion from general seriousness to a more active state of determination.",
+    "summary_reasoning": "Gritted teeth, narrowed eyes, forceful tone."
+  },
+  {
+    "timestamp": 16.993,
+    "emotion": "hurt",
+    "detailed_reasoning": "After a pause, the speaker delivers the word \"forsworn\" with a noticeable change in demeanor. His lips purse and his expression conveys a sense of betrayal or pain. The tone carries a weight of disappointment, suggesting he is hurt by the actions he is describing.",
+    "summary_reasoning": "Pursed lips, pained expression, disappointed tone."
+  },
+  {
+    "timestamp": 28.148,
+    "emotion": "vulnerable",
+    "detailed_reasoning": "On the word \"attainted,\" the speaker's expression softens into one of vulnerability. His eyes widen slightly, and there's a sense of resigned sadness in his face and a softer, more breathy quality to his voice, revealing his own acknowledged faults.",
+    "summary_reasoning": "Softened expression, wider eyes, breathy voice."
+  },
+  {
+    "timestamp": 34.373,
+    "emotion": "resolute",
+    "detailed_reasoning": "The speaker's expression shifts back to a more determined and resolute one. His jaw is set, and his gaze is steady and direct. His tone becomes firm again as he describes how he will turn this negative situation into a gain, indicating a renewed sense of purpose.",
+    "summary_reasoning": "Set jaw, steady gaze, firm tone."
+  },
+  {
+    "timestamp": 42.706,
+    "emotion": "pained",
+    "detailed_reasoning": "As he speaks of the \"injuries that to myself I do,\" his face contorts slightly, showing pain and self-inflicted hurt. His eyebrows furrow, and there is visible tension around his mouth, reflecting the internal conflict and suffering described in the text.",
+    "summary_reasoning": "Contorted face, furrowed brows, mouth tension."
+  },
+  {
+    "timestamp": 50.078,
+    "emotion": "devoted",
+    "detailed_reasoning": "The emotion shifts to one of complete devotion. The speaker's facial expression becomes earnest and open. His tone is sincere and filled with affection as he says \"Such is my love to thee I so belong,\" conveying a deep, unwavering commitment.",
+    "summary_reasoning": "Earnest expression, sincere tone, affectionate words."
+  },
+  {
+    "timestamp": 55.367,
+    "emotion": "resigned",
+    "detailed_reasoning": "In the final line, \"myself will bear all wrong,\" the speaker's expression becomes one of sad resignation. His face shows a mix of love and sorrow, and his voice is soft yet heavy, accepting the burden he must carry for the sake of his beloved.",
+    "summary_reasoning": "Sad expression, soft and heavy tone, accepting words."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 3.955,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her video with a calm and informative tone. Her facial expression is relaxed, and her speech is evenly paced as she sets up the context for what she is about to share. She is simply introducing the topic.",
+    "summary_reasoning": "Informative tone, relaxed face, even pace."
+  },
+  {
+    "timestamp": 7.279,
+    "emotion": "self-aware",
+    "detailed_reasoning": "The speaker acknowledges that finding a monologue on TikTok might sound \"weird.\" Her tone becomes slightly sheepish, her head tilts, and her smile is self-deprecating, showing awareness of how her audience might perceive this information.",
+    "summary_reasoning": "Self-deprecating words, sheepish tone, head tilt."
+  },
+  {
+    "timestamp": 9.521,
+    "emotion": "enthusiastic",
+    "detailed_reasoning": "After her self-aware comment, her energy picks up. She begins to explain why TikTok is a good source for monologues with a brighter, more enthusiastic tone and a faster speaking pace, using hand gestures to emphasize her point.",
+    "summary_reasoning": "Brighter tone, faster pace, hand gestures."
+  },
+  {
+    "timestamp": 17.53,
+    "emotion": "appreciative",
+    "detailed_reasoning": "When mentioning the specific TikTok creator she found, the speaker's tone becomes warm and friendly. She smiles genuinely, indicating a clear sense of appreciation for the creator's work and her desire to give them proper credit.",
+    "summary_reasoning": "Warm tone, genuine smile, giving credit."
+  },
+  {
+    "timestamp": 27.022,
+    "emotion": "impressed",
+    "detailed_reasoning": "Recalling her reaction to the monologue, she exclaims, \"wow.\" Her tone is filled with admiration, her eyes widen, and her eyebrows raise slightly, effectively communicating that she was genuinely impressed by the performance she witnessed.",
+    "summary_reasoning": "Admiring tone, \"wow\" interjection, wide eyes."
+  },
+  {
+    "timestamp": 33.291,
+    "emotion": "excited",
+    "detailed_reasoning": "The speaker announces that she is going to perform the monologue for her audience. Her pitch rises, her smile widens, and her overall energy level increases, signaling her excitement and anticipation for the performance part of the video.",
+    "summary_reasoning": "Higher pitch, wider smile, increased energy."
+  },
+  {
+    "timestamp": 42.204,
+    "emotion": "annoyed",
+    "detailed_reasoning": "An unexpected Siri voice interrupts her while she is speaking. Her facial expression immediately shifts to surprise and mild annoyance. Her eyes dart to the side, and her mouth tightens, breaking her flow and showing her frustration with the interruption.",
+    "summary_reasoning": "Sudden interruption, surprised expression, tightened mouth."
+  },
+  {
+    "timestamp": 45.325,
+    "emotion": "amused",
+    "detailed_reasoning": "After the interruption, she sarcastically says, \"Thanks, Siri.\" Her tone is dry, and she shakes her head with a wry smile, indicating that she finds the awkward interruption amusing, even though it was initially annoying.",
+    "summary_reasoning": "Sarcastic tone, wry smile, head shake."
+  },
+  {
+    "timestamp": 49.623,
+    "emotion": "persuasive",
+    "detailed_reasoning": "Recovering from the interruption, she seamlessly transitions back into her standard YouTube outro. Her tone becomes cheerful and persuasive as she encourages viewers to subscribe and like the video, using direct eye contact and inviting hand gestures.",
+    "summary_reasoning": "Cheerful tone, direct eye contact, call to action."
+  }
+]

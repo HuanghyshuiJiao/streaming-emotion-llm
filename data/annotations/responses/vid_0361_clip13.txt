@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 2.115,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins with a very focused and serious demeanor. His tone is measured and deliberate, and he uses a pointed finger gesture to emphasize that he is about to deliver an important message. The lack of a smile and his direct eye contact with the audience establish a serious and contemplative mood.",
+    "summary_reasoning": "Focused expression, deliberate tone, pointed gesture."
+  },
+  {
+    "timestamp": 6.524,
+    "emotion": "emphatic",
+    "detailed_reasoning": "The speaker's emotion shifts to become more emphatic. He begins to repeat the phrase \"all your problems\" while increasing his vocal intensity and using rhythmic hand gestures. This repetition and heightened energy are used to drive his point home and capture the audience's full attention on the core theme he is introducing.",
+    "summary_reasoning": "Repetitive phrase, increased vocal intensity, rhythmic gestures."
+  },
+  {
+    "timestamp": 13.438,
+    "emotion": "insightful",
+    "detailed_reasoning": "After the emphatic repetition, the speaker's tone softens and becomes more intimate and revelatory. He slows his pace and leans slightly forward as if sharing a profound secret with the audience. The line \"You are wearing them\" is delivered with a sense of quiet insight, shifting the mood from a declaration to an explanation.",
+    "summary_reasoning": "Softer tone, slower pace, revelatory delivery."
+  },
+  {
+    "timestamp": 17.506,
+    "emotion": "hopeful",
+    "detailed_reasoning": "The speaker's demeanor changes to one of hopefulness. As he talks about taking the problems \"off,\" he physically acts out lifting something and holding it up, and a slight, optimistic smile appears on his face. His tone becomes lighter, suggesting a positive outcome and a sense of relief.",
+    "summary_reasoning": "Symbolic lifting gesture, slight smile, lighter tone."
+  },
+  {
+    "timestamp": 26.583,
+    "emotion": "grateful",
+    "detailed_reasoning": "The emotion shifts to a personal and grateful one. The speaker's voice softens, and he gestures toward himself when he says, \"when I understood this.\" A gentle, genuine smile spreads across his face, indicating a deep sense of personal realization and gratitude, which he then explicitly names.",
+    "summary_reasoning": "Soft voice, self-referential gesture, genuine smile."
+  },
+  {
+    "timestamp": 30.869,
+    "emotion": "contemplative",
+    "detailed_reasoning": "The speaker's emotion becomes contemplative as he poses a rhetorical question to the audience. His tone is no longer one of personal reflection but of gentle inquiry. His facial expression is inquisitive, inviting the audience to think along with him about why they get \"stuck in complaints.\"",
+    "summary_reasoning": "Rhetorical question, inquisitive tone, thoughtful expression."
+  },
+  {
+    "timestamp": 37.659,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker's energy rises as he delivers the key message of his talk. His voice gains passion and conviction when he says, \"See how much life is there in every moment.\" His expression is wide-eyed and full of earnest belief, aiming to inspire the audience with this powerful idea.",
+    "summary_reasoning": "Passionate voice, earnest expression, inspiring words."
+  },
+  {
+    "timestamp": 42.066,
+    "emotion": "engaging",
+    "detailed_reasoning": "The speaker shifts his strategy to directly engage the audience by introducing a well-known name. His tone becomes lighter and more conversational as he asks, \"Baba Bulleh Shah?\" This question, combined with his direct gaze, serves to recapture the audience's attention and create a sense of shared cultural knowledge.",
+    "summary_reasoning": "Direct question, conversational tone, introducing a name."
+  },
+  {
+    "timestamp": 49.61,
+    "emotion": "admiring",
+    "detailed_reasoning": "Having engaged the audience, the speaker's emotion turns to admiration. He speaks about the two lines he likes from Bulleh Shah with a fond smile and a softer, appreciative tone. His body language is relaxed, conveying his deep respect and personal connection to the poet's words.",
+    "summary_reasoning": "Fond smile, appreciative tone, relaxed posture."
+  },
+  {
+    "timestamp": 54.648,
+    "emotion": "profound",
+    "detailed_reasoning": "In the final moment of the clip, the speaker's demeanor shifts to become profound and dramatic. He pauses, his expression becomes serious, and his posture becomes still as he prepares to deliver the poet's quote. This builds a sense of anticipation and signals to the audience that the words to follow are of great importance.",
+    "summary_reasoning": "Dramatic pause, serious expression, anticipatory stillness."
+  }
+]

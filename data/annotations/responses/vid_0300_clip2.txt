@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 4.618,
+    "emotion": "neutral",
+    "detailed_reasoning": "The speaker begins with a conversational and introductory tone. Her facial expression is neutral and open, and her voice is at a steady, moderate pitch. She is simply setting the stage for what she is about to discuss, without any strong emotional coloring.",
+    "summary_reasoning": "Conversational tone, neutral expression."
+  },
+  {
+    "timestamp": 10.668,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker is stating facts about the first monologue she learned, including the title of the play and the author's name. Her tone is clear and direct, her expression is focused, and her delivery is straightforward, indicating her primary intent is to convey information.",
+    "summary_reasoning": "Factual content, direct tone."
+  },
+  {
+    "timestamp": 18.800,
+    "emotion": "reminiscent",
+    "detailed_reasoning": "When recalling the age she learned the monologue (16 or 17), her pace slows slightly, and her eyes look up and away, a common sign of accessing memory. The tone becomes slightly softer, suggesting she is looking back into her past with a sense of gentle reflection.",
+    "summary_reasoning": "Slower pace, looking away, softer tone."
+  },
+  {
+    "timestamp": 24.629,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker continues to recount her past experiences, specifically a summer course. Her tone returns to a calm, narrative style. Her facial expression is relaxed, and her body language is composed as she explains the context of learning the monologue.",
+    "summary_reasoning": "Narrative tone, relaxed expression."
+  },
+  {
+    "timestamp": 33.018,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker discusses her drama school auditions. Her pace slows down, and she pauses, looking slightly to the side as if contemplating her choices from that time. The tone is more measured, indicating a shift from simple recollection to a more considered reflection on her decisions.",
+    "summary_reasoning": "Slower pace, pausing, measured tone."
+  },
+  {
+    "timestamp": 42.308,
+    "emotion": "disinterested",
+    "detailed_reasoning": "The speaker explains her decision to not use the monologue for auditions, stating it had become \"stale.\" Her tone lowers slightly, and her facial expression shows a slight lack of enthusiasm, conveying a sense of the monologue having lost its appeal for her at the time.",
+    "summary_reasoning": "Lower tone, lack of enthusiasm."
+  },
+  {
+    "timestamp": 43.769,
+    "emotion": "enthusiastic",
+    "detailed_reasoning": "Contrasting with the previous feeling, the speaker's voice becomes more animated and higher in pitch as she says she wanted something \"new and fresh.\" Her eyes widen slightly, and her expression brightens, showing a clear enthusiasm for novelty and new challenges.",
+    "summary_reasoning": "Animated voice, higher pitch, brighter expression."
+  },
+  {
+    "timestamp": 49.896,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker reflects on the content of the monologue, noting it's about \"being young.\" Her tone becomes softer and more contemplative. Her facial expression is gentle and thoughtful, suggesting a deeper consideration of the monologue's themes and its appropriateness for a young actor.",
+    "summary_reasoning": "Softer tone, thoughtful expression."
+  }
+]

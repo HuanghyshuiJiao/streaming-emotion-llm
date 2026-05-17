@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 6.9,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker maintains a calm and composed demeanor as she introduces the topic. Her tone of voice is steady, her facial expression is neutral, and her body language is relaxed. She is setting an educational and informative tone for the lecture.",
+    "summary_reasoning": "Steady voice, neutral expression, relaxed posture."
+  },
+  {
+    "timestamp": 19.616,
+    "emotion": "focused",
+    "detailed_reasoning": "The speaker's gaze shifts slightly upward, and her speech becomes more deliberate as she details the specific characteristics of a dramatic monologue. This indicates a higher level of concentration as she explains a key definition to the audience.",
+    "summary_reasoning": "Upward gaze, deliberate speech."
+  },
+  {
+    "timestamp": 25.708,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker's tone becomes more declarative as she clarifies a common misconception about dramatic monologues—that the speaker is not the poet. She uses a clear and direct tone to ensure the audience understands this important distinction, leaning slightly forward to emphasize the point.",
+    "summary_reasoning": "Declarative tone, slight lean forward."
+  },
+  {
+    "timestamp": 37.827,
+    "emotion": "engaged",
+    "detailed_reasoning": "When providing a specific example of Robert Browning's work, the speaker's expression becomes more animated, and she uses hand gestures to illustrate her point. Her tone is more lively, suggesting she is engaged with the specific examples she is sharing.",
+    "summary_reasoning": "Animated expression, illustrative hand gestures, lively tone."
+  },
+  {
+    "timestamp": 51.93,
+    "emotion": "calm",
+    "detailed_reasoning": "As she concludes her point and summarizes the key characteristic of the dramatic monologue, her pace slows down, and her tone returns to the calm, educational manner she started with. This provides a clear wrap-up of the concept before moving on.",
+    "summary_reasoning": "Slower pace, calm tone."
+  }
+]

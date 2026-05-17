@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "calm",
+    "detailed_reasoning": "The video begins with the narrator setting the scene for the story. His tone is neutral and his pace is steady. His facial expression is calm as he introduces the characters and the initial situation, establishing a baseline for the narrative.",
+    "summary_reasoning": "Neutral tone, steady pace, calm face."
+  },
+  {
+    "timestamp": 8.539,
+    "emotion": "compassionate",
+    "detailed_reasoning": "The narrator's tone softens significantly as he explains that the lion didn't have the heart to kill the mouse. His facial expression becomes more gentle and empathetic, and he uses open hand gestures to convey the lion's act of mercy, reflecting a compassionate mood.",
+    "summary_reasoning": "Soft tone, gentle face, open hands."
+  },
+  {
+    "timestamp": 15.666,
+    "emotion": "fierce",
+    "detailed_reasoning": "The narrator dramatically shifts his character to portray the lion. His voice becomes a loud, deep roar, and his facial expression turns aggressive with wide eyes and an open mouth. He raises his hands like claws, fully embodying the fierce and commanding nature of the lion.",
+    "summary_reasoning": "Loud roar, fierce face, claw hands."
+  },
+  {
+    "timestamp": 26.557,
+    "emotion": "alarmed",
+    "detailed_reasoning": "After returning to a normal narrative tone, the narrator's voice suddenly becomes tense and his pace quickens as he describes the lion falling into the net. His eyes widen in surprise, and he raises his hands in a gesture of being trapped, conveying a sense of shock and alarm.",
+    "summary_reasoning": "Tense voice, wide eyes, trapped gesture."
+  },
+  {
+    "timestamp": 31.171,
+    "emotion": "desperate",
+    "detailed_reasoning": "To show the lion's struggle, the narrator's voice becomes a loud, sustained roar filled with strain. His facial expression is one of anguish, with his mouth wide open and eyebrows furrowed. His body is tense as he acts out the lion's desperate attempt to escape.",
+    "summary_reasoning": "Strained roar, anguished face, tense body."
+  },
+  {
+    "timestamp": 38.879,
+    "emotion": "curious",
+    "detailed_reasoning": "The narrator transitions characters from the desperate lion to the small mouse. His voice becomes higher-pitched and softer. He puts a hand to his ear in a listening gesture, and his facial expression becomes inquisitive, portraying the mouse's curiosity upon hearing the lion's roar.",
+    "summary_reasoning": "High-pitched voice, listening gesture, inquisitive face."
+  },
+  {
+    "timestamp": 47.189,
+    "emotion": "determined",
+    "detailed_reasoning": "Upon describing the mouse seeing the trapped lion, the narrator's expression shifts to one of resolve. His voice becomes focused and energetic. He then physically demonstrates the mouse's determination by scrunching his face in concentration and using his hands to mimic the action of biting through the net.",
+    "summary_reasoning": "Focused voice, concentrated face, biting gesture."
+  }
+]

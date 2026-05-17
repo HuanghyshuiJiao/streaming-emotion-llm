@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker begins with a slow, somber tone and a melancholic facial expression. His gaze is averted, looking up and away, as if recalling a difficult memory. The content of the words, describing someone's inability to cope and having their 'light eclipsed,' reinforces the feeling of sadness and struggle.",
+    "summary_reasoning": "Slow somber tone, melancholic expression, sad content."
+  },
+  {
+    "timestamp": 5.778,
+    "emotion": "pained",
+    "detailed_reasoning": "Continuing the sad narrative, the speaker's tone remains low and heavy. The description of being 'punched in his solar plexus' is accompanied by a physical gesture where he subtly touches his stomach. This combination of depressing language, somber tone, and physical embodiment of pain intensifies the emotion from general sadness to a more acute feeling of being pained.",
+    "summary_reasoning": "Somber tone, negative language, physical gesture of pain."
+  },
+  {
+    "timestamp": 12.808,
+    "emotion": "hopeful",
+    "detailed_reasoning": "A distinct shift occurs in the narrative with the introduction of 'Little Miss Sunshine.' The speaker's vocal tone immediately lightens, and his pace picks up slightly. A subtle smile begins to form, and his overall demeanor changes from downcast to optimistic, signaling a turn towards a more positive and hopeful part of the story.",
+    "summary_reasoning": "Lighter tone, faster pace, subtle smile."
+  },
+  {
+    "timestamp": 14.991,
+    "emotion": "inspired",
+    "detailed_reasoning": "The speaker's delivery becomes more melodic and uplifting as he recounts the 'favorite song' about being strong. His facial expression softens, his eyes brighten, and his hand gestures become more open and expressive. He is no longer just narrating; he is conveying the inspirational message of the song, making the emotion feel uplifting and inspired.",
+    "summary_reasoning": "Uplifting melodic tone, soft expression, open gestures."
+  },
+  {
+    "timestamp": 24.663,
+    "emotion": "admiring",
+    "detailed_reasoning": "When describing Little Miss Sunshine as 'hot stuff,' the speaker's tone becomes more animated and carries a clear sense of appreciation and admiration. He smiles and his eyes have a slight twinkle, indicating a fond and admiring recollection of the character's captivating presence.",
+    "summary_reasoning": "Animated appreciative tone, smiling, fond expression."
+  },
+  {
+    "timestamp": 31.581,
+    "emotion": "captivated",
+    "detailed_reasoning": "The speaker's focus intensifies as he describes the unforgettable impact of the girl. His voice becomes lower and more deliberate, and his gaze is fixed. The powerful imagery of her image 'burn[ing] in his retina' is delivered with a sense of gravity that suggests he was completely captivated and mesmerized.",
+    "summary_reasoning": "Intense focused tone, fixed gaze, powerful imagery."
+  },
+  {
+    "timestamp": 36.672,
+    "emotion": "comforted",
+    "detailed_reasoning": "The tone softens considerably when the speaker says, 'Yet she accepted him.' His voice becomes gentle and warm. He continues this tone when explaining that 'things weren't as dark as they seemed' when she was near. This vocal shift, combined with a softer facial expression, conveys a feeling of safety, relief, and being comforted.",
+    "summary_reasoning": "Soft gentle tone, warm expression, comforting words."
+  },
+  {
+    "timestamp": 41.823,
+    "emotion": "joyful",
+    "detailed_reasoning": "There is a surge of positive energy in the speaker's performance. His pace quickens, his vocal pitch rises, and he physically embodies the word 'beamed' with a wide, genuine smile. His eyes light up as he speaks, perfectly matching the description in the poem. The emotion is clearly one of pure, unadulterated joy.",
+    "summary_reasoning": "Energetic tone, rising pitch, wide smile, bright eyes."
+  },
+  {
+    "timestamp": 51.002,
+    "emotion": "affectionate",
+    "detailed_reasoning": "As the speaker reveals the nicknames the characters gave each other, 'Cool Star and Fun Son,' his tone becomes playful and tender. He delivers the lines with a warm smile, conveying the deep, affectionate, and fun-loving bond that had formed between them.",
+    "summary_reasoning": "Playful tender tone, warm smile, affectionate content."
+  },
+  {
+    "timestamp": 55.170,
+    "emotion": "peaceful",
+    "detailed_reasoning": "For the final line, the speaker's pace slows down, and his voice takes on a calm, conclusive quality. His expression is one of serene satisfaction as he talks about the 'shadowy damage' becoming 'undone.' This brings the story to a gentle and resolved close, leaving a feeling of peace and contentment.",
+    "summary_reasoning": "Slow calm pace, conclusive tone, serene expression."
+  }
+]

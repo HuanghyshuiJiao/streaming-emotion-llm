@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 7.2,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins with a grave hypothetical scenario about the violation of civil liberties. His facial expression is stern, with a furrowed brow, and his tone is firm and measured. He uses a pointed finger gesture to emphasize the seriousness of the threat he is describing, both to the hypothetical family and to himself.",
+    "summary_reasoning": "Stern expression, firm tone, pointed gesture."
+  },
+  {
+    "timestamp": 18.515,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker shifts from a specific example to a core belief. He repeats the phrase \"it is that fundamental belief,\" with increasing vocal intensity and a more open, earnest facial expression. The background music swells slightly, adding to the passionate and uplifting feeling of his declaration.",
+    "summary_reasoning": "Increased vocal intensity, earnest expression, rising music."
+  },
+  {
+    "timestamp": 25.684,
+    "emotion": "inspirational",
+    "detailed_reasoning": "He delivers the lines \"I am my brother's keeper, I am my sister's keeper\" with a rhythmic, almost preacher-like cadence. His voice is strong and clear, and he uses hand gestures that sweep across the audience, visually uniting them. This combination of powerful words, confident delivery, and inclusive gestures is designed to inspire the audience with a sense of shared responsibility.",
+    "summary_reasoning": "Rhythmic cadence, strong voice, sweeping gestures."
+  },
+  {
+    "timestamp": 34.468,
+    "emotion": "unifying",
+    "detailed_reasoning": "The speaker's tone softens slightly but remains deeply heartfelt as he talks about coming together as \"one American family.\" His facial expression is sincere and his gaze seems to connect with the audience. The choice of words emphasizes unity and shared identity, fostering a collective feeling.",
+    "summary_reasoning": "Heartfelt tone, sincere expression, unifying words."
+  },
+  {
+    "timestamp": 39.073,
+    "emotion": "proud",
+    "detailed_reasoning": "The speaker quotes the national motto \"E pluribus unum\" and its translation \"Out of many, one.\" He delivers the Latin phrase with a deliberate and respectful cadence, followed by a clear, declarative statement of its meaning. His posture is upright and his expression is one of solemn pride in this foundational American principle.",
+    "summary_reasoning": "Deliberate cadence, declarative tone, proud posture."
+  },
+  {
+    "timestamp": 45.36,
+    "emotion": "concerned",
+    "detailed_reasoning": "There's a distinct shift in tone as the speaker says, \"Now, even as we speak, there are those who are preparing to divide us.\" His voice becomes lower and more grave, and his facial expression turns serious, with a slight frown. This signals a warning and a shift from an inspirational message to a more cautionary one.",
+    "summary_reasoning": "Grave tone, serious expression, cautionary words."
+  },
+  {
+    "timestamp": 51.266,
+    "emotion": "defiant",
+    "detailed_reasoning": "The speaker's energy and volume rise as he calls out the \"spin masters\" and \"negative ad peddlers.\" He uses a dismissive hand gesture and a scornful tone when describing their \"politics of anything goes,\" conveying a strong sense of opposition and defiance toward these divisive tactics.",
+    "summary_reasoning": "Rising volume, scornful tone, dismissive gesture."
+  },
+  {
+    "timestamp": 58.911,
+    "emotion": "impassioned",
+    "detailed_reasoning": "In the final lines, the speaker's voice crescendos with passion as he makes his culminating point: \"there is not a liberal America and a conservative America.\" He uses a strong, emphatic hand gesture, pointing his finger for emphasis. His face is filled with conviction. This powerful delivery is meant to stir the emotions of the crowd and leave a lasting, unifying message.",
+    "summary_reasoning": "Crescendoing voice, emphatic gesture, convicted expression."
+  }
+]

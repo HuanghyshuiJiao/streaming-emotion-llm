@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "tense",
+    "detailed_reasoning": "The video starts with the camera focused on the man's shirt, forcing reliance on audio. The speaker begins with a rhetorical and slightly confrontational question, 'You want to know why I had no address for three months?'. His vocal tone is low and steady but carries a challenging undertone, creating a tense and serious atmosphere from the outset.",
+    "summary_reasoning": "Confrontational question, tense vocal tone."
+  },
+  {
+    "timestamp": 5.177,
+    "emotion": "resigned",
+    "detailed_reasoning": "After a long, contemplative pause, the speaker's face becomes visible. He confesses, 'I stole a suit in Kansas City and I was jailed.' His tone has lost its earlier tension and is now flat and matter-of-fact. His expression is somber and his gaze is slightly averted, suggesting a sense of resignation and shame about his past actions.",
+    "summary_reasoning": "Flat tone, somber expression, factual confession."
+  },
+  {
+    "timestamp": 10.203,
+    "emotion": "frustrated",
+    "detailed_reasoning": "As he continues recounting his history of self-sabotage ('I stole myself out of every good job...'), his pace quickens and a clear tone of bitterness emerges. His brow furrows slightly, and his voice carries the weight of a long-standing struggle. The emotion shifts from passive resignation to active frustration with his repeated failures.",
+    "summary_reasoning": "Faster pace, bitter tone, furrowed brow."
+  },
+  {
+    "timestamp": 15.869,
+    "emotion": "angry",
+    "detailed_reasoning": "There is a sharp pivot in his emotional state as he shifts the blame externally. His voice rises in volume and his tone becomes accusatory and aggressive as he says, 'you blew me so full of hot air'. His facial expression hardens, his jaw clenches, and his eyes narrow, marking a clear transition from frustration with himself to anger directed at the listener.",
+    "summary_reasoning": "Louder volume, aggressive tone, direct accusation, hardened expression."
+  },
+  {
+    "timestamp": 27.518,
+    "emotion": "furious",
+    "detailed_reasoning": "The speaker's anger escalates dramatically, peaking at the line, 'It's goddamn time you heard that.' The inclusion of profanity, combined with a forceful, almost shouting delivery and a deeply strained facial expression, shows that his anger has intensified into a state of fury as he unleashes his pent-up resentment.",
+    "summary_reasoning": "Profanity, forceful delivery, strained expression."
+  },
+  {
+    "timestamp": 31.644,
+    "emotion": "exasperated",
+    "detailed_reasoning": "Immediately following the outburst, his voice drops and his energy deflates as he says, 'and I'm through with it, Willie.' The fury gives way to a feeling of complete emotional exhaustion. While anger is still present, the dominant emotion is now exasperation—he sounds utterly defeated and fed up with the entire situation.",
+    "summary_reasoning": "Voice drops, tone of finality, emotional exhaustion."
+  },
+  {
+    "timestamp": 35.589,
+    "emotion": "desperate",
+    "detailed_reasoning": "Recounting a recent epiphany, his speech becomes rapid and almost breathless ('I ran down 11 flights...'). His eyes widen with intensity as he repeatedly pleads, 'Do you hear me?'. The focus shifts from anger to a desperate need to be understood, conveying the life-changing significance of the moment he is describing.",
+    "summary_reasoning": "Rapid speech, wide eyes, pleading tone."
+  },
+  {
+    "timestamp": 49.469,
+    "emotion": "relieved",
+    "detailed_reasoning": "In his final words, 'and I saw the sky,' the speaker's demeanor transforms completely. All the prior tension, anger, and desperation dissolve. His voice becomes soft and slow, filled with a sense of quiet awe. His facial muscles relax, reflecting a profound internal shift—a moment of clarity and release from his burdens, resulting in a feeling of relief.",
+    "summary_reasoning": "Soft, slow voice, relaxed expression, tone of awe."
+  }
+]

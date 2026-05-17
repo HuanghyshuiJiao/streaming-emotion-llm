@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 4.34,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins his speech with a serious and deliberate tone. He is looking down at his notes, and his facial expression is focused and neutral. The content of his speech is advice-oriented ('Don't be trapped by dogma'), which he delivers in a measured, almost cautionary, vocal style, indicating the gravity of his message.",
+    "summary_reasoning": "Deliberate tone, focused expression, cautionary words."
+  },
+  {
+    "timestamp": 10.373,
+    "emotion": "inspirational",
+    "detailed_reasoning": "The speaker's tone shifts to become more emphatic and passionate as he says, 'And most important, have the courage to follow your heart and intuition.' He is no longer just giving advice but is now trying to inspire and motivate the audience. The vocal energy increases, highlighting the importance of this particular message.",
+    "summary_reasoning": "Emphatic tone, passionate delivery, motivational words."
+  },
+  {
+    "timestamp": 17.088,
+    "emotion": "confident",
+    "detailed_reasoning": "After pausing, the speaker delivers the line 'Everything else is secondary' with a firm and conclusive tone. Although the camera cuts to the audience, his voice projects a strong sense of conviction and confidence in the philosophy he has just shared. The finality in his tone reinforces the inspirational message.",
+    "summary_reasoning": "Firm, conclusive tone, strong conviction."
+  },
+  {
+    "timestamp": 32.534,
+    "emotion": "nostalgic",
+    "detailed_reasoning": "There is a distinct shift in the speaker's tone as he transitions into a personal story, beginning with 'When I was young...'. His voice becomes softer, more conversational, and takes on a reminiscent quality. This change in vocal delivery indicates a shift from giving inspirational advice to sharing a fond memory from his past.",
+    "summary_reasoning": "Softer tone, reminiscent quality, begins personal story."
+  },
+  {
+    "timestamp": 39.574,
+    "emotion": "admiring",
+    "detailed_reasoning": "When describing 'The Whole Earth Catalog,' the speaker's voice is filled with clear admiration. He calls it an 'amazing publication' and 'one of the Bibles of my generation.' The positive and reverent language, combined with a tone of deep respect, shows his profound appreciation for the catalog and its creator.",
+    "summary_reasoning": "Reverent tone, positive language, describes subject as a 'bible'."
+  }
+]

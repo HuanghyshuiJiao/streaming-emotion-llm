@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "authoritative",
+    "detailed_reasoning": "The speaker begins with a deep, serious tone and a stern facial expression. His posture is upright and his words are delivered slowly and deliberately, creating an authoritative and commanding presence as if he is playing a serious dramatic role.",
+    "summary_reasoning": "Deep serious tone, stern face, slow speech."
+  },
+  {
+    "timestamp": 5.757,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker's tone softens and becomes more explanatory. He breaks the character he was just playing to explain the premise of his joke to the audience. His facial expression relaxes slightly, and he uses hand gestures to help illustrate his point, indicating a shift from a dramatic performance to a more informative and direct address.",
+    "summary_reasoning": "Softened tone, explanatory manner, relaxed face."
+  },
+  {
+    "timestamp": 9.481,
+    "emotion": "comedic",
+    "detailed_reasoning": "He repeats the same lines as the beginning, but his delivery changes dramatically. His voice becomes higher-pitched, faster, and more animated. His facial expression is exaggerated and playful, with wide eyes. This stark contrast with the initial delivery is clearly intended to be humorous.",
+    "summary_reasoning": "High-pitched fast voice, exaggerated facial expression."
+  },
+  {
+    "timestamp": 13.425,
+    "emotion": "amused",
+    "detailed_reasoning": "After delivering the comedic version of the line, he turns to the audience with a knowing smile and a slight chuckle in his voice as he says, \"You see what I mean?\". The audience is laughing, and his expression shows satisfaction and amusement that his joke has landed successfully.",
+    "summary_reasoning": "Smiling, chuckling voice, audience laughter."
+  },
+  {
+    "timestamp": 17.109,
+    "emotion": "ironic",
+    "detailed_reasoning": "The speaker's demeanor shifts back to being very serious and formal. He says he's \"very excited,\" but his facial expression is completely straight and his vocal tone is flat and monotonous. This deadpan delivery creates a strong sense of irony, as his non-verbal cues directly contradict the enthusiastic words.",
+    "summary_reasoning": "Flat tone, straight face, contradictory words."
+  },
+  {
+    "timestamp": 25.748,
+    "emotion": "hopeful",
+    "detailed_reasoning": "Continuing his deadpan monologue, he says, \"And hopefully everything around me will be funny.\" While his face remains mostly straight, there is a slight upward inflection in his tone and a subtle lift in his eyebrows, conveying a sense of mock hopefulness that is part of the comedic act. He is counting on the surrounding elements to make his 'unfunny' performance funny.",
+    "summary_reasoning": "Slight upward vocal inflection, raised eyebrows, comedic context."
+  },
+  {
+    "timestamp": 33.167,
+    "emotion": "announcing",
+    "detailed_reasoning": "The speaker's tone becomes loud, clear, and formal, similar to that of a show host making an announcement. He says, \"And the cowboy judges are here. We will be right back,\" signaling the end of the segment. His posture is upright, and he addresses the audience directly, concluding his monologue with a professional, albeit still ironic, sign-off.",
+    "summary_reasoning": "Loud clear formal tone, direct address."
+  }
+]

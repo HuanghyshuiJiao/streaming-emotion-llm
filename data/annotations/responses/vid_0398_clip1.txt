@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "menacing",
+    "detailed_reasoning": "The video begins with a direct, intense stare from the subject, whose eyes are edited to appear glowing and unnatural. His vocal delivery is low, slow, and raspy. The combination of the intimidating visual of his eyes and the warning tone in his voice, along with the literal warning in the text (\"trade with caution\"), establishes a menacing and threatening mood from the outset.",
+    "summary_reasoning": "Intense stare, edited eyes, low raspy voice, warning words."
+  },
+  {
+    "timestamp": 7.72,
+    "emotion": "aggressive",
+    "detailed_reasoning": "There is a sudden and dramatic shift in vocal dynamics. The speaker's voice escalates rapidly in volume and intensity, culminating in a shout on the word \"Yamatanga.\" Visually, his eyes widen and his mouth opens into a yell, transforming his expression from a controlled menace to an overt, aggressive declaration of his powerful identity.",
+    "summary_reasoning": "Sudden shout, wide eyes, aggressive facial expression."
+  },
+  {
+    "timestamp": 10.103,
+    "emotion": "angry",
+    "detailed_reasoning": "The speaker's emotion shifts to clear anger and contempt. His vocal tone becomes a harsh growl, and his facial expression contorts into a snarl, with teeth bared and nose wrinkled. The word \"Damn\" explicitly signals his frustration and disgust with the \"masquerade.\"",
+    "summary_reasoning": "Growling voice, snarling expression, bared teeth."
+  },
+  {
+    "timestamp": 14.389,
+    "emotion": "threatening",
+    "detailed_reasoning": "Building on the anger, the speaker's focus shifts to describing his intimidating nature. His voice maintains a low, guttural, and threatening quality. The choice of words like \"terrifying shadow\" and \"make you shiver\" is explicitly designed to instill fear, and his intense, angry facial expression reinforces this direct threat.",
+    "summary_reasoning": "Guttural voice, intimidating words, intense expression."
+  },
+  {
+    "timestamp": 27.858,
+    "emotion": "malevolent",
+    "detailed_reasoning": "The speaker adopts a more narrative, villainous tone. He speaks of being an \"illusion\" created specifically to \"instigate fear.\" This description of his purpose, delivered with a slow, deliberate, and disdainful voice while maintaining a piercing stare, conveys a deep-seated malevolence and a conscious intent to cause harm.",
+    "summary_reasoning": "Disdainful tone, villainous monologue, intense stare."
+  },
+  {
+    "timestamp": 39.493,
+    "emotion": "cruel",
+    "detailed_reasoning": "The emotion intensifies to overt cruelty as he lists the suffering he intends to cause. He says the words \"misery, pain and suffering\" slowly, drawing them out with a low, gravelly tone that suggests he is savoring the concepts. His facial expression is a twisted grimace, indicating pleasure in the thought of inflicting this pain.",
+    "summary_reasoning": "Savoring tone, grimacing face, cruel words."
+  },
+  {
+    "timestamp": 49.705,
+    "emotion": "taunting",
+    "detailed_reasoning": "The speaker's demeanor shifts from a general declaration of evil to a direct, personal challenge. His tone becomes taunting and questioning. His facial expression changes to a challenging smirk, and the upward, almost sing-song inflection on the final \"do you?\" is a clear mockery and a final, goading threat to the viewer.",
+    "summary_reasoning": "Taunting tone, challenging smirk, rhetorical threat."
+  }
+]

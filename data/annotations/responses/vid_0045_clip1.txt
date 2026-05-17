@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "somber",
+    "detailed_reasoning": "The video begins with the subject already displaying a downcast facial expression. Her eyes are wide and appear slightly glossy. As she starts singing, her voice is very soft, low in pitch, and carries a noticeable tremor, immediately establishing a serious and melancholic tone.",
+    "summary_reasoning": "Downcast expression, glossy eyes, soft tremulous voice."
+  },
+  {
+    "timestamp": 11.868,
+    "emotion": "sorrowful",
+    "detailed_reasoning": "At the conclusion of the line 'twilight's last gleaming?', her eyes have visibly welled up with tears. Her voice remains shaky, and her facial expression conveys a deeper level of emotional pain, transitioning from a general somberness to a more distinct and active state of sorrow.",
+    "summary_reasoning": "Eyes welling up, shaky voice, pained expression."
+  },
+  {
+    "timestamp": 30.404,
+    "emotion": "pained",
+    "detailed_reasoning": "During the line 'The rocket's red glare,' the singer's voice cracks and she visibly struggles to maintain composure. Her brow is furrowed and her expression is one of deep anguish, as if she is recalling the painful events described in the anthem's lyrics.",
+    "summary_reasoning": "Voice cracks, furrowed brow, anguished expression."
+  },
+  {
+    "timestamp": 40.667,
+    "emotion": "hopeful",
+    "detailed_reasoning": "A noticeable shift in emotion occurs as she sings 'that our flag was still there.' A subtle but clear smile emerges, lifting the corners of her mouth. Her vocal delivery becomes slightly more stable and resolute, suggesting a glimmer of hope and relief breaking through her sorrow.",
+    "summary_reasoning": "Subtle smile, more stable voice."
+  },
+  {
+    "timestamp": 53.055,
+    "emotion": "proud",
+    "detailed_reasoning": "In the final phrase, 'and the home of the brave,' her voice, while still laden with emotion, gains a quality of quiet strength and conviction. A tear visibly rolls down her cheek, but her facial expression is a complex mixture of the sorrow felt throughout the performance and a profound sense of pride in the nation's resilience. This concluding emotion is one of somber pride.",
+    "summary_reasoning": "Strong vocal finish, tear falling, resolute expression."
+  }
+]

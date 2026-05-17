@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 4.037,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her talk with a steady and measured tone. Her facial expression is neutral and her body language is composed. She is setting the stage for her topic in a professional and calm manner, explaining a personal trait without showing strong emotion.",
+    "summary_reasoning": "Steady tone, neutral expression, composed posture."
+  },
+  {
+    "timestamp": 8.844,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker delivers the line \"but a damn near wizard-level observer\" with a subtle, confident smirk and a more assertive tone. She uses self-deprecating humor (\"certified mess\") to contrast with this statement of skill, which shows a strong sense of self-awareness and confidence in her abilities.",
+    "summary_reasoning": "Confident smirk, assertive tone, self-aware humor."
+  },
+  {
+    "timestamp": 13.31,
+    "emotion": "focused",
+    "detailed_reasoning": "The speaker shifts from personal anecdote to describing her professional work. Her tone becomes more factual and narrative, her pace is steady, and her hand gestures are used to enumerate the different settings she has worked in. Her expression is serious and concentrated, indicating a focus on establishing her expertise.",
+    "summary_reasoning": "Factual tone, steady pace, serious expression."
+  },
+  {
+    "timestamp": 26.089,
+    "emotion": "empathetic",
+    "detailed_reasoning": "When introducing the concept of \"unconditional welcome,\" the speaker's tone softens and becomes warmer. Her facial expression relaxes, and her hands make a gentle, welcoming gesture. This shift conveys a sense of warmth and empathy, central to the method she is describing.",
+    "summary_reasoning": "Softer tone, relaxed expression, warm language."
+  },
+  {
+    "timestamp": 40.054,
+    "emotion": "serious",
+    "detailed_reasoning": "As she begins to describe a specific research subject, her tone lowers and becomes more grave. Her facial expression becomes tense, and she uses the critical phrase \"very unpleasant woman.\" This signals a transition to a more serious and challenging part of her narrative.",
+    "summary_reasoning": "Lowered tone, tense expression, critical language."
+  },
+  {
+    "timestamp": 46.106,
+    "emotion": "disapproving",
+    "detailed_reasoning": "Recounting the subject's refusal to vaccinate her children, the speaker's tone is filled with disbelief and judgment. Her eyebrows raise, her eyes widen, and she shakes her head slightly, conveying strong disapproval of the woman's actions and reasoning.",
+    "summary_reasoning": "Tone of disbelief, wide eyes, slight head shake."
+  },
+  {
+    "timestamp": 53.44,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker's tone shifts to one of clear irony as she delivers the punchline about the woman smoking. A wry smile appears on her face, and her eyes show amusement at the hypocrisy of the situation. The rhetorical \"right?\" at the end engages the audience in sharing this amused perspective.",
+    "summary_reasoning": "Ironic tone, wry smile, rhetorical question."
+  }
+]

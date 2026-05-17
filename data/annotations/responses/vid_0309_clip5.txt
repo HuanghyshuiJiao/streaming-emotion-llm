@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 5.671,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker pauses and says 'hmm' with a slightly downturned mouth and neutral eyes. His tone is low and contemplative, suggesting he is recalling a moment of puzzlement or reflection from his past.",
+    "summary_reasoning": "Low tone, pause, neutral face."
+  },
+  {
+    "timestamp": 10.227,
+    "emotion": "relieved",
+    "detailed_reasoning": "Recounting his father's initial positive reaction ('really great'), the speaker's tone becomes lighter and his facial muscles relax slightly, especially around the eyes. This conveys a sense of remembered relief and pride before the upcoming complication in the story.",
+    "summary_reasoning": "Lighter tone, relaxed face."
+  },
+  {
+    "timestamp": 19.727,
+    "emotion": "dramatic",
+    "detailed_reasoning": "The speaker imitates his father's shock at him failing P.E. He uses a more animated tone and expression, widening his eyes slightly and emphasizing the words 'fail P.E.'. This shift is for storytelling effect, creating a moment of dramatic and humorous disbelief.",
+    "summary_reasoning": "Animated tone, emphasized words, wider eyes."
+  },
+  {
+    "timestamp": 25.155,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker transitions from the anecdote to a more direct, personal statement about the 'testimony of my life.' His pace slows, his tone becomes more deliberate and lower in pitch, and his expression turns neutral and focused, signaling a shift to a serious and significant topic.",
+    "summary_reasoning": "Slower pace, lower tone, focused expression."
+  },
+  {
+    "timestamp": 32.345,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker makes a heavy confession: 'my drug of choice was lying.' His voice drops, his pace is slow and deliberate, and he holds a serious, slightly pained expression. The weight of the words is reflected in his somber and grave delivery.",
+    "summary_reasoning": "Slow pace, low voice, serious expression."
+  },
+  {
+    "timestamp": 41.874,
+    "emotion": "sad",
+    "detailed_reasoning": "Explaining the root of his lying ('Because I didn't like me'), the speaker's voice becomes softer and his expression conveys sadness and vulnerability. His eyebrows are slightly furrowed, and there's a clear sense of past pain in his tone, indicating deep-seated self-dislike.",
+    "summary_reasoning": "Soft voice, sad expression, vulnerable tone."
+  },
+  {
+    "timestamp": 52.988,
+    "emotion": "regretful",
+    "detailed_reasoning": "The speaker describes creating a false image for others to like. His tone is explanatory but tinged with a sense of regret for his past actions. His facial expression remains serious and his body language is contained, suggesting a heavy reflection on the consequences of his behavior.",
+    "summary_reasoning": "Regretful tone, serious expression, contained body language."
+  },
+  {
+    "timestamp": 59.468,
+    "emotion": "weary",
+    "detailed_reasoning": "Concluding his thought, the speaker describes himself as 'physically and emotionally spent... exhausted.' His voice becomes lower and loses energy, his posture seems to relax into the chair, and his facial expression reflects the tiredness he's describing. The delivery mirrors the feeling of exhaustion.",
+    "summary_reasoning": "Low energy voice, relaxed posture, tired expression."
+  }
+]

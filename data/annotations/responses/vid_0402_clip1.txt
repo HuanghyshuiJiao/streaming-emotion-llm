@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 4.036,
+    "emotion": "neutral",
+    "detailed_reasoning": "The speaker begins by adjusting his collar, looking slightly uncomfortable. When he says 'Hello,' his tone is formal and his eyes are wide, as if he is beginning a formal presentation or performance. His expression is largely neutral, setting a baseline before the narrative begins.",
+    "summary_reasoning": "Formal tone, wide eyes, neutral expression."
+  },
+  {
+    "timestamp": 6.119,
+    "emotion": "dramatic",
+    "detailed_reasoning": "The speaker's delivery of his name, 'Giorgio,' is highly exaggerated. He opens his mouth and eyes very wide, using a booming and theatrical tone. This indicates he is playing a character and setting a comedic, dramatic tone for his story.",
+    "summary_reasoning": "Exaggerated facial expression, theatrical tone."
+  },
+  {
+    "timestamp": 13.389,
+    "emotion": "arrogant",
+    "detailed_reasoning": "When describing his mind, the speaker's facial expression becomes stern and condescending. He scrunches his face and speaks with a self-important, deliberate tone, as if looking down on others. This suggests the character he is portraying has an arrogant or superior attitude.",
+    "summary_reasoning": "Condescending expression, self-important tone."
+  },
+  {
+    "timestamp": 19.878,
+    "emotion": "dramatic",
+    "detailed_reasoning": "He delivers the acronym 'OCD' with another burst of dramatic flair. His eyes go wide and his mouth pops open in an exaggerated 'O' shape, emphasizing the word for comedic effect. This continues the performative nature of his storytelling.",
+    "summary_reasoning": "Wide eyes, exaggerated mouth shape."
+  },
+  {
+    "timestamp": 30.127,
+    "emotion": "disgusted",
+    "detailed_reasoning": "The speaker's entire demeanor shifts to one of disgust when talking about mobile devices. He wrinkles his nose, sneers slightly, and his tone becomes contemptuous as he describes them as being full of 'dirt and bacteria'.",
+    "summary_reasoning": "Wrinkled nose, sneer, contemptuous tone."
+  },
+  {
+    "timestamp": 37.262,
+    "emotion": "excited",
+    "detailed_reasoning": "There is a sharp shift in emotion as he describes his experience as 'thoroughly enjoyable'. His eyes widen, a large, slightly manic smile spreads across his face, and his tone becomes overly enthusiastic. This suggests a feigned or exaggerated excitement.",
+    "summary_reasoning": "Wide eyes, manic smile, enthusiastic tone."
+  },
+  {
+    "timestamp": 45.238,
+    "emotion": "curious",
+    "detailed_reasoning": "When mentioning he learned new words, his expression shifts to one of mock curiosity and discovery. He says 'bisexual' and 'BDSM' slowly and deliberately, with wide, almost innocent eyes, as if these are fascinating new concepts to his character.",
+    "summary_reasoning": "Slow deliberate speech, wide innocent eyes."
+  },
+  {
+    "timestamp": 54.015,
+    "emotion": "disappointed",
+    "detailed_reasoning": "The mood shifts dramatically at the end. After a moment of smiling reflection, his face falls. He says 'But after a few weeks of trying...' with a frown and a deflated tone, clearly signaling a turn towards negativity and disappointment.",
+    "summary_reasoning": "Fallen face, frown, deflated tone."
+  },
+  {
+    "timestamp": 56.200,
+    "emotion": "dejected",
+    "detailed_reasoning": "Concluding his story, his expression is completely dejected. His eyebrows are furrowed, his mouth is downturned, and his voice is low and sad as he says he 'began to lose hope.' The previous comedic energy is gone, replaced by a sense of failure.",
+    "summary_reasoning": "Furrowed brow, downturned mouth, sad tone."
+  }
+]

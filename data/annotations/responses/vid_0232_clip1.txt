@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp": 2.153,
+    "emotion": "inquisitive",
+    "detailed_reasoning": "The speaker begins with a question, delivered in a neutral, slightly upward-inflected tone. His facial expression is neutral, and he is looking directly at the camera, posing a question to the audience. This combination of questioning language and neutral delivery suggests an inquisitive state.",
+    "summary_reasoning": "Posing a question, neutral tone."
+  },
+  {
+    "timestamp": 6.058,
+    "emotion": "pleased",
+    "detailed_reasoning": "The speaker's tone becomes lighter and more relaxed as he talks about his planned trip. He uses the colloquialism \"as they say\" with a slight smile and a relaxed posture, indicating he is pleased with his travel plans.",
+    "summary_reasoning": "Lighter tone, slight smile, relaxed posture."
+  },
+  {
+    "timestamp": 13.467,
+    "emotion": "content",
+    "detailed_reasoning": "Continuing to describe his vacation plans, the speaker mentions a \"little villa on the sea\" and his \"own private beach.\" His voice is soft and his facial expression is relaxed and happy, conveying a strong sense of satisfaction and contentment with the luxurious and private setting he has arranged for himself.",
+    "summary_reasoning": "Soft voice, relaxed happy expression."
+  },
+  {
+    "timestamp": 17.471,
+    "emotion": "proud",
+    "detailed_reasoning": "The speaker's demeanor shifts as he states, \"I work hard. I deserve it.\" His tone becomes more assertive and firm, his chin lifts slightly, and his eyebrows raise. These cues indicate a sense of pride and self-satisfaction in his accomplishments and the rewards he gives himself.",
+    "summary_reasoning": "Assertive tone, chin lift, raised eyebrows."
+  },
+  {
+    "timestamp": 21.996,
+    "emotion": "assertive",
+    "detailed_reasoning": "The speaker's tone becomes more declarative and almost preachy as he makes a general statement about hard work. He uses open hand gestures for emphasis and maintains strong eye contact, projecting a sense of conviction and assertiveness in his belief system.",
+    "summary_reasoning": "Declarative tone, emphatic gestures, strong eye contact."
+  },
+  {
+    "timestamp": 31.487,
+    "emotion": "contemptuous",
+    "detailed_reasoning": "The speaker's emotion intensifies negatively when he talks about being a \"leech in society, begging for handouts.\" His facial expression shows disdain, with a slight sneer and tightening around the mouth. His tone is sharp and dismissive, clearly conveying contempt for people he perceives as not working hard.",
+    "summary_reasoning": "Disdainful expression, sneer, sharp dismissive tone."
+  },
+  {
+    "timestamp": 38.375,
+    "emotion": "defiant",
+    "detailed_reasoning": "After expressing contempt, the speaker's focus shifts to himself. He says, \"This is all me... mine and mine alone,\" with a very firm, almost aggressive tone. His jaw is set, and his gestures point toward himself, emphasizing his self-reliance in a defiant and proud manner, as if challenging anyone to dispute his success.",
+    "summary_reasoning": "Firm aggressive tone, set jaw, self-referential gestures."
+  },
+  {
+    "timestamp": 42.66,
+    "emotion": "melancholy",
+    "detailed_reasoning": "There is a distinct shift in mood. After the defiant statements, his pace slows, and his voice softens as he says, \"I've always been alone. I never had anyone.\" His eyes look slightly downcast, and his expression becomes more somber, revealing an underlying sadness and melancholy about his isolation.",
+    "summary_reasoning": "Slower pace, softer voice, somber expression, downcast eyes."
+  },
+  {
+    "timestamp": 45.503,
+    "emotion": "bitter",
+    "detailed_reasoning": "The sadness turns into a harder emotion. He asks, \"so why should I help anyone else?\" The question is rhetorical, and his tone is sharp and tinged with resentment. His facial expression tightens again, suggesting bitterness born from his experience of having no one to help him.",
+    "summary_reasoning": "Sharp resentful tone, rhetorical question, tense expression."
+  },
+  {
+    "timestamp": 50.469,
+    "emotion": "resigned",
+    "detailed_reasoning": "The speaker's tone becomes more matter-of-fact but still heavy as he says he learned to be on his own \"out of necessity.\" His expression is stoic, and his shoulders are slightly slumped. He seems resigned to his solitary life, accepting it as a reality forced upon him.",
+    "summary_reasoning": "Matter-of-fact tone, stoic expression, resigned posture."
+  },
+  {
+    "timestamp": 55.755,
+    "emotion": "determined",
+    "detailed_reasoning": "In the final statement, \"A habit I don't intend to break,\" his expression becomes very firm, his jaw is tight, and he delivers the line with a strong, resolute tone. This indicates a shift from resignation to a determined and unwavering commitment to his solitary way of life.",
+    "summary_reasoning": "Firm expression, tight jaw, resolute tone."
+  }
+]

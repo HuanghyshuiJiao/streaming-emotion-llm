@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 3.875,
+    "emotion": "hopeful",
+    "detailed_reasoning": "The character begins his monologue with a calm and measured tone. His words, such as 'my evil passions will have fled' and 'I shall meet with sympathy,' express a desire for a peaceful future. Despite his monstrous makeup, his facial expression is soft and his eyes convey a sense of yearning, indicating a hopeful state.",
+    "summary_reasoning": "Calm tone, hopeful words, soft expression."
+  },
+  {
+    "timestamp": 7.318,
+    "emotion": "longing",
+    "detailed_reasoning": "The speaker continues with a soft, almost wistful tone, describing how his 'life will flow quietly away.' His gaze is directed upwards and his delivery is slow, which, combined with the content of his speech, suggests a deep longing for peace and an end to his suffering.",
+    "summary_reasoning": "Soft tone, slow pace, wistful words."
+  },
+  {
+    "timestamp": 11.722,
+    "emotion": "pleading",
+    "detailed_reasoning": "The emotion shifts slightly as he states, 'I shall not curse my Maker.' The emphasis on 'not' and the slight strain in his voice introduce a pleading quality. He is trying to convince his listener of his potential for goodness, making a case for his salvation.",
+    "summary_reasoning": "Vocal emphasis, strained tone, persuasive words."
+  },
+  {
+    "timestamp": 16.387,
+    "emotion": "resentful",
+    "detailed_reasoning": "The character's tone hardens when he says his vices are 'children of a false solitude that I abhor.' The word 'abhor' is delivered with a subtle growl, and his facial muscles tense, especially around the mouth and brows. This indicates a shift from hopeful pleading to a resentful justification of his past actions.",
+    "summary_reasoning": "Hardened tone, tense facial muscles, strong negative words."
+  },
+  {
+    "timestamp": 21.191,
+    "emotion": "hopeful",
+    "detailed_reasoning": "The emotion softens again as he describes the possibility of living 'in communion with an equal.' His voice becomes lighter, and a hint of a hopeful expression returns to his face. He is articulating the positive outcome he believes is possible, contrasting with his previous resentment.",
+    "summary_reasoning": "Softened tone, lighter voice, positive words."
+  },
+  {
+    "timestamp": 30.841,
+    "emotion": "desperate",
+    "detailed_reasoning": "The character's plea becomes more intense. He describes being 'excluded' from the 'chain of existence,' and his voice gains volume and a tremor of desperation. His eyes widen slightly, and his expression is one of deep pain and isolation, reflecting his desperation to be included.",
+    "summary_reasoning": "Increased volume, vocal tremor, pained expression."
+  },
+  {
+    "timestamp": 35.992,
+    "emotion": "anguished",
+    "detailed_reasoning": "The speaker's voice cracks with emotion as he lists his suffering: 'toil and misery.' His posture becomes more hunched, and his facial expression is one of pure anguish. The camera zooms out slightly, emphasizing his pained physical state.",
+    "summary_reasoning": "Cracking voice, pained expression, suffering posture."
+  },
+  {
+    "timestamp": 42.085,
+    "emotion": "frustrated",
+    "detailed_reasoning": "Recounting his endurance of 'incalculable fatigue and cold and hunger,' the character's delivery becomes faster and more forceful. His voice rises in pitch and volume, and his brows are deeply furrowed, showing immense frustration with the injustice of his suffering.",
+    "summary_reasoning": "Forceful tone, rising volume, furrowed brows."
+  },
+  {
+    "timestamp": 45.332,
+    "emotion": "furious",
+    "detailed_reasoning": "The emotion culminates in anger. He leans forward, shouting 'Do you dare destroy my hopes?' His face is contorted with rage, his teeth are bared, and his voice is a loud, aggressive shout. This is a complete shift from pleading to a furious confrontation.",
+    "summary_reasoning": "Shouting, aggressive posture, enraged facial expression."
+  },
+  {
+    "timestamp": 52.988,
+    "emotion": "contemptuous",
+    "detailed_reasoning": "In the final lines, his rage transforms into cold contempt. He addresses his listener as 'Slave,' his voice dripping with scorn. His expression is a sneer, and his tone is condescending and dismissive, asserting a newfound and menacing superiority after his plea was seemingly rejected.",
+    "summary_reasoning": "Scornful tone, sneering expression, condescending words."
+  }
+]

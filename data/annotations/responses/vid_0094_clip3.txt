@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": 12.62,
+    "emotion": "confused",
+    "detailed_reasoning": "The speaker's facial expression shows confusion, with her eyebrows slightly furrowed and her head tilted. Her tone of voice also reflects this as she questions which character she is supposed to be, indicating a state of internal conflict and confusion.",
+    "summary_reasoning": "Confused facial expression, questioning tone."
+  },
+  {
+    "timestamp": 20.765,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker's demeanor shifts to a more composed and explanatory state. Her facial expression becomes neutral, and her tone of voice is steady and clear as she begins to explain her acting method. This indicates a shift from confusion to a more calm and focused mindset.",
+    "summary_reasoning": "Neutral expression, steady tone."
+  },
+  {
+    "timestamp": 30.241,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's expression becomes more serious and her tone more assertive as she emphasizes the importance of taking the character seriously. Her direct eye contact and deliberate speech convey a sense of conviction and seriousness about the topic.",
+    "summary_reasoning": "Serious expression, assertive tone."
+  },
+  {
+    "timestamp": 45.179,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker's voice becomes more intense and her facial expression more engaged as she talks about getting involved in the character's feelings. Her eyes are wide and her speech is more emphatic, showing a deep passion for the art of acting.",
+    "summary_reasoning": "Intense voice, engaged expression."
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 4.819,
+    "emotion": "concerned",
+    "detailed_reasoning": "The speaker begins his story with a calm, narrative tone. When he describes his father being in 'agonizing pain,' his facial expression becomes more serious, his eyebrows lower slightly, and his tone carries a weight of concern, shifting from a neutral storyteller to someone recounting a worrying event.",
+    "summary_reasoning": "Serious facial expression, concerned tone."
+  },
+  {
+    "timestamp": 14.034,
+    "emotion": "puzzled",
+    "detailed_reasoning": "The speaker recalls his past thoughts, saying 'that's strange.' His tone shifts to one of contemplation, and his facial expression reflects his confusion at the time. He is no longer just narrating but is expressing the internal state of puzzlement he felt during the event.",
+    "summary_reasoning": "Contemplative tone, confused expression."
+  },
+  {
+    "timestamp": 16.558,
+    "emotion": "admiring",
+    "detailed_reasoning": "The speaker's tone becomes warmer and more affectionate as he describes his father as someone who was 'always doing something.' He uses fond language ('my pop-up') and gestures expansively, conveying a sense of pride and admiration for his father's active and handy nature.",
+    "summary_reasoning": "Warm tone, fond language, proud gestures."
+  },
+  {
+    "timestamp": 25.633,
+    "emotion": "amused",
+    "detailed_reasoning": "When mentioning that his father would 'break stuff so he can fix it again,' the speaker's lips curl into a slight smile, and his tone becomes lighter, conveying amusement at this quirky, memorable trait. This is a brief, fond, and humorous anecdote within the larger serious story.",
+    "summary_reasoning": "Slight smile, light tone."
+  },
+  {
+    "timestamp": 31.148,
+    "emotion": "reverent",
+    "detailed_reasoning": "The speaker's emotion deepens as he says he viewed his father as a 'Superman-like figure.' His tone becomes more serious and filled with awe, his gaze is distant as if picturing his father, and his facial expression is one of deep respect and reverence. He is emphasizing the immense esteem in which he held his father.",
+    "summary_reasoning": "Awestruck tone, respectful expression."
+  },
+  {
+    "timestamp": 35.031,
+    "emotion": "distressed",
+    "detailed_reasoning": "Contrasting the 'Superman' image with seeing his father in pain, the speaker's demeanor shifts dramatically. His tone becomes heavy and somber, his eyebrows furrow in a distressed expression, and his body language becomes more closed. This conveys the shock and emotional pain of seeing his hero in a vulnerable state.",
+    "summary_reasoning": "Somber tone, furrowed brow, closed posture."
+  },
+  {
+    "timestamp": 37.874,
+    "emotion": "urgent",
+    "detailed_reasoning": "After stating he panicked, the speaker's speech pattern quickens as he recounts his immediate actions: 'First thing I did was shot him to the emergency room.' The pace and directness of his words, combined with a forward-leaning posture, create a sense of urgency and decisiveness born from panic.",
+    "summary_reasoning": "Fast-paced speech, forward posture."
+  },
+  {
+    "timestamp": 47.001,
+    "emotion": "anxious",
+    "detailed_reasoning": "The speaker's narrative slows down as he describes the doctor's arrival. His tone becomes quiet and tense, and his facial expression is serious and expectant. He is building suspense, and his demeanor reflects the anxiety and apprehension of waiting for crucial news.",
+    "summary_reasoning": "Quiet tense tone, serious expectant face."
+  },
+  {
+    "timestamp": 53.707,
+    "emotion": "somber",
+    "detailed_reasoning": "Quoting the doctor's words, 'I have some challenging news to share with you,' the speaker adopts a grave and somber tone. He pauses significantly before and after the line, letting the weight of the words sink in. His facial expression is heavy with the gravity of the memory, conveying deep sadness.",
+    "summary_reasoning": "Grave tone, long pauses, sad expression."
+  },
+  {
+    "timestamp": 57.642,
+    "emotion": "devastated",
+    "detailed_reasoning": "When delivering the diagnosis of 'intestinal gangrene,' the speaker's voice is low and heavy, almost breaking with emotion. His facial expression conveys profound sadness and the remembered devastation of that moment. The story reaches its emotional climax, and his entire demeanor reflects a deep sense of loss and sorrow.",
+    "summary_reasoning": "Low heavy voice, profound sadness in face."
+  }
+]

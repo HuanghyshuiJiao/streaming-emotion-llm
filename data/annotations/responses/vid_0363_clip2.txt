@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 3.959,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins his poem with a somber topic about refugees. His facial expression is focused and earnest, with slightly furrowed brows. His tone is measured and grave, reflecting the seriousness of the subject matter without being overly emotional. The slow, deliberate pace of his words adds to the weighty atmosphere.",
+    "summary_reasoning": "Grave tone, focused expression, slow pace."
+  },
+  {
+    "timestamp": 8.468,
+    "emotion": "passionate",
+    "detailed_reasoning": "The speaker transitions to discussing 'everyday heroes.' His voice gains a bit more volume and his delivery becomes more emphatic and rhythmic, indicating a shift from a somber description to a more passionate appeal. His eyes are wide and he maintains direct engagement with the audience, showing his conviction.",
+    "summary_reasoning": "Emphatic tone, rhythmic speech, direct eye contact."
+  },
+  {
+    "timestamp": 14.249,
+    "emotion": "inspirational",
+    "detailed_reasoning": "The speaker's message becomes explicitly motivational with the line 'we need to embrace our differences.' His tone is uplifting and his volume increases. He begins to use his hands to add emphasis to his words, physically embodying the empowering message he is conveying.",
+    "summary_reasoning": "Uplifting tone, increased volume, hand gestures."
+  },
+  {
+    "timestamp": 22.657,
+    "emotion": "determined",
+    "detailed_reasoning": "The speaker's delivery becomes more complex and poetic, using words like 'paramount' and 'surmounts'. His pace quickens and the rhythm of his speech becomes more pronounced. His facial expression is intense and focused, showing a strong sense of determination to convey his intricate message effectively.",
+    "summary_reasoning": "Intense expression, quickened pace, complex language."
+  },
+  {
+    "timestamp": 28.803,
+    "emotion": "motivational",
+    "detailed_reasoning": "The speaker makes a direct call to action, addressing the audience with 'it's up to you to turn a pen into a donation.' His tone becomes highly persuasive and urgent. He is no longer just reciting a poem but actively trying to motivate the listeners, and his direct gaze reinforces this persuasive intent.",
+    "summary_reasoning": "Direct address to audience, urgent tone, persuasive."
+  },
+  {
+    "timestamp": 36.631,
+    "emotion": "intense",
+    "detailed_reasoning": "The speaker enters a rapid-fire, rhyming section ('inequality and equality is policy. Polity...'). His pace accelerates significantly, and his delivery is sharp and staccato. This showcases a high level of focus and intensity, as he delivers a complex lyrical and political argument with great speed and precision.",
+    "summary_reasoning": "Rapid pace, sharp delivery, complex rhymes."
+  },
+  {
+    "timestamp": 46.289,
+    "emotion": "reflective",
+    "detailed_reasoning": "After the intense, fast-paced section, the speaker slows down significantly. His tone becomes more measured and thoughtful as he says 'So when you've finished fighting for your rights...'. This change in pace and tone creates a moment of reflection, bridging the poem's climax to its conclusion.",
+    "summary_reasoning": "Slower pace, measured tone."
+  },
+  {
+    "timestamp": 50.145,
+    "emotion": "empowering",
+    "detailed_reasoning": "For the final call to action, 'transform your pens,' the speaker's voice becomes strong, clear, and resonant. He delivers the last lines with a powerful sense of conviction and hope. His hand gestures become more expansive, visually amplifying the empowering and forward-looking message of letting history shape a better future.",
+    "summary_reasoning": "Strong voice, hopeful tone, expansive gestures."
+  }
+]

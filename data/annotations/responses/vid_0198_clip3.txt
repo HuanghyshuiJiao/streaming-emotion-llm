@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 9.323,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her story with a calm and narrative tone. Her facial expression is neutral and her body language is relaxed as she sets the context for her experience with medication.",
+    "summary_reasoning": "Narrative tone, neutral expression, relaxed posture."
+  },
+  {
+    "timestamp": 12.006,
+    "emotion": "satisfied",
+    "detailed_reasoning": "After a pause, the speaker delivers the line \"and it worked\" with a definitive nod and a slight, closed-mouth smile. Her tone is conclusive and positive, indicating a sense of satisfaction and relief that the medication was effective.",
+    "summary_reasoning": "Definitive nod, slight smile, positive tone."
+  },
+  {
+    "timestamp": 19.936,
+    "emotion": "amazed",
+    "detailed_reasoning": "The speaker uses a powerful analogy to describe her experience, comparing it to seeing clearly for the first time. Her eyes are slightly wider and her tone is filled with a sense of wonder and amazement, conveying the profound impact the medication had on her perception.",
+    "summary_reasoning": "Wide eyes, wonder in tone, powerful analogy."
+  },
+  {
+    "timestamp": 27.405,
+    "emotion": "proud",
+    "detailed_reasoning": "When stating that her GPA went up a full point, the speaker's tone becomes more emphatic and she has a subtle, proud smile. Her delivery of this factual achievement reflects a sense of accomplishment and pride in her academic improvement.",
+    "summary_reasoning": "Emphatic tone, proud smile, states achievement."
+  },
+  {
+    "timestamp": 32.302,
+    "emotion": "grateful",
+    "detailed_reasoning": "The speaker describes the change as \"miraculous.\" Her facial expression softens, her eyes look slightly upward, and her tone conveys a deep sense of awe and gratitude for the positive transformation she experienced. This indicates she sees the change as a profound gift.",
+    "summary_reasoning": "Soft expression, upward glance, awe in voice."
+  },
+  {
+    "timestamp": 35.191,
+    "emotion": "happy",
+    "detailed_reasoning": "Recounting having friends who liked her, the speaker breaks into a genuine, warm smile. Her tone becomes lighter and more joyful, reflecting the happiness and social fulfillment she felt at that time.",
+    "summary_reasoning": "Genuine smile, light tone, positive social memory."
+  },
+  {
+    "timestamp": 39.443,
+    "emotion": "joyful",
+    "detailed_reasoning": "Listing a series of positive life events—publishing a poem and getting a boyfriend—the speaker's smile widens and her eyes light up. Her voice is cheerful and animated, expressing a clear state of joy and excitement about these milestones.",
+    "summary_reasoning": "Wide smile, bright eyes, cheerful voice."
+  },
+  {
+    "timestamp": 43.094,
+    "emotion": "determined",
+    "detailed_reasoning": "When she says she knew she wanted to be a journalist, her expression becomes more focused and her tone shifts to one of conviction. This change indicates a sense of purpose and determination in finding her career path.",
+    "summary_reasoning": "Focused expression, convicted tone, states a goal."
+  },
+  {
+    "timestamp": 50.094,
+    "emotion": "hopeful",
+    "detailed_reasoning": "While talking about the local college's program and the great journalism program at USC, the speaker's tone is optimistic and forward-looking. Even though the camera shows a picture of the university, her voiceover conveys a sense of hope and excitement for her future.",
+    "summary_reasoning": "Optimistic tone, voiceover during hopeful image."
+  },
+  {
+    "timestamp": 56.413,
+    "emotion": "content",
+    "detailed_reasoning": "Concluding the clip by stating she moved in with her boyfriend, the speaker's face shows a soft, happy smile. Her overall demeanor is one of contentment and satisfaction with the positive trajectory her life has taken.",
+    "summary_reasoning": "Soft smile, satisfied expression, positive life event."
+  }
+]

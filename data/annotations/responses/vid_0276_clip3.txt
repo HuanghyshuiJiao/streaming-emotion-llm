@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 9.445,
+    "emotion": "resigned",
+    "detailed_reasoning": "After a long pause with her eyes closed, showing weariness, the woman sighs and says, \"Alright then.\" Her tone and expression indicate a reluctant acceptance or resignation to the situation, as if she is about to do something she doesn't want to.",
+    "summary_reasoning": "Sigh, reluctant tone, weary expression."
+  },
+  {
+    "timestamp": 12.47,
+    "emotion": "dramatic",
+    "detailed_reasoning": "The speaker's tone shifts completely as she begins narrating. She adopts a performative, storytelling voice, looking down and to the side as she speaks about \"The princess.\" This marks a change from her personal feeling of resignation to the adoption of a character role.",
+    "summary_reasoning": "Performative tone, character voice, altered expression."
+  },
+  {
+    "timestamp": 23.026,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "While maintaining the dramatic narration, her delivery of the phrase \"only by a true love's kiss\" is imbued with a mocking quality. Her intonation becomes overly sweet and her subtle facial expression conveys a clear sense of sarcasm, as if she finds the concept ridiculous.",
+    "summary_reasoning": "Mocking tone, overly sweet intonation."
+  },
+  {
+    "timestamp": 28.415,
+    "emotion": "menacing",
+    "detailed_reasoning": "There is a sharp shift in energy. Her eyes widen and her voice becomes louder and more forceful as she declares, \"This curse shall last till the end of time.\" She fully embodies a villainous character, and her tone becomes threatening and dark.",
+    "summary_reasoning": "Wide eyes, forceful voice, threatening tone."
+  },
+  {
+    "timestamp": 33.231,
+    "emotion": "commanding",
+    "detailed_reasoning": "For the final line, \"no power on earth can change it,\" her expression hardens, her voice becomes firm and resolute, and she looks forward with intensity. This delivery exudes a sense of absolute authority and finality, concluding her performance with a powerful, commanding presence.",
+    "summary_reasoning": "Hard expression, firm voice, intense gaze."
+  }
+]

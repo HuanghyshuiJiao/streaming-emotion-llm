@@ -1,0 +1,74 @@
+[
+  {
+    "timestamp": 1.092,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "The speaker's initial statement, \"Very funny,\" is delivered with a flat, unimpressed tone and a subtle eye-roll. His arms are crossed, a defensive posture, which contradicts the positive words. This combination of verbal and non-verbal cues strongly suggests he is being sarcastic and is annoyed by the situation.",
+    "summary_reasoning": "Flat tone, eye-roll, crossed arms."
+  },
+  {
+    "timestamp": 6.819,
+    "emotion": "smug",
+    "detailed_reasoning": "The speaker's emotion shifts from sarcastic annoyance to a more confident, smug state. He says, \"Well, the joke's on you,\" with a slight smirk and a triumphant lift in his eyebrows and tone. This indicates that he believes he has found a way to turn the embarrassing situation to his advantage.",
+    "summary_reasoning": "Smirk, triumphant tone, raised eyebrows."
+  },
+  {
+    "timestamp": 9.563,
+    "emotion": "confident",
+    "detailed_reasoning": "Following his smug turn, the speaker's confidence builds as he reveals his 'costume'. He states, \"My cosplay costume is Adam from the Bible,\" with a proud, assertive tone and direct eye contact. His facial expression is open and he has a slight smile, showing he is now owning the moment.",
+    "summary_reasoning": "Proud tone, direct eye contact, open expression."
+  },
+  {
+    "timestamp": 12.566,
+    "emotion": "performative",
+    "detailed_reasoning": "The speaker's confidence evolves into a more performative and theatrical emotion. He uncrosses his arms, making broad gestures, and his voice becomes louder and more declarative as he says, \"I'm about to do an original sin.\" His wide eyes and grand posture suggest he is playing up his role for an audience.",
+    "summary_reasoning": "Loud voice, grand gestures, theatrical tone."
+  },
+  {
+    "timestamp": 14.829,
+    "emotion": "insecure",
+    "detailed_reasoning": "There is a sudden drop in the speaker's confidence. His tone becomes more somber and self-deprecating as he admits, \"It's hard to look cool when you have nothing on.\" His shoulders slump slightly, and his previously confident expression fades, revealing a sense of vulnerability and insecurity.",
+    "summary_reasoning": "Somber tone, self-deprecating words, slumping posture."
+  },
+  {
+    "timestamp": 22.098,
+    "emotion": "anxious",
+    "detailed_reasoning": "The speaker's insecurity shifts to clear anxiety as he senses something is wrong. His voice drops and quickens as he says, \"Just when things couldn't get any worse...\" His eyes dart around nervously and his facial expression becomes tense, anticipating a negative event.",
+    "summary_reasoning": "Quickened voice, nervous eyes, tense expression."
+  },
+  {
+    "timestamp": 24.621,
+    "emotion": "shocked",
+    "detailed_reasoning": "Upon seeing someone, the speaker's anxiety turns into shock. His eyes widen significantly and his mouth opens slightly as he exclaims, \"it's her.\" The abrupt change in his expression and the gasp in his voice clearly indicate he is stunned and caught completely off guard.",
+    "summary_reasoning": "Wide eyes, mouth agape, sharp vocal tone."
+  },
+  {
+    "timestamp": 29.107,
+    "emotion": "panicked",
+    "detailed_reasoning": "The initial shock quickly escalates to panic. The speaker's voice becomes higher-pitched and more frantic as he says, \"She's here. She's coming this way.\" His eyes are wide with alarm, and he looks around desperately, conveying a feeling of being trapped and terrified.",
+    "summary_reasoning": "High-pitched voice, wide eyes, frantic tone."
+  },
+  {
+    "timestamp": 34.835,
+    "emotion": "disappointed",
+    "detailed_reasoning": "The speaker's panic gives way to deep disappointment and self-pity. His tone becomes sad and regretful as he laments that she is seeing \"the worst of me.\" His facial expression droops, his shoulders slump, and he looks dejected, mourning the missed opportunity to make a good impression.",
+    "summary_reasoning": "Sad tone, regretful words, slumped posture, dejected expression."
+  },
+  {
+    "timestamp": 37.119,
+    "emotion": "surprised",
+    "detailed_reasoning": "The speaker's emotion shifts from disappointment to surprise when he realizes the woman is not reacting as expected. His eyebrows raise slightly and his tone is one of mild disbelief as he says, \"But she isn't looking away.\" This marks the beginning of his realization that the situation may not be as catastrophic as he thought.",
+    "summary_reasoning": "Raised eyebrows, tone of disbelief, questioning expression."
+  },
+  {
+    "timestamp": 46.773,
+    "emotion": "grateful",
+    "detailed_reasoning": "The speaker's surprise transforms into profound gratitude. As he describes her helping him and breaking someone's phone, his face breaks into a genuine, relieved smile. His voice is filled with awe and appreciation, showing he is deeply touched by her unexpected act of kindness.",
+    "summary_reasoning": "Genuine smile, appreciative tone, relieved expression."
+  },
+  {
+    "timestamp": 52.26,
+    "emotion": "joyful",
+    "detailed_reasoning": "The culmination of the woman's actions fills the speaker with pure joy. When he reveals that she gives him part of her costume, his face is lit with a wide, happy smile. His entire demeanor has changed from despair to elation, and his voice is light and happy, reflecting his complete relief and happiness.",
+    "summary_reasoning": "Wide smile, happy tone, elated expression."
+  }
+]

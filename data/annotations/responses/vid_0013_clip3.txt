@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 5.717,
+    "emotion": "determined",
+    "detailed_reasoning": "The speaker is recounting his initial weight loss strategy. His tone is firm and direct, and he speaks with a steady pace. His facial expression is serious and focused as he describes avoiding sugars and starches, indicating a sense of determination and commitment to his goal.",
+    "summary_reasoning": "Firm tone, steady pace, focused expression."
+  },
+  {
+    "timestamp": 11.764,
+    "emotion": "proud",
+    "detailed_reasoning": "After describing his diet, the speaker moves on to his exercise regimen. He mentions doing a lot of cardio, and his tone shifts slightly, becoming more assertive. His head nods slightly as he speaks, and there's a subtle increase in vocal energy, suggesting pride in the effort he put in.",
+    "summary_reasoning": "Assertive tone, slight head nod, increased vocal energy."
+  },
+  {
+    "timestamp": 16.83,
+    "emotion": "triumphant",
+    "detailed_reasoning": "The speaker announces that he dropped 30 pounds in one month and won the competition. His voice rises in pitch and volume, and he delivers the line with emphasis. His expression becomes more animated, conveying a clear sense of triumph and accomplishment.",
+    "summary_reasoning": "Higher pitch, increased volume, emphatic delivery."
+  },
+  {
+    "timestamp": 25.5,
+    "emotion": "reminiscent",
+    "detailed_reasoning": "The speaker contextualizes the time period, stating it was the end of 2008 when he was 18. His pace slows down, and his tone becomes more reflective and softer. He looks slightly away from the camera as if accessing memories, indicating a shift to a reminiscent state.",
+    "summary_reasoning": "Slower pace, softer tone, looking away."
+  },
+  {
+    "timestamp": 34.153,
+    "emotion": "happy",
+    "detailed_reasoning": "Recalling this period, the speaker describes himself as \"thinner, happier than ever.\" His tone brightens significantly, his pace quickens, and a subtle smile appears. The positive language combined with these vocal and facial cues clearly indicates happiness.",
+    "summary_reasoning": "Bright tone, quick pace, subtle smile."
+  },
+  {
+    "timestamp": 42.747,
+    "emotion": "content",
+    "detailed_reasoning": "He continues to describe positive life events: meeting his future wife and joining a rock band. His tone remains positive and light, and he has a relaxed facial expression. This suggests a feeling of contentment and satisfaction with that time in his life.",
+    "summary_reasoning": "Positive tone, light voice, relaxed expression."
+  },
+  {
+    "timestamp": 46.353,
+    "emotion": "somber",
+    "detailed_reasoning": "The mood shifts abruptly as he says, \"things started to derail again.\" His voice drops in pitch, the pace of his speech slows, and his previously bright expression fades into a more serious, neutral one. This change signals a turn towards a more negative and somber part of the story.",
+    "summary_reasoning": "Lower pitch, slower pace, serious expression."
+  },
+  {
+    "timestamp": 53.605,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker concludes by reflecting on his experience, stating he hadn't really learned how to lose weight sustainably. His tone is measured and thoughtful, without the previous triumphant or happy notes. He is looking back with a sense of understanding and analysis, indicating a reflective mindset.",
+    "summary_reasoning": "Measured tone, thoughtful pace, neutral expression."
+  }
+]

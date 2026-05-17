@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 2.514,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker begins with a somber and pained facial expression, with downturned lips and slightly furrowed brows. Her vocal tone is low and lacks energy, suggesting she is recounting a difficult or upsetting memory.",
+    "summary_reasoning": "Pained expression, somber tone."
+  },
+  {
+    "timestamp": 5.557,
+    "emotion": "hurt",
+    "detailed_reasoning": "When quoting Frank calling her 'selfish,' her expression intensifies. She brings her hands to her chest in a self-protective gesture, her eyes widen slightly with disbelief, and her tone conveys a sense of being wounded by the accusation. This builds on the initial sadness, specifying the emotion as hurt.",
+    "summary_reasoning": "Hurt facial expression, self-protective gesture, wounded tone."
+  },
+  {
+    "timestamp": 16.048,
+    "emotion": "resentful",
+    "detailed_reasoning": "The speaker's expression shifts from hurt to one of weary frustration. She looks away and her voice carries a tone of fatigue and bitterness as she describes the 'long time rubbing his back' which resulted in her own pain. This suggests a growing resentment over the one-sided nature of the effort.",
+    "summary_reasoning": "Weary expression, bitter tone."
+  },
+  {
+    "timestamp": 19.532,
+    "emotion": "defiant",
+    "detailed_reasoning": "There is a sharp shift in demeanor. She looks directly forward, her posture straightens, and her facial expression becomes assertive. Her voice becomes louder and firmer as she recounts her demand for reciprocity ('your turn'). This change indicates a shift from passive resentment to active defiance.",
+    "summary_reasoning": "Assertive expression, firm voice, direct gaze."
+  },
+  {
+    "timestamp": 27.140,
+    "emotion": "disgusted",
+    "detailed_reasoning": "To quote Frank's response, she completely changes her facial expression and vocal tone. Her face scrunches up in a sneer, and she adopts a mocking, deeper voice. This caricature of him clearly communicates her disgust and contempt for his manipulative words.",
+    "summary_reasoning": "Mocking facial expression, contemptuous vocal tone."
+  },
+  {
+    "timestamp": 31.906,
+    "emotion": "frustrated",
+    "detailed_reasoning": "Her expression softens from disgust into exasperation. She uses pleading hand gestures and her voice becomes strained as she recounts trying to explain her feelings. The emphasis on 'I always give so much' highlights her frustration at being misunderstood and unappreciated.",
+    "summary_reasoning": "Exasperated expression, strained voice, pleading gestures."
+  },
+  {
+    "timestamp": 38.545,
+    "emotion": "contemptuous",
+    "detailed_reasoning": "Her expression hardens again into one of intense contempt as she recounts being called 'selfish' a second time and told to be 'a truly selfless person'. She again mimics his voice with a scornful and mocking tone, showing her utter disdain for his hypocrisy.",
+    "summary_reasoning": "Scornful expression, mocking vocal tone."
+  },
+  {
+    "timestamp": 48.071,
+    "emotion": "pained",
+    "detailed_reasoning": "The speaker's face collapses back into an expression of deep sadness and physical suffering. Her voice becomes quiet, strained, and wavers as if she is about to cry. She describes the 'shooting pains' and how they were 'unbearable,' conveying a strong sense of physical and emotional pain.",
+    "summary_reasoning": "Pained expression, quiet and strained voice."
+  }
+]

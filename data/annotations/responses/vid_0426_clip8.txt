@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 2.134,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his presentation with a neutral and composed demeanor. His tone of voice is steady and his facial expressions are relaxed, indicating a state of calmness as he introduces his topic. He uses small, contained hand gestures that supplement his speech without conveying strong emotion.",
+    "summary_reasoning": "Steady voice, relaxed face, calm gestures."
+  },
+  {
+    "timestamp": 11.746,
+    "emotion": "neutral",
+    "detailed_reasoning": "The speaker is providing personal, factual background information about his family's religious affiliations. His tone remains conversational and informative, without any noticeable emotional inflection. His facial expression is neutral as he recounts these details, suggesting he is in a purely informational mode.",
+    "summary_reasoning": "Informative tone, neutral expression."
+  },
+  {
+    "timestamp": 20.157,
+    "emotion": "engaged",
+    "detailed_reasoning": "The speaker shifts from recounting facts to illustrating a point. He begins to role-play the response of his Mormon siblings, raising his index finger to emphasize the first part of their testimony. This gesture and the shift in vocal cadence indicate a higher level of engagement with the material he is presenting.",
+    "summary_reasoning": "Pointing gesture, shift in cadence."
+  },
+  {
+    "timestamp": 29.792,
+    "emotion": "confrontational",
+    "detailed_reasoning": "The speaker's demeanor changes significantly as he pivots from illustrating his siblings' beliefs to directly challenging the audience's potential perception of those beliefs. His tone becomes pointed and his rhetorical question, \"You don't believe that their answers are enough, do you?\" creates a confrontational mood. His expression also becomes more intense.",
+    "summary_reasoning": "Pointed tone, rhetorical question, intense expression."
+  },
+  {
+    "timestamp": 37.025,
+    "emotion": "contemplative",
+    "detailed_reasoning": "The speaker shifts perspective again, now voicing the internal thoughts of a believer. His tone softens, becoming more questioning and defensive. He brings his hand to his chest, a gesture of sincerity, as he asks why personal experience shouldn't be sufficient. This change suggests a more thoughtful and contemplative emotional state.",
+    "summary_reasoning": "Softened tone, questioning voice, hand on chest."
+  },
+  {
+    "timestamp": 43.577,
+    "emotion": "assertive",
+    "detailed_reasoning": "After exploring different viewpoints, the speaker states his own conviction directly. His tone becomes firm and declarative when he says, \"I don't think Jesus intended it that way.\" The certainty in his voice and his straightforward delivery mark a shift to an assertive emotional state.",
+    "summary_reasoning": "Firm, declarative tone."
+  },
+  {
+    "timestamp": 49.528,
+    "emotion": "didactic",
+    "detailed_reasoning": "The speaker adopts a teaching posture, analyzing the word \"testimony.\" His tone becomes academic and his gestures become more open and explanatory, as if he is a professor giving a lecture. He emphasizes the word and its context to educate the audience, indicating a didactic intent.",
+    "summary_reasoning": "Academic tone, explanatory gestures."
+  },
+  {
+    "timestamp": 56.741,
+    "emotion": "challenging",
+    "detailed_reasoning": "The speaker concludes his point by issuing a direct challenge to the audience. His tone is strong and emphatic, and his gaze is fixed. The statement, \"You show me what that is in the book of Acts,\" is delivered with confidence and serves as a direct challenge to find contradictory evidence, solidifying his authoritative stance.",
+    "summary_reasoning": "Strong tone, direct challenge."
+  }
+]

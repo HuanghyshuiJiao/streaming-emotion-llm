@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker starts the interview with a calm and composed demeanor. He has a slight, relaxed smile and makes direct eye contact with the interviewer. His voice is steady and clear as he introduces himself, indicating he is comfortable and at ease.",
+    "summary_reasoning": "Relaxed smile, steady voice, direct eye contact."
+  },
+  {
+    "timestamp": 3.317,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker begins to list his acting credits. He recites the names of major companies and shows without hesitation. His tone is matter-of-fact and his expression remains pleasantly neutral, conveying a sense of confidence and pride in his professional experience.",
+    "summary_reasoning": "Reciting credits, steady tone, neutral expression."
+  },
+  {
+    "timestamp": 18.524,
+    "emotion": "happy",
+    "detailed_reasoning": "When mentioning the project \"The Dog That Saved Easter,\" the speaker's entire demeanor shifts. His smile widens significantly, his eyes light up with joy, and his tone becomes more enthusiastic and higher in pitch as he exclaims, \"Oh, that was so fun.\" This clearly indicates he is recalling a very positive and happy memory.",
+    "summary_reasoning": "Wider smile, bright eyes, enthusiastic tone."
+  },
+  {
+    "timestamp": 20.095,
+    "emotion": "confident",
+    "detailed_reasoning": "After the brief, happy recollection, the speaker's expression and tone return to the previous confident state. He continues listing his acting credits with a calm, steady voice and a more subdued, professional smile, resuming his role as an experienced young actor.",
+    "summary_reasoning": "Returns to steady tone, subdued smile."
+  },
+  {
+    "timestamp": 29.329,
+    "emotion": "enthusiastic",
+    "detailed_reasoning": "The speaker's tone becomes more expressive and his smile widens as he begins to describe the feeling of booking a job, calling it an \"awesome feeling.\" This shift in vocal energy and facial expression shows his genuine enthusiasm and passion for the process of acting.",
+    "summary_reasoning": "Expressive tone, wider smile, emphatic words."
+  },
+  {
+    "timestamp": 42.449,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker transitions to a new topic about what he has learned. His smile fades into a more thoughtful expression, and he briefly looks upward as if recalling a specific lesson. This change in facial expression and the introductory word \"Well...\" signal a shift to a more serious and reflective mood.",
+    "summary_reasoning": "Faded smile, upward gaze, thoughtful expression."
+  },
+  {
+    "timestamp": 45.948,
+    "emotion": "serious",
+    "detailed_reasoning": "When delivering the lesson he learned, his expression becomes very serious and direct. He emphasizes his words, particularly \"Never hide your face, ever, ever, ever,\" with a firm tone and a focused gaze. This intensity conveys the importance he places on this piece of advice.",
+    "summary_reasoning": "Serious expression, direct gaze, firm tone."
+  }
+]

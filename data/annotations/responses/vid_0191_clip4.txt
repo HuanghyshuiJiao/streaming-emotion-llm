@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 2.795,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker starts his presentation with a calm and composed tone. His voice is steady, and his posture is relaxed, though he is standing still. He is setting a thoughtful and slightly serious premise for his talk.",
+    "summary_reasoning": "Calm tone, steady voice, relaxed posture."
+  },
+  {
+    "timestamp": 9.284,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker's tone remains calm, but his phrasing and the content of his words—describing emotions as puzzles to be solved for self-improvement—suggest a more pensive and thoughtful state. His delivery is measured and deliberate.",
+    "summary_reasoning": "Measured tone, deliberate phrasing."
+  },
+  {
+    "timestamp": 17.416,
+    "emotion": "illustrative",
+    "detailed_reasoning": "The speaker transitions into setting up a hypothetical scenario. His tone becomes more narrative and illustrative, as if he is painting a picture for the audience. His body language remains minimal, keeping the focus on his words.",
+    "summary_reasoning": "Narrative tone, setting up an example."
+  },
+  {
+    "timestamp": 26.05,
+    "emotion": "serious",
+    "detailed_reasoning": "As he describes the first scenario—a world without emotional intelligence classes—his tone becomes more serious and direct. He is laying the groundwork for the problem he will address, and his voice carries a slightly graver weight.",
+    "summary_reasoning": "Direct tone, graver vocal weight."
+  },
+  {
+    "timestamp": 33.639,
+    "emotion": "emphatic",
+    "detailed_reasoning": "The speaker's voice gains a slight edge and his pace quickens as he lists the negative emotions ('pissed off, angry, upset'). This change in vocal delivery adds emphasis to the negative reaction he is describing in his example.",
+    "summary_reasoning": "Slightly sharp tone, quicker pace."
+  },
+  {
+    "timestamp": 43.251,
+    "emotion": "dejected",
+    "detailed_reasoning": "When quoting the student saying 'I'm just going to fail,' the speaker adopts a slightly higher pitch and a more resigned tone, briefly taking on the persona of the dejected student to make his point more relatable.",
+    "summary_reasoning": "Higher pitch, resigned tone, quoting."
+  },
+  {
+    "timestamp": 52.241,
+    "emotion": "concerned",
+    "detailed_reasoning": "The speaker describes the student's future as 'darker and darker'. His tone becomes more somber and concerned, reflecting the gravity of the downward spiral he is illustrating. His pace is slow and deliberate, emphasizing the seriousness of the outcome.",
+    "summary_reasoning": "Somber tone, slow pace, serious content."
+  },
+  {
+    "timestamp": 57.443,
+    "emotion": "foreboding",
+    "detailed_reasoning": "In the final sentence, the speaker describes anxiety seeing an 'opportunity to jump into her.' His tone is low and steady, creating a foreboding atmosphere that effectively communicates the danger of unchecked negative emotions.",
+    "summary_reasoning": "Low tone, steady pace, grave content."
+  }
+]

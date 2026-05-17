@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 6.838,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his story with a calm and narrative tone. His voice is steady, and his body language is relaxed as he introduces the character 'Sam' and sets the context for his story. He uses open hand gestures to explain the situation, indicating a composed and neutral emotional state.",
+    "summary_reasoning": "Calm tone, steady voice, relaxed posture."
+  },
+  {
+    "timestamp": 10.642,
+    "emotion": "amused",
+    "detailed_reasoning": "When describing Sam as looking like a 'teddy bear,' the speaker's tone becomes lighter, and a slight, warm smile appears on his face. This shift in vocal quality and facial expression suggests a feeling of fond amusement as he recalls his first impression of his mentor.",
+    "summary_reasoning": "Lighter tone, slight smile."
+  },
+  {
+    "timestamp": 12.844,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker's demeanor changes significantly. The pace of his speech slows down, and his tone becomes more serious and deliberate as he says, 'this man was special.' His gaze shifts downward, indicating he is entering a state of deep thought and recollection about the importance of this person in his life.",
+    "summary_reasoning": "Slower pace, serious tone, downward gaze."
+  },
+  {
+    "timestamp": 22.554,
+    "emotion": "anticipatory",
+    "detailed_reasoning": "The speaker's intonation rises as he says 'the most amazing thing,' building suspense for the audience. His facial expression becomes more engaged, and his eyes widen slightly, signaling that a pivotal and wonderful moment in his story is about to be revealed.",
+    "summary_reasoning": "Rising intonation, widened eyes, building suspense."
+  },
+  {
+    "timestamp": 27.979,
+    "emotion": "amazed",
+    "detailed_reasoning": "Recounting Sam's words, 'I see something in you,' the speaker's voice is filled with a sense of wonder and awe. His facial expression is one of profound amazement, reflecting the deep impact this statement had on him. He is reliving the moment of being seen and valued.",
+    "summary_reasoning": "Awed voice, amazed facial expression."
+  },
+  {
+    "timestamp": 39.128,
+    "emotion": "elated",
+    "detailed_reasoning": "The speaker's energy level peaks as he exclaims, 'whoa!' His voice rises in pitch and volume, his eyes are wide with excitement, and his body language becomes more animated. This verbal and non-verbal outburst conveys a strong sense of elation and disbelief at being recognized in such a profound way for the first time.",
+    "summary_reasoning": "High pitch, loud voice, excited expression."
+  },
+  {
+    "timestamp": 45.04,
+    "emotion": "appreciative",
+    "detailed_reasoning": "After the emotional peak, the speaker's tone settles as he describes starting to work for Sam. When he talks about the stories Sam told him, his voice becomes warm and filled with gratitude. He lists the subjects with reverence, indicating a deep appreciation for the knowledge and wisdom imparted to him.",
+    "summary_reasoning": "Warm, grateful tone, reverent speech."
+  },
+  {
+    "timestamp": 54.641,
+    "emotion": "fulfilled",
+    "detailed_reasoning": "The speaker contrasts Sam's teachings with his school education, stating they were 'much more interesting.' His tone is confident and his face breaks into a knowing smile. This expression conveys a sense of fulfillment and discovery, highlighting the profound and positive impact this mentorship had on his life.",
+    "summary_reasoning": "Confident tone, knowing smile."
+  }
+]

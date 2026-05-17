@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 6.325,
+    "emotion": "inquisitive",
+    "detailed_reasoning": "The speaker adopts a new persona, speaking in a friendly and slightly whimsical tone. He addresses an imaginary 'friend' directly, leaning forward slightly with a gentle facial expression and raised eyebrows as he asks a question, indicating a curious and welcoming attitude.",
+    "summary_reasoning": "Whimsical tone, direct address, questioning expression."
+  },
+  {
+    "timestamp": 8.81,
+    "emotion": "playful",
+    "detailed_reasoning": "Continuing in his character, the speaker's tone becomes more expansive and imaginative. He offers to 'generate any number of flavors,' which is a fantastical proposition. His slight smile and the creative nature of the statement contribute to a playful and magical mood.",
+    "summary_reasoning": "Imaginative words, smiling, creative tone."
+  },
+  {
+    "timestamp": 11.456,
+    "emotion": "judgmental",
+    "detailed_reasoning": "The speaker's mood shifts abruptly in response to the imaginary friend's silence. His tone drops and his question 'Nothing?' sounds disappointed. This is immediately followed by the declaration 'So savage,' delivered in a lower, dramatic, and critical tone, with a slight frown, indicating a negative judgment of the other character.",
+    "summary_reasoning": "Abrupt tone shift, critical words, dramatic delivery, frowning."
+  },
+  {
+    "timestamp": 16.304,
+    "emotion": "analytical",
+    "detailed_reasoning": "The speaker breaks character and shifts to a neutral, explanatory tone. He is now analyzing the scene he just performed, stating 'And that's a shift there.' His facial expression becomes neutral, and his vocal delivery is calm and measured, indicating a switch from performance to analysis.",
+    "summary_reasoning": "Breaks character, explanatory tone, neutral expression."
+  },
+  {
+    "timestamp": 33.204,
+    "emotion": "emphatic",
+    "detailed_reasoning": "While still in his analytical mode, the speaker's tone becomes more forceful and serious as he explains the captain's perspective. He stresses the words 'very important,' and his facial expression is focused and intense, emphasizing the psychological core of the character he is describing.",
+    "summary_reasoning": "Forceful tone, stressed words, intense expression."
+  },
+  {
+    "timestamp": 37.93,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker continues his analysis, but his tone and expression now mirror the negative emotions of the character being described. When he says 'offended' and 'inferior,' his voice becomes lower and more grave, and his face shows a hint of contempt, making the explanation feel more serious and weighty.",
+    "summary_reasoning": "Grave tone, mirroring character's negative emotion, contemptuous expression."
+  },
+  {
+    "timestamp": 40.973,
+    "emotion": "reflective",
+    "detailed_reasoning": "Concluding his analysis of the scene, the speaker's tone becomes conclusive and thoughtful. He says, 'So there's a lot to those lines,' summarizing the complexity of the interaction. His expression is serious as he reflects on the subtext he has just explained.",
+    "summary_reasoning": "Conclusive tone, summary statement, thoughtful expression."
+  },
+  {
+    "timestamp": 50.703,
+    "emotion": "condescending",
+    "detailed_reasoning": "The speaker transitions back into the 'captain' character. His tone becomes formal, crisp, and dismissive. The line 'I know none of this means anything to you' is delivered with a slight air of superiority. This is followed by a direct command, 'but I simply need your handprint,' which, combined with his direct and demanding stare, conveys a condescending and impatient attitude.",
+    "summary_reasoning": "Returns to character, dismissive tone, direct command, demanding stare."
+  }
+]

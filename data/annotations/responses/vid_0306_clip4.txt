@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 1.534,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker begins with her head tilted back and eyes looking up, as if recalling a memory. Her vocal tone is soft and her speech is slow, indicating she is in a state of reflection or contemplation about the person she's describing.",
+    "summary_reasoning": "Head tilted back, upward gaze, soft tone."
+  },
+  {
+    "timestamp": 7.586,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker's tone becomes more somber and her pace slows down as she talks about the negative fate of stars. Her facial expression shifts from thoughtful to a more pained and melancholic look, with a slight frown and continued upward, distant gaze. The content itself is about loss and cessation.",
+    "summary_reasoning": "Somber tone, slower pace, pained expression."
+  },
+  {
+    "timestamp": 14.079,
+    "emotion": "melancholy",
+    "detailed_reasoning": "Continuing from the previous state, the speaker delivers the line \"never to shine again\" with a definitive and sorrowful finality. Her voice is low and soft, and her expression remains one of sadness and resignation, emphasizing the hopelessness of the stars' fate.",
+    "summary_reasoning": "Sorrowful tone, low voice, resigned expression."
+  },
+  {
+    "timestamp": 19.811,
+    "emotion": "longing",
+    "detailed_reasoning": "After a long pause, the speaker's focus shifts inward. She states, \"I want to be a star.\" Her tone changes from sadness about others to a personal desire. Her eyes are still distant, and her voice is filled with a quiet, earnest yearning, indicating a deep-seated wish.",
+    "summary_reasoning": "Introspective pause, earnest tone, personal statement of desire."
+  },
+  {
+    "timestamp": 23.238,
+    "emotion": "pensive",
+    "detailed_reasoning": "The speaker's tone becomes more philosophical and declarative when she says \"Stars have meaning.\" She is no longer just expressing a wish but contemplating the significance behind it. Her expression is serious and her delivery is measured, suggesting she is deeply considering this idea.",
+    "summary_reasoning": "Philosophical tone, serious expression, declarative statement."
+  },
+  {
+    "timestamp": 26.865,
+    "emotion": "resolute",
+    "detailed_reasoning": "In her final statement, \"Stars I understand,\" her tone conveys a sense of quiet conviction and acceptance. She ends with a slight, knowing smile and a subtle nod, suggesting she has come to a personal understanding or resolution about her desire to be a star. The emotion has shifted from longing to a more peaceful and firm comprehension.",
+    "summary_reasoning": "Convicted tone, slight smile, subtle nod."
+  }
+]

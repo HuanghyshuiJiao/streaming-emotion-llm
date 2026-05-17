@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 0.852,
+    "emotion": "despair",
+    "detailed_reasoning": "The initial statement, \"There is no more hope,\" delivered in a low, slow, and defeated tone, immediately establishes a strong sense of despair. The speaker is mostly obscured, so the annotation relies heavily on the pessimistic content of the words and the mournful quality of the voice.",
+    "summary_reasoning": "Pessimistic words, defeated tone."
+  },
+  {
+    "timestamp": 4.376,
+    "emotion": "resignation",
+    "detailed_reasoning": "Following the expression of hopelessness, the speaker says, \"I'm too far gone.\" The vocal tone remains low and lacks energy, but it shifts from active despair to a state of resignation, as if accepting a terrible fate. The speaker's head is slightly bowed, reinforcing this feeling of giving up.",
+    "summary_reasoning": "Accepting words, low energy tone, bowed head."
+  },
+  {
+    "timestamp": 14.408,
+    "emotion": "anguish",
+    "detailed_reasoning": "The speaker's state intensifies with the phrase, \"I'm buried alive.\" This powerful metaphor, combined with a strained and heavy vocal delivery, conveys a feeling of being trapped and in deep suffering. The emotion has progressed from passive resignation to active anguish.",
+    "summary_reasoning": "Trapped words, strained voice."
+  },
+  {
+    "timestamp": 26.022,
+    "emotion": "hopelessness",
+    "detailed_reasoning": "The speaker's words, \"Beyond heaven, there is no escape from this evil,\" represent a climax of his negative feelings. The tone is slow and deliberate, emphasizing the absolute finality of his statement. This conveys a profound sense of hopelessness, suggesting he believes he is completely trapped by an external, malevolent force.",
+    "summary_reasoning": "Finalistic words, slow and deliberate tone."
+  },
+  {
+    "timestamp": 59.823,
+    "emotion": "weary",
+    "detailed_reasoning": "After a very long pause where the speaker is silent and still, he lifts his head slightly and asks, \"Why are you still here?\" The question is not delivered with anger or aggression, but with a tone of exhaustion and confusion. This marks a shift from his internal suffering to a weary questioning of his observer's presence.",
+    "summary_reasoning": "Exhausted tone, questioning words."
+  }
+]

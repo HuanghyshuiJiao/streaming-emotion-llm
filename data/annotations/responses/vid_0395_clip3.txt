@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 6.22,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker is telling a very personal and sad story about her father dying of cancer. Her tone is somber, her pace is slow and deliberate, and her facial expression is serious with downcast eyes, all of which convey a deep sense of sadness and reflection on a painful memory.",
+    "summary_reasoning": "Sad story, somber tone, slow pace, serious face."
+  },
+  {
+    "timestamp": 13.069,
+    "emotion": "calm",
+    "detailed_reasoning": "While the content remains sad, her tone shifts to a more neutral, narrative quality. She speaks about always feeling \"seen\" by her father. The camera pulls back to a wide shot, but her vocal delivery is steady and calm, indicating a shift from expressing raw sadness to a more composed storytelling.",
+    "summary_reasoning": "Neutral tone, steady voice."
+  },
+  {
+    "timestamp": 26.207,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker lists various school subjects while describing her father's passing. Her tone is detached and her delivery is rhythmic and almost monotonous. This, combined with the context of compartmentalizing her grief, suggests a reflective state, looking back at her own dissociation during that time.",
+    "summary_reasoning": "Detached tone, rhythmic delivery, narrative context."
+  },
+  {
+    "timestamp": 31.215,
+    "emotion": "calm",
+    "detailed_reasoning": "She describes maintaining a facade, going about her days with her \"usual smile.\" Her vocal tone is even and calm, mirroring the external composure she is describing. The lack of emotional fluctuation in her voice reinforces the idea of masking her true feelings.",
+    "summary_reasoning": "Even tone, calm delivery."
+  },
+  {
+    "timestamp": 40.853,
+    "emotion": "ironic",
+    "detailed_reasoning": "When she says, \"I was praised for being strong,\" there is a subtle shift in her tone. It carries a hint of irony or bittersweet reflection. Her facial expression, now in a close-up again, has a slight, knowing look, suggesting she now understands this perceived \"strength\" was a form of denial.",
+    "summary_reasoning": "Ironic tone, knowing facial expression."
+  },
+  {
+    "timestamp": 44.82,
+    "emotion": "resigned",
+    "detailed_reasoning": "After stating she was the \"master of being OK,\" her voice drops slightly and she pauses. This delivery conveys a sense of resignation, acknowledging the hollow victory of her emotional suppression. Her expression is somber, underlining the negative aspect of this \"mastery.\"",
+    "summary_reasoning": "Lowered voice, pause, somber expression."
+  },
+  {
+    "timestamp": 58.118,
+    "emotion": "pained",
+    "detailed_reasoning": "In the final sentences, she describes the immense struggles her family faced after her father's death. Her voice becomes more strained, her pace quickens slightly, and her facial expression shows clear signs of pain and stress as she recounts these difficult memories of financial hardship on top of grief.",
+    "summary_reasoning": "Strained voice, pained expression, difficult topic."
+  }
+]

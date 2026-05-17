@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 1.072,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins with a gentle, inviting tone and a slight smile. Her facial expression is relaxed and open, suggesting a calm and friendly demeanor as she offers to share her dream.",
+    "summary_reasoning": "Gentle tone, slight smile, relaxed expression."
+  },
+  {
+    "timestamp": 6.819,
+    "emotion": "hopeful",
+    "detailed_reasoning": "After a reflective pause, the speaker reveals her dream is to find love. Her voice becomes softer and more wistful, her eyes soften, and a small, genuine smile appears, indicating a shift from a general calm to a more personal and hopeful emotion.",
+    "summary_reasoning": "Softer voice, wistful tone, gentle smile."
+  },
+  {
+    "timestamp": 10.263,
+    "emotion": "dreamy",
+    "detailed_reasoning": "As she describes the feeling of love, her expression becomes more animated and her eyes widen. Her tone becomes more expressive and slightly higher-pitched. She uses poetic language ('glow inside like lightning'), which combined with her expression, suggests she is lost in a pleasant, dreamy thought.",
+    "summary_reasoning": "Expressive tone, wider eyes, poetic language."
+  },
+  {
+    "timestamp": 20.694,
+    "emotion": "blissful",
+    "detailed_reasoning": "The speaker's gaze drifts upward as if she is vividly imagining the scenario. Her smile becomes wider and more blissful, and her voice takes on an airy, enchanted quality while describing the feeling of being a 'shooting star.' This indicates a peak in her dreamy and happy state.",
+    "summary_reasoning": "Upward gaze, blissful smile, airy voice."
+  },
+  {
+    "timestamp": 28.01,
+    "emotion": "serene",
+    "detailed_reasoning": "The energy of her delivery calms down. The words 'safe and untouched' are spoken with a softer, more reassuring tone. Her expression becomes more tranquil and her body language is very still, conveying a deep sense of peace and serenity associated with this feeling of love.",
+    "summary_reasoning": "Calmer energy, soft tone, tranquil expression."
+  },
+  {
+    "timestamp": 35.222,
+    "emotion": "joyful",
+    "detailed_reasoning": "When she says the word 'loved,' her smile deepens and her eyes light up, conveying a pure sense of joy. The tone is full of warmth and happiness as she concludes her description of finding the 'perfect person,' reflecting the ultimate positive outcome of her dream.",
+    "summary_reasoning": "Deep smile, bright eyes, warm tone."
+  },
+  {
+    "timestamp": 42.474,
+    "emotion": "curious",
+    "detailed_reasoning": "The speaker's demeanor shifts completely. She breaks from her reverie, makes direct eye contact with the camera, and her tone becomes direct and inquisitive. This change in focus and vocal delivery indicates she is now genuinely curious about the viewer's dream.",
+    "summary_reasoning": "Direct eye contact, inquisitive tone, shift in focus."
+  }
+]

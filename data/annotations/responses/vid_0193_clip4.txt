@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 2.975,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker begins with a surprising statement about being dead, but delivers it with a slight smile and a light, almost laughing tone. His facial expression is relaxed, suggesting he finds a dark humor or irony in the situation. This contrasts with the gravity of his words, creating a sense of amusement.",
+    "summary_reasoning": "Smiling, light tone, ironic words."
+  },
+  {
+    "timestamp": 12.046,
+    "emotion": "fear",
+    "detailed_reasoning": "After a long pause, the speaker's entire demeanor shifts. His previous amusement vanishes. He addresses his 'Mom' with a strained, high-pitched voice, and his eyes widen with a look of terror. His facial muscles are tense, clearly indicating a transition into a state of fear.",
+    "summary_reasoning": "Strained voice, widened eyes, tense face."
+  },
+  {
+    "timestamp": 16.332,
+    "emotion": "sadness",
+    "detailed_reasoning": "The speaker's emotion shifts from pure fear to profound sadness. His voice softens and cracks as he says, 'I miss you.' His facial expression droops, his eyes look downcast, and his tone conveys a deep sense of loss and longing, which are hallmarks of sadness.",
+    "summary_reasoning": "Cracking voice, soft tone, downcast eyes."
+  },
+  {
+    "timestamp": 19.916,
+    "emotion": "despair",
+    "detailed_reasoning": "Following his expression of sadness, the speaker's tone shifts to one of hopelessness and confusion. He says, 'I don't know what I will do,' with a lost and aimless quality in his voice. His gaze becomes unfocused, suggesting he feels overwhelmed and without direction, a clear indication of despair.",
+    "summary_reasoning": "Hopeless tone, lost expression, unfocused gaze."
+  },
+  {
+    "timestamp": 27.726,
+    "emotion": "desperation",
+    "detailed_reasoning": "The speaker's despair intensifies into desperation. He calls out, 'Where did you go?' in a loud, pleading, and frantic tone. His facial expression is one of anguish, and his body language becomes more agitated, conveying a desperate need for an answer or for his mother's return.",
+    "summary_reasoning": "Loud pleading tone, anguished face, agitated."
+  },
+  {
+    "timestamp": 31.711,
+    "emotion": "panic",
+    "detailed_reasoning": "The speaker's desperation turns into panic. He exclaims, 'I can't see anything,' with a sharp, panicked intake of breath. He starts looking around frantically, and his hands begin to rise in a defensive or searching gesture. His voice is high-pitched and filled with alarm, signaling a clear state of panic.",
+    "summary_reasoning": "Panicked voice, frantic searching, defensive hands."
+  },
+  {
+    "timestamp": 34.656,
+    "emotion": "confusion",
+    "detailed_reasoning": "The panic evolves into overwhelming confusion. The speaker asks, 'What is happening to me?' His hands are held up as if to ward something off, his eyes are wide with a mix of fear and bewilderment. The questioning tone and his disoriented expression clearly point to a state of confusion about his circumstances.",
+    "summary_reasoning": "Questioning tone, bewildered expression, defensive posture."
+  },
+  {
+    "timestamp": 52.089,
+    "emotion": "hopeful",
+    "detailed_reasoning": "After a long, still pause, the speaker's expression softens and his eyes look up as if hearing something. He asks, 'Are you calling me?' in a quiet, tentative, and slightly rising tone. This shift from confusion and fear to a questioning, upward-looking gaze suggests he has perceived something that gives him a glimmer of hope.",
+    "summary_reasoning": "Soft, questioning tone, upward gaze."
+  },
+  {
+    "timestamp": 55.415,
+    "emotion": "amazement",
+    "detailed_reasoning": "The hope turns into amazement. He states, 'You really want me,' not as a question but as a statement of dawning realization. His eyes are wide, and his voice carries a tone of wonder and disbelief. This emotional shift suggests he is processing something positive that he finds hard to believe.",
+    "summary_reasoning": "Wide eyes, tone of wonder, statement of disbelief."
+  },
+  {
+    "timestamp": 58.1,
+    "emotion": "remorse",
+    "detailed_reasoning": "The speaker's amazement is quickly followed by a feeling of unworthiness or remorse. He says, 'After everything that I've done,' with his voice dropping in pitch and volume. His expression becomes somber, and he seems to be reflecting on past actions with a sense of guilt, which points to remorse.",
+    "summary_reasoning": "Lowered voice, somber expression, words of guilt."
+  }
+]

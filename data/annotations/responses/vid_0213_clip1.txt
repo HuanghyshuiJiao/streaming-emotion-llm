@@ -1,0 +1,74 @@
+[
+  {
+    "timestamp": 2.015,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker begins with his eyes closed, sighing, and his hands on his hips in a tired stance. His tone is whiny and exasperated as he asks rhetorical questions about why people exercise, suggesting he finds the activity pointless and difficult.",
+    "summary_reasoning": "Tired stance, exasperated tone, rhetorical questions."
+  },
+  {
+    "timestamp": 6.523,
+    "emotion": "miserable",
+    "detailed_reasoning": "Continuing his frustrated tone, the speaker explicitly states he has \"never felt this terrible before in my entire life.\" His facial expression shows clear discomfort and pain, reinforcing the misery he is feeling from the physical exertion.",
+    "summary_reasoning": "Complaining tone, pained expression, statement of feeling terrible."
+  },
+  {
+    "timestamp": 8.907,
+    "emotion": "skeptical",
+    "detailed_reasoning": "The speaker's tone shifts to one of sarcastic disbelief. He directly questions the benefits of the exercise with a doubtful look, raising his eyebrows and looking around as if seeking confirmation that this suffering can't possibly be good for him.",
+    "summary_reasoning": "Sarcastic tone, raised eyebrows, doubtful expression."
+  },
+  {
+    "timestamp": 12.894,
+    "emotion": "anxious",
+    "detailed_reasoning": "Following his statement about dying, the speaker's tone becomes slightly more serious and worried. He speculates that the exercise is actively harming him, indicating a sense of anxiety about the physical toll it's taking on his body.",
+    "summary_reasoning": "Serious tone, verbalizing harm, worried expression."
+  },
+  {
+    "timestamp": 16.16,
+    "emotion": "disappointed",
+    "detailed_reasoning": "The speaker shifts from his physical complaints to his initial motivation for being at the gym. His tone becomes more narrative and slightly wistful as he mentions his hope of meeting women, implying that this goal has not been realized and leading to a sense of disappointment.",
+    "summary_reasoning": "Narrative tone, wistful expression, unfulfilled expectation."
+  },
+  {
+    "timestamp": 19.826,
+    "emotion": "insecure",
+    "detailed_reasoning": "After acknowledging the presence of attractive women, the speaker's tone quickly turns negative and self-conscious. He expresses discomfort with how they look at him, suggesting he feels judged and insecure about their perception of him.",
+    "summary_reasoning": "Self-conscious tone, negative self-perception, feeling judged."
+  },
+  {
+    "timestamp": 26.888,
+    "emotion": "desperate",
+    "detailed_reasoning": "The speaker's strategy shifts to a fantasy scenario. He contemplates passing out to get attention. His tone becomes weakly hopeful and scheming, revealing a desperate and slightly pathetic desire for a woman to feel sorry for him and rescue him.",
+    "summary_reasoning": "Weakly hopeful tone, fantasy scenario, seeking pity."
+  },
+  {
+    "timestamp": 32.915,
+    "emotion": "determined",
+    "detailed_reasoning": "The speaker abruptly dismisses his fantasy by saying \"No\" and shaking his head. His voice becomes firmer and more focused, and his facial expression turns serious as he resolves to concentrate on his true purpose for being there. This marks a clear shift to a more determined mindset.",
+    "summary_reasoning": "Firm tone, serious expression, verbalizing need to focus."
+  },
+  {
+    "timestamp": 42.825,
+    "emotion": "motivated",
+    "detailed_reasoning": "The speaker gives himself a pep talk, listing the reasons he is there. His tone is earnest and self-motivational as he talks about improving himself and becoming \"desirable,\" showing he is actively trying to build up his own resolve.",
+    "summary_reasoning": "Earnest tone, self-motivational speech, goal-oriented words."
+  },
+  {
+    "timestamp": 46.95,
+    "emotion": "sentimental",
+    "detailed_reasoning": "The motivation becomes specific as he focuses on \"one wonderful woman.\" His tone softens dramatically, becoming tender and full of emotion. His gaze turns upward and his expression softens, indicating he is thinking of someone he cares for deeply.",
+    "summary_reasoning": "Soft, tender tone, softened facial expression, affectionate words."
+  },
+  {
+    "timestamp": 54.323,
+    "emotion": "vulnerable",
+    "detailed_reasoning": "The speaker's voice is filled with a mix of longing and insecurity. While he wants to make this woman proud, he exposes his deep-seated fear of being seen as a \"loser.\" This confession reveals a raw vulnerability beneath his motivation.",
+    "summary_reasoning": "Insecure tone, confessing fear, self-deprecating language."
+  },
+  {
+    "timestamp": 59.907,
+    "emotion": "yearning",
+    "detailed_reasoning": "In his final statement, the speaker's tone becomes deeply earnest and almost pleading. He expresses a profound desire to change not just for himself or one person, but to be liked \"better\" by other people in general, showing a deep yearning for acceptance and self-transformation.",
+    "summary_reasoning": "Pleading tone, earnest expression, desire for external validation."
+  }
+]

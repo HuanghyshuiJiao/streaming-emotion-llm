@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 0.832,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker begins his talk by presenting a factual statement about high-conflict marriages. His tone is clear, steady, and didactic. His facial expression is neutral and focused, and his hand gestures are controlled and illustrative. This combination points to an informative and composed demeanor, aiming to educate the audience.",
+    "summary_reasoning": "Clear steady tone, neutral expression, illustrative gestures."
+  },
+  {
+    "timestamp": 12.325,
+    "emotion": "reassuring",
+    "detailed_reasoning": "After discussing the negative impacts, the speaker shifts to a positive point about \"good, warm relationships.\" His tone becomes slightly softer and warmer. There's a subtle lift in his expression, almost a gentle smile, as he delivers this positive, protective message, aiming to reassure the audience.",
+    "summary_reasoning": "Softer tone, gentle facial expression, positive words."
+  },
+  {
+    "timestamp": 17.831,
+    "emotion": "engaging",
+    "detailed_reasoning": "The speaker transitions into describing the study itself. His vocal tone becomes more narrative, and his pace picks up slightly. He uses more active and open hand gestures and direct eye contact to draw the audience into the story of the research, shifting from presenting facts to engaging them in the process of discovery.",
+    "summary_reasoning": "Narrative tone, active gestures, direct eye contact."
+  },
+  {
+    "timestamp": 36.902,
+    "emotion": "revelatory",
+    "detailed_reasoning": "The speaker is revealing a key, counter-intuitive finding from the study. He explicitly negates a common assumption (\"it wasn't their middle-age cholesterol levels\") with a clear, emphatic tone and a slight headshake. This builds suspense and highlights the surprising nature of the actual predictor, creating a revelatory moment for the audience.",
+    "summary_reasoning": "Emphatic tone, negating gesture (headshake), surprising content."
+  },
+  {
+    "timestamp": 43.753,
+    "emotion": "convinced",
+    "detailed_reasoning": "This is the climax of his point. The speaker delivers the key finding with a warm, genuine smile and a convicted, slightly louder tone. He emphasizes the words \"satisfied\" and \"relationships.\" His body language is open, and his expression is one of certainty and satisfaction in the finding, conveying a deep conviction in the message.",
+    "summary_reasoning": "Warm smile, convicted tone, emphasized words."
+  },
+  {
+    "timestamp": 54.412,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker concludes his point by summarizing the protective nature of good relationships. His tone becomes softer and more reflective. He uses the metaphor \"slings and arrows of getting old,\" which adds a thoughtful and slightly philosophical layer to his conclusion. His facial expression is calm and wise, inviting the audience to reflect on this profound idea.",
+    "summary_reasoning": "Soft reflective tone, metaphorical language, calm expression."
+  }
+]

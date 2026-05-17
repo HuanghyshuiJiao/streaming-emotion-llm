@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "neutral",
+    "detailed_reasoning": "The speaker starts her explanation with a calm and even tone. Her facial expression is neutral, and her posture is relaxed, indicating a standard, informative speaking mode at the beginning of a lecture.",
+    "summary_reasoning": "Calm tone, neutral expression."
+  },
+  {
+    "timestamp": 5.657,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker continues to explain the concept of a 'passive listener'. Her tone is consistently pedagogical, and she uses measured hand gestures to clarify her point. Her expression remains focused and serious, typical of an educational setting.",
+    "summary_reasoning": "Pedagogical tone, focused expression."
+  },
+  {
+    "timestamp": 13.346,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker explains the distinction between a monologue and a dialogue. Her tone remains clear and deliberate, with no emotional inflections. Her hand gestures are used purely for emphasis in her explanation, reinforcing the informative nature of her speech.",
+    "summary_reasoning": "Clear tone, explanatory gestures."
+  },
+  {
+    "timestamp": 23.556,
+    "emotion": "engaged",
+    "detailed_reasoning": "The speaker says the word \"interestingly,\" and her vocal tone becomes slightly more animated and higher in pitch. Her eyebrows raise slightly, indicating a shift from a purely factual delivery to a more engaged tone, as she highlights a fascinating aspect of the topic.",
+    "summary_reasoning": "Animated tone, raised eyebrows."
+  },
+  {
+    "timestamp": 35.496,
+    "emotion": "informative",
+    "detailed_reasoning": "After her point of interest, the speaker transitions back to providing historical context. Her tone returns to a more measured, neutral, and educational delivery, and her facial expression becomes serious again, signaling a return to the primary informative mode.",
+    "summary_reasoning": "Measured tone, serious expression."
+  },
+  {
+    "timestamp": 49.315,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker continues her list of poets who used the dramatic monologue form. Her pace is steady, her tone is factual, and her expression is neutral. She is focused on delivering a series of examples without any emotional variation, maintaining a consistent informative state.",
+    "summary_reasoning": "Steady pace, factual tone."
+  }
+]

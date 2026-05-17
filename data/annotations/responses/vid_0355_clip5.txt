@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 3.258,
+    "emotion": "happy",
+    "detailed_reasoning": "The speaker starts a new segment with a lighthearted and cheerful tone. His facial expression is a gentle smile, indicating a positive and happy mood as he begins his joke.",
+    "summary_reasoning": "Cheerful tone, smiling face."
+  },
+  {
+    "timestamp": 8.007,
+    "emotion": "amused",
+    "detailed_reasoning": "After delivering the punchline \"I'm getting pegged,\" the speaker breaks into a wider smile and looks directly at the camera with a playful expression. His tone is clearly comedic, indicating amusement at his own joke.",
+    "summary_reasoning": "Wider smile, playful expression, comedic tone."
+  },
+  {
+    "timestamp": 12.015,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker continues to explain the double entendre of his joke, maintaining a consistent smile and a light, playful vocal tone. He is clearly still amused by the subject matter.",
+    "summary_reasoning": "Smiling, playful tone."
+  },
+  {
+    "timestamp": 20.272,
+    "emotion": "amused",
+    "detailed_reasoning": "While referencing his friend in the picture-in-picture, the speaker points and makes a facial expression of mock affection and amusement. His tone is teasing and his smile widens, showing his enjoyment in roasting his friend.",
+    "summary_reasoning": "Smiling, teasing tone, pointing gesture."
+  },
+  {
+    "timestamp": 23.18,
+    "emotion": "neutral",
+    "detailed_reasoning": "The speaker transitions to a new topic. His tone becomes more straightforward and reportorial, like a news anchor setting up a story. His facial expression becomes more neutral as he delivers the setup for the next joke.",
+    "summary_reasoning": "Reportorial tone, neutral expression."
+  },
+  {
+    "timestamp": 28.988,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker delivers the punchline with a comedic, character-like voice. He smiles broadly as he finishes the joke, clearly amused by the imagined scenario he has just described.",
+    "summary_reasoning": "Comedic voice, broad smile."
+  },
+  {
+    "timestamp": 36.738,
+    "emotion": "excited",
+    "detailed_reasoning": "The speaker reacts to an off-screen comment with an exaggerated, wide-eyed, open-mouthed expression of shock and excitement. His voice is loud and emphatic on the word \"Shocker!\", conveying a high level of playful energy.",
+    "summary_reasoning": "Exaggerated shocked face, loud emphatic voice."
+  },
+  {
+    "timestamp": 43.167,
+    "emotion": "happy",
+    "detailed_reasoning": "The speaker is wrapping up the segment. His energy level comes down from the previous peak, but he maintains a clear smile and a pleasant, upbeat tone as he delivers the outro, indicating a general state of happiness.",
+    "summary_reasoning": "Smiling, pleasant tone, segment wrap-up."
+  },
+  {
+    "timestamp": 51.905,
+    "emotion": "calm",
+    "detailed_reasoning": "As the show goes to a break, the speaker's expression softens into a gentle, calm smile. His tone is relaxed and friendly as he tells the audience they'll be right back, transitioning from performer to a more settled host persona.",
+    "summary_reasoning": "Soft smile, relaxed tone, outro."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his story with a calm and measured tone. His facial expression is neutral and composed, and his posture is relaxed as he sets the scene for the audience. He is in a storytelling mode.",
+    "summary_reasoning": "Calm tone, neutral expression, storytelling mode."
+  },
+  {
+    "timestamp": 10.327,
+    "emotion": "determined",
+    "detailed_reasoning": "When quoting the recruiter's harsh words ('you're fat and you're black'), the speaker's tone is not one of sadness or anger, but of matter-of-fact recollection. His direct eye contact and the slight, wry grimace on his face suggest that he is presenting this moment as a significant challenge that he was resolved to overcome.",
+    "summary_reasoning": "Matter-of-fact tone, direct eye contact, recounting a challenge."
+  },
+  {
+    "timestamp": 15.194,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's tone becomes more serious and his expression sobers as he provides the stark statistic about the low number of African American Navy SEALs. This shift conveys the gravity and historical weight of the challenge he was undertaking.",
+    "summary_reasoning": "Serious tone, sober expression, stating a grave fact."
+  },
+  {
+    "timestamp": 23.717,
+    "emotion": "focused",
+    "detailed_reasoning": "When detailing the specific, immense challenge of losing 106 pounds in under three months, the speaker's voice is firm and his expression is focused. He states the facts of this daunting task without any hint of complaint, suggesting a focused mindset on the goal.",
+    "summary_reasoning": "Firm voice, focused expression, stating a daunting task."
+  },
+  {
+    "timestamp": 31.487,
+    "emotion": "proud",
+    "detailed_reasoning": "Announcing his success, the speaker's entire demeanor shifts. A confident smile appears, his tone becomes lighter and more triumphant, and he makes strong eye contact with the audience. This change clearly communicates pride in his significant achievement, which is met with applause.",
+    "summary_reasoning": "Confident smile, triumphant tone, announcing success."
+  },
+  {
+    "timestamp": 38.116,
+    "emotion": "grateful",
+    "detailed_reasoning": "In response to the audience's applause, the speaker offers a genuine smile and a nod. His 'Thank you' is delivered in a warm, appreciative tone, clearly showing his gratitude for their support and recognition.",
+    "summary_reasoning": "Genuine smile, warm tone, acknowledging applause."
+  },
+  {
+    "timestamp": 46.347,
+    "emotion": "intense",
+    "detailed_reasoning": "The speaker's emotion shifts to intensity as he describes the grueling nature of BUDS training. His voice becomes more forceful, his brow furrows slightly, and he uses hand gestures to emphasize the extreme difficulty of enduring an 18-month program that should have taken six, including three 'hell weeks'.",
+    "summary_reasoning": "Forceful voice, furrowed brow, describing a grueling experience."
+  },
+  {
+    "timestamp": 53.475,
+    "emotion": "reverent",
+    "detailed_reasoning": "When mentioning the names of his fellow soldiers, including a Medal of Honor recipient, the speaker's pace slows and his tone becomes somber and respectful. His facial expression softens into one of deep respect and remembrance, conveying the reverence he holds for his comrades.",
+    "summary_reasoning": "Somber tone, respectful expression, naming comrades."
+  }
+]

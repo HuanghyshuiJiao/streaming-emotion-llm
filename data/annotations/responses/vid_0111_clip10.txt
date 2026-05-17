@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 6.706,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her speech with a steady and measured tone. Her facial expression is neutral and her posture is composed as she presents the initial facts of her argument. This combination of vocal and visual cues suggests a calm and informative demeanor.",
+    "summary_reasoning": "Steady tone, neutral expression, composed posture."
+  },
+  {
+    "timestamp": 12.699,
+    "emotion": "proud",
+    "detailed_reasoning": "When the speaker mentions \"Bateses know a lot about, in-person community,\" her tone softens and a subtle, knowing smile appears. She glances away from the audience briefly, as if sharing an inside piece of information. This suggests a sense of pride and connection to the specific community she is addressing.",
+    "summary_reasoning": "Soft tone, subtle smile, direct address to community."
+  },
+  {
+    "timestamp": 19.196,
+    "emotion": "persuasive",
+    "detailed_reasoning": "The speaker's tone shifts to be more engaging and direct. She uses rhetorical devices like \"Now think about that\" and lists examples of digital communication. Her vocal pitch becomes more varied, and her eyebrows raise slightly, indicating an attempt to persuade the audience and make them consider her point more deeply.",
+    "summary_reasoning": "Engaging tone, varied pitch, raised eyebrows."
+  },
+  {
+    "timestamp": 29.738,
+    "emotion": "warm",
+    "detailed_reasoning": "The speaker's emotion becomes warmer as she lists positive examples of in-person interaction like \"Bear hugs, high fives.\" A genuine smile emerges, and her tone becomes more personal and slightly nostalgic, especially when she mentions locking eyes with a future soulmate. This creates a feeling of warmth and positive sentiment.",
+    "summary_reasoning": "Genuine smile, personal tone, nostalgic content."
+  },
+  {
+    "timestamp": 37.361,
+    "emotion": "authoritative",
+    "detailed_reasoning": "The speaker transitions back to a more formal and factual tone as she introduces a study from her colleagues at Stanford. Her facial expression becomes neutral and serious, and her voice is clear and direct. This shift indicates she is establishing credibility and presenting evidence in an authoritative manner.",
+    "summary_reasoning": "Formal tone, neutral expression, citing credible source."
+  },
+  {
+    "timestamp": 52.022,
+    "emotion": "convinced",
+    "detailed_reasoning": "As she reveals the results of the study, the speaker's voice builds in intensity and conviction. She places strong emphasis on the words \"measurably increased their happiness\" and \"decreased their anxiety and depression.\" Her expression is serious and focused, conveying her strong belief in the findings she is presenting.",
+    "summary_reasoning": "Intense voice, strong emphasis, focused expression."
+  }
+]

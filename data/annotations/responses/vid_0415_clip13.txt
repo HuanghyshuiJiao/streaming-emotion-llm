@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 1.293,
+    "emotion": "inquisitive",
+    "detailed_reasoning": "The speaker begins by posing a direct question to the audience. Her facial expression is neutral but engaged, with her head slightly tilted and eyebrows in a neutral position. Her vocal tone is questioning and direct, indicating she is genuinely asking for the viewer's opinion.",
+    "summary_reasoning": "Direct question, engaged expression, questioning tone."
+  },
+  {
+    "timestamp": 7.523,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker transitions from her question to explaining her personal preference. Her tone becomes steady and conversational, and her hand gestures are relaxed and illustrative. Her facial expression remains neutral and calm as she describes her desire for a set schedule.",
+    "summary_reasoning": "Steady tone, relaxed gestures, neutral expression."
+  },
+  {
+    "timestamp": 12.552,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker is searching for the right words to describe her ideal schedule, saying \"predetermined, I guess, and flexible.\" Her eyes look slightly upwards and to the side, and she uses a filler word (\"I guess\"), which suggests she is actively thinking and choosing her words carefully. Her hand gesture is open and searching.",
+    "summary_reasoning": "Searching for words, upward gaze, filler language."
+  },
+  {
+    "timestamp": 25.633,
+    "emotion": "serious",
+    "detailed_reasoning": "The topic shifts to the importance of sleep. The speaker's tone becomes more deliberate and firm. She raises her finger to make a point, emphasizing the word \"very important.\" Her facial expression is more focused and serious, highlighting the significance of this topic to her.",
+    "summary_reasoning": "Deliberate tone, pointing gesture, focused expression."
+  },
+  {
+    "timestamp": 29.258,
+    "emotion": "emphatic",
+    "detailed_reasoning": "Continuing on the topic of sleep, the speaker states she gets \"physically ill\" without enough sleep. Her vocal tone becomes more pronounced and emphatic to stress the severity of the consequence. Her facial expression tightens slightly, conveying the unpleasantness of the experience she's describing.",
+    "summary_reasoning": "Pronounced tone, serious expression, strong words."
+  },
+  {
+    "timestamp": 45.857,
+    "emotion": "neutral",
+    "detailed_reasoning": "The speaker concludes her point about lifestyle and career paths. Her tone returns to a more neutral, conversational level. Her hand gestures are open and summarizing, and her facial expression is relaxed, indicating a transition from the previous emphatic point to a more general conclusion.",
+    "summary_reasoning": "Conversational tone, summarizing gestures, relaxed expression."
+  },
+  {
+    "timestamp": 51.573,
+    "emotion": "disgusted",
+    "detailed_reasoning": "The speaker introduces a new point, stating she is a \"pretty squeamish person.\" Her facial expression changes significantly; she wrinkles her nose and slightly purses her lips, a classic expression of disgust or distaste. Her tone also carries a hint of aversion as she describes this personal trait.",
+    "summary_reasoning": "Wrinkled nose, pursed lips, tone of aversion."
+  }
+]

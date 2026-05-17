@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 1.317,
+    "emotion": "grateful",
+    "detailed_reasoning": "The speaker starts by recapping a positive lesson from his teacher, Ms. Cockerell. His tone is soft and appreciative, and he has a gentle expression as he speaks about healing. The content of his speech focuses on a positive transformation, setting a grateful tone for the story he is concluding.",
+    "summary_reasoning": "Soft tone, positive words, gentle expression."
+  },
+  {
+    "timestamp": 10.559,
+    "emotion": "confident",
+    "detailed_reasoning": "After a brief pause and transition, the speaker begins a new section. The camera angle changes, and he now speaks with a more declarative and clear tone. He is summarizing the lessons he learned, including the core theme of his talk. His delivery is straightforward and certain, indicating confidence in the message.",
+    "summary_reasoning": "Declarative tone, direct speech, clear message."
+  },
+  {
+    "timestamp": 20.58,
+    "emotion": "admiring",
+    "detailed_reasoning": "The speaker's tone becomes more earnest and filled with high praise as he describes his teacher with words like \"passionate, professional, exceptional.\" His facial expression is sincere, reflecting his deep admiration for the teacher who saw him as a human being, not just a student.",
+    "summary_reasoning": "Earnest tone, words of praise, sincere expression."
+  },
+  {
+    "timestamp": 28.676,
+    "emotion": "certain",
+    "detailed_reasoning": "The speaker's tone is firm and convinced as he states that his teacher \"changed my life trajectory.\" He uses a broad, sweeping hand gesture to emphasize the magnitude of this change, visually reinforcing his certainty about her profound impact on his life.",
+    "summary_reasoning": "Firm tone, sweeping hand gesture, definitive words."
+  },
+  {
+    "timestamp": 33.484,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker's tone softens and becomes more contemplative as he considers a hypothetical alternative reality where his teacher didn't intervene. He looks down and to the side, a common non-verbal cue for introspection, as he lists the negative emotions he might have felt. This shift indicates a moment of deep reflection.",
+    "summary_reasoning": "Soft contemplative tone, downward gaze, hypothetical words."
+  },
+  {
+    "timestamp": 41.557,
+    "emotion": "peaceful",
+    "detailed_reasoning": "After reflecting on a negative alternative, the speaker's demeanor shifts dramatically. He states firmly, \"But I'm not,\" and then softens his tone to say, \"I'm at peace.\" His body language becomes open, and a slight, genuine smile appears on his face, clearly conveying a state of peace and contentment.",
+    "summary_reasoning": "Open posture, slight smile, calm and firm tone."
+  },
+  {
+    "timestamp": 45.904,
+    "emotion": "grateful",
+    "detailed_reasoning": "The speaker looks slightly upwards and directly addresses his teacher, saying \"Thank you.\" His tone is filled with warmth and sincerity, and his facial expression is soft. This direct address and appreciative language make his feeling of gratitude explicit and palpable.",
+    "summary_reasoning": "Warm sincere tone, direct address, appreciative words."
+  },
+  {
+    "timestamp": 51.152,
+    "emotion": "appreciative",
+    "detailed_reasoning": "The speaker gives a clear thumbs-up gesture and smiles as he transitions to talking about his family. His tone remains warm and he uses strong, positive words like \"reinforced\" and \"tremendous fidelity.\" This combination of gesture, expression, and language shows his deep appreciation for his family's support.",
+    "summary_reasoning": "Thumbs-up gesture, smile, warm tone, positive words."
+  }
+]

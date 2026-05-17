@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "determined",
+    "detailed_reasoning": "The speaker begins with a firm and steady tone, using the example of someone wanting to stop smoking. His facial expression is serious and focused, and his hand gestures are contained, indicating a sense of determination and a clear starting point for his argument.",
+    "summary_reasoning": "Firm tone, serious expression."
+  },
+  {
+    "timestamp": 6.44,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker's tone shifts to describe a cycle of failure ('you get frustrated and you eat again'). His voice becomes slightly more emphatic and his pace quickens, mirroring the frustration of the person in his example. His facial expression shows a slight furrow in his brow.",
+    "summary_reasoning": "Emphatic tone, quick pace."
+  },
+  {
+    "timestamp": 12.088,
+    "emotion": "emphatic",
+    "detailed_reasoning": "As he delivers the line 'equal the manifestations that you get in your life,' his voice becomes louder and more forceful. He uses a deliberate hand gesture, bringing his hands together to emphasize the direct connection he is describing between thoughts/feelings and life outcomes. The camera also zooms in on him, adding to the intensity.",
+    "summary_reasoning": "Loud voice, deliberate gestures."
+  },
+  {
+    "timestamp": 17.615,
+    "emotion": "excited",
+    "detailed_reasoning": "The speaker's tone dramatically shifts to be more upbeat and engaging as he says 'here's the million dollar solution.' His voice gets louder, his pitch rises, and he smiles slightly, signaling a pivotal and positive turn in his presentation. This builds anticipation and excitement.",
+    "summary_reasoning": "Upbeat tone, higher pitch, slight smile."
+  },
+  {
+    "timestamp": 22.682,
+    "emotion": "commanding",
+    "detailed_reasoning": "The speaker's tone becomes direct and instructional as he offers the first step of the solution: 'monitor what you think about.' His voice is clear and authoritative, and he uses a pointed hand gesture, giving a sense of a command or strong advice.",
+    "summary_reasoning": "Direct tone, clear voice."
+  },
+  {
+    "timestamp": 27.33,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker's pace slows down and his tone becomes more conversational and thoughtful as he acknowledges that 'there's a lot of theories around this concept.' This shift indicates he is pausing to reflect on the broader context before presenting his specific viewpoint.",
+    "summary_reasoning": "Slower pace, conversational tone."
+  },
+  {
+    "timestamp": 32.4,
+    "emotion": "profound",
+    "detailed_reasoning": "His voice drops in pitch and becomes more resonant and deliberate as he states, 'Everything that is seen comes from that which was not seen.' The slow, measured delivery and serious expression give the statement a sense of profound, philosophical weight.",
+    "summary_reasoning": "Lower pitch, slow pace, serious expression."
+  },
+  {
+    "timestamp": 37.731,
+    "emotion": "illustrative",
+    "detailed_reasoning": "The speaker's tone becomes more grounded and relatable as he provides concrete examples like 'That chair you're sitting in' and 'the clothes you have on'. He is illustrating his abstract point with everyday objects, making his tone more conversational and explanatory.",
+    "summary_reasoning": "Conversational tone, concrete examples."
+  },
+  {
+    "timestamp": 47.711,
+    "emotion": "storytelling",
+    "detailed_reasoning": "The speaker adopts a narrative tone, using a slightly more animated voice and relaxed body language as he talks about the invention of ties and the transition from horses to other forms of transport. He's engaging the audience by telling a story about human ingenuity.",
+    "summary_reasoning": "Narrative tone, animated voice."
+  },
+  {
+    "timestamp": 54.124,
+    "emotion": "inspired",
+    "detailed_reasoning": "He concludes his story with the idea of flying 'like a bird.' His voice rises in pitch and has a sense of wonder and aspiration. His facial expression is open and slightly smiling, conveying the feeling of inspiration that drives human innovation.",
+    "summary_reasoning": "Rising pitch, wonder in voice."
+  }
+]

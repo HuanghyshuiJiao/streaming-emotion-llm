@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 6.359,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins her talk with a very steady and measured tone. Her facial expression is neutral and her body language is composed as she introduces the topic. She presents facts in a straightforward, informative manner, establishing a calm and authoritative presence.",
+    "summary_reasoning": "Steady tone, neutral expression, informative."
+  },
+  {
+    "timestamp": 12.047,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker's tone shifts from a general, informative one to a more personal and direct one. By saying \"like me,\" she establishes a personal connection, and her subsequent instruction, \"take your meds,\" is delivered with a firm and resolute voice, indicating strong confidence and conviction in her message.",
+    "summary_reasoning": "Firm tone, personal declaration, direct gaze."
+  },
+  {
+    "timestamp": 17.234,
+    "emotion": "engaging",
+    "detailed_reasoning": "After a round of applause, the speaker smiles and her tone lightens as she says \"Right? Okay. Eat.\" This acts as a warm, transitional moment. The smile and friendly tone serve to re-engage the audience and introduce the next point in an approachable way.",
+    "summary_reasoning": "Smile, lightened tone, transition."
+  },
+  {
+    "timestamp": 34.291,
+    "emotion": "empathetic",
+    "detailed_reasoning": "When discussing the difficulty of meditation, the speaker's pace slows down, and she places a clear vocal emphasis on the word \"hard.\" This deliberate modulation in her voice conveys an understanding of the struggle, adding a layer of empathy to her delivery.",
+    "summary_reasoning": "Slower pace, vocal emphasis on \"hard\"."
+  },
+  {
+    "timestamp": 46.909,
+    "emotion": "enthusiastic",
+    "detailed_reasoning": "The speaker's energy lifts as she introduces a musical metaphor, describing routine as a \"solid rhythm section.\" Her tone becomes more animated and melodic, and her hand gestures become slightly more expressive, showing enthusiasm and passion for the concept she is explaining.",
+    "summary_reasoning": "Animated tone, musical metaphor, expressive."
+  },
+  {
+    "timestamp": 57.183,
+    "emotion": "encouraging",
+    "detailed_reasoning": "In her final sentence, the speaker's tone becomes distinctly warm and uplifting. She says, \"so you can actually do all of this stuff,\" with a positive inflection and a subtle smile, concluding her point on an empowering and encouraging note for the audience.",
+    "summary_reasoning": "Uplifting tone, positive words, smile."
+  }
+]

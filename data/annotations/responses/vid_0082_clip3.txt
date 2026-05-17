@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "dejected",
+    "detailed_reasoning": "The speaker begins with a flat, low tone and a serious, strained facial expression. The statement 'I'm $1 an hour' is delivered as a heavy, factual admission of low self-worth, setting a tone of dejection and frustration from the outset.",
+    "summary_reasoning": "Flat tone, strained face, self-deprecating words."
+  },
+  {
+    "timestamp": 3.836,
+    "emotion": "defeated",
+    "detailed_reasoning": "The speaker recounts his failure across 'seven states.' His voice is slow and deliberate, and his brow is slightly furrowed. The words 'I couldn't raise it' convey a sense of helplessness and failure, shifting the emotion from general dejection to a more specific feeling of being defeated by his circumstances.",
+    "summary_reasoning": "Slow speech, furrowed brow, words of failure."
+  },
+  {
+    "timestamp": 11.125,
+    "emotion": "pleading",
+    "detailed_reasoning": "His tone shifts as he asks, 'Do you gather my meaning?' His direct gaze and slightly more intense, questioning tone indicate he is desperate for the other person to understand the gravity of his feelings. It's a plea for empathy and comprehension of his pain.",
+    "summary_reasoning": "Direct gaze, questioning tone, seeking understanding."
+  },
+  {
+    "timestamp": 12.246,
+    "emotion": "despair",
+    "detailed_reasoning": "The emotion escalates significantly here. The speaker's pace quickens as he lays out the consequences of his failure, addressing 'Pop'. The line culminates with the declaration 'I'm nothing,' delivered with a pained expression and a voice filled with self-loathing and utter hopelessness.",
+    "summary_reasoning": "Pained expression, emotional voice, words of worthlessness."
+  },
+  {
+    "timestamp": 19.916,
+    "emotion": "anguish",
+    "detailed_reasoning": "He repeats 'I'm nothing' with his head slightly bowed. The repetition, combined with the visible pain in his face and the quiet, broken delivery, deepens the sense of despair into pure anguish. He seems to be in immense emotional pain.",
+    "summary_reasoning": "Repetition, bowed head, broken tone."
+  },
+  {
+    "timestamp": 28.516,
+    "emotion": "resigned",
+    "detailed_reasoning": "The speaker's energy drops. The statement 'There's no spite in it anymore. I'm just what I am and that's all' is delivered with a weary, flat tone. His eyes close briefly in a gesture of tired acceptance. The emotion has shifted from active anguish to a passive, weary resignation to his perceived fate.",
+    "summary_reasoning": "Low energy, flat tone, weary expression."
+  },
+  {
+    "timestamp": 35.661,
+    "emotion": "pleading",
+    "detailed_reasoning": "The emotion shifts from passive resignation back to an active plea. His voice becomes softer, almost a whisper, as he asks, 'Now will you let me go?' His face is filled with sorrow and exhaustion, and he is now begging for release from the expectations that have crushed him.",
+    "summary_reasoning": "Soft, whispering voice, sorrowful expression, begging words."
+  },
+  {
+    "timestamp": 40.599,
+    "emotion": "desperate",
+    "detailed_reasoning": "The intensity rises for a final, desperate climax. His voice gains an urgent edge as he implores the other person to 'take this phony dream and burn it.' The phrase 'before something bad happens' is a clear warning born from desperation, showing he is at his breaking point and fears the consequences of continuing on this path.",
+    "summary_reasoning": "Urgent tone, warning words, tense expression."
+  }
+]

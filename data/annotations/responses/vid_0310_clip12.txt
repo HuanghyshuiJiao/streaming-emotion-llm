@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 1.333,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins with a direct and firm tone, giving a command. His facial expression is neutral and focused, and his brow is slightly furrowed, indicating a serious and instructional mood as he sets up the topic.",
+    "summary_reasoning": "Firm tone, focused expression."
+  },
+  {
+    "timestamp": 14.534,
+    "emotion": "annoyed",
+    "detailed_reasoning": "The speaker's tone shifts to one of mild exasperation as he describes a hypothetical frustrating situation. His facial expression shows clear annoyance, with tightened lips and a slight head shake, culminating in a rhetorical question that expresses his irritation.",
+    "summary_reasoning": "Exasperated tone, tightened lips."
+  },
+  {
+    "timestamp": 21.677,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker says \"Conversely,\" signaling a shift in topic. His tone becomes more neutral and his facial expression relaxes. He is transitioning from a negative example to a positive one, and his demeanor becomes calm and objective.",
+    "summary_reasoning": "Neutral tone, relaxed expression."
+  },
+  {
+    "timestamp": 27.328,
+    "emotion": "pleased",
+    "detailed_reasoning": "The speaker's demeanor brightens significantly as he describes the positive scenario. His speech becomes faster, his tone is enthusiastic, and a slight smile appears on his face. He uses positive, affirming language like \"They're ready,\" conveying a sense of satisfaction and approval.",
+    "summary_reasoning": "Enthusiastic tone, smiling."
+  },
+  {
+    "timestamp": 42.944,
+    "emotion": "enthusiastic",
+    "detailed_reasoning": "Continuing with the positive example, the speaker's energy level rises. He emphasizes his willingness to help by saying \"I'll do that all day long\" with a very positive and energetic tone, and his facial expression is open and agreeable, showing genuine enthusiasm.",
+    "summary_reasoning": "Energetic tone, agreeable expression."
+  },
+  {
+    "timestamp": 48.117,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker's mood shifts abruptly back to negative with the phrase \"pain in the butt.\" His tone becomes dismissive and firm, his facial expression hardens, and he shakes his head slightly when saying \"I'm not doing it.\" This combination of verbal and non-verbal cues indicates clear frustration.",
+    "summary_reasoning": "Dismissive tone, hardened expression."
+  },
+  {
+    "timestamp": 56.078,
+    "emotion": "authoritative",
+    "detailed_reasoning": "In his concluding remarks, the speaker adopts a commanding and authoritative tone. He gives direct instructions (\"get your reader,\" \"get your set up\") with a serious expression, reinforcing his expertise and the importance of his advice.",
+    "summary_reasoning": "Commanding tone, serious expression."
+  }
+]

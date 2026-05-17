@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 6.117,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his story with a very steady and measured tone. His facial expression is neutral, and his gaze is directed slightly off-camera, suggesting he is recalling a memory. Despite the unsettling words at the beginning, his overall demeanor is calm and detached.",
+    "summary_reasoning": "Steady tone, neutral face, recalling memory."
+  },
+  {
+    "timestamp": 10.861,
+    "emotion": "intense",
+    "detailed_reasoning": "As he describes the violent act of poking the creature, his vocal delivery becomes slightly more punctuated and his eyes widen a little. The pace of his speech quickens slightly, shifting the mood from calm recollection to a more intense and focused narration of the event.",
+    "summary_reasoning": "Punctuated speech, wider eyes, quicker pace."
+  },
+  {
+    "timestamp": 16.046,
+    "emotion": "detached",
+    "detailed_reasoning": "While describing the graphic imagery of 'boiling black blood,' his tone remains flat and unemotional. His facial expression shows no disgust or shock; he seems completely detached from the visceral nature of the words he is speaking, which creates a disturbing contrast.",
+    "summary_reasoning": "Flat tone, neutral face, contrast with graphic words."
+  },
+  {
+    "timestamp": 24.714,
+    "emotion": "methodical",
+    "detailed_reasoning": "The speaker describes cutting the creature into pieces with a calm, procedural tone. His expression remains neutral and his delivery is matter-of-fact, as if he's describing a routine task. This lack of emotion makes the action feel cold and methodical.",
+    "summary_reasoning": "Procedural tone, neutral face, matter-of-fact delivery."
+  },
+  {
+    "timestamp": 32.959,
+    "emotion": "satisfied",
+    "detailed_reasoning": "When he describes the taste as 'like greasy chicken,' a very faint, subtle smile appears at the corners of his mouth. His tone remains calm, but this slight smirk suggests a sense of satisfaction or perhaps a private, dark amusement with the memory.",
+    "summary_reasoning": "Subtle smile, calm tone, dark amusement."
+  },
+  {
+    "timestamp": 42.66,
+    "emotion": "proud",
+    "detailed_reasoning": "After stating he 'ate it all' and 'licked the plate too,' his faint smile broadens slightly. There's a hint of pride or accomplishment in his expression and the slight lift in his tone, as if recounting a personal achievement.",
+    "summary_reasoning": "Smile broadens, hint of pride in tone."
+  },
+  {
+    "timestamp": 47.651,
+    "emotion": "resigned",
+    "detailed_reasoning": "When he says 'She hit me,' his expression becomes flat, the previous smile completely vanishes, and his eyes look downcast. His tone is devoid of emotion, suggesting a sense of resignation or numbness to the physical punishment, as if it were an expected outcome.",
+    "summary_reasoning": "Flat expression, downcast eyes, numb tone."
+  },
+  {
+    "timestamp": 56.61,
+    "emotion": "bitter",
+    "detailed_reasoning": "Describing his mother's concern for the scorched pan rather than the snake, a wry, bitter smile forms on his face. His eyebrows raise slightly in a look of cynical disbelief. The emotion shifts from resignation about being hit to a bitter amusement at his mother's misplaced priorities.",
+    "summary_reasoning": "Wry smile, cynical expression, bitter tone."
+  },
+  {
+    "timestamp": 58.995,
+    "emotion": "amused",
+    "detailed_reasoning": "Finishing his mother's quote, 'I guess I have to buy a new one,' his bitter smile transitions into one of clear, dark amusement. He looks directly towards the light source (window) with a slight chuckle implied in his expression, finding a morbid humor in the absurdity of the situation.",
+    "summary_reasoning": "Bitter smile turns amused, looks up, morbid humor."
+  }
+]

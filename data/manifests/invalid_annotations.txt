@@ -1,0 +1,5 @@
+vid_0061_clip1.txt:17:27 Unterminated string starting at
+vid_0067_clip1.txt:17:27 Unterminated string starting at
+vid_0217_clip10.txt:29:261 Expecting ',' delimiter
+vid_0381_clip1.txt:35:27 Unterminated string starting at
+vid_0416_clip2.txt:1:1 Expecting value

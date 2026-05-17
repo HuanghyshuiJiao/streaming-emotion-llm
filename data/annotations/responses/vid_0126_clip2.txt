@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp": 0.672,
+    "emotion": "emphatic",
+    "detailed_reasoning": "The video starts with the speaker exclaiming a single phrase, \"R&D!\" with a loud, projected voice and wide-open mouth. His expression is one of sudden, emphatic declaration, setting an intense opening tone.",
+    "summary_reasoning": "Loud voice, wide eyes, emphatic tone."
+  },
+  {
+    "timestamp": 3.615,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker's tone shifts dramatically from the initial exclamation. His voice becomes lower, slower, and more measured as he begins his explanation. His facial expression is neutral and his posture is relaxed, suggesting a move to a calm, explanatory state.",
+    "summary_reasoning": "Lower, slower voice, neutral expression."
+  },
+  {
+    "timestamp": 8.0,
+    "emotion": "serious",
+    "detailed_reasoning": "The content of his words becomes more ominous (\"dangerous their silence is\"). While his volume doesn't increase, his tone becomes graver and more deliberate. He holds a steady, serious gaze, emphasizing the weight of his statement.",
+    "summary_reasoning": "Grave tone, serious words, steady gaze."
+  },
+  {
+    "timestamp": 12.685,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker delivers the line about being \"on top\" with a firm, unwavering tone. He then adds that \"everyone smiles at you,\" maintaining a composed and knowing expression, which projects a sense of confidence and control over the situation he's describing.",
+    "summary_reasoning": "Firm tone, composed expression."
+  },
+  {
+    "timestamp": 17.19,
+    "emotion": "intense",
+    "detailed_reasoning": "Following a long, deliberate pause, the speaker delivers the line \"But no one... can say anything.\" His voice is low and quiet, and his facial expression is cold and unreadable. This combination creates a sudden, intense, and slightly menacing atmosphere.",
+    "summary_reasoning": "Long pause, quiet voice, cold expression."
+  },
+  {
+    "timestamp": 23.017,
+    "emotion": "assertive",
+    "detailed_reasoning": "The speaker breaks the tension with a loud, sharp \"Yes!\". His posture straightens, his eyes widen, and he addresses the audience directly. The shift in volume and directness indicates a change to a more assertive and challenging demeanor.",
+    "summary_reasoning": "Loud voice, direct gaze, assertive tone."
+  },
+  {
+    "timestamp": 28.603,
+    "emotion": "mocking",
+    "detailed_reasoning": "When listing typical office activities like \"meetings, memos,\" the speaker's tone becomes slightly sarcastic and dismissive. His head tilts and his expression conveys a sense of ridicule for these conventional ideas, suggesting he finds them naive.",
+    "summary_reasoning": "Sarcastic tone, dismissive expression."
+  },
+  {
+    "timestamp": 34.375,
+    "emotion": "cynical",
+    "detailed_reasoning": "The speaker says \"No guys,\" shaking his head with a slight, cynical smile. His tone is condescending, completely dismissing the previous list of office functions as irrelevant and foolish, revealing his cynical worldview.",
+    "summary_reasoning": "Cynical smile, condescending tone."
+  },
+  {
+    "timestamp": 40.529,
+    "emotion": "intense",
+    "detailed_reasoning": "His voice drops to a lower, more forceful register as he reveals the true drivers of the office: \"bloody favours and fears.\" His eyes are wide and fixed, and his expression is deadly serious, creating a moment of intense, dramatic revelation.",
+    "summary_reasoning": "Low, forceful voice, wide eyes, serious expression."
+  },
+  {
+    "timestamp": 46.823,
+    "emotion": "provocative",
+    "detailed_reasoning": "The speaker singles out \"Masha,\" and his tone becomes more personal and taunting. He poses a rhetorical question about being the hero or villain, looking directly at the camera with a challenging expression, clearly intending to provoke.",
+    "summary_reasoning": "Personal address, taunting tone, challenging gaze."
+  },
+  {
+    "timestamp": 55.121,
+    "emotion": "arrogant",
+    "detailed_reasoning": "After asking if he's the hero or villain, he delivers the final line with a slight smirk and a dismissive tone. The statement about his expensive shoes is a clear display of superiority and contempt, capping the monologue with an arrogant flourish.",
+    "summary_reasoning": "Smirk, dismissive tone, superior statement."
+  }
+]

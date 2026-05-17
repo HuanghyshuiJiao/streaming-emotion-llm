@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": 5.037,
+    "emotion": "serious",
+    "detailed_reasoning": "The video starts with a close-up of a man's face in dramatic, low-key lighting. His expression is neutral but intense, with focused eyes looking directly at the camera. His voice is low, slow, and measured as he speaks. This combination of intense visual focus and a grave vocal delivery establishes a serious and contemplative mood from the very beginning.",
+    "summary_reasoning": "Intense gaze, low-key lighting, slow measured voice."
+  },
+  {
+    "timestamp": 11.725,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker's pace remains slow and his tone deep. As he says the words 'and lose the name of action,' there's a slight drop in his vocal energy and his gaze seems to become even more fixed and heavy. This suggests a shift from a general serious tone to a more somber or grave reflection on the consequences of inaction.",
+    "summary_reasoning": "Lowered vocal energy, heavy gaze, grave words."
+  },
+  {
+    "timestamp": 17.832,
+    "emotion": "accusatory",
+    "detailed_reasoning": "A new female speaker begins, and although she is not visible, her voice is sharp, clear, and carries a strong, assertive tone. She speaks the words 'These are the forgeries of jealousy' with a clipped, precise enunciation that sounds like an accusation or a firm declaration. The complete change in speaker and the immediate intensity in the new voice mark a distinct emotional shift.",
+    "summary_reasoning": "New speaker, sharp assertive tone, clipped enunciation."
+  },
+  {
+    "timestamp": 24.52,
+    "emotion": "wistful",
+    "detailed_reasoning": "After the initial sharp, accusatory line, the speaker's tone softens and becomes more melodic and rhythmic as she lists places: 'on hill, in dale, forest or mead.' The pace is slightly slower and more flowing, evoking a sense of past events. This change from a harsh accusation to a more descriptive, almost nostalgic listing of locations suggests a shift to a more wistful or melancholic state.",
+    "summary_reasoning": "Softer tone, melodic rhythmic speech, nostalgic words."
+  }
+]

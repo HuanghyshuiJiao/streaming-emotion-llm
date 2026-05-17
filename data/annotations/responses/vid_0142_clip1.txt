@@ -1,0 +1,68 @@
+[
+  {
+    "timestamp": 1.552,
+    "emotion": "neutral",
+    "detailed_reasoning": "The speaker introduces herself with a clear, steady voice and a polite, neutral smile. Her posture is relaxed and open, indicating a standard, formal introduction before a performance.",
+    "summary_reasoning": "Clear voice, polite smile, formal introduction."
+  },
+  {
+    "timestamp": 8.499,
+    "emotion": "serious",
+    "detailed_reasoning": "After her introduction, the speaker's smile fades and her facial expression becomes completely neutral and serious. She takes a moment to compose herself, signaling a transition from her own persona to the character's, preparing for the monologue.",
+    "summary_reasoning": "Smile fades, neutral expression, preparing for monologue."
+  },
+  {
+    "timestamp": 13.604,
+    "emotion": "confrontational",
+    "detailed_reasoning": "The character begins her monologue by directly addressing an unseen person. Her tone shifts from neutral to pointed and questioning. Her eyebrows are slightly lowered and her gaze is intense, creating a confrontational and challenging mood.",
+    "summary_reasoning": "Pointed tone, intense gaze, direct questions."
+  },
+  {
+    "timestamp": 18.969,
+    "emotion": "disbelieving",
+    "detailed_reasoning": "The character asks, \"Are you content?\" with a tone of disbelief. Her head tilts slightly and her eyes widen, visually emphasizing her incredulity at the other person's complacency.",
+    "summary_reasoning": "Disbelieving tone, widened eyes, head tilt."
+  },
+  {
+    "timestamp": 21.972,
+    "emotion": "frustrated",
+    "detailed_reasoning": "As she describes time slipping by, her voice gains a sharper, more frustrated edge. Her delivery becomes faster and more emphatic, conveying a sense of impatience and exasperation with the other person's inaction.",
+    "summary_reasoning": "Sharper tone, faster delivery, emphatic words."
+  },
+  {
+    "timestamp": 30.171,
+    "emotion": "angry",
+    "detailed_reasoning": "The emotion escalates from frustration to anger. Her voice rises in volume and pitch, and her facial expression tightens, with furrowed brows and a tense jaw. The accusation in her tone becomes more pronounced.",
+    "summary_reasoning": "Increased volume, higher pitch, tense facial expression."
+  },
+  {
+    "timestamp": 35.52,
+    "emotion": "desperate",
+    "detailed_reasoning": "Her anger is now mixed with desperation as she asks, \"Doesn't anything matter to you?\" Her voice cracks slightly, and her expression becomes more pained and pleading, showing her desperate attempt to get a reaction.",
+    "summary_reasoning": "Voice cracks, pained expression, pleading tone."
+  },
+  {
+    "timestamp": 42.471,
+    "emotion": "contemptuous",
+    "detailed_reasoning": "When mentioning \"prejudice and fear,\" her tone becomes laced with contempt. She delivers the lines with a slight sneer and a sharp, dismissive quality, expressing her disdain for the other person's mindset.",
+    "summary_reasoning": "Contemptuous tone, slight sneer, sharp delivery."
+  },
+  {
+    "timestamp": 44.715,
+    "emotion": "indignant",
+    "detailed_reasoning": "The speaker's emotion shifts to indignation. Her voice is high-pitched and strained as she says \"oppressed\" and points out the denial of human rights. Her eyes are wide with a sense of injustice and disbelief at the other person's lack of awareness.",
+    "summary_reasoning": "High-pitched voice, strained tone, wide eyes, sense of injustice."
+  },
+  {
+    "timestamp": 51.486,
+    "emotion": "pitying",
+    "detailed_reasoning": "When she says, \"You're a prisoner,\" her tone softens from indignation to a mix of sadness and pity. Her facial expression also softens, conveying a sense of sorrow for the other person's condition rather than just anger.",
+    "summary_reasoning": "Softer tone, sad expression, sorrowful delivery."
+  },
+  {
+    "timestamp": 57.516,
+    "emotion": "vulnerable",
+    "detailed_reasoning": "In her final question, \"Did you ever behave like me?\", her voice drops and becomes softer, almost pleading. Her expression is filled with vulnerability and a hint of sadness, as if she is revealing a painful part of herself and seeking connection.",
+    "summary_reasoning": "Soft, pleading voice, vulnerable expression, sadness."
+  }
+]

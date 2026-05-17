@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 2.839,
+    "emotion": "neutral",
+    "detailed_reasoning": "The speaker begins her speech with a calm and even tone. Her facial expression is neutral, and her posture is composed as she sets up her initial point. The delivery is measured and clear, appropriate for the start of a formal address.",
+    "summary_reasoning": "Calm tone, neutral expression, formal delivery."
+  },
+  {
+    "timestamp": 11.653,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker's tone becomes slightly more personal and her pace slows down as she introduces her book, \"Grit.\" Her gaze shifts slightly, suggesting she is recalling the experience of her research. This marks a transition from a general statement to a personal anecdote.",
+    "summary_reasoning": "Slower pace, personal tone, shifting gaze."
+  },
+  {
+    "timestamp": 21.897,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker's tone is explanatory as she defines the concept of \"grit.\" She uses a slightly more emphatic and deliberate tone to ensure the audience understands the term she is about to discuss. Her facial expression remains engaged and focused on conveying this information clearly.",
+    "summary_reasoning": "Explanatory tone, deliberate pace, focused expression."
+  },
+  {
+    "timestamp": 34.069,
+    "emotion": "passionate",
+    "detailed_reasoning": "There is a noticeable shift in her vocal energy and tone. When she says \"They love what they do,\" her voice becomes warmer and more expressive. She smiles slightly and her eyes light up, conveying a sense of passion and admiration for the people she studied.",
+    "summary_reasoning": "Warmer tone, smiling, expressive eyes."
+  },
+  {
+    "timestamp": 45.92,
+    "emotion": "sentimental",
+    "detailed_reasoning": "After a brief pause, she transitions to a personal topic: her mother. Her tone softens significantly, and a warm, genuine smile appears on her face. Her eyes convey affection, indicating a shift from a professional topic to a deeply personal and sentimental one.",
+    "summary_reasoning": "Softer tone, warm smile, affectionate expression."
+  }
+]

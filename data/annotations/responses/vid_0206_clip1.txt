@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 3.374,
+    "emotion": "sadness",
+    "detailed_reasoning": "The scene opens with a man standing alone at a gravestone under a large, somber tree. His posture is still and reflective. His voice is slow, low-pitched, and has a melancholic tone as he begins to speak to the deceased. This combination of visual context and vocal delivery immediately establishes a feeling of sadness and grief.",
+    "summary_reasoning": "Somber setting, slow low-pitched voice."
+  },
+  {
+    "timestamp": 13.343,
+    "emotion": "grief",
+    "detailed_reasoning": "The character's voice cracks slightly and is filled with a heavy, pained tone as he describes bulldozing the house. His facial expression shows deep sorrow, with his brows furrowed and eyes downcast. The content of his speech, describing a destructive act tied to the loss, intensifies the initial sadness into a more profound sense of grief.",
+    "summary_reasoning": "Voice cracks, pained tone, sorrowful expression."
+  },
+  {
+    "timestamp": 24.974,
+    "emotion": "wistful",
+    "detailed_reasoning": "He recounts what his mother used to say about death. His tone shifts from active grief to a more reflective and wistful one. He's recalling a memory, which brings a layer of nostalgia to his sadness. His gaze is distant, suggesting he's lost in thought about the past.",
+    "summary_reasoning": "Reflective tone, distant gaze, recalling memory."
+  },
+  {
+    "timestamp": 29.818,
+    "emotion": "pain",
+    "detailed_reasoning": "After quoting his mother, he immediately expresses his own disagreement and pain with the sentiment. His voice becomes more strained and quiet as he says, \"I sure wish it wasn't.\" This direct contradiction, combined with the pained vocal delivery, reveals the depth of his personal suffering and inability to accept the loss.",
+    "summary_reasoning": "Strained, quiet voice, expressing suffering."
+  },
+  {
+    "timestamp": 39.028,
+    "emotion": "love",
+    "detailed_reasoning": "The topic shifts to his son, Little Forrest. His tone softens significantly, and a hint of a gentle, sad smile appears on his face. Although the overarching sadness is still present, the emotion is now colored with a deep, paternal love and tenderness as he talks about the child.",
+    "summary_reasoning": "Softened tone, gentle expression, topic shift to son."
+  },
+  {
+    "timestamp": 56.481,
+    "emotion": "dedicated",
+    "detailed_reasoning": "As he details the routine of caring for his son—making all his meals, ensuring he combs his hair and brushes his teeth—his voice takes on a steady, determined, and committed quality. While still gentle, the tone conveys a sense of purpose and dedication. He is finding meaning and structure in his role as a father, which is a source of strength amidst his grief.",
+    "summary_reasoning": "Steady, committed tone, describing care routine."
+  }
+]

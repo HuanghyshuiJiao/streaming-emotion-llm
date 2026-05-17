@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 7.765,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his speech with a calm and measured tone. His facial expression is neutral, and his posture is relaxed as he sets the stage for his message. He uses a bit of humor by slightly misquoting 'carpe diem', which elicits a small laugh from the audience, but his own demeanor remains composed.",
+    "summary_reasoning": "Measured tone, neutral expression, relaxed posture."
+  },
+  {
+    "timestamp": 12.012,
+    "emotion": "motivational",
+    "detailed_reasoning": "The speaker's tone shifts to become more direct and encouraging. He uses imperative verbs like \"Get busy,\" \"have at it,\" and \"Don't wait.\" His vocal delivery becomes slightly more emphatic and his facial expression more earnest, conveying a sense of urgency and motivation to the audience.",
+    "summary_reasoning": "Direct tone, emphatic delivery, earnest expression."
+  },
+  {
+    "timestamp": 22.311,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker injects humor by referencing a modern trend, the \"YOLO tattoo.\" His tone becomes lighter, and there is a slight, knowing smile on his face. This is a clear attempt to connect with the younger audience through a relatable and amusing cultural reference, which is met with laughter.",
+    "summary_reasoning": "Lighter tone, slight smile, humorous reference."
+  },
+  {
+    "timestamp": 30.090,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "After the humorous remark, the speaker's tone becomes more contemplative and analytical. He is breaking down the logic of the phrase \"YOLO\" to present a deeper philosophical point. His pace slows slightly, and his expression is focused as he guides the audience through his reasoning.",
+    "summary_reasoning": "Contemplative tone, slower pace, focused expression."
+  },
+  {
+    "timestamp": 37.121,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker briefly returns to a humorous and amused tone as he explains that the acronym for his preferred phrase, \"you live every day\" (which he shortens to \"elu\"), \"doesn't have the same ring.\" This self-aware joke about linguistics and branding shows a lightheartedness and amusement with the subject.",
+    "summary_reasoning": "Humorous tone, self-aware joke."
+  },
+  {
+    "timestamp": 45.594,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's tone shifts to become more serious and cautionary. He explicitly states that his message should not be interpreted as a \"license for self-indulgence.\" His facial expression becomes more stern, his brow is slightly furrowed, and his vocal tone is firm to emphasize this important clarification.",
+    "summary_reasoning": "Serious tone, stern expression, firm voice."
+  },
+  {
+    "timestamp": 51.724,
+    "emotion": "sincere",
+    "detailed_reasoning": "In his concluding thought, the speaker's delivery becomes very sincere and reflective. He slows his pace and softens his tone to deliver the core message that a fulfilled life is a byproduct of focusing on important things. His expression is earnest and his gaze is direct, conveying deep conviction and sincerity.",
+    "summary_reasoning": "Sincere tone, slow pace, earnest expression."
+  }
+]

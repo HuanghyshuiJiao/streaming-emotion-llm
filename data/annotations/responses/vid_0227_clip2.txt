@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 3.937,
+    "emotion": "focused",
+    "detailed_reasoning": "The speaker begins with a calm and measured tone, using deliberate hand gestures to clarify what her talk is not about. Her facial expression is serious and her eye contact is steady, indicating she is focused on setting the stage for her main topic.",
+    "summary_reasoning": "Calm tone, serious expression, deliberate gestures."
+  },
+  {
+    "timestamp": 8.543,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's tone shifts to become more grave and intense as she introduces the core topic of \"severe or pervasive\" threats. Her eyebrows are slightly furrowed, and her hand gestures become more emphatic, underscoring the seriousness of the subject matter.",
+    "summary_reasoning": "Grave tone, intense delivery, furrowed brow."
+  },
+  {
+    "timestamp": 14.813,
+    "emotion": "somber",
+    "detailed_reasoning": "When listing examples like \"abuse or neglect,\" the speaker's voice becomes lower and her pace slows. Her facial expression is heavy, and she looks down slightly, reflecting the somber and difficult nature of these experiences.",
+    "summary_reasoning": "Lowered voice, slower pace, somber expression."
+  },
+  {
+    "timestamp": 25.847,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker's tone becomes more neutral and her gaze shifts to the side as she talks about her past training and perspective. She is describing her former professional mindset, and her demeanor is detached and analytical, indicating a state of reflection on her past self.",
+    "summary_reasoning": "Neutral tone, sideways glance, analytical content."
+  },
+  {
+    "timestamp": 37.672,
+    "emotion": "engaged",
+    "detailed_reasoning": "The speaker signals a turning point in her story with the words \"And then something happened.\" Her tone becomes more animated, her eyebrows raise, and her vocal pitch slightly increases, creating a sense of anticipation and engaging the audience for the next part of her narrative.",
+    "summary_reasoning": "Animated tone, raised eyebrows, anticipatory phrasing."
+  },
+  {
+    "timestamp": 46.791,
+    "emotion": "earnest",
+    "detailed_reasoning": "Describing her desire to find a place where she was \"really needed,\" the speaker's voice softens and becomes more heartfelt. Her facial expression conveys sincerity and a sense of purpose. This shift indicates she is now speaking from a place of deep personal conviction.",
+    "summary_reasoning": "Softened voice, heartfelt tone, sincere expression."
+  },
+  {
+    "timestamp": 49.917,
+    "emotion": "hopeful",
+    "detailed_reasoning": "Concluding the clip with the phrase \"make a difference,\" the speaker's tone becomes uplifting and her expression softens into a slight, determined smile. This conveys a sense of hope and forward-looking optimism about her mission.",
+    "summary_reasoning": "Uplifting tone, slight smile, optimistic words."
+  }
+]

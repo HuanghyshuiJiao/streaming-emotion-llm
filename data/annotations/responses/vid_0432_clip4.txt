@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 4.096,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker is recounting a serious medical event. Her tone is consistently grave and her facial expression is neutral and focused. She is describing the timeline of events factually, which imparts a serious mood to the narrative.",
+    "summary_reasoning": "Serious tone, neutral expression, factual recount."
+  },
+  {
+    "timestamp": 11.404,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker's entire demeanor shifts as she introduces an anecdote. She explicitly says it was a \"funny moment,\" and her tone becomes lighter and more conversational. A subtle smile appears on her face, contrasting with her previous serious expression, indicating she finds the memory humorous.",
+    "summary_reasoning": "Says \"funny moment\", lighter tone, subtle smile."
+  },
+  {
+    "timestamp": 19.994,
+    "emotion": "indignant",
+    "detailed_reasoning": "Recounting how the paramedics misstated her age, her tone shifts to one of playful indignation. She says \"I'm 25\" with a head tilt, a pronounced smirk, and a slightly challenging tone, humorously conveying her mock offense at being aged up.",
+    "summary_reasoning": "Playful tone, smirk, head tilt."
+  },
+  {
+    "timestamp": 23.938,
+    "emotion": "amused",
+    "detailed_reasoning": "After her moment of playful indignation, she breaks into a wide smile and a genuine laugh. Her whole face lights up, showing she clearly finds the entire situation very funny in retrospect.",
+    "summary_reasoning": "Wide smile, genuine laugh."
+  },
+  {
+    "timestamp": 28.003,
+    "emotion": "reflective",
+    "detailed_reasoning": "The mood shifts back from amusement to seriousness. The speaker's tone becomes more measured and analytical as she says, \"I noticed that...\" Her facial expression becomes neutral, and she appears to be concentrating on recalling the specific details of her symptoms, indicating a more introspective state.",
+    "summary_reasoning": "Measured tone, neutral expression, analytical words."
+  },
+  {
+    "timestamp": 32.812,
+    "emotion": "anxious",
+    "detailed_reasoning": "The speaker explicitly mentions the word \"anxiety.\" As she describes this feeling, her facial expression becomes more tense, her eyebrows furrow slightly, and her hand gestures become more pronounced and frequent, visually and verbally conveying the distress she felt.",
+    "summary_reasoning": "Says \"anxiety\", tense expression, increased hand gestures."
+  },
+  {
+    "timestamp": 40.060,
+    "emotion": "scared",
+    "detailed_reasoning": "The speaker explicitly states she was feeling \"really scared and really anxious.\" Her eyes widen as she recalls the memory, and her tone becomes more intense and earnest, emphasizing the fear she experienced and how it worsened her physical condition.",
+    "summary_reasoning": "Says \"really scared\", wide eyes, earnest tone."
+  },
+  {
+    "timestamp": 44.305,
+    "emotion": "relieved",
+    "detailed_reasoning": "The speaker's tone shifts significantly, becoming lighter and calmer. The transitional word \"But\" signals a change in the narrative. She explains that she was \"pretty much back to normal,\" and her facial muscles relax, conveying a clear sense of relief after the frightening experience.",
+    "summary_reasoning": "Lighter tone, relaxed expression, says \"back to normal\"."
+  },
+  {
+    "timestamp": 58.781,
+    "emotion": "satisfied",
+    "detailed_reasoning": "Concluding her story, she states that on the stroke checklist, she \"scored a zero.\" She says this with a definitive tone, a slight nod, and a small, satisfied smile. This combination of cues indicates a sense of vindication and positive closure.",
+    "summary_reasoning": "Definitive tone, small smile, says \"scored a zero\"."
+  }
+]

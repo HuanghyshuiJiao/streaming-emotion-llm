@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins with a serious and slightly dramatic tone, leaning forward with a focused facial expression. Her eyes are narrowed, and her delivery is deliberate, setting a declarative and serious mood from the outset.",
+    "summary_reasoning": "Serious tone, focused expression."
+  },
+  {
+    "timestamp": 6.14,
+    "emotion": "solemn",
+    "detailed_reasoning": "The speaker adopts a solemn tone, quoting a well-known phrase. Her eyes are wide and her expression is earnest, as if delivering a profound truth. This builds on the initial seriousness but adds a layer of gravity.",
+    "summary_reasoning": "Solemn tone, earnest expression."
+  },
+  {
+    "timestamp": 10.005,
+    "emotion": "playful",
+    "detailed_reasoning": "There is a subtle shift in tone from solemn to playful. The speaker's lips start to form a slight, suppressed smile, and her eyes show a hint of mischief as she says she \"tried not to take advantage,\" suggesting she is not being entirely serious.",
+    "summary_reasoning": "Slight smile, mischievous eyes."
+  },
+  {
+    "timestamp": 12.91,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "The speaker delivers the word \"Much\" with a clear sarcastic and humorous intent. This is conveyed through a wry smile, a playful head tilt, and a light, knowing tone, confirming the playful insinuation from the previous line.",
+    "summary_reasoning": "Wry smile, playful tone."
+  },
+  {
+    "timestamp": 15.794,
+    "emotion": "appreciative",
+    "detailed_reasoning": "The speaker's demeanor changes completely. Her expression softens, she has a genuine smile, and her tone becomes warm and sincere. She is now expressing a fond and appreciative opinion about nerds.",
+    "summary_reasoning": "Soft expression, warm tone, genuine smile."
+  },
+  {
+    "timestamp": 22.564,
+    "emotion": "contemptuous",
+    "detailed_reasoning": "The speaker's tone shifts to one of disdain as she discusses \"pretty boys.\" Her facial expression shows contempt, with a slight sneer and a narrowing of the eyes, contrasting them negatively with the previously praised nerds.",
+    "summary_reasoning": "Contemptuous tone, sneer."
+  },
+  {
+    "timestamp": 27.651,
+    "emotion": "mocking",
+    "detailed_reasoning": "Continuing her critique of other types of men, the speaker's tone becomes mocking when talking about \"tough guys and jocks.\" She makes a dismissive facial expression, scrunching her nose and looking away, indicating her scorn.",
+    "summary_reasoning": "Mocking tone, dismissive expression."
+  },
+  {
+    "timestamp": 35.316,
+    "emotion": "arrogant",
+    "detailed_reasoning": "The speaker begins to impersonate a jock. She deepens her voice, puffs out her chest, and adopts an arrogant, exaggeratedly masculine posture. Her facial expression is smug, clearly mocking this persona.",
+    "summary_reasoning": "Impersonation, deep voice, arrogant posture."
+  },
+  {
+    "timestamp": 45.073,
+    "emotion": "tender",
+    "detailed_reasoning": "After the mocking impersonation, the speaker's entire demeanor softens dramatically. Her voice becomes gentle and warm, her facial expression becomes tender and sincere, and she smiles fondly, creating a strong emotional contrast.",
+    "summary_reasoning": "Soft voice, tender expression, fond smile."
+  },
+  {
+    "timestamp": 55.632,
+    "emotion": "annoyed",
+    "detailed_reasoning": "As she lists the perceived downsides, her tone shifts to one of annoyance or exasperation. Her face scrunches up in a grimace, and she rolls her eyes slightly, expressing her frustration with certain nerd culture tropes.",
+    "summary_reasoning": "Annoyed tone, grimace, eye roll."
+  }
+]

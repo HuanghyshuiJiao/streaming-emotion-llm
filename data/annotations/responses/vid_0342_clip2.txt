@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 4.056,
+    "emotion": "determined",
+    "detailed_reasoning": "The speaker begins with a steady and direct tone. His eyes are wide and fixed, and he leans forward slightly. The content of his speech, \"I must have your land,\" combined with his focused expression and unwavering tone, conveys a strong sense of determination and resolve.",
+    "summary_reasoning": "Direct tone, fixed gaze, assertive words."
+  },
+  {
+    "timestamp": 11.665,
+    "emotion": "scornful",
+    "detailed_reasoning": "The speaker's tone shifts to one of mockery and contempt, particularly when he says the word \"legitimate.\" His facial expression changes to a slight sneer, and he draws out the word, imbuing it with sarcasm. This indicates his scorn for the concept of legitimacy.",
+    "summary_reasoning": "Mocking tone, sneer, sarcastic delivery."
+  },
+  {
+    "timestamp": 20.316,
+    "emotion": "scheming",
+    "detailed_reasoning": "His expression becomes more intense and manic. His eyes dart around as he speaks of his \"invention\" thriving. The combination of his hushed, conspiratorial tone and the slight, sinister smile that begins to form suggests he is deep in a malevolent plan.",
+    "summary_reasoning": "Intense eyes, conspiratorial tone, sinister smile."
+  },
+  {
+    "timestamp": 27.805,
+    "emotion": "ambitious",
+    "detailed_reasoning": "His gaze shifts upward, and his voice takes on a more grandiose and declarative quality as he says, \"I grow.\" This upward look, combined with the powerful declaration, signals a feeling of rising ambition and a sense of his own potential for greatness.",
+    "summary_reasoning": "Upward gaze, grandiose tone, declarative statement."
+  },
+  {
+    "timestamp": 40.804,
+    "emotion": "defiant",
+    "detailed_reasoning": "The final line, \"Now gods, stand up for bastards,\" is delivered with a surge of impassioned energy. He looks directly upwards as if challenging the heavens. His facial expression is a mix of pleading and defiance. This culminates in a final, complex smile that is both triumphant and slightly unhinged, encapsulating a defiant challenge to the established order.",
+    "summary_reasoning": "Impassioned tone, upward challenging gaze, defiant smile."
+  }
+]

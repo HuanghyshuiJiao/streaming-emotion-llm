@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 2.896,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker begins by asking a question to himself, looking upwards and pausing for an extended period. His facial expression is neutral and his tone is contemplative, suggesting he is thinking about what to say next.",
+    "summary_reasoning": "Questioning tone, upward gaze, long pause."
+  },
+  {
+    "timestamp": 20.872,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's demeanor shifts from thoughtful to serious as he begins to give direct advice. His tone becomes cautionary and his facial expression is more focused on the camera, indicating a shift in topic and intent.",
+    "summary_reasoning": "Direct advice, cautionary tone, focused expression."
+  },
+  {
+    "timestamp": 23.896,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "The speaker's tone changes to one of sarcasm when mentioning the low wage. He says it \"sounds fun\" but his slight smirk, raised eyebrows, and the context of his previous negative statement suggest he means the opposite.",
+    "summary_reasoning": "Ironic words, slight smirk, raised eyebrows."
+  },
+  {
+    "timestamp": 26.859,
+    "emotion": "emphatic",
+    "detailed_reasoning": "The speaker's delivery becomes much more rapid and animated. He uses wide eyes, strong hand gestures (though hands are mostly out of frame, the body movement implies it), and a fast-paced, slightly stressed tone to list all the negative reasons, emphasizing his point strongly.",
+    "summary_reasoning": "Rapid speech, animated expression, stressed tone."
+  },
+  {
+    "timestamp": 40.555,
+    "emotion": "serious",
+    "detailed_reasoning": "Following the frantic list of reasons, the speaker's tone becomes very direct and deadpan. He delivers the line \"don't sell axes to children\" with a stern, wide-eyed expression, creating a moment of serious, almost absurd, advice.",
+    "summary_reasoning": "Deadpan tone, stern expression, direct warning."
+  },
+  {
+    "timestamp": 44.144,
+    "emotion": "sincere",
+    "detailed_reasoning": "There is a significant shift in topic and emotion. The speaker's voice becomes much softer, slower, and more gentle. His facial expression relaxes, and he makes earnest eye contact with the camera, indicating a shift to a sincere and serious topic about feelings.",
+    "summary_reasoning": "Soft tone, slow speech, gentle expression."
+  },
+  {
+    "timestamp": 46.312,
+    "emotion": "empathetic",
+    "detailed_reasoning": "Continuing the topic of feelings, the speaker's tone becomes empathetic as he describes a lonely situation. His facial expression shows concern, with slightly furrowed brows and a compassionate look, conveying that he understands the feelings he is describing.",
+    "summary_reasoning": "Concerned tone, compassionate facial expression."
+  },
+  {
+    "timestamp": 52.737,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker's emotion transitions to sadness as he describes bottling up feelings. His voice drops in pitch, the pace of his speech slows down, and his expression becomes more somber, reflecting the sad nature of the words.",
+    "summary_reasoning": "Lower pitch, slow pace, somber expression."
+  },
+  {
+    "timestamp": 55.468,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker delivers his final line after a long, impactful pause. His expression is very serious and almost pained, and he shakes his head slightly. The finality and gravity in his tone create a somber and cautionary end to the clip.",
+    "summary_reasoning": "Long pause, serious expression, grave tone."
+  }
+]

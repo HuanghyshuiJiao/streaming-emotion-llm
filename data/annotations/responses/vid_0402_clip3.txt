@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 2.394,
+    "emotion": "disgusted",
+    "detailed_reasoning": "The speaker begins his story with a tone of clear disapproval. His facial expression is one of contempt, with his upper lip slightly raised and his teeth bared in a sneer as he says the word \"adrift.\" This combination of critical language, harsh tone, and disgusted facial expression indicates he is repulsed by the memory.",
+    "summary_reasoning": "Contemptuous tone, sneering facial expression."
+  },
+  {
+    "timestamp": 9.381,
+    "emotion": "annoyed",
+    "detailed_reasoning": "The speaker's disgust intensifies into clear annoyance as he lists the perceived flaws of the dinner setting. His voice becomes louder and more strained, particularly on the word \"perpendicular.\" His eyes widen and his facial muscles are tense, showing his growing frustration and obsessive focus on the lack of order.",
+    "summary_reasoning": "Louder strained voice, tense facial muscles."
+  },
+  {
+    "timestamp": 16.87,
+    "emotion": "contemptuous",
+    "detailed_reasoning": "The speaker's annoyance shifts to a more condescending and contemptuous emotion. He asks a rhetorical question about serving Chardonnay in the wrong glasses, with a sneering expression and a tone dripping with disdain. His eyes are narrowed, and he shakes his head slightly, showing his utter contempt for his date's perceived lack of taste.",
+    "summary_reasoning": "Sneering expression, condescending tone."
+  },
+  {
+    "timestamp": 27.942,
+    "emotion": "agitated",
+    "detailed_reasoning": "As he describes his date starting to eat, the speaker's demeanor becomes highly agitated. His narration speeds up, and his eyes are wide with a look of alarm or shock. The description of her plunging her fork into the sirloin is delivered with a sense of urgency and horror, indicating his internal agitation at this perceived violation of etiquette.",
+    "summary_reasoning": "Rapid speech, wide eyes, urgent tone."
+  },
+  {
+    "timestamp": 36.672,
+    "emotion": "menacing",
+    "detailed_reasoning": "The speaker's emotion shifts from agitation to a more controlled, menacing state. He describes his physical actions of pulling her hand and looking into her eyes. His voice drops to a lower, more deliberate pitch, and his facial expression becomes fixed and intense. This controlled demeanor, combined with the intimidating actions he's describing, creates a menacing atmosphere.",
+    "summary_reasoning": "Lowered voice pitch, intense fixed expression."
+  },
+  {
+    "timestamp": 43.025,
+    "emotion": "furious",
+    "detailed_reasoning": "The menacing control breaks into pure fury. As he delivers the line \"your fork is in the wrong fucking hand,\" his voice is a harsh, guttural whisper, filled with rage. His eyes are wide, his brow is heavily furrowed, and his entire face is contorted with anger. The use of profanity and the aggressive delivery mark the peak of his rage.",
+    "summary_reasoning": "Harsh whisper, enraged facial expression, profanity."
+  },
+  {
+    "timestamp": 51.381,
+    "emotion": "incredulous",
+    "detailed_reasoning": "After recounting his outburst, the speaker's emotion shifts to incredulity as he relays his date's reaction. When he repeats her words, \"me, a psychopath,\" his tone is mocking and disbelieving. His eyebrows are raised and his mouth is slightly open, expressing his shock and disdain that she would label him that way, completely missing what he perceives as the point.",
+    "summary_reasoning": "Mocking tone, raised eyebrows, disbelieving expression."
+  },
+  {
+    "timestamp": 58.776,
+    "emotion": "disdainful",
+    "detailed_reasoning": "Concluding the story, the speaker's expression settles into one of disdain. He emphasizes that this was his \"first and last\" Tinder date with a sense of finality and superiority. His face shows a slight sneer, and his tone is dismissive, conveying his ultimate contempt for the entire experience and the person involved.",
+    "summary_reasoning": "Dismissive tone, sneering expression, finality."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 2.154,
+    "emotion": "confused",
+    "detailed_reasoning": "The speaker begins by describing her lack of understanding about her condition. Her voice is steady but questioning, and her facial expression is serious and slightly furrowed, indicating a state of confusion and concern about distinguishing between her depression and the side effects of her medication.",
+    "summary_reasoning": "Questioning tone, serious expression."
+  },
+  {
+    "timestamp": 8.844,
+    "emotion": "distressed",
+    "detailed_reasoning": "The speaker's voice takes on a more pained and slightly higher-pitched tone as she describes her experience as \"intensely disturbing.\" Her eyes widen slightly, and there's a tension in her face that wasn't present before, conveying a sense of distress and inner turmoil.",
+    "summary_reasoning": "Pained tone, facial tension."
+  },
+  {
+    "timestamp": 13.531,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker's tone shifts as she reminisces about her past self-perception. Her voice becomes slightly softer and more introspective, and she looks away for a moment as if recalling memories. She describes herself as a \"healthy person,\" which contrasts with her current state, indicating a moment of reflection on her former identity.",
+    "summary_reasoning": "Softer tone, distant gaze."
+  },
+  {
+    "timestamp": 19.34,
+    "emotion": "confident",
+    "detailed_reasoning": "Continuing to describe her past self, the speaker's tone becomes stronger and more assertive. She lists a series of rebellious identities like \"underground cartoonist,\" \"rebel,\" and \"outlaw.\" Her posture is upright, and her delivery is firm, projecting an image of her past confidence and self-assurance.",
+    "summary_reasoning": "Strong tone, assertive delivery."
+  },
+  {
+    "timestamp": 31.202,
+    "emotion": "helpless",
+    "detailed_reasoning": "There is a significant shift in emotion here. The speaker's confident tone disappears, replaced by one of vulnerability and confusion. Her voice drops, her shoulders seem to slump slightly, and her words \"I had no idea how to take care of myself\" are delivered with a sense of defeat, conveying deep feelings of helplessness.",
+    "summary_reasoning": "Vulnerable tone, defeated posture."
+  },
+  {
+    "timestamp": 36.391,
+    "emotion": "ashamed",
+    "detailed_reasoning": "The speaker's emotion intensifies to a state of self-loathing. Her voice cracks slightly on the word \"shit,\" and she looks down. Her facial expression is pained, and her body language is closed off. The repetition of feeling \"like shit\" and then \"was shit\" shows a profound sense of shame and worthlessness.",
+    "summary_reasoning": "Cracking voice, downward gaze, pained expression."
+  },
+  {
+    "timestamp": 41.019,
+    "emotion": "hopeless",
+    "detailed_reasoning": "The speaker's voice is low and heavy as she describes being in a \"muddy hole.\" Her expression is one of deep sadness, with her eyes conveying a sense of emptiness. The metaphor itself, combined with her somber delivery, creates a powerful feeling of being trapped and without hope of escape.",
+    "summary_reasoning": "Low voice, sad expression, trapped metaphor."
+  },
+  {
+    "timestamp": 52.319,
+    "emotion": "resigned",
+    "detailed_reasoning": "The speaker's energy is very low here. She describes the feeling that \"nothing will ever change.\" Her voice is flat and monotonous, her gaze is downcast, and her posture is still. This combination of cues points to a state of resignation, accepting her painful reality as permanent.",
+    "summary_reasoning": "Flat tone, downcast gaze, low energy."
+  },
+  {
+    "timestamp": 57.308,
+    "emotion": "yearning",
+    "detailed_reasoning": "In the final sentence, there is a subtle shift. While the overall mood is still somber, the phrase \"borrowed hope where I could\" introduces a glimmer of effort. Her voice lifts slightly on the last word, and her expression softens, suggesting a desperate yearning for relief or a small act of self-preservation amidst the despair.",
+    "summary_reasoning": "Slightly lifted tone, softened expression."
+  }
+]

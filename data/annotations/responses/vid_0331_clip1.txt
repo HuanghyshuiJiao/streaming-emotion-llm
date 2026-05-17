@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1.373,
+    "emotion": "confused",
+    "detailed_reasoning": "The user begins with a direct question, delivered with a tone of disbelief and hurt. His facial expression, particularly his furrowed brow and pained look, indicates confusion and emotional distress about a situation he doesn't understand.",
+    "summary_reasoning": "Questioning tone, hurt facial expression."
+  },
+  {
+    "timestamp": 6.379,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker's tone becomes softer and more reflective. He looks slightly down, and his words express a sense of lost connection and disappointment. The slow pace and melancholic delivery clearly point to sadness.",
+    "summary_reasoning": "Soft tone, downward gaze, slow pace."
+  },
+  {
+    "timestamp": 18.475,
+    "emotion": "disappointed",
+    "detailed_reasoning": "There's a shift from reminiscing sadly to a more cynical and resigned rationalization. He suggests her actions might be a pattern, which minimizes their specialness. This realization is accompanied by a brief closing of the eyes, showing his disappointment.",
+    "summary_reasoning": "Cynical words, resigned tone, closed eyes."
+  },
+  {
+    "timestamp": 22.42,
+    "emotion": "dejected",
+    "detailed_reasoning": "The self-blame becomes explicit as he calls himself an 'idiot.' His voice is low and completely lacking in energy, conveying a strong sense of dejection and worthlessness. He sees himself as the sole person at fault.",
+    "summary_reasoning": "Self-deprecating words, low and defeated tone."
+  },
+  {
+    "timestamp": 30.71,
+    "emotion": "frustrated",
+    "detailed_reasoning": "After blaming himself for misinterpreting friendliness, he asks a rhetorical question, 'Why do I do this to myself?'. The tone shifts from pure defeat to self-directed frustration, showing annoyance with his own recurring patterns of behavior.",
+    "summary_reasoning": "Rhetorical question, frustrated tone."
+  },
+  {
+    "timestamp": 32.992,
+    "emotion": "insecure",
+    "detailed_reasoning": "Following his frustration, he immediately belittles himself by stating she is 'way out of my league.' This is a clear expression of low self-esteem and insecurity, reinforcing his feelings of inadequacy.",
+    "summary_reasoning": "Self-belittling words, insecure tone."
+  },
+  {
+    "timestamp": 40.88,
+    "emotion": "longing",
+    "detailed_reasoning": "His focus shifts from his own perceived failings to wondering what it's like to be desired. His tone becomes wistful and his gaze drifts away as if imagining a different life, which expresses a deep sense of longing for affection.",
+    "summary_reasoning": "Wistful tone, distant gaze, speculative words."
+  },
+  {
+    "timestamp": 52.951,
+    "emotion": "introspective",
+    "detailed_reasoning": "The speaker shifts back to self-analysis, questioning his own nature. The line 'Maybe I love too easily' is delivered in a soft, questioning, and introspective tone, as he tries to find a reason within himself for his repeated heartbreak.",
+    "summary_reasoning": "Self-analyzing words, soft and questioning tone."
+  },
+  {
+    "timestamp": 56.835,
+    "emotion": "heartbroken",
+    "detailed_reasoning": "He concludes his monologue by directly stating that his heart is always being broken. His delivery is filled with finality and deep sadness. His facial expression is one of pure pain and resignation, summarizing his overall feeling of being heartbroken.",
+    "summary_reasoning": "Words of finality, pained expression, sad tone."
+  }
+]

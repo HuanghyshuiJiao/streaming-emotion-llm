@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 12.0,
+    "emotion": "intense",
+    "detailed_reasoning": "The speaker is reciting lines from what sounds like a classical play. His facial expression is serious and focused, with furrowed brows and tense muscles around his mouth. His vocal delivery is deep, dramatic, and deliberate, conveying a sense of gravity and intensity appropriate for a theatrical performance of a serious monologue.",
+    "summary_reasoning": "Serious face, deep dramatic voice, theatrical text."
+  },
+  {
+    "timestamp": 13.708,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker breaks from his performance, and his entire demeanor shifts. His facial expression softens, the tension leaves his face, and his vocal tone becomes much lighter, higher-pitched, and conversational. This transition from a dramatic monologue to personal storytelling indicates a shift to a more relaxed and calm emotional state.",
+    "summary_reasoning": "Softened face, lighter conversational tone."
+  },
+  {
+    "timestamp": 17.493,
+    "emotion": "engaged",
+    "detailed_reasoning": "As he begins to tell his story, his expression becomes more animated. He is clearly invested in the narrative he is recounting, using slight head gestures and focused eyes to draw the listener in. His tone is active and engaging, showing that he is reliving the memory as he speaks.",
+    "summary_reasoning": "Animated expression, focused eyes, engaging tone."
+  },
+  {
+    "timestamp": 22.119,
+    "emotion": "triumphant",
+    "detailed_reasoning": "Describing the moment he captured the audience's attention, his voice drops to a hushed, intense whisper, full of awe. His eyes widen as he recalls the scene, conveying the powerful feeling of control and success. This combination of vocal intensity and a facial expression of remembered awe points to a feeling of triumph.",
+    "summary_reasoning": "Hushed intense voice, wide eyes."
+  },
+  {
+    "timestamp": 24.922,
+    "emotion": "confident",
+    "detailed_reasoning": "The speaker's emotion builds from triumph to pure confidence. He says the words \"I have them right where I want them\" with a deliberate pace and a small, self-assured smirk. His expression is one of complete satisfaction and control, reflecting the peak of his power in the memory.",
+    "summary_reasoning": "Confident words, self-assured smirk, satisfied expression."
+  },
+  {
+    "timestamp": 29.707,
+    "emotion": "euphoric",
+    "detailed_reasoning": "This is the emotional peak of his story. As he says, \"I'm Hamlet,\" he closes his eyes, and his face takes on a look of pure bliss. His voice becomes soft and emotional, filled with a sense of profound fulfillment. This indicates a moment of remembered euphoria, where he felt completely one with his performance.",
+    "summary_reasoning": "Blissful expression, soft emotional voice, eyes closed."
+  },
+  {
+    "timestamp": 33.837,
+    "emotion": "disappointed",
+    "detailed_reasoning": "The euphoria is abruptly cut short. His blissful expression vanishes, replaced by a grimace and a slight head shake. His voice becomes flat and deflated as he describes being \"right back in hell again.\" This sudden and dramatic shift in both visual and vocal cues clearly communicates a sharp feeling of disappointment.",
+    "summary_reasoning": "Facial expression drops, deflated tone, negative words."
+  },
+  {
+    "timestamp": 39.071,
+    "emotion": "nostalgic",
+    "detailed_reasoning": "After describing the crash back to reality, his tone softens again as he reflects on the positive memory. He leans in and says, \"that moment, man, I had it,\" with a wistful and appreciative tone. His expression is earnest, showing a deep fondness for that fleeting moment of perfection, which is characteristic of nostalgia.",
+    "summary_reasoning": "Wistful tone, earnest expression, reflective words."
+  },
+  {
+    "timestamp": 47.672,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker concludes his story by comically lamenting the vast number of lines he still had to perform. His expression shifts to a wry smile, and his tone becomes lighthearted. He is laughing at the memory and his own past predicament. The final, sighed \"Damn it\" is clearly delivered in jest, indicating amusement at his own expense.",
+    "summary_reasoning": "Wry smile, lighthearted tone, joking."
+  }
+]

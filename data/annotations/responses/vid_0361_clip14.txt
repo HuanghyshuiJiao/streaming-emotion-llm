@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1.477,
+    "emotion": "joyful",
+    "detailed_reasoning": "The speaker begins with his arms outstretched and a broad smile on his face. His initial words, \"Why should I not thank you?\" are delivered in a warm, upwardly inflected tone, suggesting a feeling of genuine happiness and gratitude towards the audience.",
+    "summary_reasoning": "Smiling, open posture, warm tone."
+  },
+  {
+    "timestamp": 8.147,
+    "emotion": "amused",
+    "detailed_reasoning": "After starting to say \"join your hands,\" he immediately corrects himself with \"Not join your hands.\" His tone becomes lighter, and there's a hint of a smile and a slight chuckle in his voice, indicating he finds his own slip-up amusing and is sharing a lighthearted moment with the audience.",
+    "summary_reasoning": "Self-correction, light tone, chuckle."
+  },
+  {
+    "timestamp": 12.373,
+    "emotion": "sincere",
+    "detailed_reasoning": "The speaker's tone shifts to become more gentle and earnest. He says, \"please be grateful for what you have.\" His facial expression is serious and his delivery is slower, conveying a sincere and heartfelt message to the audience.",
+    "summary_reasoning": "Gentle tone, serious expression, slow pace."
+  },
+  {
+    "timestamp": 21.587,
+    "emotion": "earnest",
+    "detailed_reasoning": "He repeats the phrase \"be grateful for what you have\" and follows it with a rhetorical question. His tone is more insistent and his gaze is direct, emphasizing the importance of his message. The use of \"because\" and the following question adds a layer of earnest persuasion.",
+    "summary_reasoning": "Repetition, insistent tone, direct gaze."
+  },
+  {
+    "timestamp": 33.611,
+    "emotion": "content",
+    "detailed_reasoning": "The speaker's voice softens as he describes the feeling of being thankful. He places his hand over his heart and says it \"feels a little warm here.\" His facial expression is gentle and introspective, suggesting a state of peaceful contentment.",
+    "summary_reasoning": "Soft voice, hand on heart, gentle expression."
+  },
+  {
+    "timestamp": 41.243,
+    "emotion": "happy",
+    "detailed_reasoning": "Continuing on the theme of gratitude, his expression brightens into a smile, and his tone becomes more positive and uplifting. He affirms, \"You have started to be grateful,\" sharing the positive outcome of this feeling, which reflects his own happiness.",
+    "summary_reasoning": "Bright expression, smile, positive tone."
+  },
+  {
+    "timestamp": 47.192,
+    "emotion": "conflicted",
+    "detailed_reasoning": "The mood shifts abruptly. The speaker says, \"But I am very grateful. Even then... I am jealous.\" The word \"but\" signals a turn. His smile fades, his tone becomes more serious and confessional, creating a sense of inner conflict between his gratitude and his newly revealed jealousy.",
+    "summary_reasoning": "Contrasting words, fading smile, serious tone."
+  },
+  {
+    "timestamp": 50.569,
+    "emotion": "envious",
+    "detailed_reasoning": "He explicitly states, \"I still feel envious from each and everybody sitting out here.\" His tone is direct and confessional, and his body language is slightly turned, as if sharing a difficult truth. He is openly expressing the emotion of envy.",
+    "summary_reasoning": "Explicit words, confessional tone."
+  },
+  {
+    "timestamp": 57.364,
+    "emotion": "longing",
+    "detailed_reasoning": "He explains the reason for his envy: the audience's ability to clap for things they appreciate. His voice carries a tone of wistfulness and longing. He looks out at the audience, and his final words, \"you guys can clap for it,\" are delivered with a mix of admiration and a sense of what he is missing.",
+    "summary_reasoning": "Wistful tone, specific words, outward gaze."
+  }
+]

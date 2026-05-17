@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 6.408,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his talk with a steady and measured tone. His facial expression is neutral and his body language is relaxed as he introduces the concepts of safe space creation and emotional fluency. He is setting an informative and calm atmosphere for his presentation.",
+    "summary_reasoning": "Steady tone, neutral expression, relaxed posture."
+  },
+  {
+    "timestamp": 16.854,
+    "emotion": "storytelling",
+    "detailed_reasoning": "The speaker's tone shifts slightly as he introduces a personal anecdote about a boy named Noah and his mother. His voice becomes a bit more engaging and less purely informational, adopting a narrative quality. His hands are clasped, and his expression is focused on telling this story.",
+    "summary_reasoning": "Engaging tone, narrative quality, focused expression."
+  },
+  {
+    "timestamp": 25.481,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker transitions from the personal story back to a more didactic mode. He explicitly states he will define the terms 'safe space' and 'emotional fluency.' His tone becomes very clear and deliberate, aimed at educating the audience. His body language is open and his expression is serious and focused.",
+    "summary_reasoning": "Didactic tone, clear enunciation, serious expression."
+  },
+  {
+    "timestamp": 44.85,
+    "emotion": "calm",
+    "detailed_reasoning": "After providing the definitions, the speaker pauses. His expression remains neutral and his posture is composed. The definitions are presented as factual information, and his delivery is calm and authoritative without being overly emotional. The screen also displays the definitions, reinforcing the informative nature of this segment.",
+    "summary_reasoning": "Neutral expression, composed posture, factual tone."
+  },
+  {
+    "timestamp": 51.292,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker shifts the timeline to his own past, saying, 'It was now 2008.' His tone becomes more personal and softer. He speaks about getting through high school, and his facial expression turns more introspective, with a slight look of reminiscence and seriousness, suggesting he is reflecting on a challenging period.",
+    "summary_reasoning": "Personal tone, introspective expression, serious look."
+  }
+]

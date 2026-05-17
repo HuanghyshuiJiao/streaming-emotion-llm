@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 5.236,
+    "emotion": "melodramatic",
+    "detailed_reasoning": "The speaker begins with a weary, drawn-out tone, complaining that it's too late to sleep. He then makes the hyperbolic statement \"I wish I was dead.\" His facial expression is wide-eyed and pained, but the overall delivery feels performative and theatrical, setting a humorously melodramatic tone rather than conveying genuine distress.",
+    "summary_reasoning": "Performative tone, wide eyes, hyperbolic words."
+  },
+  {
+    "timestamp": 8.52,
+    "emotion": "engaged",
+    "detailed_reasoning": "The conjunction \"but\" signals a complete shift in the narrative and his emotional state. His tone immediately becomes more animated, higher-pitched, and faster. His facial expression changes from feigned despair to a more alert and interested look, with a slight smile, indicating he is now launching into the main, engaging part of his story.",
+    "summary_reasoning": "Animated tone, smiling, narrative pivot."
+  },
+  {
+    "timestamp": 16.227,
+    "emotion": "amused",
+    "detailed_reasoning": "As he describes the bizarre alcoholic concoction of \"tequila and centipod essence,\" his smile widens and his eyes sparkle with mirth. His vocal tone is energetic and filled with relish, particularly on the line \"it really gets you going.\" He is clearly amused by the absurdity of the story he is telling.",
+    "summary_reasoning": "Energetic voice, wide smile, absurd content."
+  },
+  {
+    "timestamp": 22.814,
+    "emotion": "playful",
+    "detailed_reasoning": "He uses the colloquial and childish word \"potty\" to describe the Indians' behavior, which enhances the humor. His delivery is very light and laughing, and his facial expression is broad and silly. This combination of silly language and a gleeful demeanor makes the tone decidedly playful.",
+    "summary_reasoning": "Laughing tone, wide grin, silly words."
+  },
+  {
+    "timestamp": 28.674,
+    "emotion": "mirthful",
+    "detailed_reasoning": "The speaker completely breaks character and is overcome with genuine laughter at his own joke (\"they go potty\"). He says \"I really didn't mean that\" while still laughing heartily, unable to maintain his composure. This is a moment of pure, spontaneous mirth.",
+    "summary_reasoning": "Uncontrollable laughter, breaking character."
+  },
+  {
+    "timestamp": 35.55,
+    "emotion": "comedic",
+    "detailed_reasoning": "He has regained his composure and is now in a classic joke-telling mode. He builds suspense by listing a series of dangerous things—\"red hot coals,\" \"upturned knives,\" \"broken glass\"—with a straight face, only to deliver the absurd punchline about them wearing \"big hobnail boots.\" His timing and the structure of the sentence are purely for comedic effect.",
+    "summary_reasoning": "Comedic timing, setup-punchline structure, amused expression."
+  },
+  {
+    "timestamp": 43.838,
+    "emotion": "reflective",
+    "detailed_reasoning": "The word \"Actually\" signals another tonal shift. His voice becomes more conversational and serious, as if he's offering a genuine piece of trivia to correct his joke. His smile fades, and he adopts a more thoughtful expression, momentarily moving from comedian to commentator.",
+    "summary_reasoning": "Serious tone, thoughtful expression, \"Actually...\" transition."
+  },
+  {
+    "timestamp": 52.152,
+    "emotion": "whimsical",
+    "detailed_reasoning": "He takes the supposedly factual premise about the year 1933 and builds another absurd scenario. His tone becomes performative and imaginative again, describing a bizarre interaction where one would simply go up to someone and say \"boots\" or \"cobblers.\" The humor is gentle and whimsical, based on a nonsensical premise.",
+    "summary_reasoning": "Performative tone, imaginative scenario, nonsensical conclusion."
+  }
+]

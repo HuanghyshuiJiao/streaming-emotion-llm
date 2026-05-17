@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 7.603,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "The speaker's tone is overly enthusiastic and his facial expression is slightly exaggerated as he says \"That's fucking great.\" This, combined with the context of a performance, suggests a sarcastic or mocking tone rather than genuine appreciation.",
+    "summary_reasoning": "Exaggerated tone, facial expression, performance context."
+  },
+  {
+    "timestamp": 11.83,
+    "emotion": "proud",
+    "detailed_reasoning": "The speaker's tone shifts from sarcastic to serious and declarative. He sits up straighter and gestures emphatically while talking about what the nation was \"built on.\" This change in posture, tone, and the patriotic content of his words indicate a strong sense of pride.",
+    "summary_reasoning": "Serious tone, upright posture, emphatic gestures, patriotic words."
+  },
+  {
+    "timestamp": 20.003,
+    "emotion": "angry",
+    "detailed_reasoning": "The speaker's voice becomes louder and more aggressive as he describes the island being \"raped and pillaged.\" His body language becomes more tense, and he uses forceful gestures. The violent imagery in his words, combined with the aggressive delivery, clearly signals a shift to anger.",
+    "summary_reasoning": "Louder aggressive voice, tense body language, violent words."
+  },
+  {
+    "timestamp": 30.087,
+    "emotion": "passionate",
+    "detailed_reasoning": "While still angry, the emotion evolves to a more passionate and mournful state as he talks about men laying down their lives. His voice cracks slightly, and his expression conveys a sense of solemn sacrifice. The passion is for the sacrifices made, tinged with the anger of his previous statement.",
+    "summary_reasoning": "Mournful tone, solemn expression, words of sacrifice."
+  },
+  {
+    "timestamp": 33.974,
+    "emotion": "frustrated",
+    "detailed_reasoning": "The speaker's tone becomes incredulous and frustrated as he asks, \"And for what?\" He leans forward, his face contorted in a mix of confusion and annoyance, questioning the purpose of the sacrifices he just described. This marks a shift from passionate remembrance to frustrated questioning.",
+    "summary_reasoning": "Incredulous tone, frustrated facial expression, questioning words."
+  },
+  {
+    "timestamp": 40.365,
+    "emotion": "defiant",
+    "detailed_reasoning": "His frustration turns into defiance. He physically acts out planting a flag, his movements are sharp and aggressive, and his voice is a loud, almost shouted declaration: \"This is England.\" The repetition of the phrase emphasizes a strong, defiant pride in his national identity.",
+    "summary_reasoning": "Aggressive gestures, loud declarative voice, repeated defiant phrase."
+  },
+  {
+    "timestamp": 52.627,
+    "emotion": "exasperated",
+    "detailed_reasoning": "After the peak of defiance, his energy shifts to exasperation. He throws his hands up and asks again, \"For what?\" His tone is weary and his body language is one of defeat, as if the previous display of defiance was futile. This shows a collapse from defiance into exasperation.",
+    "summary_reasoning": "Weary tone, defeated gesture, questioning words."
+  },
+  {
+    "timestamp": 55.232,
+    "emotion": "disgusted",
+    "detailed_reasoning": "His final lines are delivered with a tone of complete disgust and cynical resignation. He describes opening the \"floodgates\" and letting everyone in, with a dismissive wave of his hand and a sneer on his face, indicating his profound disapproval and disgust with the situation.",
+    "summary_reasoning": "Disgusted tone, dismissive gesture, sneering expression, cynical words."
+  }
+]

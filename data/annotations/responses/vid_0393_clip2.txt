@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 4.223,
+    "emotion": "impressed",
+    "detailed_reasoning": "The speaker begins by telling a story about a world record. His tone is serious and his posture is composed. The content, describing someone setting the \"world record for the longest plank in history,\" combined with his deliberate and slightly dramatic vocal delivery, suggests he is impressed by this feat and is setting the stage for an extraordinary story.",
+    "summary_reasoning": "Serious tone, dramatic content."
+  },
+  {
+    "timestamp": 14.062,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker transitions to a personal anecdote, placing his hand over his heart as he says, \"I met George eight years ago.\" This gesture, combined with a softer, more personal tone, indicates a shift from storytelling to a sincere, personal reflection on a past memory.",
+    "summary_reasoning": "Hand on heart, softer tone."
+  },
+  {
+    "timestamp": 24.661,
+    "emotion": "admiring",
+    "detailed_reasoning": "The speaker's tone becomes more intense and emphatic as he describes George as the \"definition of mental toughness.\" His hands form loose fists, and his facial expression is focused and serious, conveying a strong sense of admiration and respect for the person he's describing.",
+    "summary_reasoning": "Intense tone, focused expression, hand gesture."
+  },
+  {
+    "timestamp": 31.733,
+    "emotion": "empathetic",
+    "detailed_reasoning": "After describing George's intense focus, the speaker's tone softens and slows down as he says, \"He was hurting.\" This change in vocal quality, moving from admiration for strength to acknowledging pain, suggests he is feeling and conveying empathy for the struggle George was enduring.",
+    "summary_reasoning": "Softer tone, slower pace."
+  },
+  {
+    "timestamp": 37.683,
+    "emotion": "admiring",
+    "detailed_reasoning": "Following the empathetic moment, the speaker's voice becomes firm and resolute on the phrase \"But he didn't stop.\" This sharp tonal shift back to emphasizing George's perseverance highlights his deep admiration for his resilience in the face of pain.",
+    "summary_reasoning": "Firm tone, resolute delivery."
+  },
+  {
+    "timestamp": 42.438,
+    "emotion": "curious",
+    "detailed_reasoning": "The speaker shifts the narrative to a direct interaction. He recounts asking, \"George, how do you do it?\" His tone becomes inquisitive, and his open-handed gestures mimic the act of asking a question, conveying the genuine curiosity he felt in that moment.",
+    "summary_reasoning": "Inquisitive tone, questioning gesture."
+  },
+  {
+    "timestamp": 47.994,
+    "emotion": "impressed",
+    "detailed_reasoning": "The speaker delivers the punchline of his story. After stating George's answer surprised him, he reveals the answer: \"The plank is 90% mental.\" He points to his head for emphasis, and his tone is conclusive and slightly awestruck, conveying how impressed he was by this simple yet profound insight.",
+    "summary_reasoning": "Pointing gesture, conclusive tone."
+  }
+]

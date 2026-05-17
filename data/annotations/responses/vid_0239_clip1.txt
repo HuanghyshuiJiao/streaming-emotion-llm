@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 3.18,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker's video begins with a close-up on his face. His eyes are visibly watery and red-rimmed, and his facial expression is heavy and downcast. His vocal tone is low, slow, and somber as he introduces the topic of the 'curse of being an INFJ.' The combination of his physical appearance and vocal delivery clearly indicates a state of sadness.",
+    "summary_reasoning": "Watery eyes, low tone, sad topic."
+  },
+  {
+    "timestamp": 5.647,
+    "emotion": "resigned",
+    "detailed_reasoning": "After acknowledging that he has been crying, the speaker says, 'but I'm okay.' However, his tone remains flat and lacks any genuine conviction or positive inflection. His facial expression does not change. This creates a disconnect between his words and his delivery, suggesting a sense of resignation or emotional exhaustion rather than genuine reassurance.",
+    "summary_reasoning": "Words say 'okay,' tone is flat and sad."
+  },
+  {
+    "timestamp": 17.552,
+    "emotion": "weary",
+    "detailed_reasoning": "The speaker begins listing the personality tests he has taken. His speech pattern is monotonous and slow, and his energy level is very low. His eyes are heavy-lidded, and he blinks slowly. The act of listing these tests, combined with his drained demeanor, conveys a deep sense of weariness, as if recounting this history is a heavy burden.",
+    "summary_reasoning": "Monotonous tone, low energy, slow blinking."
+  },
+  {
+    "timestamp": 35.499,
+    "emotion": "dejected",
+    "detailed_reasoning": "While continuing to list the tests, he emphasizes taking the 'official test' and having a 'paid account.' There's a subtle shift in his tone that suggests he's trying to prove the validity of his personality type, which is the source of his pain. His expression remains heavy and sad. This focus on validation, coupled with the ongoing sadness, points to a feeling of dejection, as if all these efforts have only confirmed his 'curse'.",
+    "summary_reasoning": "Emphasis on 'official' test, sad expression, low tone."
+  },
+  {
+    "timestamp": 45.796,
+    "emotion": "overwhelmed",
+    "detailed_reasoning": "The speaker begins to list several more tests in rapid succession. The pace of his speech quickens, but his tone remains flat and low. This rapid, almost breathless listing creates a sense of being overwhelmed by the sheer number of times he has sought this information. His facial expression remains unchanged, reinforcing that this is a heavy, not an exciting, recollection.",
+    "summary_reasoning": "Rapid, monotonous listing of tests, flat tone."
+  },
+  {
+    "timestamp": 53.427,
+    "emotion": "exhausted",
+    "detailed_reasoning": "In his final statement, the speaker emphasizes that he has taken these tests 'several times over the course of the last seven years.' His voice is extremely low in energy, and his eyes are nearly closed. The pace slows down again, and the statement is delivered with a profound sense of finality and fatigue. This culmination of his efforts over seven years is presented not with pride, but with a deep sense of emotional and mental exhaustion.",
+    "summary_reasoning": "Very low energy, slow pace, eyes nearly closed."
+  }
+]

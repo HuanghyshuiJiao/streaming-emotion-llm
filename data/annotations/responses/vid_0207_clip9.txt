@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "angry",
+    "detailed_reasoning": "The video starts with the speaker's face contorted in an expression of intense anger. His brow is furrowed, his eyes are wide and staring, and his teeth are clenched as he speaks. His vocal tone is harsh, loud, and strained, emphasizing the word \"Revenge.\" This combination of facial cues and vocal delivery clearly indicates a state of anger and a desire for vengeance.",
+    "summary_reasoning": "Furious expression, harsh voice, aggressive words."
+  },
+  {
+    "timestamp": 11.154,
+    "emotion": "threatening",
+    "detailed_reasoning": "The speaker's emotion shifts from pure anger to a more calculated, threatening tone. While the underlying anger is still present in his tense facial muscles, his vocal delivery becomes slower and more deliberate as he issues the warning, \"I shall be with you on your wedding night.\" The direct, unwavering eye contact and the specific nature of the threat make the emotion distinctly menacing and threatening.",
+    "summary_reasoning": "Deliberate tone, direct threat, unwavering gaze."
+  },
+  {
+    "timestamp": 28.347,
+    "emotion": "sad",
+    "detailed_reasoning": "After a long pause where the speaker turns away and then back, his entire demeanor changes. The anger and menace are gone, replaced by a profound sadness. His face softens into an expression of sorrow, his eyes are downcast, and his voice becomes soft and mournful as he says, \"That is also my victim.\" This marks a dramatic shift in his emotional state.",
+    "summary_reasoning": "Sorrowful expression, downcast eyes, mournful voice."
+  },
+  {
+    "timestamp": 38.339,
+    "emotion": "remorseful",
+    "detailed_reasoning": "The sadness deepens into clear remorse and self-blame. The speaker's voice is filled with anguish and regret as he asks, \"what does it avail that I now ask thee to pardon me?\" His pained facial expression, with his eyes squeezed shut at times, and the self-condemning words show that he is consumed by guilt over his actions.",
+    "summary_reasoning": "Anguished tone, pained expression, self-blaming words."
+  },
+  {
+    "timestamp": 53.258,
+    "emotion": "despairing",
+    "detailed_reasoning": "The speaker's remorse evolves into a state of despair. He looks up with a look of utter hopelessness, reflecting on his lost potential for love and sympathy. His voice is soft and breaking, conveying a deep sense of loss and the tragic nature of his existence. The final words, \"susceptible of love and sympathy,\" are delivered with a finality that suggests all hope is gone.",
+    "summary_reasoning": "Hopeless expression, breaking voice, lamenting words."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 2.473,
+    "emotion": "anxious",
+    "detailed_reasoning": "The speaker begins her explanation with a tense and slightly pleading tone. Her facial expression is worried, and her hands are clasped in front of her, suggesting she is in a stressful situation and trying to defend herself.",
+    "summary_reasoning": "Tense tone, worried expression, clasped hands."
+  },
+  {
+    "timestamp": 5.697,
+    "emotion": "agitated",
+    "detailed_reasoning": "The emotion escalates from anxiety to agitation. Her voice becomes louder, higher-pitched, and more frantic as she repeats the word \"higher.\" Her facial expression conveys exasperation and stress, emphasizing the pressure she felt.",
+    "summary_reasoning": "Louder, higher-pitched voice, frantic repetition, exasperated expression."
+  },
+  {
+    "timestamp": 9.721,
+    "emotion": "dramatic",
+    "detailed_reasoning": "Her tone shifts into one of dramatic, rapid-fire storytelling. Her eyes are wide as she recounts the chaotic series of events, using exaggerated language to describe her shoe flying off and bouncing around the room.",
+    "summary_reasoning": "Dramatic tone, wide eyes, rapid speech."
+  },
+  {
+    "timestamp": 14.425,
+    "emotion": "infatuated",
+    "detailed_reasoning": "The speaker momentarily breaks from her frantic story. Her voice suddenly becomes soft, high-pitched, and dreamy as she comments on the Johnny Depp poster. Her facial expression softens into a fond, admiring look, creating a comedic interruption.",
+    "summary_reasoning": "Soft, high-pitched voice, dreamy tone, fond expression."
+  },
+  {
+    "timestamp": 15.746,
+    "emotion": "exaggerating",
+    "detailed_reasoning": "She snaps back into her wild narrative, but the tone is now clearly one of absurd exaggeration. She uses the sound effect \"poof\" and describes giving a gnome \"rhinoplasty,\" delivering these ridiculous lines with a straight face to emphasize the unbelievable nature of her excuse.",
+    "summary_reasoning": "Absurd story, deadpan delivery, fantastical language."
+  },
+  {
+    "timestamp": 27.818,
+    "emotion": "accusatory",
+    "detailed_reasoning": "After pausing, her entire demeanor shifts. She makes direct eye contact with the person off-screen, and her tone becomes pointed and condescending. She is no longer just telling a story but is now actively shifting the blame for the incident.",
+    "summary_reasoning": "Pointed tone, condescending expression, direct eye contact."
+  },
+  {
+    "timestamp": 31.028,
+    "emotion": "manipulative",
+    "detailed_reasoning": "The accusatory tone evolves into a more manipulative and whiny plea. She uses a passive-aggressive tone to suggest that if she had been provided with a \"good window\" instead of an \"evil one,\" none of this would have happened, attempting to guilt the other person.",
+    "summary_reasoning": "Whiny, passive-aggressive tone, shifting blame."
+  },
+  {
+    "timestamp": 36.446,
+    "emotion": "shocked",
+    "detailed_reasoning": "In reaction to something said off-camera, her expression transforms into one of utter disbelief. Her eyes widen, her mouth opens slightly, and her voice is high and incredulous as she repeats the word \"Grounded?\"",
+    "summary_reasoning": "Wide eyes, open mouth, incredulous tone."
+  },
+  {
+    "timestamp": 37.931,
+    "emotion": "smug",
+    "detailed_reasoning": "The shock instantly vanishes and is replaced by a look of smug satisfaction. Her voice becomes low and confident, and she gives a slight, self-assured nod, indicating that she has successfully won the argument or avoided punishment.",
+    "summary_reasoning": "Confident low tone, satisfied expression, self-assured nod."
+  }
+]

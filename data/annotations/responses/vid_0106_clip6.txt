@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 5.888,
+    "emotion": "thoughtful",
+    "detailed_reasoning": "The speaker is looking down, seemingly at a script, and his tone is contemplative as he mentions wanting to change what he's written. His speech is slow and deliberate, and his facial expression is neutral, indicating he is deep in thought about his work.",
+    "summary_reasoning": "Contemplative tone, neutral expression, slow speech."
+  },
+  {
+    "timestamp": 21.158,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker's tone shifts to a more lighthearted and self-aware one as he describes his tendency as a writer to always want to change his work. He has a slight smile and a more relaxed posture, suggesting he finds his own creative process amusing.",
+    "summary_reasoning": "Lighthearted tone, slight smile, relaxed posture."
+  },
+  {
+    "timestamp": 36.213,
+    "emotion": "open",
+    "detailed_reasoning": "The speaker's tone becomes very inviting and encouraging as he directly asks his audience for suggestions. His facial expression is open and friendly, and his use of the word \"please\" reinforces his sincerity and openness to feedback.",
+    "summary_reasoning": "Inviting tone, open facial expression, direct address."
+  },
+  {
+    "timestamp": 48.333,
+    "emotion": "dramatic",
+    "detailed_reasoning": "The speaker's voice completely changes as he begins to perform a monologue. His tone becomes more theatrical and his pitch rises. His facial expression becomes more intense and animated, signaling a shift from his natural speaking voice to a character performance.",
+    "summary_reasoning": "Theatrical tone, higher pitch, intense facial expression."
+  },
+  {
+    "timestamp": 53.614,
+    "emotion": "pleading",
+    "detailed_reasoning": "Continuing the monologue, the speaker's tone shifts to a pleading one. His voice is filled with a sense of urgency and desperation as he says, \"Promise me you won't chop off one of their hands again.\" His eyes are wide, and his expression is serious, conveying the character's desperation.",
+    "summary_reasoning": "Pleading tone, urgent voice, serious expression."
+  },
+  {
+    "timestamp": 57.309,
+    "emotion": "disgusted",
+    "detailed_reasoning": "At the end of the monologue, the speaker's tone changes to one of disgust. His voice takes on a negative inflection, and he shakes his head slightly as he says, \"That was so gross.\" His facial expression mirrors this feeling, with his nose slightly wrinkled, clearly showing his character's revulsion.",
+    "summary_reasoning": "Disgusted tone, head shake, wrinkled nose."
+  }
+]

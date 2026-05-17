@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 5.037,
+    "emotion": "bitter",
+    "detailed_reasoning": "The speaker's tone is low and conspiratorial, with a slight sneer in his voice as he describes himself as not being made for 'sportive tricks.' The partial lighting on his face highlights a contemptuous expression, suggesting a deep-seated bitterness about his physical appearance and social abilities.",
+    "summary_reasoning": "Low tone, sneer, contemptuous expression."
+  },
+  {
+    "timestamp": 11.445,
+    "emotion": "angry",
+    "detailed_reasoning": "The speaker's voice becomes significantly louder and more forceful on the words 'rudely stamped.' His facial expression contorts with anger, and the pace of his speech quickens, indicating a rising frustration and rage at his perceived deformities.",
+    "summary_reasoning": "Louder voice, forceful tone, angry expression."
+  },
+  {
+    "timestamp": 27.537,
+    "emotion": "pained",
+    "detailed_reasoning": "After a long, silent pause where the character seems to be struggling internally, his face is shown again, this time with a look of anguish and pain. His eyes are wide and his mouth is slightly open, as if in silent agony. This conveys a deep sense of suffering.",
+    "summary_reasoning": "Anguished expression, wide eyes, internal struggle."
+  },
+  {
+    "timestamp": 31.825,
+    "emotion": "resentful",
+    "detailed_reasoning": "The speaker's voice drops to a lower, more resentful tone as he says 'Cheated a feature.' The way he enunciates the words suggests a feeling of being wronged and a deep-seated grudge against his fate or nature itself. His expression is one of simmering anger.",
+    "summary_reasoning": "Low resentful tone, simmering anger expression."
+  },
+  {
+    "timestamp": 41.024,
+    "emotion": "self-loathing",
+    "detailed_reasoning": "The word 'Deformed' is spoken with a raw, guttural quality that drips with self-hatred. The speaker's face is contorted in a grimace of disgust, and his body language is tense, indicating a profound sense of self-loathing and despair.",
+    "summary_reasoning": "Raw tone, guttural voice, grimace of disgust."
+  },
+  {
+    "timestamp": 46.274,
+    "emotion": "furious",
+    "detailed_reasoning": "The speaker's voice crescendos into a furious shout on the words 'breathing world.' His eyes are wide with rage, and his face is a mask of fury. The intensity of his delivery and the raw emotion in his voice indicate that he has reached a boiling point of anger and frustration.",
+    "summary_reasoning": "Furious shout, enraged expression, intense delivery."
+  },
+  {
+    "timestamp": 52.546,
+    "emotion": "despairing",
+    "detailed_reasoning": "After the peak of his fury, the speaker's voice breaks slightly on the word 'bark.' His expression shifts from pure rage to one of utter despair and humiliation as he describes how even dogs react to his appearance. This conveys a sense of hopelessness and deep-seated pain.",
+    "summary_reasoning": "Voice break, despairing expression, sense of humiliation."
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 7.359,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker is recounting a series of medical tests she underwent. Her tone of voice is measured and serious, and her facial expression is neutral but focused. The content is about a health concern (clotting disorders, autoimmune diseases), which sets a serious mood from the start. She maintains steady eye contact, suggesting she is carefully explaining the situation.",
+    "summary_reasoning": "Serious topic, measured tone, neutral expression."
+  },
+  {
+    "timestamp": 16.188,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker shifts to explaining a specific medical test called a \"bubble echo.\" Her tone becomes more descriptive and educational. Her facial expression remains serious, but her focus is clearly on conveying information to the viewer about the procedure. She uses simple, direct language to describe a complex test, indicating an intention to inform.",
+    "summary_reasoning": "Descriptive tone, explaining a procedure."
+  },
+  {
+    "timestamp": 24.577,
+    "emotion": "engaged",
+    "detailed_reasoning": "While explaining how the bubbles are made in the saline, her tone becomes slightly more animated. She uses hand gestures to mimic the action of shaking the saline, and a slight smile appears as she says she doesn't want to say \"shake it up.\" This shows she is actively engaged in making a complex topic understandable and relatable.",
+    "summary_reasoning": "Animated tone, hand gestures, slight smile."
+  },
+  {
+    "timestamp": 33.581,
+    "emotion": "focused",
+    "detailed_reasoning": "The speaker transitions to the purpose of the test, which is to look for something called a PFO. Her tone becomes very direct and focused again, similar to the beginning. Her eyebrows are slightly raised, and she makes direct eye contact, emphasizing the importance of this specific finding. The slight animation from the previous moment fades as she gets to the main point.",
+    "summary_reasoning": "Direct tone, raised eyebrows, focused eye contact."
+  },
+  {
+    "timestamp": 45.806,
+    "emotion": "calm",
+    "detailed_reasoning": "She explains the nature of a PFO, a condition one is born with that usually closes on its own but sometimes doesn't. Her tone is calm and matter-of-fact. Her gestures are open and illustrative, not anxious. She is simply laying out the medical facts as they were explained to her, maintaining a composed demeanor.",
+    "summary_reasoning": "Calm tone, matter-of-fact delivery, illustrative gestures."
+  },
+  {
+    "timestamp": 52.921,
+    "emotion": "descriptive",
+    "detailed_reasoning": "The speaker uses her hands to visually demonstrate the location of the PFO between the heart chambers. Her speech is slow and deliberate, and her expression is purely focused on illustrating the concept for the viewer. This is a moment of pure description, where the emotion is secondary to the act of explaining.",
+    "summary_reasoning": "Visual hand gestures, deliberate speech, illustrative expression."
+  },
+  {
+    "timestamp": 58.573,
+    "emotion": "resigned",
+    "detailed_reasoning": "She concludes the clip by stating that the initial test in the emergency room showed she did not have a PFO. Her tone is flat, and her facial expression is neutral to slightly downcast. There is no sense of relief in her voice. This, combined with the context of her telling this story, suggests that this negative result was not the final answer, leading to a feeling of resignation or foreshadowing that the journey wasn't over.",
+    "summary_reasoning": "Flat tone, neutral expression, lack of relief."
+  }
+]

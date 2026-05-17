@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 3.058,
+    "emotion": "determined",
+    "detailed_reasoning": "The speaker is reflecting on a past moment of decision. His tone is firm and resolute, and his words, such as needing to 'get my butt into gear' and 'finish it once and for all,' convey a strong sense of determination. His facial expression is serious and focused, looking directly into the camera, which reinforces this feeling.",
+    "summary_reasoning": "Firm tone, resolute words, serious expression."
+  },
+  {
+    "timestamp": 7.69,
+    "emotion": "informative",
+    "detailed_reasoning": "The speaker transitions from his internal motivation to explaining his method. He asks a rhetorical question and answers it himself ('Well with that low carb diet of course'). His tone becomes explanatory and matter-of-fact, shifting the emotion from personal resolve to sharing information with the audience.",
+    "summary_reasoning": "Explanatory tone, matter-of-fact delivery."
+  },
+  {
+    "timestamp": 14.445,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker is recalling a book he read. His tone is calm and his speech is paced evenly. He is providing background information for his story, and his neutral facial expression and steady vocal delivery indicate a calm, narrative state.",
+    "summary_reasoning": "Steady tone, even pace, neutral expression."
+  },
+  {
+    "timestamp": 28.709,
+    "emotion": "pleased",
+    "detailed_reasoning": "The speaker states that the diet 'ended up being pretty effective for me.' The words themselves are a positive evaluation of his experience. His tone, while still calm, carries a clear note of satisfaction, indicating he was happy with the results of the diet.",
+    "summary_reasoning": "Positive words, satisfied tone."
+  },
+  {
+    "timestamp": 38.101,
+    "emotion": "proud",
+    "detailed_reasoning": "The speaker is detailing his significant weight loss, going from 260 to 200 pounds. He states the facts of his achievement with a clear and direct tone. While his facial expression is subtle, there is an underlying sense of accomplishment and pride in his voice as he recounts this successful period.",
+    "summary_reasoning": "Direct tone, recounting achievement."
+  },
+  {
+    "timestamp": 48.2,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker discusses his past belief that reaching his goal weight would make him 'thin,' 'happy,' and 'satisfied.' His tone becomes more introspective and his pace slows slightly. He is looking back on his previous mindset and hopes, which gives his delivery a reflective quality.",
+    "summary_reasoning": "Introspective tone, slower pace, discussing past beliefs."
+  },
+  {
+    "timestamp": 55.134,
+    "emotion": "disappointed",
+    "detailed_reasoning": "The speaker's emotion shifts dramatically. He starts with 'Well,' signaling a turn in the story. His tone becomes somber, and his words reveal a negative outcome: 'I got to that 200 and I still felt like that overweight guy.' This statement expresses a clear sense of disappointment that his external achievement did not lead to the internal satisfaction he had hoped for.",
+    "summary_reasoning": "Somber tone, negative outcome revealed in words."
+  }
+]

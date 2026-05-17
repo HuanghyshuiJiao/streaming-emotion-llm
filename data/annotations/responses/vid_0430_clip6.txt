@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 7.263,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his speech by delivering a series of statistics in a measured and formal tone. His facial expression is neutral and he is focused on his notes, indicating a calm and composed demeanor as he sets the stage for his address.",
+    "summary_reasoning": "Formal tone, neutral expression, reading facts."
+  },
+  {
+    "timestamp": 20.825,
+    "emotion": "humorous",
+    "detailed_reasoning": "The speaker uses the slightly stereotypical and colorful phrase \"swaggering jocks.\" This choice of words introduces a lighthearted and humorous element into the otherwise factual list. While his delivery remains deadpan, the content itself is intended to be amusing.",
+    "summary_reasoning": "Comedic word choice, deadpan delivery."
+  },
+  {
+    "timestamp": 26.815,
+    "emotion": "humorous",
+    "detailed_reasoning": "The speaker delivers the line about \"2,185,967 pairs of Uggs.\" The combination of a ridiculously specific, large number with a trendy, everyday item is an absurd and clear attempt at humor. His continued straight-faced, serious delivery enhances the dry, comedic effect.",
+    "summary_reasoning": "Absurd statistic, deadpan delivery."
+  },
+  {
+    "timestamp": 32.12,
+    "emotion": "contemplative",
+    "detailed_reasoning": "The speaker shifts from humorous statistics to a rhetorical question, \"But why limit ourselves to high school after all you're leaving it?\" His tone becomes more direct and thoughtful, prompting the audience to reflect. He begins to look up from his notes, engaging the audience more personally and signaling a change to a more serious, philosophical theme.",
+    "summary_reasoning": "Rhetorical question, serious tone, direct eye contact."
+  },
+  {
+    "timestamp": 41.54,
+    "emotion": "persuasive",
+    "detailed_reasoning": "The speaker presents the idea that being \"one in a million\" still means there are nearly 7,000 people \"just like you.\" His tone becomes more emphatic and his pace is deliberate as he builds his argument. He is actively trying to persuade the audience to reconsider their perspective on their own uniqueness, using logic and scale to make his point.",
+    "summary_reasoning": "Emphatic tone, logical argument."
+  },
+  {
+    "timestamp": 53.224,
+    "emotion": "solemn",
+    "detailed_reasoning": "He explicitly directs the audience to \"consider for a moment the bigger picture.\" His pace slows down significantly and his vocal tone becomes more grave and serious. This transition clearly indicates that he is moving to the central, most profound part of his message, creating a solemn atmosphere.",
+    "summary_reasoning": "Slow pace, serious tone, explicit instruction."
+  },
+  {
+    "timestamp": 59.417,
+    "emotion": "solemn",
+    "detailed_reasoning": "The speech culminates in a series of humbling statements about the Earth's place in the cosmos: \"Your planet... is not the center of its solar system. Your solar system is not the center of its galaxy.\" His tone is definitive and matter-of-fact, delivering these vast concepts with a gravity that reinforces the solemn, humbling message about perspective and the graduates' place in the universe.",
+    "summary_reasoning": "Definitive tone, humbling words, serious expression."
+  }
+]

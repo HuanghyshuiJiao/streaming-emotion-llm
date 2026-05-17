@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 3.276,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins with a monotone vocal delivery and a neutral, slightly somber facial expression. The pacing is slow and deliberate. The content of his speech is a straightforward recounting of his actions (saving money), which doesn't carry a strong emotional charge. The overall presentation is one of calmness and reflection.",
+    "summary_reasoning": "Monotone voice, neutral expression, slow pace."
+  },
+  {
+    "timestamp": 15.076,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker's demeanor remains unchanged. He continues to speak in a low, even tone with a neutral facial expression. Although he describes an impulsive purchase (a snake), there is no excitement or animation in his voice or face. He is simply narrating a past event in a detached manner.",
+    "summary_reasoning": "Consistent low tone, neutral face, detached narration."
+  },
+  {
+    "timestamp": 25.65,
+    "emotion": "content",
+    "detailed_reasoning": "There is a subtle but noticeable shift in emotion as he describes holding the snake. His voice softens slightly when he says the words \"warm and soft.\" While his facial expression doesn't change dramatically, the memory seems to evoke a sense of gentle pleasure or contentment, contrasting with his initial fear.",
+    "summary_reasoning": "Softer vocal tone, pleasant memory."
+  },
+  {
+    "timestamp": 30.297,
+    "emotion": "intrigued",
+    "detailed_reasoning": "The speaker uses a vivid and unusual simile (\"like an electric shoelace\"), which suggests a deep fascination with the snake's texture and movement. While his outward expression remains subdued, the specific and imaginative nature of the description implies a moment of genuine intrigue and sensory engagement with the memory.",
+    "summary_reasoning": "Vivid simile, imaginative description."
+  },
+  {
+    "timestamp": 34.484,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker's tone shifts to a more melancholic and resigned quality as he says, \"I couldn't keep it.\" His gaze is downcast, and his facial expression becomes more serious. The realization marks a negative turning point in the story, and his delivery reflects this sense of loss and disappointment.",
+    "summary_reasoning": "Melancholic tone, downcast gaze, serious expression."
+  },
+  {
+    "timestamp": 44.56,
+    "emotion": "frustrated",
+    "detailed_reasoning": "When the speaker says, \"Stupid thing to buy,\" his tone becomes slightly harsher, indicating self-criticism and frustration with his past decision. The finality in his voice when he says, \"I had to get rid of it,\" reinforces this feeling of being trapped by his own impulsive action.",
+    "summary_reasoning": "Harsh tone, self-critical language."
+  },
+  {
+    "timestamp": 51.663,
+    "emotion": "agitated",
+    "detailed_reasoning": "As the speaker lists the increasingly violent ways he considered getting rid of the snake, his speech becomes slightly faster and more agitated. His eyes widen, and his expression grows more intense. The dark nature of the thoughts, combined with the shift in vocal pace, suggests a state of inner turmoil and distress.",
+    "summary_reasoning": "Faster pace, widened eyes, intense expression."
+  },
+  {
+    "timestamp": 56.553,
+    "emotion": "desperate",
+    "detailed_reasoning": "The speaker's voice crescendos in volume and his eyes become wider and more frantic as he suggests increasingly extreme methods of disposal (\"flush it down the toilet,\" \"toss it from a tower block\"). This escalation in vocal intensity and wild-eyed expression conveys a sense of growing desperation and mental anguish.",
+    "summary_reasoning": "Louder volume, frantic eyes, escalating intensity."
+  }
+]

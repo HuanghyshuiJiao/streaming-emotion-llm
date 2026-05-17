@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 5.5,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his presentation with a calm and measured tone. He adopts the persona of a teacher addressing a class, speaking slowly and clearly. The visuals are dark and mostly show a slide, so the inference is heavily based on his steady and controlled vocal delivery.",
+    "summary_reasoning": "Slow, steady vocal delivery."
+  },
+  {
+    "timestamp": 11.971,
+    "emotion": "informative",
+    "detailed_reasoning": "Continuing the teacher persona, the speaker asks and answers rhetorical questions about self-confidence. His tone is purely instructional and neutral, aimed at conveying information clearly. The pace is deliberate, indicating a focus on teaching the concept.",
+    "summary_reasoning": "Instructional tone, deliberate pace."
+  },
+  {
+    "timestamp": 27.765,
+    "emotion": "sincere",
+    "detailed_reasoning": "The speaker's tone shifts to become softer and more heartfelt as he delivers encouraging phrases like \"our imperfections make us perfect.\" This change suggests a move from a purely informative delivery to one that is more emotionally resonant and sincere.",
+    "summary_reasoning": "Softer, heartfelt tone."
+  },
+  {
+    "timestamp": 36.303,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker makes a lighthearted joke, saying a concept might be on the \"test of life.\" There is a clear playful intonation and a slight chuckle in his voice, indicating amusement. The slide on screen also reinforces this humor by displaying the text in an exaggerated way.",
+    "summary_reasoning": "Playful tone, light chuckle."
+  },
+  {
+    "timestamp": 40.108,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker breaks from his teacher persona and addresses the audience directly, acknowledging that his previous example was an oversimplification. His tone becomes more conversational and his facial expression, now visible in a closer shot, is neutral and thoughtful, suggesting a moment of reflection before making his main point.",
+    "summary_reasoning": "Conversational tone, thoughtful expression."
+  },
+  {
+    "timestamp": 43.633,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's tone becomes more serious and emphatic as he delivers the core message of his talk: \"When we remove humanity from lessons, we remove humanity from learning.\" His delivery is deliberate and firm, and his expression is focused, indicating the gravity of the point he is making.",
+    "summary_reasoning": "Emphatic tone, focused expression."
+  },
+  {
+    "timestamp": 57.255,
+    "emotion": "emphatic",
+    "detailed_reasoning": "To conclude his point, the speaker uses a strong, emphatic tone to warn against the dangers of mental conditioning. He powerfully illustrates his words by raising his hands to form a box around his head as he says \"in the box,\" making the delivery both vocally and visually impactful.",
+    "summary_reasoning": "Strong tone, illustrative gesture."
+  }
+]

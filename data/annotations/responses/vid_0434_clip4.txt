@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker begins by stating he has a 50% chance of inheriting a fatal disease like his mother. His tone is level and factual, his facial expression is somber and focused, and the gravity of the subject matter immediately establishes a serious and heavy atmosphere.",
+    "summary_reasoning": "Somber expression, level tone, serious topic."
+  },
+  {
+    "timestamp": 12.647,
+    "emotion": "pensive",
+    "detailed_reasoning": "The speaker's tone shifts from stating a fact to explaining his internal state of uncertainty. His delivery becomes more reflective as he talks about not knowing his fate because he hadn't been tested yet. The camera also cuts to the audience, prompting the viewer to reflect along with his words.",
+    "summary_reasoning": "Reflective tone, describing past uncertainty."
+  },
+  {
+    "timestamp": 22.18,
+    "emotion": "determined",
+    "detailed_reasoning": "After describing his passive state of uncertainty, the speaker's tone changes with the phrase \"I felt like I still needed to do something.\" A sense of resolve enters his voice, and he begins to use subtle hand gestures. This marks a shift from a feeling of helplessness to a proactive mindset.",
+    "summary_reasoning": "Resolved tone, shift to taking action."
+  },
+  {
+    "timestamp": 27.436,
+    "emotion": "purposeful",
+    "detailed_reasoning": "As he describes creating the 'Hoops for Huntingtons' charity event, the speaker's tone becomes more animated and his pace quickens slightly. He is talking about a positive, concrete action he took, which infuses his voice with a sense of purpose and pride.",
+    "summary_reasoning": "Animated tone, describing positive action."
+  },
+  {
+    "timestamp": 37.84,
+    "emotion": "reflective",
+    "detailed_reasoning": "The speaker's tone becomes more introspective as he analyzes his own past motivations for starting the charity. He describes it as a way of \"coping\" and \"keeping busy,\" and his pace slows, indicating a moment of self-analysis and reflection on his psychological state at the time.",
+    "summary_reasoning": "Introspective tone, slower pace, self-analysis."
+  },
+  {
+    "timestamp": 46.521,
+    "emotion": "worried",
+    "detailed_reasoning": "The word \"But\" signals a shift back to a more somber and anxious state of mind. His voice softens and his tone becomes heavy as he explains that he couldn't stop thinking about the potential impact on his future, conveying the inescapable weight of his situation.",
+    "summary_reasoning": "Somber tone, describes inescapable anxiety."
+  },
+  {
+    "timestamp": 55.241,
+    "emotion": "vulnerable",
+    "detailed_reasoning": "The speaker concludes by asking deeply personal and unresolved questions about his future, such as getting married and having children. His tone is soft and questioning, stripping away the previous determination and revealing a raw sense of vulnerability and uncertainty about his life's path.",
+    "summary_reasoning": "Soft, questioning tone, personal rhetorical questions."
+  }
+]

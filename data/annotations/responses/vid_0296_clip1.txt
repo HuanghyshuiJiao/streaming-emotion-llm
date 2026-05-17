@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 3.176,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker begins with a factual setup about the 100-day mark. His tone is light and conversational. The slight smile and relaxed posture suggest he is amused by the information he is about to share.",
+    "summary_reasoning": "Light tone, smile, relaxed posture."
+  },
+  {
+    "timestamp": 5.079,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "The speaker's tone shifts dramatically with the drawn-out, high-pitched \"ooh.\" This, combined with a wider, more playful smile and the colloquial phrase \"in the toilet,\" indicates a sarcastic delight in delivering negative news. He is clearly using humor to criticize.",
+    "summary_reasoning": "High-pitched \"ooh\", playful expression, sarcastic words."
+  },
+  {
+    "timestamp": 10.608,
+    "emotion": "gleeful",
+    "detailed_reasoning": "After stating the low approval rating, he emphasizes that it's the \"lowest\" in \"80 years.\" His tone becomes more emphatic and he gestures for effect. The underlying amusement in his expression turns into a more gleeful or triumphant look as he drives home the historic nature of the failure.",
+    "summary_reasoning": "Emphatic tone, hand gestures, triumphant expression."
+  },
+  {
+    "timestamp": 15.336,
+    "emotion": "humorous",
+    "detailed_reasoning": "The speaker delivers a clear punchline comparing the political situation to a bad marriage. His broad smile, comedic timing, and the audible laughter from the audience all confirm that the primary emotion being conveyed is humor.",
+    "summary_reasoning": "Punchline delivery, smiling, audience laughter."
+  },
+  {
+    "timestamp": 26.618,
+    "emotion": "ironic",
+    "detailed_reasoning": "Following the laughter, the speaker puts on a mock-innocent expression and raises his hands defensively while saying, \"I'm just giving you the facts.\" This pretense of objectivity, directly after a series of jokes, is deeply ironic and intended to be humorous.",
+    "summary_reasoning": "Mock-innocent expression, defensive posture, ironic words."
+  },
+  {
+    "timestamp": 27.780,
+    "emotion": "critical",
+    "detailed_reasoning": "The speaker's tone shifts from overtly comedic to a more reportorial, deadpan delivery as he begins listing negative economic statistics. While still in a comedic monologue, the emotion now is more focused on criticism, using facts to build his case.",
+    "summary_reasoning": "Reportorial tone, deadpan expression, listing negative facts."
+  },
+  {
+    "timestamp": 42.319,
+    "emotion": "sarcastic",
+    "detailed_reasoning": "After listing several serious economic problems, he delivers the punchline that this is a \"high price for getting back plastic straws.\" The shift back to a wry, smiling expression and a sarcastic tone highlights the absurdity of the situation from his perspective.",
+    "summary_reasoning": "Sarcastic tone, wry smile, absurd comparison."
+  },
+  {
+    "timestamp": 52.602,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's demeanor changes as he begins to explain the cause of the issues he's listed. He says, \"this is all because of the tariffs,\" with a more straightforward, serious tone and explanatory hand gestures, momentarily dropping the comedic performance to make a direct political point.",
+    "summary_reasoning": "Straightforward tone, explanatory gestures, direct statement."
+  },
+  {
+    "timestamp": 58.215,
+    "emotion": "confident",
+    "detailed_reasoning": "He concludes his point with the phrase \"we see it already now.\" His tone is final and certain, and his hand gestures suggest that the outcome is obvious and undeniable. This conveys a strong sense of confidence in his critical assessment.",
+    "summary_reasoning": "Final tone, certain expression, conclusive gesture."
+  }
+]

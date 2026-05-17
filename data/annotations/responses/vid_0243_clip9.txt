@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 7.741,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker is using an analogy to explain a concept. Her tone is measured, her speaking pace is steady, and her facial expression is neutral. She is calmly setting up the premise for her talk, using a well-known cultural reference to make her point clear.",
+    "summary_reasoning": "Measured tone, steady pace, neutral expression."
+  },
+  {
+    "timestamp": 13.663,
+    "emotion": "pained",
+    "detailed_reasoning": "The speaker's tone shifts from calm and explanatory to something more personal and serious. As she says the words \"physically hurts me,\" her voice becomes more firm and her facial expression tightens slightly, conveying the genuine pain associated with noise.",
+    "summary_reasoning": "Firm tone, tight expression, personal words."
+  },
+  {
+    "timestamp": 21.754,
+    "emotion": "overwhelmed",
+    "detailed_reasoning": "While listing the various sounds in a coffee shop, the speaker's pace quickens slightly. Her tone becomes more strained as she lists one sound after another, effectively conveying a sense of being bombarded and overwhelmed by sensory input. The camera is on the audience, but her voice carries the emotion.",
+    "summary_reasoning": "Quickened pace, strained tone, listing stressors."
+  },
+  {
+    "timestamp": 34.012,
+    "emotion": "frustrated",
+    "detailed_reasoning": "After listing numerous sounds, she concludes with \"I can even hear the air moving around the room.\" Her tone is emphatic and slightly exasperated, her eyes widen, and her head tilts, highlighting the extreme and relentless nature of her sensory experience, which suggests frustration.",
+    "summary_reasoning": "Emphatic tone, widened eyes, exasperation."
+  },
+  {
+    "timestamp": 39.42,
+    "emotion": "emphatic",
+    "detailed_reasoning": "The speaker powerfully restates her central analogy, \"that dial is all the way up to 11.\" Her voice rises in pitch and volume, and her facial expression is intense and serious. This conveys a strong, unwavering conviction about the intensity of her reality.",
+    "summary_reasoning": "Raised voice, intense expression, strong conviction."
+  },
+  {
+    "timestamp": 44.51,
+    "emotion": "pained",
+    "detailed_reasoning": "When describing how a sunny day can be \"blinding for me,\" her tone becomes very direct and serious. Her facial expression is strained, reflecting the physical discomfort and pain she is describing, similar to when she mentioned sound hurting her.",
+    "summary_reasoning": "Direct tone, strained expression, describing pain."
+  },
+  {
+    "timestamp": 47.845,
+    "emotion": "pained",
+    "detailed_reasoning": "As she says the word \"excruciating,\" the speaker's face visibly winces, her eyes close briefly, and her voice takes on a sharp, pained quality. This is a very clear, multimodal expression of the intense negative sensation she is describing.",
+    "summary_reasoning": "Wincing face, sharp tone, pained word."
+  },
+  {
+    "timestamp": 53.933,
+    "emotion": "somber",
+    "detailed_reasoning": "The speaker's tone shifts significantly in the final sentence. As she introduces the idea of the dial going into \"negative numbers,\" her voice becomes lower, slower, and more serious. This creates a somber and grave mood, hinting at a different kind of negative experience beyond overstimulation.",
+    "summary_reasoning": "Lower, slower voice, serious tone."
+  }
+]

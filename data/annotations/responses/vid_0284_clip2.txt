@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "serious",
+    "detailed_reasoning": "The video starts with the speaker's face in a close-up. Her facial expression is stern, with slightly furrowed brows and a fixed, intense gaze on the person she is addressing. Her tone of voice is low, deliberate, and firm as she delivers the opening line, which serves as a warning. This combination of visual and auditory cues establishes a serious and confrontational mood.",
+    "summary_reasoning": "Stern expression, intense gaze, low and firm tone."
+  },
+  {
+    "timestamp": 3.775,
+    "emotion": "threatening",
+    "detailed_reasoning": "The speaker's expression intensifies. A single tear wells up in her eye, indicating a deep, powerful emotion, but her voice remains controlled, low, and menacing. The words 'the cost is very high' are a clear threat, and the contrast between the tear (vulnerability) and the unwavering, cold delivery (control) makes the threat even more potent and unsettling.",
+    "summary_reasoning": "Intense expression, tear in eye, controlled menacing tone."
+  },
+  {
+    "timestamp": 12.926,
+    "emotion": "disgusted",
+    "detailed_reasoning": "Her facial expression shifts to one of clear disdain. Her lips tighten and she almost sneers as she says 'this banality, this falsity'. Her tone is filled with contempt for the other person's character, and her eyes narrow slightly, reinforcing the feeling of disgust and judgment.",
+    "summary_reasoning": "Sneering expression, contemptuous tone, narrowed eyes."
+  },
+  {
+    "timestamp": 19.433,
+    "emotion": "contemptuous",
+    "detailed_reasoning": "Continuing her verbal attack, her tone on the word 'devour' is sharp and biting. Her expression is a mix of anger and scorn. She is not just threatening him, but belittling him, suggesting he is weak and insignificant. The emotion has evolved from simple disgust to a more active, expressed contempt.",
+    "summary_reasoning": "Sharp tone, scornful expression, belittling words."
+  },
+  {
+    "timestamp": 26.862,
+    "emotion": "menacing",
+    "detailed_reasoning": "After a pause, her voice drops to a near-whisper as she says 'And you will disappear.' This sudden drop in volume, combined with her unblinking stare and the finality of her words, creates a chilling and highly menacing effect. The threat is now direct and personal.",
+    "summary_reasoning": "Whispering tone, unblinking stare, direct threat."
+  },
+  {
+    "timestamp": 32.33,
+    "emotion": "scornful",
+    "detailed_reasoning": "Her tone becomes derisive as she compares him to an 'unread cookie fortune.' There's a slight, bitter curl to her lips. She is dismissing his entire existence as meaningless, and the emotion is one of pure scorn and mockery. The tear on her cheek provides a stark contrast to the coldness of her words.",
+    "summary_reasoning": "Derisive tone, bitter expression, mocking words."
+  },
+  {
+    "timestamp": 46.676,
+    "emotion": "disappointed",
+    "detailed_reasoning": "After a long, tense pause, her demeanor shifts. The tear has now traced a path down her cheek. Her voice becomes softer, imbued with a sense of sorrow and genuine disappointment. The anger and scorn have subsided, replaced by a lament for what the other person could have been. Her gaze softens, reflecting this change in emotion.",
+    "summary_reasoning": "Sorrowful tone, soft gaze, fallen tear."
+  },
+  {
+    "timestamp": 58.958,
+    "emotion": "pitying",
+    "detailed_reasoning": "In her final line, 'No wonder you're here,' her expression is one of sad resignation. The tone is not angry, but filled with a conclusive pity. It's a final, dismissive judgment on the person's character, delivered not with malice, but with a sense of pathetic understanding. Her eyes look down slightly, as if the sight of him is pitiful.",
+    "summary_reasoning": "Resigned expression, pitiful tone, downward gaze."
+  }
+]

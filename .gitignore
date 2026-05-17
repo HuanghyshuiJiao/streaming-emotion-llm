@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# Environments
+.env
+.venv/
+env/
+venv/
+
+# Data and outputs
+data/raw/
+data/processed/
+data/*.tar
+data/*.zip
+outputs/
+checkpoints/
+runs/
+wandb/
+
+# Reports and local presentation drafts
+*.pptx
+*.ppt
+*.key
+
+# Model artifacts
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# IDE
+.vscode/*
+!.vscode/settings.json
+.idea/

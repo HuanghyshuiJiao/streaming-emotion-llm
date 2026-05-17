@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 5.298,
+    "emotion": "numb",
+    "detailed_reasoning": "The speaker is recounting a deeply traumatic event. However, her tone of voice is flat and matter-of-fact, lacking any emotional inflection. Her facial expression is neutral and her gaze is steady. This stark contrast between the horrific content of her words and her calm delivery suggests a state of emotional numbness or detachment from the experience.",
+    "summary_reasoning": "Flat tone, neutral expression, traumatic content."
+  },
+  {
+    "timestamp": 8.482,
+    "emotion": "confused",
+    "detailed_reasoning": "The speaker's eyebrows raise slightly and her eyes widen as she poses a rhetorical question about the pain she 'must have' felt. Her tone shifts from flat to questioning, as if she is trying to understand an emotional reaction that is expected of her but which she did not experience. This indicates confusion about her own response to the trauma.",
+    "summary_reasoning": "Raised eyebrows, wide eyes, questioning tone."
+  },
+  {
+    "timestamp": 18.516,
+    "emotion": "numb",
+    "detailed_reasoning": "Returning to her personal experience, the speaker's tone becomes flat again. She describes her own reaction—suggesting getting a Jamba Juice—with a slight, almost disconnected smile. This juxtaposition of a trivial activity with the gravity of the situation reinforces her earlier state of emotional detachment and numbness.",
+    "summary_reasoning": "Flat tone, disconnected smile, trivial anecdote."
+  },
+  {
+    "timestamp": 24.003,
+    "emotion": "desperate",
+    "detailed_reasoning": "A significant shift occurs. The speaker's voice begins to break, and her pace slows down. Her facial expression changes from neutral to one of intense longing and sadness. The words 'I would give everything' are filled with a desperate yearning, signaling a profound emotional change from numbness to deep, painful desire.",
+    "summary_reasoning": "Voice breaks, slow pace, sad expression, yearning tone."
+  },
+  {
+    "timestamp": 28.569,
+    "emotion": "anguished",
+    "detailed_reasoning": "The speaker's desperation peaks into anguish. Her eyes close tightly as she says the word 'pain,' and her face contorts as if she is physically hurting. Her voice is strained and filled with sorrow, conveying a deep sense of agony and the torment of being unable to feel.",
+    "summary_reasoning": "Eyes closed, pained facial expression, strained voice."
+  },
+  {
+    "timestamp": 32.806,
+    "emotion": "sorrowful",
+    "detailed_reasoning": "In the final two words, 'to hurt,' her voice softens into a whisper. Her facial expression is one of profound sadness and resignation. The intense anguish from the previous moment subsides into a deep, lingering sorrow, ending the clip on a note of quiet despair.",
+    "summary_reasoning": "Whispering voice, sad expression, resigned tone."
+  }
+]

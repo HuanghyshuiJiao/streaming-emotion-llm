@@ -1,0 +1,74 @@
+[
+  {
+    "timestamp": 1.673,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his performance with a steady and composed tone. His facial expression is neutral and his body language is relaxed, establishing a calm, narrative baseline as he introduces the characters.",
+    "summary_reasoning": "Steady tone, neutral expression, calm demeanor."
+  },
+  {
+    "timestamp": 5.639,
+    "emotion": "admiring",
+    "detailed_reasoning": "The speaker's tone shifts to one of admiration when describing his friend Kyle. He uses the phrase \"he had the juice\" with a slight smile and a more engaged, slightly faster-paced delivery, conveying a sense of respect for his friend's charisma.",
+    "summary_reasoning": "Smiling, faster pace, admiring words."
+  },
+  {
+    "timestamp": 11.688,
+    "emotion": "serious",
+    "detailed_reasoning": "The narrative takes a serious turn as the speaker mentions Kyle's girlfriend getting pregnant and the subsequent 'offer' from Brandon. The speaker's tone becomes more somber and his pace slows, signaling a shift to a more grave part of the story.",
+    "summary_reasoning": "Somber tone, slower pace, serious topic."
+  },
+  {
+    "timestamp": 14.973,
+    "emotion": "intense",
+    "detailed_reasoning": "The speaker reveals that the 'work' is selling narcotics. He delivers this line with increased speed and a harder edge to his voice. His eyes are wide and focused, creating a sense of intensity and danger that grips the audience.",
+    "summary_reasoning": "Fast pace, hard tone, intense gaze."
+  },
+  {
+    "timestamp": 18.719,
+    "emotion": "agitated",
+    "detailed_reasoning": "Describing the shooting, the speaker's voice becomes louder and more strained. His body language becomes more forceful and his facial expression is tense, conveying the shock and violence of the moment. The pace is rapid, reflecting the chaotic event.",
+    "summary_reasoning": "Loud, strained voice, tense expression, rapid pace."
+  },
+  {
+    "timestamp": 22.464,
+    "emotion": "anguished",
+    "detailed_reasoning": "The speaker quotes Kyle's last words, \"I had a daughter.\" His voice drops to a near-whisper, filled with emotion and pain. The pace slows dramatically, and his expression is one of deep sorrow, effectively conveying the character's anguish.",
+    "summary_reasoning": "Whispered voice, slow pace, sorrowful expression."
+  },
+  {
+    "timestamp": 28.399,
+    "emotion": "grim",
+    "detailed_reasoning": "The speaker describes Brandon's death in jail with a cold, matter-of-fact tone. There is a sense of finality and grim justice in his delivery. His expression is hard, reflecting the bleakness of the outcome.",
+    "summary_reasoning": "Cold tone, hard expression, grim topic."
+  },
+  {
+    "timestamp": 37.225,
+    "emotion": "sad",
+    "detailed_reasoning": "The speaker shifts focus to his own feelings of loss. His voice softens and slows, taking on a mournful quality. His shoulders slump slightly and his gaze drops, visually representing his sadness over losing two friends.",
+    "summary_reasoning": "Soft, slow voice, slumped posture, sad expression."
+  },
+  {
+    "timestamp": 41.715,
+    "emotion": "empathetic",
+    "detailed_reasoning": "The speaker explains Omar's deep connection to Kyle, having had dreams about him since childhood. His tone is full of empathy and understanding for Omar's pain, conveying a deep, shared sense of loss.",
+    "summary_reasoning": "Empathetic tone, discussing shared loss."
+  },
+  {
+    "timestamp": 48.863,
+    "emotion": "determined",
+    "detailed_reasoning": "The narrative shifts to Omar's decision to reveal his own secret. The speaker's voice becomes firmer and more resolute, with a forward-leaning posture that suggests determination and a turning point for the character.",
+    "summary_reasoning": "Firm, resolute voice, forward posture."
+  },
+  {
+    "timestamp": 51.874,
+    "emotion": "tender",
+    "detailed_reasoning": "When describing Omar's love for Drew, the speaker's voice softens significantly and his expression becomes gentle. He places a hand over his heart, a gesture that physically communicates the tenderness and sincerity of the emotion.",
+    "summary_reasoning": "Soft voice, gentle expression, hand on heart."
+  },
+  {
+    "timestamp": 55.789,
+    "emotion": "heartbroken",
+    "detailed_reasoning": "After building up Omar's loving confession, the speaker delivers the final line, \"but Drew ran away.\" His voice drops, and his arms fall to his sides in a gesture of defeat. His face shows a mixture of shock and pain, perfectly capturing the moment of heartbreak.",
+    "summary_reasoning": "Voice drops, defeated gesture, pained expression."
+  }
+]

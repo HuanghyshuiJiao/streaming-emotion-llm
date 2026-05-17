@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": 2.395,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker's tone is measured and narrative. Her facial expression is neutral and composed as she begins her story. She is setting the scene for her anecdote in a calm, presentational manner.",
+    "summary_reasoning": "Measured tone, neutral expression."
+  },
+  {
+    "timestamp": 16.097,
+    "emotion": "serious",
+    "detailed_reasoning": "The speaker's tone becomes more somber, and her pace slows slightly as she delivers the critical, self-reflective line, \"Their poverty was my single story of them.\" Her facial expression tightens, emphasizing the gravity of her realization about her own limited perspective.",
+    "summary_reasoning": "Somber tone, slower pace, serious expression."
+  },
+  {
+    "timestamp": 21.506,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker transitions to the next part of her story, about moving to the United States. Her voice returns to a neutral, narrative tone, and her expression is composed. She is calmly setting the stage for the next anecdote.",
+    "summary_reasoning": "Neutral tone, composed expression."
+  },
+  {
+    "timestamp": 28.648,
+    "emotion": "amused",
+    "detailed_reasoning": "Recounting her roommate's shock, the speaker's tone takes on a hint of irony. She raises her eyebrows slightly and the corners of her mouth turn up, suggesting she finds the memory of her roommate's naivete amusing.",
+    "summary_reasoning": "Ironic tone, raised eyebrows, slight smile."
+  },
+  {
+    "timestamp": 35.959,
+    "emotion": "informative",
+    "detailed_reasoning": "After the amusing anecdote, her tone shifts to become factual and direct. She states that Nigeria's official language is English with a clear, deliberate delivery and a more serious expression, as if correcting a common misconception for the audience.",
+    "summary_reasoning": "Factual tone, serious expression, clear delivery."
+  },
+  {
+    "timestamp": 42.328,
+    "emotion": "amused",
+    "detailed_reasoning": "The speaker recounts another humorous misunderstanding. She delivers the phrase \"my tribal music\" with a noticeable smile and a light, ironic tone. This amusement continues as she reveals the punchline, \"Mariah Carey,\" sharing the funny memory with the audience.",
+    "summary_reasoning": "Light tone, smiling, ironic content."
+  },
+  {
+    "timestamp": 52.283,
+    "emotion": "disbelieving",
+    "detailed_reasoning": "The speaker's tone shifts to one of astonishment as she shares the final assumption her roommate made. Her eyebrows raise and her eyes widen slightly, conveying a sense of incredulity that someone would assume she didn't know how to use a stove.",
+    "summary_reasoning": "Astonished tone, raised eyebrows, widened eyes."
+  },
+  {
+    "timestamp": 56.73,
+    "emotion": "pensive",
+    "detailed_reasoning": "The speaker's pace slows down significantly, and her tone becomes serious and deliberate. Her facial expression becomes thoughtful and focused as she prepares to deliver the main point derived from her anecdotes, signaling a shift to a more profound and pensive mood.",
+    "summary_reasoning": "Slow pace, serious tone, thoughtful expression."
+  }
+]

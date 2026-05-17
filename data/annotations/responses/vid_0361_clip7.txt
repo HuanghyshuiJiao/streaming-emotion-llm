@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": 1.855,
+    "emotion": "curious",
+    "detailed_reasoning": "The speaker begins with a rhetorical question, engaging the audience directly. His tone is light and inquisitive, and his open body language and hand gestures are used to draw the audience in, creating a sense of curiosity about the story he is about to tell.",
+    "summary_reasoning": "Rhetorical question, engaging tone, open body language."
+  },
+  {
+    "timestamp": 8.168,
+    "emotion": "sentimental",
+    "detailed_reasoning": "The speaker's tone softens significantly as he reveals the reason the day was special: his mother laughed a lot. His facial expression becomes tender, and he looks up and to the side, a common non-verbal cue for recalling a fond memory. The atmosphere shifts from inquisitive to personal and sentimental.",
+    "summary_reasoning": "Soft tone, tender expression, recalling memory."
+  },
+  {
+    "timestamp": 15.463,
+    "emotion": "sad",
+    "detailed_reasoning": "A stark contrast is introduced as the speaker mentions his mother usually cried. His tone becomes somber, his smile fades, and he looks down. His posture becomes more closed, with his hand on his chest, conveying the sadness associated with this memory.",
+    "summary_reasoning": "Somber tone, smile fades, downward gaze, closed posture."
+  },
+  {
+    "timestamp": 18.63,
+    "emotion": "reflective",
+    "detailed_reasoning": "After sharing the sad memory, the speaker's tone shifts to a more reflective and serious one as he explains why that day of laughter was so important. His expression is thoughtful, indicating he is processing the deep meaning of the event.",
+    "summary_reasoning": "Reflective tone, thoughtful expression."
+  },
+  {
+    "timestamp": 22.324,
+    "emotion": "empathetic",
+    "detailed_reasoning": "The speaker shifts perspective to his parents, acknowledging that the situation wasn't easy for them either. His tone becomes softer and more understanding, and his facial expression conveys a deep sense of empathy for their struggles.",
+    "summary_reasoning": "Soft, understanding tone, empathetic expression."
+  },
+  {
+    "timestamp": 29.512,
+    "emotion": "grateful",
+    "detailed_reasoning": "He talks about a parent's desire for their child to have a good life and upbringing. His voice is filled with warmth and appreciation for the sacrifices his parents made. His gestures are open, reflecting a feeling of heartfelt gratitude.",
+    "summary_reasoning": "Warm tone, appreciative voice, open gestures."
+  },
+  {
+    "timestamp": 37.981,
+    "emotion": "vulnerable",
+    "detailed_reasoning": "The speaker describes the immense patience his parents showed while teaching him. He then shares a personal example of his own slowness, making a direct comparison of his time versus others. His tone is earnest and slightly self-deprecating, creating a moment of vulnerability as he shares his personal struggles.",
+    "summary_reasoning": "Earnest tone, self-deprecating content, sharing personal struggle."
+  },
+  {
+    "timestamp": 43.908,
+    "emotion": "admiring",
+    "detailed_reasoning": "Continuing the example, the speaker's voice fills with admiration for his parents' patience. He emphasizes the time difference between him and others, highlighting the extraordinary effort his parents put in. The way he describes their patience shows deep respect and admiration.",
+    "summary_reasoning": "Admiring tone, highlighting parents' effort, respectful expression."
+  },
+  {
+    "timestamp": 53.46,
+    "emotion": "proud",
+    "detailed_reasoning": "The speaker concludes his story with a firm, confident statement: \"they've done a very good job.\" His tone is decisive, and a small, proud smile appears on his face. His direct eye contact with the audience reinforces this feeling of pride in his parents' efforts.",
+    "summary_reasoning": "Confident tone, proud smile, direct eye contact."
+  }
+]

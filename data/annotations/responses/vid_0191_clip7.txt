@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": 0.031,
+    "emotion": "calm",
+    "detailed_reasoning": "The speaker begins his presentation with a very calm and measured tone. He is telling a story, and his delivery is narrative and steady. His facial expression is neutral and his body language is relaxed, establishing a calm baseline for the start of his talk.",
+    "summary_reasoning": "Calm narrative tone, neutral expression, relaxed posture."
+  },
+  {
+    "timestamp": 6.439,
+    "emotion": "focused",
+    "detailed_reasoning": "The speaker deliberately pauses his speech and takes a slow, deep, and audible breath. This is a performative action to mirror the character in his story who is centering herself. His eyes are slightly closed, and his expression is serious and introspective, indicating a shift from calm narration to a state of deep focus and contemplation.",
+    "summary_reasoning": "Deliberate pause, deep breath, serious expression."
+  },
+  {
+    "timestamp": 17.494,
+    "emotion": "neutral",
+    "detailed_reasoning": "The speaker begins reciting the details of a scientific study. His vocal delivery shifts to become more monotonous and factual, losing the narrative cadence from before. His expression is neutral and his gaze is slightly down, as if he is recalling memorized information. This change indicates a shift to a purely informative and emotionally neutral state.",
+    "summary_reasoning": "Factual tone, monotonous delivery, neutral expression."
+  },
+  {
+    "timestamp": 29.613,
+    "emotion": "hopeful",
+    "detailed_reasoning": "After reciting the study's findings, the speaker's tone begins to lift slightly as he talks about \"positive, gratuitous thoughts.\" His delivery becomes less monotonous and more engaged, carrying a slightly more optimistic and hopeful quality. His hand gestures also become more prominent, adding emphasis to the positive potential of the idea.",
+    "summary_reasoning": "Lifting tone, more engaged delivery, optimistic content."
+  },
+  {
+    "timestamp": 42.106,
+    "emotion": "inspired",
+    "detailed_reasoning": "The speaker's facial expression becomes more animated as he says, \"She finds it interesting.\" His eyebrows raise, his eyes widen slightly, and his tone conveys a sense of wonder and realization. The pace of his speech picks up, and his gestures become more expansive, mirroring the character's feeling of inspiration at discovering a self-made coping mechanism.",
+    "summary_reasoning": "Animated expression, wondering tone, expansive gestures."
+  },
+  {
+    "timestamp": 51.391,
+    "emotion": "confident",
+    "detailed_reasoning": "In the final sentence of his story, the speaker's voice becomes firm and his delivery becomes more assertive. As he says the words \"newfound confidence\" and \"determined,\" his own posture appears more upright and his tone is resolute, projecting a feeling of confidence and concluding the anecdote on a strong, positive note.",
+    "summary_reasoning": "Firm voice, assertive tone, confident posture."
+  }
+]
