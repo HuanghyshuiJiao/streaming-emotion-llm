@@ -35,6 +35,12 @@ dev = [
   "pytest",
   "ruff"
 ]
+tracking = [
+  "wandb"
+]
+demo = [
+  "gradio"
+]
 
 [tool.setuptools.packages.find]
 where = ["src"]

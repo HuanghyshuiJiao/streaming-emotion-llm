@@ -26,6 +26,7 @@ def train(config: dict) -> None:
     model_config = config.get("model", {})
     data_config = config.get("data", {})
     training_config = config.get("training", {})
+    tracking_config = config.get("tracking", {})
 
     set_seed(int(experiment_config.get("seed", 42)))
 
@@ -85,8 +86,18 @@ def train(config: dict) -> None:
     )
 
     output_dir = Path(experiment_config.get("output_dir", "outputs/emotion_token_baseline"))
+    report_to = training_config.get("report_to", "none")
+    if report_to == "wandb" or (isinstance(report_to, list) and "wandb" in report_to):
+        if tracking_config.get("wandb_project"):
+            os.environ.setdefault("WANDB_PROJECT", str(tracking_config["wandb_project"]))
+        if tracking_config.get("wandb_entity"):
+            os.environ.setdefault("WANDB_ENTITY", str(tracking_config["wandb_entity"]))
+        if tracking_config.get("wandb_mode"):
+            os.environ.setdefault("WANDB_MODE", str(tracking_config["wandb_mode"]))
+
     args = TrainingArguments(
         output_dir=str(output_dir),
+        run_name=training_config.get("run_name", experiment_config.get("name")),
         per_device_train_batch_size=int(training_config.get("batch_size", 1)),
         per_device_eval_batch_size=1,
         gradient_accumulation_steps=int(training_config.get("gradient_accumulation_steps", 8)),
@@ -102,7 +113,7 @@ def train(config: dict) -> None:
         logging_first_step=True,
         gradient_checkpointing=bool(training_config.get("gradient_checkpointing", False)),
         remove_unused_columns=False,
-        report_to=training_config.get("report_to", "none"),
+        report_to=report_to,
     )
 
     trainer = Trainer(

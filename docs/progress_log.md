@@ -51,3 +51,32 @@
   - LM PPL: 1.2260
   - Interval accuracy: 100%
 - Interpretation: increasing LoRA rank substantially improves train-set fitting while validation only improves slightly, suggesting the current setup can memorize the feature subset but still generalizes weakly on fine-grained open-vocabulary emotion labels.
+
+### Autoregressive Evaluation, W&B, and Gradio
+
+- Added `scripts/evaluate_autoregressive.py` for true greedy autoregressive emotion generation.
+- This differs from `scripts/evaluate_generation.py`: the original script is teacher-forced streaming evaluation, while autoregressive evaluation prompts the model with `Assistant:` and does not feed the gold emotion tokens.
+- `r=32` autoregressive train evaluation:
+  - Emotion exact match: 52.98%
+  - Emotion token accuracy: 51.01%
+- `r=32` autoregressive validation evaluation:
+  - Emotion exact match: 6.42%
+  - Emotion token accuracy: 6.41%
+- Interpretation:
+  - The train-set overfitting signal remains visible under autoregressive generation.
+  - Validation exact match remains low, close to the teacher-forced exact match.
+  - Autoregressive token accuracy is not directly comparable to teacher-forced token accuracy, because teacher-forced token accuracy measures next-token prediction under the gold prefix, while autoregressive token accuracy compares the generated emotion string against the gold emotion string.
+- Added W&B tracking support through `training.report_to: wandb` and the `tracking` config block.
+- Added W&B experiment config:
+  - `configs/experiments/fullvideo_lora_r32_wandb_tinyllama_siglip_rtx4060_8gb.yaml`
+- Added a Gradio qualitative demo:
+  - `scripts/app_gradio.py`
+  - It loads a checkpoint, selects a manifest sample/event, displays the source video when available, and shows gold emotion, generated emotion, exact match, token accuracy, and the prompt.
+
+Useful commands:
+
+```powershell
+$env:PYTHONPATH='src'
+conda run -n video-mm python scripts\evaluate_autoregressive.py --config configs\experiments\fullvideo_lora_r32_tinyllama_siglip_rtx4060_8gb.yaml --checkpoint outputs\fullvideo_event_stream_tinyllama_siglip_lora_r32_rtx4060_8gb\checkpoint-462 --split val --limit 0
+conda run -n video-mm python scripts\app_gradio.py --config configs\experiments\fullvideo_lora_r32_tinyllama_siglip_rtx4060_8gb.yaml --checkpoint outputs\fullvideo_event_stream_tinyllama_siglip_lora_r32_rtx4060_8gb\checkpoint-462
+```
