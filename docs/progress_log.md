@@ -31,3 +31,23 @@
 - Add autoregressive evaluation in addition to teacher-forced streaming evaluation.
 - Integrate Weights & Biases for experiment tracking.
 - Build a Gradio demo for qualitative streaming emotion visualization.
+
+### LoRA Rank 32 Follow-up
+
+- Added higher-rank LoRA configs for `r=32` and `r=64`.
+- Ran the full-video event-stream `r=32, alpha=64` experiment on the feature subset.
+- Training completed at `checkpoint-462`.
+- Final logged training loss: 3.1399.
+- Full validation streaming evaluation:
+  - Emotion exact match: 6.73%
+  - Emotion token accuracy: 50.38%
+  - Time difference: 5.20 s
+  - Fluency: 0.1714
+  - LM PPL: 2.9187
+  - Interval accuracy: 100%
+- Full train streaming evaluation:
+  - Emotion exact match: 53.11%
+  - Emotion token accuracy: 75.93%
+  - LM PPL: 1.2260
+  - Interval accuracy: 100%
+- Interpretation: increasing LoRA rank substantially improves train-set fitting while validation only improves slightly, suggesting the current setup can memorize the feature subset but still generalizes weakly on fine-grained open-vocabulary emotion labels.
