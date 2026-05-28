@@ -3,6 +3,7 @@
 Ported and adapted from the original online VideoLLM framework.
 """
 
+import copy
 import torch
 from peft import LoraConfig, PeftModel, get_peft_model
 from transformers import AutoModelForCausalLM, Cache, GenerationConfig
@@ -211,6 +212,12 @@ class LiveMixin(AutoModelForCausalLM):
         return torch.stack([lm_ppl, frame_diff, fluency, lm_correctness])
 
     def trim_past_key_values(self, past_key_values, start, stop):
+        if isinstance(past_key_values, Cache):
+            if start != 0:
+                raise NotImplementedError("Cache trimming currently supports start=0 only.")
+            trimmed = copy.deepcopy(past_key_values)
+            trimmed.crop(stop)
+            return trimmed
         return [
             [past_keys[:, :, start:stop], past_values[:, :, start:stop]]
             for past_keys, past_values in past_key_values

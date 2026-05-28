@@ -118,3 +118,32 @@ def test_stream_prompt_has_no_user_and_generation_prompt_has_single_close_bracke
     assert "User:" not in eval_text
     assert "]]\nAssistant:" not in eval_text
     assert eval_text.endswith("]\nAssistant:")
+
+
+def test_full_video_stream_builds_one_sample_per_video_and_drops_trailing_frames(tmp_path):
+    feature_path = tmp_path / "features.pt"
+    features = torch.arange(100 * 10 * 2).reshape(100, 10, 2)
+    torch.save(features, feature_path)
+    manifest_path = tmp_path / "manifest.jsonl"
+    write_manifest(manifest_path, feature_path)
+
+    dataset = StreamingEmotionDataset(
+        manifest_path,
+        DummyTokenizer(),
+        max_num_frames=0,
+        fps=2.0,
+        context_mode="full_video_stream",
+        timestamp_alignment="ceil",
+        trailing_stream="drop",
+    )
+
+    text, frames, _, _, meta = dataset[0]
+
+    assert len(dataset) == 1
+    assert meta["event_index"] is None
+    assert meta["included_events"] == 2
+    assert meta["frame_stop"] == 61
+    assert torch.equal(frames, features[:61])
+    assert text.count("Assistant:") == 2
+    assert "\nAssistant: calm" in text
+    assert "\nAssistant: amused" in text

@@ -1,30 +1,43 @@
 # Python
 __pycache__/
 *.py[cod]
+*.log
 *.egg-info/
 .pytest_cache/
 .ruff_cache/
+.wandb/
 
 # Environments
 .env
+.env.*
+!.env.example
 .venv/
 env/
 venv/
 
+# Local credentials
+secrets/
+credentials/
+*.pem
+*.p12
+*.pfx
+*.key
+
 # Data and outputs
-data/raw/
-data/processed/
+data/
 data/*.tar
 data/*.zip
 outputs/
 checkpoints/
 runs/
 wandb/
+logs/
 
 # Reports and local presentation drafts
 *.pptx
 *.ppt
 *.key
+docs/handoff*.md
 
 # Model artifacts
 *.pt

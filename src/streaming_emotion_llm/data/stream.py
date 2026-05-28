@@ -1,5 +1,6 @@
 """Dataset utilities aligned with the original ``data/stream.py`` pattern."""
 
+import math
 from pathlib import Path
 
 import torch
@@ -124,6 +125,9 @@ class StreamingEmotionDataset(StreamMixIn):
         fps: float = 2.0,
         context_mode: str = "prefix_until_event",
         add_generation_prompt: bool = False,
+        timestamp_alignment: str = "ceil",
+        first_stream_learn: str = "skip_first",
+        trailing_stream: str = "drop",
     ):
         super().__init__(
             is_training=is_training,
@@ -135,7 +139,13 @@ class StreamingEmotionDataset(StreamMixIn):
         )
         self.manifest_path = Path(manifest_path)
         self.add_generation_prompt = add_generation_prompt
-        self.samples = self._expand_events(self.manifest_path)
+        self.timestamp_alignment = timestamp_alignment
+        self.first_stream_learn = first_stream_learn
+        self.trailing_stream = trailing_stream
+        if self.context_mode == "full_video_stream":
+            self.samples = list(iter_jsonl(self.manifest_path))
+        else:
+            self.samples = self._expand_events(self.manifest_path)
 
     @staticmethod
     def _expand_events(manifest_path: Path) -> list[dict]:
@@ -161,7 +171,29 @@ class StreamingEmotionDataset(StreamMixIn):
         return samples
 
     def _frame_stop_for_timestamp(self, timestamp: float, num_frames: int) -> int:
-        return min(max(int(float(timestamp) * self.fps) + 1, 1), num_frames)
+        position = float(timestamp) * self.fps
+        if self.timestamp_alignment == "ceil":
+            stop = int(math.ceil(position)) + 1
+        elif self.timestamp_alignment == "floor":
+            stop = int(math.floor(position))
+        elif self.timestamp_alignment == "floor_plus_one":
+            stop = int(position) + 1
+        else:
+            raise ValueError(f"Unsupported timestamp alignment: {self.timestamp_alignment}")
+        return min(max(stop, 1), num_frames)
+
+    def _stream_learn_value(self, num_frames: int, *, is_first_stream: bool):
+        if num_frames <= 0:
+            return False
+        if not is_first_stream:
+            return True
+        if self.first_stream_learn == "all":
+            return True
+        if self.first_stream_learn == "none":
+            return False
+        if self.first_stream_learn == "skip_first":
+            return False if num_frames == 1 else num_frames - 1
+        raise ValueError(f"Unsupported first stream learn policy: {self.first_stream_learn}")
 
     def _build_event_stream_window(self, sample: dict):
         all_frames = _load_feature_tensor(Path(sample["feature_path"]))
@@ -196,7 +228,7 @@ class StreamingEmotionDataset(StreamMixIn):
                     {
                         "role": "stream",
                         "num_frames": num_stream_frames,
-                        "learn": included_events > 0,
+                        "learn": True,
                     }
                 )
                 cursor = event_stop
@@ -210,11 +242,88 @@ class StreamingEmotionDataset(StreamMixIn):
         )
         return text, frames, learn_ranges, start, target_stop, included_events
 
+    def _build_full_video_stream(self, record: dict):
+        all_frames = _load_feature_tensor(Path(record["feature_path"]))
+        if self.max_num_frames and all_frames.shape[0] > self.max_num_frames:
+            frames = all_frames[: self.max_num_frames]
+        else:
+            frames = all_frames
+
+        raw_events = [
+            event
+            for event in record.get("events", [])
+            if str(event.get("emotion", "")).strip()
+        ]
+        raw_events = sorted(raw_events, key=lambda event: float(event.get("timestamp", 0.0)))
+        events_by_stop: dict[int, str] = {}
+        for event in raw_events:
+            event_stop = self._frame_stop_for_timestamp(event["timestamp"], frames.shape[0])
+            events_by_stop[event_stop] = str(event.get("emotion", "")).strip()
+        events = sorted(events_by_stop.items())
+
+        conversation = []
+        cursor = 0
+        included_events = 0
+        for event_stop, emotion in events:
+            if event_stop > cursor:
+                conversation.append(
+                    {
+                        "role": "stream",
+                        "num_frames": event_stop - cursor,
+                        "learn": self._stream_learn_value(
+                            event_stop - cursor,
+                            is_first_stream=len(conversation) == 0,
+                        ),
+                    }
+                )
+                cursor = event_stop
+            if not self.add_generation_prompt:
+                conversation.append(
+                    {
+                        "role": "assistant",
+                        "content": emotion,
+                        "learn": True,
+                    }
+                )
+            included_events += 1
+
+        if frames.shape[0] > cursor:
+            if self.trailing_stream == "drop":
+                frames = frames[:cursor]
+            elif self.trailing_stream in {"learn", "unlearn"}:
+                conversation.append(
+                    {
+                        "role": "stream",
+                        "num_frames": frames.shape[0] - cursor,
+                        "learn": self.trailing_stream == "learn",
+                    }
+                )
+            else:
+                raise ValueError(f"Unsupported trailing stream policy: {self.trailing_stream}")
+
+        text, learn_ranges = self.build_text_and_ranges_from_conversation(
+            conversation,
+            add_generation_prompt=self.add_generation_prompt,
+        )
+        return text, frames, learn_ranges, included_events
+
     def __len__(self) -> int:
         return len(self.samples)
 
     def __getitem__(self, index: int):
         sample = self.samples[index]
+        if self.context_mode == "full_video_stream":
+            text, frames, learn_ranges, included_events = self._build_full_video_stream(sample)
+            evaluation_kwargs = {
+                "sample_id": sample["sample_id"],
+                "event_index": None,
+                "timestamp": None,
+                "emotion": None,
+                "frame_start": 0,
+                "frame_stop": int(frames.shape[0]),
+                "included_events": included_events,
+            }
+            return text, frames, learn_ranges, index, evaluation_kwargs
         if self.context_mode == "event_stream_window":
             text, frames, learn_ranges, frame_start, frame_stop, included_events = (
                 self._build_event_stream_window(sample)

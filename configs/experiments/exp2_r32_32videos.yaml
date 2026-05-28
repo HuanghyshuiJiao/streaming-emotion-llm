@@ -1,0 +1,70 @@
+experiment:
+  name: exp2_r32_32videos
+  seed: 42
+  output_dir: outputs/event_stream_original_interval_r32_fullvideo_subset_overfit_tinyllama_siglip_rtx4060_8gb
+
+model:
+  llm:
+    name_or_path: TinyLlama/TinyLlama-1.1B-Chat-v1.0
+    use_lora: true
+    local_files_only: true
+    lora_r: 32
+    lora_alpha: 64
+    lora_modules: "model.*(q_proj|k_proj|v_proj|o_proj|gate_proj|up_proj|down_proj)|lm_head$"
+    attn_implementation: sdpa
+  vision_encoder:
+    name_or_path: google/siglip-large-patch16-384
+    freeze: true
+    feature_dir: data/processed/features/siglip_large_384_2fps_1plus3x3
+    frame_size: 384
+    frame_token_cls: true
+    frame_token_pooled: [3, 3]
+    frame_num_tokens: 10
+  projector:
+    type: mlp
+    input_size: 1024
+    hidden_size: 1024
+    output_size: 2048
+  audio_encoder:
+    enabled: false
+
+data:
+  train_manifest: data/manifests/full_video_subset_r8_overfit/train.jsonl
+  val_manifest: data/manifests/full_video_subset_r8_overfit/val.jsonl
+  test_manifest: data/manifests/full_video_subset_r8_overfit/val.jsonl
+  feature_dir: data/processed/features/siglip_large_384_2fps_1plus3x3
+  streaming_window:
+    mode: full_video_stream
+    max_num_frames: 160
+    stride: null
+    fps: 2.0
+  task:
+    type: open_vocab_emotion_token_prediction
+    target: emotion
+    use_reasoning: false
+    label_scheme: open_vocabulary
+
+training:
+  batch_size: 1
+  gradient_accumulation_steps: 4
+  learning_rate: 1.0e-4
+  num_epochs: 20
+  max_steps: -1
+  precision: bf16
+  optim: adamw_torch
+  gradient_checkpointing: true
+  save_steps: 40
+  save_total_limit: 3
+  logging_steps: 5
+  report_to: wandb
+  resume_from_checkpoint: false
+  stream_loss_weight: 1.0
+
+tracking:
+  wandb_project: streaming-emotion-llm
+  wandb_mode: offline
+
+inference:
+  max_new_tokens: 8
+  frame_token_interval_threshold: 0.85
+  trigger_policy: original_interval_threshold

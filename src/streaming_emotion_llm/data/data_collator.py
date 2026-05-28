@@ -31,6 +31,20 @@ def data_collator(batch: list[tuple], *, tokenizer: PreTrainedTokenizer, **kwarg
             else:
                 stop = len(item_input_ids)
             item_labels[start - 1 : stop - 1] = item_input_ids[start:stop]
+            interval_id = getattr(tokenizer, "frame_token_interval_id", None)
+            interval_text = getattr(tokenizer, "frame_token_interval", "")
+            v_placeholder_id = getattr(tokenizer, "v_placeholder_id", None)
+            if interval_id is not None and interval_text and v_placeholder_id is not None:
+                interval_text_ids = tokenizer(
+                    interval_text,
+                    add_special_tokens=False,
+                ).input_ids
+                if len(interval_text_ids) == 1:
+                    stream_interval_mask = (
+                        (item_input_ids == v_placeholder_id)
+                        & (item_labels == interval_text_ids[0])
+                    )
+                    item_labels[stream_interval_mask] = interval_id
             item_labels[item_labels >= len(tokenizer) - 1] = tokenizer.eos_token_id
 
     tokenized["labels"] = labels

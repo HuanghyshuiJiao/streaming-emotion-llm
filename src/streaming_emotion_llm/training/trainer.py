@@ -66,6 +66,11 @@ def train(config: dict) -> None:
     max_num_frames = int(streaming_window.get("max_num_frames", 120))
     context_mode = streaming_window.get("mode", "event_stream_window")
     fps = float(streaming_window.get("fps", 2.0))
+    stream_dataset_kwargs = {
+        "timestamp_alignment": streaming_window.get("timestamp_alignment", "ceil"),
+        "first_stream_learn": streaming_window.get("first_stream_learn", "skip_first"),
+        "trailing_stream": streaming_window.get("trailing_stream", "drop"),
+    }
     train_dataset = StreamingEmotionDataset(
         data_config["train_manifest"],
         tokenizer,
@@ -74,6 +79,7 @@ def train(config: dict) -> None:
         max_num_frames=max_num_frames,
         fps=fps,
         context_mode=context_mode,
+        **stream_dataset_kwargs,
     )
     eval_dataset = StreamingEmotionDataset(
         data_config["val_manifest"],
@@ -83,38 +89,56 @@ def train(config: dict) -> None:
         max_num_frames=max_num_frames,
         fps=fps,
         context_mode=context_mode,
+        **stream_dataset_kwargs,
     )
 
     output_dir = Path(experiment_config.get("output_dir", "outputs/emotion_token_baseline"))
-    report_to = training_config.get("report_to", "none")
+    report_to = training_config.get("report_to", "wandb")
     if report_to == "wandb" or (isinstance(report_to, list) and "wandb" in report_to):
-        if tracking_config.get("wandb_project"):
-            os.environ.setdefault("WANDB_PROJECT", str(tracking_config["wandb_project"]))
+        os.environ.setdefault(
+            "WANDB_PROJECT",
+            str(tracking_config.get("wandb_project", "streaming-emotion-llm")),
+        )
         if tracking_config.get("wandb_entity"):
             os.environ.setdefault("WANDB_ENTITY", str(tracking_config["wandb_entity"]))
-        if tracking_config.get("wandb_mode"):
-            os.environ.setdefault("WANDB_MODE", str(tracking_config["wandb_mode"]))
+        os.environ.setdefault("WANDB_MODE", str(tracking_config.get("wandb_mode", "offline")))
+        if tracking_config.get("wandb_run_id"):
+            os.environ.setdefault("WANDB_RUN_ID", str(tracking_config["wandb_run_id"]))
+        if tracking_config.get("wandb_resume"):
+            os.environ.setdefault("WANDB_RESUME", str(tracking_config["wandb_resume"]))
 
-    args = TrainingArguments(
-        output_dir=str(output_dir),
-        run_name=training_config.get("run_name", experiment_config.get("name")),
-        per_device_train_batch_size=int(training_config.get("batch_size", 1)),
-        per_device_eval_batch_size=1,
-        gradient_accumulation_steps=int(training_config.get("gradient_accumulation_steps", 8)),
-        learning_rate=float(training_config.get("learning_rate", 2.0e-4)),
-        num_train_epochs=float(training_config.get("num_epochs", 3)),
-        max_steps=int(training_config.get("max_steps", -1)),
-        optim=training_config.get("optim", "adamw_torch"),
-        bf16=training_config.get("precision", "bf16") == "bf16",
-        fp16=training_config.get("precision") in {"fp16", "float16"},
-        save_steps=int(training_config.get("save_steps", 1000)),
-        save_total_limit=training_config.get("save_total_limit"),
-        logging_steps=int(training_config.get("logging_steps", 20)),
-        logging_first_step=True,
-        gradient_checkpointing=bool(training_config.get("gradient_checkpointing", False)),
-        remove_unused_columns=False,
-        report_to=report_to,
-    )
+    training_args_kwargs = {
+        "output_dir": str(output_dir),
+        "run_name": training_config.get("run_name", experiment_config.get("name")),
+        "per_device_train_batch_size": int(training_config.get("batch_size", 1)),
+        "per_device_eval_batch_size": int(training_config.get("eval_batch_size", 1)),
+        "gradient_accumulation_steps": int(
+            training_config.get("gradient_accumulation_steps", 8)
+        ),
+        "learning_rate": float(training_config.get("learning_rate", 2.0e-4)),
+        "num_train_epochs": float(training_config.get("num_epochs", 3)),
+        "max_steps": int(training_config.get("max_steps", -1)),
+        "optim": training_config.get("optim", "adamw_torch"),
+        "lr_scheduler_type": training_config.get("lr_scheduler_type", "linear"),
+        "warmup_ratio": float(training_config.get("warmup_ratio", 0.0)),
+        "warmup_steps": int(training_config.get("warmup_steps", 0)),
+        "bf16": training_config.get("precision", "bf16") == "bf16",
+        "fp16": training_config.get("precision") in {"fp16", "float16"},
+        "tf32": bool(training_config.get("tf32", False)),
+        "save_steps": int(training_config.get("save_steps", 1000)),
+        "save_total_limit": training_config.get("save_total_limit"),
+        "logging_steps": int(training_config.get("logging_steps", 20)),
+        "logging_first_step": True,
+        "gradient_checkpointing": bool(training_config.get("gradient_checkpointing", False)),
+        "dataloader_num_workers": int(training_config.get("dataloader_num_workers", 0)),
+        "remove_unused_columns": False,
+        "report_to": report_to,
+    }
+    if training_config.get("gradient_checkpointing_kwargs") is not None:
+        training_args_kwargs["gradient_checkpointing_kwargs"] = training_config[
+            "gradient_checkpointing_kwargs"
+        ]
+    args = TrainingArguments(**training_args_kwargs)
 
     trainer = Trainer(
         model=model,

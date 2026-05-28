@@ -155,6 +155,9 @@ def build_live_tokenizer_and_update_config(
         }
     )
     tokenizer.chat_template = chat_template(get_stream_placeholder_jinja2(model_config))
+    tokenizer.frame_token_interval = model_config.frame_token_interval
+    tokenizer.frame_token_interval_id = frame_token_interval_id
+    tokenizer.v_placeholder_id = v_placeholder_id
     tokenizer.get_learn_ranges = partial(
         get_learn_ranges,
         template_offsets=chat_template_offsets(tokenizer),
