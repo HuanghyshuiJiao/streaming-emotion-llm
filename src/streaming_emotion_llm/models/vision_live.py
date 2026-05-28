@@ -91,7 +91,10 @@ def build_live_vision(config: dict) -> tuple[nn.Module, callable]:
     if not name_or_path:
         raise ValueError("Vision config must define `name_or_path` or `vision_pretrained`.")
 
-    model = AutoModel.from_pretrained(name_or_path).vision_model
+    model = AutoModel.from_pretrained(
+        name_or_path,
+        local_files_only=bool(config.get("local_files_only", True)),
+    ).vision_model
     frame_token_cls = config.get("frame_token_cls", True)
     frame_token_pooled = config.get("frame_token_pooled")
 
