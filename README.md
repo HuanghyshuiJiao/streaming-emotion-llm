@@ -6,10 +6,6 @@ adapts an online VideoLLM/LIVE-style training objective to full-video emotion
 streams: each video frame is represented by visual tokens, and the language
 model learns when to emit an emotion label versus an interval token.
 
-The repository is intended for reproducible experimentation and continued
-development. Raw data, extracted features, checkpoints, W&B runs, and local
-reports are intentionally excluded from Git.
-
 ## Key Features
 
 - Full-video streaming dataset construction for temporally aligned emotion
