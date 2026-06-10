@@ -59,6 +59,7 @@ def data_collator(batch: list[tuple], *, tokenizer: PreTrainedTokenizer, **kwarg
 
     tokenized["labels"] = labels
     tokenized.pop("offset_mapping")
+    tokenized = dict(tokenized)
     tokenized["frames"] = collate_frames(batch_frames)
     tokenized["sample_idxs"] = torch.tensor(batch_sample_idx)
     if batch_eval_kwargs[0]:
