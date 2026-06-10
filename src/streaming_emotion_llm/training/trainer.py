@@ -32,6 +32,7 @@ def train(config: dict) -> None:
 
     llm_config = model_config.get("llm", {})
     vision_config = model_config.get("vision_encoder", {})
+    face_config = model_config.get("face_encoder", {})
     streaming_window = data_config.get("streaming_window", {})
     projector_config = model_config.get("projector", {})
     local_files_only = bool(llm_config.get("local_files_only", True))
@@ -40,10 +41,18 @@ def train(config: dict) -> None:
         os.environ.setdefault("HF_HUB_OFFLINE", "1")
         os.environ.setdefault("TRANSFORMERS_OFFLINE", "1")
 
+    face_enabled = bool(face_config.get("enabled", False))
+    frame_num_tokens = int(vision_config.get("frame_num_tokens", 10))
+    if face_enabled:
+        frame_num_tokens += int(face_config.get("frame_num_tokens", 1))
+    finetune_modules = ["connector"]
+    if face_enabled:
+        finetune_modules.append("face_connector")
+
     model, tokenizer = build_live_llama(
         is_training=bool(llm_config.get("use_lora", True)),
         llm_pretrained=llm_config["name_or_path"],
-        finetune_modules=["connector"],
+        finetune_modules=finetune_modules,
         lora_modules=llm_config.get(
             "lora_modules",
             "model.*(q_proj|k_proj|v_proj|o_proj|gate_proj|up_proj|down_proj)|lm_head$",
@@ -57,10 +66,12 @@ def train(config: dict) -> None:
         frame_resolution=int(vision_config.get("frame_size", 384)),
         frame_token_cls=bool(vision_config.get("frame_token_cls", True)),
         frame_token_pooled=vision_config.get("frame_token_pooled", [3, 3]),
-        frame_num_tokens=int(vision_config.get("frame_num_tokens", 10)),
+        frame_num_tokens=frame_num_tokens,
         frame_token_interval=",",
         stream_loss_weight=float(training_config.get("stream_loss_weight", 1.0)),
         vision_hidden_size=int(projector_config.get("input_size", 1024)),
+        face_hidden_size=int(face_config.get("feature_dim", 1024)),
+        face_num_tokens=int(face_config.get("frame_num_tokens", 1)) if face_enabled else 0,
     )
 
     max_num_frames = int(streaming_window.get("max_num_frames", 120))

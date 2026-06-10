@@ -15,6 +15,12 @@ from streaming_emotion_llm.models.vision_live import build_live_vision
 logger = logging.get_logger(__name__)
 
 
+def _slice_frames(frames: torch.Tensor | dict[str, torch.Tensor], start, stop):
+    if isinstance(frames, dict):
+        return {key: value[start:stop] for key, value in frames.items()}
+    return frames[start:stop]
+
+
 class LiveMixin(AutoModelForCausalLM):
     def set_vision_inside(self):
         logger.warning_once(
@@ -32,7 +38,50 @@ class LiveMixin(AutoModelForCausalLM):
         del self.vision_encoder
         del self.vision_encode
 
-    def visual_embed(self, frames: torch.Tensor):
+    def visual_embed(self, frames: torch.Tensor | dict[str, torch.Tensor]):
+        if isinstance(frames, dict):
+            vision_frames = frames.get("vision")
+            face_frames = frames.get("face")
+            if vision_frames is None:
+                raise ValueError("Multimodal frame dict must include a `vision` tensor.")
+            if vision_frames.ndim == 4:
+                if face_frames is not None:
+                    raise ValueError(
+                        "Online raw-frame FaceXFormer encoding is not implemented yet. "
+                        "Use precomputed SigLIP and face features for 11-token inference."
+                    )
+                return self.visual_embed(vision_frames)
+            vision_frames = vision_frames.to(dtype=self.dtype)
+            expected_face_tokens = int(getattr(self.config, "face_num_tokens", 0))
+            expected_vision_tokens = int(self.config.frame_num_tokens) - expected_face_tokens
+            if vision_frames.shape[1] != expected_vision_tokens:
+                raise ValueError(
+                    f"Expected {expected_vision_tokens} vision tokens, got {vision_frames.shape[1]}."
+                )
+            vision_embeds = self.connector(vision_frames)
+
+            if expected_face_tokens <= 0:
+                return vision_embeds.view(-1, vision_embeds.shape[-1])
+            if face_frames is None:
+                raise ValueError("Face features are required when face_num_tokens > 0.")
+            if not hasattr(self, "face_connector"):
+                raise ValueError("Received face features, but the model has no face connector.")
+            face_frames = face_frames.to(dtype=self.dtype)
+            if face_frames.ndim == 2:
+                face_frames = face_frames[:, None]
+            if face_frames.shape[1] != expected_face_tokens:
+                raise ValueError(
+                    f"Expected {expected_face_tokens} face tokens, got {face_frames.shape[1]}."
+                )
+            face_embeds = self.face_connector(face_frames)
+            frame_embeds = torch.cat([vision_embeds, face_embeds], dim=1)
+            if frame_embeds.shape[1] != self.config.frame_num_tokens:
+                raise ValueError(
+                    f"Expected {self.config.frame_num_tokens} total frame tokens, "
+                    f"got {frame_embeds.shape[1]}."
+                )
+            return frame_embeds.view(-1, frame_embeds.shape[-1])
+
         if hasattr(self, "vision_encode"):
             frames = self.vision_encode(self.vision_encoder, frames)
             frames = frames.to(self.dtype)
@@ -85,9 +134,7 @@ class LiveMixin(AutoModelForCausalLM):
         frame_token_interval_id = (
             self.config.frame_token_interval_id if use_interval else self.config.eos_token_id
         )
-        frame_num_tokens = self.config.frame_token_cls
-        if self.config.frame_token_pooled:
-            frame_num_tokens += self.config.frame_token_pooled[0] * self.config.frame_token_pooled[1]
+        frame_num_tokens = int(self.config.frame_num_tokens)
 
         past_num_frames = 0
         lm_ppls, frame_diffs, fluencies, lm_correctness = [], [], [], []
@@ -149,12 +196,14 @@ class LiveMixin(AutoModelForCausalLM):
                         if to_append_num_frames == 0:
                             frame_diff = zero
                         else:
-                            to_append_frames = frames[
+                            to_append_frames = _slice_frames(
+                                frames,
                                 past_num_frames
-                                + turn_num_frames : past_num_frames
+                                + turn_num_frames,
+                                past_num_frames
                                 + turn_num_frames
-                                + to_append_num_frames
-                            ]
+                                + to_append_num_frames,
+                            )
                             frame_placeholder = [v_placeholder_id] * frame_num_tokens
                             if use_interval:
                                 frame_placeholder = [frame_token_interval_id] + frame_placeholder

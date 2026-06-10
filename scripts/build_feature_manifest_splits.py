@@ -12,6 +12,7 @@ def parse_args() -> argparse.Namespace:
         "--feature-dir",
         default="data/processed/features/siglip_large_384_2fps_1plus3x3",
     )
+    parser.add_argument("--face-feature-dir", default=None)
     parser.add_argument("--output-dir", default="data/manifests/full_features")
     parser.add_argument("--splits", nargs="+", default=["train", "val", "test"])
     return parser.parse_args()
@@ -29,7 +30,11 @@ def write_jsonl(path: Path, records: list[dict]) -> None:
             handle.write(json.dumps(record, ensure_ascii=False) + "\n")
 
 
-def add_feature_paths(records: list[dict], feature_dir: Path) -> tuple[list[dict], list[dict]]:
+def add_feature_paths(
+    records: list[dict],
+    feature_dir: Path,
+    face_feature_dir: Path | None = None,
+) -> tuple[list[dict], list[dict]]:
     available = []
     missing = []
     for record in records:
@@ -41,6 +46,13 @@ def add_feature_paths(records: list[dict], feature_dir: Path) -> tuple[list[dict
         item["feature_path"] = feature_path.as_posix()
         item["feature_dir"] = feature_dir.as_posix()
         item["feature_mode"] = "full_video"
+        if face_feature_dir is not None:
+            face_feature_path = face_feature_dir / f"{record['sample_id']}.pt"
+            if not face_feature_path.exists():
+                missing.append(record)
+                continue
+            item["face_feature_path"] = face_feature_path.as_posix()
+            item["face_feature_dir"] = face_feature_dir.as_posix()
         available.append(item)
     return available, missing
 
@@ -49,13 +61,14 @@ def main() -> None:
     args = parse_args()
     manifest_dir = Path(args.manifest_dir)
     feature_dir = Path(args.feature_dir)
+    face_feature_dir = Path(args.face_feature_dir) if args.face_feature_dir else None
     output_dir = Path(args.output_dir)
 
     all_available = []
     all_missing = []
     for split in args.splits:
         records = read_jsonl(manifest_dir / f"{split}.jsonl")
-        available, missing = add_feature_paths(records, feature_dir)
+        available, missing = add_feature_paths(records, feature_dir, face_feature_dir)
         write_jsonl(output_dir / f"{split}.jsonl", available)
         all_available.extend(available)
         all_missing.extend({"split": split, **record} for record in missing)
@@ -67,6 +80,8 @@ def main() -> None:
     print(f"available_with_features={len(all_available)}")
     print(f"missing_features={len(all_missing)}")
     print(f"feature_dir={feature_dir}")
+    if face_feature_dir is not None:
+        print(f"face_feature_dir={face_feature_dir}")
 
 
 if __name__ == "__main__":

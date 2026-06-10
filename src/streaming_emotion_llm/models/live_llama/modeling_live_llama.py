@@ -21,6 +21,11 @@ class LiveLlamaForCausalLM(LlamaForCausalLM, LiveMixin):
             vision_hidden_size=config.vision_hidden_size,
             llm_hidden_size=config.hidden_size,
         )
+        if config.face_num_tokens > 0:
+            self.face_connector = build_llm_connector(
+                vision_hidden_size=config.face_hidden_size,
+                llm_hidden_size=config.hidden_size,
+            )
 
     def forward(
         self,

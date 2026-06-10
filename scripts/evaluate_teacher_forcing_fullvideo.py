@@ -12,6 +12,21 @@ from streaming_emotion_llm.inference.generation import load_streaming_model, nor
 from streaming_emotion_llm.prompts.templates import EMOTION_TOKEN_PROMPT
 
 
+def move_batch_to_device(batch: dict, device: str) -> dict:
+    moved = {}
+    for key, value in batch.items():
+        if key == "evaluation_kwargs":
+            continue
+        if isinstance(value, dict):
+            moved[key] = {
+                sub_key: sub_value.to(device) if hasattr(sub_value, "to") else sub_value
+                for sub_key, sub_value in value.items()
+            }
+        else:
+            moved[key] = value.to(device) if hasattr(value, "to") else value
+    return moved
+
+
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Teacher-forcing eval for full-video streams.")
     parser.add_argument("--config", required=True)
@@ -98,11 +113,7 @@ def main() -> None:
         for index in tqdm(range(total), desc=f"teacher-forcing {args.split}"):
             text, frames, learn_ranges, _, meta = dataset[index]
             batch = collator([(text, frames, learn_ranges, index, meta)])
-            batch = {
-                key: value.to(device) if hasattr(value, "to") else value
-                for key, value in batch.items()
-                if key != "evaluation_kwargs"
-            }
+            batch = move_batch_to_device(batch, device)
             outputs = model(**batch, return_dict=True, use_cache=False)
             labels = batch["labels"]
             input_ids = batch["input_ids"]

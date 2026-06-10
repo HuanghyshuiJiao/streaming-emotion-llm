@@ -16,6 +16,33 @@ def get_base_model(model):
     return getattr(getattr(model, "base_model", model), "model", model)
 
 
+def move_frames(
+    frames: torch.Tensor | dict[str, torch.Tensor],
+    *,
+    device: str,
+    dtype: torch.dtype,
+) -> torch.Tensor | dict[str, torch.Tensor]:
+    if isinstance(frames, dict):
+        return {key: value.to(device=device, dtype=dtype) for key, value in frames.items()}
+    return frames.to(device=device, dtype=dtype)
+
+
+def slice_frames(
+    frames: torch.Tensor | dict[str, torch.Tensor],
+    stop: int | None = None,
+    index: int | None = None,
+) -> torch.Tensor | dict[str, torch.Tensor]:
+    if index is not None:
+        if isinstance(frames, dict):
+            return {key: value[index] for key, value in frames.items()}
+        return frames[index]
+    if stop is None:
+        return frames
+    if isinstance(frames, dict):
+        return {key: value[:stop] for key, value in frames.items()}
+    return frames[:stop]
+
+
 def normalize_emotion(text: str) -> str:
     text = text.strip().lower()
     text = text.splitlines()[0] if text else text
@@ -28,7 +55,12 @@ def load_streaming_model(config: dict, checkpoint: str | Path):
     model_config = config["model"]
     llm_config = model_config["llm"]
     vision_config = model_config["vision_encoder"]
+    face_config = model_config.get("face_encoder", {})
     projector_config = model_config.get("projector", {})
+    face_enabled = bool(face_config.get("enabled", False))
+    frame_num_tokens = int(vision_config.get("frame_num_tokens", 10))
+    if face_enabled:
+        frame_num_tokens += int(face_config.get("frame_num_tokens", 1))
 
     model, tokenizer = build_live_llama(
         is_training=False,
@@ -41,10 +73,12 @@ def load_streaming_model(config: dict, checkpoint: str | Path):
         frame_resolution=int(vision_config.get("frame_size", 384)),
         frame_token_cls=bool(vision_config.get("frame_token_cls", True)),
         frame_token_pooled=vision_config.get("frame_token_pooled", [3, 3]),
-        frame_num_tokens=int(vision_config.get("frame_num_tokens", 10)),
+        frame_num_tokens=frame_num_tokens,
         frame_token_interval=",",
         stream_loss_weight=1.0,
         vision_hidden_size=int(projector_config.get("input_size", 1024)),
+        face_hidden_size=int(face_config.get("feature_dim", 1024)),
+        face_num_tokens=int(face_config.get("frame_num_tokens", 1)) if face_enabled else 0,
     )
     device = "cuda" if torch.cuda.is_available() else "cpu"
     model = model.to(device).eval()
@@ -81,7 +115,7 @@ def greedy_generate_ids(
     model,
     tokenizer,
     text: str,
-    frames: torch.Tensor,
+    frames: torch.Tensor | dict[str, torch.Tensor],
     device: str,
     max_new_tokens: int,
 ) -> torch.Tensor:
@@ -91,7 +125,7 @@ def greedy_generate_ids(
         return_tensors="pt",
     ).to(device)
     dtype = torch.bfloat16 if device == "cuda" else torch.float32
-    frames = frames.to(device=device, dtype=dtype)
+    frames = move_frames(frames, device=device, dtype=dtype)
     base_model = get_base_model(model)
 
     outputs = base_model(
@@ -143,7 +177,7 @@ def stream_autoregressive_features(
     *,
     model,
     tokenizer,
-    frames: torch.Tensor,
+    frames: torch.Tensor | dict[str, torch.Tensor],
     device: str,
     system_prompt: str = EMOTION_TOKEN_PROMPT,
     fps: float = 2.0,
@@ -160,9 +194,9 @@ def stream_autoregressive_features(
 
     base_model = get_base_model(model)
     dtype = torch.bfloat16 if device == "cuda" else torch.float32
-    frames = frames.to(device=device, dtype=dtype)
+    frames = move_frames(frames, device=device, dtype=dtype)
     if max_frames is not None and max_frames > 0:
-        frames = frames[:max_frames]
+        frames = slice_frames(frames, stop=max_frames)
 
     hidden_size = base_model.config.hidden_size
     frame_num_tokens = int(base_model.config.frame_num_tokens)
@@ -203,7 +237,9 @@ def stream_autoregressive_features(
     last_ids = torch.empty((1, 0), dtype=torch.long, device=device)
     predictions = []
 
-    for frame_index, frame in enumerate(frames):
+    num_frames = next(iter(frames.values())).shape[0] if isinstance(frames, dict) else frames.shape[0]
+    for frame_index in range(num_frames):
+        frame = slice_frames(frames, index=frame_index)
         if past_key_values is None:
             prefix_ids = start_ids
         elif last_ids.numel() == 1 and int(last_ids.item()) == eos_token_id:
@@ -213,7 +249,9 @@ def stream_autoregressive_features(
 
         frame_embeds = base_model.joint_embed(
             input_ids=frame_placeholder_ids,
-            frames=frame.unsqueeze(0),
+            frames={key: value.unsqueeze(0) for key, value in frame.items()}
+            if isinstance(frame, dict)
+            else frame.unsqueeze(0),
         ).view(1, -1, hidden_size)
         inputs_embeds = torch.cat(
             [

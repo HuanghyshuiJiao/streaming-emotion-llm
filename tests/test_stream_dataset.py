@@ -147,3 +147,40 @@ def test_full_video_stream_builds_one_sample_per_video_and_drops_trailing_frames
     assert text.count("Assistant:") == 2
     assert "\nAssistant: calm" in text
     assert "\nAssistant: amused" in text
+
+
+def test_full_video_stream_loads_optional_face_features(tmp_path):
+    feature_path = tmp_path / "features.pt"
+    face_feature_path = tmp_path / "face_features.pt"
+    features = torch.arange(100 * 10 * 2).reshape(100, 10, 2)
+    face_features = torch.arange(100 * 2).reshape(100, 2)
+    torch.save(features, feature_path)
+    torch.save(face_features, face_feature_path)
+    manifest_path = tmp_path / "manifest.jsonl"
+    record = {
+        "sample_id": "vid_test",
+        "feature_path": str(feature_path),
+        "face_feature_path": str(face_feature_path),
+        "events": [
+            {"timestamp": 4.5, "emotion": "calm"},
+            {"timestamp": 30.0, "emotion": "amused"},
+        ],
+    }
+    manifest_path.write_text(json.dumps(record) + "\n", encoding="utf-8")
+
+    dataset = StreamingEmotionDataset(
+        manifest_path,
+        DummyTokenizer(),
+        max_num_frames=0,
+        fps=2.0,
+        context_mode="full_video_stream",
+        timestamp_alignment="ceil",
+        trailing_stream="drop",
+    )
+
+    _, frames, _, _, meta = dataset[0]
+
+    assert meta["frame_stop"] == 61
+    assert set(frames) == {"vision", "face"}
+    assert torch.equal(frames["vision"], features[:61])
+    assert torch.equal(frames["face"], face_features[:61, None])

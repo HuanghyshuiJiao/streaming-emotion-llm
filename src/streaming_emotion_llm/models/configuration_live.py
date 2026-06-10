@@ -21,6 +21,8 @@ class LiveConfigMixin(PretrainedConfig):
         frame_token_interval_id: int | None = None,
         stream_loss_weight: float = 1.0,
         vision_hidden_size: int = 1024,
+        face_hidden_size: int = 1024,
+        face_num_tokens: int = 0,
         **kwargs,
     ):
         super().__init__(**kwargs)
@@ -30,6 +32,8 @@ class LiveConfigMixin(PretrainedConfig):
         self.frame_token_pooled = frame_token_pooled
         self.frame_num_tokens = frame_num_tokens
         self.vision_hidden_size = vision_hidden_size
+        self.face_hidden_size = face_hidden_size
+        self.face_num_tokens = face_num_tokens
         self.stream_loss_weight = stream_loss_weight
         self.v_placeholder = v_placeholder
         self.frame_token_interval = frame_token_interval

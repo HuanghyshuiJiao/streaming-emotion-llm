@@ -13,6 +13,7 @@ def parse_args() -> argparse.Namespace:
         "--feature-dir",
         default="data/processed/features/siglip_large_384_2fps_1plus3x3",
     )
+    parser.add_argument("--face-feature-dir", default=None)
     parser.add_argument("--output-dir", default="data/manifests/feature_subset")
     parser.add_argument("--limit", type=int, default=400)
     parser.add_argument("--seed", type=int, default=42)
@@ -35,6 +36,7 @@ def main() -> None:
     args = parse_args()
     input_path = Path(args.input)
     feature_dir = Path(args.feature_dir)
+    face_feature_dir = Path(args.face_feature_dir) if args.face_feature_dir else None
     output_dir = Path(args.output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
 
@@ -47,6 +49,12 @@ def main() -> None:
             item["feature_path"] = feature_path.as_posix()
             item["feature_dir"] = feature_dir.as_posix()
             item["feature_mode"] = "full_video"
+            if face_feature_dir is not None:
+                face_feature_path = face_feature_dir / f"{record['sample_id']}.pt"
+                if not face_feature_path.exists():
+                    continue
+                item["face_feature_path"] = face_feature_path.as_posix()
+                item["face_feature_dir"] = face_feature_dir.as_posix()
             available.append(item)
 
     random.Random(args.seed).shuffle(available)
@@ -67,6 +75,8 @@ def main() -> None:
         print(f"{name}={len(split_records)}")
     print(f"available_with_features={len(available)}")
     print(f"feature_dir={feature_dir}")
+    if face_feature_dir is not None:
+        print(f"face_feature_dir={face_feature_dir}")
 
 
 if __name__ == "__main__":

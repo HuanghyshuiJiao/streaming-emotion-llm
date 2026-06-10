@@ -7,6 +7,16 @@ from transformers import PreTrainedTokenizer
 from transformers.trainer_pt_utils import LabelSmoother
 
 
+def collate_frames(batch_frames):
+    first = batch_frames[0]
+    if isinstance(first, dict):
+        return {
+            key: torch.cat([frames[key] for frames in batch_frames])
+            for key in first
+        }
+    return torch.cat(list(batch_frames))
+
+
 def data_collator(batch: list[tuple], *, tokenizer: PreTrainedTokenizer, **kwargs) -> dict:
     batch_text, batch_frames, batch_learn_ranges, batch_sample_idx, batch_eval_kwargs = zip(*batch)
     tokenized = tokenizer(
@@ -49,7 +59,7 @@ def data_collator(batch: list[tuple], *, tokenizer: PreTrainedTokenizer, **kwarg
 
     tokenized["labels"] = labels
     tokenized.pop("offset_mapping")
-    tokenized["frames"] = torch.cat(list(batch_frames))
+    tokenized["frames"] = collate_frames(batch_frames)
     tokenized["sample_idxs"] = torch.tensor(batch_sample_idx)
     if batch_eval_kwargs[0]:
         tokenized["evaluation_kwargs"] = batch_eval_kwargs[0]

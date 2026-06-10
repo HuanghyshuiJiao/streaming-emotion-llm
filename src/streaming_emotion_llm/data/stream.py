@@ -18,6 +18,32 @@ def _load_feature_tensor(path: Path) -> torch.Tensor:
         return torch.load(path, map_location="cpu")
 
 
+def _num_frames(frames: torch.Tensor | dict[str, torch.Tensor]) -> int:
+    if isinstance(frames, dict):
+        return int(frames["vision"].shape[0])
+    return int(frames.shape[0])
+
+
+def _slice_frames(
+    frames: torch.Tensor | dict[str, torch.Tensor],
+    start: int | None = None,
+    stop: int | None = None,
+):
+    if isinstance(frames, dict):
+        return {key: value[start:stop] for key, value in frames.items()}
+    return frames[start:stop]
+
+
+def _index_select_frames(
+    frames: torch.Tensor | dict[str, torch.Tensor],
+    dim: int,
+    index: torch.Tensor,
+):
+    if isinstance(frames, dict):
+        return {key: value.index_select(dim, index) for key, value in frames.items()}
+    return frames.index_select(dim, index)
+
+
 class StreamMixIn(Dataset):
     """Build original-style stream samples from pre-extracted frame features."""
 
@@ -44,34 +70,51 @@ class StreamMixIn(Dataset):
 
     def load_frames(
         self,
-        feature_path: str | Path,
+        feature_path: str | Path | dict,
         *,
         timestamp: float | None = None,
         start_frame: int | None = None,
         stop_frame: int | None = None,
-    ) -> torch.Tensor:
-        feature_path = Path(feature_path)
-        frames = _load_feature_tensor(feature_path)
+    ) -> torch.Tensor | dict[str, torch.Tensor]:
+        frames = self.load_feature_record(feature_path)
 
         if start_frame is not None or stop_frame is not None:
             start = 0 if start_frame is None else max(int(start_frame), 0)
-            stop = frames.shape[0] if stop_frame is None else min(int(stop_frame), frames.shape[0])
-            return frames[start:stop]
+            stop = _num_frames(frames) if stop_frame is None else min(int(stop_frame), _num_frames(frames))
+            return _slice_frames(frames, start, stop)
 
         if self.context_mode == "prefix_until_event":
             if timestamp is None:
                 raise ValueError("prefix_until_event requires an event timestamp.")
-            stop = min(max(int(float(timestamp) * self.fps) + 1, 1), frames.shape[0])
+            stop = min(max(int(float(timestamp) * self.fps) + 1, 1), _num_frames(frames))
             start = max(stop - self.max_num_frames, 0) if self.max_num_frames else 0
-            return frames[start:stop]
+            return _slice_frames(frames, start, stop)
 
         if self.context_mode != "full_video":
             raise ValueError(f"Unsupported context mode: {self.context_mode}")
 
-        if self.max_num_frames and frames.shape[0] > self.max_num_frames:
-            idx = torch.linspace(0, frames.shape[0] - 1, self.max_num_frames).long()
-            frames = frames.index_select(0, idx)
+        if self.max_num_frames and _num_frames(frames) > self.max_num_frames:
+            idx = torch.linspace(0, _num_frames(frames) - 1, self.max_num_frames).long()
+            frames = _index_select_frames(frames, 0, idx)
         return frames
+
+    def load_feature_record(self, record_or_path: str | Path | dict):
+        if not isinstance(record_or_path, dict):
+            return _load_feature_tensor(Path(record_or_path))
+
+        vision_frames = _load_feature_tensor(Path(record_or_path["feature_path"]))
+        face_feature_path = record_or_path.get("face_feature_path")
+        if not face_feature_path:
+            return vision_frames
+
+        face_frames = _load_feature_tensor(Path(face_feature_path))
+        if face_frames.ndim == 2:
+            face_frames = face_frames[:, None]
+        if face_frames.shape[0] != vision_frames.shape[0]:
+            stop = min(face_frames.shape[0], vision_frames.shape[0])
+            vision_frames = vision_frames[:stop]
+            face_frames = face_frames[:stop]
+        return {"vision": vision_frames, "face": face_frames}
 
     def build_text_and_ranges(
         self,
@@ -82,7 +125,7 @@ class StreamMixIn(Dataset):
     ):
         conversation = [
             {"role": "system", "content": self.system_prompt},
-            {"role": "stream", "num_frames": int(frames.shape[0]), "learn": False},
+            {"role": "stream", "num_frames": _num_frames(frames), "learn": False},
         ]
         if not add_generation_prompt:
             conversation.append({"role": "assistant", "content": emotion, "learn": True})
@@ -196,10 +239,10 @@ class StreamingEmotionDataset(StreamMixIn):
         raise ValueError(f"Unsupported first stream learn policy: {self.first_stream_learn}")
 
     def _build_event_stream_window(self, sample: dict):
-        all_frames = _load_feature_tensor(Path(sample["feature_path"]))
-        target_stop = self._frame_stop_for_timestamp(sample["timestamp"], all_frames.shape[0])
+        all_frames = self.load_feature_record(sample)
+        target_stop = self._frame_stop_for_timestamp(sample["timestamp"], _num_frames(all_frames))
         start = max(target_stop - self.max_num_frames, 0) if self.max_num_frames else 0
-        frames = all_frames[start:target_stop]
+        frames = _slice_frames(all_frames, start, target_stop)
 
         conversation = []
         cursor = start
@@ -210,7 +253,7 @@ class StreamingEmotionDataset(StreamMixIn):
             emotion = str(event.get("emotion", "")).strip()
             if not emotion:
                 continue
-            event_stop = self._frame_stop_for_timestamp(event["timestamp"], all_frames.shape[0])
+            event_stop = self._frame_stop_for_timestamp(event["timestamp"], _num_frames(all_frames))
             if event_stop <= start:
                 continue
             event_stop = min(event_stop, target_stop)
@@ -243,9 +286,9 @@ class StreamingEmotionDataset(StreamMixIn):
         return text, frames, learn_ranges, start, target_stop, included_events
 
     def _build_full_video_stream(self, record: dict):
-        all_frames = _load_feature_tensor(Path(record["feature_path"]))
-        if self.max_num_frames and all_frames.shape[0] > self.max_num_frames:
-            frames = all_frames[: self.max_num_frames]
+        all_frames = self.load_feature_record(record)
+        if self.max_num_frames and _num_frames(all_frames) > self.max_num_frames:
+            frames = _slice_frames(all_frames, None, self.max_num_frames)
         else:
             frames = all_frames
 
@@ -257,7 +300,7 @@ class StreamingEmotionDataset(StreamMixIn):
         raw_events = sorted(raw_events, key=lambda event: float(event.get("timestamp", 0.0)))
         events_by_stop: dict[int, str] = {}
         for event in raw_events:
-            event_stop = self._frame_stop_for_timestamp(event["timestamp"], frames.shape[0])
+            event_stop = self._frame_stop_for_timestamp(event["timestamp"], _num_frames(frames))
             events_by_stop[event_stop] = str(event.get("emotion", "")).strip()
         events = sorted(events_by_stop.items())
 
@@ -287,14 +330,14 @@ class StreamingEmotionDataset(StreamMixIn):
                 )
             included_events += 1
 
-        if frames.shape[0] > cursor:
+        if _num_frames(frames) > cursor:
             if self.trailing_stream == "drop":
-                frames = frames[:cursor]
+                frames = _slice_frames(frames, None, cursor)
             elif self.trailing_stream in {"learn", "unlearn"}:
                 conversation.append(
                     {
                         "role": "stream",
-                        "num_frames": frames.shape[0] - cursor,
+                        "num_frames": _num_frames(frames) - cursor,
                         "learn": self.trailing_stream == "learn",
                     }
                 )
@@ -320,7 +363,7 @@ class StreamingEmotionDataset(StreamMixIn):
                 "timestamp": None,
                 "emotion": None,
                 "frame_start": 0,
-                "frame_stop": int(frames.shape[0]),
+                "frame_stop": _num_frames(frames),
                 "included_events": included_events,
             }
             return text, frames, learn_ranges, index, evaluation_kwargs

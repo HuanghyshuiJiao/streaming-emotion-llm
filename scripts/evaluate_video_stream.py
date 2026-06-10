@@ -38,6 +38,27 @@ def load_feature_tensor(path: str | Path) -> torch.Tensor:
         return torch.load(path, map_location="cpu")
 
 
+def load_record_frames(record: dict) -> torch.Tensor | dict[str, torch.Tensor]:
+    vision_frames = load_feature_tensor(record["feature_path"])
+    face_feature_path = record.get("face_feature_path")
+    if not face_feature_path:
+        return vision_frames
+    face_frames = load_feature_tensor(face_feature_path)
+    if face_frames.ndim == 2:
+        face_frames = face_frames[:, None]
+    if face_frames.shape[0] != vision_frames.shape[0]:
+        stop = min(face_frames.shape[0], vision_frames.shape[0])
+        vision_frames = vision_frames[:stop]
+        face_frames = face_frames[:stop]
+    return {"vision": vision_frames, "face": face_frames}
+
+
+def num_frames(frames: torch.Tensor | dict[str, torch.Tensor]) -> int:
+    if isinstance(frames, dict):
+        return int(frames["vision"].shape[0])
+    return int(frames.shape[0])
+
+
 def gold_events(record: dict) -> list[dict]:
     return [
         {
@@ -72,7 +93,7 @@ def main() -> None:
     with torch.no_grad(), output_path.open("w", encoding="utf-8") as handle:
         for index in tqdm(range(total), desc=f"video-stream {args.split}"):
             record = manifest[index]
-            frames = load_feature_tensor(record["feature_path"])
+            frames = load_record_frames(record)
             predictions = stream_autoregressive_features(
                 model=model,
                 tokenizer=tokenizer,
@@ -87,7 +108,7 @@ def main() -> None:
             row = {
                 "index": index,
                 "sample_id": record.get("sample_id", ""),
-                "frame_count": int(frames.shape[0]),
+                "frame_count": num_frames(frames),
                 "gold_events": gold,
                 "predictions": predictions,
             }
