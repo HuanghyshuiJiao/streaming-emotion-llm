@@ -1,0 +1,92 @@
+experiment:
+  name: exp4_r32_full_facexformer_mtcnn_earlystop
+  seed: 42
+  output_dir: outputs/event_stream_original_interval_r32_fullvideo_tinyllama_siglip_facexformer_mtcnn_earlystop_b2
+
+model:
+  llm:
+    name_or_path: TinyLlama/TinyLlama-1.1B-Chat-v1.0
+    use_lora: true
+    local_files_only: true
+    lora_r: 32
+    lora_alpha: 64
+    lora_modules: "model.*(q_proj|k_proj|v_proj|o_proj|gate_proj|up_proj|down_proj)|lm_head$"
+    attn_implementation: sdpa
+  vision_encoder:
+    name_or_path: google/siglip-large-patch16-384
+    freeze: true
+    feature_dir: data/processed/features/siglip_large_384_2fps_1plus3x3
+    frame_size: 384
+    frame_token_cls: true
+    frame_token_pooled: [3, 3]
+    frame_num_tokens: 10
+  face_encoder:
+    enabled: true
+    name_or_path: FaceXFormer
+    freeze: true
+    feature_dir: data/processed/features/facexformer_2fps_mtcnn_face_token_raw256
+    feature_dim: 256
+    frame_num_tokens: 1
+  projector:
+    type: mlp
+    input_size: 1024
+    hidden_size: 1024
+    output_size: 2048
+  audio_encoder:
+    enabled: false
+
+data:
+  train_manifest: data/manifests/full_features_facexformer_mtcnn/train.jsonl
+  val_manifest: data/manifests/full_features_facexformer_mtcnn/val.jsonl
+  test_manifest: data/manifests/full_features_facexformer_mtcnn/test.jsonl
+  feature_dir: data/processed/features/siglip_large_384_2fps_1plus3x3
+  face_feature_dir: data/processed/features/facexformer_2fps_mtcnn_face_token_raw256
+  streaming_window:
+    mode: full_video_stream
+    max_num_frames: 1200
+    stride: null
+    fps: 2.0
+    timestamp_alignment: ceil
+    first_stream_learn: skip_first
+    trailing_stream: drop
+  task:
+    type: open_vocab_emotion_token_prediction
+    target: emotion
+    use_reasoning: false
+    label_scheme: open_vocabulary
+
+training:
+  batch_size: 2
+  eval_batch_size: 1
+  gradient_accumulation_steps: 8
+  learning_rate: 1.0e-4
+  num_epochs: 30
+  max_steps: -1
+  precision: bf16
+  optim: adamw_torch
+  gradient_checkpointing: true
+  eval_strategy: steps
+  eval_steps: 75
+  save_strategy: steps
+  save_steps: 75
+  save_total_limit: 10
+  load_best_model_at_end: true
+  metric_for_best_model: eval_loss
+  greater_is_better: false
+  early_stopping_patience: 3
+  early_stopping_threshold: 0.0
+  logging_steps: 10
+  report_to: wandb
+  resume_from_checkpoint: false
+  stream_loss_weight: 1.0
+
+tracking:
+  wandb_project: streaming-emotion-llm
+  wandb_mode: offline
+  wandb_run_id: event-stream-r32-fullvideo-facexformer-mtcnn-earlystop
+  wandb_resume: allow
+
+inference:
+  max_new_tokens: 8
+  frame_token_interval_threshold: 0.85
+  trigger_policy: original_interval_threshold

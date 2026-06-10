@@ -1,10 +1,11 @@
 """Training entrypoint for the current emotion-token baseline."""
 
+import inspect
 import os
 from pathlib import Path
 
 import torch
-from transformers import Trainer, TrainingArguments, set_seed
+from transformers import EarlyStoppingCallback, Trainer, TrainingArguments, set_seed
 from transformers.trainer_utils import get_last_checkpoint
 
 from streaming_emotion_llm.data.data_collator import get_data_collator
@@ -19,6 +20,34 @@ def _torch_dtype(precision: str):
     if precision in {"fp16", "float16"}:
         return torch.float16
     return "auto"
+
+
+def _training_args_supports(name: str) -> bool:
+    return name in inspect.signature(TrainingArguments.__init__).parameters
+
+
+def _set_eval_strategy(training_args_kwargs: dict, training_config: dict) -> None:
+    eval_strategy = training_config.get(
+        "eval_strategy", training_config.get("evaluation_strategy")
+    )
+    if eval_strategy is None:
+        return
+    strategy_name = "eval_strategy"
+    if not _training_args_supports(strategy_name):
+        strategy_name = "evaluation_strategy"
+    training_args_kwargs[strategy_name] = eval_strategy
+
+
+def _set_optional_training_arg(
+    training_args_kwargs: dict,
+    training_config: dict,
+    name: str,
+    cast=None,
+) -> None:
+    if name not in training_config or not _training_args_supports(name):
+        return
+    value = training_config[name]
+    training_args_kwargs[name] = cast(value) if cast else value
 
 
 def train(config: dict) -> None:
@@ -136,6 +165,10 @@ def train(config: dict) -> None:
         "bf16": training_config.get("precision", "bf16") == "bf16",
         "fp16": training_config.get("precision") in {"fp16", "float16"},
         "tf32": bool(training_config.get("tf32", False)),
+        "eval_steps": int(
+            training_config.get("eval_steps", training_config.get("save_steps", 1000))
+        ),
+        "save_strategy": training_config.get("save_strategy", "steps"),
         "save_steps": int(training_config.get("save_steps", 1000)),
         "save_total_limit": training_config.get("save_total_limit"),
         "logging_steps": int(training_config.get("logging_steps", 20)),
@@ -145,11 +178,33 @@ def train(config: dict) -> None:
         "remove_unused_columns": False,
         "report_to": report_to,
     }
+    _set_eval_strategy(training_args_kwargs, training_config)
+    _set_optional_training_arg(
+        training_args_kwargs, training_config, "load_best_model_at_end", bool
+    )
+    _set_optional_training_arg(
+        training_args_kwargs, training_config, "metric_for_best_model", str
+    )
+    _set_optional_training_arg(
+        training_args_kwargs, training_config, "greater_is_better", bool
+    )
+
     if training_config.get("gradient_checkpointing_kwargs") is not None:
         training_args_kwargs["gradient_checkpointing_kwargs"] = training_config[
             "gradient_checkpointing_kwargs"
         ]
     args = TrainingArguments(**training_args_kwargs)
+
+    callbacks = []
+    if training_config.get("early_stopping_patience") is not None:
+        callbacks.append(
+            EarlyStoppingCallback(
+                early_stopping_patience=int(training_config["early_stopping_patience"]),
+                early_stopping_threshold=float(
+                    training_config.get("early_stopping_threshold", 0.0)
+                ),
+            )
+        )
 
     trainer = Trainer(
         model=model,
@@ -158,6 +213,7 @@ def train(config: dict) -> None:
         eval_dataset=eval_dataset,
         data_collator=get_data_collator(tokenizer=tokenizer),
         tokenizer=tokenizer,
+        callbacks=callbacks,
     )
     resume_from_checkpoint = training_config.get("resume_from_checkpoint")
     if resume_from_checkpoint == "auto" or (
