@@ -60,14 +60,28 @@ class LiveLlamaForCausalLM(LlamaForCausalLM, LiveMixin):
         loss = None
         if labels is not None:
             logits = outputs[0]
-            v_mask = input_ids.flatten(0, 1) == self.config.v_placeholder_id
-            weight = v_mask * self.config.stream_loss_weight + ~v_mask
-            loss = nn.functional.cross_entropy(
+            flat_input_ids = input_ids.flatten(0, 1)
+            flat_labels = labels.flatten()
+            valid_mask = flat_labels >= 0
+            stream_mask = flat_input_ids == self.config.v_placeholder_id
+            weight = torch.ones_like(flat_labels, dtype=logits.dtype)
+            weight = torch.where(
+                stream_mask,
+                weight * float(self.config.stream_loss_weight),
+                weight,
+            )
+            weight = torch.where(
+                valid_mask & ~stream_mask,
+                weight * float(getattr(self.config, "label_loss_weight", 1.0)),
+                weight,
+            )
+            token_loss = nn.functional.cross_entropy(
                 logits.flatten(0, 1),
-                labels.flatten(),
+                flat_labels,
                 reduction="none",
-            ) * weight
-            loss = loss.sum() / (labels >= 0).sum()
+            )
+            weighted_loss = token_loss * weight
+            loss = weighted_loss.sum() / weight[valid_mask].sum().clamp_min(1.0)
 
         if not return_dict:
             return (loss,) + outputs[1:] if loss is not None else outputs

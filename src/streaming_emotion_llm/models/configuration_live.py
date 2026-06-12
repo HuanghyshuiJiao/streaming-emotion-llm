@@ -20,6 +20,7 @@ class LiveConfigMixin(PretrainedConfig):
         v_placeholder_id: int | None = None,
         frame_token_interval_id: int | None = None,
         stream_loss_weight: float = 1.0,
+        label_loss_weight: float = 1.0,
         vision_hidden_size: int = 1024,
         face_hidden_size: int = 1024,
         face_num_tokens: int = 0,
@@ -35,6 +36,7 @@ class LiveConfigMixin(PretrainedConfig):
         self.face_hidden_size = face_hidden_size
         self.face_num_tokens = face_num_tokens
         self.stream_loss_weight = stream_loss_weight
+        self.label_loss_weight = label_loss_weight
         self.v_placeholder = v_placeholder
         self.frame_token_interval = frame_token_interval
         self.v_placeholder_id = v_placeholder_id

@@ -101,6 +101,7 @@ def train(config: dict) -> None:
         vision_hidden_size=int(projector_config.get("input_size", 1024)),
         face_hidden_size=int(face_config.get("feature_dim", 1024)),
         face_num_tokens=int(face_config.get("frame_num_tokens", 1)) if face_enabled else 0,
+        label_loss_weight=float(training_config.get("label_loss_weight", 1.0)),
     )
 
     max_num_frames = int(streaming_window.get("max_num_frames", 120))
