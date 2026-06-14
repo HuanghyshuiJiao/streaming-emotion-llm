@@ -10,12 +10,30 @@ import transformers
 
 from streaming_emotion_llm.config import load_config
 from streaming_emotion_llm.inference.generation import get_base_model, normalize_emotion
-from streaming_emotion_llm.models.live_llama import build_live_llama
+from streaming_emotion_llm.models.live_builder import build_live_model
 from streaming_emotion_llm.models.modeling_live import fast_greedy_generate
 from streaming_emotion_llm.prompts.templates import EMOTION_TOKEN_PROMPT
 
 
 logger = transformers.logging.get_logger("original-online")
+
+
+def _slice_frames(frames, index):
+    if isinstance(frames, dict):
+        return {key: value[index] for key, value in frames.items()}
+    return frames[index]
+
+
+def _move_frames(frames, *, device):
+    if isinstance(frames, dict):
+        return {key: value.to(device, non_blocking=True) for key, value in frames.items()}
+    return frames.to(device, non_blocking=True)
+
+
+def _num_frames(frames) -> int:
+    if isinstance(frames, dict):
+        return int(frames["vision"].shape[0])
+    return int(frames.shape[0])
 
 
 class LiveInfer:
@@ -31,10 +49,16 @@ class LiveInfer:
         model_config = config["model"]
         llm_config = model_config["llm"]
         vision_config = model_config["vision_encoder"]
+        face_config = model_config.get("face_encoder", {})
         projector_config = model_config.get("projector", {})
+        face_enabled = bool(face_config.get("enabled", False))
+        frame_num_tokens = int(vision_config.get("frame_num_tokens", 10))
+        if face_enabled:
+            frame_num_tokens += int(face_config.get("frame_num_tokens", 1))
 
-        self.model, self.tokenizer = build_live_llama(
+        self.model, self.tokenizer = build_live_model(
             is_training=False,
+            model_family=llm_config.get("family", llm_config.get("model_family", "llama")),
             llm_pretrained=llm_config["name_or_path"],
             resume_from_checkpoint=checkpoint,
             attn_implementation=llm_config.get("attn_implementation", "sdpa"),
@@ -44,18 +68,18 @@ class LiveInfer:
             frame_resolution=int(vision_config.get("frame_size", 384)),
             frame_token_cls=bool(vision_config.get("frame_token_cls", True)),
             frame_token_pooled=vision_config.get("frame_token_pooled", [3, 3]),
-            frame_num_tokens=int(vision_config.get("frame_num_tokens", 10)),
+            frame_num_tokens=frame_num_tokens,
             frame_token_interval=",",
-            stream_loss_weight=1.0,
+            stream_loss_weight=float(config.get("training", {}).get("stream_loss_weight", 1.0)),
+            label_loss_weight=float(config.get("training", {}).get("label_loss_weight", 1.0)),
             vision_hidden_size=int(projector_config.get("input_size", 1024)),
-            set_vision_inside=True,
+            face_hidden_size=int(face_config.get("feature_dim", 1024)),
+            face_num_tokens=int(face_config.get("frame_num_tokens", 1)) if face_enabled else 0,
+            set_vision_inside=False,
         )
         self.device = "cuda" if torch.cuda.is_available() else "cpu"
         self.model = self.model.to(self.device).eval()
         self.base_model = get_base_model(self.model)
-        if not hasattr(self.base_model, "vision_encode"):
-            self.base_model.set_vision_inside()
-            self.base_model.vision_encoder.to(self.device)
 
         self.hidden_size = self.base_model.config.hidden_size
         self.frame_fps = float(config["data"].get("streaming_window", {}).get("fps", 2.0))
@@ -191,7 +215,8 @@ class LiveInfer:
         frame_idx = int(video_time * self.frame_fps)
         if frame_idx > self.last_frame_idx:
             ranger = range(self.last_frame_idx + 1, frame_idx + 1)
-            frames_embeds = self.base_model.visual_embed(self.video_tensor[ranger]).split(
+            frames = _slice_frames(self.video_tensor, ranger)
+            frames_embeds = self.base_model.visual_embed(frames).split(
                 self.frame_num_tokens
             )
             self.frame_embeds_queue.extend(
@@ -202,13 +227,30 @@ class LiveInfer:
 
     def load_video(self, video_path):
         try:
-            self.video_tensor = torch.load(video_path, map_location="cpu", weights_only=True)
+            video_tensor = torch.load(video_path, map_location="cpu", weights_only=True)
         except TypeError:
-            self.video_tensor = torch.load(video_path, map_location="cpu")
-        self.video_tensor = self.video_tensor.to(self.device, non_blocking=True)
-        self.num_video_frames = self.video_tensor.size(0)
-        self.video_duration = self.video_tensor.size(0) / self.frame_fps
-        logger.warning(f"{video_path} -> {self.video_tensor.shape}, {self.frame_fps} FPS")
+            video_tensor = torch.load(video_path, map_location="cpu")
+        is_raw_frame_tensor = (
+            isinstance(video_tensor, torch.Tensor)
+            and video_tensor.ndim == 4
+        )
+        if is_raw_frame_tensor and int(getattr(self.base_model.config, "face_num_tokens", 0)) > 0:
+            raise ValueError(
+                "Raw-frame online FaceXFormer encoding is not implemented. "
+                "Use a precomputed feature dict with `vision` and `face` tensors."
+            )
+        if is_raw_frame_tensor and not hasattr(self.base_model, "vision_encode"):
+            self.base_model.set_vision_inside()
+            self.base_model.vision_encoder.to(self.device)
+        self.video_tensor = _move_frames(video_tensor, device=self.device)
+        self.num_video_frames = _num_frames(self.video_tensor)
+        self.video_duration = self.num_video_frames / self.frame_fps
+        shape = (
+            {key: tuple(value.shape) for key, value in self.video_tensor.items()}
+            if isinstance(self.video_tensor, dict)
+            else tuple(self.video_tensor.shape)
+        )
+        logger.warning(f"{video_path} -> {shape}, {self.frame_fps} FPS")
 
     def __call__(self):
         while not self.frame_embeds_queue:
