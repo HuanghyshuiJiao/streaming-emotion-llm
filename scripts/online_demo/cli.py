@@ -32,6 +32,10 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--threshold", type=float, default=0.725)
     parser.add_argument("--max-frames", type=int, default=100)
     parser.add_argument("--max-new-tokens", type=int, default=8)
+    parser.add_argument("--face-model-path", default="reference/facexformer/ckpts/model.pt")
+    parser.add_argument("--face-crop-mode", choices=["center", "mtcnn"], default="mtcnn")
+    parser.add_argument("--face-size", type=int, default=224)
+    parser.add_argument("--face-margin", type=float, default=50.0)
     parser.add_argument("--output", default=None)
     parser.add_argument(
         "--fps-window",
@@ -291,5 +295,9 @@ if __name__ == "__main__":
         checkpoint=parsed_args.checkpoint,
         frame_token_interval_threshold=parsed_args.threshold,
         max_new_tokens=parsed_args.max_new_tokens,
+        face_model_path=parsed_args.face_model_path,
+        face_crop_mode=parsed_args.face_crop_mode,
+        face_size=parsed_args.face_size,
+        face_margin=parsed_args.face_margin,
     )
     main(liveinfer, parsed_args)

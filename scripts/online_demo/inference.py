@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import collections
+import sys
 from pathlib import Path
 
 import torch
@@ -16,6 +17,9 @@ from streaming_emotion_llm.prompts.templates import EMOTION_TOKEN_PROMPT
 
 
 logger = transformers.logging.get_logger("original-online")
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+if str(PROJECT_ROOT) not in sys.path:
+    sys.path.insert(0, str(PROJECT_ROOT))
 
 
 def _slice_frames(frames, index):
@@ -36,6 +40,10 @@ def _num_frames(frames) -> int:
     return int(frames.shape[0])
 
 
+def _safe_raw_frames_for_pil(frames: torch.Tensor) -> torch.Tensor:
+    return frames.detach().float().clamp(0, 255).to(torch.uint8).cpu()
+
+
 class LiveInfer:
     def __init__(
         self,
@@ -44,6 +52,10 @@ class LiveInfer:
         checkpoint: str,
         frame_token_interval_threshold: float = 0.725,
         max_new_tokens: int = 8,
+        face_model_path: str = "reference/facexformer/ckpts/model.pt",
+        face_crop_mode: str = "mtcnn",
+        face_size: int = 224,
+        face_margin: float = 50.0,
     ) -> None:
         config = load_config(config_path).values
         model_config = config["model"]
@@ -80,6 +92,13 @@ class LiveInfer:
         self.device = "cuda" if torch.cuda.is_available() else "cpu"
         self.model = self.model.to(self.device).eval()
         self.base_model = get_base_model(self.model)
+        self.face_enabled = int(getattr(self.base_model.config, "face_num_tokens", 0)) > 0
+        self.face_model_path = face_model_path
+        self.face_crop_mode = face_crop_mode
+        self.face_size = face_size
+        self.face_margin = face_margin
+        self.face_model = None
+        self.face_mtcnn = None
 
         self.hidden_size = self.base_model.config.hidden_size
         self.frame_fps = float(config["data"].get("streaming_window", {}).get("fps", 2.0))
@@ -119,6 +138,59 @@ class LiveInfer:
         ).to(self.device)
 
         self.reset()
+
+    def _load_online_face_encoder(self):
+        if self.face_model is not None:
+            return
+        if self.face_crop_mode not in {"center", "mtcnn"}:
+            raise ValueError(f"Unsupported face crop mode: {self.face_crop_mode}")
+        from scripts.precompute_facexformer_features import (
+            MTCNN,
+            extract_face_tokens,
+            load_model,
+        )
+
+        self._extract_face_tokens = extract_face_tokens
+        self.face_model = load_model(Path(self.face_model_path), self.device)
+        if self.face_crop_mode == "mtcnn":
+            if MTCNN is None:
+                raise ImportError(
+                    "facenet-pytorch is required for online MTCNN FaceXFormer crop."
+                )
+            self.face_mtcnn = MTCNN(keep_all=True, device=self.device)
+
+    def _encode_raw_frames(self, frames: torch.Tensor) -> dict[str, torch.Tensor] | torch.Tensor:
+        if not hasattr(self.base_model, "vision_encode"):
+            self.base_model.set_vision_inside()
+            self.base_model.vision_encoder.to(self.device)
+        vision_features = self.base_model.vision_encode(self.base_model.vision_encoder, frames)
+        if not self.face_enabled:
+            return vision_features
+
+        self._load_online_face_encoder()
+        from scripts.precompute_facexformer_features import (
+            prepare_faces,
+            prepare_faces_mtcnn,
+        )
+
+        face_source = _safe_raw_frames_for_pil(frames)
+        if self.face_crop_mode == "mtcnn":
+            face_batch, _ = prepare_faces_mtcnn(
+                face_source,
+                self.face_size,
+                mtcnn=self.face_mtcnn,
+                margin_percentage=self.face_margin,
+            )
+        else:
+            face_batch = prepare_faces(face_source, self.face_size)
+        face_features = self._extract_face_tokens(
+            self.face_model,
+            face_batch,
+            self.device,
+        ).to(device=self.device, dtype=vision_features.dtype)
+        if face_features.ndim == 2:
+            face_features = face_features[:, None]
+        return {"vision": vision_features, "face": face_features}
 
     def _call_for_response(self, video_time, query):
         if query is not None:
@@ -216,6 +288,8 @@ class LiveInfer:
         if frame_idx > self.last_frame_idx:
             ranger = range(self.last_frame_idx + 1, frame_idx + 1)
             frames = _slice_frames(self.video_tensor, ranger)
+            if self.is_raw_frame_tensor:
+                frames = self._encode_raw_frames(frames)
             frames_embeds = self.base_model.visual_embed(frames).split(
                 self.frame_num_tokens
             )
@@ -234,15 +308,13 @@ class LiveInfer:
             isinstance(video_tensor, torch.Tensor)
             and video_tensor.ndim == 4
         )
-        if is_raw_frame_tensor and int(getattr(self.base_model.config, "face_num_tokens", 0)) > 0:
-            raise ValueError(
-                "Raw-frame online FaceXFormer encoding is not implemented. "
-                "Use a precomputed feature dict with `vision` and `face` tensors."
-            )
         if is_raw_frame_tensor and not hasattr(self.base_model, "vision_encode"):
             self.base_model.set_vision_inside()
             self.base_model.vision_encoder.to(self.device)
+        if is_raw_frame_tensor and self.face_enabled:
+            self._load_online_face_encoder()
         self.video_tensor = _move_frames(video_tensor, device=self.device)
+        self.is_raw_frame_tensor = is_raw_frame_tensor
         self.num_video_frames = _num_frames(self.video_tensor)
         self.video_duration = self.num_video_frames / self.frame_fps
         shape = (
