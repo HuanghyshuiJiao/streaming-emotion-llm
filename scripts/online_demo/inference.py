@@ -159,6 +159,7 @@ class LiveInfer:
                 )
             self.face_mtcnn = MTCNN(keep_all=True, device=self.device)
 
+    @torch.inference_mode()
     def _encode_raw_frames(self, frames: torch.Tensor) -> dict[str, torch.Tensor] | torch.Tensor:
         if not hasattr(self.base_model, "vision_encode"):
             self.base_model.set_vision_inside()
@@ -192,6 +193,7 @@ class LiveInfer:
             face_features = face_features[:, None]
         return {"vision": vision_features, "face": face_features}
 
+    @torch.inference_mode()
     def _call_for_response(self, video_time, query):
         if query is not None:
             self.last_ids = self.tokenizer.apply_chat_template(
@@ -221,6 +223,7 @@ class LiveInfer:
         response = f"(Video Time = {video_time}s) Assistant:{prediction}"
         return query, response
 
+    @torch.inference_mode()
     def _call_for_streaming(self):
         while self.frame_embeds_queue:
             if self.query_queue and self.frame_embeds_queue[0][0] > self.query_queue[0][0]:
@@ -283,6 +286,7 @@ class LiveInfer:
             "Please wait until previous frames have been processed)"
         )
 
+    @torch.inference_mode()
     def input_video_stream(self, video_time):
         frame_idx = int(video_time * self.frame_fps)
         if frame_idx > self.last_frame_idx:
