@@ -10,7 +10,7 @@ from transformers.trainer_utils import get_last_checkpoint
 
 from streaming_emotion_llm.data.data_collator import get_data_collator
 from streaming_emotion_llm.data.stream import StreamingEmotionDataset
-from streaming_emotion_llm.models.live_llama import build_live_llama
+from streaming_emotion_llm.models.live_builder import build_live_model
 from streaming_emotion_llm.prompts.templates import EMOTION_TOKEN_PROMPT
 
 
@@ -78,8 +78,9 @@ def train(config: dict) -> None:
     if face_enabled:
         finetune_modules.append("face_connector")
 
-    model, tokenizer = build_live_llama(
+    model, tokenizer = build_live_model(
         is_training=bool(llm_config.get("use_lora", True)),
+        model_family=llm_config.get("family", llm_config.get("model_family", "llama")),
         llm_pretrained=llm_config["name_or_path"],
         finetune_modules=finetune_modules,
         lora_modules=llm_config.get(

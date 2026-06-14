@@ -7,8 +7,8 @@ from pathlib import Path
 import torch
 
 from streaming_emotion_llm.data.stream import StreamingEmotionDataset
+from streaming_emotion_llm.models.live_builder import build_live_model
 from streaming_emotion_llm.models.modeling_live import fast_greedy_generate
-from streaming_emotion_llm.models.live_llama import build_live_llama
 from streaming_emotion_llm.prompts.templates import EMOTION_TOKEN_PROMPT
 
 
@@ -62,8 +62,9 @@ def load_streaming_model(config: dict, checkpoint: str | Path):
     if face_enabled:
         frame_num_tokens += int(face_config.get("frame_num_tokens", 1))
 
-    model, tokenizer = build_live_llama(
+    model, tokenizer = build_live_model(
         is_training=False,
+        model_family=llm_config.get("family", llm_config.get("model_family", "llama")),
         llm_pretrained=llm_config["name_or_path"],
         resume_from_checkpoint=str(checkpoint),
         attn_implementation=llm_config.get("attn_implementation", "sdpa"),
@@ -75,7 +76,8 @@ def load_streaming_model(config: dict, checkpoint: str | Path):
         frame_token_pooled=vision_config.get("frame_token_pooled", [3, 3]),
         frame_num_tokens=frame_num_tokens,
         frame_token_interval=",",
-        stream_loss_weight=1.0,
+        stream_loss_weight=float(config.get("training", {}).get("stream_loss_weight", 1.0)),
+        label_loss_weight=float(config.get("training", {}).get("label_loss_weight", 1.0)),
         vision_hidden_size=int(projector_config.get("input_size", 1024)),
         face_hidden_size=int(face_config.get("feature_dim", 1024)),
         face_num_tokens=int(face_config.get("frame_num_tokens", 1)) if face_enabled else 0,

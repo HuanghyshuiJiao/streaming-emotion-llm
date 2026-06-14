@@ -47,7 +47,7 @@ def get_stream_learn_ranges(num_frames: int, model_config: LiveConfigMixin) -> t
 def chat_template(stream_placeholder_jinja2: str) -> str:
     template = (
         "{% if messages[0]['role'] == 'system' %}"
-        "{{ bos_token + messages[0]['content'] + '\n' }}"
+        "{{ (bos_token or '') + messages[0]['content'] + '\n' }}"
         "{% set messages = messages[1:] %}"
         "{% endif %}"
         "{% for message in messages %}"
@@ -76,7 +76,7 @@ def chat_template(stream_placeholder_jinja2: str) -> str:
 
 def chat_template_transition(tokenizer):
     return {
-        (None, "system"): tokenizer.bos_token,
+        (None, "system"): tokenizer.bos_token or "",
         ("system", "user"): "\n\nUser: ",
         ("system", "stream"): "\n\n[",
         ("user", "assistant"): "\nAssistant: ",
